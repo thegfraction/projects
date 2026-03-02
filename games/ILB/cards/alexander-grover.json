@@ -1,0 +1,218 @@
+{
+  "name": "Grover Alexander",
+  "nickname": "Old Pete",
+  "year": 1915,
+  "team": "Philadelphia Phillies",
+  "era": "1910s",
+  "ilb_team": "Muggers 1910",
+  "position": "SP",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'1\"",
+  "weight": "185 lbs",
+  "born": "February 26, 1887 — Elba, NE",
+  "died": "November 4, 1950 — St. Paul, NE (age 63)",
+  "hof": "Inducted 1938. T-3rd all-time wins (373). NL record 90 career shutouts.",
+
+  "real_stats": {
+    "season": 1915,
+    "games": 49,
+    "wins": 31,
+    "losses": 10,
+    "era": "1.22",
+    "innings": "376.1",
+    "strikeouts": 241,
+    "walks": null,
+    "complete_games": 36,
+    "shutouts": 12,
+    "whip": "0.84",
+    "war": 10.8,
+    "career_wins": 373,
+    "career_losses": 208,
+    "career_era": "2.56",
+    "career_strikeouts": 2198,
+    "career_cg": null,
+    "career_shutouts": 90,
+    "career_ip": "5,190",
+    "career_war": null,
+    "no_hitters": null,
+    "perfect_games": null,
+    "triple_crowns": 3
+  },
+
+  "ilb_stats": {
+    "ovr": 12,
+    "stf": 5,
+    "ctl": 4,
+    "sta": 5,
+    "def": 1,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "stf": "1.22 ERA in 1915 — the best in the NL, not topped until Gibson 1968 by WAR. 16 shutouts in 1916 (ALL-TIME MLB RECORD — still stands). 2,198 career K. 'A live fastball that moved in on right-handers and a sharp-breaking curve.' Wide variety of breaking pitches with deceptive speed. Johnny Evers: 'He made me want to throw my bat away.' Won 190 games for the Phillies despite Baker Bowl's 272-foot RF. Rating of 5.",
+    "ctl": "Extraordinary control. In 4 complete-game doubleheaders (1916-17), faced 139 batters and walked TWO. Career ability to limit walks was elite. 'Using pinpoint control' was his signature. Led NL in WHIP multiple years. 953 career BB in 5,190 IP — roughly 1.65 BB/9. Rating of 4.",
+    "sta": "376.1 IP (1915). 389 IP (1916). 388 IP (1917). THREE CONSECUTIVE SEASONS over 370 IP. 31 CG as a rookie. Won both games of a doubleheader TWICE. 5,190 career IP. 'His arm never seemed to tire.' The most durable pitcher on the Muggers. Rating of 5.",
+    "def": ".985 career fielding %. 25 errors in 1,633 chances. Good fielding pitcher for his era. Standard, not exceptional. Rating of 1.",
+    "clu": "1915 WS: Won G1 (only Phillies win), but team lost in 5. 1926 WS: The LEGEND — age 39, won G2 and G6 (CG), then entered G7 in relief with bases loaded, 2 outs, 7th inning. Struck out Tony Lazzeri. Pitched 2 more scoreless innings. Cardinals won. The most famous relief appearance in WS history. 'Less than a foot made the difference between a hero and a bum.' Rating of 2."
+  },
+
+  "personality": {
+    "leadership_style": "THE STOIC WORKHORSE. Alexander led by ENDURANCE, not charisma. He pitched 370+ innings three consecutive years. He won both games of doubleheaders. He shut out opponents 90 times. The team followed because the man on the mound NEVER STOPPED. No speeches, no motivation — just the ball, the mound, and the next pitch. Ruth: 'Just to see old Pete out there on the mound, with that cocky little undersized cap pulled down over one ear, chewing away at his tobacco and pitching baseballs as easy as pitching hay.'",
+    "temperament": "QUIET, STOIC, DAMAGED. Before the war: quiet Nebraskan, hardworking, reserved. After the war: epileptic, deaf in one ear, alcoholic, haunted. The war broke something essential. The seizures could come at any time. The drinking was self-medication. The silence deepened. He pitched through all of it — 27 wins in 1920, the Lazzeri strikeout in 1926, the Cardinals championship. The talent survived the damage. The man did not.",
+    "work_ethic": "SUPERHUMAN DURABILITY. 376 IP. 389 IP. 388 IP. Three consecutive seasons. 31 complete games as a rookie. Won both games of a doubleheader twice. Dug postholes for the phone company before baseball — the body was built for labor. The arm was a machine. When the machine broke (WWI), he rebuilt it through sheer will, posting a Triple Crown season at age 33 (1920).",
+    "lifestyle": "TRAGIC. Named after a president. Dug postholes. Played baseball. Went to war. Lost his hearing. Gained epilepsy. Drank. Won 373 games. Won the 1926 World Series at 39. Lost his wife (divorced, remarried, divorced again). Toured with the House of David team. Lived in a boardinghouse in St. Paul, Nebraska. Was elected to the Hall of Fame: 'The Hall of Fame is fine, but it doesn't mean bread and butter.' Found dead at 63. Buried in Elmwood Cemetery. Ronald Reagan played him in a movie. The movie was better than the ending.",
+    "era_adaptability": null,
+    "clubhouse_impact": "THE ANCHOR. +3 pitching rotation stability (you can't shake a rotation that has Alexander pitching 370+ IP). +2 opponent intimidation ('He made me want to throw my bat away'). -1 reliability (epileptic seizures, alcohol). -1 emotional availability (the silence of a damaged man). The team depended on his arm. They could not reach his mind.",
+    "dark_side": "The war. Everything changed in France. Before 1918: the greatest pitcher in the NL, healthy, dominant, winning 30+ games per season. After 1918: epileptic, deaf in one ear, alcoholic, struggling with what we now call PTSD. He still won. He won the 1920 Triple Crown. He struck out Lazzeri in the 1926 World Series. He won 373 games. But the price was his life. He died alone in a boardinghouse at 63. The Hall of Fame plaque and the boardinghouse room: both are the real Alexander."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Alexander the Great",
+      "desc": "373 wins. 90 shutouts. 3× Triple Crown. The NL's Walter Johnson. +5 historical significance. The greatest right-handed pitcher in NL history alongside Mathewson."
+    },
+    {
+      "tag": "Sixteen Shutouts",
+      "desc": "16 shutouts in 1916 — the ALL-TIME MLB RECORD. Still stands. Will likely never be broken. +4 dominance. Almost half his 33 wins were shutouts."
+    },
+    {
+      "tag": "Three Thirties",
+      "desc": "31-33-30 wins from 1915-17. Three consecutive 30-win seasons. Only modern NL pitcher to do it. +4 durability. +3 dominance."
+    },
+    {
+      "tag": "The Shell",
+      "desc": "WWI: 342nd Field Artillery, France. Shell exploded nearby. Lost hearing in one ear. Developed epilepsy. Shell shock. -2 health. -1 hearing. The war that broke the greatest pitcher alive."
+    },
+    {
+      "tag": "The Bottle",
+      "desc": "Alcoholism began before the war, worsened catastrophically after. Self-medication for epilepsy and PTSD. -2 reliability. -1 per season cumulative. The disease that followed the disease."
+    },
+    {
+      "tag": "The Lazzeri Strikeout",
+      "desc": "1926 WS G7: age 39, entered in relief, bases loaded, 2 outs, 7th inning. Struck out Lazzeri. Pitched 2 more scoreless innings. Cardinals won. +4 CLU. +3 legend. 'Less than a foot between a hero and a bum.'"
+    },
+    {
+      "tag": "Baker Bowl Defiance",
+      "desc": "190 wins with a 2.18 ERA at Baker Bowl (272-ft RF). The most park-defiant pitcher in history. Where Cravath exploited Baker Bowl, Alexander conquered it."
+    },
+    {
+      "tag": "The Boardinghouse",
+      "desc": "After baseball: boardinghouse in St. Paul, Nebraska. Found dead at 63. 'The Hall of Fame is fine, but it doesn't mean bread and butter.' +2 tragedy. The ending the arm couldn't prevent."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Baker Bowl / Philadelphia",
+      "affinity": "HIGH",
+      "note": "1911-17. 190-91, 2.18 ERA. 61 SHO. Defied the 272-ft RF wall."
+    },
+    {
+      "location": "The Mound",
+      "affinity": "SUPREME",
+      "note": "5,190 career IP. 370+ IP three consecutive years. His office."
+    },
+    {
+      "location": "France (WWI)",
+      "affinity": "DEVASTATING",
+      "note": "342nd Field Artillery. Shell shock. Epilepsy. Hearing loss. Everything changed."
+    },
+    {
+      "location": "Yankee Stadium (1926 WS)",
+      "affinity": "LEGENDARY",
+      "note": "G7 relief: Lazzeri strikeout. 2 scoreless innings. World champions."
+    },
+    {
+      "location": "St. Paul, NE",
+      "affinity": "HOME/END",
+      "note": "Born nearby. Died there. Boardinghouse. Elmwood Cemetery."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Fresh arm — early in the season, Alexander is unhittable; the arm is a machine; 1.22 ERA territory",
+      "Shutout mode — when Alexander's control is locked in, opponents cannot score; 16 in a single season",
+      "Big game focus — the 1926 WS proved that Alexander rises in October; the Lazzeri strikeout at 39",
+      "Pennant races — led Phillies to FIRST EVER pennant (1915); the workhorse carries the team"
+    ],
+    "cold_triggers": [
+      "Epileptic episode — seizures can strike at any time; 15% chance per month; -2 availability, -1 performance",
+      "Alcohol — drinking worsens after WWI; impacts preparation, recovery, reliability; cumulative damage",
+      "Post-war decline — after 1918, Alexander is great but no longer superhuman; the 30-win seasons are gone",
+      "Late career exhaustion — 5,190 career IP; the arm eventually gives out; the body follows"
+    ],
+    "pressure_response": "HEROIC when it matters most. The 1926 World Series performance is one of the greatest in baseball history: age 39, won G2 (CG), won G6 (CG), then entered G7 in relief with bases loaded, struck out Lazzeri, pitched 2 more scoreless innings to clinch the championship. The 1915 WS was less successful (won G1, team lost in 5). But the 1926 moment — the broken man, the loaded bases, the strikeout — is transcendent. CLU 2."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Sixteen Shutouts",
+      "type": "Game Action",
+      "text": "Your pitcher finishes the season with 16 shutouts. Thirty-three wins. Almost half of them are shutouts. The all-time Major League record, never to be broken. +5 dominance. +3 history. The number that will stand forever: sixteen.",
+      "origin": "1916: Alexander threw 16 shutouts — the MLB single-season record. Still stands."
+    },
+    {
+      "title": "The Lazzeri Strikeout",
+      "type": "Game Action",
+      "text": "World Series Game 7. Bottom of the 7th. Bases loaded. Two outs. Your pitcher is 39 years old. He won yesterday's game — a complete game. He enters from the bullpen. Tony Lazzeri has 117 RBI this season. The first pitch nearly goes for a grand slam — foul by inches. Then: strikeout. Two more scoreless innings. World champions. +4 CLU. +3 legend. Less than a foot between a hero and a bum.",
+      "origin": "1926 WS G7: Alexander struck out Lazzeri with bases loaded, then closed the game."
+    },
+    {
+      "title": "Three Consecutive Thirties",
+      "type": "Game Action",
+      "text": "31 wins. 33 wins. 30 wins. Three consecutive seasons. No NL pitcher in the modern era has done this before. None will again. Your arm pitched 1,153 innings in three years. It never seemed to tire. +5 durability. +4 dominance. The three-year stretch that defines a generation.",
+      "origin": "1915-17: Alexander won 31, 33, and 30 games for the Phillies."
+    },
+    {
+      "title": "The Shell",
+      "type": "Drama",
+      "text": "France. 1918. Your pitcher is a sergeant in the 342nd Field Artillery. A shell explodes nearby. His hearing in one ear is gone. Epilepsy begins. The war is over for him, but the war inside has just started. He returns to baseball. He still wins. He wins 27 games in 1920. He wins the Triple Crown. But the seizures come without warning. The drinking starts and doesn't stop. -2 health. -1 hearing. The greatest pitcher alive, broken by something larger than baseball.",
+      "origin": "WWI: shell explosion caused partial deafness and epilepsy. Alexander served in France."
+    },
+    {
+      "title": "Baker Bowl Defiance",
+      "type": "Game Action",
+      "text": "Your pitcher posts a 2.18 ERA in a park with a 272-foot right field wall. The same park where Gavvy Cravath hits 92 of his 119 career home runs. 190 wins. 61 shutouts. The wall doesn't matter when the pitching is this precise. +3 park defiance. Where Cravath exploited Baker Bowl, Alexander conquered it.",
+      "origin": "Alexander's Phillies ERA was 2.18 at Baker Bowl despite 272-ft RF."
+    },
+    {
+      "title": "The Rookie Record",
+      "type": "Game Action",
+      "text": "Your rookie pitcher wins 28 games, completes 31. Leads the National League. One of his shutouts is a 1-0 victory over Cy Young in Young's final season. The past meets the future. The record still stands. +3 rookie dominance. +1 historical symmetry.",
+      "origin": "1911: Alexander's 28 rookie wins is still the record. Beat Cy Young 1-0."
+    },
+    {
+      "title": "The Boardinghouse",
+      "type": "Drama",
+      "text": "Your Hall of Fame pitcher is living in a boardinghouse in St. Paul, Nebraska. The town where he went to high school. He was elected to the Hall of Fame in 1938: 'The Hall of Fame is fine, but it doesn't mean bread and butter.' He is found dead on November 4, 1950. He is 63. Ronald Reagan will play him in a movie. The movie has a happy ending. The life did not. +2 tragedy. -3 justice.",
+      "origin": "Alexander died alone in a boardinghouse at 63. Reagan played him in 'The Winning Team' (1952)."
+    },
+    {
+      "title": "Both Games of a Doubleheader",
+      "type": "Game Action",
+      "text": "Your pitcher wins the first game of the doubleheader. Then he wins the second game. Two complete games in one day. He did this TWICE — 1916 and 1917. In those four complete games, he faced 139 batters and walked two. +4 STA. +2 control. The arm that never tired.",
+      "origin": "Alexander won both games of doubleheaders twice (Sept 1916, Sept 1917)."
+    }
+  ],
+
+  "art_direction": {
+    "face": "WEATHERED, STOIC, HAUNTED, NEBRASKA-TOUGH. 6'1\" 185 lbs — lean, strong, the body of a man who dug postholes and pitched 370+ innings. The face should show TWO LAYERS: the SURFACE of quiet Nebraskan competence, and UNDERNEATH, the damage of France — the partial deafness, the epilepsy, the shell shock. This is NOT a happy face. Not angry either. RESIGNED. The face of a man who has seen artillery fire and still throws baseballs for a living. The famous 'cocky little undersized cap pulled down over one ear' (the deaf ear). Tobacco bulge in cheek. The eyes: DISTANT but PRECISE — the same eyes that spotted the strike zone from 60 feet and that saw shells explode in France.",
+    "attire": "Philadelphia Phillies 1915 whites — the block-letter 'P' that was later retired in his honor (2001). Flat cap PULLED DOWN over one ear. THE POSE: the right-handed delivery — Alexander's smooth, effortless motion that generated deceptive speed. 'Pitching baseballs as easy as pitching hay.' The motion should look ECONOMICAL and EFFORTLESS — not the power of Johnson's sidearm whip but the PRECISION of a man who walked 2 batters in 139 faced. Or: the walk from the bullpen in Game 7, 1926 — the 39-year-old man approaching the mound with the bases loaded.",
+    "mood": "STOIC AND HAUNTED. The card should feel like ENDURANCE — not the bright joy of Doyle or the electric chaos of Schulte. The WEIGHT of 5,190 innings, 90 shutouts, a war, and a bottle. The card should communicate that this arm carried everything: the Phillies' first pennant, the Cardinals' championship, and the wreckage of a war. And it was never enough.",
+    "style": "Sepia-toned with NEBRASKA WHEAT and BATTLEFIELD GRAY — the golden-tan of Nebraska wheat fields (his homeland, his grave) and the gray-green of French trenches (his war, his wound). Where Johnson is navy/lightning (power, authority) and Plank is battlefield gray (stoic endurance), Alexander is WHEAT AND ASH — the golden beginning and the gray ending. The palette of a man who was born in wheat country and died in a boardinghouse.",
+    "reference": "The weathered face. The cap over the deaf ear. The effortless delivery. The boardinghouse. The card should feel like the HEAVIEST card in the Muggers collection — not in body but in WEIGHT OF STORY. 373 wins and a lonely death. The arm that never tired and the man who was always tired."
+  },
+
+  "badges": [
+    "3× NL Pitching Triple Crown",
+    "373 Wins (T-3rd All-Time)",
+    "16 Shutouts 1916 (MLB Record)",
+    "31-33-30 Wins (1915-17)",
+    "WWI Veteran (Shell Shock)",
+    "Epilepsy / Hearing Loss",
+    "1926 WS: Struck Out Lazzeri",
+    "90 Career SHO (NL Record)"
+  ]
+}
