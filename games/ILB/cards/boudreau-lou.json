@@ -1,0 +1,227 @@
+{
+  "name": "Lou Boudreau",
+  "nickname": "Old Shufflefoot",
+  "year": 1948,
+  "team": "Cleveland Indians",
+  "era": "1940s",
+  "ilb_team": "Allies AL1940",
+  "position": "SS",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'11\"",
+  "weight": "185 lbs",
+  "born": "July 17, 1917 — Harvey, IL",
+  "died": "August 10, 2001 — Olympia Fields, IL",
+  "hof": "Class of 1970 (BBWAA, 77.3%). AL MVP 1948, WS Champ 1948.",
+
+  "real_stats": {
+    "season": 1948,
+    "games": 152,
+    "at_bats": 560,
+    "hits": 199,
+    "doubles": 34,
+    "triples": 6,
+    "home_runs": 18,
+    "rbi": 106,
+    "stolen_bases": 3,
+    "batting_avg": ".355",
+    "obp": ".453",
+    "slg": ".534",
+    "ops": ".987",
+    "ops_plus": 165,
+    "war": 10.4,
+    "walks": 98,
+    "strikeouts": 9,
+    "all_star": 7,
+    "career_avg": ".295",
+    "career_hits": 1779,
+    "career_hr": 68,
+    "career_sb": 51,
+    "career_war": 63.1
+  },
+
+  "ilb_stats": {
+    "ovr": 10,
+    "con": 5,
+    "pow": 2,
+    "spd": 0,
+    "def": 3,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": ".355 BA in 1948 — 2nd in AL behind only Ted Williams. Led all 1940s players with 1,578 hits in the decade. OPS+ 165. Only 9 strikeouts in 560 AB — nearly 11:1 BB:K ratio. Career .295. Won 1944 batting title (.327). Maximum contact.",
+    "pow": "18 HR in 1948 — career-high. Only 68 career HR. Boudreau was a doubles hitter (385 career 2B, led AL 3 times) not a slugger. SLG .534 in '48 adds +1 bonus. Rating of 2 — gap power, not over-the-fence power.",
+    "spd": "3 SB in 1948. 51 career SB. Boudreau had arthritic ankles from basketball injuries. Stanley Frank called him 'the slowest ballplayer since Ernie Lombardi.' No speed bonus. SPD = 0.",
+    "def": "Led AL shortstops in fielding percentage 8 consecutive seasons (1940-1948). Led in DP turned multiple times. Compensated for lack of range with extraordinary positioning and quick hands. Pre-Gold Glove era equivalent: 6+ GG. Maximum defense rating.",
+    "clu": "Hit .273/.333/.455 in 1948 World Series with 3 RBI. But the defining moment: the one-game playoff at Fenway — 4-for-4 with 2 home runs to clinch the pennant. Also led off 1942 All-Star Game with a home run. Rating of 2 — consistently big in the biggest moments."
+  },
+
+  "personality": {
+    "leadership_style": "Player-manager from age 24. Boudreau led by intellectual authority and tactical brilliance, not volume. He was the youngest manager in ML history at his appointment and the only man to win both the MVP and the World Series as a player-manager in the same season. He led by preparation, positioning charts, and cool decision-making under fire.",
+    "temperament": "Calm, cerebral, fiercely competitive beneath a polished exterior. Never rattled. Bill McKechnie called him 'the greatest shortstop and leader I have ever seen.' Boudreau's composure in the playoff game — pinch-hitting himself while icing injuries during a doubleheader, going 4-for-4 when everything was on the line — defined his temperament: ice water in the veins.",
+    "work_ethic": "Exceptional. Two-sport college star (basketball All-American, baseball captain at Illinois). Earned his B.S. in Education while playing professional baseball. Studied hitters obsessively — invented the 'Boudreau Shift' against Ted Williams by analyzing spray charts. Coached Illinois freshman basketball while playing in the majors.",
+    "lifestyle": "College-educated, articulate, photogenic. Nicknamed 'Handsome Lou.' Married Della DeRuiter in 1938. Father of four. Later became a beloved Cubs radio broadcaster for 30 years. Lived a stable, middle-class Midwestern life — Harvey, IL to Olympia Fields. His father-in-law was later revealed to be Denny McLain's father-in-law too (Boudreau's daughter married McLain).",
+    "era_adaptability": "VERY HIGH. Boudreau was the prototype of the modern thinking shortstop — Jeter before Jeter, but with better defense. His lack of speed would hurt in any era, but his bat control (9 K in 560 AB), defensive positioning, and managerial mind would translate anywhere. In the analytics era, Boudreau would be a front-office darling.",
+    "clubhouse_impact": "COMMANDING. As player-manager, Boudreau set the tone. He supported Larry Doby's integration of the AL — a quiet but significant act. He managed personalities like Bob Feller, Satchel Paige, and Bill Veeck's circus atmosphere with steady grace. Players respected him because he led from the field, not the bench.",
+    "dark_side": "The tension with Bill Veeck. After the 1947 season, Veeck nearly traded Boudreau for Vern Stephens — the fans revolted and saved Lou's job. Even after winning the 1948 World Series, Veeck brought in Hank Greenberg as a shadow authority. Boudreau was fired after 1950 despite his 1948 heroics. The lesson: even the greatest seasons don't guarantee loyalty. In ILB terms, Boudreau carries a 'Front Office Friction' trait — his relationship with ownership is always fragile."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Player-Manager",
+      "desc": "Can serve as both starter and manager. Reduces need for a separate manager card. +1 tactical bonus to entire lineup."
+    },
+    {
+      "tag": "Tactician",
+      "desc": "Invented the Boudreau Shift. Once per game, can reposition fielders to counter a specific batter's tendencies."
+    },
+    {
+      "tag": "Two-Sport Star",
+      "desc": "Basketball All-American. Versatile athlete — can play multiple positions in emergencies despite lack of speed."
+    },
+    {
+      "tag": "Integration Ally",
+      "desc": "Supported Larry Doby's integration of the AL. +1 chemistry with Black players. Reduces racial tension events."
+    },
+    {
+      "tag": "Contact Master",
+      "desc": "9 strikeouts in 560 AB. Nearly impossible to strike out. -1 to opposing pitcher's K rating when Boudreau bats."
+    },
+    {
+      "tag": "Front Office Friction",
+      "desc": "Ownership may undermine Boudreau despite results. 10% chance per season of forced trade or firing after winning."
+    },
+    {
+      "tag": "Broadcaster",
+      "desc": "After playing career, becomes a team broadcaster. +1 to franchise legacy and fan engagement in later eras."
+    },
+    {
+      "tag": "Gimpy Ankles",
+      "desc": "Arthritic ankles from basketball. Speed permanently 0. But no further injury risk — he's already adapted."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Manager's Office / Film Room",
+      "affinity": "HIGH",
+      "note": "Studying spray charts, planning lineups, inventing shifts. Boudreau's mind never stopped."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Positioning drills, DP practice, batting practice. Preparation was his religion."
+    },
+    {
+      "location": "University / Library",
+      "affinity": "MEDIUM",
+      "note": "B.S. in Education from Illinois. Coached college basketball. Intellectual by ballplayer standards."
+    },
+    {
+      "location": "Restaurant / Steakhouse",
+      "affinity": "MEDIUM",
+      "note": "Social, polished, comfortable in public. 'Handsome Lou' was always presentable."
+    },
+    {
+      "location": "Radio Booth",
+      "affinity": "MEDIUM",
+      "note": "30-year Cubs broadcaster. Loved explaining the game to fans."
+    },
+    {
+      "location": "Bar / Nightlife",
+      "affinity": "LOW",
+      "note": "Not a drinker or carouser. Too busy managing and playing to have much nightlife."
+    },
+    {
+      "location": "Gambling Hall",
+      "affinity": "NONE",
+      "note": "No association. Clean-living family man."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Pennant races — Boudreau elevated in September, especially 1948",
+      "One-game playoffs or elimination scenarios — the Fenway game defined his career",
+      "Playing through injuries — pain made him more dangerous, not less",
+      "Tactical challenges — facing elite hitters like Williams activated his strategic mind"
+    ],
+    "cold_triggers": [
+      "Front office interference — Veeck/Greenberg meddling sapped his confidence in 1949-50",
+      "Ankle flare-ups — when the arthritis got severe, his range and bat speed suffered",
+      "Losing streaks as manager — shouldered blame for both the team's play and his own"
+    ],
+    "pressure_response": "ELITE. Boudreau is one of the rarest cards in the game: a player-manager who gets better when everything is on the line. The 1948 playoff game at Fenway — 4-for-4, 2 HR, while managing every pitch — is the archetype. He also pinch-hit himself while injured during a crucial doubleheader and delivered a game-tying hit through the legs of Joe Page. Boudreau doesn't crack under pressure; he calculates through it."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Boudreau Shift",
+      "type": "Game Action",
+      "text": "Your manager repositions all infielders to one side of the diamond against a pull hitter. The batter must choose: swing away into the shift (-2 to hit), or bunt to the open side (guaranteed single, but ego check required).",
+      "origin": "Boudreau invented the radical defensive shift against Ted Williams in 1946, moving all infielders to the right side. It became a permanent part of baseball strategy."
+    },
+    {
+      "title": "Four-for-Four in the Playoff",
+      "type": "Game Action",
+      "text": "In a win-or-go-home game, your player-manager goes 4-for-4 with 2 home runs. The game is never in doubt. Your team clinches the pennant.",
+      "origin": "Boudreau went 4-for-4 with 2 HR in the 1948 AL playoff game at Fenway Park, clinching the pennant in an 8-3 win over the Red Sox."
+    },
+    {
+      "title": "The Boy Manager",
+      "type": "Drama",
+      "text": "Your owner appoints a 24-year-old player as manager. Veterans grumble. If the team finishes above .500 in his first year, all chemistry penalties vanish. If below .500, the player-manager is fired and his OVR drops by 1.",
+      "origin": "Boudreau was named Indians player-manager at age 24 in 1942 — the youngest in ML history to start a season as manager. He won the World Series six years later."
+    },
+    {
+      "title": "Stopping the Streak",
+      "type": "Game Action",
+      "text": "An opposing player is on a historic hitting streak. Your shortstop snags a bad-hop grounder barehanded and starts a double play. The streak is over.",
+      "origin": "Boudreau's barehanded grab and DP on July 17, 1941, was the final play in ending Joe DiMaggio's 56-game hitting streak (with Keltner's two stops at third)."
+    },
+    {
+      "title": "Playing Through the Pain",
+      "type": "Action",
+      "text": "Your star has a shoulder contusion, bruised knee, sore thumb, and sprained ankle. He can sit — or he can pinch-hit himself. If he plays: roll d6. On 3+, he delivers a clutch hit and your team sweeps. On 1-2, injury worsens and he misses 10 games.",
+      "origin": "During a 1948 doubleheader, Boudreau was icing down multiple injuries in the dugout. Down 6-1, he announced himself as a pinch-hitter and ripped a game-tying single through Joe Page's legs. The Indians swept."
+    },
+    {
+      "title": "The Fans Save Your Job",
+      "type": "Drama",
+      "text": "The owner wants to trade your player-manager. But the fans revolt — petitions, newspaper campaigns, radio call-ins. The owner backs down. Your manager stays, but now has a 'Prove It' condition: win the pennant next year or be fired.",
+      "origin": "After 1947, Bill Veeck planned to trade Boudreau for Vern Stephens. Cleveland fans erupted in protest. Veeck kept Boudreau — who then won the 1948 MVP and World Series."
+    },
+    {
+      "title": "Snakes on a Train",
+      "type": "Drama",
+      "text": "A prankster coach releases two live snakes on the team train. Your manager must decide: laugh it off (+1 clubhouse fun, -1 discipline) or throw the coach off the train (+1 authority, coach is fired).",
+      "origin": "In 1947, Indians coach Jackie Price let two snakes loose on the team train. Boudreau forced Price off at the next stop. Price was fired shortly after."
+    },
+    {
+      "title": "The Two-Sport Captain",
+      "type": "Action",
+      "text": "Your player was a college basketball star. In the offseason, he coaches the freshman basketball team at his alma mater. +1 to his mental stats. But the basketball gives him arthritic ankles — SPD permanently drops by 1.",
+      "origin": "Boudreau captained both the basketball and baseball teams at Illinois, was an NCAA Basketball All-American, and coached freshman basketball while playing for Cleveland. The basketball ruined his ankles."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Handsome, clean-cut face with strong jawline and warm brown eyes. 5'11\" 185 lbs — lean, athletic but not bulky. Nicknamed 'Handsome Lou.' Looked more like a college professor than a ballplayer. French-Canadian features — refined, photogenic.",
+    "attire": "Cleveland Indians home whites, 1948 style. Number 5. Classic late-1940s wool flannel, baggy pants. Indians script across chest. Cap slightly tilted. Glove tucked under arm or in ready position at shortstop.",
+    "mood": "Calm command. The look of a man who is simultaneously playing shortstop, managing the pitching staff, calculating defensive alignments, and batting .355. Not fierce — serene. The quiet confidence of someone who knows exactly what he's going to do next.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Cleveland Municipal Stadium in soft focus behind him. Late afternoon light. The card should feel intellectual and assured — this is the thinking man's ballplayer.",
+    "reference": "Think 1948 Leaf card quality but with cinematic depth. Boudreau at shortstop, mid-throw to first on a pivot — the double play that defined his career. Or in the dugout with a lineup card, the player-manager in his natural habitat."
+  },
+
+  "badges": [
+    "1948 AL MVP",
+    "1948 WS Champion",
+    "HOF 1970",
+    "7× All-Star",
+    "Invented the Shift",
+    "Player-Manager",
+    "9 K in 560 AB",
+    "Ended DiMaggio's Streak"
+  ]
+}

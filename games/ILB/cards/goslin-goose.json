@@ -1,0 +1,230 @@
+{
+  "card_type": "player",
+  "name": "Goose Goslin",
+  "nickname": "The Goose",
+  "year": 1936,
+  "team": "Detroit Tigers",
+  "league": "American League",
+  "era": "1930s",
+  "ilb_team": "Crashers AL1930",
+  "position": "LF",
+  "bats": "L",
+  "throws": "R",
+  "height": "5'11\"",
+  "weight": "185 lbs",
+  "born": "October 16, 1900 — Salem, NJ",
+  "died": "May 15, 1971 — Bridgeton, NJ",
+  "hof": "Class of 1968 (Veterans Committee)",
+
+  "real_stats": {
+    "season": 1936,
+    "games": 147,
+    "at_bats": 572,
+    "hits": 180,
+    "doubles": 34,
+    "triples": 7,
+    "home_runs": 24,
+    "rbi": 125,
+    "stolen_bases": 5,
+    "batting_avg": ".315",
+    "obp": ".403",
+    "slg": ".502",
+    "ops": ".905",
+    "ops_plus": 121,
+    "war": 4.5,
+    "career_avg": ".316",
+    "career_hits": 2735,
+    "career_hr": 248,
+    "career_rbi": 1609,
+    "career_war": 45.4
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "con": 4,
+    "pow": 3,
+    "spd": 0,
+    "def": 0,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": ".315 BA in 1936 → tier 4 (.300-.329). OPS+ 121 falls short of the 130 threshold for bonus. Career .316 BA across 18 seasons, 2,735 hits, 11 seasons at .300+, 1928 AL batting title (.379). Rating of 4.",
+    "pow": "24 HR in 1936 → tier 2 (20-29). SLG .502 → +1 bonus (≥.500). Total: 3. Career-high 37 HR in 1930. 248 career HR. 500 career 2B, 173 career 3B. Good gap power complementing the contact. Rating of 3.",
+    "spd": "5 SB in 1936 → tier 0 (0-5). No positional range bonus (LF, no Gold Glove). 173 career triples (22nd all-time) and 2× AL triples leader (1923, 1925) were from his youth — by age 35, the legs were gone. Rating of 0.",
+    "def": "No Gold Gloves. Named 'Goose' for the way he flapped his arms chasing fly balls. Destroyed his throwing arm throwing the shot put during spring training. Led AL in outfield assists 1924-25 before the shot put incident; after, opponents ran on him freely. Rating of 0.",
+    "clu": ".287 career WS BA → tier 1 (.250-.299). Walk-off single to win 1935 WS Game 6 (scored Cochrane, Detroit's first championship) → +1 hero bonus. Also: walk-off hit in 1934 WS Game 2, one of only 3 players to be last hitter of 2 separate World Series. Rating of 2."
+  },
+
+  "personality": {
+    "leadership_style": "The Joyful Clubhouse Clown. Goslin kept teams loose with constant pranking and clowning. Teammate Elden Auker: 'He was some character, a really great guy.' He tried to use a zebra-striped bat to distract pitchers. He tried to get himself ejected in a 1928 at-bat to preserve his batting title, and the umpire refused to throw him out. He recommended the Tigers trade for General Crowder, helping build their pennant-winning pitching staff. Not a captain or a strategist — a glue guy who made everyone enjoy being at the ballpark.",
+    "temperament": "Pure joy. 'It was just a game, that's all it was. They didn't have to pay me. I'd have paid them to let me play. Listen, the truth is it was more than fun. It was heaven.' Goslin played baseball for the love of it. He clowned in the outfield, flapping his arms. He destroyed his arm throwing the shot put because he was curious. He tried a zebra bat because it was funny. He was bitter exactly twice in his career: when Joe Cronin didn't appreciate his humor, and when the Tigers released him the day after he buried his father.",
+    "work_ethic": "Farm-boy strength. Goslin developed his power doing farm chores in Salem, New Jersey. Started as a pitcher in the Sally League (6-5, 2.44 ERA in 1920) before switching to outfield. Hit .390 in the minors in 1921. Then hit .324 in his first full MLB season. The work was already done before he got to the majors — 18 years of consistency followed.",
+    "lifestyle": "New Jersey farm boy, New Jersey boat rental businessman. Started playing for a DuPont factory team. Ended running a boat rental operation in Salem. Between: 18 years of major league baseball, 5 World Series, a batting title, a Hall of Fame plaque, and one catastrophic encounter with a shot put. Married. Retired to New Jersey. Died 1971 — three days after Heinie Manush, the man he beat for the 1928 batting crown.",
+    "era_adaptability": "MODERATE-LOW. The .316 career BA and gap power would still play, but the terrible defense (flapping arms, destroyed arm) would make him a DH in modern baseball. The 248 career HR in 18 seasons is underwhelming by modern standards. He'd be a productive DH type. The personality would be timeless.",
+    "clubhouse_impact": "ELITE MORALE. Goslin was traded three times — and every time, he made the new team better not just with his bat but with his energy. Washington won the WS in 1924 with Goslin. Detroit won in 1935 with Goslin. He recommended the Crowder trade. He kept players loose. Joe Cronin couldn't stand his clowning (which led to a trade); Mickey Cochrane loved it (which led to a championship). The lesson: some managers need a Goose. Some can't handle one.",
+    "dark_side": "The bitterness was real when it came. Goslin feuded with Cronin in Washington — clashed over management style, got shipped out. When the Tigers released him the day after his father's funeral: 'That seemed kind of harsh to me.' He was passed over for the HOF for decades, watching lesser players get inducted. When Manush was elected in 1965, Goslin was bitter. He waited 3 more years. And the body broke down at the end — burns from a couch fire, larynx removed, death at 70. The man who said baseball was heaven spent his last years in something closer to the opposite."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "It Was Heaven",
+      "desc": "+2 team morale permanently. Goslin plays for the love of the game. His joy is contagious and lifts every clubhouse he enters."
+    },
+    {
+      "tag": "The G-Men",
+      "desc": "When paired with Gehringer (2B) and Greenberg (1B): +1 to all offensive stats for all three. The Tigers' murderer's row that broke the Yankee dynasty."
+    },
+    {
+      "tag": "Walk-Off to Win the World Series",
+      "desc": "In WS elimination games (either team): +2 CLU. 1935 WS Game 6: bottom of the 9th, score tied, Goslin singles off Larry French, Cochrane scores, Detroit wins its first championship."
+    },
+    {
+      "tag": "The Goose",
+      "desc": "Goslin flaps his arms when chasing fly balls, like a goose trying to take flight. -1 DEF permanently. +2 entertainment. Terrible defense the crowd loves."
+    },
+    {
+      "tag": "Shot Put Arm",
+      "desc": "During spring training, Goslin wandered to a track team and tried the shot put. His throwing arm was never the same. Once per career: if player encounters non-baseball athletic activity, 15% chance of permanent arm injury."
+    },
+    {
+      "tag": "The Zebra Bat",
+      "desc": "Once per season: Goslin attempts unconventional equipment. 80% chance umpires reject it (+1 entertainment). 20% chance it works (+1 POW for 1 game, +3 entertainment)."
+    },
+    {
+      "tag": "The Batting Crown Ejection",
+      "desc": "1928: tried to get ejected to preserve his title. The umpire refused. When Goslin needs to NOT bat: umpires refuse to eject him. He must face the pitcher. 60% chance of a hit."
+    },
+    {
+      "tag": "Washington and Detroit's First",
+      "desc": "Part of both franchises' first WS wins (1924, 1935). When traded to a team that has never won a championship: +1 CLU, +1 team destiny."
+    },
+    {
+      "tag": "The Cronin Clash",
+      "desc": "If paired with a strict, humorless manager: -1 morale, trade likely within 1 season. If paired with a fun-loving manager (Cochrane, Harris): +1 all stats."
+    },
+    {
+      "tag": "Three Days Apart",
+      "desc": "Goslin and Manush died 3 days apart. Their careers were intertwined: traded for each other, competed for batting titles, elected to HOF by same committee. When both on roster: linked fate."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "10 seasons. 1924 WS champion. 'Washington's answer to Babe Ruth.' Traded away twice, came back three times.",
+      "note_extra": "Source labeled 'Griffith Stadium / Washington' — mapped to Media/Spotlight as primary franchise home per ballpark collision taxonomy. First of two franchise-home HIGH entries on this card, reflecting Goslin's dual championship identity."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "4 seasons. 1935 WS champion. The G-Men lineup. Walk-off to win it all.",
+      "note_extra": "Source labeled 'Navin Field / Detroit' — mapped to Media/Spotlight as second franchise home. Double Media/Spotlight HIGH encodes career split across two championship franchises; contrast with Goslin's MEDIUM Sportsman's Park entry below."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "Record for most HR by visiting player at Yankee Stadium (32). He owned the House that Ruth Built.",
+      "note_extra": "Source labeled 'Yankee Stadium (visiting)' — mapped to Media/Spotlight as ballpark node. Third Media/Spotlight entry; visiting designation preserved in note as mechanically distinct (Goslin thrived as an outsider at the most famous stage)."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "5× WS. 2× champion. Walk-off to win 1935. Last hitter of 2 separate WS.",
+      "note_extra": "Source labeled 'World Series Stage' — mapped to Practice Field per established WS→Practice Field pattern for championship participants. Fourth confirmed HIGH instance in this pattern."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "MEDIUM",
+      "note": "2.5 seasons with Browns. Career-high 37 HR in 1930 (split). Good numbers, forgettable team.",
+      "note_extra": "Source labeled 'Sportsman's Park / St. Louis' — mapped to Media/Spotlight as third franchise home, at MEDIUM. The gradient Washington HIGH / Detroit HIGH / St. Louis MEDIUM maps Goslin's career arc without editorial comment."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "The clowning happens here. Zebra bats. Pranks. Keeping teams loose.",
+      "note_extra": "Source labeled 'Clubhouse / Hotel' — mapped to Hotel/Rest per recurring Clubhouse collision taxonomy. MEDIUM rather than the more common HIGH reflects that Goslin's clubhouse identity was positive but tempered by the Cronin conflict documented in dark_side."
+    },
+    {
+      "location": "Gambling Hall",
+      "affinity": "LOW",
+      "note": "Destroyed his arm throwing the shot put. Keep Goslin away from non-baseball sports equipment.",
+      "note_extra": "Source labeled 'Track & Field Facilities' — no standard taxonomy node. Mapped to Gambling Hall/LOW as the set's established node for hazardous/risk-coded non-standard spaces. The shot put field functions mechanically as a trap location, consistent with prior LOW Gambling Hall entries for working-class risk activities (Flick, Freeman, Gardner). Flagged for taxonomy review — a dedicated 'Training Risk' or 'Danger Zone' node may be warranted."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "World Series — 5 appearances, 2 championships, walk-off to win it all. Goslin elevates in October.",
+      "Fun clubhouse environment — with Cochrane managing, Goslin thrived. Joy feeds production.",
+      "Lineup protection — surrounded by Gehringer and Greenberg, Goslin saw better pitches and delivered.",
+      "Batting title races — won the 1928 crown in the most dramatic fashion possible."
+    ],
+    "cold_triggers": [
+      "Managerial conflict — Cronin's strict style killed Goslin's production (.297, 64 RBI in 1933).",
+      "Arm injuries — the shot put destroyed his throwing arm permanently.",
+      "Age decline — after 1936 (.315, 24 HR), Goslin fell to .238 in 1937 and .158 in 1938. The end was sudden."
+    ],
+    "pressure_response": "THE WALK-OFF KING. 1935 WS Game 6: bottom of the 9th, score tied 3-3, 2 outs. Mickey Cochrane on 2nd base. Larry French on the mound for the Cubs. Goslin lines a single into right field. Cochrane scores. Detroit wins its first World Series championship. Tiger fans nearly riot trying to reach their hero. One of only 3 players ever to be the last hitter of 2 separate World Series. .287 career WS BA, 7 WS HR across 5 Series. The man who said baseball was heaven created heaven for two franchises that had never tasted a championship before."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Walk-Off to Win the World Series",
+      "type": "Game Action",
+      "text": "Bottom of the ninth. Score tied. Two outs. Your catcher-manager is on second base. The Cubs pitcher deals. Your left fielder lines a single into right field. The catcher scores. Your franchise wins its first World Series championship. The crowd nearly riots.",
+      "origin": "1935 WS Game 6: Goslin singled off Larry French to score Cochrane. Detroit's first WS title."
+    },
+    {
+      "title": "The Shot Put Incident",
+      "type": "Drama",
+      "text": "During spring training, your outfielder wanders to an adjacent field where a track team is practicing. He picks up a shot put. He throws it like a baseball. His arm feels sore the next morning. The soreness never goes away. His throwing arm is permanently diminished.",
+      "origin": "Goslin destroyed his throwing arm trying the shot put during spring training. He never regained arm strength."
+    },
+    {
+      "title": "The Zebra-Striped Bat",
+      "type": "Action",
+      "text": "Your left fielder walks to the plate carrying a bat painted with zebra stripes. The idea: the stripes will distract the pitcher. The umpires examine the bat. They disallow it. Your player shrugs, grabs a normal bat, and gets a hit anyway.",
+      "origin": "1932: Goslin tried to use a zebra-striped bat. Umpires rejected it."
+    },
+    {
+      "title": "The Batting Crown at Bat",
+      "type": "Game Action",
+      "text": "Final game of the season. Your left fielder leads the batting race by a fraction. If he makes an out, he loses the title. He tries to sit. Teammates call him yellow. He steps in. Takes two strikes. Tries to get ejected. The umpire refuses. He gets a hit. He wins the batting crown.",
+      "origin": "1928: Goslin won the AL batting title (.379) in his final AB. Tried to get ejected. Umpire Bill Guthrie refused."
+    },
+    {
+      "title": "It Was Heaven",
+      "type": "Action",
+      "text": "A reporter asks your retired legend what baseball meant to him. His answer: 'It was just a game, that's all it was. They didn't have to pay me. I'd have paid them to let me play. Listen, the truth is it was more than fun. It was heaven.'",
+      "origin": "Goslin's famous quote from The Glory of Their Times (Lawrence Ritter, 1966)."
+    },
+    {
+      "title": "Traded for His Rival",
+      "type": "Drama",
+      "text": "Your franchise trades your left fielder to the Browns in exchange for the man he beat for the batting title two years ago. Their careers are now permanently intertwined. They will be traded for each other. They will compete for Hall of Fame votes. They will die three days apart.",
+      "origin": "1930: Senators traded Goslin for Manush (and Crowder). Manush died May 12, 1971; Goslin died May 15, 1971."
+    },
+    {
+      "title": "DiMaggio and Hoag Collide",
+      "type": "Game Action",
+      "text": "Your left fielder drives a ball into the gap. The opposing center fielder and right fielder both sprint for it. They collide at full speed. Both are knocked unconscious for several minutes. Your player rounds the bases for one of the most unusual home runs in baseball history.",
+      "origin": "July 28, 1936: Goslin's HR caused Joe DiMaggio and Myril Hoag to collide. Both knocked unconscious."
+    },
+    {
+      "title": "Released the Day After the Funeral",
+      "type": "Drama",
+      "text": "Your veteran outfielder has just buried his father. The next day, the team releases him. No warning. No conversation. 'That seemed kind of harsh to me.' The joy dims — for one of the few times in a joyful career.",
+      "origin": "Tigers released Goslin the day after he buried his father."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Big, broad-faced, left-handed hitter. 5'11\" 185 lbs — sturdy farm-boy build. The face should show good-natured mischief — a grin with something up his sleeve. Not handsome, not ugly. A friendly, slightly goofy face.",
+    "attire": "Detroit Tigers 1936 home whites — the Old English D. Navin Field behind him. Left-handed follow-through or in the outfield with arms slightly flailing as he tracks a fly ball.",
+    "mood": "Joy. Pure, uncut joy. This is the man who said baseball was heaven. The card should feel warm, golden, late-afternoon-at-the-ballpark. Not dramatic, not intense.",
+    "style": "Golden-hour warmth. Tigers navy and white. The card should feel like the last good day of a long summer — because that's what Goslin's 1936 was, the last great season before the decline.",
+    "reference": "The card of the Goose. The man who flapped his arms chasing fly balls. The man who destroyed his arm with a shot put. The man who tried a zebra bat. The man who hit the walk-off to give Detroit its first World Series. The man who said it was heaven."
+  }
+}

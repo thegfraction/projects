@@ -1,0 +1,222 @@
+{
+  "card_type": "player",
+  "name": "Buck Freeman",
+  "nickname": "The Batting Wonder of the Age",
+  "year": 1899,
+  "team": "Washington Senators",
+  "era": "1900s",
+  "ilb_team": "Banners NL1890",
+  "position": "RF",
+  "bats": "L",
+  "throws": "L",
+  "height": "5'9\"",
+  "weight": "169 lbs",
+  "born": "October 30, 1871 — Catasauqua, PA",
+  "died": "June 25, 1949 — Wilkes-Barre, PA",
+  "hof": "Not inducted (Red Sox HOF 2018)",
+
+  "real_stats": {
+    "season": 1899,
+    "games": 155,
+    "at_bats": 589,
+    "hits": 187,
+    "doubles": 19,
+    "triples": 25,
+    "home_runs": 25,
+    "rbi": 122,
+    "stolen_bases": 21,
+    "batting_avg": ".318",
+    "obp": ".370",
+    "slg": ".562",
+    "ops": ".932",
+    "ops_plus": 148,
+    "war": 5.2,
+    "gold_gloves": 0,
+    "silver_sluggers": 0,
+    "all_star": 0,
+    "career_avg": ".293",
+    "career_hits": 1235,
+    "career_hr": 82,
+    "career_sb": 92,
+    "career_war": 25.3
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 4,
+    "pow": 4,
+    "spd": 2,
+    "def": 0,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": ".318 BA in 1899, career .293. Freeman was a power-first hitter — he swung from the heels and looked to loft the ball. His OPS+ of 148 reflects above-average offensive production, but his batting average wasn't in the Keeler/Lajoie/Cobb stratosphere. He struck out more than the contact artists of his era. Rating of 4 reflects a very good but not elite contact profile.",
+    "pow": "25 HR in 1899 — the most remarkable power season before Babe Ruth. The next-highest total was 12. Freeman hit tape-measure shots that held distance records at multiple parks. He hit the first ball ever completely out of Chicago's South Side Park. He led all major leaguers in HR from 1899-1905 with 77, outdistancing Lajoie by 28. This is a legitimate 4, bordering on 5, but the dead-ball context keeps it at 4.",
+    "spd": "21 SB and 25 triples in 1899 — the triples especially show real speed. 131 career triples. But Freeman was not a basestealing weapon — he was a power hitter who could run. Rating of 2 reflects good-but-not-elite speed.",
+    "def": "Freeman was a converted pitcher who learned outfield defense on the job. Manager Frank Selee openly despised his defensive play and his hitting style. Multiple sources describe him as a below-average fielder. Rating of 0 is appropriate.",
+    "clu": ".290 BA with 3 triples and 4 RBI in the 1903 World Series — the first WS ever played. Freeman was the best hitter on the championship Boston Americans. He contributed game-winning hits in the 9th and extra innings throughout the 1901-03 seasons. Rating of 2 reflects solid postseason production and a championship ring."
+  },
+
+  "personality": {
+    "leadership_style": "Quiet power. Freeman didn't lead with speeches or intimidation — he led with tape-measure home runs. He was the cleanup hitter, the guy everyone counted on to drive in runs. His leadership was in his bat, not his mouth.",
+    "temperament": "Steady, working-class tough. Grew up in the coal mines of Northeastern Pennsylvania. Not flashy, not volatile — just relentless. He studied hitting mechanics scientifically, analyzing weight transfer and swing angles. A thinking man's slugger.",
+    "work_ethic": "Self-improver. Freeman worked with manager Arthur Irwin in Toronto to learn how to hit to the opposite field instead of just pulling everything. He studied his own swing mechanics and described them in technical detail to reporters. He also practiced intentionally fouling off pitches — a skill so effective it was literally called illegal in 1899.",
+    "lifestyle": "Coal miner's son. Worked in the mines alongside his father before baseball. After retirement, umpired in the American Association. No scandal, no excess — a blue-collar life bookended by the mines and the diamond. Died at 77 in Wilkes-Barre, the same town he grew up in.",
+    "era_adaptability": "MODERATE. Freeman's raw power would translate to any era — he was hitting 25 HR when nobody else hit 13. But his defense was always a liability, and his approach (swing from the heels, maximum power) was considered uncouth in his own time. He'd fit perfectly in the modern three-true-outcomes era.",
+    "clubhouse_impact": "POSITIVE-HUMBLE. Not a star personality but a reliable producer. Teammates relied on him for run production. He clashed with manager Selee but got along with everyone else. The kind of player you want hitting behind your table-setters.",
+    "dark_side": "Almost none. Freeman's only controversy was his hitting style — the 1900 Spalding Guide denounced 'sluggers' who only wanted to 'hit it out of sight' without naming him. He was considered uncouth for swinging for power in an era that worshipped slap hitting. In ILB terms: Freeman carries a 'Ahead of His Time' trait — his approach is mocked by contemporaries but validated by history."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Coal Miner's Son",
+      "desc": "Blue-collar toughness. Freeman never misses games due to fatigue and gains +1 morale on losing teams."
+    },
+    {
+      "tag": "Ahead of His Time",
+      "desc": "Freeman's power approach was mocked in the dead-ball era. He gains +1 POW in any era after 1920 (when the game catches up to him)."
+    },
+    {
+      "tag": "Tape Measure",
+      "desc": "When Freeman hits a HR, roll a d6. On 5-6, it's a tape-measure shot that gives +2 team momentum instead of +1."
+    },
+    {
+      "tag": "Pitcher's Eye",
+      "desc": "As a former pitcher, Freeman reads the mound. +1 to plate discipline — he draws more walks than his stats suggest."
+    },
+    {
+      "tag": "Cleanup Anchor",
+      "desc": "When batting 4th in the lineup, Freeman gains +1 RBI production. He's built for the cleanup spot."
+    },
+    {
+      "tag": "Bud Fowler's Gift",
+      "desc": "Freeman's career was shaped by advice from Black pioneer Bud Fowler. Freeman carries a 'Respect' trait — no racial chemistry penalties."
+    },
+    {
+      "tag": "Weak Glove",
+      "desc": "-1 DEF permanently. Freeman was a bad fielder and everyone knew it. His bat has to carry him."
+    },
+    {
+      "tag": "World Series Pioneer",
+      "desc": "In the first World Series ever played, Freeman produced. +1 CLU in any 'first-ever' scenario or inaugural event."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Studied swing mechanics. Worked with Irwin on opposite-field hitting. A scientific slugger.",
+      "note_extra": "Source labeled 'Batting Cages / Practice Field' — direct mapping to Practice Field."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Reliable presence. Not the life of the party, but always there.",
+      "note_extra": "Source labeled 'Clubhouse / Locker Room' — mapped to Hotel/Rest per taxonomy. Recurring collision now on six cards (Slaughter, Lombardi, Evers, Flick, Foxx, Freeman)."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "MEDIUM",
+      "note": "Pennsylvania coal country roots. Comfortable in rural settings.",
+      "note_extra": "Source labeled 'Farm / Countryside' — mapped to Library/Quiet Spot as rural/roots affinity, consistent with Slaughter, Feller, Ferrell, and Flick handling."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "LOW",
+      "note": "Not a showman. Respected locally in Wilkes-Barre, not a national celebrity."
+    },
+    {
+      "location": "Bar/Nightlife",
+      "affinity": "LOW",
+      "note": "No major drinking associations. Working-class steady."
+    },
+    {
+      "location": "Gambling Hall",
+      "affinity": "LOW",
+      "note": "Not money-motivated beyond fair pay. Jumped to AL for opportunity, not wealth.",
+      "note_extra": "Source labeled 'Financial Office / Bank' — mapped to Gambling Hall as commerce/financial-transaction node, consistent with Flick and Fournier handling."
+    },
+    {
+      "location": "Gambling Hall",
+      "affinity": "NONE",
+      "note": "No association.",
+      "note_extra": "Source labeled 'Gambling Hall' — direct mapping. Second Gambling Hall entry on this card (LOW and NONE), matching the same pattern as Flick."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Full-count situations — Freeman lived for the big swing moment",
+      "New league/team transitions — he thrived after jumping to the AL",
+      "Multi-HR games — power surges snowball into historic streaks",
+      "Playing RF instead of 1B — his natural position unlocked his offense"
+    ],
+    "cold_triggers": [
+      "Hostile managers — Selee's criticism of his style visibly affected his production",
+      "Defensive pressure — playing out of position (1B) dragged his overall game down",
+      "Aging — skills declined sharply after 33, dropping 40 points of BA in one year"
+    ],
+    "pressure_response": "SOLID. Freeman batted .290 with 3 triples in the first World Series ever played (1903). He delivered game-winning hits in late innings throughout his Boston tenure. Not a legend in October, but reliable when it counted. In ILB: Freeman is a safe cleanup hitter in elimination games — he won't choke, and he might go yard."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Twenty-Five",
+      "type": "Game Action",
+      "text": "Your power hitter enters a historic HR surge. For the next 5 games, every HR he hits is worth double momentum. If he hits 3+ HR in the span, team morale surges +3 and opposing pitchers lose -1 confidence for the rest of the season.",
+      "origin": "Freeman's 25 HR in 1899 was the most dominant power season in pre-Ruth history. The next closest hitter had 12. The standard deviation of his performance is the largest in baseball history."
+    },
+    {
+      "title": "Out of the Park",
+      "type": "Game Action",
+      "text": "Your slugger hits a ball completely out of the stadium. It's an automatic HR with +3 momentum and the opposing pitcher is immediately pulled from the game.",
+      "origin": "Freeman hit the first ball ever completely out of Chicago's South Side Park in 1903. His tape-measure shots held distance records at multiple ballparks."
+    },
+    {
+      "title": "The Coal Miner's Swing",
+      "type": "Action",
+      "text": "Your player from a working-class background channels raw physical power. For this at-bat, he swings from the heels: 50% chance of a HR, 30% chance of a strikeout, 20% chance of a single.",
+      "origin": "Freeman grew up working in the coal mines of Northeastern Pennsylvania alongside his father. He brought that raw power to the plate every at-bat."
+    },
+    {
+      "title": "Bud Fowler's Advice",
+      "type": "Action",
+      "text": "A veteran scout from outside the system sees talent in your struggling pitcher. Convert him to a hitter. He loses all pitching stats but gains +3 CON and +2 POW as a position player.",
+      "origin": "African-American pioneer Bud Fowler saw Freeman's left-handed swing in batting practice and advised the struggling pitcher to focus on hitting. It changed everything."
+    },
+    {
+      "title": "The Slugger's Shame",
+      "type": "Drama",
+      "text": "The league's official guide denounces your power hitter's style as uncouth. He loses -1 team reputation but gains +1 POW from spite. If he leads the league in HR, reputation is restored +2.",
+      "origin": "The 1900 Spalding Guide attacked Freeman's approach without naming him, calling sluggers whose 'sole object was to hit it out of sight' inferior to slap hitters."
+    },
+    {
+      "title": "Hit for the Cycle",
+      "type": "Game Action",
+      "text": "Your best hitter gets a single, double, triple, and HR in the same game. Team morale surges +3. All batters gain +1 CON for the next game from the energy.",
+      "origin": "On June 21, 1903, Freeman hit for the cycle — the first player in Boston Americans/Red Sox history to do so. The papers described his hitting as 'biff, bang, smash.'"
+    },
+    {
+      "title": "The First World Series",
+      "type": "Action",
+      "text": "Your team enters a brand-new championship format. All players gain +1 morale from the novelty. Your cleanup hitter gains +1 CLU for the series.",
+      "origin": "Freeman was the best hitter on the 1903 Boston Americans — the first team ever to win a World Series. He batted .290 with 3 triples in 8 games."
+    },
+    {
+      "title": "Converted Pitcher",
+      "type": "Action",
+      "text": "Your struggling pitcher is moved to the outfield. He loses pitching ability but gains +2 POW. However, his DEF is permanently -1 as he learns a new position.",
+      "origin": "Freeman debuted as a wild left-handed pitcher in 1891 (33 walks in 44 innings). Retrained as an outfielder, he became the greatest slugger of the pre-Ruth era."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Broad, strong face with a heavy jaw and thick neck. Working-class build — not tall (5'9\") but densely muscled from years in the coal mines. Serious expression, no-nonsense. Eyes squinting slightly, like a man used to judging fly balls in dim light.",
+    "attire": "Washington Senators 1899 uniform — white wool flannel with dark cap. High collar, loose fit. No number. The uniform is slightly rumpled — Freeman is a hitter, not a fashion plate. Bat gripped low, weight shifting forward in his signature power stance.",
+    "mood": "Raw power. Not elegant like Lajoie or clever like Keeler — primal. The look of a man about to send a baseball over a building. Mid-swing with maximum follow-through, weight fully transferred, looking up at the trajectory. Or standing in the box, bat cocked, eyes locked on the pitcher.",
+    "style": "Darker sepia than the other Banners cards — heavier browns, deeper shadows. Coal dust undertones. A slightly industrial feeling — smokestacks or tenement buildings blurred in the background instead of a pastoral grandstand. Tobacco-card composition but grittier, more raw. The working man's card.",
+    "reference": "Think of the early power hitters — Brouthers, Thompson — but rendered in the ILB sepia style with more weight and gravity. Freeman should look like he could break the card frame. The heaviest-feeling card in the Banners set."
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "card_type": "manager",
+  "name": "Rogers Hornsby",
+  "nickname": "The Rajah",
+  "year": 1926,
+  "team": "St. Louis Cardinals",
+  "era": "1920s",
+  "ilb_team": "Lumber",
+  "archetype": "Firebrand",
+  "born": "April 27, 1896 — Winters, TX",
+  "died": "January 5, 1963 — Chicago, IL (age 66)",
+  "hof": "Inducted 1942. .358 career BA (2nd all-time). 7x batting champion. 2x MVP. 2x Triple Crown. Named 9th on Sporting News list of Greatest Players (1999). All-Century Team. Elected to HOF while managing in the low minors — exiled from the majors for gambling and personality.",
+  "height": "5'11\"",
+  "weight": "175 lbs",
+
+  "record": {
+    "career_wins": 701,
+    "career_losses": 812,
+    "win_pct": ".463",
+    "pennants": 1,
+    "world_series": 1,
+    "seasons_managed": 14,
+    "ejections": "Surprisingly few — 'a true gentleman on the field, he never questioned a decision' (umpire Len Roberts). Hornsby's violence was verbal and interpersonal, not theatrical.",
+    "peak_team": "1926 St. Louis Cardinals",
+    "peak_record": "89-65, won first World Series in Cardinals history (defeated Yankees)",
+    "teams_managed": [
+      "St. Louis Cardinals (1925-26): 153-116 — FIRED after winning WS",
+      "Boston Braves (1928): 39-83 — traded mid-season",
+      "Chicago Cubs (1930-32): 141-116 — FIRED while in first place",
+      "St. Louis Browns (1933-37, 1952): 255-381 — FIRED",
+      "Cincinnati Reds (1952-53): 64-82 — FIRED",
+      "Plus minor league stints: more successful at lower levels"
+    ],
+    "notable": ".358 career BA (2nd all-time behind Cobb). Managed 6 major league teams, FIRED OR TRADED FROM ALL OF THEM. 701-812 managerial record (.463). Won 1926 WS as player-manager then was fired in offseason. Kicked owner Sam Breadon out of the Cardinals clubhouse. Fired as Cubs manager while in first place. Compulsive horse gambler — possibly blacklisted by Commissioner Landis. Never read anything but sports pages. Never watched movies. Slept 12 hours a night. Stared out the window waiting for spring. 'A liturgy of hatred.' 'Frank to the point of being cruel and as subtle as a belch.' 'Knew more about baseball and less about diplomacy than anyone.'",
+    "playing_career": ".358 BA (2nd all-time), 2,930 hits, 301 HR, 1,584 RBI, .434 OBP, .577 SLG. Hit .400+ three times (.401 in 1922, .424 in 1924, .403 in 1925). 7x NL batting champion (6 consecutive 1920-25). 2x NL MVP (1925, 1929). 2x NL Triple Crown (1922, 1925). OPS+ of 175. Arguably the greatest right-handed hitter in baseball history."
+  },
+
+  "ilb_ratings": {
+    "tac": 3,
+    "pit": 3,
+    "lin": 4,
+    "adp": 2,
+    "dis": 7,
+    "ego": 2,
+    "har": 1,
+    "int": 10,
+    "str": 4,
+    "flx": 1,
+    "ovr": 7
+  },
+
+  "rating_justification": {
+    "tac": "Moderate. Hornsby was a hitter, not a strategist. No tactical innovations are associated with his managing. 'Like many great ballplayers who try to manage, he couldn't teach what had come so naturally to him.' He was frustrated by mediocrity because he'd never experienced it. Rating of 3.",
+    "pit": "Moderate. Unlike Robinson (a catcher) or McCarthy (a pitching staff innovator), Hornsby had no special reputation for pitching management. His playing career was entirely offensive. He managed pitching by expecting it to be good, not by developing it. Rating of 3.",
+    "lin": "High. As a player-manager, Hornsby WAS the best player in baseball. His .358 BA in the lineup elevated any team. He also recognized hitting talent — he was 'widely considered the best batting instructor of his time.' But once he stopped playing, his lineup construction was ordinary. Rating of 4.",
+    "adp": "Low. The defining anti-adaptation. Hornsby managed 6 major league teams and was fired from all of them. The same approach, the same results, the same exit. When the Cardinals told him to stop gambling, he refused and was traded. When the Cubs owner criticized him, he was fired while in first place. Adaptation requires compromise. Hornsby didn't compromise. Rating of 2.",
+    "dis": "High. Hornsby demanded excellence relentlessly. 'Sarcastic and uncompromising with club owners as he was with careless players.' He released outfielder Roy Johnson for poor effort. But his discipline was verbal brutality, not structured systems — effective in the moment, corrosive over time. Rating of 7.",
+    "ego": "Very low. The central paradox: Hornsby's ego was so enormous that he couldn't manage anyone else's. He kicked owner Sam Breadon out of the Cardinals clubhouse. He feuded with every owner who employed him. His ego was the cause of every firing. In ILB terms, Hornsby's EGO MANAGEMENT is the lowest possible because he IS the ego problem. Rating of 2.",
+    "har": "Minimum. 'Nobody liked our manager Rogers Hornsby.' 'A liturgy of hatred.' 'Frank to the point of being cruel and as subtle as a belch.' 'Hiring Rogers Hornsby to manage the Cubs was the worst mistake I made in all my years in baseball.' He was fired after winning the World Series. He was fired while in first place. No manager in history was more universally disliked. Rating of 1.",
+    "int": "Maximum. Hornsby's intensity was pathological. He never read anything but sports pages — to save his batting eyes. Never watched movies. Slept 12 hours a night. 'People ask me what I do in winter when there's no baseball. I'll tell you what I do. I stare out the window and wait for spring.' Baseball consumed every atom of his being. The intensity was superhuman and inhuman. Rating of 10.",
+    "str": "Moderate. Hornsby was the best batting instructor of his era — he could develop hitters. But 'he couldn't teach what had come so naturally to him' to average players. His talent development was limited to hitting, and even that frustrated him with lesser players. He couldn't build organizations because he destroyed relationships. Rating of 4.",
+    "flx": "Minimum. Zero flexibility. Hornsby's 'extremely stubborn nature' was legendary. He refused to stop gambling when owners demanded it. He refused to soften his words. He refused to adapt his approach to different players, different teams, different decades. Same man, same methods, same firing — six times. Rating of 1."
+  },
+
+  "personality": {
+    "leadership_style": "Uncompromising excellence through verbal brutality. Hornsby led by demanding that everyone meet his standard — which was the highest standard in baseball. When they couldn't (and almost no one could), he told them so in the cruelest possible terms. 'Frank to the point of being cruel and as subtle as a belch.' This worked briefly — the 1926 Cardinals were inspired enough to win the franchise's first World Series. But it couldn't last. Hornsby's leadership was a blowtorch: brilliant for a moment, destructive over time.",
+    "temperament": "Cold, sarcastic, and monomaniacal. Not hot-tempered like McGraw or Tebeau — Hornsby's cruelty was delivered with icy precision. He didn't scream; he cut. 'He was too rough-cut in speech, manner, and background to be truly regal, but the image of majesty was there.' The Rajah. A king who ruled through contempt.",
+    "work_ethic": "Obsessive and singular. Hornsby's work ethic for BASEBALL was supreme: he never read, never watched movies, slept 12 hours, ate steak and ice cream, and dedicated every moment of his existence to the game. But his work ethic for MANAGING — the people skills, the organizational building, the compromise — was nonexistent. He worked harder at being a player than anyone in history, and barely worked at all at being a manager.",
+    "lifestyle": "Ascetic and addicted. No alcohol, no tobacco — but compulsive horse gambling that lost him fortunes and possibly got him blacklisted by Commissioner Landis. Three marriages. A companion who died by suicide. He ate steak, drank whole milk, consumed ice cream every evening, and sat in hotel lobbies for hours watching people go by. The lobby sitting is the most revealing detail: a man who had nothing to say to anyone, watching humanity pass without engaging it.",
+    "communication_style": "Brutal honesty without filter. 'Hornsby knew more about baseball and less about diplomacy than anyone I ever knew.' When a struggling player asked for advice, Hornsby's response was typically: 'Get a better bat' or 'try hitting the ball.' He couldn't understand why everyone else couldn't hit .400. His communication was information without empathy — technically correct, humanly devastating.",
+    "loyalty_expectations": "Absolute dedication to winning. Nothing else mattered. Not feelings, not relationships, not job security — winning. Hornsby expected every player to care about baseball as much as he did. Since no one in history cared about baseball as much as Hornsby, everyone disappointed him.",
+    "dark_side": "The total failure of human connection. Hornsby's .358 batting average and .463 managerial winning percentage tell the whole story: the greatest individual performer in baseball couldn't translate his genius to a team. He was fired after winning the World Series — the only manager in history to achieve this. He was fired while in first place. He was possibly blacklisted. Three marriages, a companion's suicide, exiled to the minor leagues while in the Hall of Fame. 'A liturgy of hatred' from a man who loved only one thing — baseball — and baseball eventually rejected him too. In ILB: Hornsby carries 'The Rajah's Exile' — his individual brilliance is unmatched, but every relationship has an expiration date."
+  },
+
+  "playbook": {
+    "roster_philosophy": "Demand greatness, accept nothing less. Hornsby's roster philosophy was simple: get the best players and demand they play their best. No systems, no development plans, no patience. If you could play, you played. If you couldn't, Hornsby told you to your face and moved on. The philosophy produced one championship and six firings.",
+    "conflict_response": "CREATE AND ESCALATE. Hornsby didn't respond to conflict — he generated it through brutal honesty, then escalated it through refusal to back down. He kicked the Cardinals owner out of the clubhouse. He feuded with every employer. Conflict wasn't a problem to be solved; it was the inevitable result of Hornsby being Hornsby.",
+    "clique_strategy": "IRRELEVANT — EVERYONE HATES THE MANAGER. Cliques couldn't form because the entire team united in their dislike of Hornsby. 'Nobody liked our manager.' The anti-clique strategy: when everyone hates one person, nobody has time to hate each other.",
+    "player_types_that_thrive": [
+      "Elite hitters who respect Hornsby's unmatched batting knowledge — he was the best hitting instructor alive",
+      "Thick-skinned competitors who respond to blunt criticism — if you can take it, you'll improve",
+      "Players who care about nothing except winning — Hornsby's only language",
+      "Young hitters willing to learn mechanics from the greatest right-handed batter ever",
+      "Players with no ego — Hornsby's ego fills the room, there's no space for yours"
+    ],
+    "player_types_that_struggle": [
+      "Every pitcher — Hornsby had no special pitching knowledge and minimal patience for pitching struggles",
+      "Sensitive players who need encouragement — Hornsby's idea of encouragement is 'you're less terrible today'",
+      "Players who value work-life balance — 'I stare out the window and wait for spring'",
+      "Anyone who wants to be liked — 'Nobody liked our manager'",
+      "Mediocre players — Hornsby was 'easily frustrated by mediocrity' because he'd never experienced it"
+    ],
+    "tolerance_thresholds": {
+      "max_ego_cluster": 1,
+      "max_volatility": "EXTREME — Hornsby is volatility. His presence destabilizes every team he touches.",
+      "discipline_floor": "HIGH — but through verbal brutality, not systems. The discipline is fear of being cut down.",
+      "star_exception": "Hornsby IS the star. No other star can coexist with his ego. The room has space for one great player, and it's always Hornsby."
+    }
+  },
+
+  "chemistry_impact": {
+    "team_fit": {
+      "effect": "STRONGLY DECREASED",
+      "desc": "-3 Team Fit for all players. 'Nobody liked our manager.' Hornsby's presence corrodes team cohesion. Players bond AGAINST him, not with him."
+    },
+    "volatility": {
+      "effect": "MASSIVELY INCREASED",
+      "desc": "+3 Volatility for all players. Hornsby creates instability everywhere he goes. Six teams, six firings. The volatility is not a bug — it's the entire Hornsby experience."
+    },
+    "discipline": {
+      "effect": "INCREASED",
+      "desc": "+2 Discipline. Hornsby demands effort and punishes laziness. 'Sarcastic and uncompromising.' The discipline comes from fear of his verbal brutality."
+    },
+    "ego": {
+      "effect": "AGGRAVATED",
+      "desc": "+2 Ego for all players. Hornsby's ego is so dominant that it provokes defensive ego in others. Players puff up to survive his criticism."
+    },
+    "work_habits": {
+      "effect": "STRONGLY INCREASED",
+      "desc": "+2 Work Habits. Say what you will — Hornsby's obsessive dedication to baseball was contagious. Players worked harder under him because the alternative was his contempt."
+    },
+    "adaptability": {
+      "effect": "DECREASED",
+      "desc": "-1 Adaptability. Hornsby's rigid approach forces players into his framework. There is no adaptation — only compliance."
+    }
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Rajah",
+      "desc": "Hornsby's presence elevates all hitters. Every batter gains +1 Contact. But every pitcher loses -1 (Hornsby doesn't understand or value pitching). The greatest right-handed hitter in history teaches what he knows."
+    },
+    {
+      "tag": "A Liturgy of Hatred",
+      "desc": "Hornsby is universally disliked. -2 Harmony for all players. But players who survive 10 games under Hornsby gain +1 to all stats permanently (surviving his criticism makes you tougher)."
+    },
+    {
+      "tag": "Fired After Winning",
+      "desc": "If Hornsby wins a championship, there is a 50% chance he is fired in the offseason. If fired: +2 to the NEXT manager's Discipline (the relief of Hornsby leaving), and the team gains 'Rajah's Shadow' (+1 Work Habits for 10 games)."
+    },
+    {
+      "tag": "The Gambling Problem",
+      "desc": "Hornsby has a 10% chance per game of a 'Horse Racing' distraction: -1 Tactics that game. After 20 games, 5% chance of 'Blacklisted' event — Hornsby is removed by the commissioner and cannot return."
+    },
+    {
+      "tag": "Staring Out the Window",
+      "desc": "'People ask me what I do in winter. I stare out the window and wait for spring.' Hornsby gains +2 to all ratings in the first 5 games of each season. The anticipation sharpens everything."
+    },
+    {
+      "tag": "As Subtle as a Belch",
+      "desc": "Once per game, Hornsby delivers devastating criticism to an underperforming player. That player either gains +2 to their lowest stat (15% chance — the criticism was useful) or gains 'Demoralized' (-2 to all stats for 3 games, 85% chance)."
+    },
+    {
+      "tag": "Couldn't Teach Natural Genius",
+      "desc": "Players with OVR 8+ gain +1 to all stats under Hornsby (genius recognizes genius). Players with OVR 5 or below gain -1 to all stats (Hornsby cannot fathom mediocrity)."
+    },
+    {
+      "tag": "The Player-Manager",
+      "desc": "If Hornsby is also a player: +3 to his own batting stats. The greatest individual performer in any lineup. But -1 to all Clubhouse ratings (managing while playing means doing neither optimally)."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "MAXIMUM",
+      "note": ".358 career BA. This is where Hornsby belongs. The batter's box is the one place where his genius was unquestioned.",
+      "note_extra": "Source labeled 'Batter's Box' / affinity 'MAXIMUM' — mapped to Practice Field/MAXIMUM. Manager card uses standard quantitative affinity scale (MAXIMUM/HIGH/MEDIUM/LOW) rather than the Bashers player card's qualitative labels (ABSOLUTE/ADDICTION/EXILE). The player card rated this ABSOLUTE; the manager card rates it MAXIMUM, reflecting that as a manager Hornsby is no longer exclusively a batter — the batter's box is still the peak space, but no longer the totality of meaningful existence."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "'Champion lobby sitter in baseball history.' Hours watching people go by. Not reading, not talking — just watching. The loneliest place in baseball.",
+      "note_extra": "Source labeled 'Hotel Lobby' / affinity 'HIGH' — mapped to Hotel/Rest/HIGH. The hotel lobby is the public-facing interior of the Hotel/Rest node — a social space within the itinerant baseball travel environment. Hornsby used it for passive observation without social engagement: present in public but not participating. First explicit hotel lobby sub-location in the set."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Compulsive gambler. Lost fortunes. Possibly blacklisted. The track was his only interest besides baseball — and it destroyed what baseball couldn't.",
+      "note_extra": "Source labeled 'Horse Track' / affinity 'HIGH' — mapped to Community Events/HIGH, consistent with player card's racetrack mapping. Manager card rates this HIGH (standard scale) vs. player card's ADDICTION (qualitative Bashers label). Both encode the same real-world space and identical compulsive attachment; the affinity label differs because the two cards use different taxonomic systems. Consuming applications should treat HIGH here and ADDICTION on the player card as equivalent in kind if not in label."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "MEDIUM",
+      "note": "Where the verbal brutality happened. Where players learned to hate him. Where the occasional championship was forged through sheer will.",
+      "note_extra": "Source labeled 'Dugout' / affinity 'MEDIUM' — mapped to Practice Field/MEDIUM as on-field adjacent management space. Second Practice Field entry on this card. Consistent with Harris's dugout mapping to Practice Field/HIGH; Hornsby's MEDIUM (vs. Harris's HIGH) reflects that the dugout was a site of damage output rather than belonging for Hornsby."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "LOW",
+      "note": "Fired from every one. The office was always temporary — Hornsby knew it, and his behavior ensured it.",
+      "note_extra": "Source labeled 'Manager's Office' / affinity 'LOW' — mapped to Library/Quiet Spot/LOW, consistent with Billy Herman's Manager's Office mapping. Second instance of this mapping in the set. The manager's office as private professional authority space received and immediately endangered by the occupant's own behavior."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "HIGH",
+      "note": "'I stare out the window and wait for spring.' The bleakest, most honest description of baseball obsession ever spoken.",
+      "note_extra": "Source labeled 'Window / Offseason' / affinity 'HIGH' — mapped to Library/Quiet Spot/HIGH as private domestic interior space of waiting. Second Library/Quiet Spot entry on this card (first is Manager's Office/LOW). Manager card rates this HIGH (meaningful anticipation); player card rated the same space EXILE (involuntary imprisonment). The affinity-scale difference encodes the same space with different registers: the manager card foregrounds the productive tension of waiting; the player card foregrounds the isolation of enforced idleness."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Early season — the anticipation and intensity peak when baseball returns after winter",
+      "Player-manager mode — when Hornsby is batting AND managing, his genius is at maximum",
+      "Facing inferior opponents — Hornsby's contempt for mediocrity becomes a weapon",
+      "Hitting instruction — one-on-one teaching, where his genius translates directly"
+    ],
+    "cold_triggers": [
+      "Mid-season grind — relationships deteriorate, verbal abuse accumulates, the clubhouse turns toxic",
+      "Losing streaks — Hornsby's intensity becomes counterproductive when winning stops providing cover",
+      "Ownership conflicts — Hornsby ALWAYS feuds with ownership, and ownership always wins",
+      "Gambling distractions — the horses pull his attention at the worst moments",
+      "Post-championship — the one time he won, he was fired. Success triggers self-destruction."
+    ],
+    "pressure_response": "BRILLIANT ONCE, UNSUSTAINABLE ALWAYS. The 1926 World Series is Hornsby's masterpiece: player-manager leading the Cardinals to their first championship, hitting .317 in the Series. But the aftermath defines him: fired in the offseason. In ILB: Hornsby provides +3 Clutch in his FIRST championship appearance. -2 Clutch in all subsequent ones (the self-destruction accelerates). The Rajah burns brightest just before he burns out."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Rajah's Standard",
+      "type": "Action",
+      "text": "Your manager demands excellence from every player. All hitters gain +2 Contact for 5 games. All pitchers lose -1 for 5 games (Hornsby doesn't value what he doesn't understand). 'If you can't hit, you can't play.'",
+      "origin": "Hornsby was the best batting instructor of his era. His .358 career average gave him unmatched authority to teach hitting. But pitching was a foreign language — he lived in the batter's box."
+    },
+    {
+      "title": "Fired After Winning",
+      "type": "Drama",
+      "text": "Your manager wins the championship — and is fired in the offseason. All players lose -2 morale (the unfairness stings). But the next manager inherits +2 Discipline and +2 Work Habits (Hornsby's standards outlive his tenure). 'He kicked the owner out of the clubhouse.'",
+      "origin": "Hornsby won the 1926 World Series — the Cardinals' first championship — and was traded to the Giants that offseason. Sam Breadon couldn't tolerate Hornsby's personality. He once kicked Breadon out of his own clubhouse."
+    },
+    {
+      "title": "A Liturgy of Hatred",
+      "type": "Action",
+      "text": "Your manager's brutal honesty terrifies the team into peak performance. All players gain +2 Work Habits and +1 Discipline for 5 games. But -2 Harmony permanently. The team plays harder — and hates harder.",
+      "origin": "'A liturgy of hatred.' One writer's description of Hornsby's managing style. He was 'sarcastic and uncompromising with club owners as he was with careless players.' Nobody was safe from his tongue."
+    },
+    {
+      "title": "Staring Out the Window",
+      "type": "Drama",
+      "text": "It's the offseason. Your manager does nothing but wait for baseball. When spring arrives: +3 to all Game Management ratings for the first 3 games. The anticipation has sharpened everything. 'I stare out the window and wait for spring.'",
+      "origin": "The most haunting quote in baseball: 'People ask me what I do in winter when there's no baseball. I'll tell you what I do. I stare out the window and wait for spring.' A man with no interests, no hobbies, no relationships — only baseball."
+    },
+    {
+      "title": "The Blacklist",
+      "type": "Drama",
+      "text": "Your manager's gambling problem catches up with him. The commissioner removes him from baseball. All players gain -3 morale. But the team can hire a new manager immediately — and the Rajah's ghost (+1 Work Habits) lingers for 10 games.",
+      "origin": "Commissioner Landis possibly blacklisted Hornsby from the majors for compulsive horse gambling and 'generally disagreeable personality.' Hornsby was elected to the Hall of Fame while managing in the low minors — exiled from the game he loved."
+    },
+    {
+      "title": "The .424 Season",
+      "type": "Game Action",
+      "text": "Your player-manager has the greatest offensive season in modern history. He gains +4 to all batting stats for the entire season. But -2 to all Clubhouse ratings (he's too busy being transcendent to manage). 'The most unbelievable five-year run in baseball history.'",
+      "origin": "1924: Hornsby hit .424 — the highest average in the modern era. From 1921-25, his averages were .397, .401, .384, .424, .403. He was so far beyond everyone else that managing ordinary players became psychologically impossible."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Lean, angular, cold. 5'11\" 175 lbs — the opposite of Uncle Robbie's rotundity. High cheekbones, narrow eyes, a jaw that looks like it was designed for contempt. Texas cattle country hardened into bone. The face shows zero warmth. The eyes are evaluating you, and you're coming up short. Not angry — worse. Disappointed.",
+    "attire": "Cardinals uniform from the 1920s, bat in hand — always in hand. Even when managing, Hornsby should be holding a bat or have one within reach. The bat is his identity; the manager's role is secondary. The uniform should fit perfectly — Hornsby was meticulous about his body, his sleep, his diet. The physical presentation is flawless. The human presentation is toxic.",
+    "mood": "Cold intensity. Not volcanic (McGraw), not warm (Robinson), not calm (McCarthy) — cold. The card should feel like staring into the eyes of someone who has judged you and found you wanting. There's brilliance in the cold — the .424 season, the World Series — but it's the brilliance of a star that gives no warmth. The Rajah is alone at the top of the mountain.",
+    "style": "Orange-amber Firebrand palette but colder than Tebeau or Evers — the fire has been compressed into ice. Sportsman's Park / Cardinals red in the background but muted, almost monochrome. The card should feel isolated — a single figure standing apart from everything. No teammates in the background. No fans. Just Hornsby and his bat and the window he stares through all winter.",
+    "reference": "The Firebrand Spectrum now has three points: Tebeau (1900) is physical violence — spiking, intimidation. Evers (1910) is intellectual violence — the Merkle play, the rulebook. Hornsby (1920) is existential violence — his mere presence makes you feel inadequate. Three kinds of Firebrand cruelty across three eras. All OVR 7. All INT 10. All unsustainable. But Hornsby is the coldest — Tebeau raged, Evers cracked, Hornsby just... stared. Out the window. Waiting for spring."
+  }
+}

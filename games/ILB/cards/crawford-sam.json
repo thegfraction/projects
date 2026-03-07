@@ -1,0 +1,229 @@
+{
+  "card_type": "hitter",
+  "name": "Sam Crawford",
+  "nickname": "Wahoo Sam",
+  "year": 1911,
+  "team": "Detroit Tigers",
+  "era": "1910s",
+  "ilb_team": "Muggers 1910",
+  "position": "RF",
+  "bats": "L",
+  "throws": "L",
+  "height": "6'0\"",
+  "weight": "190 lbs",
+  "born": "April 18, 1880 — Wahoo, NE",
+  "died": "June 15, 1968 — Hollywood, CA (age 88)",
+  "hof": "HOF 1957. .309 career BA. 2,961 H. 309 3B (ALL-TIME MLB RECORD — will never be broken). 458 2B. 97 HR. 1,525 RBI. OPS+ 144. 3x AL pennant. First player to lead both NL and AL in HR. 'There never was a player who could hit a ball harder.' — Ed Barrow. The King of Triples.",
+
+  "real_stats": {
+    "season": 1911,
+    "games": 146,
+    "at_bats": 574,
+    "hits": 217,
+    "doubles": 35,
+    "triples": 14,
+    "home_runs": 7,
+    "rbi": 115,
+    "runs": 109,
+    "stolen_bases": "~20",
+    "batting_avg": ".378",
+    "obp": "~.420",
+    "slg": ".524",
+    "ops": "~.944",
+    "ops_plus": "~173",
+    "war": "~7.5",
+    "xbh": 57,
+    "season_1901": ".330 BA, 16 HR (NL leader), 104 RBI, 12 inside-the-park HR (record)",
+    "season_1914": ".314 BA, 26 3B (AL record, still stands), 104 RBI (AL leader)",
+    "season_1907": ".323 BA, 102 R (AL leader), AL pennant",
+    "career_avg": ".309",
+    "career_hits": 2961,
+    "career_hr": 97,
+    "career_3b": "309 (ALL-TIME MLB RECORD)",
+    "career_2b": 458,
+    "career_rbi": 1525,
+    "career_war": "~75",
+    "career_ops_plus": 144,
+    "career_sb": "~366",
+    "career_itp_hr": "51 (2nd all-time)",
+    "itp_hr_season_record": "12 in 1901 (still stands)",
+    "pennants": "3 (1907, 1908, 1909)",
+    "ws_titles": "0 (lost all 3)",
+    "league_leader_3b": "6 times",
+    "league_leader_rbi": "3 times",
+    "league_leader_hr": "2 times (NL 1901, AL 1908 — first to lead both)",
+    "triples_vs_doubles": "Hit more 3B than 2B four times in career",
+    "consecutive_games": "472 (1913-15)",
+    "glory_of_their_times": "Featured in Lawrence Ritter's oral history (1966)"
+  },
+
+  "ilb_stats": {
+    "ovr": 10,
+    "con": 5,
+    "pow": 2,
+    "spd": 2,
+    "def": 1,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": ".378 BA in 1911 — tier 5 (.330+). OPS+ ~173 — >=130 bonus (capped at 5). Career: .309 BA, 2,961 hits (~40 shy of 3,000). .300+ in 11 of 19 ML seasons. Led AL in hits, total bases, XBH multiple times. Ed Barrow: 'There never was a player who could hit a ball harder.' Rating: 5.",
+    "pow": "16 HR in 1901 — tier 1 (10-19). SLG .524 (1911) — >=.500 bonus (+1) = 2. 97 career HR. 12 inside-the-park HR in 1901 (single-season record, still stands). 51 career inside-the-park HR (2nd all-time). 309 career triples demonstrate enormous gap power. First player to lead both NL and AL in HR. The power was real — horizontal more than vertical. Rating: 2.",
+    "spd": "SB in peak years ~15-25 — tier 2 (16-30). ~366 career SB. The 309 career triples require real speed — Crawford hit more triples than doubles four times in his career. But the actual SB numbers are tier 2, not the elite tier 3 of Collins (741 SB) or Speaker (436 SB). Rating: 2.",
+    "def": "'Good fielder in his prime.' Range factor 2.68 in 1900 (55 points above league avg). .988 fielding % in 1905 (35 above avg). But: 'his defense suffered in his later years.' Played primarily RF. Crawford's value was overwhelmingly in his bat. Rating: 1.",
+    "clu": "ZERO. Crawford played in 3 World Series (1907, 1908, 1909) — the Tigers lost all three. He never won a championship in 19 ML seasons. No major postseason heroics to cite. The 1907-09 Tigers were good enough to get there and not good enough to win. Zero titles, zero WS MVPs, zero signature October moments. The King of Triples wore no crown. Rating: 0."
+  },
+
+  "personality": {
+    "leadership_style": "THE STEADY PRODUCER. Crawford wasn't a firebrand or a strategist — he was a relentless, consistent run-producer who showed up every day and hit the ball harder than anyone alive. He played 472 consecutive games (1913-15). He was in the AL leaders in every major offensive category for 11 straight years (1905-15). The leadership was in the consistency — the understanding that every day, Crawford would produce.",
+    "temperament": "BITTER AND PROUD. Crawford's relationship with Ty Cobb defined his emotional landscape. He resented Cobb's privileges (late spring training, private quarters) and Cobb's individualism. Crawford sent a congratulatory telegram to Nap Lajoie when it was reported Lajoie beat Cobb for the 1910 batting title. He later called Cobb a 'cheapskate who never helped his teammates.' Cobb accused Crawford of sabotaging his steal attempts. The bitterness lasted decades — they partially reconciled at Harry Heilmann's funeral in 1951.",
+    "work_ethic": "BARBER TO HALL OF FAMER. Crawford was a barber in small-town Nebraska before baseball. He played in Wahoo, West Point, Wymore, Superior, Chatham (Ontario), Columbus, Grand Rapids, and Cincinnati before settling in Detroit. The work ethic was blue-collar and relentless — 19 ML seasons, double-digit triples in every season with 100+ games. He played PCL ball until age 41. Crawford didn't know how to stop.",
+    "lifestyle": "WAHOO TO HOLLYWOOD. Born in Wahoo, Nebraska — a name so good it became his nickname. Barber, semi-pro player, major leaguer. After baseball: moved to Hollywood, CA. Lived quietly until age 88. 'Wahoo Sam' Crawford — the small-town boy who hit his way to the Hall of Fame and then watched movies in California for 50 years.",
+    "era_adaptability": "THE TRIPLE BECOMES THE DOUBLE. Crawford's 309 triples are an artifact of cavernous dead-ball parks with distant outfield fences. In modern parks, many of those triples become doubles — or with modern ball compression, home runs. Crawford's pure gap power and line-drive stroke would translate to any era, but the specific triple-hitting dominance is tied to his time. In 2024: .290-.310 hitter with 25-35 HR and 40+ 2B. Very good. Not record-breaking.",
+    "clubhouse_impact": "THE COBB ANTAGONIST. Crawford was the senior star when the young, abrasive Cobb arrived in 1905. The hazing of Cobb — which Crawford dismissed as normal rookie treatment — created a feud that lasted decades. Crawford: 'We weren't cannibals or heathens. We were all ballplayers together, trying to get along. Every rookie gets a little hazing, but most of them just take it and laugh. Cobb took it the wrong way.' The clubhouse was divided. Crawford represented the old guard; Cobb was the future.",
+    "dark_side": "The Cobb feud poisoned everything. Crawford's bitterness toward Cobb — over salary, over privileges, over personality — colored his later years. The two men played alongside each other for 13 seasons in barely-concealed animosity. Cobb accused Crawford of intentionally fouling off pitches during steal attempts. Crawford accused Cobb of never helping teammates. Both were probably right about each other. Also: Crawford fell 40 hits short of 3,000 — a milestone that wasn't meaningful in his era but would have further secured his legacy. He could have reached it in the PCL but didn't know to try."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Three Hundred and Nine",
+      "desc": "309 career triples — the ALL-TIME MLB RECORD. Will never be broken. When Crawford hits a ball to the gap, 40% chance it's a triple instead of a double. The gaps belong to him."
+    },
+    {
+      "tag": "Inside-the-Park King",
+      "desc": "51 career inside-the-park HR (2nd all-time). 12 in 1901 (single-season record). When Crawford hits a ball to deep outfield, 15% chance of inside-the-park HR. The parks are cavernous; Crawford makes them his highway."
+    },
+    {
+      "tag": "Cobb's Rival",
+      "desc": "When Ty Cobb is on the same roster, -2 team chemistry. Crawford resents Cobb's privileges; Cobb resents Crawford's seniority. Both produce at elite levels despite the hatred. Sometimes the worst relationships produce the best lineups."
+    },
+    {
+      "tag": "The Glory of Their Times",
+      "desc": "Crawford told his story to Lawrence Ritter for the legendary oral history. +2 cultural legacy. +1 narrative impact. The voice of the dead-ball era, preserved in his own words."
+    },
+    {
+      "tag": "Wahoo Sam",
+      "desc": "From Wahoo, Nebraska. Small-town origins, blue-collar work ethic. +1 durability, +1 consistency. The man from Wahoo doesn't miss games."
+    },
+    {
+      "tag": "No Crown",
+      "desc": "3x pennant winner, 0x WS champion. Lost all three World Series (1907-09). In elimination games, -1 to all stats. The King of Triples has no ring."
+    },
+    {
+      "tag": "The Barber's Hands",
+      "desc": "Crawford was a barber before baseball. Steady hands, precise control. +1 CON (bat control). The same hands that cut hair hit .378."
+    },
+    {
+      "tag": "Forty Shy",
+      "desc": "Retired with 2,961 hits — 39 shy of 3,000. Didn't know the milestone mattered. +3 'what if' legacy. -1 historical recognition."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Primary position for 15 years in right field. Good arm, solid range in prime. The gaps to right-center were his domain."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": ".378 BA (1911). .309 career. 2,961 H. 'Never was a player who could hit a ball harder.' Left-handed line drives to all fields."
+    },
+    {
+      "location": "Restaurant/Steakhouse",
+      "affinity": "HIGH",
+      "note": "309 career 3B. 458 2B. The gaps between outfielders were Crawford's kingdom. Balls hit there kept rolling."
+    },
+    {
+      "location": "Bar/Nightlife",
+      "affinity": "HIGH",
+      "note": "1903-1917 as a Tiger. 2,466 hits in Detroit. 15 seasons. Cavernous outfield built for triples."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Born in Wahoo, Nebraska. Named for it. The small-town origin of a Hall of Fame career."
+    },
+    {
+      "location": "Gambling Hall",
+      "affinity": "LOW",
+      "note": "3x pennant (1907-09). 0x champion. Lost all three. The stage that never rewarded him."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Triples — when the ball finds a gap, Crawford's legs take over. Momentum builds with each extra-base hit.",
+      "Consistency streaks — 472 consecutive games (1913-15). Crawford doesn't go cold; he produces.",
+      "Rivalry fuel — when Cobb gets attention/praise, Crawford hits harder. The bitterness is productive.",
+      "Large outfields — the bigger the park, the more triples. Cavernous outfields are Crawford's playground."
+    ],
+    "cold_triggers": [
+      "World Series — 0-3 career. The biggest stage produced the biggest disappointments.",
+      "Cobb's privileges — when Cobb receives preferential treatment, -1 morale.",
+      "Small parks — modern/smaller outfields reduce triples. Crawford's game shrinks in bandbox stadiums.",
+      "Late career decline — after 1915, Crawford faded quickly (.173 in his final 1917 season)."
+    ],
+    "pressure_response": "REGULAR SEASON DOMINANT, OCTOBER ABSENT. Crawford was among the AL leaders in every offensive category for 11 straight years. He was one of the most consistent producers in dead-ball history. But in three World Series the Tigers lost all three, and Crawford never produced a signature October moment. The pressure response is GOOD in the regular season (472 consecutive games, yearly production) and POOR in the postseason (0 titles, no WS heroics). In ILB: Crawford is the regular-season weapon who may disappoint in October."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Three Hundred and Nine",
+      "type": "Game Action",
+      "text": "Your right fielder hits a line drive into the right-center gap. The ball rolls to the wall. Other men stop at second. Your man rounds second, churns toward third, slides in safely. His 309th career triple. The all-time record. No one will ever break it — to match it, a player would need to average 20 triples per season for more than 15 years. +5 all-time legacy. The record that stands forever.",
+      "origin": "Crawford retired with 309 career triples — the all-time MLB record. It has stood for over a century and is considered unbreakable."
+    },
+    {
+      "title": "Twelve Inside-the-Park",
+      "type": "Game Action",
+      "text": "Your right fielder hits a ball to deep center. It bounces off the wall. He runs. He rounds first. Second. Third. He scores standing up. His TWELFTH inside-the-park home run of the season. A single-season record that will never be broken. +3 POW. +3 SPD. The parks are cavernous; Crawford fills them.",
+      "origin": "1901: Crawford hit 12 inside-the-park home runs — a single-season MLB record that still stands."
+    },
+    {
+      "title": "More Triples Than Doubles",
+      "type": "Game Action",
+      "text": "At season's end, the statistician checks the numbers. Your right fielder has more triples than doubles. This has happened FOUR TIMES in his career. It defies physics — the triple is harder, longer, more exhausting. But Crawford makes the triple look routine and the double look lazy. +2 SPD. +2 POW. The geometry of the outfield bends for him.",
+      "origin": "Crawford hit more triples than doubles four times in his career (1902, 1903, 1914, 1916) — an almost incomprehensible feat."
+    },
+    {
+      "title": "The Telegram to Lajoie",
+      "type": "Drama",
+      "text": "Your rival teammate has won the batting title again. Or has he? Reports say Nap Lajoie has beaten him. Your right fielder — who hates your rival — sends a congratulatory telegram. 'Glad you beat the cheapskate.' The report is wrong. Your rival won after all. The telegram is discovered. The clubhouse fractures further. -2 team chemistry. +1 honesty. The feud deepens.",
+      "origin": "1910: Crawford allegedly sent a telegram congratulating Lajoie on beating Cobb for the batting title. The report was erroneous — Cobb had won."
+    },
+    {
+      "title": "There Never Was a Player",
+      "type": "Drama",
+      "text": "'There never was a player who could hit a ball harder than Sam Crawford.' Ed Barrow says this — the same man who will convert Babe Ruth from a pitcher to an outfielder. The greatest baseball mind of the next generation looks at your right fielder and sees the hardest hitter alive. +3 CON. +2 legacy. The endorsement that echoes.",
+      "origin": "Ed Barrow, who later built the Yankees dynasty, said of Crawford: 'There never was a player who could hit a ball harder.'"
+    },
+    {
+      "title": "The Glory of Their Times",
+      "type": "Drama",
+      "text": "Decades after retirement, a writer named Lawrence Ritter finds your right fielder in Hollywood, California. He is 86 years old. He tells the story of the dead-ball era — the triples, the inside-the-park home runs, the feud with Cobb, the three World Series they lost. His voice is preserved forever. +5 cultural legacy. +3 oral history. The era speaks through him.",
+      "origin": "Crawford was a key interview subject in Lawrence Ritter's The Glory of Their Times (1966), one of the greatest baseball books ever written."
+    },
+    {
+      "title": "Forty Hits Short",
+      "type": "Drama",
+      "text": "Your right fielder retires with 2,961 hits. He is 39 hits short of 3,000 — a milestone that will become sacred. He doesn't know it matters. He goes to Hollywood and lives for 50 more years. The 3,000th hit he never got haunts his statistical legacy. -1 recognition. +2 'what if.' The number he didn't know to chase.",
+      "origin": "Crawford retired with 2,961 hits — 39 short of 3,000. The milestone wasn't significant in his era. He played 4 more years in the PCL."
+    },
+    {
+      "title": "Lost All Three",
+      "type": "Drama",
+      "text": "Your team wins the American League pennant. For the third consecutive year. Your right fielder has led the league in multiple categories. The World Series begins. Your team loses. Again. For the third time. Three pennants. Zero championships. The greatest regular-season run-producer of his generation has no ring. -3 CLU. +1 tragedy. The crown that never came.",
+      "origin": "Tigers won AL pennants in 1907, 1908, 1909. Lost all three World Series. Crawford never won a championship."
+    }
+  ],
+
+  "art_direction": {
+    "face": "STRONG, WEATHERED, MIDWESTERN. 6'0\" 190 lbs — big, sturdy, athletic. The face should be MIDWESTERN HONEST — broad features, strong jaw, sun-weathered from Nebraska prairie and Detroit summers. Not pretty, not intellectual — POWERFUL. The look of a man who was a barber before he was a ballplayer, who hit the ball harder than anyone alive through sheer physical authority. The eyes should carry a hint of bitterness — the residue of the Cobb feud, the three lost World Series, the 40 hits he never knew to chase. But also PRIDE — the quiet pride of a man from Wahoo who became the all-time triples king.",
+    "attire": "Detroit Tigers uniform circa 1911 — white wool jersey with Old English 'D' on the left chest, baggy flannel pants, flat cap. THE POSE: the follow-through of a line drive to the gap — left-handed swing completed, the ball already screaming toward right-center, Crawford's body perfectly extended. Or: rounding second heading for third — the triple in progress, legs churning, head down, the 309th of 309. Or: standing in RF at Bennett Park, the vast Detroit outfield stretching behind him. No number.",
+    "mood": "VAST AND RELENTLESS. Crawford's card should feel like PRAIRIE — the endless Nebraska sky, the vast dead-ball outfields, the distances the ball traveled to become triples. Where Baker is grounded earth and Collins is polished amber, Crawford is OPEN SPACE — wide, expansive, the feeling of a ball rolling forever through an outfield gap. The mood should suggest distance, persistence, the relentless accumulation of 309 triples over 19 years.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Warm Nebraska wheat-gold undertones — similar warmth to Jackson's sunset gold but broader, less intimate — the palette of a landscape rather than a portrait. Crawford's card is prairie gold: expansive, warm, endless. The outfield stretching to the horizon.",
+    "reference": "Think the triple — the ball in the gap, Crawford rounding second, legs churning, the outfielder still chasing. The triple is the most exciting play in baseball — a ball hit hard enough to reach the wall and a man fast enough to reach third. Crawford did this 309 times. Or: the interview with Ritter — Crawford at 86, telling the story, the voice of the dead-ball era preserved. Or: the vast outfield of Bennett Park, Detroit — the cavernous space that made triples possible, Crawford's kingdom."
+  }
+}

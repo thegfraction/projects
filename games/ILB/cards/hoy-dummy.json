@@ -1,0 +1,229 @@
+{
+  "card_type": "player",
+  "name": "William \"Dummy\" Hoy",
+  "nickname": "The Silent Star",
+  "player_image": "https://raw.githubusercontent.com/thegfraction/projects/b9a611655116268b1910dda04fcb97fd0d03b2d1/games/ILB/images/hoy-dummy.png",
+  "year": 1894,
+  "team": "Cincinnati Reds",
+  "era": "1900s",
+  "ilb_team": "Banners NL1900",
+  "position": "CF",
+  "bats": "L",
+  "throws": "R",
+  "height": "5'4\"",
+  "weight": "148 lbs",
+  "born": "May 23, 1862 — Houcktown, OH",
+  "died": "December 15, 1961 — Cincinnati, OH (age 99)",
+  "hof": "NOT in HOF. Campaign ongoing since 1990s. SABR 2018 Overlooked 19th-Century Legend. Cincinnati Reds HOF. American Athletic Association of the Deaf HOF (first inductee, unanimous). Career: .287 BA, 2,044 H, ~600 SB, 1,004 BB, .386 OBP. Record career OF putouts, total chances, CF games. Credited with inspiring hand signals for umpires.",
+
+  "real_stats": {
+    "season": 1894,
+    "games": 130,
+    "at_bats": 502,
+    "hits": 157,
+    "doubles": 23,
+    "triples": 7,
+    "home_runs": 5,
+    "rbi": 58,
+    "runs": 118,
+    "stolen_bases": 30,
+    "batting_avg": ".312",
+    "obp": ".397",
+    "slg": ".396",
+    "ops": ".793",
+    "ops_plus": 112,
+    "war": 4.2,
+    "of_assists": 45,
+    "career_avg": ".287",
+    "career_hits": 2044,
+    "career_hr": 40,
+    "career_sb": "~600",
+    "career_rbi": 726,
+    "career_runs": 1426,
+    "career_war": 32.5,
+    "career_obp": ".386",
+    "career_bb": 1004,
+    "career_games": 1798,
+    "career_of_po": 3958,
+    "career_of_tc": 4625,
+    "career_cf_games": 1726,
+    "deaf_since": "Age 2-3 (meningitis)",
+    "lived_to": 99
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 3,
+    "pow": 0,
+    "spd": 3,
+    "def": 3,
+    "clu": 1
+  },
+
+  "stat_justification": {
+    "con": ".312 BA in 1894 → tier 4 (.300-.329). Career .287 BA. OPS+ typically 110-120, not reaching the ≥130 bonus threshold consistently. He was a good contact hitter — left-handed, tiny strike zone (5'4\"), excellent plate discipline. But his value at the plate was OBP-driven: 1,004 career walks, .386 OBP. That discipline is captured in chemistry traits ('The Patience of Silence') rather than raw CON. Rating: 3.",
+    "pow": "5 HR in 1894. 40 career HR in 1,798 games. SLG .396 peak. He was 5'4\" and 148 pounds — there was no power. Zero home runs in most seasons. The bat produced singles, walks, and stolen bases, not extra-base hits. Rating: 0.",
+    "spd": "82 SB in his 1888 rookie year (led NL). ~600 career SB across multiple stolen base definitions. He was one of the fastest men in the league for over a decade. At 5'4\", the combination of quickness and baserunning intelligence was devastating. Connie Mack contemporaries called him one of the best baserunners alive. The speed also powered his outfield defense — he played shallow because he was fast enough to track down anything hit over his head. Maximum: 3.",
+    "def": "This is where Hoy transcends. Record career OF putouts: 3,958. Record total chances: 4,625. Record games in CF: 1,726. 45 OF assists in one season (1894) — a record. Threw out 3 runners at home plate from the outfield in ONE game (June 19, 1889) — only three players in history have done this. Led NL in OF putouts (359 in 1897). Led all majors in OF putouts, assists, AND fielding average in 1900 — the only outfielder ever to lead all three. His proudest personal achievement was the three thrown-out-at-home game. The deafness helped: no crowd noise distraction, pure visual concentration on the ball. He played shallow and relied on speed to compensate. Maximum defense: 3.",
+    "clu": "1901 AL pennant with Chicago White Sox. Hit the first grand slam in AL history. His last professional play (1903, Pacific Coast League) secured the pennant. Four pennant-winning teams across his career. But no World Series appearances (career ended before the 1903 WS). Rating: 1."
+  },
+
+  "personality": {
+    "leadership_style": "QUIET AUTHORITY. Hoy couldn't speak in the hearing world's language — so he led by example, by performance, by the sheer undeniable fact of his excellence. He taught his teammates sign language. He developed the signal system that coaches and umpires still use. He communicated through action, not words. In a sport defined by shouting and arguing, Hoy's silence was his loudest statement.",
+    "temperament": "Gentle, dignified, resolute. Never ejected from a game. Described as 'gentlemanly and polite, well-liked by teammates and fans.' Calm and collected in a sport that could be heated. Preferred to be called 'Dummy' — at age 95, he wrote to The Sporting News: 'Tell them to call me Dummy again, like they always did.' He wore the name they gave him and made it a badge of honor.",
+    "work_ethic": "RELENTLESS ADAPTATION. Hoy had to solve problems that hearing players never faced. He couldn't hear the umpire call balls and strikes — so he invented a signal system. He couldn't hear his coaches — so he developed visual cues. He couldn't hear the crowd — so the crowd invented Deaf Applause. Every obstacle became an innovation. Every limitation became a legacy.",
+    "lifestyle": "Ohio farm boy, shoe repairman, valedictorian, baseball pioneer, dairy farmer, personnel director for deaf workers at Goodyear, public speaker, umpire for Deaf baseball teams. Married Anna Marie Lowery. Ran a 60-acre dairy farm for 20 years. Lived to 99. Threw out the first pitch at the 1961 World Series at age 99. Died two months later. A life so full it needed a century to contain it.",
+    "era_adaptability": "PERFECTLY MODERN. Hoy's skill set — elite OBP, elite defense, elite speed, zero power — is the modern analytical prototype. He would be a leadoff hitter in any era. His disability would be better accommodated today. His plate discipline (.386 OBP) would be valued more than ever. And the signal system he inspired is still the foundation of baseball communication. He was playing Moneyball in 1894.",
+    "clubhouse_impact": "TRANSFORMATIVE. Hoy didn't just fit into teams — he changed how teams communicated. He taught teammates sign language. He developed signal systems that became universal. Fred Snodgrass (on Dummy Taylor's Giants): 'We could all read and speak the deaf-dumb sign language... he wanted to be one of us, to be a full-fledged member of the team.' Hoy's presence forced everyone around him to be more creative, more inclusive, more visual. In ILB: +2 team communication, +1 innovation.",
+    "dark_side": "The name. 'Dummy.' Every deaf player was called Dummy — Dummy Hoy, Dummy Taylor, Dummy Deegan, Dummy Leitner. It was the era's word for deaf-mute. Hoy wore it with grace — he preferred it to his given name. But the word itself carries the weight of a world that reduced deaf people to their disability. And the HOF exclusion: 99 years of life, 14 years of elite baseball, the signal system, the records — and still not in Cooperstown. The greatest overlooked player in baseball history remains overlooked."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Silence",
+      "desc": "Hoy is deaf. He cannot hear umpire calls, coach instructions, crowd noise, or opponent trash talk. Immune to all auditory distraction and intimidation. +1 focus permanently. The silence is a superpower."
+    },
+    {
+      "tag": "Signal Pioneer",
+      "desc": "Hoy's need for visual communication led to the development of umpire hand signals used in every baseball game ever played since. When Hoy is on the roster, all team communication is +1 efficiency. Signals replace shouting."
+    },
+    {
+      "tag": "Deaf Applause",
+      "desc": "Fans wave arms and hats instead of cheering. When Hoy makes a great play, the crowd performs Deaf Applause — +2 morale to all deaf/disabled players, +1 crowd energy. A new way to celebrate."
+    },
+    {
+      "tag": "The Patience of Silence",
+      "desc": "1,004 career walks. .386 OBP. He couldn't hear the calls so he learned to see the strike zone. +1 OBP permanently. Walks are not exciting but they are relentless."
+    },
+    {
+      "tag": "Smallest Giant",
+      "desc": "5'4\" 148 lbs — possibly the shortest CF in MLB history. -1 POW permanently. But: +1 SPD, +1 DEF (smaller target, lower center of gravity, faster first step). Size is not destiny."
+    },
+    {
+      "tag": "Three at the Plate",
+      "desc": "Threw out 3 runners at home plate from the outfield in one game (June 19, 1889). One of only three players in history. When Hoy is in CF, baserunners think twice. -1 opponent baserunning aggression."
+    },
+    {
+      "tag": "Valedictorian",
+      "desc": "Class valedictorian at Ohio School for the Deaf. Hoy is the smartest player on the field. +1 to all strategic decisions. He reads the game visually better than hearing players listen to it."
+    },
+    {
+      "tag": "Ninety-Nine Years",
+      "desc": "Hoy lived to 99. Threw out first pitch at 1961 World Series. He outlived nearly every player he ever played with or against. When Hoy retires from ILB, he remains in the game as a scout/coach/ambassador for 50+ additional years."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Played shallow and used elite speed to track everything. Record CF games (1,726). Record OF putouts (3,958). The silent patrol.",
+      "note_extra": "Source labeled 'Center Field (shallow)' / affinity 'HIGH' — mapped to Practice Field/HIGH as primary on-field defensive identity domain. The parenthetical '(shallow)' encodes Hoy's distinctive positioning — he played closer to the infield than any other CF because his speed let him retreat on anything. First note of a positional sub-designation in a Practice Field mapping."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "~600 career SB. 82 SB as a rookie. The basepaths were where his size became an advantage — impossible to tag what you can't see.",
+      "note_extra": "Source labeled 'The Basepaths' / affinity 'HIGH' — mapped to Practice Field/HIGH as on-field speed domain. Second Practice Field HIGH. Same node as Babe Herman's Basepaths/LOW but inverted: Hoy owned the basepaths, Herman was destroyed by them. Same physical space, opposite affinity, opposite competence."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "1,004 career walks. .386 OBP. Tiny strike zone. He stood in the box and waited. The pitchers came to him.",
+      "note_extra": "Source labeled 'Batter's Box (patient)' / affinity 'HIGH' — mapped to Practice Field/HIGH as on-field offensive identity domain. The parenthetical '(patient)' distinguishes Hoy's batter's box register from the default: his box is defined by discipline and waiting, not the hit-and-run mastery of Billy Herman or the contact supremacy of Hornsby. Third Practice Field HIGH on this card — CF shallow, basepaths, and batter's box all at maximum. The most concentrated single-node positive affinity in the set."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "HIGH",
+      "note": "Born in Houcktown. Educated in Columbus. Five seasons with the Reds. Farm near Cincinnati. Died in Cincinnati. Ohio was home, always.",
+      "note_extra": "Source labeled 'Ohio / Cincinnati' / affinity 'HIGH' — mapped to Library/Quiet Spot/HIGH as lifelong home region. Consistent with Glendale/CA for Babe Herman. Ohio is not a single address but a lifelong territorial identity: birthplace, schooling, professional home, farm, death. A regional rather than municipal home."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Personnel director for deaf workers at Goodyear. Umpired Deaf baseball. Public speaker. First inductee in AAAD HOF. The community's champion.",
+      "note_extra": "Source labeled 'The Deaf Community' / affinity 'HIGH' — mapped to Community Events/HIGH as identity-community affinity space. First location in the set encoding a disability/identity community as a place of belonging rather than a physical location. Community Events is the correct node: the Deaf community is Hoy's civic/social world, not a physical venue. The note documents his lifelong engagement as advocate, employer, umpire, and HOF inductee."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "LOW",
+      "note": "NOT THERE YET. 99 years of life. 2,044 hits. Record defense. Signal pioneer. Still waiting. The campaign continues.",
+      "note_extra": "Source labeled 'Cooperstown' / affinity 'LOW' — mapped to Community Events/LOW as institutional recognition space with active exclusion. Consistent with Babe Herman's Hall of Fame / Cooperstown mapping to Community Events; Herman received NONE (definitive rejection at 5.7% peak vote); Hoy receives LOW (active campaign ongoing, 'NOT THERE YET'). The LOW-not-NONE distinction is meaningful: LOW encodes active exclusion with live hope; NONE encodes definitive rejection. Second Community Events LOW in the set; first with a positive valence to the exclusion ('the campaign continues' vs. 'he was right, they didn't agree')."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Walking pitchers — each walk builds momentum. The patience compounds. By the 7th inning, he owns the zone.",
+      "Visual tracking — he reads the pitcher's body language without auditory distraction. He sees what others hear.",
+      "Stolen base situations — speed + intelligence + silence. The catcher never hears him coming.",
+      "Defensive plays — every putout, every assist, every throw-out feeds his confidence. The glove is the engine."
+    ],
+    "cold_triggers": [
+      "Power situations — when the team needs a home run, Hoy can't provide it. 40 career HR. The bat is singles and walks.",
+      "Communication breakdowns — without proper signal systems, Hoy is at a disadvantage. Teams that don't adapt to his needs hurt him.",
+      "Late-career decline — played until 42 but the speed faded. Without speed, the defense and baserunning drop.",
+      "Dismissal — when opponents or media use 'Dummy' as mockery rather than respect, it stings even through the grace."
+    ],
+    "pressure_response": "STEADY AND RELIABLE. Hoy played for 4 pennant-winning teams across 4 different leagues. His last professional play won a pennant. He hit the first grand slam in AL history. He wasn't a dramatic clutch performer — he was a consistent, reliable presence who produced the same OBP, the same defense, the same baserunning in every situation. The silence steadied him. In ILB: he won't hit the walkoff homer, but he'll get on base, steal second, and score on a single. Every time."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Signal System",
+      "type": "Origin",
+      "text": "Your deaf outfielder cannot hear the umpire's calls. He asks the third base coach to raise his right arm for a strike, left arm for a ball. The coach complies. Other players notice. Coaches adopt the system. Umpires adopt the system. Every baseball game played from this moment forward uses hand signals. One player's need becomes the sport's universal language. +5 legacy. +3 communication for all teams, all eras, forever.",
+      "origin": "Hoy is credited with inspiring the development of umpire hand signals for balls, strikes, and outs. While disputed by historians (Cy Rigler, Bill Klem, and Ed Dundon have competing claims), Hoy's need for visual communication was a driving force in the adoption of signals."
+    },
+    {
+      "title": "Three Thrown Out at Home",
+      "type": "Game Action",
+      "text": "Your 5'4\" center fielder throws out three baserunners at home plate — from the outfield — in a single game. One of only three players in baseball history to accomplish this. The arm is a cannon. The accuracy is surgical. The baserunners stop running. -3 opponent baserunning aggression for the rest of the series.",
+      "origin": "June 19, 1889: Hoy threw out 3 Indianapolis runners at home plate from center field. He later called it his proudest achievement in baseball."
+    },
+    {
+      "title": "Deaf Applause",
+      "type": "Drama",
+      "text": "Your player makes a spectacular catch. The crowd erupts — but he can't hear them. So they stand in the bleachers and wave their arms and hats, creating a silent ovation visible from center field. A new tradition is born. Deaf Applause. +3 crowd energy. +2 to all disabled players' morale. The world learns a new way to celebrate.",
+      "origin": "Fans at Hoy's games developed 'Deaf Applause' — waving arms and hats instead of cheering — so he could see their appreciation. The tradition persisted throughout his career."
+    },
+    {
+      "title": "The First Grand Slam",
+      "type": "Game Action",
+      "text": "Your outfielder hits the first grand slam in the history of the new league. The ball clears the fence — his 40th career home run isn't special for its distance but for its timing. Four runs score. History is made. +3 franchise legacy.",
+      "origin": "1901: Hoy hit the first grand slam in American League history while playing for the Chicago White Sox."
+    },
+    {
+      "title": "Forty-Five Assists",
+      "type": "Game Action",
+      "text": "Your center fielder records 45 assists from the outfield in one season — a record. Runners stop testing his arm. The outfield becomes a kill zone. +2 DEF for the entire season. -2 opponent baserunning.",
+      "origin": "1894: Hoy recorded 45 OF assists, a record that stood for decades. His arm from center field was devastatingly accurate."
+    },
+    {
+      "title": "Dummy vs. Dummy",
+      "type": "Game Action",
+      "text": "For the first and only time in Major League history, a deaf batter faces a deaf pitcher. Both communicate in sign language. The crowd is riveted. The umpire signals everything. The game within the game becomes visible. +3 cultural significance.",
+      "origin": "May 16, 1902: Hoy (batter) faced Dummy Taylor (pitcher, NY Giants) in the first and only all-deaf matchup in MLB history."
+    },
+    {
+      "title": "The Valedictorian",
+      "type": "Origin",
+      "text": "Your player graduated as valedictorian of the Ohio School for the Deaf. He opened a shoe repair shop. He played weekend baseball. A scout saw him hitting every pitch and told him to go to Milwaukee. The smartest kid in the school became the smartest player on the field. +1 to all strategic decisions. Intelligence compensates for everything.",
+      "origin": "Hoy was valedictorian at Ohio School for the Deaf. He opened a shoe repair business before being scouted for professional baseball."
+    },
+    {
+      "title": "Tell Them to Call Me Dummy",
+      "type": "Drama",
+      "text": "At age 95, your retired player writes to the sporting press: 'Tell them to call me Dummy again, like they always did.' The name they gave him — the word that meant deaf and mute and lesser — he wears it like a crown. He took their word and made it his name. +5 dignity. +3 legacy. The silence speaks.",
+      "origin": "At age 95, Hoy wrote to The Sporting News asking to be called Dummy, the name he'd carried his entire career. He died at 99 in 1961, two months after throwing out the first pitch at the World Series."
+    }
+  ],
+
+  "art_direction": {
+    "face": "SMALL. 5'4\" 148 lbs — the smallest man on any field he ever played on. But the face should radiate intelligence, dignity, and quiet intensity. Ohio farm boy features — honest, open, weathered. Eyes are the KEY: Hoy's eyes were his primary tool for processing the world. They should be sharp, alert, scanning — the eyes of a man who sees everything because he hears nothing. A gentle half-smile — the 'Dummy' who was the smartest man in the room.",
+    "attire": "Cincinnati Reds uniform circa 1894 — white wool jersey with red trim, 'CINCINNATI' or 'C' insignia, baggy flannel pants, flat cap. Hoy in center field: low ready crouch, positioned SHALLOW (closer to the infield than normal CF), eyes locked on the batter, glove ready. Or: the throwing motion — Hoy's arm cocked, about to fire a throw from CF to home plate, the runner already doomed. Or: at bat — tiny frame crowded over the plate, left-handed stance, the strike zone impossibly small. No number.",
+    "mood": "QUIET REVOLUTION. The card should feel like silence made visible — calm, focused, profound. Not the volcanic energy of Jennings or the golden speed of Lange. Hoy's card is STILL. The silence is the power. The field around him should feel almost hushed — as if the card itself has absorbed the noise.",
+    "style": "Sepia-toned with a distinctly SOFTER, warmer palette — gentler than other Banners cards. Where Jennings is furnace-red and Chesbro is autumn-amber, Hoy is WARM EARTH and QUIET GOLD. The palette suggests patience, dignity, and a life that lasted 99 years. The grain should be softer too — less aggressive, more contemplative. A card that rewards slow looking.",
+    "reference": "Think the shallow CF positioning — Hoy standing closer to the infield than any other outfielder, reading the batter's hands, the pitcher's release, the ball's trajectory. All visual. All silent. Or: Deaf Applause — the moment after the catch, Hoy looking up at the grandstand, fans waving arms and hats instead of screaming. He sees the love. He can't hear it. He doesn't need to. The card should capture that moment of silent connection between the player and his people."
+  }
+}

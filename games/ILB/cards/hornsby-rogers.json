@@ -1,0 +1,200 @@
+{
+  "card_type": "player",
+  "name": "Rogers Hornsby",
+  "nickname": "The Rajah",
+  "year": 1924,
+  "team": "St. Louis Cardinals",
+  "league": "National League",
+  "era": "1920s",
+  "ilb_team": "Bashers AL1920",
+  "position": "2B",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'11\"",
+  "weight": "175 lbs",
+  "born": "April 27, 1896 — Winters, Texas",
+  "died": "January 5, 1963 — Chicago, Illinois (age 66). Heart attack following cataract surgery. Buried in Hornsby family cemetery, Austin, Texas.",
+  "hof": "INDUCTED 1942 (FIRST BALLOT — 2nd year of eligibility). .358 career BA (2nd all-time), 2,930 H, 301 HR, 1,584 RBI. 7× batting champion. 2× Triple Crown. 2× NL MVP. 9× SLG leader. 9× OBP leader. 1926 WS champion (player-manager). The greatest right-handed hitter in baseball history. The most unpleasant man in the game.",
+
+  "real_stats": {
+    "season": 1924,
+    "batting_avg": ".424",
+    "obp": ".507",
+    "slg": ".696",
+    "ops": "1.203",
+    "hits": 227,
+    "doubles": 43,
+    "triples": 14,
+    "home_runs": 25,
+    "rbi": 94,
+    "runs": 121,
+    "stolen_bases": 5,
+    "total_bases": 373,
+    "games": 143,
+    "war": 12.1,
+    "note": "Highest BA in modern (live-ball) era. Still unmatched 100+ years later.",
+    "five_year_run": ".397 / .401 / .384 / .424 / .403 (1921-1925) — avg .402",
+    "triple_crown_1922": ".401 BA / 42 HR / 152 RBI",
+    "triple_crown_1925": ".403 BA / 39 HR / 143 RBI",
+    "career_batting_avg": ".358",
+    "career_hits": 2930,
+    "career_hr": 301,
+    "career_rbi": 1584,
+    "career_runs": 1579,
+    "batting_titles": 7,
+    "triple_crowns": 2,
+    "mvp_awards": 2
+  },
+
+  "ilb_stats": {
+    "ovr": 11,
+    "con": 5,
+    "pow": 4,
+    "spd": 1,
+    "def": 1,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": "Rogers Hornsby hit .424 in 1924. It is the highest batting average in the modern (live-ball) era, and no one has matched it in the century since. He collected 227 hits with a .507 OBP. His career batting average of .358 is second in MLB history only to Ty Cobb. He won 7 NL batting titles, including 6 consecutive (1920-1925). During those six years, his batting averages were .370, .397, .401, .384, .424, and .403 — a composite .402. Arthur Daley called this 'the most unbelievable period of batting greatness in baseball history.' He never read books, never watched movies, and ate steak and milk to protect his 'batting eyes.' This is the maximum possible contact rating. Rating of 5.",
+    "pow": "Hornsby hit 25 home runs in 1924 with a .696 SLG. In 1922, he hit 42 HR (leading the NL by 16) with 152 RBI and 450 total bases (leading by 136). In 1925, he hit 39 HR with 143 RBI. He won 2 Triple Crowns (1922, 1925) — one of only two players in NL history. Career: 301 HR, 1,584 RBI. He was the first player to hit 40 HR and bat .400 in the same season (1922). For a second baseman, this power is unprecedented — no 2B before or since has combined this level of contact and power. Rating of 4.",
+    "spd": "Hornsby stole 5 bases in 1924 and had 14 triples. He finished his career with 33 inside-the-park home runs, suggesting he had decent speed, particularly early in his career when he played shortstop. But speed was never a weapon for Hornsby. His game was about the bat, not the legs. Career: 135 stolen bases over 23 seasons — modest. Rating of 1.",
+    "def": "Hornsby played shortstop early in his career before settling at second base in 1920. His first year at 2B, he led the position in errors with 34. He improved over time to a competent defender but was never elite. His value was entirely in his bat. Branch Rickey and others recognized this — they moved him to 2B specifically to reduce the defensive burden while keeping his bat in the lineup. Rating of 1.",
+    "clu": "Hornsby player-managed the 1926 Cardinals to their first World Series championship, defeating the Yankees in a legendary seven-game series that ended with Babe Ruth caught stealing. This is a significant achievement. However, his career World Series batting average is .245 — a significant drop from his .358 career average. He appeared in only 2 World Series in 23 seasons. The 1926 WS management earns credit, but the personal October numbers and limited postseason appearances hold the rating back. Rating of 2."
+  },
+
+  "personality": {
+    "leadership_style": "TYRANNICAL PERFECTIONISM. Hornsby led by demanding that everyone match his monomaniacal dedication to baseball. He insisted teammates follow his lifestyle — no movies, no books, no drinking, no smoking, no fun. Most players despised him for it. He was fired from every managerial job he ever held. When Bill Veeck fired him from the Browns in 1952, his players gave Veeck a trophy inscribed 'For the greatest play since the Emancipation Proclamation.' His memoir was titled 'My War With Baseball.' This is not leadership. This is domination disguised as leadership.",
+    "temperament": "BRUTAL HONESTY WITH ZERO DIPLOMACY. Sam Breadon: 'Listening to Hornsby was like having the contents of a rock crusher emptied over his head.' Lee Allen: 'Frank to the point of being cruel and as subtle as a belch.' Eating dinner with teammate Eddie Farrell, a sportswriter asked if the Giants could win the pennant. Hornsby's response, with Farrell sitting right there: 'Not with Farrell playing shortstop.' At 15, complimented on his fielding at 2B: 'Yeah, and there are eight other positions I can play just as good.' The honesty was pathological. It was not a choice — it was a compulsion.",
+    "work_ethic": "OBSESSIVE AND MONOMANIACAL. Hornsby's life was baseball and horses and nothing else. He never read (damaged eyesight). Never watched movies (damaged eyesight). Never smoked (mother's orders). Never drank (mother's orders). Diet: red meat, milk, ice cream. 'People ask me what I do in winter when there's no baseball. I'll tell you what I do. I stare out the window and wait for spring.' This is not work ethic — this is worship. Baseball was his religion, his identity, his entire world. Everything else — people, relationships, money, decency — was an obstacle.",
+    "lifestyle": "ASCETIC EXCEPT FOR THE VICE. Hornsby lived like a monk devoted to hitting. No movies. No books. No alcohol. No tobacco. No cards. No golf ('I don't want to play golf. When I hit a ball, I want someone else to go chase it.'). But he gambled compulsively on horse racing. A bookmaker once sued him for $70,075. He borrowed money from teammates to fund bets. He lost heavily in the 1929 crash. The gambling caused multiple trades and firings. He had to play in the minors in his 40s to pay debts. The monk had a demon, and the demon ate everything the monk earned.",
+    "era_adaptability": "THE HIGHEST. Hornsby's hitting approach — studying pitchers, protecting eyesight, physical conditioning — anticipated modern sports science by decades. His .424 BA would obviously be lower in modern baseball, but his approach, discipline, and hand-eye coordination would translate to any era. He'd be a .330 hitter with 35+ HR today — an MVP candidate in any decade. The personality, however, would get him traded within a year of every team, just as it did in the 1920s.",
+    "clubhouse_impact": "MAXIMUM NEGATIVE. Hornsby is the anti-Bottomley. Where Sunny Jim was +3 morale, Hornsby is -3. He made teammates miserable. He insulted them to their faces. He borrowed their money and lost it on horses. He demanded they live like monks while he gambled away fortunes. One writer called him 'a liturgy of hatred.' Bill James named him 'the biggest horse's ass in baseball history.' In ILB, Hornsby provides -2 to team morale but +3 to team batting discipline. The bat is worth the damage. Barely.",
+    "tragic_element": "THE LONELINESS OF SUPREMACY. Hornsby was the greatest right-handed hitter who ever lived, and he died essentially alone — three marriages, all storms; decades of alienation from every organization he touched; gambling debts that kept him in the minors past 40; cataracts that destroyed the eyes he'd protected his entire life. The cataract surgery that preceded his fatal heart attack is the cruelest irony: the man who never read, never watched movies, never did anything to harm his eyesight — died having his eyes fixed. He stared out the window and waited for spring, and spring eventually stopped coming."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The .424",
+      "desc": "The highest batting average in the modern era. 100 years and counting. In ILB, Hornsby has a NON-ZERO chance of hitting .400 in any given season — the only card in the entire system with this probability. When Hornsby is locked in, the contact rating effectively becomes 6 on a 5-point scale. The scale breaks."
+    },
+    {
+      "tag": "Go-To-Hell Eyes",
+      "desc": "Westbrook Pegler's description. Hornsby's gaze was a weapon — pitchers, teammates, owners, umpires all felt it. In ILB, Hornsby has +2 to intimidation vs. all opponents. But -2 to all interpersonal interactions with teammates, management, and media. The eyes see everything and forgive nothing."
+    },
+    {
+      "tag": "The Monk's Vice",
+      "desc": "Never read. Never watched movies. Never smoked. Never drank. But gambled compulsively on horse racing. In ILB, Hornsby has +2 to personal discipline stats but a d20 roll each season: on 1-3, a gambling crisis reduces his concentration for 2 weeks. The demon is always present."
+    },
+    {
+      "tag": "Fired From Everywhere",
+      "desc": "Managed 5 major-league clubs. Fired from ALL FIVE. Traded after winning the 1926 WS. In ILB, Hornsby has a 25% chance per season of causing a manager conflict that results in his being traded or benched. The talent is always worth it. The cost is always real."
+    },
+    {
+      "tag": "The Window",
+      "desc": "'People ask me what I do in winter when there's no baseball. I'll tell you what I do. I stare out the window and wait for spring.' In ILB, Hornsby's stats in April (spring) are +1 across the board. The waiting is over. The window opens. He comes out swinging."
+    },
+    {
+      "tag": "Bottomley's Shadow-Caster",
+      "desc": "Bottomley hit .371 as a rookie — 2nd to Hornsby's .384. Hit .367 in 1925 — 2nd to Hornsby's .403. In ILB, any teammate with CON 3+ within Hornsby's shadow produces at THEIR natural rate but receives no recognition. The Rajah absorbs all light."
+    },
+    {
+      "tag": "The Rock Crusher",
+      "desc": "Sam Breadon: 'Listening to Hornsby was like having the contents of a rock crusher emptied over his head.' In ILB, Hornsby provides -2 to team morale but +3 to team batting discipline. The abuse works. The lineup hits better because they're terrified of being called humpty-dumpties."
+    },
+    {
+      "tag": "The Cataracts",
+      "desc": "Hornsby died following cataract surgery — the eyes he spent a lifetime protecting failed anyway. In ILB, Hornsby's CON rating declines by 1 every 3 seasons after age 33. The eyes age. The monk's devotion delays but cannot prevent the decline. The irony is structural."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "ABSOLUTE",
+      "note": "The only place Hornsby was happy. The only place the world made sense. Everything else was waiting to get back here.",
+      "note_extra": "Source labeled 'The Batter's Box' / affinity 'ABSOLUTE' — mapped to Practice Field/ABSOLUTE. ABSOLUTE is a new affinity tier above HIGH and MAXIMUM, encoding unconditional supremacy: the only domain where the card has zero negative valence and zero ambivalence. First ABSOLUTE affinity in the set. The batter's box is the Practice Field node's purest expression — the on-field identity space as the totality of a person's meaningful existence."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "MAXIMUM/HOME",
+      "note": "1915-1926, 1933. 12 seasons. 6 consecutive batting titles. The .424. The 1926 WS. Then traded away.",
+      "note_extra": "Source labeled 'Sportsman's Park, St. Louis' / affinity 'MAXIMUM / HOME' — mapped to Media/Spotlight/MAXIMUM/HOME. Compound label with slash separator, consistent with Heilmann's HOME(Post-Career) pattern. MAXIMUM = peak performance environment; HOME = primary franchise identity. 12 seasons and the defining achievements of the career. The 'traded away' note encodes the rupture within the HOME designation."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ADDICTION",
+      "note": "Hornsby's great vice. Lost more than he won. Bookmaker sued for $70,075. The demon that devoured the monk's earnings.",
+      "note_extra": "Source labeled 'The Racetrack' / affinity 'ADDICTION' — mapped to Community Events/ADDICTION. The racetrack is a public social/civic space, consistent with Community Events. ADDICTION is a new affinity tier encoding compulsive attachment — not chosen preference but driven compulsion. Distinct from HIGH (positive preference) or SACRED (moral/spiritual weight): ADDICTION means the card is drawn to this space against rational interest, with negative outcomes. First ADDICTION affinity in the set."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "EXILE",
+      "note": "Where he waited for spring. Where the greatest hitter in the world sat when there was nothing to hit. The loneliest place in baseball.",
+      "note_extra": "Source labeled 'The Window' / affinity 'EXILE' — mapped to Library/Quiet Spot/EXILE. The window is a private domestic interior space defined by what is absent from it (baseball, spring, purpose). Library/Quiet Spot is the correct node: private, enclosed, contemplative. EXILE is a new affinity tier encoding involuntary presence — not chosen home, not retreat, but imprisonment by circumstance. Distinct from NONE (institutional rejection) and LOW (low preference): EXILE means the card is present in this space only because it cannot be elsewhere. First EXILE affinity in the set."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "The plate — always. Hornsby hit .402 over five years. The hot streak was YEARS long. When he was at the plate, he was the best who ever lived.",
+      "Spring — the window opens. Hornsby's April stats were consistently excellent. He arrived at spring training hungry.",
+      "Adversity with management — when owners or managers challenged him, Hornsby often responded with even better hitting. The spite fueled the bat.",
+      "Right-handed pitching — Hornsby crushed RHP throughout his career. The stance, the eyes, the discipline were built to destroy right-handers."
+    ],
+    "cold_triggers": [
+      "October — .245 career WS BA from a .358 career hitter. The biggest stage dimmed him slightly.",
+      "Personal turmoil — gambling debts, divorces, and managerial firings occasionally affected his focus. The monk was not immune to the demon.",
+      "Late career — cataracts and age caught up. The eyes he protected failed. The .424 became .245 (1934).",
+      "Team chemistry collapse — when the clubhouse turned completely against him, even Hornsby's bat couldn't overcome the isolation."
+    ],
+    "pressure_response": "TRANSCENDENT AT THE PLATE, DESTRUCTIVE EVERYWHERE ELSE. Hornsby under pressure hit better. Hornsby under pressure managed worse. The bat responded to pressure by becoming more focused. The personality responded to pressure by becoming more toxic. CLU = 2 reflects this duality: magnificent individual talent, compromised team outcomes."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Four Twenty-Four",
+      "type": "Record / Supremacy",
+      "text": "1924. Your second baseman hits .424. Four hundred and twenty-four. The highest batting average in the modern era. One hundred years later, nobody has matched it. He gets 227 hits in 536 at-bats. His on-base percentage is .507. His slugging percentage is .696. His OPS is 1.203. He leads the league in hits, doubles, on-base percentage, slugging percentage, runs, total bases. He does not win the MVP because the award doesn't exist yet in its current form. He does not win the batting title because there is no one close enough to make it a race. He wins, period. The .424 is not a number. It is a monument.",
+      "origin": "Hornsby's .424 BA in 1924 — highest in the modern era, still unmatched."
+    },
+    {
+      "title": "The Five-Year Run",
+      "type": "Supremacy / Duration",
+      "text": "1921: .397. 1922: .401. 1923: .384. 1924: .424. 1925: .403. Five years. Five batting averages. Composite: .402. Arthur Daley of the New York Times: 'The most unbelievable period of batting greatness in baseball history.' Your second baseman hits over .380 for five consecutive seasons. He hits over .400 three times. He wins two Triple Crowns. He leads the league in batting average, on-base percentage, and slugging percentage every single year. There is nothing in baseball history that compares to this. Ty Cobb had longer sustained excellence. Ted Williams had the eye. But nobody had THIS — five years of absurd, impossible, record-breaking contact supremacy. The Rajah's reign.",
+      "origin": "Hornsby's 1921-1925 — the greatest five-year hitting stretch in baseball history."
+    },
+    {
+      "title": "Not With Farrell",
+      "type": "Character / Personality",
+      "text": "Your second baseman is eating dinner with his teammate, shortstop Eddie Farrell. A sportswriter stops by the table. 'Do you think the Giants can win the pennant this year?' Your second baseman does not pause. Does not soften. Does not consider that Eddie Farrell is SITTING RIGHT THERE. 'Not with Farrell playing shortstop.' Farrell puts down his fork. The sportswriter writes it down. Your second baseman continues eating. He does not understand why this is a problem. He was asked a question. He answered honestly. Honesty is all he knows. Honesty and batting averages.",
+      "origin": "Hornsby's brutal honesty to sportswriter about teammate Eddie Farrell — with Farrell at the table."
+    },
+    {
+      "title": "The Window",
+      "type": "Character / Solitude",
+      "text": "'People ask me what I do in winter when there's no baseball. I'll tell you what I do. I stare out the window and wait for spring.' This is your second baseman's confession. He does not read — it would damage his eyesight. He does not watch movies — flickering lights. He does not drink. He does not smoke. He does not play cards. He does not play golf. ('When I hit a ball, I want someone else to go chase it.') What is left? A window. A racetrack. And waiting. The greatest hitter who ever lived, sitting in a chair, staring through glass, doing nothing, because nothing that is not baseball is worth doing.",
+      "origin": "Hornsby's famous quote about winter. The ascetic life built around one purpose."
+    },
+    {
+      "title": "The Emancipation",
+      "type": "Character / Toxic Legacy",
+      "text": "1952. Bill Veeck fires your second baseman as manager of the St. Louis Browns after 51 games. The players are so grateful they present Veeck with a three-foot trophy. The inscription reads: 'To Bill Veeck: For the greatest play since the Emancipation Proclamation.' Your second baseman has been fired from every managerial job he has ever held. Cardinals. Giants. Braves. Cubs. Browns. Five teams. Five firings. He will write a book about it. He will call it 'My War With Baseball.' The war is with everyone. The war is with the world. The only peace he ever knew was the batter's box.",
+      "origin": "Hornsby's players celebrating his firing. Five managerial dismissals. 'My War With Baseball.'"
+    },
+    {
+      "title": "The Monk and the Demon",
+      "type": "Character / Duality",
+      "text": "Your second baseman lives like a monk. No movies. No books. No alcohol. No tobacco. Red meat, milk, ice cream. Eleven hours of sleep. He protects his eyesight with the devotion of a priest protecting sacred text. And then he goes to the racetrack. A bookmaker sues him for seventy thousand dollars. He borrows money from teammates. He loses heavily in the crash of 1929. The gambling costs him the Cardinals, the Giants, the Cubs, the Browns. The monk builds a temple to hitting. The demon burns it down with horse-race tickets. They are the same man.",
+      "origin": "Hornsby's ascetic lifestyle vs. his compulsive horse-racing gambling."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'11\" 175 lbs — lean, hard, SHARP. Not handsome — SEVERE. Go-to-hell eyes. Clear, wide-set, meeting yours squarely. The face of a man who told the truth always and never understood why the truth made people hate him. No warmth. No softness. No apology. The jaw is set. The mouth is a line. The expression says: I hit .424 and I don't care if you like me. This is the OPPOSITE face to Bottomley's smile. Bottomley is sunshine. Hornsby is the sun itself — blinding, indifferent, necessary.",
+    "attire": "St. Louis Cardinals 1924 home whites. RIGHT-HANDED batting stance — the famous flat-footed, square stance, bat held far back, weight shifted but STILL. Hornsby's stance was unique: feet close together, stood far from the plate, stepped INTO the pitch. The body should look COILED — not fast like Cuyler but LOADED, like a spring compressed past its design limit. Every muscle committed to the next swing. The uniform should be immaculate — Hornsby was not a dirty-uniform player. He was precise.",
+    "mood": "COLD SUPREMACY. This card is not dark (Mays) or warm (Bottomley) or fast (Cuyler) — it is COLD. The cold of mathematical perfection. The cold of a man who hit .424 and felt nothing because .424 was simply what the bat was supposed to do. The mood is ISOLATION — the greatest hitter in the world, alone at dinner, alone in winter, alone in the batter's box. The mood is SEVERITY — no decoration, no comfort, no compromise.",
+    "style": "Full color — Bashers era — STARK AND PRECISE. Cardinals red but COLDER than Bottomley's warm red — the red of a stop sign, not a sunset. White that is CLINICAL, not warm. The border should be COLD GOLD — the gold of a crown worn by someone who rules alone. THE RAJAH — royalty without subjects. The card should feel like holding something expensive that might cut you. The most valuable card in the Bashers after Ruth and Gehrig — and the least loved.",
+    "reference": "Ruth is the solar system. Gehrig is the axis. Bottomley is the sunshine. Hornsby is THE BLADE — the sharpest edge in the Bashers, cutting everything it touches. He is the most concentrated talent in the set: the highest CON, the narrowest life, the coldest eyes. The card that makes you understand why .424 is both the most beautiful and most terrifying number in baseball. The blade that cannot be held without bleeding."
+  }
+}

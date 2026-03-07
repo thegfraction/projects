@@ -1,0 +1,222 @@
+{
+  "card_type": "player",
+  "name": "Elmer Flick",
+  "nickname": "The Demon of the Stick",
+  "year": 1900,
+  "team": "Philadelphia Phillies",
+  "era": "1900s",
+  "ilb_team": "Banners NL1900",
+  "position": "RF",
+  "bats": "L",
+  "throws": "R",
+  "height": "5'9\"",
+  "weight": "168 lbs",
+  "born": "January 11, 1876 — Bedford, OH",
+  "died": "January 9, 1971 — Bedford, OH",
+  "hof": "Class of 1963 (Veterans Committee — unanimous, oldest living inductee at 87)",
+
+  "real_stats": {
+    "season": 1900,
+    "games": 138,
+    "at_bats": 545,
+    "hits": 200,
+    "doubles": 32,
+    "triples": 16,
+    "home_runs": 11,
+    "rbi": 110,
+    "stolen_bases": 35,
+    "batting_avg": ".367",
+    "obp": ".441",
+    "slg": ".545",
+    "ops": ".986",
+    "ops_plus": 179,
+    "war": 7.6,
+    "gold_gloves": 0,
+    "silver_sluggers": 0,
+    "all_star": 0,
+    "career_avg": ".313",
+    "career_hits": 1752,
+    "career_hr": 48,
+    "career_sb": 330,
+    "career_war": 53.0
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 5,
+    "pow": 2,
+    "spd": 3,
+    "def": 1,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": ".367 BA in 1900 — second only to Honus Wagner that year, and Wagner said beating Flick for the title was one of his greatest thrills. Career .313 with a 148 career OPS+. Only 30 strikeouts in 545 AB in 1900. Flick made his own bats on his father's lathe — the original bat craftsman.",
+    "pow": "11 HR in 1900, 48 career. .545 SLG in peak year. 59 extra-base hits and 297 total bases in 1900, both second in the NL. For a 5'9\" dead-ball-era outfielder, Flick had legitimate gap power and occasional over-the-fence pop.",
+    "spd": "35 SB in 1900, 330 career. Led the AL in stolen bases twice (1904, 1906). 164 career triples — 11th-most in baseball history. Led AL in triples 3 consecutive years (1905–07). Maximum speed rating.",
+    "def": "Solid defensive RF who played shallow to generate assists — led the league in outfield assists. Got into fistfights with Lajoie over defensive territory (fly balls in right field). Smart positioning but not a range wizard. Rating of 1 reflects good-not-great reputation.",
+    "clu": "Never reached a World Series. The Phillies and Naps were competitive but never won pennants during Flick's peak. No postseason data exists. Clutch rating of 0 reflects the total absence of October moments, not a lack of ability."
+  },
+
+  "personality": {
+    "leadership_style": "Scrappy, independent, self-made. Flick didn't lead with words — he led by showing up barefoot at 15 and outperforming everyone. A farm kid who made his own bats and fought his way into the majors. Not a captain — a competitor.",
+    "temperament": "Fiery but lovable. Flick was a boxer and wrestler in high school, and it showed. He fistfought Nap Lajoie — his own teammate — over a bat and over fly balls. But he wasn't mean-spirited; he was just intensely competitive. Think of a terrier that doesn't know it's small.",
+    "work_ethic": "Self-taught craftsman. Flick literally carved his own bats on his father's lathe in Bedford, Ohio. He hit .438 in the minors with a homemade bat. His approach was hands-on, practical, and deeply personal — every tool was his own.",
+    "lifestyle": "Farm boy, through and through. Born on a farm in Bedford, Ohio. Father was a Civil War vet and mechanic who tried to build a flying machine. Flick raised horses, hunted, and built houses after retirement. Lived to 94. Died two days before his 95th birthday, in the same town he was born in.",
+    "era_adaptability": "MODERATE-HIGH. Flick's speed, bat control, and competitive fire would translate to any era. His abbreviated career and mysterious stomach illness add risk — he's a high-peak, low-longevity player. In a modern context, he'd be a 5-tool prospect who gets derailed by injury.",
+    "clubhouse_impact": "FEISTY-POSITIVE. Flick was well-liked despite his willingness to fight teammates. His scrappiness was infectious. He made teams tougher just by being in the lineup. The kind of player who elevates intensity without creating toxicity.",
+    "dark_side": "The mysterious illness. Starting in 1908, Flick developed a crippling stomach ailment that dropped his weight to 130 lbs and effectively ended his career at 32. Cleveland initially blamed 'overeating.' Doctors recommended removing his appendix, but Flick refused surgery out of fear. The illness was never fully explained. In ILB terms: Flick carries a 'Fragile' trait — a ticking clock that can end his career prematurely via random health event."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Scrapper",
+      "desc": "Flick gains +1 to all stats when his team is the underdog or trailing. He fights harder when the odds are against him."
+    },
+    {
+      "tag": "Bat Craftsman",
+      "desc": "Flick's homemade bats give him +1 CON in his first at-bat each game. Personal tools, personal edge."
+    },
+    {
+      "tag": "Ohio Roots",
+      "desc": "Extra comfort in Midwest and industrial-era city squares. Bedford, Ohio was his entire world."
+    },
+    {
+      "tag": "Rival: Lajoie",
+      "desc": "When on the same team as Nap Lajoie, chemistry is volatile: +1 to both players' stats, but a 1-in-10 chance of a fistfight event each series."
+    },
+    {
+      "tag": "Triples Machine",
+      "desc": "On any hit to the gap, Flick has a bonus chance to stretch it to a triple. Roll 4+ on a double for an upgrade."
+    },
+    {
+      "tag": "Fragile",
+      "desc": "Every 10 games, roll a d20. On a 1, Flick develops a health issue and misses 3 games. On a 2, he plays at -1 OVR for 2 games."
+    },
+    {
+      "tag": "Farm Strong",
+      "desc": "Flick doesn't fatigue from travel. No away-game penalties."
+    },
+    {
+      "tag": "Valued Over Cobb",
+      "desc": "Flick's perceived value is higher than his stats suggest. He cannot be traded for less than a star-level return."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "HIGH",
+      "note": "Born on a farm, raised horses, hunted. Bedford, Ohio was home forever.",
+      "note_extra": "Source labeled 'Farm / Countryside' — mapped to Library/Quiet Spot as rural/roots affinity, consistent with Slaughter, Feller, and Ferrell handling."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Crafted his own bats. Practiced with purpose. Self-taught fundamentals.",
+      "note_extra": "Source labeled 'Batting Cages / Practice Field' — direct mapping to Practice Field."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Liked teammates, but would fight them over a bat or a fly ball.",
+      "note_extra": "Source labeled 'Clubhouse / Locker Room' — mapped to Hotel/Rest per taxonomy. Recurring collision flagged across Slaughter, Lombardi, Evers, Flick."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Popular in Cleveland and Bedford. A local legend, not a national celebrity."
+    },
+    {
+      "location": "Gambling Hall",
+      "affinity": "LOW",
+      "note": "Money-motivated enough to jump leagues, but not a businessman. Preferred farming.",
+      "note_extra": "Source labeled 'Financial Office / Bank' — mapped to Gambling Hall as commerce/financial-transaction node, consistent with Feller's Barnstorming Circuit handling."
+    },
+    {
+      "location": "Bar/Nightlife",
+      "affinity": "LOW",
+      "note": "No major drinking associations. Farm-boy lifestyle."
+    },
+    {
+      "location": "Gambling Hall",
+      "affinity": "NONE",
+      "note": "No association.",
+      "note_extra": "Source labeled 'Gambling Hall' — direct mapping. Second Gambling Hall entry on this card (LOW and NONE), both flagged."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Fresh starts — Flick thrived in new environments (Phillies debut, AL jump)",
+      "Tight batting races — his duel with Wagner in 1900 brought out his best",
+      "Multi-triple games — once he starts legging out triples, momentum surges",
+      "Playing alongside stars — performed best when surrounded by talent"
+    ],
+    "cold_triggers": [
+      "Health issues — the mysterious stomach illness derailed his career from 1908 onward",
+      "Contract disputes — considered retiring multiple times over money and fatigue",
+      "Physical decline — his skills eroded rapidly once the illness took hold"
+    ],
+    "pressure_response": "UNKNOWN-PROMISING. Flick never reached a World Series, so his clutch ability is untested. His 1900 batting race with Wagner — going down to the final day — suggests he could perform under pressure. But the sample size is too small to be certain. In ILB: Flick is a wildcard in pressure situations. He might rise to the occasion or he might not. That uncertainty is part of his card's appeal."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Barefoot Ballplayer",
+      "type": "Action",
+      "text": "A 15-year-old kid with no uniform shows up at the train station and asks to play. If you give him a roster spot, he becomes a random prospect with stats between 4-8 OVR. 20% chance he's a future Hall of Famer.",
+      "origin": "At 15, Flick was at a train station when the local semi-pro team was short a player. He joined them barefoot and without a uniform — and a Hall of Fame career began."
+    },
+    {
+      "title": "The Homemade Bat",
+      "type": "Game Action",
+      "text": "Your player carves his own bat on a lathe. For the rest of the series, he gains +1 CON and his hits are more likely to go to the opposite field. But the bat has a 10% chance of breaking each game.",
+      "origin": "Flick literally carved his own bat on his father's lathe in Bedford, Ohio. He used it to hit .438 in the minors."
+    },
+    {
+      "title": "Valued Over Cobb",
+      "type": "Drama",
+      "text": "An opposing team offers to trade their young superstar for your veteran outfielder. Your manager refuses. If the young player becomes a legend, your team's reputation takes -3. If he busts, your team gains +3.",
+      "origin": "In 1907, Detroit offered Ty Cobb straight up for Elmer Flick. Cleveland refused. It became one of the worst non-trades in baseball history."
+    },
+    {
+      "title": "The Fistfight Over a Bat",
+      "type": "Drama",
+      "text": "Two teammates get into a brawl over equipment. One breaks his thumb. The injured player misses 5 games. But both players gain +1 intensity for the rest of the season.",
+      "origin": "Flick and Lajoie fought over a bat during a 1900 game. Lajoie broke his thumb on a wall and missed five weeks. Flick, who boxed in high school, held his own despite being 30 lbs lighter."
+    },
+    {
+      "title": "The Pennsylvania Injunction",
+      "type": "Drama",
+      "text": "A court order bars your player from playing in one state. He can play all other games but must take a paid vacation during road trips to that state. You keep him but lose home-field advantage in that city.",
+      "origin": "Like Lajoie, Flick was barred by the Pennsylvania Supreme Court from playing for any team except the Phillies — but only in Pennsylvania. He joined Cleveland and simply skipped Philly road trips."
+    },
+    {
+      "title": "The Mysterious Illness",
+      "type": "Drama",
+      "text": "Your star player develops a chronic, unexplained stomach ailment. He drops 30 lbs. Play him at -2 OVR for the rest of the season, or shut him down entirely. If you shut him down, he has a 60% chance of returning next season at full strength. If you play him through, 40% chance his career ends.",
+      "origin": "Flick's mysterious gastrointestinal illness starting in 1908 was never explained. It reduced him from 168 to 130 lbs and effectively ended his career at 32."
+    },
+    {
+      "title": "Three Triples",
+      "type": "Game Action",
+      "text": "Your fastest outfielder hits three triples in one game. Each triple generates +1 team momentum. After the third, the opposing team's morale crashes by -2.",
+      "origin": "On July 6, 1902, Flick hit three triples in a single game — a rare feat accomplished fewer than 50 times in the next century."
+    },
+    {
+      "title": "The Flying Machine",
+      "type": "Action",
+      "text": "Your player's eccentric father builds a failed flying machine. It becomes a local legend. Team gains +1 reputation in the home city (the fans love the story) but -1 credibility with rival teams.",
+      "origin": "Flick's father Zachary, a Civil War vet and mechanic, gained local notoriety for his failed attempt(s) to build a flying machine in Bedford, Ohio."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Compact, athletic face with a determined, slightly mischievous expression. Not big — 5'9\" 168 lbs — but wiry and coiled. Clean-shaven with a strong jaw. Eyes bright and alert, scanning the field. The look of a farm kid who can outrun you and outfight you.",
+    "attire": "Philadelphia Phillies 1900 home whites, baggy wool flannel, high collar. No number. Cap slightly tilted. Uniform a bit loose on his wiry frame. Maybe a trace of red clay or dirt on the knees — this is a guy who slides hard and stretches doubles into triples.",
+    "mood": "Scrappy confidence. Not the serene grace of Lajoie or the cold menace of Cobb — this is a terrier. Compact energy, coiled to spring. Mid-swing with a slightly unconventional bat, or rounding second at full tilt, head down.",
+    "style": "Warm sepia with golden-brown earth tones. Rural feeling — a wooden fence or farmland haze in the background rather than a grand stadium. Tobacco-card composition with simpler, more rustic border than the big-city stars. Aged paper with heavy foxing and patina. The feeling of small-town Ohio at the turn of the century.",
+    "reference": "Think Old Judge or early T-series card — less polished than Cobb's or Lajoie's card. The underdog card. ILB sepia style but earthier, more humble. Flick should look like the kind of guy you'd find at a county fair who happens to be a Hall of Famer."
+  }
+}

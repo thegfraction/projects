@@ -1,0 +1,216 @@
+{
+  "card_type": "pitcher",
+  "name": "General Crowder",
+  "nickname": "The General",
+  "year": 1932,
+  "team": "Washington Senators",
+  "era": "1930s",
+  "ilb_team": "Crashers AL1930",
+  "position": "SP",
+  "bats": "L",
+  "throws": "R",
+  "height": "5'10\"",
+  "weight": "170 lbs",
+  "born": "January 11, 1899 — Winston-Salem, North Carolina (tobacco and cotton country, father was a blacksmith)",
+  "died": "April 3, 1972 — Winston-Salem, North Carolina (age 73, heart disease)",
+  "hof": "Not inducted. 1x All-Star (1933 inaugural). 1x WS champion (1935 Tigers). NC Sports Hall of Fame (1967). Won more games than any AL pitcher except Grove, 1928-1933.",
+
+  "real_stats": {
+    "season": 1932,
+    "games": 43,
+    "wins": 26,
+    "losses": 13,
+    "era": "3.33",
+    "innings": "327",
+    "strikeouts": 110,
+    "walks": 77,
+    "complete_games": 20,
+    "shutouts": 3,
+    "whip": "1.30",
+    "war": 6.0,
+    "career_wins": 167,
+    "career_losses": 115,
+    "career_era": "4.12",
+    "career_strikeouts": 799,
+    "career_cg": 150,
+    "career_shutouts": 16,
+    "career_war": 27.9,
+    "no_hitters": 0,
+    "perfect_games": 0
+  },
+
+  "ilb_stats": {
+    "ovr": 6,
+    "stf": 1,
+    "ctl": 2,
+    "sta": 4,
+    "def": 1,
+    "clu": 1
+  },
+
+  "stat_justification": {
+    "stf": "3.33 ERA in 1932 in a high-offense era — tier 1 (3.00-3.49). K/9 was only ~3.03 — no bonus. Crowder was not a strikeout pitcher. He relied on a sneaky fastball ('a fast ball that didn't look fast' — Shirley Povich), a 'corking change of pace,' a 'baffling' curve, and a screwball. His lazy three-quarters delivery disguised the ball's movement. He won through deception, not dominance. Rating: 1.",
+    "ctl": "BB/9 of ~2.12 in 1932 (77 BB in 327 IP) — tier 2 (2.0-2.49). WHIP 1.30 — no bonus. Decent but not elite. His shrewdness and deceptive pickoff move compensated for moderate control. Crowder set the record for most innings pitched in a season without hitting a batter (327 in 1932). Rating: 2.",
+    "sta": "327 IP in 1932 — led both leagues — tier 4 (300-349). 20 complete games. Started on 3 days' rest routinely. Walter Johnson: 'If you'd let him, he'd pitch every day. His arm is made of rubber.' Led AL in starts (39) and appearances (43) in 1932. In 1933, led majors with 52 appearances (35 starts). A rubber-armed workhorse. Rating: 4.",
+    "def": "Exceptional fielding pitcher. .984 career fielding percentage. After one error on May 19, 1932, went 209 consecutive games (179 total chances) without another error — the rest of his career. Possessed one of the best pickoff moves in baseball. 'Those runners know I'll pick them off if they get too far off the bag, and they stay close.' Rating: 1.",
+    "clu": "Pitched in 3 consecutive World Series (1933, 1934, 1935). Won Game 4 of the 1935 WS with a 5-hit, 2-1 CG victory over Tex Carleton and the Cubs — Detroit's first championship. But lost in the 1933 WS (7.36 ERA in 2 starts vs. Giants) and only appeared in relief in the 1934 WS blowout loss. Overall WS: 1-2, 3.81 ERA. The 1935 Game 4 saves him from a 0. Rating: 1."
+  },
+
+  "personality": {
+    "leadership_style": "The Soldier. Crowder enlisted in the Army in 1919 at 20 years old because he was restless and undereducated (5th grade). He served in the Philippines and 11 months in Siberia with the 27th Infantry at Vladivostok and Lake Baikal during the Russian intervention. He learned to play baseball in the military. That soldier's discipline — obedience, endurance, no complaints — defined his pitching career. He showed up, took the ball, pitched 300+ innings, and went home. No drama. No headlines. Just work.",
+    "temperament": "Stoic, southern, blue-collar. Born in tobacco country, father was a blacksmith, quit school after 5th grade to work at the cotton mills. Then a mechanic at R.J. Reynolds tobacco company. Then a riveter in the Alexandria shipyards. Then a soldier in Siberia. By the time he reached the majors at 27, he'd already lived three lives. Nothing rattled him because he'd been colder, hungrier, and more exhausted than baseball could ever make him.",
+    "work_ethic": "Inhuman durability. 327 innings in 1932. 52 appearances in 1933 (35 starts). Pitched on 3 days' rest as a matter of routine. Walter Johnson said his arm was 'made of rubber.' He never complained about workload. He was a slow starter each season — sportswriters joked he should start the year in June — but once the weather warmed, he was relentless. 15 consecutive victories to close 1932.",
+    "lifestyle": "Winston-Salem, North Carolina, through and through. Born there, died there. Married Ruth Livernash of Rochester, NY in 1924. They owned a large farm near his birthplace. Ruth was chronically ill — an invalid by the early 1930s. Crowder rushed home from the 1935 World Series because she was gravely ill. She died weeks after his 1936 retirement. He later married Joan Brockwell, a nurse, and had two children. Ran grocery stores, real estate, and a bowling alley in Winston-Salem. Inducted into the NC Sports Hall of Fame in 1967.",
+    "era_adaptability": "LOW-MEDIUM. Crowder's arsenal — sneaky fastball, change, curve, screwball — relied on deception and durability, not velocity or swing-and-miss stuff. His K/9 of ~3.0 would be disastrous in modern baseball. However, his durability and competitive intelligence are timeless. He'd need to be a modern 'pitch to contact' specialist with elite defense behind him, a Marco Gonzales or Dallas Keuchel type. His pickoff move would still play anywhere.",
+    "clubhouse_impact": "QUIET AND RELIABLE. Not a joker like Gomez, not a leader like Cronin. Crowder was the veteran who took the ball every fourth day without complaint. Teammates respected his toughness — the man had survived Siberia. Managers loved him because he pitched deep into games and never missed a turn. He was the anti-primadonna: durable, dependable, invisible.",
+    "dark_side": "Ruth's illness. Crowder's wife was chronically ill for most of the 1930s, requiring constant medical attention. She was described as an invalid. Crowder carried the weight of her condition through his peak years — winning 26 games while his wife was deteriorating at home. After the 1935 World Series triumph, he rushed back to North Carolina. His shoulder gave out in 1936. She died weeks after he retired. The timing suggests the stress of her illness and his physical breakdown were intertwined. He was 37 and suddenly both a retired ballplayer and a widower."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Siberian Veteran",
+      "desc": "Served 11 months at Vladivostok and Lake Baikal. Immune to cold-weather penalties. +1 STA in April/October. Nothing on a baseball field compares to a Siberian winter."
+    },
+    {
+      "tag": "Rubber Arm",
+      "desc": "Can pitch on 2 days' rest with no penalty. Can start and relieve in the same series. Walter Johnson's endorsement: 'He'd pitch every day if you let him.'"
+    },
+    {
+      "tag": "Yankee Killer",
+      "desc": "+1 STF when facing the Yankees. Crowder was known specifically for beating New York and Babe Ruth. Historical reputation as the man who could neutralize the Bronx Bombers."
+    },
+    {
+      "tag": "The Sneak",
+      "desc": "Crowder's fastball 'didn't look fast' but had 'considerable sneak.' 15% chance per game of inducing a double play in a critical situation. Batters underestimate the movement."
+    },
+    {
+      "tag": "Pickoff Artist",
+      "desc": "One of the best moves to first in baseball. Runners cannot steal on Crowder. -1 SPD to all opposing baserunners. 'Those runners know I'll pick them off.'"
+    },
+    {
+      "tag": "Slow Starter",
+      "desc": "-1 STF in April and May. Crowder was notoriously terrible in cold weather. Sportswriters: 'He should start the season in June.' But once warm: +1 STF June through September."
+    },
+    {
+      "tag": "The Invalid Wife",
+      "desc": "5% chance per season of emergency family event. If triggered: Crowder misses 1 week, -1 morale. But teammates rally around him (+1 team sympathy)."
+    },
+    {
+      "tag": "Fifteen Straight",
+      "desc": "If Crowder wins 10+ consecutive decisions, he enters 'streak mode': +1 STF and +1 CTL until the streak ends. Based on his 15-game win streak in 1932."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "327 IP in 1932. 52 appearances in 1933. He lived on the mound."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "Born and died in Winston-Salem. Owned a farm, ran grocery stores, managed the local minor league team."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "98-69 record as a Senator at Griffith Stadium. Led Washington to the 1933 pennant."
+    },
+    {
+      "location": "Bar/Nightlife",
+      "affinity": "HIGH",
+      "note": "Crowder came alive in warm weather. His best months were always June through September."
+    },
+    {
+      "location": "Gambling Hall",
+      "affinity": "MEDIUM",
+      "note": "Served 3 years in the Army. Philippines. Siberia. Named after General Enoch Crowder. The military shaped him."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "LOW",
+      "note": "Notoriously bad in cold weather. The sportswriters never let him forget it."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "LOW",
+      "note": "His wife Ruth was chronically ill. Quiet places carried weight."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Warm weather — June through September Crowder was a different pitcher",
+      "Win streaks — 15 consecutive victories in 1932, feeding on momentum",
+      "Pitching on short rest — the rubber arm thrived on heavy workload",
+      "Facing the Yankees — the Yankee Killer activated against New York"
+    ],
+    "cold_triggers": [
+      "Cold weather / April starts — notoriously slow to warm up each season",
+      "Wife's health crises — emotional drain throughout the 1930s",
+      "World Series pressure — 1-2 career WS record, struggled in 1933",
+      "Late career shoulder breakdown — 8.39 ERA in final 1936 season"
+    ],
+    "pressure_response": "INCONSISTENT. Crowder pitched in three consecutive World Series (1933-35) — a remarkable achievement. But his results were mixed: he was shelled in the 1933 WS vs. the Giants (7.36 ERA), appeared only in a blowout loss in the 1934 WS, and then delivered his masterpiece — a 5-hit, 2-1 CG win in Game 4 of the 1935 WS that helped Detroit win its first championship. That one game redeemed an otherwise shaky postseason record. In ILB: Crowder is a solid but unreliable postseason arm — you hope for Game 4 of '35, but you might get Game 1 of '33."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Siberian Soldier",
+      "type": "Drama",
+      "text": "Your pitcher learned baseball in the Army, not on sandlots. He spent 11 months in Siberia at 20 years old. He didn't reach the majors until 27. By then, nothing could faze him. +1 mental toughness permanently.",
+      "origin": "Crowder enlisted in 1919, served in the Philippines and at Vladivostok/Lake Baikal during the Russian intervention. He learned baseball as a soldier. He didn't debut in the majors until age 27."
+    },
+    {
+      "title": "Fifteen Consecutive Victories",
+      "type": "Game Action",
+      "text": "After a terrible midseason slump (5-11 stretch), your pitcher doesn't lose again for the rest of the year. Fifteen straight wins. He ties the AL record. He leads the league in wins, innings, and starts. +3 momentum for the team entering the offseason.",
+      "origin": "1932: After an ugly loss on July 28, Crowder reeled off 15 consecutive victories to finish 26-13, tying Smoky Joe Wood, Walter Johnson, and Lefty Grove for the longest AL winning streak."
+    },
+    {
+      "title": "The Sneaky Fastball",
+      "type": "Action",
+      "text": "Your pitcher's fastball 'doesn't look fast.' Batters consistently underestimate its velocity. The lazy delivery hides considerable movement. Opponents hit .240 against him despite never feeling overmatched.",
+      "origin": "Shirley Povich: 'He had a fast ball that didn't look fast. What it had after Crowder came out of his lazy delivery was considerable sneak.'"
+    },
+    {
+      "title": "The Pickoff Move",
+      "type": "Game Action",
+      "text": "Your pitcher has such a deadly pickoff move that runners barely dare to lead off first base. He rarely even throws over — the intimidation alone is enough. Stolen base attempts against him: near zero.",
+      "origin": "Crowder: 'Those runners know I'll pick them off if they get too far off the bag. All I do is cock my head the same way whenever I'm ready to pitch, and if I can see the man on first out of the corner of my eye I don't bother with him.'"
+    },
+    {
+      "title": "Three Consecutive World Series",
+      "type": "Drama",
+      "text": "Your pitcher appears in three consecutive World Series — for two different teams. He loses in the first, barely appears in the second, and wins the decisive game in the third. The career arc: failure, irrelevance, redemption.",
+      "origin": "Crowder: 1933 WS (Senators, lost), 1934 WS (Tigers, relief only), 1935 WS (Tigers, won Game 4 with a 5-hit CG 2-1 victory — Detroit's first championship)."
+    },
+    {
+      "title": "The Blacksmith's Son",
+      "type": "Action",
+      "text": "Your pitcher quit school after 5th grade. Worked cotton mills at 14. Mechanic at a tobacco company. Riveter in the shipyards. Soldier in Siberia. He arrives at the majors at 27 with hands calloused from a dozen trades. He pitches 300+ innings because nothing in baseball is as hard as what came before.",
+      "origin": "Crowder's pre-baseball life: cotton mills, R.J. Reynolds mechanic, Alexandria shipyard riveter, 3 years in the Army (Philippines, Siberia). Debuted at 27."
+    },
+    {
+      "title": "Racing Home from the World Series",
+      "type": "Drama",
+      "text": "Your pitcher wins the World Series — the crowning achievement of his career. But he has little time to celebrate. His wife is gravely ill at home. He rushes back. The next season, his arm fails. She dies weeks after he retires. The triumph and the tragedy arrive in the same breath.",
+      "origin": "After the 1935 WS, Crowder rushed home to Ruth, who was gravely ill. His shoulder gave out in 1936 spring training. She died shortly after he retired."
+    },
+    {
+      "title": "Named After a General",
+      "type": "Action",
+      "text": "Your player shares a surname with a famous military figure. He inherits the nickname despite never rising above the rank of private. The nickname sticks for his entire career. It gives him an air of authority he never actually earned — but doesn't need, because his pitching does the talking.",
+      "origin": "Crowder's nickname 'General' came from General Enoch Crowder, who designed the WWI draft lottery. Alvin Crowder was a private. The irony was permanent."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Compact, weathered, southern. 5'10\" 170 lbs — small for a pitcher. Face of a man who's worked cotton mills, riveted ships, and survived Siberian winters. Lines around the eyes. No vanity. He looks older than his age because he's lived harder than anyone else on the field.",
+    "attire": "Washington Senators 1932 road grays. The old 'W' on the cap. Not flashy — the Senators were never flashy. He should look like a workman in a baseball uniform. The sleeves slightly too short, the build slightly too compact. This is not a Yankee — this is the guy who beats the Yankees.",
+    "mood": "Endurance. Not the follow-through of a blazing fastball — the steady, lazy, three-quarters delivery that hides the sneak. Or: the pickoff move, frozen mid-motion, the runner caught leaning. This card should feel like durability made visible. 327 innings of pure stubbornness.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Southern warmth mixed with military austerity. Tobacco-brown undertones. Griffith Stadium's modest outfield in the background. Maybe a ghost image of Vladivostok or a Siberian landscape superimposed faintly — the life before baseball. The card should feel earned, not given.",
+    "reference": "The card of the man who won more games than anyone except Lefty Grove for six straight years — and nobody remembers his name. The soldier who pitched through his wife's illness and his own body's collapse. The General who was never actually a general."
+  }
+}

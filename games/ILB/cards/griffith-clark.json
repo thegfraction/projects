@@ -1,0 +1,275 @@
+{
+  "card_type": "manager",
+  "name": "Clark Griffith",
+  "nickname": "The Old Fox",
+  "year": 1901,
+  "team": "Chicago White Sox",
+  "era": "1900s",
+  "ilb_team": "Banners",
+  "archetype": "Opportunist",
+  "born": "November 20, 1869 — Clear Creek, MO",
+  "died": "October 27, 1955 — Washington, DC (age 85)",
+  "hof": "Inducted 1946. Life in baseball spanned 70 years: pitcher, manager, owner, league founder.",
+  "height": "5'6\"",
+  "weight": "156 lbs",
+
+  "record": {
+    "career_wins": 1491,
+    "career_losses": 1367,
+    "win_pct": ".522",
+    "pennants": 1,
+    "world_series": 0,
+    "seasons_managed": 20,
+    "ejections": "Moderate — cagey, not volcanic",
+    "peak_team": "1901 Chicago White Sox",
+    "peak_record": "83-53 (.610) — first AL pennant ever",
+    "teams_managed": [
+      "Chicago White Sox (1901-02)",
+      "New York Highlanders (1903-08)",
+      "Cincinnati Reds (1909-11)",
+      "Washington Senators (1912-20)"
+    ],
+    "notable": "Won first-ever AL pennant (1901) while going 24-7 as pitcher. Recruited 39 of 40 targeted NL stars for AL. Managed 4 franchises. As owner: built 'cheapest championship team of all-time' (1924 WS). Pioneered Cuban player pipeline — 35 Cuban players under his watch.",
+    "pitching_record": "237-146, .619 W-L% as pitcher. 6 consecutive 20-win seasons (1894-1899).",
+    "owner_pennants": "3 pennants as owner (1924, 1925, 1933). 1 World Series (1924)."
+  },
+
+  "ilb_ratings": {
+    "tac": 3,
+    "pit": 4,
+    "lin": 3,
+    "adp": 5,
+    "dis": 5,
+    "ego": 6,
+    "har": 6,
+    "int": 5,
+    "str": 8,
+    "flx": 9,
+    "ovr": 9
+  },
+
+  "rating_justification": {
+    "tac": "Crafty, not systematic. His pitching career was built on guile: 'cagier, a more crafty, if not a more brainy, proposition' than Mathewson. He brought that deception to managing — tricks and timing, not grand strategy. Won the 1901 pennant through shrewd moves, not tactical innovation. Rating of 3.",
+    "pit": "237 wins as a pitcher with 6 consecutive 20-win seasons. He understood pitching at an elite level. As Senators owner, he had Walter Johnson — the greatest pitcher alive. He managed pitching staffs instinctively, from his own experience on the mound. Rating of 4.",
+    "lin": "Adequate. Griffith's genius was acquiring talent, not arranging it. His lineups were functional but not innovative. No evidence of platoon innovation or lineup optimization. He found the right players and let them play. Rating of 3.",
+    "adp": "Maximum. This is Griffith's signature stat. Managed FOUR franchises (White Sox, Highlanders, Reds, Senators) across TWO leagues over 20 years. Jumped from NL pitcher to AL player-manager. Transitioned from managing to owning. Performed in Wild West shows when baseball didn't pay. Mortgaged his ranch — twice. The man adapted to everything. Rating of 5.",
+    "dis": "Moderate. Griffith wasn't a disciplinarian — he was a pragmatist. Rules served his purposes. He played favorites when it suited him (hiring his nephews, marrying his niece to his star player) but also traded family members when the deal was right (Cronin to Boston). Discipline was transactional. Rating of 5.",
+    "ego": "Good. Goslin called him 'more than a father.' He raised 7 orphaned nieces and nephews and employed them all. He built personal loyalty. But he also traded Joe Cronin — his own niece's husband — to the Red Sox without sentiment. Ego management through a mix of warmth and cold calculation. Rating of 6.",
+    "har": "Functional. Griffith created a family atmosphere — literally hiring family. The Senators were 'the family business.' But it was patriarch harmony, not democratic harmony. He was the boss, and everyone knew it. Rating of 6.",
+    "int": "Moderate but resilient. Born in a log cabin. Father killed in a hunting accident when Clark was a child. Performed in Wild West shows in San Francisco's Barbary Coast. Mortgaged his Montana ranch twice. Survived near-breakdown from overwork. His intensity was endurance, not explosion. Rating of 5.",
+    "str": "Elite dealmaker. Single-handedly recruited 39 of 40 targeted NL stars for the American League ('all but Honus Wagner'). Built the 'cheapest championship team of all-time' per the NYT. Created the Cuban player pipeline — 35 Cuban players over 44 years. Ran a profitable franchise on a shoestring for 21 consecutive years. Rating of 8.",
+    "flx": "Near-maximum. Managed in Chicago, New York, Cincinnati, and Washington. Played in the NL, jumped to the AL, went back to the NL, returned to the AL. Transitioned from pitcher (237 wins) to player-manager to full-time manager to owner. Even umpired 5 games. Nobody in baseball history wore more hats. Rating of 9."
+  },
+
+  "personality": {
+    "leadership_style": "Patriarch-opportunist. Griffith led through a combination of fatherly warmth and cold calculation. He'd mortgage his ranch for you today and trade you tomorrow. 'He wasn't like a boss, more like a father' — but a father who'd sell the family cow if the price was right. His leadership was personal, transactional, and surprisingly effective across 70 years.",
+    "temperament": "Shrewd and resilient. 'The Old Fox' — the nickname says everything. Not hot-tempered, not cold — calculating. When things went wrong in New York, he resigned and blamed 'fate' rather than rage-quitting. When tuberculosis-era baseball economics squeezed him, he hosted football games and Negro League games at his stadium. Always another angle, always another move.",
+    "work_ethic": "Relentless survivor. Log cabin to Wild West shows to pitching mound to manager's chair to owner's box. Every phase required reinvention. He worked himself to near-breakdown in 1907 New York. He mortgaged his Montana ranch twice to buy into the Senators. The work ethic was survival-driven — not obsessive like Selee, but desperate and indefatigable.",
+    "lifestyle": "Pioneer family origins. Born in a covered wagon (nearly — his family was heading to Oklahoma Territory). Father killed by hunters. Raised in Bloomington, Illinois. Married Anne Robertson in 1900. Raised 7 orphaned nieces and nephews as his own. Lived in Washington DC for 44 years as baseball's equivalent of a senator. Befriended presidents — literally forgot Calvin Coolidge was his guest during the 1924 World Series.",
+    "communication_style": "Folksy cunning. Griffith could talk anyone into anything. He recruited 39 of 40 targeted NL players through personal persuasion. He charmed presidents and Cuban scouts alike. His communication was warm, personal, and always strategic. Every conversation had an agenda, but it didn't feel that way.",
+    "loyalty_expectations": "Family loyalty — with an asterisk. Griffith hired his nephews, married his niece to his star player, and treated the Senators as a family business. But he traded Cronin to Boston when the price was right. Loyalty was expected but not unconditional. The family came first, but the family was the business.",
+    "dark_side": "The thrift. Griffith was famously cheap — he ran the Senators on a shoestring, refused to install lights for night games, and penny-pinched his way through decades. His teams were profitable but rarely championship-caliber after the 1920s. He exploited Cuban players who had fewer options. His family business model meant nepotism and control. In ILB: Griffith carries 'Penny-Wise' — he saves money but sometimes loses championships because of it."
+  },
+
+  "playbook": {
+    "roster_philosophy": "Find value where nobody's looking. Griffith's entire career was built on arbitrage — finding undervalued players, jumping to leagues where the talent was cheaper, exploiting pipelines (Cuba) that others ignored. He built the 'cheapest championship team of all-time' because he understood that talent doesn't always cost what the market says. Shoestring genius.",
+    "conflict_response": "EXPLOIT. Griffith didn't suppress conflict or mediate it — he used it. When the NL and AL were at war, he recruited NL stars. When his team was struggling, he resigned and found a better opportunity. When family and business collided, he made the trade that served the business. Conflict was opportunity.",
+    "clique_strategy": "TOLERATE. Griffith's teams were loosely managed. He created a family atmosphere but didn't require deep bonding. Players worked for the patriarch, respected the patriarch, and went home. Cliques formed and dissolved naturally — Griffith didn't manage them, he managed around them.",
+    "player_types_that_thrive": [
+      "Undervalued players — Griffith finds diamonds others miss",
+      "Cuban and Latin American players — Griffith was the first to scout the Caribbean systematically",
+      "Young players willing to play cheap — Griffith trusted youth over experience when budget demanded",
+      "Crafty, guile-over-power types — reflecting Griffith's own pitching philosophy",
+      "Family-oriented players who respond to a paternal management style"
+    ],
+    "player_types_that_struggle": [
+      "Expensive superstars who demand top dollar — Griffith won't overpay",
+      "Players who need cutting-edge facilities or resources — Griffith runs lean",
+      "Night-game specialists — Griffith hated lights (as owner, he resisted them for decades)",
+      "Players who need a structured tactical system — Griffith manages by instinct",
+      "Loners who don't respond to the 'family' dynamic"
+    ],
+    "tolerance_thresholds": {
+      "max_ego_cluster": 4,
+      "max_volatility": "MODERATE — Griffith prefers calm, professional players but can handle some heat",
+      "discipline_floor": "MODERATE — professionalism expected, but Griffith's real red line is cost, not behavior",
+      "star_exception": "Stars are welcome if affordable. When they get expensive, they get traded — even if they're family."
+    }
+  },
+
+  "chemistry_impact": {
+    "team_fit": {
+      "effect": "MODERATE",
+      "desc": "Griffith creates a family atmosphere but it's centered on him, not the team. +1 Team Fit when 2+ players have been signed or traded by Griffith."
+    },
+    "volatility": {
+      "effect": "SLIGHTLY REDUCED",
+      "desc": "Griffith's calm, calculating presence dampens volatility. -1 Volatility for all players. The Old Fox doesn't panic."
+    },
+    "discipline": {
+      "effect": "STABLE",
+      "desc": "Neither strongly enforced nor neglected. Griffith expects professionalism but won't police behavior. Discipline stays at current levels."
+    },
+    "ego": {
+      "effect": "MODERATE TOLERANCE",
+      "desc": "Griffith handles egos through the patriarch model — respect the boss and you'll be taken care of. But don't expect to be the center of attention."
+    },
+    "work_habits": {
+      "effect": "INCREASED",
+      "desc": "Griffith worked his way up from a log cabin. Players who see his story tend to work harder. +1 Work Habits for players in their first 5 games under Griffith."
+    },
+    "adaptability": {
+      "effect": "STRONGLY INCREASED",
+      "desc": "Griffith's entire career was adaptation. +2 Adaptability for all players. His teams transition between eras and situations better than anyone's."
+    }
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Old Fox",
+      "desc": "Griffith survives everything. Once per game, when a negative event occurs (ejection, injury, error), Griffith can nullify it. Cunning trumps catastrophe."
+    },
+    {
+      "tag": "League Founder",
+      "desc": "Griffith helped create the American League. When playing in AL-era squares, all players gain +1 to their highest stat. He built this world."
+    },
+    {
+      "tag": "The Recruiter",
+      "desc": "Griffith signed 39 of 40 targeted NL stars. Once per series, Griffith can poach any one Free Agent at no cost. 'All but Honus Wagner.'"
+    },
+    {
+      "tag": "Cuban Pipeline",
+      "desc": "Griffith pioneered Latin American scouting. Cuban and Latin players gain +2 Team Fit under Griffith. +1 to any stat for Latin players in their first 5 games."
+    },
+    {
+      "tag": "Shoestring Championship",
+      "desc": "Built the 'cheapest championship team of all-time.' When your total roster value is below the game median, +1 to all stats. Poverty is a weapon."
+    },
+    {
+      "tag": "Wild West Show",
+      "desc": "Griffith performed in Wild West shows when baseball didn't pay. +1 Adaptability for all players. Your team can survive anything — including being broke."
+    },
+    {
+      "tag": "Penny-Wise",
+      "desc": "Griffith's thrift is both strength and weakness. All trades under Griffith yield +1 value. But after 15 games, one random player demands a raise — if unpaid, -2 morale."
+    },
+    {
+      "tag": "The Patriarch",
+      "desc": "Griffith raised 7 orphans and ran the Senators as a family. +1 Harmony when 2+ players share a 'Family' or 'Loyal' trait. But if a key player is traded, -2 Team Fit."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "HIGH",
+      "note": "Where Griffith truly thrived — deals, scouting, the business of baseball. His natural habitat.",
+      "note_extra": "Source labeled 'Owner's Box / Front Office' — mapped to Library/Quiet Spot/HIGH as executive/strategic career-path node, consistent with Greenberg's 'Front Office / Business' mapping. Distinguished from Gambling Hall business entries by the deliberate, intellectual, ownership-level nature of the activity."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "Befriended presidents. 'Forgot Calvin Coolidge was my guest' at the 1924 World Series. Baseball patriarch of the capital.",
+      "note_extra": "Source labeled 'Washington DC / Political Circles' — mapped to Media/Spotlight as public/political prominence node. First explicitly political location label in the set."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "Pioneered the Cuban pipeline. 35 Cuban players over 44 years. Saw talent where others saw foreigners.",
+      "note_extra": "Source labeled 'Cuba / Latin America' — no standard taxonomy node. Mapped to Hotel/Rest/HIGH as the set's established travel-and-outreach node (consistent with Gomez's 'Opposing Clubhouse' mapping). The Cuban scouting trips were recruitment journeys — travel and interpersonal dealmaking, which is the Hotel/Rest collision pattern. Flagged: a 'Scouting / Travel' node may be warranted for international pipeline entries."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "Where Griffith signed 39 of 40 NL stars for the AL. Every meeting was an opportunity to make a deal.",
+      "note_extra": "Source labeled 'Hotel Lobby / Recruitment Meeting' — direct pass-through to Hotel/Rest. Second Hotel/Rest HIGH entry; the two together (Cuba scouting + recruitment lobby) encode Griffith's career as defined by travel and dealmaking."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "MEDIUM",
+      "note": "Mortgaged it twice to buy into baseball. The ranch was his backup plan — and his collateral.",
+      "note_extra": "Source labeled 'Montana Ranch' — mapped to Library/Quiet Spot/MEDIUM per rural/private retreat pattern, consistent with prior Farm/Countryside mappings."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "MEDIUM",
+      "note": "Former 237-game winner. Understood the mechanics of pitching. Could still teach, but preferred to deal.",
+      "note_extra": "Source labeled 'Practice Field' — direct pass-through."
+    },
+    {
+      "location": "Bar/Nightlife",
+      "affinity": "LOW",
+      "note": "Performed in variety shows in San Francisco's red-light district when baseball didn't pay. Survival mode.",
+      "note_extra": "Source labeled 'Wild West Show / Barbary Coast' — mapped to Bar/Nightlife/LOW as the closest available node for an entertainment/performance district context. The Barbary Coast was a red-light entertainment district; Bar/Nightlife is the set's established node for nightlife and performance venues."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "New opportunity — Griffith thrived when given a fresh franchise or a new challenge",
+      "Underdog situation — the 'cheapest championship team' mentality fueled him",
+      "Pennant race — 'I was so all-fired excited I forgot Calvin Coolidge was my guest'",
+      "Player acquisition — his energy peaked when recruiting and dealing"
+    ],
+    "cold_triggers": [
+      "Budget constraints preventing moves — when thrift became a cage, not a weapon",
+      "Extended losing without hope of reinforcement — stuck with what he had",
+      "Franchise instability — his 1908 resignation was born from frustration, not rage",
+      "Aging roster — Griffith's penny-pinching meant he sometimes held on too long"
+    ],
+    "pressure_response": "CRAFTY AND UNEVEN. Won the first-ever AL pennant (1901) in the league's inaugural season — but as manager, that was his only flag. As owner, the 1924 World Series victory was his greatest moment. He was better at building teams than driving them in the clutch. In ILB: Griffith provides +1 Adaptability in all situations, but no pressure bonus. His teams survive — they don't always triumph. The Old Fox escapes traps; he doesn't always conquer kingdoms."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Great Raid",
+      "type": "Trade",
+      "text": "Your manager raids the opposing league for talent. Take 2 players from any other era's Free Agent pool and add them to your roster at no cost. But one of your current players must be released to make room. The fox raids the henhouse.",
+      "origin": "Griffith single-handedly recruited 39 of 40 targeted NL stars for the new American League. He was the engine that made the AL viable. Only Honus Wagner refused."
+    },
+    {
+      "title": "Mortgage the Ranch",
+      "type": "Action",
+      "text": "Your manager bets everything on a bold move. Sacrifice 2 points from any single stat across your roster to gain +3 to any other stat across your roster. The fox risks the farm — literally.",
+      "origin": "Griffith mortgaged his Montana ranch to buy a stake in the Washington Senators. He mortgaged it again to buy a controlling interest. Both times, the gamble paid off."
+    },
+    {
+      "title": "The Cuban Connection",
+      "type": "Trade",
+      "text": "Your manager discovers an untapped talent pipeline. Draw 2 Free Agent Cards and choose one — that player gains +1 to their highest stat and the 'International' trait. The world is bigger than the NL and AL.",
+      "origin": "Griffith pioneered the Cuban player pipeline. During his 44 years in Washington, 35 Cuban players broke into the majors with the Senators. He saw talent where others saw obstacles."
+    },
+    {
+      "title": "The Cheapest Championship",
+      "type": "Game Action",
+      "text": "Your manager builds a winner with nothing. If your total roster OVR is below the game median, all players gain +2 to their highest stat for this series. The New York Times called it 'the cheapest championship team of all-time.'",
+      "origin": "The 1924 Senators won the World Series with a roster built on youth, bargains, and Griffith's shoestring budget. They beat the heavily favored New York Giants in 7 games."
+    },
+    {
+      "title": "Wild West Survival",
+      "type": "Action",
+      "text": "Your team is broke and desperate. But desperation breeds creativity. All players gain +1 Adaptability permanently. When you have nothing to lose, you can try anything.",
+      "origin": "When baseball didn't pay, young Griffith performed in Wild West variety shows on San Francisco's Barbary Coast. He survived by reinventing himself, over and over, for 70 years."
+    },
+    {
+      "title": "I Forgot the President",
+      "type": "Drama",
+      "text": "Your team wins a championship and your manager is so excited he forgets protocol. +3 Intensity for the next series as the celebration continues. But a rival manager files a formal complaint — gain 1 Drama Card.",
+      "origin": "'Of all the 10,000 afternoons I have spent in a ball park during the last 55 years, that afternoon is my pet. I was so all-fired excited, I forgot that Calvin Coolidge was my guest.' — Griffith on the 1924 World Series."
+    },
+    {
+      "title": "Trade the Family",
+      "type": "Trade",
+      "text": "Your manager trades his best player — even though the player is family. Trade any player on your roster for +3 value in return. But all remaining players with the 'Loyal' trait lose -1 morale. Business is business.",
+      "origin": "Griffith traded Joe Cronin — his own niece's husband and the team's star player — to the Red Sox in 1934. He also later sold his nephew to the Athletics. Family was the business, but the business came first."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Small, wiry, foxy face. 5'6\" 156 lbs — the smallest manager in the Banners set. Sharp, intelligent eyes with a permanent look of calculation. Thin mustache, prematurely weathered skin from years of outdoor baseball and ranch life. The face of a man who's been counting angles since he was 13 years old.",
+    "attire": "Split image possibility: half in a White Sox player-manager uniform (1901), half in an owner's three-piece suit (1920s). Or a single image in civilian clothes with a baseball visible in one hand and a contract in the other. The duality of player and executive, field and front office.",
+    "mood": "Shrewd contentment. Not fierce, not gentle — satisfied. The look of a man who just got the better end of a deal and knows it. There's warmth in the eyes (the patriarch) and sharpness in the jaw (the businessman). A fox who's eaten well and is already thinking about tomorrow's chicken coop.",
+    "style": "Warm sepia with purple-brown undertones — the Opportunist palette. Richer and more varied than the other cards, reflecting Griffith's many lives. Multiple cities suggested in the background — a collage of Chicago, New York, and Washington. Border should feel ornate but slightly chaotic — like a man who wore too many hats. Covered wagon motifs mixed with baseball iconography.",
+    "reference": "Griffith is the connector card in the 1900 Era. He bridges the NL and AL, the 19th century and the 20th, the playing field and the owner's box. His card should feel like a passport — stamps from everywhere, connections to everything. Not as imposing as McGraw, not as cerebral as Selee, not as warm as Hanlon, not as dangerous as Tebeau — but more adaptable than all of them combined."
+  }
+}

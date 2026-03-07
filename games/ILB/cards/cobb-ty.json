@@ -1,0 +1,227 @@
+{
+  "name": "Ty Cobb",
+  "nickname": "The Georgia Peach",
+  "year": 1911,
+  "team": "Detroit Tigers",
+  "era": "1910s",
+  "ilb_team": "Banners AL1910",
+  "position": "CF",
+  "bats": "L",
+  "throws": "R",
+  "height": "6'1\"",
+  "weight": "175 lbs",
+  "born": "December 18, 1886 — Narrows, GA",
+  "died": "July 17, 1961 — Atlanta, GA",
+  "hof": "Class of 1936 (1st ballot, 98.2% — highest ever at the time)",
+
+  "real_stats": {
+    "season": 1911,
+    "games": 146,
+    "at_bats": 591,
+    "hits": 248,
+    "doubles": 47,
+    "triples": 24,
+    "home_runs": 8,
+    "rbi": 127,
+    "stolen_bases": 83,
+    "batting_avg": ".420",
+    "obp": ".467",
+    "slg": ".621",
+    "ops": "1.088",
+    "ops_plus": 196,
+    "war": 10.3,
+    "gold_gloves": 0,
+    "silver_sluggers": 0,
+    "all_star": 0,
+    "career_avg": ".366",
+    "career_hits": 4189,
+    "career_hr": 117,
+    "career_sb": 897,
+    "career_war": 151.0
+  },
+
+  "ilb_stats": {
+    "ovr": 11,
+    "con": 5,
+    "pow": 1,
+    "spd": 3,
+    "def": 1,
+    "clu": 1
+  },
+
+  "stat_justification": {
+    "con": "Career .366 BA — the highest in baseball history. Hit over .400 three times. Led AL in batting 12 times, including 9 consecutive years (1907-1915). 4,189 career hits. The greatest pure hitter who ever lived.",
+    "pow": "Only 8 HR in his peak 1911 season, 117 career. Dead-ball era suppressed HR totals. However, his .621 SLG in 1911 was absurd for the era — he hit 47 doubles and 24 triples. The +1 SLG bonus is fully earned.",
+    "spd": "83 stolen bases in 1911. 897 career SB — held the record for 50+ years. Stole home 54 times, a record that will never be broken. Cobb on the basepaths was a weapon of psychological warfare.",
+    "def": "No Gold Gloves existed, but Cobb was a strong defensive CF in the dead-ball era. His range was excellent and his arm was solid. Rating of 1 reflects the lack of formal accolades rather than lack of ability.",
+    "clu": ".262 postseason BA across 17 games in 3 World Series (1907, 1908, 1909). Tigers lost all three. Cobb was decent but not transcendent in October. His legend was built in the regular season."
+  },
+
+  "personality": {
+    "leadership_style": "Domineering, relentless, lead-by-intimidation. Cobb didn't inspire — he demanded. Teammates feared him more than opponents did. His leadership was a force of nature, not warmth.",
+    "temperament": "Volcanic. Hair-trigger temper. Got into fistfights with teammates, opponents, fans, hotel workers, and strangers. Described by Sam Crawford as 'the most feared man in baseball — and not just on the field.' A genius-level intellect trapped in a rage furnace.",
+    "work_ethic": "Obsessive. Studied pitchers like a scientist. Practiced sliding in his hotel room with sharpened spikes. Weighted his bats in the offseason. Every edge, every advantage, every hour was devoted to domination.",
+    "lifestyle": "Isolated, paranoid, wealthy. Invested early in Coca-Cola and General Motors, became one of the richest athletes in history. Lived alone in later years. Few friends. Funded a hospital in his hometown of Royston, GA.",
+    "era_adaptability": "EXTREME. Cobb adapted to every condition. Played on dirt fields, in rain, in 100-degree heat. His intelligence and competitiveness would translate to any era — though his temperament might get him suspended in the modern game.",
+    "clubhouse_impact": "TOXIC-ELITE. Cobb made teams better by making everyone afraid to fail. He raised the standard through fear. Teammates performed because they didn't want to face his wrath. Not beloved — but effective.",
+    "dark_side": "Racist, violent, and deeply troubled. Cobb's father was accidentally shot and killed by his mother before Cobb reached the majors — a trauma that may have fueled his lifelong rage. He attacked a disabled fan in the stands (1912). His racial views were abhorrent even by his era's standards, though some revisionist historians have softened the record. In ILB terms: Cobb carries a permanent 'Volatility' trait with a much higher trigger rate than most players — he can explode in any situation."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Lone Wolf",
+      "desc": "No team chemistry bonus. Cobb operates alone — he doesn't need the team, and they don't want to need him."
+    },
+    {
+      "tag": "Intimidator",
+      "desc": "Opposing pitchers and defenders lose -1 confidence when Cobb is at bat or on base."
+    },
+    {
+      "tag": "Volatile",
+      "desc": "High risk of ejection, suspension, or negative team event every 3 games. Roll a d20 each game: on 1, a Cobb Incident occurs."
+    },
+    {
+      "tag": "Cerebral",
+      "desc": "Cobb reads the game at a genius level. +1 to all base-running decisions and defensive positioning."
+    },
+    {
+      "tag": "Grudge Holder",
+      "desc": "If Cobb is hit by a pitch or slighted, he gains +2 to all stats vs. that opponent for the rest of the series."
+    },
+    {
+      "tag": "Dead-Ball Master",
+      "desc": "In Dead-Ball-era stadiums, Cobb gains +1 to CON, SPD, and OVR. He owns this era."
+    },
+    {
+      "tag": "Georgia Roots",
+      "desc": "Extra comfort in Southern-era squares. Discomfort in urban 1960s+ squares."
+    },
+    {
+      "tag": "Wealth",
+      "desc": "Cobb's personal fortune means he can never be traded for financial reasons. He stays until he decides to leave."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Batting Cages / Practice Field",
+      "affinity": "HIGH",
+      "note": "Obsessive repetition. Practiced sliding and bunting for hours alone."
+    },
+    {
+      "location": "Hotel Room (alone)",
+      "affinity": "HIGH",
+      "note": "Sharpened spikes, studied pitcher tendencies, planned tomorrow's war."
+    },
+    {
+      "location": "Financial Office / Bank",
+      "affinity": "HIGH",
+      "note": "Managed his investments personally. Met with Coca-Cola executives."
+    },
+    {
+      "location": "Clubhouse / Locker Room",
+      "affinity": "LOW",
+      "note": "Teammates avoided him. Cobb tolerated the space, didn't own it like Puckett."
+    },
+    {
+      "location": "Bar / Saloon",
+      "affinity": "MEDIUM",
+      "note": "Drank, but it fueled the rage. Hidden Edge triggers more likely here."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "LOW",
+      "note": "Later in life, funded hospitals and scholarships — but was rarely warm in public."
+    },
+    {
+      "location": "Gambling Hall",
+      "affinity": "LOW",
+      "note": "No major gambling association, but Cobb would bet on anything competitively."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Being challenged or disrespected — Cobb feeds on slights",
+      "Facing a rival he has history with (personal grudges)",
+      "Tight pennant races — Cobb's intensity scales with stakes",
+      "Multi-hit games snowball into unstoppable streaks"
+    ],
+    "cold_triggers": [
+      "Team dysfunction or clubhouse drama (he often caused it)",
+      "Injuries — Cobb played through them, but at diminished capacity",
+      "Being benched or rested — perceived as weakness, causes rage"
+    ],
+    "pressure_response": "EXTREME BUT INCONSISTENT. Cobb dominated regular seasons like no one else, but his .262 postseason BA suggests he didn't elevate in October the way legends like Puckett did. His intensity could work against him under the brightest lights. In ILB: Cobb is the ultimate regular-season weapon but carries risk in elimination games."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Spikes High",
+      "type": "Game Action",
+      "text": "Your base runner slides hard into the defender. The defender must roll: on 1-3, he's injured for 1 game. On 4-6, your runner is ejected. On 7+, safe — and the opponent's morale drops.",
+      "origin": "Cobb was infamous for sharpening his spikes and sliding with intent to injure. Frank 'Home Run' Baker's career was affected by a Cobb slide."
+    },
+    {
+      "title": "The Georgia Peach Snaps",
+      "type": "Drama",
+      "text": "Your star player attacks a fan in the stands. He is suspended for 3 games. His teammates must decide: strike in solidarity (+3 chemistry, -3 games) or play without him (-2 morale).",
+      "origin": "In 1912, Cobb climbed into the stands and beat a disabled heckler. When suspended, his Tiger teammates went on a one-game strike — the first player strike in MLB history."
+    },
+    {
+      "title": "Steal Home",
+      "type": "Game Action",
+      "text": "Your fastest player attempts to steal home plate. Roll vs. the catcher's DEF: success = run scores + momentum surge. Failure = out + momentum crash.",
+      "origin": "Cobb stole home 54 times in his career — an all-time record that has stood for over a century."
+    },
+    {
+      "title": "The Scientific Hitter",
+      "type": "Action",
+      "text": "Your highest-CON player studies the opposing pitcher's tendencies. He gains +1 CON for the next 3 at-bats and can choose to bunt for a guaranteed single once.",
+      "origin": "Cobb was famous for studying pitchers obsessively, changing his grip and stance mid-at-bat, and placing hits with surgical precision."
+    },
+    {
+      "title": "Coca-Cola Investment",
+      "type": "Drama",
+      "text": "Your wealthiest player makes a savvy investment. Gain 2 bonus resource cards. But teammates resent his wealth — team chemistry drops by 1.",
+      "origin": "Cobb was an early investor in Coca-Cola and General Motors, becoming one of the first athlete millionaires."
+    },
+    {
+      "title": "Father's Shadow",
+      "type": "Drama",
+      "text": "A traumatic memory surfaces for your star player. He either channels it into fury (+2 to all stats this game) or spirals (-2 to all stats and a Volatility check).",
+      "origin": "Cobb's father, a state senator, was shot and killed by Cobb's mother in 1905, just weeks before Ty reached the majors. The event haunted him for life."
+    },
+    {
+      "title": "Nobody Likes the Best",
+      "type": "Drama",
+      "text": "Your highest-OVR player is isolated by the team. He plays at full stats but team chemistry drops by 2 for 3 games. If you trade him, chemistry surges +3 but you lose the best player.",
+      "origin": "Cobb's teammates openly disliked him for most of his career. He was the best player in baseball and the least popular man in every clubhouse."
+    },
+    {
+      "title": "The Holdout",
+      "type": "Action",
+      "text": "Your star player demands a raise. Pay 2 resource cards to keep him at full stats, or refuse — he plays at -1 OVR for the rest of the season but you keep your resources.",
+      "origin": "Cobb held out for higher pay multiple times, becoming one of the highest-paid players in the dead-ball era at $20,000/year."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Lean, angular face with piercing, predatory eyes. Sharp cheekbones, thin lips set in a permanent scowl. Clean-shaven. Sun-weathered skin with a few nicks and scrapes. He looks like he's about to end someone.",
+    "attire": "Detroit Tigers home whites, old English 'D' on chest, no number (pre-numbering era). High wool collar, loose-fitting flannel. Cap slightly askew. Tobacco-era grime on the sleeves and knees.",
+    "mood": "Cold fury. Not rage — controlled menace. The look a wolf gives before it moves. Cobb mid-swing follow-through, or in a low crouch on the basepath, spikes visible.",
+    "style": "Deep sepia with amber and burnt umber tones. Dust motes in the air. An old wooden grandstand blurred behind him. Tobacco-card composition — tight crop, shoulders up, face dominant. Aged paper texture with foxing at the edges.",
+    "reference": "Think T206 tobacco card energy but rendered in the unified ILB sepia portrait style. The most famous card in history was a Ty Cobb — lean into that legacy."
+  },
+
+  "badges": [
+    "HOF 1936 (98.2%)",
+    ".366 Career BA (All-Time Record)",
+    "12× AL Batting Champ",
+    "4,189 Career Hits",
+    "897 Career SB",
+    "54 Steals of Home (Record)",
+    ".420 BA in 1911",
+    "The Georgia Peach"
+  ]
+}

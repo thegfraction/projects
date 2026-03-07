@@ -1,0 +1,227 @@
+{
+  "name": "Ray Chapman",
+  "nickname": "Chappie",
+  "year": 1917,
+  "team": "Cleveland Indians",
+  "era": "1910s",
+  "ilb_team": "Muggers AL1910",
+  "position": "SS",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'10\"",
+  "weight": "170 lbs",
+  "born": "January 15, 1891 — Beaver Dam, KY",
+  "died": "August 17, 1920 — New York, NY (age 29, killed by pitched ball)",
+  "hof": "Not inducted. Career cut tragically short. Cleveland Indians HOF (2006). Widely believed HOF-bound had he lived.",
+
+  "real_stats": {
+    "season": 1917,
+    "games": 156,
+    "at_bats": 563,
+    "hits": 170,
+    "doubles": 28,
+    "triples": 13,
+    "home_runs": 3,
+    "rbi": 36,
+    "stolen_bases": 52,
+    "batting_avg": ".302",
+    "obp": ".370",
+    "slg": ".409",
+    "ops": ".779",
+    "ops_plus": 131,
+    "war": 5.0,
+    "sacrifice_hits": 67,
+    "runs_scored": 98,
+    "walks": 61,
+    "career_avg": ".278",
+    "career_hits": 1053,
+    "career_hr": 17,
+    "career_sb": 238,
+    "career_war": 23.1
+  },
+
+  "ilb_stats": {
+    "ovr": 7,
+    "con": 5,
+    "pow": 0,
+    "spd": 3,
+    "def": 2,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": "Career .278 BA, but .302 in 1917 and .300+ three times. OPS+ of 131 in 1917 — elite for a shortstop. Led the AL in sacrifice hits 3 times (67 in 1917, still the all-time record). Chapman crowded the plate and was one of the best contact hitters at his position. He was hitting .303 with a .380 OBP at the time of his death in 1920 — his best offensive season. Rating of 5.",
+    "pow": "3 HR in 1917, 17 career HR. This was the Deadball Era and Chapman was a slap hitter and bunter, not a power threat. His SLG of .409 came from doubles (28), triples (13), and speed, not home runs. Rating of 0 — no power, and that's fine. He didn't need it.",
+    "spd": "52 stolen bases in 1917 — a Cleveland franchise record that stood for 63 years until Miguel Dilone broke it in 1980. Also won a base-running race in 14 seconds flat. Ran the 100-yard dash in 10.0 seconds. Four steals of home in September 1917 alone. He was the fastest player in the American League. Rating of 3 — maximum speed.",
+    "def": "Led AL shortstops in putouts 3 times, assists once, and range factor multiple seasons. Played 154-155 complete games at SS in consecutive years — never removed from the field. Pre-Gold Glove era, but his defensive reputation was elite. The White Sox tried desperately to trade for him — they settled for Shoeless Joe Jackson instead. Rating of 2.",
+    "clu": "No postseason stats — Chapman died just before Cleveland's first pennant run (they won the 1920 WS without him). But during the September 1917 stretch drive, he hit .517 with 4 steals of home in a 10-game winning streak. His teammates rallied to win the 1920 championship specifically in his memory. Rating of 2 — excellent reputation, no postseason data to confirm."
+  },
+
+  "personality": {
+    "leadership_style": "Selfless, team-first, lead-by-action. Chapman was the ultimate number-two hitter — his record 67 sacrifice bunts in 1917 tell the story. He sacrificed his own numbers to move runners. He was the kind of player managers build lineups around because he made everyone else better.",
+    "temperament": "Jolly, outgoing, universally beloved. A Springfield teammate recalled: 'He was very flashy... And he could run. He was a beautiful runner. And he was very jolly, a jolly guy. Always laughing, talking, singing.' One of the few players Ty Cobb — famously antisocial — considered a genuine friend. Chapman's warmth was magnetic.",
+    "work_ethic": "Tireless. Played 154 and 155 complete games at shortstop in consecutive years — never taken out for a substitution. Played through broken legs, leg ailments, and injuries that would bench most players. Chapman simply refused to leave the field. His durability was legendary for a 170-pound shortstop.",
+    "lifestyle": "Upwardly mobile, community-minded. Chapman married Kathleen Daly, daughter of a millionaire Cleveland businessman, just before the 1920 season. He was planning to retire after 1920 to join the family business. He served in the Naval Reserve during WWI, was captain of the Navy baseball and football teams, and ran track. A Renaissance man of the Deadball Era.",
+    "era_adaptability": "HIGH. Chapman's skill set — speed, defense, plate discipline, contact — is timeless for a shortstop. He'd be a top-of-the-order catalyst in any era. His 84 walks leading the AL in 1918 shows he understood the value of on-base percentage decades before sabermetrics. The only limitation is power — but modern training might have unlocked more.",
+    "clubhouse_impact": "MAXIMUM. When Chapman was killed, the entire American League mourned. Players from Boston, Washington, St. Louis, and Detroit demanded Carl Mays be banned. Thousands attended his funeral. His teammates wore black armbands for the rest of 1920 and won the World Series in his memory. A blanket of 20,000 blossoms covered his grave, purchased by fans. No player's death has ever united a league like Chapman's.",
+    "dark_side": "The tragedy itself is the dark side. Chapman crowded the plate — it was his signature, and it made him vulnerable. On August 16, 1920, in twilight at the Polo Grounds, he couldn't see Carl Mays' dirty, scuffed submarine pitch. He never flinched. The ball hit his skull so hard Mays thought it was the bat. Chapman mumbled 'I'm all right... tell Mays not to worry... ring... Katie's ring' before collapsing. He died at 4:40 AM. His pregnant wife arrived at 10 AM to learn he was already gone. In ILB terms: Chapman carries a 'Mortal Risk' trait. He is the only player in MLB history killed by a pitched ball."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Beloved",
+      "desc": "Chapman is universally liked. +1 team chemistry for every teammate on the roster. No player has negative chemistry with Chapman."
+    },
+    {
+      "tag": "Sacrifice King",
+      "desc": "67 sac bunts in 1917 — all-time record. When Chapman bunts, baserunners advance with 95% success rate. He exists to make others better."
+    },
+    {
+      "tag": "Speedster",
+      "desc": "52 SB, 4 steals of home. Chapman can steal any base at any time, including home. Opposing catchers get -1 when Chapman is on base."
+    },
+    {
+      "tag": "Plate Crowder",
+      "desc": "Chapman crowds the plate for maximum coverage. +1 CON, but increases HBP probability by 20%. The risk is always present."
+    },
+    {
+      "tag": "Cobb's Friend",
+      "desc": "One of the few players Ty Cobb genuinely liked. When both are in the same game, neither player's aggression triggers penalties."
+    },
+    {
+      "tag": "Navy Man",
+      "desc": "Served in the Naval Reserve during WWI. Chapman gains +1 discipline and +1 morale in wartime or adversity scenarios."
+    },
+    {
+      "tag": "Mortal Risk",
+      "desc": "Chapman is the only MLB player killed by a pitched ball. In ILB, any HBP to the head triggers a critical injury check. If triggered: the player is permanently removed from the game — and the league changes forever."
+    },
+    {
+      "tag": "Do It For Chappie",
+      "desc": "If Chapman is lost, his team gains +3 morale and +2 clutch for the remainder of the season. His memory is the most powerful motivator in the game."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballfield / Practice",
+      "affinity": "HIGH",
+      "note": "Played 155 complete games at SS. The field was his home. Never left voluntarily."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Beloved in Cleveland. Engaged with fans, involved in civic life. Married into a prominent family."
+    },
+    {
+      "location": "Church",
+      "affinity": "HIGH",
+      "note": "Chapman's funeral was at the Cathedral of St. John the Evangelist. 34 priests participated. Deep faith community."
+    },
+    {
+      "location": "Restaurant / Social",
+      "affinity": "MEDIUM",
+      "note": "Jolly, social, always laughing. Enjoyed the company of teammates and friends."
+    },
+    {
+      "location": "Track / Athletic Field",
+      "affinity": "MEDIUM",
+      "note": "Won base-running races. Ran 100-yard dash in 10.0s. Captain of Navy track team."
+    },
+    {
+      "location": "Business Office",
+      "affinity": "MEDIUM",
+      "note": "Was secretary-treasurer at Pioneer Alloys. Planning retirement to business life after 1920."
+    },
+    {
+      "location": "Bar / Nightlife",
+      "affinity": "LOW",
+      "note": "No particular association. Chapman was clean-living and focused on family and career."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Pennant races — Chapman's September 1917 stretch (.517 BA, 4 steals of home) defined clutch.",
+      "Team winning streaks — his energy and sacrifice bunting fueled rallies.",
+      "Playing alongside Speaker — best friend, fellow Indian, maximum chemistry.",
+      "Getting on base — Chapman's OBP-first approach meant he was always in scoring position."
+    ],
+    "cold_triggers": [
+      "Leg injuries — broke his leg in 1914, plagued by ailments in 1916. When his legs fail, everything fails.",
+      "Low-visibility conditions — twilight, rain, dirty baseballs. Chapman crowded the plate and couldn't always see the pitch.",
+      "Isolation from team — Chapman thrived on the collective. Remove him from the group and his joy dims."
+    ],
+    "pressure_response": "EXCELLENT. Chapman was at his best when the stakes were highest. In September 1917, during a 10-game winning streak in a tight pennant race, he hit .517 and stole home four times. He was having the best season of his career in 1920 when the Indians, White Sox, and Yankees were locked in a three-way race. He was the kind of player who elevated in big moments because his skills — speed, contact, defense — don't fail under pressure the way power does. In ILB: Chapman is a reliable clutch performer whose selfless style makes everyone around him better when it matters most."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Beaning",
+      "type": "Drama",
+      "text": "A pitch strikes your batter in the head. The stadium goes silent. Roll a d6: on 1, the player dies — removed permanently from the game. On 2-3, career-ending injury. On 4-6, he misses 30 games but recovers. Either way: the league bans dirty baseballs and requires new ones after damage. The game changes forever.",
+      "origin": "On August 16, 1920, Carl Mays' submarine pitch struck Chapman in the temple at the Polo Grounds. Chapman died 12 hours later — the only on-field death in MLB history. His death led to the banning of spitballs and the requirement to replace dirty baseballs."
+    },
+    {
+      "title": "Sixty-Seven Sacrifices",
+      "type": "Game Action",
+      "text": "Your #2 hitter bunts a runner into scoring position for the 67th time this season. The record will never be broken. Your team's run production increases by +1 for the remainder of the game. The hitter's batting average drops, but his WAR rises.",
+      "origin": "Chapman's 67 sacrifice hits in 1917 remain the all-time MLB record, still unbroken over a century later."
+    },
+    {
+      "title": "Four Steals of Home",
+      "type": "Game Action",
+      "text": "During a September winning streak, your fastest player steals home four times in 10 games. Each steal gives your team +1 momentum. Opposing pitchers become paranoid — their delivery slows, giving your other batters an advantage.",
+      "origin": "Chapman stole home four times during Cleveland's 10-game winning streak in September 1917, hitting .517 during the stretch."
+    },
+    {
+      "title": "Tell Mays Not to Worry",
+      "type": "Drama",
+      "text": "Your injured player, bleeding and barely conscious, thinks first of the man who hurt him. 'I'm all right... tell him not to worry.' The entire league is moved. The player's team gains +5 permanent morale. The opposing pitcher is haunted — -2 to all stats for the rest of the season.",
+      "origin": "Chapman's final conscious words after being struck: 'I'm all right; tell Mays not to worry... ring... Katie's ring.' He was thinking of his wife's wedding ring and the man who hit him, not himself."
+    },
+    {
+      "title": "Katie's Ring",
+      "type": "Drama",
+      "text": "Your star player's pregnant wife receives a phone call. She travels across the country to reach him. She arrives too late. The entire franchise mourns. A blanket of 20,000 flowers covers the grave. The team wears black armbands. They will win the championship in his name.",
+      "origin": "Kathleen Daly Chapman, pregnant, was summoned from Cleveland. She arrived at 10 AM — Chapman had died at 4:40 AM. She fainted upon learning. Their daughter, Rae Marie, was born months later."
+    },
+    {
+      "title": "Do It for Chappie",
+      "type": "Action",
+      "text": "Your team suffers a devastating loss — a player killed or permanently injured. But the grief becomes fuel. For the rest of the season, the entire team gets +2 CLU and +2 morale. In the postseason, they are unstoppable. They win the championship and dedicate it to their fallen teammate.",
+      "origin": "The 1920 Cleveland Indians, devastated by Chapman's death, wore black armbands and rallied to win their first World Series. Joe Sewell, Chapman's replacement, hit .329 in 22 games."
+    },
+    {
+      "title": "The Beautiful Runner",
+      "type": "Game Action",
+      "text": "Your fastest player enters a base-running competition against all comers. He circles the bases in 14 seconds flat. His speed becomes legendary — +1 SPD permanently and a loving cup trophy.",
+      "origin": "At an exhibition on Tim Murnane Day in 1917, Chapman won a base-running race, circling the bases in 14 seconds, winning a loving cup."
+    },
+    {
+      "title": "They Settled for Shoeless Joe",
+      "type": "Trade",
+      "text": "A rival team wants your star shortstop. You refuse to trade him. Desperate, they trade for a different future Hall of Famer instead. Your SS stays — and the rival gets a player who will be banned for gambling within five years.",
+      "origin": "In 1915, the Chicago White Sox tried to acquire Chapman. Cleveland refused. The White Sox settled for trading for Shoeless Joe Jackson instead — who was banned in the 1919 Black Sox scandal."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Lean, handsome face of a young Kentucky-born athlete. 5'10\" 170 lbs — wiry, fast, built for speed not power. Warm, open expression — the 'jolly guy' his teammates described. Bright eyes, slight smile, the look of someone who genuinely loves playing baseball. Clean-shaven, dark hair under cap.",
+    "attire": "Cleveland Indians 1917 road grays — the team was called the Indians beginning in 1915. Baggy wool flannel, classic Deadball Era cut. In his batting stance: crouched low over the plate, bat cocked back, crowding the zone. Or fielding at shortstop: mid-throw, athletic and fluid, 'beautiful runner' in motion.",
+    "mood": "Joy mixed with poignancy. Chapman should radiate the infectious warmth his teammates remembered. But the portrait should carry an undertone of fragility — a young man at the peak of his life, unknowing of what comes next. The viewer, knowing the story, should feel both the beauty of his talent and the weight of his fate.",
+    "style": "Sepia-toned with warm golden highlights, but slightly cooler and softer than other Muggers cards — an elegiac quality. League Park in the background, a summer afternoon, the shadows just beginning to lengthen. The card should feel like a photograph you'd frame on a mantelpiece — precious, preserved, mourned.",
+    "reference": "This is the most emotional card in the Muggers set. Where Smoky Joe Wood is bottled lightning, Chapman is a candle — brilliant, warm, and extinguished too soon. The ILB Chapman card should make you feel something. Not just admire — feel."
+  },
+
+  "badges": [
+    "67 Sacrifice Hits (All-Time Record)",
+    "52 SB (CLE Record, 63 Years)",
+    "4 Steals of Home (Sept 1917)",
+    "Cleveland Indians HOF 2006",
+    "Only MLB Player Killed by Pitch",
+    "Cobb's Friend",
+    "Do It For Chappie",
+    "A Candle — Brilliant and Brief"
+  ]
+}

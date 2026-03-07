@@ -1,0 +1,234 @@
+{
+  "name": "Roger Bresnahan",
+  "nickname": "The Duke of Tralee",
+  "year": 1903,
+  "team": "New York Giants",
+  "era": "1900s",
+  "ilb_team": "Banners",
+  "position": "C",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'9\"",
+  "weight": "200 lbs",
+  "born": "June 11, 1879 — Toledo, OH",
+  "died": "December 4, 1944 — Toledo, OH",
+  "hof": "Class of 1945 (Old Timers Committee) — First catcher inducted. Elected posthumously, one month after his death.",
+
+  "real_stats": {
+    "season": 1903,
+    "games": 113,
+    "at_bats": 406,
+    "hits": 142,
+    "doubles": 30,
+    "triples": 8,
+    "home_runs": 4,
+    "rbi": 55,
+    "runs": 87,
+    "stolen_bases": 34,
+    "batting_avg": ".350",
+    "obp": ".443",
+    "slg": ".493",
+    "ops": ".936",
+    "ops_plus": 160,
+    "war": 6.7,
+    "career_avg": ".279",
+    "career_hits": 1252,
+    "career_hr": 26,
+    "career_sb": 212,
+    "career_war": 42.9,
+    "career_rbi": 530,
+    "career_obp": ".386",
+    "career_ops_plus": 126,
+    "ws_batting_avg": ".313",
+    "positions_played": 9
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 5,
+    "pow": 1,
+    "spd": 2,
+    "def": 2,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "con": ".350 BA in 1903 — five points behind Honus Wagner for the NL batting title. Career .279 with 126 OPS+ and .386 OBP across 17 seasons. Used as a leadoff hitter despite being a catcher — elite contact and plate discipline. Maximum rating.",
+    "pow": "Only 4 HR in 1903 (0-9 = 0), 26 career HR. SLG .493 (just under .500 bonus threshold). However, only player in history to hit two inside-the-park HRs in a game in BOTH leagues. Dead-ball era context and gap power warrant a bump to 1.",
+    "spd": "34 SB in 1903 (31-50 = 3 on the scale). 212 career SB — highest ever for a primary catcher. Fast enough to play CF and bat leadoff for McGraw's Giants. Rated 2 rather than 3 because the GG CF/SS bonus doesn't apply to a catcher, and peak SB rate declined once he moved behind the plate full-time.",
+    "def": "Pre-Gold Glove era (before 1957). Christy Mathewson called him the most important factor in the Giants' success. Caught all 5 games of the 1905 WS including 3 Mathewson shutouts. Invented catcher's shin guards (1907), batting helmet prototype, and padded mask. John McGraw and Branch Rickey both called him the finest catcher they ever saw. Rating: 2.",
+    "clu": ".313 BA in the 1905 World Series (.300+ = 2). Led all batters with .500 OBP in that Series. Caught every inning of the only all-shutout World Series in history — including Mathewson's legendary 3 shutouts. That is a World Series hero moment (+1). Total: 3."
+  },
+
+  "personality": {
+    "leadership_style": "Field general. Called games with surgical precision and managed pitching staffs by instinct and memory. McGraw trusted him absolutely to carry out game plans. Transitioned naturally to managing — ran the Cardinals and Cubs. Fined players liberally but took less money than any of his peers.",
+    "temperament": "Highly strung and almost abnormally emotional — in the words of one reporter. Pugnacious like his mentor McGraw. Tough on teammates who gave less than their best, tougher on opponents, toughest on umpires. Frequently ejected, fined, and suspended. Gave headaches to league officials and feuded publicly with at least three club owners.",
+    "work_ethic": "Relentless innovator. Didn't just play the position — he redesigned it. Invented shin guards, experimented with batting helmets, added padding to catcher's masks. Played through injuries that would have sidelined others. Caught 139 games in 1908 at age 29.",
+    "lifestyle": "Irish-American identity was central — faked his birthplace as Tralee, Ireland to enhance his 'Irishness' in an era when a quarter of players were of Irish descent. Shrewd businessman: purchased the Toledo Mud Hens, negotiated lucrative contracts, sued the Cardinals for back pay and won $20,000.",
+    "era_adaptability": "MAXIMUM. Started as a pitcher, played all 9 positions, became the greatest catcher of his era, then managed, then owned a team, then coached. Could adapt to literally any role in any era. The quintessential utility man before the term existed.",
+    "clubhouse_impact": "HIGH but polarizing. Players either respected his intensity or resented his fines and sharp tongue. McGraw adored him. Mathewson trusted him implicitly. Mrs. Britton fired him because she preferred Miller Huggins' 'gentlemanly manner' over Bresnahan's rougher personality.",
+    "dark_side": "Fabricated his Irish birthplace — a small but telling vanity. His managing career (328-432) was unsuccessful despite his baseball genius. Feuded with Cardinals owner Helene Britton so viciously that he was fired and had to sue to collect his salary. After baseball, his Mud Hens investment proved a poor one. He died at 65, just weeks before being elected to the Hall — never knowing he made it."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Innovator",
+      "desc": "Once per game, can introduce a new tactical wrinkle. +1 DEF for the whole team for one inning"
+    },
+    {
+      "tag": "McGraw's Twin",
+      "desc": "Extra chemistry with combative, strategist-type managers. Both feed off intensity"
+    },
+    {
+      "tag": "Battery Bond",
+      "desc": "Elite pitchers paired with Bresnahan gain +1 CTL. He remembers every hitter's weakness"
+    },
+    {
+      "tag": "Swiss Army Player",
+      "desc": "Can slot into any position in an emergency without OVR penalty — the ultimate utility man"
+    },
+    {
+      "tag": "Pugnacious Irishman",
+      "desc": "Umpire intimidation creates favorable calls — but ejection risk rises each game"
+    },
+    {
+      "tag": "The Duke's Bluff",
+      "desc": "Fabricated his own origin story. +1 charisma in social situations, but trust penalty if discovered"
+    },
+    {
+      "tag": "Owner's Nemesis",
+      "desc": "Feuds with management. If ownership makes a decision Bresnahan disagrees with, morale drops by 2"
+    },
+    {
+      "tag": "Iron Catcher",
+      "desc": "Plays through injuries. Reduced fatigue penalty behind the plate"
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Clubhouse / Locker Room",
+      "affinity": "HIGH",
+      "note": "The pre-game meeting was his domain. Called every pitch from memory."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Constantly tinkering with equipment, positioning, strategy. The inventor's workshop."
+    },
+    {
+      "location": "Bar / Nightlife",
+      "affinity": "MEDIUM",
+      "note": "Irish social culture. Enjoyed camaraderie but wasn't a wreck — too shrewd for that."
+    },
+    {
+      "location": "Restaurant / Steakhouse",
+      "affinity": "MEDIUM",
+      "note": "Stocky 200-lb frame needed fuel. Social eater, enjoyed team dinners."
+    },
+    {
+      "location": "Media / Spotlight",
+      "affinity": "MEDIUM",
+      "note": "Comfortable with press but could be 'inherently tactless.' Mixed results."
+    },
+    {
+      "location": "Business / Front Office",
+      "affinity": "HIGH",
+      "note": "Owned the Mud Hens, negotiated contracts aggressively, sued owners. A businessman-player."
+    },
+    {
+      "location": "Hotel / Rest",
+      "affinity": "LOW",
+      "note": "Too restless and competitive. Always scheming, tinkering, or arguing."
+    },
+    {
+      "location": "Church",
+      "affinity": "MEDIUM",
+      "note": "Catholic upbringing in Toledo. A priest read him last rites after his 1907 beaning."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Working with elite pitchers (the Mathewson effect — calling great games feeds his confidence)",
+      "Playing multiple positions (versatility activates energy)",
+      "Big-game situations (led the 1905 WS in batting — rises to the moment)",
+      "Introducing innovations (new equipment, new tactics — the tinkerer's high)"
+    ],
+    "cold_triggers": [
+      "Ownership conflicts (the Britton feud destroyed his Cardinals tenure)",
+      "Being underestimated or disrespected (triggers emotional spirals)",
+      "Injury — specifically beanings (unconscious after the 1907 Coakley beaning, received last rites)",
+      "Losing seasons as manager (328-432 record weighed on him)"
+    ],
+    "pressure_response": "ELITE IN OCTOBER. Bresnahan's 1905 World Series is the defining case study: .313 BA, .500 OBP, caught every inning of the only all-shutout Series in history. He called Mathewson's three masterpieces and McGinnity's blanking. In the regular season, his pressure response was strong but complicated by his temper — his emotional volatility could fuel brilliance or cause ejection. The man who invented shin guards knew that protecting yourself was the first step to thriving under fire."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Innovator's Edge",
+      "type": "Action",
+      "text": "Your catcher introduces a new piece of equipment or technique. All catchers on your roster gain +1 DEF for the rest of the series. But opponents may protest — 20% chance the league reverses it.",
+      "origin": "Bresnahan introduced shin guards on Opening Day 1907. Fans threw snowballs, the game was forfeited, and Pirates manager Fred Clarke protested to the league. The protest was denied."
+    },
+    {
+      "title": "Last Rites at Home Plate",
+      "type": "Drama",
+      "text": "Your catcher is hit in the head by a pitch. He's unconscious. Roll: 70% he recovers in 3 games. 20% he's out for the season. 10% career-ending. If he returns, he gains +1 DEF permanently (he invents a helmet).",
+      "origin": "Bresnahan was beaned by Andy Coakley on June 18, 1907. A priest administered last rites. He recovered and subsequently developed the first batting helmet."
+    },
+    {
+      "title": "The Duke's Bluff",
+      "type": "Action",
+      "text": "Your player fabricates an impressive backstory. +2 charisma and fan engagement for 5 games. But if an opponent plays an 'Investigation' card, your player loses 3 morale.",
+      "origin": "Bresnahan claimed he was born in Tralee, Ireland — he was actually from Toledo, Ohio. The nickname 'Duke of Tralee' stuck for his entire career."
+    },
+    {
+      "title": "Nine Positions, One Player",
+      "type": "Game Action",
+      "text": "Your most versatile player can fill any open position this game without penalty. If he plays a position he's never played before, roll: 60% success (+1 team morale), 40% he struggles (-1 OVR for the game).",
+      "origin": "Bresnahan played all 9 defensive positions at the major-league level — pitcher, catcher, all four infield spots, and all three outfield spots."
+    },
+    {
+      "title": "Calling the Masterpiece",
+      "type": "Game Action",
+      "text": "Your catcher and ace pitcher have a Battery Bond. In a postseason game, the pitcher gains +2 CTL and +1 STF. If he throws a shutout, both players gain permanent +1 CLU.",
+      "origin": "Bresnahan caught all three of Christy Mathewson's shutouts in the 1905 World Series — widely considered the greatest pitching performance in Series history."
+    },
+    {
+      "title": "Sue the Owner",
+      "type": "Drama",
+      "text": "Your player-manager is fired mid-contract by ownership. He sues. Roll: 50% he wins and collects full salary (team loses the money). 50% he loses and is blacklisted for 1 season.",
+      "origin": "After being fired by Cardinals owner Helene Britton in 1912, Bresnahan sued for the remainder of his 5-year, $10,000/year contract and settled for $20,000."
+    },
+    {
+      "title": "Leadoff Catcher",
+      "type": "Action",
+      "text": "Move your catcher to the leadoff spot in the batting order. He gains +1 CON and +1 SPD for this game. Other catchers across the league are confused and demoralized.",
+      "origin": "Bresnahan was one of the first catchers ever used as a leadoff hitter, thanks to his .386 career OBP and 212 stolen bases."
+    },
+    {
+      "title": "Snowballs on Opening Day",
+      "type": "Drama",
+      "text": "Your team introduces a controversial change. Fans riot and throw objects on the field. The game is forfeited. Your team loses this game but gains +1 innovation point for the season.",
+      "origin": "When Bresnahan debuted shin guards on Opening Day 1907, fans threw snowballs and umpire Bill Klem forfeited the game to the Phillies."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Stocky, compact build at 5'9\" 200 lbs. Round Irish face, broad jaw, clean-shaven or light stubble. Eyes sharp and calculating — the look of a man calling pitches. Barrel chest, thick forearms.",
+    "attire": "New York Giants uniform circa 1903 — dark wool jersey with 'NY' interlocking letters, high-waisted flannel pants, small pillbox cap. Shin guards visible below the knee if in catching gear. No number.",
+    "mood": "Calculating intensity. The half-crouch of a catcher who's about to call a breaking ball. Not rage like Dahlen — this is chess-player focus. The smirk of a man who knows something you don't.",
+    "style": "Sepia-toned with warm golden highlights. Polo Grounds grandstand in soft focus. Classic dead-ball era photography grain. Unified ILB portrait style.",
+    "reference": "Think 1905 World Series energy — the man behind Mathewson's three shutouts. A portrait that radiates intelligence and toughness in equal measure. Cabinet card composition, shoulders squared to camera."
+  },
+
+  "badges": [
+    "HOF 1945",
+    "1× WS Champ",
+    "2× NL Pennant",
+    "Shin Guard Pioneer",
+    "126 Career OPS+",
+    "212 Career SB"
+  ]
+}

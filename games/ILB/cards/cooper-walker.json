@@ -1,0 +1,219 @@
+{
+  "card_type": "hitter",
+  "name": "Walker Cooper",
+  "nickname": "Big Coop",
+  "year": 1947,
+  "team": "New York Giants",
+  "era": "1940s",
+  "ilb_team": "Allies AL1940",
+  "position": "C",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'3\"",
+  "weight": "210 lbs",
+  "born": "January 8, 1915 — Atherton, MO",
+  "died": "April 11, 1991 — Scottsdale, AZ (age 76)",
+  "hof": "Not inducted. 8x All-Star. 2x WS Champion (1942, 1944). Best catcher of the 1940s.",
+
+  "real_stats": {
+    "season": 1947,
+    "games": 140,
+    "at_bats": 515,
+    "hits": 157,
+    "doubles": 20,
+    "triples": 8,
+    "home_runs": 35,
+    "rbi": 122,
+    "runs": 79,
+    "stolen_bases": 0,
+    "walks": 36,
+    "strikeouts": 48,
+    "batting_avg": ".305",
+    "obp": ".364",
+    "slg": ".532",
+    "ops": ".896",
+    "ops_plus": 140,
+    "war": 4.5,
+    "career_avg": ".285",
+    "career_hits": 1341,
+    "career_hr": 173,
+    "career_rbi": 812,
+    "career_slg": ".464",
+    "career_obp": ".332",
+    "career_war": 28.5
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 5,
+    "pow": 4,
+    "spd": 0,
+    "def": 2,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "con": "Cooper batted .305 in 1947 — extraordinary for a catcher in any era. He hit .318 in 1943 (runner-up MVP to Musial). Career .285 is higher than HOF catchers Bench, Campanella, Carter, Fisk, and Ferrell. OPS+ 140 clears the >=130 bonus. Rating: 5.",
+    "pow": "35 HR in 1947 — his previous career high had been 13. One of the best offensive catcher seasons in history. Homered in 6 consecutive games, tying George Kelly's 1924 record. 173 career HR. SLG .532 earns the >=.500 bonus; base tier 3 (30-39 HR) + bonus = 4. For a catcher, this power was unheard of in the 1940s. Rating: 4.",
+    "spd": "0 SB in 1947. Cooper was 6'3\" 210 lbs — a massive catcher by 1940s standards. 8 triples (surprising for his size) but no stolen base threat whatsoever. Rating: 0.",
+    "def": "Led NL catchers in range factor 3 times, caught stealing percentage twice, assists once. .977 career fielding percentage. Caught Lon Warneke's 1941 no-hitter and Vern Bickford's 1950 no-hitter. Handled brother Mort Cooper's MVP season (1942: 22-7, 1.78 ERA). Pre-GG equivalent ~3 GG for range and game-calling, arm penalty applied. Rating: 2.",
+    "clu": "World Series .300 BA in 16 games across 3 Fall Classics (1942-44). In the 1942 WS clincher (Game 5), Cooper picked off Joe Gordon at second base with the tying run on, preserving the championship. Drove in the winning run in Game 4. In 1943 WS, caught the final out on the day of his father's funeral. PS BA .300 = tier 2, WS hero moments add +1. Maximum clutch. Rating: 3."
+  },
+
+  "personality": {
+    "leadership_style": "Team captain through force of personality. Cooper was named Giants captain — a role he took seriously despite being baseball's most notorious prankster. He managed pitching staffs, called games with intelligence, and was the physical anchor behind the plate. His leadership was paradoxical: serious competitor on the field, absolute clown in the clubhouse.",
+    "temperament": "The Prankster King. Cooper was legendary for practical jokes: tying teammates' undershirts into 25 knots, nailing shoes to the floor with spikes, giving hotfoots to Manager Mel Ott, putting lit cigars in Ott's hip pocket, snipping the lining from his manager's pants pocket, and sitting in hotel lobbies setting his own newspaper on fire. He was also 'irascible' toward opponents — intimidating runners, berating umpires, and protecting his pitchers with a ferocity that earned deep respect.",
+    "work_ethic": "Built through hardship. Cooper spent years in the Cardinals' loaded farm system before breaking through at age 25. He then played through a broken collarbone, fractured fingers, serious leg infections, and a broken hand — always returning. His 1947 breakout (35 HR after never hitting more than 13) showed he was still developing power at age 32. The man never stopped improving.",
+    "lifestyle": "Missouri farm boy. Cooper grew up in Atherton, Missouri — small-town America. His brother Mort was his batterymate, his rival, and his closest friend. The Cooper brothers asked for a $15,000 raise together and were punished for it — Walker was sold while serving in the Navy. After baseball: minor league manager, then coaching. His daughter married his Cardinals teammate Don Blasingame. He quipped: 'You know you're getting too old when your daughter marries one of your teammates.'",
+    "era_adaptability": "HIGH. A catcher who hits .305 with 35 HR translates to any era. Cooper's power-hitting catcher profile is exactly what modern teams crave. His defensive metrics (range factor, CS%) would translate well. His personality — the pranks, the intensity, the leadership — would make him a fan favorite and clubhouse catalyst. He'd be Mike Piazza with better defense.",
+    "clubhouse_impact": "THE LIFE OF THE CLUBHOUSE. Cooper's pranks are legendary — he was the heartbeat of every team he played for. But beneath the humor was genuine competitive fire and deep loyalty. He and Mort played in Game 5 of the 1943 WS on the day of their father's funeral. That's not a prankster — that's a warrior. In ILB terms: +2 clubhouse morale (laughs and pranks), +1 competitive intensity (protecting pitchers, throwing out runners).",
+    "dark_side": "Sold while serving. Cooper and brother Mort asked for modest raises before the 1945 season. Cardinals owner Sam Breadon punished them: Walker was sold to the Giants for $175,000 (record cash deal) while serving in the Navy. He never forgave the Cardinals. Also: Cooper is NOT in the Hall of Fame, despite career stats that exceed multiple HOF catchers. His career was fragmented across 7 teams, and writers undervalued catchers. He's one of the most glaring Hall of Fame omissions at the position."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Big Coop",
+      "desc": "6'3\" 210 — one of the strongest men in baseball. Physical intimidation factor. +1 to pitcher confidence: batters don't crowd the plate."
+    },
+    {
+      "tag": "Brother Battery",
+      "desc": "Mort Cooper (pitcher) and Walker Cooper (catcher) — the most famous sibling battery. When paired with a sibling or family connection, +2 team synergy."
+    },
+    {
+      "tag": "The Prankster King",
+      "desc": "25-knot undershirts, nailed shoes, lit newspapers, hotfoots for the manager. +2 clubhouse morale. 10% chance of backfiring: -1 if prank goes wrong."
+    },
+    {
+      "tag": "Funeral Day Warriors",
+      "desc": "Played WS Game 5 on the day of their father's funeral. Mort pitched CG; Walker caught the final out. +2 CLU under extreme emotional pressure."
+    },
+    {
+      "tag": "Six Consecutive HRs",
+      "desc": "Homered in 6 straight games in 1947 (tied record). When Cooper hits HR in back-to-back games, 40% chance of extending the streak."
+    },
+    {
+      "tag": "Sold While Serving",
+      "desc": "Sold by the Cardinals for $175,000 while in the Navy — punishment for asking for a raise. -1 loyalty to front office. +1 'I'll show you' motivation."
+    },
+    {
+      "tag": "10-RBI Game",
+      "desc": "6-for-7 with 3 HR and 10 RBI in a single game. Only catcher ever. When Cooper has 5+ RBI, chance of historic game."
+    },
+    {
+      "tag": "No-Hitter Catcher",
+      "desc": "Caught two no-hitters (Warneke 1941, Bickford 1950). +1 to any pitcher's STF when Cooper is behind the plate in a shutout."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Led NL catchers in range factor 3 times. Caught 2 no-hitters. Best catcher of the 1940s."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": ".305 / 35 HR / 122 RBI in 1947. Elite hitting catcher — a draw wherever he went."
+    },
+    {
+      "location": "Bar/Nightlife",
+      "affinity": "HIGH",
+      "note": "The Prankster King. Knotted shirts, nailed shoes, lit newspapers. Center of team spirit in any room."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "Set his own newspaper on fire in hotel lobbies. The hotel was his stage — never quiet, never still."
+    },
+    {
+      "location": "Restaurant/Steakhouse",
+      "affinity": "HIGH",
+      "note": "2 WS rings with the Cardinals. 35 HR breakout with the Giants. Celebrated everywhere he went."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "LOW",
+      "note": "Put lit cigars in Mel Ott's pocket. Snipped his pants lining. Managers loved him and feared him."
+    },
+    {
+      "location": "Gambling Hall",
+      "affinity": "NONE",
+      "note": "Asked for a raise, got sold while in the Navy. Trust issues with ownership — never trusted the house."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Multi-HR games — 6 consecutive HR games in 1947. Cooper's power comes in streaks.",
+      "Protecting pitchers — when a hitter charges or threatens, Cooper's competitive fire ignites.",
+      "Clubhouse morale high — when the team is loose and laughing, Cooper plays his best.",
+      "Brother on the mound — with Mort pitching, Walker's DEF and CLU both rise."
+    ],
+    "cold_triggers": [
+      "Hand and finger injuries — foul tips fractured his fingers multiple times. Catcher's occupational hazard.",
+      "Front office conflict — being sold while serving haunted him. Management disputes kill motivation.",
+      "Late-career decline — after 1947, Cooper bounced through 5 teams in 10 years."
+    ],
+    "pressure_response": "MAXIMUM OCTOBER PERFORMER. Cooper's .300 WS average across 3 Fall Classics is exceptional for a catcher. He delivered the winning RBI in 1942 Game 4, the pickoff that saved Game 5, and caught the final out on the day of his father's funeral. His 1944 WS .318 confirmed the pattern: Cooper elevated when everything was on the line. In ILB terms: CLU 3 is maximum for a reason. Cooper is the roster's most clutch position player."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Funeral Day Game",
+      "type": "Drama",
+      "text": "Your catcher's father died this morning. The World Series game is tonight. He and his brother — the pitcher — choose not to leave. The brother throws a complete game. The catcher records the final out. They embrace on the mound. They win the game and weep together in the clubhouse.",
+      "origin": "1943 World Series, Game 5. Mort and Walker Cooper's father died that morning. They played anyway. Mort pitched a CG; Walker caught the final pop fly off Joe Gordon. The Cardinals won."
+    },
+    {
+      "title": "The Pickoff That Won the Championship",
+      "type": "Game Action",
+      "text": "Bottom of the ninth, World Series clincher. The tying run reaches second base on an error. Your catcher fires to second and picks him off. The next two batters are retired. Championship won. The catcher saved it with his arm, not his bat.",
+      "origin": "1942 World Series, Game 5. Joe Gordon singled, then Dickey reached on an error. Cooper picked Gordon off second. The Cardinals retired the next two batters to win the title."
+    },
+    {
+      "title": "The 25-Knot Undershirt",
+      "type": "Action",
+      "text": "Your catcher sneaks into a teammate's locker before the game. He ties the man's undershirt into 25 individual knots. The teammate spends 20 minutes untying it. The whole clubhouse is in hysterics. The catcher is already nailing someone else's shoes to the floor.",
+      "origin": "Cooper was legendary for tying teammates' undershirts into up to 25 knots. He also nailed shoes to the floor with spikes, gave hotfoots, and once set his own newspaper on fire in a hotel lobby."
+    },
+    {
+      "title": "Sold While Serving",
+      "type": "Drama",
+      "text": "Your catcher and his brother ask for modest raises — $15,000 each. The owner is furious. While the catcher serves in the Navy defending his country, the owner sells him for $175,000 — the highest cash-only deal in baseball history. The catcher returns from war to find himself on a new team.",
+      "origin": "1945. Cooper and Mort asked Breadon for raises. Breadon sold Walker to the Giants for $175,000 while Walker was serving in the Navy. It was the highest cash-only deal in baseball history."
+    },
+    {
+      "title": "The Ten-RBI Game",
+      "type": "Game Action",
+      "text": "Your catcher goes 6-for-7. Three home runs. Two doubles. A single. Ten runs batted in. No catcher has ever done this before. No catcher has done it since. It's the rarest single-game performance in baseball history for a backstop.",
+      "origin": "July 6, 1949. Cooper went 6-for-7 with 3 HR, 2 2B, 1 1B, 15 total bases, and 10 RBI for the Reds vs. the Cubs. He remains the only catcher in MLB history with 10+ RBI in a single game."
+    },
+    {
+      "title": "From 13 to 35",
+      "type": "Action",
+      "text": "Your catcher's career high in home runs is 13. Doubters say he's past his prime at 32. He hits 35 home runs the next year — nearly tripling his previous best. He also homers in six consecutive games. The doubters shut up.",
+      "origin": "Cooper's career HR high before 1947 was 13. In 1947, he hit 35 HR with 122 RBI — one of the best offensive catcher seasons in history. He also homered in 6 consecutive games."
+    },
+    {
+      "title": "Hotfoot for the Manager",
+      "type": "Action",
+      "text": "Your catcher gives the MANAGER a hotfoot during a game. Then puts a lit cigar in his hip pocket. Then snips the lining from his pants pocket so his lineup card falls through to the ground at home plate. The manager can't stop laughing. Neither can the team.",
+      "origin": "Cooper tormented Giants manager Mel Ott with hotfoots, lit cigars in his pocket, and snipped his pocket lining. Ott took it all in good humor — and Cooper kept the team loose."
+    },
+    {
+      "title": "Your Daughter Married Your Teammate",
+      "type": "Drama",
+      "text": "Your aging catcher's daughter marries one of his teammates. At the wedding reception, the catcher announces to the crowd: 'You know you're getting too old when your daughter marries one of your teammates.' The room erupts. The catcher tips his hat.",
+      "origin": "Cooper's daughter Sara (Miss Missouri 1957) married Cardinals 2B Don Blasingame. Cooper's quote became one of baseball's most beloved one-liners."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'3\" 210 lbs — massive for a 1940s catcher. Broad shoulders, powerful build, the strongest man on the field. Missouri farm-bred strength. A face that shifts between mischievous grin (the prankster) and fierce competitive glare (the warrior). The duality is the card.",
+    "attire": "New York Giants home whites, 1947 style. Catcher's gear partially visible — chest protector, shin guards. Or: in batting stance, right-handed swing, the power that produced 35 HR. Number visible.",
+    "mood": "Dual nature. One half: the prankster laughing in the clubhouse, joy and chaos. Other half: the warrior behind the plate, picking off a runner in the World Series, catching the final out on the day his father died. The card should convey both — the man who tied 25 knots in your undershirt and also won championships.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. The Polo Grounds — where Cooper had his 35-HR breakout — or Sportsman's Park — where the brother battery won championships. The card should feel like controlled chaos: power, pranks, and October heroics.",
+    "reference": "Think of the complete catcher: power bat, strong arm, game intelligence, clubhouse personality, and October steel. Cooper was Mike Piazza's offense with Yadier Molina's defense and Bill Murray's personality. The card should convey a man who was always the most interesting person in any room — and the most dangerous behind the plate."
+  }
+}

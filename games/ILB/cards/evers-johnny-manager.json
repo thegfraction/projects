@@ -1,0 +1,247 @@
+{
+  "card_type": "manager",
+  "name": "Johnny Evers",
+  "nickname": "The Crab",
+  "year": 1913,
+  "team": "Chicago Cubs",
+  "era": "1910s",
+  "ilb_team": "Gloves",
+  "archetype": "Firebrand",
+  "born": "July 21, 1881 — Troy, NY",
+  "died": "March 28, 1947 — Albany, NY (age 65)",
+  "hof": "Inducted 1946 (Veterans Committee). Elected with Tinker and Chance — the inseparable trio. Died of cerebral hemorrhage less than a year after induction.",
+  "height": "5'9\"",
+  "weight": "125 lbs",
+
+  "record": {
+    "career_wins": 180,
+    "career_losses": 192,
+    "win_pct": ".484",
+    "pennants": 0,
+    "world_series": 0,
+    "seasons_managed": 3,
+    "ejections": "Constant — 9 ejections in 1914 alone (as player-captain). As manager: combative with everyone.",
+    "peak_team": "1914 Miracle Braves (as player-captain/MVP, not official manager)",
+    "managerial_stints": [
+      "Chicago Cubs player-manager (1913)",
+      "Chicago Cubs manager (1921, fired Aug 2)",
+      "Chicago White Sox manager (1924, fired after 1 season)"
+    ],
+    "notable": "180-192 career managerial record. BUT: as player — 4 WS appearances, 2 WS wins (1907, 1908), 1 WS win as captain (1914 Miracle Braves), 1914 Chalmers Award (MVP). The Merkle play (1908). Co-authored 'Touching Second' — the first analytical baseball book. 30-year feud with Joe Tinker.",
+    "playing_career": ".270 BA, 324 SB, 919 runs. 5 pennants as player (Cubs 1906-08-10, Braves 1914). 3 WS wins. 1914 MVP. Teams never finished worse than 3rd in 15 years.",
+    "tragedies": "1910-11: daughter died, lost life savings in failed business, drove car that killed his best friend, suffered nervous breakdown and pneumonia."
+  },
+
+  "ilb_ratings": {
+    "ovr": 7,
+    "tac": 5,
+    "pit": 2,
+    "lin": 3,
+    "adp": 2,
+    "dis": 4,
+    "ego": 3,
+    "har": 3,
+    "int": 10,
+    "str": 5,
+    "flx": 3
+  },
+
+  "rating_justification": {
+    "tac": "Maximum. The Merkle play — calling out Fred Merkle for not touching second base, forcing a forfeit that decided the 1908 NL pennant — was the single greatest tactical observation in baseball history. Evers SAW what nobody else saw because he had studied the rulebook obsessively. He co-authored 'Touching Second' with Hugh Fullerton — the first analytical baseball book. 'It's a case of think, think, all the time.' Rating of 5.",
+    "pit": "Evers was a position player whose managerial tenure was too brief and unsuccessful to demonstrate pitching management. No evidence of innovative pitching strategy. His genius was elsewhere. Rating of 2.",
+    "lin": "Adequate. Evers understood baseball at a deep analytical level — he was decades ahead of his time in understanding the value of each run and each out. But his managerial record doesn't show lineup innovation. His gift was in-game tactical decisions, not pre-game construction. Rating of 3.",
+    "adp": "Low. Evers had one mode: maximum intensity. When told to calm down, he couldn't. When his players didn't match his obsession, he raged at them. He suffered two nervous breakdowns because he couldn't adapt his emotional investment to his physical/mental limits. Fired twice because he couldn't adjust to managing adults who weren't as driven as he was. Rating of 2.",
+    "dis": "Poor. Evers couldn't discipline himself — 9 ejections in 1914, constant altercations, suspensions. He 'couldn't understand why his Chicago players couldn't do the right thing when he had told them what to do. He couldn't understand that there is such a thing as instinct.' His expectations were inhuman. Rating of 4.",
+    "ego": "Poor. The 30-year feud with Joe Tinker is the most famous interpersonal conflict in baseball history. They didn't speak for three decades — HOF teammates. 'During the turbulent days of his career he was on the outs with almost everyone he knew.' The Crab was universally combative. Rating of 3.",
+    "har": "Poor. 'He'd make you want to punch him,' teammate Rabbit Maranville recalled, 'but you knew Johnny was only thinking of the team.' The saving grace: his teammates acknowledged his intentions were pure. The destruction was collateral damage from an obsession with winning that had no off switch. Rating of 3.",
+    "int": "Maximum. 'The fiercest competitor this side of Ty Cobb.' 'A keen little umpire-fighting bundle of nerves.' 125 pounds of pure, relentless, exhausting intensity. His war cry wasn't a shout — it was his entire existence. He literally broke his own mind with intensity. Twice. Rating of 10.",
+    "str": "Moderate-low. 180-192 career record. Fired by the Cubs in August 1921 (41-55). One season with the White Sox in 1924. His strategic genius was real-time and improvisational — the Merkle play, defensive positioning, baserunning calls. But building a roster and managing a season required patience and people skills he didn't have. Rating of 5.",
+    "flx": "Poor. One speed. Maximum. Always. Evers couldn't throttle down, couldn't adapt to different player personalities, couldn't accept that other people processed baseball differently than he did. Two nervous breakdowns. Two firings. The inflexibility wasn't stubbornness — it was genuine inability to operate at any speed other than full. Rating of 3."
+  },
+
+  "personality": {
+    "leadership_style": "Obsessive perfectionist. Evers led by demanding that everyone match his intensity — and no one could. He ran teammates ragged in practice. He 'took it as a personal insult when anyone didn't put forth their best effort.' His leadership was combustion: brilliant, inspiring, and ultimately self-destructive. The players who survived his intensity became champions. Many didn't survive it.",
+    "temperament": "Volcanic and brilliant. 'One of the smartest men that ever played baseball. He was the crabbiest, fightin'est, most sarcastic, meanest-tongued player that ever wore a spiked shoe — and at the same time one of the nicest and finest little gentlemen that ever lived. His enmity was a thing to fear; his friendship a possession to be treasured.' The duality is the key: Evers was simultaneously the best and worst teammate you could have.",
+    "work_ethic": "Obsessive to the point of self-destruction. 'It's a case of think, think, all the time, and the fellow who trusts to luck and does not see to it that he has his brains under full steam every minute will not last long.' He literally couldn't stop working. The nervous breakdowns were the inevitable result of a mind that refused to rest.",
+    "lifestyle": "Born in Troy, New York. Irish Catholic. Failed marriage. Bankrupt businesses. Daughter died in 1910. Killed his best friend in a car accident the same year. Lost his life savings. Nervous breakdown. Came back. Won the MVP. Had another breakdown. Co-authored a book. Managed. Got fired. Managed again. Got fired again. Suffered a stroke. Elected to the Hall of Fame. Died a year later. A life of triumph and devastation in equal measure.",
+    "communication_style": "Combative and relentless. 'My favorite umpire is a dead one.' He argued with everyone — umpires, opponents, teammates, managers. But he also wrote eloquently about baseball: 'When you have to get out, day in and day out, for six or seven months, and play, think you not it is likely to grow rather monotonous and wearisome?' He understood his own condition perfectly — and couldn't change it.",
+    "loyalty_expectations": "Total commitment or nothing. Evers demanded the same obsessive dedication from every player that he demanded from himself. When players fell short — and they always did — he exploded. The loyalty was real but the standard was impossible. Only the most driven players could earn his respect.",
+    "dark_side": "The breakdowns. Evers broke himself twice — nervous collapses in 1910-11 and again in 1915. His daughter died. He killed his best friend. His marriage failed. His businesses went bankrupt. And through all of it, he kept coming back to baseball because baseball was the only thing that made sense to him — and the thing that destroyed him. In ILB: Evers carries 'The Breaking Point' — his intensity is the highest in the game, and the cost is the highest too."
+  },
+
+  "playbook": {
+    "roster_philosophy": "Outthink every opponent, every day, every play. Evers didn't build rosters — he demanded that every player on the roster think as hard as he did. His philosophy was that baseball was a mental game first, physical second: 'the fellow who trusts to luck and does not see to it that he has his brains under full steam every minute will not last long.' This works if you're managing geniuses. For everyone else, it's exhausting.",
+    "conflict_response": "CREATE. Evers didn't respond to conflict — he generated it. He fought with umpires, opponents, teammates, and himself. Conflict was his natural state. The question isn't how he handled conflict; it's whether anyone could survive being around him during it.",
+    "clique_strategy": "ALIENATE. Evers was on the outs with almost everyone. Cliques formed around avoiding him. The Tinker feud lasted 30 years. His managing style created factions: those who admired his brilliance and those who couldn't stand his personality. There was no middle ground with The Crab.",
+    "player_types_that_thrive": [
+      "Mentally tough, high-IQ players who match Evers's obsessive analysis",
+      "Players who are motivated by criticism and combativeness",
+      "Small, scrappy, overachieving players — Evers was 125 lbs himself",
+      "Players willing to endure personal conflict for the chance to win",
+      "Defensive specialists — Evers's tactical genius was defense-first"
+    ],
+    "player_types_that_struggle": [
+      "Sensitive players who need encouragement — Evers offers criticism, not comfort",
+      "Players who need personal harmony to perform — The Crab destroys harmony",
+      "Power hitters who rely on physical tools over mental engagement",
+      "Veterans set in their ways — Evers demands constant adaptation and study",
+      "Anyone who values work-life balance — Evers has none and expects none"
+    ],
+    "tolerance_thresholds": {
+      "max_ego_cluster": 2,
+      "max_volatility": "UNLIMITED — Evers IS volatility. He creates it, thrives in it, and eventually drowns in it.",
+      "discipline_floor": "NONE — Evers can't discipline others because he can't discipline himself. The standard is impossible.",
+      "star_exception": "No exceptions. Evers treated everyone the same: with brilliant, relentless, unsustainable intensity."
+    }
+  },
+
+  "chemistry_impact": {
+    "team_fit": { "effect": "VOLATILE", "desc": "+3 Team Fit when winning (the fire is inspiring). -3 Team Fit when losing (the fire becomes blame). No middle ground. The Crab runs hot or cold." },
+    "volatility": { "effect": "MASSIVELY INCREASED", "desc": "+3 Volatility for all players. Evers creates chaos. Every game is a roller coaster. Every interaction is a potential explosion. The intensity is contagious — and dangerous." },
+    "discipline": { "effect": "DECREASED", "desc": "-2 Discipline. Evers's own lack of self-control undermines team discipline. How can the manager demand composure when he's been ejected 9 times this season?" },
+    "ego": { "effect": "AGGRAVATED", "desc": "+2 Ego for all players. Evers's combativeness breeds combativeness. The Tinker feud becomes the template — players start feuding with each other." },
+    "work_habits": { "effect": "STRONGLY INCREASED", "desc": "+2 Work Habits. Whatever else you can say about Evers, he worked harder than anyone alive. His obsessive preparation is infectious — even his enemies acknowledged his dedication." },
+    "adaptability": { "effect": "DECREASED", "desc": "-1 Adaptability. Evers has one mode. His teams play one way. There is no plan B because plan A is 'think harder, fight harder, play harder' — and that's all there is." }
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Merkle Play",
+      "desc": "Evers sees what nobody else sees. Once per game, Evers can force a rulebook review that overturns a play in his favor. The umpire must check the rulebook — and Evers has already memorized it."
+    },
+    {
+      "tag": "125 Pounds of Fury",
+      "desc": "Evers was one of the smallest men in baseball. Players with low physical stats but high mental stats gain +2 to their highest stat under Evers. Brain beats brawn."
+    },
+    {
+      "tag": "The Crab",
+      "desc": "Evers's sour disposition affects everyone. All opposing players within earshot have a 10% chance of 'Rattled' status. But all friendly players have a 10% chance of 'Frustrated' (-1 Harmony)."
+    },
+    {
+      "tag": "My Favorite Umpire",
+      "desc": "'My favorite umpire is a dead one.' Evers has a 20% chance of ejection per game. When ejected, all players gain +1 Intensity for the remainder (rallying around the martyred Crab)."
+    },
+    {
+      "tag": "30-Year Feud",
+      "desc": "Evers and Tinker didn't speak for 30 years but played brilliantly together. If two players on the team have a 'Feud' status, they BOTH gain +1 DEF when playing adjacent positions. Hatred sharpens focus."
+    },
+    {
+      "tag": "Touching Second",
+      "desc": "Evers co-wrote the first analytical baseball book. +1 Tactics for all defensive plays. Evers invented modern defensive theory in 1910."
+    },
+    {
+      "tag": "The Miracle",
+      "desc": "The 1914 Braves went from last place to World Series champions. If your team is in last place after 10 games, all players gain +2 Clutch for the remainder. The impossible is Evers's specialty."
+    },
+    {
+      "tag": "The Breaking Point",
+      "desc": "After 15 games, there's a 15% chance per game of a 'Breakdown' event — Evers is removed for 3 games. When he returns, Intensity is reduced by 2 permanently. The mind has limits."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Where Evers invented modern defensive positioning. The crablike stance. The pivot. The place where he was a genius.",
+      "note_extra": "Source labeled 'Second Base / Infield' — mapped to Practice Field per taxonomy."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "'My favorite umpire is a dead one.' Evers spent more time arguing with umpires than most managers spend in the dugout.",
+      "note_extra": "Source labeled 'Umpire's Face' — mapped to Media/Spotlight per taxonomy (confrontation-as-performance, matching Elberfeld/Durocher handling)."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "HIGH",
+      "note": "Co-authored 'Touching Second.' Studied the rulebook obsessively. Found the Merkle loophole. The thinking man's ballplayer."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Born and buried there. Irish Catholic community. The place that made him and the place he returned to.",
+      "note_extra": "Source labeled 'Troy, New York' — mapped to Community Events as hometown/roots affinity."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "MEDIUM",
+      "note": "'He ran his teammates ragged in practice.' If you survived Evers's practice sessions, you were ready for anything."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Two nervous breakdowns. Pneumonia. Stroke. The places where the 125-pound body paid for the 10-ton intensity.",
+      "note_extra": "Source labeled 'Hospital / Sanatorium' — mapped to Hotel/Rest as recovery/rest taxonomy node."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "180-192 career record. Fired twice. The dugout was where Evers's genius met its limits.",
+      "note_extra": "Source labeled 'Dugout / Manager's Office' — mapped to Hotel/Rest; second LOW Hotel/Rest entry flagged."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Pennant race intensity — Evers thrived when every game mattered (the Merkle play came in a pennant race)",
+      "Underdog status — the Miracle Braves were in last place before Evers arrived",
+      "Rulebook exploitation — when Evers found an edge, he was unstoppable",
+      "Rivalry games — the hatred fueled his best performances"
+    ],
+    "cold_triggers": [
+      "Extended losing without hope — Evers needed the possibility of winning to function",
+      "Personal tragedy — daughter's death, car accident, business failures broke him",
+      "Team resistance to his intensity — when players tuned him out, he spiraled",
+      "Physical/mental exhaustion — the breakdowns were cumulative, not sudden"
+    ],
+    "pressure_response": "EXTRAORDINARY IN SINGLE MOMENTS, UNSUSTAINABLE OVER SEASONS. The Merkle play. The 1914 Miracle Braves. The 1907-08 World Series wins. In the moment of maximum pressure, Evers was among the greatest ever. But over a full season as manager: 180-192, fired twice. His pressure response is a spike, not a sustained elevation. In ILB: Evers provides +3 Clutch in single pivotal moments (elimination games, critical at-bats). But -2 Clutch over the course of a full season. The Crab is a weapon, not a system."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Merkle Play",
+      "type": "Game Action",
+      "text": "Your manager spots a rule violation nobody else sees. Overturn one play in your favor this game. The opposing manager may challenge — roll d6. On 1-4, your ruling stands (Evers memorized the rulebook). On 5-6, the challenge succeeds and your manager is ejected.",
+      "origin": "September 23, 1908: Fred Merkle of the Giants failed to touch second base on a walkoff hit. Nobody noticed — except Johnny Evers. He called for the ball, touched second, and the game was forfeited. The Cubs won the pennant by one game."
+    },
+    {
+      "title": "The Miracle Run",
+      "type": "Action",
+      "text": "Your team is in last place. Your manager's fury transforms into inspiration. All players gain +2 to their lowest stat for the next 10 games. If you climb out of last place, the bonuses become permanent. The impossible is possible.",
+      "origin": "The 1914 Boston Braves were 26-40 in early July — dead last. With Evers as player-captain, they went 68-19 the rest of the way and won the World Series. It remains the greatest turnaround in baseball history."
+    },
+    {
+      "title": "Touching Second",
+      "type": "Action",
+      "text": "Your manager literally wrote the book on baseball strategy. +2 DEF for all infielders this game. All defensive plays are resolved with a +1 bonus. The first analytical baseball book, published in 1910.",
+      "origin": "Evers co-authored 'Touching Second' with sportswriter Hugh Fullerton in 1910 — the first book to apply analytical thinking to baseball strategy. It covered defensive positioning, baserunning, and tactical theory decades before sabermetrics."
+    },
+    {
+      "title": "The 30-Year Feud",
+      "type": "Drama",
+      "text": "Two of your players develop an intense personal feud. They refuse to speak to each other off the field. But on the field, they gain +2 DEF when playing adjacent positions. Hatred sharpens focus. 'These are the saddest of possible words.'",
+      "origin": "Evers and Tinker didn't speak for 30 years after Tinker fired a baseball at Evers and injured his hand. Despite this, they formed the most famous defensive combination in history and were inducted into the Hall of Fame together in 1946."
+    },
+    {
+      "title": "The Year Everything Broke",
+      "type": "Drama",
+      "text": "Your manager suffers catastrophic personal losses: -3 to all ratings. But if he survives 5 more games, he gains +2 Intensity and +1 Clutch permanently. What doesn't kill The Crab makes him angrier.",
+      "origin": "In 1910: Evers's daughter died, he lost his life savings in a failed business, he was the driver in a car accident that killed his best friend, and he suffered a nervous breakdown. He came back to win the MVP in 1914."
+    },
+    {
+      "title": "My Favorite Umpire Is a Dead One",
+      "type": "Game Action",
+      "text": "Your manager assaults the umpire with words so vicious that the umpire loses composure. All close calls go your way for the next 3 innings. But your manager is ejected and suspended for the next game.",
+      "origin": "Evers was ejected 9 times in the 1914 season alone. His hatred of umpires was legendary and unrelenting. The quote 'my favorite umpire is a dead one' was delivered without irony."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Small, wiry, fierce. 5'9\" but only 125 pounds — the smallest man on any field he played. Red-faced with intensity, jaw set, eyes burning with concentration or fury (often both). Irish features. The face of a man who weighs nothing but carries the weight of the world. He looks like he's about to argue with whoever's looking at the card.",
+    "attire": "Chicago Cubs uniform, 1908 era. In his signature crablike fielding stance — crouched low, hands forward, ready to pounce on a ground ball. Or standing at second base, pointing at the base and screaming at the umpire about the Merkle play. The body is small but the energy is enormous — he takes up more space than his frame suggests.",
+    "mood": "Furious intelligence. Not dumb rage — brilliant rage. The look of a man who has figured out exactly what's wrong and cannot understand why everyone else hasn't. There's pain behind the fury — the breakdowns, the losses, the daughter's death — but the fury is always in front. The Crab is always attacking.",
+    "style": "Hot sepia with orange-red flame undertones — the Firebrand palette at maximum temperature. Wrigley Field / West Side Park suggested in the background. The card should feel unstable — slightly tilted, slightly overexposed, like it's vibrating with barely contained energy. Border should feel cracked and frayed, like a document that's been through a fire. Crab motifs in the corner. The card should feel like it might explode.",
+    "reference": "Where Tebeau's Firebrand card is a barroom brawler, Evers is an intellectual on fire. The violence is cerebral, not physical (mostly). The Crab is the most dangerous kind of Firebrand — one who's smarter than everyone AND angrier than everyone. His card should feel like a contradiction: tiny and enormous, brilliant and broken, loving and hateful. 'His enmity was a thing to fear; his friendship a possession to be treasured.'"
+  }
+}

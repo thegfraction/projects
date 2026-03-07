@@ -1,0 +1,271 @@
+{
+  "card_type": "manager",
+  "name": "Ned Hanlon",
+  "nickname": "Foxy Ned",
+  "year": 1896,
+  "team": "Baltimore Orioles",
+  "era": "1900s",
+  "ilb_team": "Banners",
+  "archetype": "Players' Manager",
+  "born": "August 22, 1857 — Montville, CT",
+  "died": "April 14, 1937 — Baltimore, MD (age 79)",
+  "hof": "Inducted 1996 (Veterans Committee). Called 'The Father of Modern Baseball' by The Sporting News.",
+  "height": "5'9\"",
+  "weight": "170 lbs",
+
+  "record": {
+    "career_wins": 1313,
+    "career_losses": 1164,
+    "win_pct": ".530",
+    "pennants": 5,
+    "world_series": 0,
+    "temple_cups": 2,
+    "seasons_managed": 19,
+    "ejections": "Few — Hanlon managed in civilian clothes from the bench",
+    "peak_team": "1894-1896 Baltimore Orioles",
+    "peak_record": "87-40 (1894), 87-43 (1895), 90-39 (1896)",
+    "peak_pct": ".668 over 7 seasons (1894-1900)",
+    "first_or_second": "5 pennants in 7 seasons (1894-1900)",
+    "notable": "Mentored 5 future HOF managers: McGraw, Mack, Huggins, Robinson, Jennings. First to win 100 games in a season (Brooklyn, 101 wins, 1899).",
+    "hof_managers_mentored": ["John McGraw", "Connie Mack", "Miller Huggins", "Wilbert Robinson", "Hughie Jennings"]
+  },
+
+  "ilb_ratings": {
+    "tac": 5,
+    "pit": 3,
+    "lin": 5,
+    "adp": 4,
+    "dis": 5,
+    "ego": 8,
+    "har": 9,
+    "int": 6,
+    "str": 9,
+    "flx": 7,
+    "ovr": 11
+  },
+
+  "rating_justification": {
+    "tac": "Invented or perfected: hit-and-run, squeeze play, Baltimore chop, delayed steal, sign systems between coaches and players, platoon system, pitching rotation, spring training. Head of the NL rules committee — championed the infield fly rule. 'The game's greatest strategist.' — The Sporting News, 1937.",
+    "pit": "Managed solid pitching staffs but was primarily an offensive innovator. Used Sadie McMahon, Kid Gleason, and Jerry Nops effectively. Not known for bullpen innovation like later managers. Rating of 3 — competent but not his forte.",
+    "lin": "First manager to systematically platoon players. Pioneered lineup construction as a tactical weapon. His Brooklyn Superbas won 101 games in 1899 — first team to reach 100 wins. Constantly shuffled lineups to exploit matchups. Maximum rating.",
+    "adp": "Took a last-place team (1892 Orioles, 46-101) and built it into a dynasty within 2 years. Successfully transitioned from Baltimore to Brooklyn with most of his roster. But post-1900, his win percentage dropped to .449 — he finished no higher than 2nd in the Deadball Era. The game evolved past him. Rating of 4.",
+    "dis": "Moderate disciplinarian. Purged unmotivated players ruthlessly — only 3 of his 1892 Orioles survived to 1894. But Sam Crawford famously claimed the Oriole veterans 'didn't pay any attention to Ned Hanlon, their manager.' He trusted his stars to self-govern within his system. Rating of 5.",
+    "ego": "Managed a clubhouse containing FIVE future Hall of Fame managers simultaneously (McGraw, Jennings, Robinson, Kelley, Keeler). That requires extraordinary ego management. 'A personality that enabled him to gain and hold the confidence of all with whom he came into contact.' — The Sporting News. Rating of 8.",
+    "har": "His greatest strength. Created cohesive, aggressive teams from feisty, combative personalities. The Orioles were rough and rowdy but played as a unit. Players fought opponents, not each other. McGraw, Robinson, Kelley, Jennings, Keeler — all strong personalities, all loyal to Hanlon. He is buried in New Cathedral Cemetery in Baltimore; McGraw, Robinson, and Kelley are buried nearby. That's harmony that lasted beyond the grave. Rating of 9.",
+    "int": "Not a screamer. Hanlon's intensity came through obsessive teaching. Connie Mack: 'He talked baseball from morning until night, on the bench, on the field, in hotel lobbies, at meals, aboard trains. Players on his clubs heard nothing, ate nothing, and dreamed nothing but baseball.' Persistent, not volcanic. Rating of 6.",
+    "str": "Elite talent evaluator. 'An almost uncanny ability to judge players, a faculty of imparting to them his remarkable store of knowledge.' Rebuilt the Orioles from scratch — acquired Keeler, Kelley, Jennings, Brouthers, and Reitz through shrewd trades and minor league finds. Found Heinie Reitz in the California League for $300. Rating of 9.",
+    "flx": "Adapted from 19th-century baseball to the early Deadball Era. Successfully moved his operation from Baltimore to Brooklyn. But post-1900 his record declined sharply (.449). Some say the game passed him by; others say he was focused on bringing baseball back to Baltimore. 'Foxy Ned' was flexible enough to reinvent himself as an owner and civic leader. Rating of 7."
+  },
+
+  "personality": {
+    "leadership_style": "Teacher-first. Hanlon's greatest legacy was developing people. He managed five future Hall of Fame managers and taught them everything they knew. Connie Mack: 'He knew more about baseball than any other man of his day. And he knew how to teach the game to young players.' Not a dictator like McGraw — he empowered players to think within his system. His players became managers because he taught them to manage themselves.",
+    "temperament": "Calm, shrewd, and calculated — hence 'Foxy Ned.' Not volatile or emotional. Managed from the bench in civilian clothes, not in uniform. When things got tough, Crawford said, Hanlon 'would sit there on the bench and wring his hands' rather than explode. His steadiness was both a strength (consistency) and a weakness (players sometimes ignored him).",
+    "work_ethic": "Obsessive about the game. 'He talked baseball from morning until night, on the bench, on the field, in hotel lobbies, at meals, aboard trains.' — Connie Mack. Rose from a Connecticut cotton mill at age 13 to become the most innovative manager in baseball. His father was an Irish immigrant house builder — Hanlon inherited the work ethic and the ability to build things from the ground up.",
+    "lifestyle": "Family man and civic leader. Lived in a fine corner mansion at 1401 Mount Royal Avenue in Baltimore's Bolton Hill neighborhood. Weekly presence at Corpus Christi Catholic Church. After managing, became a driving force behind Memorial Stadium, the Mount Pleasant Golf Course, and served on Baltimore's Parks Board until his death. Quiet respectability — the opposite of McGraw's Broadway lifestyle.",
+    "communication_style": "Persistent and thorough rather than dramatic. Taught constantly but didn't scream. 'A personality that enabled him to gain and hold the confidence of all with whom he came into contact.' Players respected him for his knowledge, even if the old veterans sometimes tuned him out. His communication worked best with young, hungry players who were willing to learn.",
+    "loyalty_expectations": "Deep loyalty, earned through fairness. Hanlon was the hero of the Players' League — the only player who honored his contract without receiving a penny. 'He stands to-day as the hero of the Players' League. He is the only ball player in that League who has held to the contract he signed.' He expected loyalty because he gave it first.",
+    "dark_side": "The Sam Crawford problem. Crawford claimed the veterans 'didn't pay any more attention to Ned Hanlon than they did to the batboy.' Whether true or exaggerated, it reveals Hanlon's vulnerability: his gentle authority could be ignored by strong personalities. His .304-.441 record without Willie Keeler on his teams suggests his success may have depended heavily on having the right players. In ILB: Hanlon thrives with talented teams but struggles when he lacks star-caliber talent to carry his system."
+  },
+
+  "playbook": {
+    "roster_philosophy": "Find talented, aggressive young players and teach them to play as a unit. Hanlon took a last-place team and kept only 3 players from the original roster. He rebuilt through shrewd trades and minor league scouting — finding Keeler, Kelley, Jennings, and Reitz. His teams were built on speed, execution, and teamwork. He didn't need superstars who demanded the spotlight — he created superstars through development.",
+    "conflict_response": "MEDIATE. Hanlon didn't suppress conflict — he redirected it outward. His Orioles were the most aggressive, combative team in baseball, but they fought opponents and umpires, not each other. He channeled the natural feistiness of players like McGraw and Jennings into collective intensity. When internal friction arose, he used his personal relationships to smooth things over.",
+    "clique_strategy": "UNIFY. Hanlon wanted one team, not factions. His Baltimore teams were a band of brothers — aggressive, rowdy, and deeply loyal to each other. Four of his Orioles (McGraw, Robinson, Kelley) are buried near him in the same Baltimore cemetery. He built teams that bonded through shared combat against the rest of the league.",
+    "player_types_that_thrive": [
+      "Young, hungry players eager to learn — Hanlon was a master developer",
+      "Aggressive, feisty personalities who channel intensity into competition",
+      "Speed-and-contact players who fit the 'inside baseball' system",
+      "Players with high baseball IQ who can think within the system",
+      "Strong personalities who need a framework, not a cage — future leaders"
+    ],
+    "player_types_that_struggle": [
+      "Low-effort players — Hanlon purged them immediately ('only 3 of 17 survived')",
+      "Players who need constant discipline — Hanlon won't police your behavior",
+      "Power-only sluggers with no speed or versatility — they don't fit the system",
+      "Isolated loners who won't bond with the team — Hanlon needs collective identity",
+      "Players who exploit gentle authority — some veterans ignored Hanlon entirely"
+    ],
+    "tolerance_thresholds": {
+      "max_ego_cluster": 5,
+      "max_volatility": "HIGH — Hanlon channels volatility outward, turning it into competitive fire",
+      "discipline_floor": "MODERATE — Hanlon purges the lazy but trusts the talented to self-govern",
+      "star_exception": "All stars are treated as potential leaders. No one is above the team, but everyone is trusted within it."
+    }
+  },
+
+  "chemistry_impact": {
+    "team_fit": {
+      "effect": "HIGH",
+      "desc": "Hanlon builds cohesive units. His teams bond through shared aggression and collective identity. +2 Team Fit when roster has 3+ players with 'Aggressive' or 'Competitive' traits."
+    },
+    "volatility": {
+      "effect": "REDUCED",
+      "desc": "Volatility is redirected outward — against opponents, not teammates. Internal volatility drops, but the team as a whole remains fierce. -1 internal Volatility, +1 Intensity vs opponents.",
+      "note_extra": "New effect tier label: 'REDUCED' — directionally positive (reduction in a negative attribute). Not previously seen in the set."
+    },
+    "discipline": {
+      "effect": "MODERATE",
+      "desc": "Hanlon trusts talented players to self-govern. Discipline is maintained through roster purges, not daily enforcement. Players with low Discipline risk being released, not punished."
+    },
+    "ego": {
+      "effect": "MODERATE TOLERANCE",
+      "desc": "Hanlon managed five future HOF managers simultaneously. He can handle strong egos — but only if they respect the team concept. High-ego players who are also team-oriented thrive."
+    },
+    "work_habits": {
+      "effect": "STABLE",
+      "desc": "Hanlon talks baseball obsessively. Players absorb his knowledge through constant exposure. Work Habits improve naturally through immersion rather than enforcement.",
+      "note_extra": "New effect tier label: 'STABLE' — neutral/maintained baseline. Not previously seen in the set."
+    },
+    "adaptability": {
+      "effect": "MODERATE",
+      "desc": "Hanlon adapted successfully from 19th century to early Deadball Era. But his effectiveness declined after 1900 — the game eventually moved past him. Era-native players thrive; later-era players may struggle."
+    }
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Father of Modern Baseball",
+      "desc": "Hanlon invented inside baseball. All players under Hanlon gain +1 Tactics. His teams execute fundamentals at a level other teams can't match."
+    },
+    {
+      "tag": "The Great Teacher",
+      "desc": "Hanlon's greatest gift. Young players (age < 28) gain +1 to their lowest stat after 10 games under Hanlon. 'He talked baseball from morning until night.'"
+    },
+    {
+      "tag": "Foxy Ned",
+      "desc": "Shrewd and calculated. Hanlon sees trades and roster moves others miss. Once per series, Hanlon can reject an unfavorable trade and force a re-deal at +1 value."
+    },
+    {
+      "tag": "Band of Brothers",
+      "desc": "Hanlon's teams fight as a unit. When 3+ players have been on the roster for 5+ games together, +1 Team Fit and +1 Clutch in elimination games."
+    },
+    {
+      "tag": "Players' League Hero",
+      "desc": "Hanlon was the only player who honored his Players' League contract without pay. Players with the 'Loyal' trait gain +1 Team Fit under Hanlon."
+    },
+    {
+      "tag": "The Gentle Authority",
+      "desc": "Hanlon doesn't scream — he teaches. But strong-willed veterans may ignore him. If 3+ players have Ego > 7, Hanlon's Tactics bonus is reduced by 1."
+    },
+    {
+      "tag": "Cotton Mill Kid",
+      "desc": "Rose from a Connecticut cotton mill at age 13. Hanlon respects grinders. Players from working-class backgrounds gain +1 Work Habits under Hanlon."
+    },
+    {
+      "tag": "Cemetery Brotherhood",
+      "desc": "McGraw, Robinson, and Kelley are buried near Hanlon in Baltimore. If 2+ former Hanlon players are on the same team, +2 Team Fit permanently."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Invented spring training as a concept. His practice field was his classroom. Relentlessly drilled fundamentals.",
+      "note_extra": "Source labeled 'Practice Field / Spring Training' — direct mapping to Practice Field/HIGH. Hanlon invented spring training as a formal institution."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "'He talked baseball in hotel lobbies, at meals, aboard trains.' Every moment was a teaching opportunity.",
+      "note_extra": "Source labeled 'Hotel Lobby / Train Car' — consistent Hotel/Rest collision taxonomy mapping. Travel and transit spaces as teaching contexts."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "HIGH",
+      "note": "Lived in a fine mansion at 1401 Mt. Royal Ave in Bolton Hill, Baltimore. Family man with five children.",
+      "note_extra": "Source labeled 'Home / Family Residence' — mapped to Library/Quiet Spot/HIGH per private home/family retreat pattern."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Weekly presence at Corpus Christi Catholic Church. His funeral was held there in 1937.",
+      "note_extra": "Source labeled 'Church' — first explicit Church location entry in the set. Mapped to Community Events/HIGH as communal civic/spiritual institution. Distinguished from Library/Quiet Spot (private contemplation) by the communal gathering function. First of two Community Events entries on this card."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Served on Baltimore's Parks Board. Helped plan Memorial Stadium. Civic leader after baseball.",
+      "note_extra": "Source labeled 'Civic Building / Parks Board' — mapped to Community Events/MEDIUM as civic-service institutional context. Second Community Events entry on this card; Hanlon is the most civically embedded card in the set with two Community Events entries."
+    },
+    {
+      "location": "Bar/Nightlife",
+      "affinity": "MEDIUM",
+      "note": "Co-owned a saloon with Wilbert Robinson in Baltimore. Social but not a heavy drinker."
+    },
+    {
+      "location": "Gambling Hall",
+      "affinity": "LOW",
+      "note": "Unlike McGraw, Hanlon had no gambling connections. His off-field life was respectable and civic-minded."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Young talent emerging — Hanlon lived to develop raw players into stars",
+      "Multi-year roster continuity — his teams got better the longer they played together",
+      "Aggressive opponents — Hanlon's teams fed off conflict with other teams",
+      "New city / fresh start — successfully rebuilt in both Baltimore and Brooklyn"
+    ],
+    "cold_triggers": [
+      "Roster breakup — when syndicate baseball forced him to move stars to Brooklyn, the magic faded",
+      "Aging roster — Hanlon's system required speed and aggression that older players couldn't sustain",
+      "Rule changes / era shifts — the Deadball Era's changes may have passed him by",
+      "Strong-willed veterans ignoring authority — Crawford's 'batboy' comment reveals the vulnerability"
+    ],
+    "pressure_response": "STEADY BUT IMPERFECT. Hanlon won 5 NL pennants in 7 years — an extraordinary run. But he lost the first two Temple Cup Series before sweeping Cleveland in 1896. His Brooklyn teams won pennants in 1899-1900 but never dominated like the Orioles. In ILB: Hanlon's pressure response is solid (he wins consistently) but lacks the killer instinct for championship moments. His teams are built for the long haul, not the single decisive game. +1 consistency bonus in series play, but no clutch bonus in elimination games."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Rebuild",
+      "type": "Trade",
+      "text": "Your manager tears the roster apart. Release up to 5 players rated (+4) or below and draw 3 Free Agent Cards. 'Only 3 of 17 survived.' +2 Team Fit next series as the dead weight is gone.",
+      "origin": "Hanlon took a last-place 1892 Orioles team (46-101) and kept only 3 players — McGraw, Robinson, and McMahon. Within 2 years he had built a pennant winner through ruthless roster turnover."
+    },
+    {
+      "title": "The $300 Find",
+      "type": "Action",
+      "text": "Your manager discovers an unknown talent in a minor league nobody watches. Sign any Free Agent rated (+4) or below — that player gains +2 to their highest stat permanently. A diamond in the rough.",
+      "origin": "Hanlon purchased Heinie Reitz from the San Francisco Metropolitans of the California League for $300. Reitz became a league-leading fielder and .303 hitter under Hanlon's development."
+    },
+    {
+      "title": "Inside Baseball",
+      "type": "Game Action",
+      "text": "Your manager's tactical system kicks into gear. This game, your team gains +1 Speed and +1 Contact for all players with SPD > 0. Hit-and-run, squeeze, Baltimore chop — the opponents can't keep up.",
+      "origin": "Hanlon invented or perfected inside baseball: the hit-and-run, squeeze play, Baltimore chop, delayed steal, and sign systems. 'He evolved an offensive technique that made baseball into something of an art.' — The Baltimore Sun."
+    },
+    {
+      "title": "The Manager Tree",
+      "type": "Drama",
+      "text": "One of your players reveals unexpected leadership qualities. Choose any player on your roster — they gain the 'Future Manager' trait, giving +1 Team Fit to adjacent players in the lineup. The student becomes the teacher.",
+      "origin": "Hanlon mentored FIVE future Hall of Fame managers: McGraw, Mack, Huggins, Robinson, and Jennings. Every current MLB manager can trace their managerial lineage back to Hanlon through one of these five men."
+    },
+    {
+      "title": "Hero of the Players' League",
+      "type": "Action",
+      "text": "Your manager stands on principle when others fold. All players with the 'Loyal' trait gain +1 Team Fit and +1 morale permanently. Your manager's reputation grows — opposing players with 'Loyal' trait are now available as Free Agents.",
+      "origin": "Hanlon was the only player who honored his Players' League contract without receiving payment. 'He stands to-day as the hero of the Players' League. He is the only ball player in that League who has held to the contract he signed.'"
+    },
+    {
+      "title": "The Syndicate Heist",
+      "type": "Trade",
+      "text": "Your manager exploits a corporate loophole. Take up to 3 players from any era's Free Agent pool and add them to your roster. But the era you took from gains +1 Intensity against you in future matchups.",
+      "origin": "When Hanlon moved from Baltimore to Brooklyn in 1899, he took Keeler, Kelley, Jennings, and several other Oriole stars with him — effectively gutting Baltimore to strengthen Brooklyn through syndicate ownership."
+    },
+    {
+      "title": "Foxy Ned's Last Lesson",
+      "type": "Drama",
+      "text": "Your aging manager watches the game change around him. His tactical bonus is reduced by 1 for the remainder of the game. But every player who has played 10+ games under him permanently retains +1 to their lowest stat. The teacher's gift outlasts the teacher.",
+      "origin": "After 1900, Hanlon's record declined to .449 — the game evolved past him. But his students — McGraw, Mack, Huggins, Robinson, Jennings — carried his teachings into the 20th century and dominated it."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Handsome, composed Irish-American face. 5'9\" 170 lbs — average build for the era. Intelligent, calm eyes with a hint of shrewdness — hence 'Foxy Ned.' Well-groomed mustache, as was the style. The look of a man who sees three moves ahead and won't tell you what they are.",
+    "attire": "Civilian clothes — dark wool suit with vest and watch chain. Hanlon managed in street clothes from the bench, not in a player's uniform. Standing or seated in the dugout with arms folded, observing. Not animated — calculating. A professor watching his students take the exam.",
+    "mood": "Quiet confidence. Not fierce, not volcanic — serene intelligence. The look of a man who built a dynasty from nothing and knows exactly how he did it. There's warmth in the eyes but sharpness in the jaw. A father figure who happens to be the smartest person in the room.",
+    "style": "Warm sepia with green undertones — earthy, grounded, approachable. Lighter and warmer than the McGraw card. Baltimore's Union Park suggested in the background, with the rowhouses of Bolton Hill visible beyond. Ornate border with Celtic knotwork motifs honoring his Irish heritage. The card should feel like wisdom, not power.",
+    "reference": "If McGraw's card is Napoleon, Hanlon's card is Socrates. The man who taught the teachers. The card should feel foundational — like the first page of a textbook. Rich but not ostentatious. The kind of card that gets more valuable the more you understand the game. Tobacco-card warmth with a teacher's quiet authority."
+  }
+}

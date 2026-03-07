@@ -1,0 +1,226 @@
+{
+  "card_type": "player",
+  "name": "Hank Greenberg",
+  "nickname": "Hammerin' Hank",
+  "year": 1937,
+  "team": "Detroit Tigers",
+  "era": "1930s",
+  "ilb_team": "Crashers AL1930",
+  "position": "1B",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'3\"",
+  "weight": "210 lbs",
+  "born": "January 1, 1911 — Greenwich Village, New York City (Romanian Jewish immigrant parents)",
+  "died": "September 4, 1986 — Beverly Hills, CA (age 75, kidney cancer)",
+  "hof": "Class of 1956 (BBWAA, 85%). #5 retired by Tigers (1983). First Jewish HOF inductee.",
+
+  "real_stats": {
+    "season": 1937,
+    "games": 154,
+    "at_bats": 594,
+    "hits": 200,
+    "doubles": 49,
+    "triples": 14,
+    "home_runs": 40,
+    "rbi": 184,
+    "stolen_bases": 8,
+    "batting_avg": ".337",
+    "obp": ".436",
+    "slg": ".668",
+    "ops": "1.103",
+    "ops_plus": 172,
+    "war": 8.6,
+    "gold_gloves": 0,
+    "silver_sluggers": 0,
+    "all_star": 5,
+    "career_avg": ".313",
+    "career_hits": 1628,
+    "career_hr": 331,
+    "career_sb": 58,
+    "career_war": 57.6
+  },
+
+  "ilb_stats": {
+    "ovr": 11,
+    "con": 5,
+    "pow": 5,
+    "spd": 1,
+    "def": 0,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": ".337 BA in 1937 MVP year. Career .313 over 13 seasons. 200+ hits three times. .300+ in 8 of 9 full seasons. DiMaggio: 'He was one of the truly great hitters, and when I first saw him at bat, he made my eyes pop out.' Rick Ferrell noted his power overshadowed elite contact ability.",
+    "pow": "40 HR in 1937, 58 in 1938 (2 short of Ruth's record). 184 RBI in 1937 (3rd most in MLB history, AL RH record). Career .605 SLG — only Ruth, Williams, Gehrig, Foxx ahead at retirement. Led AL in HR 4×, RBI 4×. 11 multi-HR games in 1938 (MLB record). Prodigious, terrifying power. Maximum rating.",
+    "spd": "8 SB in 1937, 58 career. Large man (6'3\" 210) with good but not exceptional speed. 14 triples in 1937 shows he could run. But speed was never his weapon. Rating of 1.",
+    "def": "No Gold Gloves (pre-award). Adequate first baseman who moved to LF in 1940 to make room for Rudy York. Not a defensive liability, but not an asset. Greenberg himself said he was 'just average' in the field. Rating of 0.",
+    "clu": ".318 WS BA in 23 games across 4 Fall Classics (1934, 1935, 1940, 1945). Broke wrist in 1935 WS Game 2 — missed rest of that championship. Grand slam on final day 1945 clinched pennant. .304 in 1945 WS with 7 RBI. But the wrist injury and wartime absence limited his postseason legacy. Solid, not transcendent. Rating of 2."
+  },
+
+  "personality": {
+    "leadership_style": "The Quiet Colossus. At 6'3\", Greenberg towered over his era physically and morally. He led not with words but with presence — the first Jewish superstar in American team sports, carrying the weight of an entire community on his shoulders during the Depression and the rise of Hitler. His leadership was existential: every home run was a statement. 'If I, as a Jew, hit a home run, I was hitting one against Hitler.'",
+    "temperament": "Stoic under fire. Endured relentless antisemitic abuse — 'kike,' 'sheenie,' 'Jew bastard' — from fans and players throughout his career. Birdie Tebbetts: 'Nobody in the history of the game took more abuse than Greenberg, unless it was Jackie Robinson.' He never snapped publicly. Channeled fury into performance. Self-made: not a natural athlete, he built himself into a slugger through obsessive practice.",
+    "work_ethic": "LEGENDARY. Greenberg was not born a ballplayer — he made himself one through sheer will. Spent hours daily hitting in empty stadiums. Quickest to 100 RBI in a season (75 games, 1935). Quickest to 1,200 career RBI (1,266 games). After 4+ years in the military, returned at age 34 and immediately led the AL in HR and RBI. The work ethic of a man who knew nothing was given.",
+    "lifestyle": "Sophisticated, cosmopolitan. Son of Romanian Jewish immigrants in Greenwich Village. Turned down the Yankees (Gehrig blocked 1B), attended NYU on scholarship. Married Caral Gimbel (heiress to Gimbels department stores), divorced. Later married Mary Jo DeCicco. Moved to Beverly Hills. Became GM of the Indians (1950-57) and co-owner of the White Sox with Bill Veeck. Died wealthy and respected.",
+    "era_adaptability": "HIGH. Greenberg's power translates to every era. His self-made work ethic and mental toughness are timeless. His willingness to switch positions (1B to LF) shows adaptability. A 6'3\" right-handed power hitter with a .412 career OBP would be a franchise cornerstone in any decade.",
+    "clubhouse_impact": "HIGH. A unifying figure — Jewish teammates felt protected by his presence, non-Jewish teammates respected his dignity. When Jackie Robinson faced abuse in 1947, Greenberg was one of the only opposing players to publicly embrace and encourage him. His moral authority transcended the clubhouse.",
+    "dark_side": "The stolen years. Greenberg lost over four years to WWII — his entire age 30-34 prime. He was the first MLB player to enlist and served 47 months (more than any other player). What would his career numbers be with 4 more years of 40-HR seasons? Projected: 500+ HR, 2,500+ hits. Instead: 331 HR, 1,628 hits. The greatest what-if in baseball history. Also: the wrist fracture in the 1935 WS denied him his greatest moment. He won the ring but couldn't celebrate it on the field."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Hammerin' Hank",
+      "desc": "+1 POW innate. Greenberg was one of the most feared sluggers in history. 184 RBI in a single season. 58 HR chasing Ruth."
+    },
+    {
+      "tag": "The Hebrew Hammer",
+      "desc": "When facing antisemitic abuse or ethnic hostility, +2 POW. 'If I, as a Jew, hit a home run, I was hitting one against Hitler.' Hate makes him stronger."
+    },
+    {
+      "tag": "Yom Kippur",
+      "desc": "Once per season, Greenberg may sit out a game for religious observance during a pennant race. Team loses the game but gains +3 morale and +2 fan loyalty from the courage of conviction."
+    },
+    {
+      "tag": "Self-Made Star",
+      "desc": "+1 all stats after age 27. Greenberg built himself through practice. He wasn't a natural — every skill was earned."
+    },
+    {
+      "tag": "G-Men Infield",
+      "desc": "Synergy with Gehringer, Goslin, Cochrane. 3+ Tigers dynasty players = +1 POW for all."
+    },
+    {
+      "tag": "Lost to War",
+      "desc": "If drafted/enlisted, player misses 4 full seasons. Returns at -1 SPD but +1 CLU. The experience of combat changes a man."
+    },
+    {
+      "tag": "Jackie's Ally",
+      "desc": "+2 chemistry with any player facing discrimination. Greenberg embraced Robinson when no one else would."
+    },
+    {
+      "tag": "Broken Wrist",
+      "desc": "In the World Series, 20% chance of season-ending injury in Games 1-3. The curse of 1935."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Hours of daily practice in empty stadiums. 'Self-made' means self-trained.",
+      "note_extra": "Source labeled 'Batting Cages / Practice Field' — mapped to Practice Field per standard collision taxonomy."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Standing ovation at Shaarey Zedek on Yom Kippur 1934. Faith defined him.",
+      "note_extra": "Source labeled 'Synagogue / Place of Worship' — first faith-based location label in the set. Mapped to Community Events/HIGH given the communal and public dimension of the Yom Kippur observance (standing ovation, national news story). Distinct from the civic/promotional Community Events of other cards — this encodes religious-communal identity. Flagged for possible dedicated 'House of Worship' node in future taxonomy revision."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "HIGH",
+      "note": "Became Indians GM, White Sox co-owner. A businessman's mind in a slugger's body.",
+      "note_extra": "Source labeled 'Front Office / Business' — mapped to Library/Quiet Spot/HIGH as executive/strategic career-path node. Distinct from prior Gambling Hall/LOW business mappings (Flick, Freeman, Gardner, Goslin) which encoded working-class commerce and physical risk. Greenberg's post-career executive role (GM, co-owner) is deliberate, intellectual, and high-status — closer to Library/Quiet Spot than the risk-hazard Gambling Hall pattern."
+    },
+    {
+      "location": "Bar/Nightlife",
+      "affinity": "MEDIUM",
+      "note": "Cosmopolitan. Beverly Hills lifestyle. Married into the Gimbel fortune.",
+      "note_extra": "Source labeled 'Restaurant / Steakhouse' — mapped to Bar/Nightlife/MEDIUM per social/leisure dining pattern, consistent with prior restaurant-to-Bar/Nightlife mappings."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Symbol to Jewish community. Not a natural showman but understood his responsibility.",
+      "note_extra": "Source labeled 'Community Events' — direct pass-through. Second Community Events entry on this card (Synagogue/HIGH and Community Events/MEDIUM). The two entries encode distinct dimensions: active religious observance vs. civic/representative obligation."
+    },
+    {
+      "location": "Bar/Nightlife",
+      "affinity": "LOW",
+      "note": "Focused on performance. Not a carouser.",
+      "note_extra": "Source labeled 'Bar / Nightlife' — direct pass-through. Second Bar/Nightlife entry (Restaurant MEDIUM + Bar LOW). The gradient encodes Greenberg's social range: sophisticated dining was part of his cosmopolitan lifestyle, but actual nightlife was not his focus."
+    },
+    {
+      "location": "Gambling Hall",
+      "affinity": "NONE",
+      "note": "No association.",
+      "note_extra": "Source labeled 'Gambling Hall' — direct pass-through."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Facing antisemitic abuse — transformed hatred into fuel ('hitting one against Hitler')",
+      "Pennant races and meaningful September games",
+      "Returning from absence (military, injury) — immediately regained elite form in 1945",
+      "Playing alongside Gehringer — the infield synergy of the G-Men era",
+      "Chasing records and milestones (58 HR in 1938, 184 RBI in 1937)"
+    ],
+    "cold_triggers": [
+      "Injuries — broken wrist (1936), various ailments shortened seasons",
+      "Contract disputes — lengthy 1936 holdout disrupted spring training",
+      "Isolation from Jewish community (rare — he kept connections)",
+      "Being walked intentionally — 1938 pitchers refused to pitch to him late in HR chase"
+    ],
+    "pressure_response": "ELITE. Greenberg thrived on pressure with a moral dimension. The Yom Kippur decision. The HR chase against antisemitic headwinds. Returning from 4+ years of war to lead the league immediately. Grand slam on the final day of 1945 to clinch the pennant. He performed best when the stakes transcended baseball."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Hitting One Against Hitler",
+      "type": "Game Action",
+      "text": "Your star player is facing hostile abuse from the crowd or opposing bench. Channel the hatred: +3 POW for this at-bat only. If he homers, opposing team loses -2 morale.",
+      "origin": "Greenberg: 'I came to feel that if I, as a Jew, hit a home run, I was hitting one against Hitler.' He endured relentless antisemitic slurs and answered with his bat."
+    },
+    {
+      "title": "The Yom Kippur Decision",
+      "type": "Drama",
+      "text": "Your star player faces a conflict between religious obligation and a pennant race. If he plays: +1 game result but -1 community trust. If he sits: team loses the game but gains +3 morale and becomes a national story.",
+      "origin": "Sept 1934: Greenberg played on Rosh Hashanah (2 HR, Tigers won 2-1) but sat on Yom Kippur (Tigers lost). Standing ovation at synagogue. Edgar Guest wrote a poem honoring him."
+    },
+    {
+      "title": "Two Short of the Babe",
+      "type": "Game Action",
+      "text": "Your slugger has 58 HR with 5 games left, chasing a record. Opposing pitchers refuse to pitch to him (60% walk rate). If he gets a hittable pitch, 40% chance he breaks the record. Either way, the chase itself is legendary.",
+      "origin": "1938: Greenberg hit 58 HR, falling 2 short of Ruth's 60. Walked repeatedly in final games. Umpire Moriarty: 'I'm sorry, this is as far as I can go.' Greenberg: 'That's all right, this is as far as I can go too.'"
+    },
+    {
+      "title": "First to Serve",
+      "type": "Drama",
+      "text": "Your star player enlists in the military during wartime. He misses 4 seasons. When he returns, he plays at -1 SPD but +1 CLU permanently, and the team gains +3 fan loyalty for his sacrifice.",
+      "origin": "Greenberg was the first MLB player to enlist in WWII (May 1941). Served 47 months — more than any other player. 'I never asked for a deferment.' Returned at 34 and led AL in HR."
+    },
+    {
+      "title": "The Grand Slam Pennant",
+      "type": "Game Action",
+      "text": "Final day of the season. Your team needs a win to clinch. Your (+9 or higher) slugger hits a grand slam in the 9th to clinch the pennant. Team erupts.",
+      "origin": "September 30, 1945: Greenberg hit a grand slam in the 9th inning on the final day to clinch the pennant for Detroit. He'd been back from the war for barely 3 months."
+    },
+    {
+      "title": "Jackie's Friend",
+      "type": "Drama",
+      "text": "A new player from a marginalized background faces abuse. Your veteran (+8 or higher) publicly embraces him. Both players gain +1 morale. Team chemistry +2. A bond that transcends baseball.",
+      "origin": "1947: Greenberg, in his final season with Pittsburgh, was one of the only players to publicly welcome Jackie Robinson. He told Jackie: 'Don't let them get you down. You're doing fine.'"
+    },
+    {
+      "title": "The Broken Wrist",
+      "type": "Drama",
+      "text": "Your star player breaks his wrist in Game 2 of the World Series. He's out for the rest of the Fall Classic. Team must win without him. If they do, +2 legacy. If they lose, the what-if haunts forever.",
+      "origin": "1935 WS: Greenberg broke his wrist in Game 2 and missed the rest. Tigers won anyway — their first championship — but Greenberg couldn't celebrate on the field."
+    },
+    {
+      "title": "Greenberg Gardens",
+      "type": "Action",
+      "text": "When your power hitter is traded, the new team shortens the outfield fence in his honor. +2 HR for the season. When he retires, rename the area for the next slugger.",
+      "origin": "Pittsburgh shortened Forbes Field's LF fence for Greenberg in 1947 ('Greenberg Gardens'). When he retired, it became 'Kiner's Korner' for Ralph Kiner."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Towering, powerful, handsome. 6'3\" 210 lbs — the biggest man on any 1930s field. Strong jaw, dark features, Romanian Jewish heritage. Serious expression with quiet dignity. Not menacing like Simmons — commanding. The face of a man who carried a community's hopes.",
+    "attire": "Detroit Tigers 1937 home whites with Old English 'D' area. Classic baggy wool flannel stretched over a massive frame. Cap slightly back, revealing the forehead. Number 5.",
+    "mood": "Power and dignity. The follow-through of a majestic home run swing — right-handed, all arms and torque. Or the stance: coiled, enormous, dangerous. This card should feel like both a baseball card and a historical monument.",
+    "style": "Deep amber and bronze tones. Richer, warmer than Gehringer's soft sepia. Briggs Stadium lights catching the evening sky. The weight of history in every shadow. Oil painting texture with a sense of gravitas — this isn't just a ballplayer, this is a symbol.",
+    "reference": "Think 1934 Goudey card power rendered in ILB sepia style. The card that carries the most moral weight in the Crashers lineup. Every home run meant something beyond baseball."
+  }
+}

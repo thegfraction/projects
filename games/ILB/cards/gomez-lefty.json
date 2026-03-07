@@ -1,0 +1,224 @@
+{
+  "card_type": "player",
+  "name": "Lefty Gomez",
+  "nickname": "El Goofo",
+  "year": 1934,
+  "team": "New York Yankees",
+  "era": "1930s",
+  "ilb_team": "Crashers AL1930",
+  "position": "SP",
+  "bats": "L",
+  "throws": "L",
+  "height": "6'2\"",
+  "weight": "173 lbs",
+  "born": "November 26, 1908 — Rodeo, California (1,000-acre ranch, Spanish-Portuguese father, Welsh-Irish mother)",
+  "died": "February 17, 1989 — Greenbrae, California (age 80, congestive heart failure)",
+  "hof": "Class of 1972 (Veterans Committee). 5× World Series champion. 7× All-Star. 2× Pitching Triple Crown. Monument Park plaque at Yankee Stadium.",
+
+  "real_stats": {
+    "season": 1934,
+    "games": 38,
+    "wins": 26,
+    "losses": 5,
+    "era": "2.33",
+    "innings": "281.2",
+    "strikeouts": 158,
+    "walks": 96,
+    "complete_games": 25,
+    "shutouts": 6,
+    "whip": "1.15",
+    "ops_plus_against": "N/A",
+    "war": 9.1,
+    "career_wins": 189,
+    "career_losses": 102,
+    "career_era": "3.34",
+    "career_strikeouts": 1468,
+    "career_cg": 173,
+    "career_shutouts": 28,
+    "career_war": 44.5,
+    "no_hitters": 0,
+    "perfect_games": 0
+  },
+
+  "ilb_stats": {
+    "ovr": 10,
+    "stf": 3,
+    "ctl": 0,
+    "sta": 3,
+    "def": 0,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "stf": "2.33 ERA in 1934 — led the AL. Pitching Triple Crown (26 W, 2.33 ERA, 158 K). But K/9 was only ~5.05 — not a dominant strikeout pitcher by the formula. Led AL in K's three times and led the decade with 1,337 total K's. In the 1930s high-offense era, his 2.33 ERA was extraordinary. Originally a flame-thrower; re-tooled as a finesse pitcher after arm injuries. 'I'm throwing as hard as I ever did — the ball's just not getting there as fast.' Rating of 3.",
+    "ctl": "BB/9 of ~3.07 in 1934 (96 BB in 281.2 IP) → tier 0. Gomez walked batters. He once walked 11 men in a shutout — still a record. Career BB/9 was in the 3.0+ range consistently. WHIP 1.15 → no bonus. Gomez won not through control but through stuff, competitiveness, and having the best offense in baseball behind him. Rating of 0.",
+    "sta": "281.2 IP in 1934 — 25 complete games and 6 shutouts in 38 starts. Led AL in IP. Battled arm injuries throughout career (1933, 1936, 1939) but in his healthy years was a workhorse. Career 2,503 IP. Rating of 3.",
+    "def": "Average fielding pitcher. No standout defensive metrics. Notoriously terrible hitter (.147 career, -7 career OPS+ — fifth worst in history). The lighter story. Rating of 0.",
+    "clu": "6-0 in the World Series — the most wins without a loss in WS history. Won in 1932, 1936 (2 wins), 1937 (2 wins), 1938. 3 All-Star Game wins (also a record). Started 5 ASGs (tied for most ever). Drove in the first RBI in All-Star Game history. Singled home the winning run in the 1937 WS clincher. 'I'd rather be lucky than good' — but he was both. Maximum clutch: 3."
+  },
+
+  "personality": {
+    "leadership_style": "The Jester-Ace. Gomez led through humor, not authority. He disarmed opponents by hanging around their clubhouse cracking jokes before he pitched — Bill Werber claimed he 'talked them out of hits.' He needled Joe DiMaggio relentlessly because DiMaggio, like everyone else, couldn't resist laughing. He exasperated Joe McCarthy regularly — stopping a World Series game to watch a plane fly overhead — and got away with it because he won. Always. When the game was on the line, the clown became the killer.",
+    "temperament": "Irrepressibly optimistic, self-deprecating, and fearless. When asked if he'd throw at his own mother, Gomez said: 'You're damn right I would. She's a good hitter.' On relieving in a trouble spot: 'A lot of things run through your head. One of them was: Should I spike myself?' On Neil Armstrong finding an unidentified white object on the moon — Gomez claimed it was one of his home run balls. He made everyone around him lighter. In a clubhouse of legends and egos, he was the glue.",
+    "work_ethic": "Deceptive. Behind the comedy was ferocious competitiveness. Gomez won 20+ games four times. Led the AL in wins, ERA, and strikeouts simultaneously — twice. He re-invented himself as a finesse pitcher when his arm went bad. He collected $250 annually from Babe Ruth on a bet that he'd get at least 10 hits per season — and managed exactly enough to win each year. The comedy was the surface; underneath was a pitcher who hated losing.",
+    "lifestyle": "California ranch kid turned Manhattan socialite. Born on a 1,000-acre ranch in Rodeo, California where his father was known as 'Coyote.' Lefty played saxophone as a kid (bought with money from plucking chickens at a butcher shop). Married Broadway star June O'Dea in 1933 — she gave up her career for him. He embraced New York nightlife completely. Sharp dresser, Big Apple lover. The marriage eventually failed — he filed for divorce in Mexico; she, a devout Catholic, refused and cited cruel treatment. After retirement, became a beloved banquet speaker and Wilson Sporting Goods ambassador for 30+ years.",
+    "era_adaptability": "HIGH. Gomez's fastball-curve combination was elite in the 1930s and would translate to any era. His willingness to reinvent himself (power → finesse) shows adaptability. His personality would make him a modern media sensation. The walk rate would concern analytics departments, but his competitiveness and postseason dominance would win any front office over. In the modern game, Gomez would be a charismatic ace who fills seats and wins October games.",
+    "clubhouse_impact": "MAXIMUM POSITIVE. The wittiest man in baseball history. Reporters loved him (the anti-Lazzeri). Teammates adored him. He could needle DiMaggio, McCarthy, and Ruth without consequence because everybody wanted to be around him. His humor defused tension in the most pressure-filled clubhouse in sports. When Gomez left the Yankees, they didn't just lose a pitcher — they lost their personality.",
+    "dark_side": "The arm. Gomez suffered injuries in 1933, 1936, and 1939 that progressively robbed him of his fastball. By 1940, he was 3-3 with a dead arm. By 1942, he could only pitch 80 innings. The Yankees sold him for $10,000. He never pitched for the Braves, signed with Washington, threw one game, pulled his shoulder, and retired at 34. After retirement, he took a $40/week job at a defense plant. The marriage to June O'Dea collapsed publicly — he filed for Mexican divorce, she refused, the tabloids covered it. The comedy faded into a quieter life of banquet speeches and corporate ambassadorship. But the arm betrayal — that was the wound."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "El Goofo",
+      "desc": "+2 team morale permanently. Gomez's humor defuses all clubhouse tension events. Reporters never write negative stories about the team while he's on it."
+    },
+    {
+      "tag": "Clean Living & a Fast Outfield",
+      "desc": "Gomez benefits from elite defense. If team DEF average is 1+, Gomez gets +1 STF from defensive support. His famous line: he knew his outfielders made him better."
+    },
+    {
+      "tag": "World Series Perfect",
+      "desc": "6-0 in the WS — record. Gomez cannot lose a World Series start. 80% chance of a WS win when he starts; 20% chance of a no-decision. He never takes the L in October."
+    },
+    {
+      "tag": "The Lighter",
+      "desc": "When facing Bob Feller or any flame-throwing pitcher while batting, Gomez pulls out a lighter. Comic relief event: +1 team morale, but Gomez strikes out."
+    },
+    {
+      "tag": "Talk Them Out of Hits",
+      "desc": "Before starts, Gomez can visit the opposing clubhouse. 30% chance opponents' CON is -1 for the game (distracted by his jokes). 10% chance it backfires (+1 motivation for opponents)."
+    },
+    {
+      "tag": "Broadway Marriage",
+      "desc": "Married to a Broadway star. +1 publicity in New York. But 20% chance per season of tabloid drama event (-1 morale)."
+    },
+    {
+      "tag": "Arm Fragility",
+      "desc": "10% chance per season of arm injury. If triggered: -2 STF for 60 games. Can reinvent as finesse pitcher (STF restored to -1 instead of -2)."
+    },
+    {
+      "tag": "Gomez-Ruffing Duo",
+      "desc": "When paired with a right-handed ace (Ruffing, or equivalent OVR 8+ RHP), both pitchers get +1 to WS performance. The ultimate lefty-righty combination."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "His palace. Monument Park plaque. 189 career wins, nearly all as a Yankee. The stage for El Goofo.",
+      "note_extra": "Source labeled 'Yankee Stadium' — mapped to Media/Spotlight as home-franchise/ballpark node, consistent with prior stadium mappings."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "6-0 WS record. 7× All-Star. 5 ASG starts. 3 ASG wins. The biggest stages brought out his best.",
+      "note_extra": "Source labeled 'World Series / All-Star Game' — compound label, both events map to Practice Field per established collision taxonomy. Single entry preserved as source combined them."
+    },
+    {
+      "location": "Bar/Nightlife",
+      "affinity": "HIGH",
+      "note": "New York nightlife was his second home. Sharp dresser, Broadway wife, Big Apple socialite.",
+      "note_extra": "Source labeled 'Nightclub / Restaurant / Party' — mapped to Bar/Nightlife. First HIGH Bar/Nightlife affinity in the set. All prior instances were LOW or NONE. Gomez is the set's first card where nightlife is a genuine positive."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "The anti-Lazzeri. Reporters adored him. He had a quote for every occasion. Became a professional speaker after retirement.",
+      "note_extra": "Source labeled 'Press Room / Interviews' — mapped to Media/Spotlight. Second Media/Spotlight entry on this card (Yankee Stadium and Press Room both HIGH). The double convergence reflects Gomez's identity as defined by visibility and performance in public."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "He'd wander in and joke with the other team before starts. Bill Werber: 'He talked them out of hits.'",
+      "note_extra": "Source labeled 'Opposing Clubhouse' — mapped to Hotel/Rest per recurring Clubhouse collision taxonomy. Eighth instance of this mapping across the set."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "MEDIUM",
+      "note": "Born on a 1,000-acre California ranch. His father was 'Coyote.' But Lefty left the ranch for the city and never looked back.",
+      "note_extra": "Source labeled 'Ranch / Farm' — mapped to Library/Quiet Spot per rural/countryside node, consistent with prior Farm/Countryside mappings (Slaughter, Feller, Ferrell, Flick, Freeman, Gardner)."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "NONE",
+      "note": ".147 career BA. -7 OPS+. Fifth-worst in history. 'I never broke a bat until last year when I was backing out of the garage.'",
+      "note_extra": "Source labeled 'Batter's Box' — mapped to Practice Field. Second Practice Field entry (World Series/High and Batter's Box/NONE). The polarity within a single node encodes Gomez's defining split: transcendent on the mound, catastrophic at the plate."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "World Series starts — 6-0, unblemished, the ultimate big-game pitcher",
+      "All-Star Games — 3 wins, first starting pitcher in ASG history, record 6 IP in one game",
+      "Having elite defense behind him — 'clean living and a fast outfield'",
+      "Healthy arm stretches — when right, 26-5 with a 2.33 ERA"
+    ],
+    "cold_triggers": [
+      "Arm injuries — three separate injury episodes robbed him of velocity",
+      "Late-career decline — from 26-5 ace to one-game-and-done with Washington",
+      "Batting — .147 career. The lighter. The garage quote. An absolute zero at the plate.",
+      "Off-field tabloid drama — the failed marriage to June O'Dea played out publicly"
+    ],
+    "pressure_response": "THE BEST IN BASEBALL HISTORY FOR HIS ERA. 6-0 in the World Series. Most wins without a loss ever. 3-1 in All-Star Games. Started 5 ASGs. When 50,000 people were watching and the season was on the line, Gomez became a different pitcher. The jokes stopped, the fastball hummed, and he won. Every. Single. Time. He once stopped a WS game to watch a plane — but only because he was already winning 9-0. Don't confuse the comedy with lack of intensity. Gomez was a killer disguised as a clown."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "I'd Rather Be Lucky Than Good",
+      "type": "Action",
+      "text": "Your pitcher allows three screaming line drives in one inning — all caught by outfielders making spectacular plays. Your pitcher turns to the dugout and shrugs. +1 luck modifier for the rest of the game.",
+      "origin": "Gomez's most famous line. After an inning where three hard-hit balls were caught: 'I'd rather be lucky than good.'"
+    },
+    {
+      "title": "The Airplane Game",
+      "type": "Drama",
+      "text": "World Series. Your pitcher has a 9-0 lead. He stops the game to watch an airplane pass overhead. The manager is furious. The crowd loves it. +2 publicity, -1 manager relationship. Your pitcher still wins.",
+      "origin": "1936 WS Game 2: Gomez, with a huge lead over the Giants, stopped play to watch a plane fly over Yankee Stadium. McCarthy was apoplectic. Gomez won the game."
+    },
+    {
+      "title": "The Lighter and the Wild Man",
+      "type": "Drama",
+      "text": "Late innings. Shadows falling. Your pitcher steps into the batter's box against a flame-throwing wild man. He pulls a lighter out of his pocket and flicks it on. The umpire demands an explanation. 'I can see him just fine — I want to make sure that wild man can see ME.'",
+      "origin": "Gomez vs. Bob Feller. Late afternoon shadows at Yankee Stadium. Gomez pulled out a cigarette lighter. When the umpire protested: 'I just want to make sure he can see me.'"
+    },
+    {
+      "title": "Six and Oh",
+      "type": "Game Action",
+      "text": "Your pitcher wins his sixth consecutive World Series game without a loss. The record may never be broken. +5 CLU permanently. The pitcher gains the 'October Immortal' trait.",
+      "origin": "Gomez went 6-0 in World Series play across 1932, 1936, 1937, and 1938 — the most wins without a loss in WS history."
+    },
+    {
+      "title": "The First All-Star Game",
+      "type": "Game Action",
+      "text": "Baseball invents the All-Star Game. Your pitcher is chosen to start the first one ever played. He wins and drives in the first run. Seven consecutive All-Star selections follow. The midsummer classic becomes his personal showcase.",
+      "origin": "July 6, 1933: Gomez started the first MLB All-Star Game, won it, and drove in the first run. He was selected 7 consecutive years (1933-39), started 5, and won 3."
+    },
+    {
+      "title": "Clean Living and a Fast Outfield",
+      "type": "Action",
+      "text": "When asked the secret of his success, your pitcher gives full credit to his outfielders and his lifestyle. The outfield gains +1 DEF from the recognition. Your pitcher's charm increases fan loyalty by 10%.",
+      "origin": "Gomez attributed his success to 'clean living and a fast outfield' — a self-deprecating joke that became his catchphrase."
+    },
+    {
+      "title": "The $250 Bet",
+      "type": "Action",
+      "text": "Your team's star hitter bets your worst-hitting pitcher $250 that he can't get 10 hits all season. The pitcher — a career .147 hitter — scratches out exactly enough hits to collect. Every year. For multiple years.",
+      "origin": "Babe Ruth annually bet Gomez $250 that he couldn't get 10 hits in a season. Gomez always collected — barely. Ruth paid up each year."
+    },
+    {
+      "title": "Thrown at His Own Mother",
+      "type": "Drama",
+      "text": "A reporter asks your pitcher if he'd throw at his own mother. 'You're damn right I would. She's a good hitter.' The quote becomes legendary. Your pitcher's intimidation rating increases. But his mother calls to complain.",
+      "origin": "A reporter asked Gomez about his brushback pitches: 'Is it true you'd throw at your own mother?' Gomez: 'You're damn right I would. She's a good hitter.'"
+    }
+  ],
+
+  "art_direction": {
+    "face": "Lean, lanky, grinning. 6'2\" 173 lbs — impossibly thin for a pitcher. The grin is the key: Gomez is always smiling, always in on the joke. Sharp features, dark hair, California tan. He should look like a man who's having more fun than anyone else on the field.",
+    "attire": "New York Yankees 1934 home whites. Pristine pinstripes on that impossibly thin frame. The cap slightly askew — a touch of irreverence. He should look like a Yankee who doesn't quite fit the Yankee mold — too happy, too loose, too alive.",
+    "mood": "Joy. Pure, uncut joy on a baseball field. The follow-through of a fastball with the grin already forming because he knows the batter can't touch it. Or: the lighter scene, Gomez illuminated by the tiny flame with a look of exaggerated terror. This is the card that makes you smile. In a set full of tragedy and darkness, Gomez is sunshine.",
+    "style": "Bright, warm colors — contrast with the sepia/Depression palette of Trosky and the muted tones of Lazzeri. Yankee Stadium in golden afternoon light. The art style should be slightly more dynamic and playful than other cards. Motion lines on the fastball. A plane in the distant sky.",
+    "reference": "The card that asks: what if the funniest person you ever met was also the best at his job? 6-0 in the World Series. Two Triple Crowns. And a revolving bowl for tired goldfish."
+  }
+}

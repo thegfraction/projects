@@ -1,0 +1,224 @@
+{
+  "card_type": "pitcher",
+  "name": "Wes Ferrell",
+  "nickname": "The Slugging Pitcher",
+  "year": 1930,
+  "team": "Cleveland Indians",
+  "era": "1930s",
+  "ilb_team": "Crashers AL1930",
+  "position": "SP",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'2\"",
+  "weight": "195 lbs",
+  "born": "February 2, 1908 — Greensboro, North Carolina (160-acre dairy and tobacco farm, 5th of 7 brothers)",
+  "died": "December 9, 1976 — Sarasota, Florida (age 68)",
+  "hof": "Not inducted (considered by Veterans Committee 2009). Boston Red Sox HOF (2008). Top 100 Greatest Indians (2001). Named to Ritter & Honig's 100 Greatest Players. Best-hitting pitcher in history.",
+
+  "real_stats": {
+    "season": 1930,
+    "games": 43,
+    "wins": 25,
+    "losses": 13,
+    "era": "3.31",
+    "innings": "296.2",
+    "strikeouts": 143,
+    "walks": 109,
+    "complete_games": 25,
+    "shutouts": 4,
+    "whip": "1.39",
+    "ops_plus_against": "N/A",
+    "war": 7.5,
+    "career_wins": 193,
+    "career_losses": 128,
+    "career_era": "4.04",
+    "career_strikeouts": 985,
+    "career_cg": 227,
+    "career_shutouts": 17,
+    "career_war": 38.5,
+    "no_hitters": 1,
+    "perfect_games": 0
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "stf": 2,
+    "ctl": 1,
+    "sta": 3,
+    "def": 1,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "stf": "3.31 ERA in 1930 — a year when the AL average ERA was 4.65. ERA+ of 126 means he was 26% better than league average. Compared to Christy Mathewson by contemporaries for his size, control, and 'seemingly effortless motion.' Excellent fastball, good curve, deceptive changeup. Led AL in strikeouts in 1930 season extension. No-hitter in 1931 (youngest in Cleveland history). But K/9 of ~4.34 doesn't trigger the bonus. Rating of 2 — era-adjusted bump from 1 to 2 for the historical context.",
+    "ctl": "BB/9 of ~3.31 (109 walks in 296.2 IP) → tier 0. But the 1930 AL was a hitter's paradise. Ferrell walked people but also completed 25 games and threw 4 shutouts. His WHIP of 1.39 was solid for the era. Mild era-context bump to CTL 1.",
+    "sta": "296.2 IP in 1930 — 25 complete games. Led the AL in innings pitched 3 times in his career. Topped 300 IP twice (1935: 322.1 IP with 31 CG). Eight seasons of 200+ IP. 227 career CG. Durable workhorse, though arm troubles emerged in 1933. Rating of 3.",
+    "def": ".975 career fielding percentage — 4th highest in AL history for pitchers. Good fielding pitcher. But the true value here is his BAT: .280 career BA, 38 HR (record for a pitcher), .446 SLG, .351 OBP, 208 RBI, 329 hits. Hit .319 with 9 HR in 1931. Hit .347 in 1935. Homered in his own no-hitter. Five times hit 2 HR in a game. The best-hitting pitcher in baseball history. DEF 1 as proxy for total pitcher value including the bat.",
+    "clu": "Never reached the postseason. Played for Cleveland (4th place every year), Boston (4th-6th), Washington (5th-6th). The Indians finished above .500 but never won the pennant. Ferrell never got an October stage. Like Trosky: the tragedy of talent on mediocre teams. CLU 0 by default."
+  },
+
+  "personality": {
+    "leadership_style": "The Volatile Ace. Ferrell was a fierce competitor whose intensity crossed into self-destruction. He refused to be pulled from games — suspended multiple times for insubordination. He once punched himself in the face after being driven from the mound, then slammed his head into the wall until teammates restrained him. He was not a leader. He was a force of nature that teammates either rode or got out of the way of.",
+    "temperament": "Volcanic. Ferrell's intensity was both his greatest asset and his worst enemy. He was fined and suspended repeatedly for refusing to leave games, for leaving without permission, for disputing calls, for fighting with managers. He and his brother Rick were ejected together after Rick defended Wes for arguing a strike call. SABR: 'It isn't only the pain... it's the mental unrest. It's the worry, the fear that perhaps the arm will not come around.' His anxiety about his arm manifested as rage.",
+    "work_ethic": "Extraordinary when healthy. Four consecutive 20-win seasons to start his career — the only pitcher since 1900 to do this. Six 20-win seasons total. He won 20 games in 1936 for a Red Sox team that won only 74 games. He was the ace of every staff he joined. But when the arm hurt, the mental spiral began — anger, fear, self-harm, holdouts, suspensions.",
+    "lifestyle": "North Carolina farm family. Born on a 160-acre dairy and tobacco farm in Greensboro. Fifth of seven brothers — all played baseball. Brother Rick became a HOF catcher; they formed the 'Ferrell battery' in Boston for 5 seasons. Brother George played 18 years in the minors. Wes married and settled quietly after baseball. Died in Sarasota, Florida at 68. No drama in retirement — the fury belonged to the diamond.",
+    "era_adaptability": "HIGH. Ferrell would be a unicorn in modern baseball: a starting pitcher who hits .280 with power. In the post-DH National League or in Shohei Ohtani's world, Ferrell would be worth an extra 2-3 WAR just from his bat. His pitching — four consecutive 20-win seasons, ERA+ of 126 — would make him a solid #2 starter. His temper would require modern sports psychology, but his talent is undeniable.",
+    "clubhouse_impact": "DISRUPTIVE BUT ELECTRIFYING. Ferrell inspired awe and anxiety in equal measure. When he was pitching well, the entire team elevated. When he wasn't, he might punch himself in the face. Managers dreaded confronting him. Teammates admired his intensity but feared the explosions. The Ferrell-Rick battery was a calming force — Rick was the steady brother who absorbed Wes's chaos.",
+    "dark_side": "The self-harm. After being driven from the mound in one game, Ferrell punched himself in the face and slammed his head into the wall. Teammates had to physically restrain him. This wasn't an isolated incident — his rage was chronic and escalating. When his arm began to fail in 1933, the anxiety became unbearable: 'It isn't only the pain... it's the mental unrest. It's the worry, the fear that perhaps the arm will not come around and it weighs on a pitcher. Plenty of times it has kept me awake nights.' Modern diagnosis would likely identify severe anxiety or anger management issues. In the 1930s, he was just called difficult."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Slugging Pitcher",
+      "desc": "Ferrell bats .280 with power. When pitching, he also contributes +1 POW to his own lineup. The only pitcher card in ILB that adds offensive value while on the mound."
+    },
+    {
+      "tag": "Volcanic Temperament",
+      "desc": "After any bad inning (3+ runs allowed), 25% chance Ferrell triggers a rage event: refuses to leave the mound (50% he settles down, +1 STF next inning; 50% he implodes, -2 STF rest of game, possible ejection)."
+    },
+    {
+      "tag": "Brother Battery",
+      "desc": "When paired with catcher Rick Ferrell (or any Ferrell-family card), +1 STF and +1 CLU. The brother battery effect: Rick steadied Wes."
+    },
+    {
+      "tag": "Four Straight Twenties",
+      "desc": "Ferrell wins 20+ in his first 4 full seasons. If he wins 15+ in year 1, 80% chance of 20+ in years 2-4. Momentum builds. Only post-1900 pitcher to achieve this."
+    },
+    {
+      "tag": "Self-Harm Risk",
+      "desc": "After being pulled from a game, 10% chance Ferrell injures himself in the dugout (punching, headbutting). If triggered: miss 3 games, -2 team morale. Can be mitigated by Brother Battery trait."
+    },
+    {
+      "tag": "Holdout Artist",
+      "desc": "If Ferrell's contract offer is below his perceived value, 40% chance he refuses to report. Holdout lasts 1-6 weeks. Missing games damages team but increases Ferrell's eventual salary."
+    },
+    {
+      "tag": "No-Hitter with a Homer",
+      "desc": "Once per career, Ferrell can throw a no-hitter AND hit a home run in the same game. 2% chance per start. If triggered: +5 team morale, +3 publicity, Ferrell gains 'Legend' trait for the season."
+    },
+    {
+      "tag": "Arm Anxiety",
+      "desc": "Starting in year 5 of career, 15% chance per season of arm trouble. If triggered: -1 STF permanently, and Ferrell's anxiety worsens (additional -1 morale). The fear of the arm not coming around."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "296.2 IP in 1930. 25 CG. He owned the mound and refused to leave it — literally. Suspended multiple times for insubordination.",
+      "note_extra": "Source labeled 'Pitcher's Mound' — mapped to Practice Field per taxonomy."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": ".280 career BA, 38 HR, .446 SLG. The best-hitting pitcher in history. He belonged in the lineup regardless of position.",
+      "note_extra": "Source labeled 'Batter's Box' — mapped to Practice Field per taxonomy. Second HIGH Practice Field entry on this card."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "HIGH",
+      "note": "160-acre dairy and tobacco farm in Greensboro. All seven Ferrell brothers played baseball. The family was his foundation.",
+      "note_extra": "Source labeled 'Farm / North Carolina' — mapped to Library/Quiet Spot as rural/roots affinity, consistent with Slaughter and Feller handling."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "VOLATILE",
+      "note": "Could be the life of the team or a ticking bomb. Depended entirely on how his arm felt and how the game was going.",
+      "note_extra": "Source labeled 'Dugout / Clubhouse' (affinity: VOLATILE) — mapped to Hotel/Rest as clubhouse/rest node; VOLATILE preserved exactly. Second new affinity tier this batch after Felsch's DAMNED. Full ladder now: HIGH → MEDIUM → LOW → NONE → DAMNED, with VOLATILE as a separate conditional tier distinct from the linear scale — it is not a magnitude but a state."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Holdouts, arguments, ejections, suspensions. Every manager who had Ferrell loved his arm and dreaded his personality.",
+      "note_extra": "Source labeled 'Manager's Office' — mapped to Hotel/Rest as rest/negotiation node."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Arm anxiety kept him up at night. 'It's the worry, the fear that perhaps the arm will not come around.'",
+      "note_extra": "Source labeled 'Doctor's Office' — mapped to Hotel/Rest as recovery/rest node, consistent with Lombardi handling."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "NONE",
+      "note": "Never reached the postseason. Played for perpetually mediocre teams. The greatest October he never had.",
+      "note_extra": "Source labeled 'Postseason' (affinity: NONE) — mapped to Practice Field. Third Practice Field entry on this card. Consistent with Feller's 'World Series Mound' NONE handling."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Early career seasons — four consecutive 20-win years, unstoppable when young and healthy",
+      "Hitting — .319 with 9 HR in 1931, .347 in 1935. His bat elevated the entire team",
+      "Brother battery with Rick Ferrell — the calming presence behind the plate",
+      "Complete game dominance — 25 CG in 1930, 31 CG in 1935. He finished what he started."
+    ],
+    "cold_triggers": [
+      "Arm pain and anxiety — the fear of the arm not coming around consumed him",
+      "Being pulled from games — triggered rage, self-harm, suspensions",
+      "Contract disputes and holdouts — refused to report, poisoned relationships",
+      "Playing for weak teams — never won a pennant, never saw October, perpetual 4th place"
+    ],
+    "pressure_response": "UNKNOWN — AND AGONIZING. Like Trosky, Ferrell never played a postseason game. But unlike Trosky's quiet acceptance, Ferrell's absence from October was a wound that bled. He won 25 games for a team that finished 4th. He won 20 for a team that won 74 games total. He was the best pitcher on the worst staffs. Bill James calculated that when you add his hitting value, Ferrell was effectively 22% better than league average. Ritter and Honig named him one of the 100 Greatest Players. And he never once pitched in a game that mattered in October."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The No-Hitter with a Homer",
+      "type": "Game Action",
+      "text": "Your pitcher throws a no-hitter — and hits a home run in the same game. He becomes the first modern pitcher to do this. The youngest in his franchise's history. The ball disappears into the bleachers while the opposing lineup disappears from the box score.",
+      "origin": "April 29, 1931: Ferrell no-hit the Browns 9-0 at League Park, striking out 8. He also hit a home run into the center-field bleachers — the first pitcher in modern baseball to homer in his own no-hitter. He was 23 years old."
+    },
+    {
+      "title": "Punched Himself in the Face",
+      "type": "Drama",
+      "text": "After being driven from the mound, your pitcher snaps. He punches himself in the face. He slams his head into the dugout wall. Teammates have to physically restrain him. The suspension is 10 days. The reputation damage is permanent. -3 team morale, -2 manager trust.",
+      "origin": "Multiple incidents: Ferrell was fined and suspended repeatedly for violent outbursts after bad performances. After one shelling, he punched himself in the face and slammed his head into the wall until teammates stopped him."
+    },
+    {
+      "title": "Four Straight Twenty-Win Seasons",
+      "type": "Game Action",
+      "text": "Your young pitcher wins 20+ games in each of his first four full seasons. No pitcher since 1900 has done this. He is compared to Christy Mathewson. He is the ace of a mediocre team. +5 reputation, but the team still finishes 4th.",
+      "origin": "1929-1932: Ferrell went 21-10, 25-13, 22-12, 23-13. The only pitcher since 1900 to win 20 in each of his first four full seasons. Cleveland finished 4th every year."
+    },
+    {
+      "title": "The Ferrell Battery",
+      "type": "Action",
+      "text": "Two brothers form a pitcher-catcher battery. The pitcher is a volatile genius; the catcher is a steadying Hall of Famer. Together they are greater than the sum of their parts. The catcher's calm absorbs the pitcher's fury. +2 STF when paired.",
+      "origin": "Wes and Rick Ferrell played together in Boston for 5 seasons (1934-37). Rick, a HOF catcher, was the steady brother who caught Wes's rage and his fastball equally well."
+    },
+    {
+      "title": "It's the Mental Unrest",
+      "type": "Drama",
+      "text": "Your pitcher's arm begins to fail. He can't sleep. 'It isn't only the pain — it's the worry, the fear that perhaps the arm will not come around.' His performance declines. His behavior worsens. The anxiety feeds itself. The team must decide: support the troubled ace or trade him before he implodes.",
+      "origin": "1933: Ferrell's arm began to fail. His candid interview about anxiety and fear was remarkably modern: 'Plenty of times it has kept me awake nights.'"
+    },
+    {
+      "title": "Twenty Wins for a Seventy-Four-Win Team",
+      "type": "Game Action",
+      "text": "Your ace wins 20 games. His team wins only 74. He accounts for 27% of the franchise's victories. He is the best player on the worst team. There is no award for this. There is no playoff. There is only 4th place.",
+      "origin": "1936: Ferrell won 20 games for a Red Sox team that went 74-80. He led the AL in complete games with 28. The team finished 6th."
+    },
+    {
+      "title": "The Holdout",
+      "type": "Drama",
+      "text": "Your best pitcher returns his contract unsigned. He refuses to report to spring training. The stalemate lasts weeks. Eventually he is traded. The new team gets an ace with a chip on his shoulder. +2 STF from spite, -1 team chemistry from the drama.",
+      "origin": "Winter 1933-34: Ferrell returned his contract unsigned and refused to report. Cleveland tried to trade him for months. Eventually Boston acquired him in May 1934. He went 14-5 for the Red Sox."
+    },
+    {
+      "title": "The Best-Hitting Pitcher in History",
+      "type": "Action",
+      "text": "Your pitcher hits .280 with 38 career home runs, 208 RBI, and a .446 slugging percentage. He sets the record for most HR by a pitcher in a season (9) and career (38). He hits two home runs in one game five separate times. He is named to the 100 Greatest Players of All Time — for his hitting as a pitcher.",
+      "origin": "Ferrell's career batting: .280 BA, 38 HR, 329 H, 208 RBI, .446 SLG. Ritter & Honig named him one of the 100 Greatest Players. Bill James: when you add his hitting, he was effectively 22% better than league average."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Strong, intense, coiled. 6'2\" 195 lbs — big for his era. North Carolina farm strength. The face should show the duality: fierce concentration on the mound, barely-contained rage. Dark eyes, set jaw. He looks like a man who might throw a perfect game or punch himself — and you can't tell which until the 7th inning.",
+    "attire": "Cleveland Indians 1930 home whites. The old-style 'C' on the chest. But unlike Trosky's card (also Cleveland), Ferrell's uniform should look lived-in, slightly disheveled — the uniform of a man who pitches 297 innings and refuses to come out. Sweat stains. Dirt on the knees from batting practice.",
+    "mood": "Fury and brilliance in equal measure. The windup — full extension, right arm cocked, eyes locked on the target — but with a bat leaning against the dugout wall in the background. Or: the follow-through of a massive home run swing, still in the pitcher's warm-up jacket. This card should feel dangerous. Not violent-dangerous. Talented-dangerous. The card of a man who could beat you from the mound or the batter's box.",
+    "style": "Split-personality palette. Hot reds and golds for the mound dominance; cool blues for the batting heroics. League Park's old outfield wall. The card should feel like two players on one piece of cardboard — because that's what Ferrell was.",
+    "reference": "The card that asks: what if the best pitcher on your team was also one of the best hitters? And what if he was also the angriest man in the building? Ferrell is the ILB card with the highest ceiling and the most dangerous floor."
+  }
+}

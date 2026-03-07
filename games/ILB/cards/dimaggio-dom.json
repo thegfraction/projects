@@ -1,0 +1,216 @@
+{
+  "card_type": "hitter",
+  "name": "Dom DiMaggio",
+  "nickname": "The Little Professor",
+  "year": 1950,
+  "team": "Boston Red Sox",
+  "era": "1940s",
+  "ilb_team": "Allies AL1940",
+  "position": "CF",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'9\"",
+  "weight": "168 lbs",
+  "born": "February 12, 1917 — San Francisco, CA",
+  "died": "May 8, 2009 — Marion, MA",
+  "hof": "Not inducted. .298 BA, 1,680 H, 87 HR, 100 SB, 7x All-Star. Lost 3 prime years to WWII. 'The most underrated player of his day.' —Halberstam",
+
+  "real_stats": {
+    "season": 1950,
+    "games": 141,
+    "at_bats": 588,
+    "hits": 193,
+    "doubles": 30,
+    "triples": 11,
+    "home_runs": 7,
+    "rbi": 70,
+    "stolen_bases": 15,
+    "runs": 131,
+    "walks": 82,
+    "batting_avg": ".328",
+    "obp": ".414",
+    "slg": ".452",
+    "ops": ".866",
+    "ops_plus": 130,
+    "war": 6.4,
+    "career_avg": ".298",
+    "career_hits": 1680,
+    "career_hr": 87,
+    "career_sb": 100,
+    "career_war": 36.5
+  },
+
+  "ilb_stats": {
+    "ovr": 7,
+    "con": 5,
+    "pow": 0,
+    "spd": 2,
+    "def": 3,
+    "clu": 1
+  },
+
+  "stat_justification": {
+    "con": "Hit .328 in 1950, his career-best full season. Career .298 BA over 11 seasons. Led the major leagues in hits during his active years. Had a 34-game hitting streak in 1949 (still Red Sox record) and a 27-game streak in 1951. Batted .300 four times. David Halberstam called him 'the most underrated player of his day.' OPS+ 130 in 1950 earns the +1 bonus to reach maximum. Rating of 5.",
+    "pow": "7 HR in 1950. Career 87 HR in 11 seasons. Dom DiMaggio was a pure contact hitter and leadoff man with virtually no power. His SLG of .452 in 1950 came from doubles (30) and triples (11), not home runs. He was built to get on base and score runs, not drive them in. Rating of 0.",
+    "spd": "15 SB in 1950 — led the American League. Career 100 SB. Led AL in triples (11) in 1950. As a center fielder, his range was extraordinary — fans said he covered his own position AND Ted Williams' left field. 503 putouts in 1948 (AL record) required elite speed. GG-equivalent CF range earns +1 bonus. Rating of 2.",
+    "def": "Elite defensive center fielder. Set AL records with 503 putouts and 526 total chances in 1948, both standing for nearly 30 years. Led AL CF in assists 3 times, putouts and double plays twice each. Recorded 400+ putouts four times (tying a league record). His 1,338 career games in CF ranked 8th in AL history at retirement. 'Joe is the best hitter, Dom is the best fielder, and Vince is the best singer.' Maximum rating of 3.",
+    "clu": "The 1946 World Series encapsulates Dom's clutch legacy: In Game 7, trailing 3-1 in the 8th inning, Dom hit a two-run double to tie the game at 3-3. But rounding second base, he pulled his hamstring and had to leave the game. His replacement, Leon Culberson, was in center field when Enos Slaughter made his famous 'Mad Dash' — and the relay throw was delayed partly because Culberson's arm was weaker than Dom's. The Cardinals won 4-3. Dom's heroic hit directly enabled the tying rally, but his injury directly enabled the losing play. It's both clutch and anti-clutch simultaneously. WS BA .259 → tier 1. Rating of 1."
+  },
+
+  "personality": {
+    "leadership_style": "Quiet excellence. Dom led by example — showing up every day, playing elite defense, getting on base, scoring runs, never complaining about being overshadowed. He was the most consistent player on a team full of stars. His leadership was the kind that doesn't make headlines but wins games: the leadoff man who always found a way to start the rally.",
+    "temperament": "Intellectual, dignified, warm. The 'Little Professor' nickname fit perfectly — Dom was studious, well-read, and more cerebral than most ballplayers of his era. He wore glasses on the field (unusual for the 1940s) and carried himself with a quiet self-assurance. He didn't need to be the biggest name in the room. He knew his value.",
+    "work_ethic": "Meticulous. Dom prepared for games with the attention to detail of a scholar. He studied hitters from center field, knew which way they'd pull, positioned himself perfectly. His AL-record 503 putouts in 1948 weren't just about speed — they were about intelligence, positioning, and reading the ball off the bat better than anyone in the league.",
+    "lifestyle": "Son of Sicilian immigrants in San Francisco's North Beach. The youngest of nine children, three of whom became major league center fielders. Married Emily in 1948 — together 61 years until his death. After baseball, he founded American Latex Fiber Corporation, became a successful industrialist, and co-founded the AFL's Boston Patriots. One of the most successful post-baseball businessmen in history.",
+    "era_adaptability": "HIGH. Dom's skill set — elite center field defense, high OBP, speed, contact hitting — is exactly what modern analytics values. He'd be a perfect leadoff hitter in any era. His .383 career OBP, 100 SB, and Gold Glove-caliber defense would make him a 5+ WAR player consistently. In ILB: Dom is the ideal 'table-setter' who makes everyone around him better.",
+    "clubhouse_impact": "GLUE. Dom was part of the most famous friendship in Red Sox history — 'The Teammates' (Williams, Doerr, Pesky, DiMaggio), chronicled by David Halberstam. These four men remained close friends for over 60 years. Dom's warmth, loyalty, and steadiness made him the emotional anchor of the group. Williams was the genius, Pesky the spark plug, Doerr the craftsman — Dom was the heart.",
+    "dark_side": "The shadow. Dom DiMaggio lived his entire career in two enormous shadows: his brother Joe (the greatest all-around player of the era) and his teammate Ted Williams (the greatest hitter who ever lived). He was a 7-time All-Star who averaged 100 runs per season — and was still considered the third-best player on his own team and the second-best center fielder in his own family. The Boston ditty captured it perfectly: 'Who's better than his brother Joe? Dominic DiMaggio. / But when it comes to gettin' dough, they give it all to brother Joe.' In ILB terms: Dom carries a 'Living Shadow' trait — he cannot be a team's #1 star. If Joe DiMaggio or Ted Williams is on his team, Dom's morale is +1 (he thrives in the supporting role) but his public recognition is permanently capped."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Little Professor",
+      "desc": "Dom's intelligence gives +1 defensive positioning. He reads the ball off the bat better than anyone. CF putout range extends by 10%."
+    },
+    {
+      "tag": "The Teammates",
+      "desc": "+3 chemistry with Ted Williams, Bobby Doerr, and Johnny Pesky. The four-man bond lasts beyond baseball — it's the most famous friendship in Red Sox history."
+    },
+    {
+      "tag": "Brother Joe",
+      "desc": "+2 chemistry when playing against Joe DiMaggio. Sibling rivalry elevates both. When Joe's hitting streak ended at 56, Dom's hit streak was at 34."
+    },
+    {
+      "tag": "Living Shadow",
+      "desc": "Dom cannot be a team's marquee star. But in a supporting role, he gains +1 OVR from reduced pressure. 'The most underrated player of his day.'"
+    },
+    {
+      "tag": "WWII Veteran",
+      "desc": "Navy service in Australia and Philippines. Lost 3 prime years (1943-45). Returns at full strength — no rust penalty."
+    },
+    {
+      "tag": "Glasses on the Field",
+      "desc": "Dom was one of the first prominent players to wear glasses during games. He proved that vision correction didn't diminish ability. +1 to cultural legacy."
+    },
+    {
+      "tag": "Table Setter",
+      "desc": "As a leadoff hitter, Dom's OBP of .414 in 1950 means the lineup behind him gets more RBI opportunities. +1 run production for the #3-5 hitters when Dom is batting leadoff."
+    },
+    {
+      "tag": "Patriots Founder",
+      "desc": "After baseball, Dom co-founded the AFL's Boston Patriots. Business acumen trait: +2 to post-career financial success rolls."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "His cathedral. 503 putouts in one season. He covered his position AND Ted's."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "The heart of The Teammates. Warm, loyal, the emotional anchor."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "HIGH",
+      "note": "The Little Professor reads, studies, prepares. Intellectual's retreat."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Married Emily for 61 years. Three children. The DiMaggio who got family right."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "MEDIUM",
+      "note": "Founded American Latex Fiber Corp. Co-founded the Boston Patriots."
+    },
+    {
+      "location": "Restaurant/Steakhouse",
+      "affinity": "MEDIUM",
+      "note": "North Beach, San Francisco. Sicilian immigrant family. Nine children."
+    },
+    {
+      "location": "Bar/Nightlife",
+      "affinity": "LOW",
+      "note": "Always overshadowed. Never sought attention. Let the play speak."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Playing against Joe's Yankees — sibling rivalry elevated his game",
+      "Leading off innings — Dom was a momentum spark, the fire-starter",
+      "Hitting streaks — 34 games in 1949, 27 in 1951, he thrived on consistency",
+      "Pennant race defense — the bigger the game, the more ground he covered"
+    ],
+    "cold_triggers": [
+      "Being overlooked — the shadow of Joe and Ted wore on him over time",
+      "Injuries in crucial moments — his Game 7 hamstring pull haunted him",
+      "Post-WWII adjustment — took time to regain peak form after 3 years away"
+    ],
+    "pressure_response": "BITTERSWEET. Dom's defining clutch moment is a masterpiece of irony. Game 7 of the 1946 World Series: down 3-1 in the 8th, Dom ripped a two-run double to tie it 3-3. The crowd roared. Then he pulled his hamstring rounding second and had to leave the game. His replacement, Leon Culberson, was in center when Enos Slaughter made his Mad Dash — and the throw home was late partly because Culberson's arm was weaker than Dom's. The Red Sox lost 4-3. Dom's heroism directly created the tie. His injury directly enabled the loss. Had he stayed healthy for 30 more seconds, baseball history might be fundamentally different. This is not anti-clutch — it's tragedy."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Hamstring and the Mad Dash",
+      "type": "Game Action",
+      "text": "Game 7 of the World Series. Your center fielder hits a two-run double to tie the game in the 8th inning. But rounding second, he pulls his hamstring. He's replaced by a backup. In the next half-inning, the opposing runner makes a daring dash for home on a hit. Roll: if your original CF was still in the game, his arm would have nailed the runner (auto-out). With the backup, 50/50 chance.",
+      "origin": "1946 WS Game 7: Dom doubled to tie it 3-3, then pulled his hamstring. Leon Culberson replaced him. When Slaughter ran from first on Harry Walker's hit, Culberson's relay was slower than Dom's arm would have been. Slaughter scored. Cardinals won. If Dom had stayed in the game, he might have thrown Slaughter out."
+    },
+    {
+      "title": "Who's Better Than His Brother Joe?",
+      "type": "Drama",
+      "text": "Your star player is perpetually overshadowed by his more famous sibling on a rival team. The fans love him, the press ignores him. He gains the 'Chip on the Shoulder' trait: +1 performance in head-to-head matchups against his brother's team. But his All-Star votes are always fewer than he deserves.",
+      "origin": "The Boston ditty: 'Who hits the ball and makes it go? Dominic DiMaggio. / Who runs the bases fast, not slow? Dominic DiMaggio. / Who's better than his brother Joe? Dominic DiMaggio. / But when it comes to gettin' dough, they give it all to brother Joe.'"
+    },
+    {
+      "title": "The 503 Putouts",
+      "type": "Action",
+      "text": "Your center fielder sets a league record for putouts in a single season, catching everything hit to the outfield — including balls hit to left field where the slow-footed slugger can't reach them. He covers two positions at once. +2 team defense rating for the season.",
+      "origin": "In 1948, Dom set AL records with 503 putouts and 526 total chances in CF. Boston fans said he played his own position AND Ted Williams' left field. Both records stood for nearly 30 years."
+    },
+    {
+      "title": "The Teammates",
+      "type": "Drama",
+      "text": "Four players form a bond that lasts 60+ years — through careers, retirements, illnesses, and death. When one is dying, the others drive across the country to visit. Their friendship is chronicled in a bestselling book. +5 team chemistry. Legacy: 'The most famous friendship in baseball history.'",
+      "origin": "Dom DiMaggio, Ted Williams, Bobby Doerr, and Johnny Pesky remained close friends for over 60 years, chronicled in David Halberstam's 'The Teammates.' When Williams was dying in 2002, Pesky and Dom drove to see him. Their bond transcended baseball."
+    },
+    {
+      "title": "34 Games — Ended by Brother Joe",
+      "type": "Game Action",
+      "text": "Your leadoff hitter has a 34-game hitting streak — a franchise record. On game 35, his brother, playing center field for the opposing team, makes an outstanding catch to rob him of a hit. The streak ends. Family: complicated.",
+      "origin": "Dom's 34-game hitting streak in 1949 (still the Red Sox record) was ended on August 9 — by an outstanding catch made by his brother Joe in center field for the Yankees."
+    },
+    {
+      "title": "Three DiMaggios in Center",
+      "type": "Drama",
+      "text": "Three brothers from the same immigrant family all become major league center fielders. One is arguably the greatest player of his generation. One is a solid, colorful veteran. One is a 7-time All-Star overshadowed by both. 'Joe is the best hitter, Dom is the best fielder, and Vince is the best singer.'",
+      "origin": "Joe, Dom, and Vince DiMaggio — sons of Sicilian immigrants in San Francisco — all became MLB center fielders. They once played together in a charity All-Star game outfield. It's the most remarkable sibling story in baseball history."
+    },
+    {
+      "title": "The Little Professor's Empire",
+      "type": "Drama",
+      "text": "After retirement, your former center fielder founds a manufacturing company AND co-founds a professional football team. He becomes one of the most successful businessmen in his sport's history. The man who couldn't escape his brother's shadow in baseball builds an empire that dwarfs it.",
+      "origin": "Dom founded American Latex Fiber Corporation, co-founded the AFL's Boston Patriots (now New England Patriots), and built a business career that made him one of the wealthiest former ballplayers of his generation."
+    },
+    {
+      "title": "Glasses on the Diamond",
+      "type": "Action",
+      "text": "Your prospect wears glasses. Scouts are skeptical — 'a ballplayer in glasses?' He proves them wrong with elite defensive range and a .300 batting average. He opens the door for future bespectacled players and earns the nickname 'The Little Professor.'",
+      "origin": "Dom was one of the first prominent players to wear glasses on the field, earning his famous nickname. He was initially rejected by the Army for poor eyesight but requested a Navy exam and served three years. His success proved glasses were no barrier to elite play."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Small, handsome Italian features with round wire-rimmed glasses — the signature 'Little Professor' look. 5'9\" 168 lbs — compact, scholarly build. Intelligent, warm eyes behind the glasses. Clean-shaven, neat. The face of a man who could be a college professor or an elite athlete — and was somehow both.",
+    "attire": "Boston Red Sox home whites, 1950 flannel. Running full speed toward a fly ball in deep center — the glasses staying perfectly in place, the small frame covering enormous ground. Or: in the leadoff hitter's stance, bat back, studying the pitcher with analytical eyes.",
+    "mood": "Quiet competence and warmth. The portrait should convey understated excellence — not flashy, not imposing, just consistently, unmistakably good. The 'most underrated player of his day' should look like someone you'd trust with your life but might overlook in a crowd.",
+    "style": "Warm sepia with Red Sox burgundy accents. Fenway Park's Green Monster in the background (distant, since he played center). 1950 Bowman card aesthetic in unified ILB portrait style. The card should feel like a discovery — 'how did I not know about this player?'",
+    "reference": "The 'hidden gem' card of the Allies set. Pair with Ted Williams for the ultimate leadoff/cleanup duo. Dom's card should feel like the complement to Joe DiMaggio's (which would be a Legends-tier card) — the little brother who was great in his own right."
+  }
+}

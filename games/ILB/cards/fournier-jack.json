@@ -1,0 +1,224 @@
+{
+  "card_type": "player",
+  "name": "Jack Fournier",
+  "nickname": "Jacques",
+  "year": 1924,
+  "team": "Brooklyn Robins",
+  "era": "1920s",
+  "ilb_team": "Bashers NL1920",
+  "position": "1B",
+  "bats": "L",
+  "throws": "R",
+  "height": "6'0\"",
+  "weight": "195 lbs",
+  "born": "September 28, 1889 — Au Sable, MI (logging village on Lake Huron)",
+  "died": "September 5, 1973 — Tacoma, WA (age 83)",
+  "hof": "Not inducted. Career 142 OPS+ (#63 all-time, higher than Duke Snider or Reggie Jackson). Bill James ranked him 35th-best 1B ever. Walter Johnson: 'Fournier was the original tough baby for me.'",
+
+  "real_stats": {
+    "season": 1924,
+    "games": 154,
+    "at_bats": 543,
+    "hits": 188,
+    "doubles": 30,
+    "triples": 9,
+    "home_runs": 27,
+    "rbi": 116,
+    "runs": 89,
+    "stolen_bases": 13,
+    "strikeouts": 64,
+    "walks": 79,
+    "batting_avg": ".334",
+    "obp": ".427",
+    "slg": ".564",
+    "ops": ".991",
+    "ops_plus": 166,
+    "war": 6.3,
+    "career_avg": ".313",
+    "career_hits": 1631,
+    "career_hr": 136,
+    "career_rbi": 859,
+    "career_sb": 146,
+    "career_ops_plus": 142,
+    "career_war": 41.2,
+    "brooklyn_3yr": ".345/.430/.564, 71 HR, 348 RBI (1923-25)",
+    "ws_appearances": "0 — never reached the World Series",
+    "led_league": "HR (27, 1924 NL), SLG (.491, 1915 AL), BB (86, 1925 NL)"
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 5,
+    "pow": 3,
+    "spd": 1,
+    "def": 0,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": ".334 BA in 1924. In his Brooklyn peak (1923-25), he hit .345 with a .430 OBP. Career .313 BA with a 142 OPS+ that's #63 on the all-time list — higher than Duke Snider, Reggie Jackson, or Willie Stargell. Walter Johnson, the greatest pitcher of the era, said: 'I don't believe I ever pitched to a player who took more liberties with my stuff than Jack Fournier. Fournier was the original tough baby for me.' That quote from the Big Train himself is the ultimate contact credential. Rating of 5.",
+    "pow": "27 HR in 1924 — led the NL. He also led the AL in slugging (.491) back in 1915 during the dead-ball era, which is remarkable. SLG .564 in 1924 earns the ≥.500 bonus, bumping him from 2 to 3. 136 career HR. In Brooklyn (1923-25), he hit 71 HR in 3 seasons — elite power for the era. Not quite 30+ HR but the SLG bonus and era context push him to POW 3.",
+    "spd": "13 SB in 1924, 146 career. Fournier was surprisingly fast for a first baseman — he stole 33 bases in the minors in 1911, and his 146 career SB suggest genuine speed in his younger years. By 1924 he was 35 and slowing down, but the residual speed is there. No positional bonus for 1B. Rating of 1.",
+    "def": "CATASTROPHIC. Fournier's defense is his defining flaw. He led NL first basemen in errors multiple times (25 errors in 1914, 21 in 1923). He could not field bunts — and before 1920, with the constant threat of the bunt, this was a critical skill for a 1B. The White Sox replaced him with Chick Gandil in 1917 despite Fournier being the far superior hitter, purely because of defense. Every manager who had him faced 'the Fournier dilemma' — what do you do with a pure hitter who can't field? Rating of 0 (minimum).",
+    "clu": "UNTESTED. Fournier never appeared in a World Series. He played for mediocre teams throughout his career — the mid-teens White Sox (before their championship years), the Cardinals (before their dynasty), the Brooklyn Robins (perennial also-rans). He has zero postseason data. We simply don't know how he'd perform in October. Rating of 0."
+  },
+
+  "personality": {
+    "leadership_style": "The Wandering Slugger. Fournier wasn't a leader in the traditional sense — he was a hired bat, moved from team to team, valued for his offense and tolerated for his defense. He played for 5 teams in 15 years. He threatened to quit rather than be traded to Brooklyn (then relented and had his best years there). His leadership was by example: he hit .345 over three years in Brooklyn and nobody questioned his place in the lineup. He was the guy you built the lineup around and then surrounded with better fielders.",
+    "temperament": "STUBBORN AND PROUD. When traded to Brooklyn, Fournier said he'd quit rather than leave St. Louis — then held out before finally reporting. He was French-Canadian, frequently called 'Jacques' or 'Jules' by the press, and grew up in logging camps. He had a logger's stubbornness and a hitter's confidence. He was not flashy or loud but absolutely certain of his value as a hitter. When replaced by Chick Gandil for defensive reasons, he didn't complain — he just went to the minors, hit .340, and came back to the majors with a different team.",
+    "work_ethic": "SELF-MADE. Fournier grew up in lumber camps — his father was a French-Canadian logger who moved the family wherever the trees were. He played baseball with logging crews before signing professionally. He was released multiple times in the minors before finally breaking through at age 22 with the Moose Jaw Robin Hoods (Class D), where he led the league in BA (.377), runs, hits, doubles, and triples. He reinvented himself in the PCL, then reinvented again when the live ball era began. Every time someone gave up on him, he came back hitting.",
+    "lifestyle": "Lumber camp kid turned ballplayer turned insurance man turned UCLA coach turned scout. Fournier's post-career is as diverse as his playing career: he ran a successful insurance business in St. Louis, coached college baseball at UCLA (1934-36), and scouted for four different MLB teams over 20+ years (Browns, Cubs, Tigers, Reds). He was a partner with teammate Milt Stock in a planned purchase of the Mobile club in the Southern Association. A hustler and entrepreneur who never stopped working.",
+    "era_adaptability": "HIGH. Fournier's profile — pure hitter, bad fielder, 1B — is the modern DH template. His 142 OPS+ and .392 OBP would make him a valuable DH in any era. His defense wouldn't matter with the DH rule. In the 2020s, he'd be Nelson Cruz or J.D. Martinez — a bat-only player who mashes. His career was limited by his era's demand for defensive first basemen; in the modern game, he'd have been a 20-year DH.",
+    "clubhouse_impact": "THE BAT YOU NEED. Fournier wasn't a clubhouse leader or a team-builder. He was the bat in the middle of the lineup that made everything else work. In Brooklyn, alongside Zack Wheat and Milt Stock, he formed one of the NL's most dangerous offensive units. He was the kind of player who made bad teams competitive — Brooklyn was never great with Fournier, but they were always dangerous because of him.",
+    "dark_side": "The Fournier Dilemma. Every manager who had Jack Fournier faced the same impossible question: what do you do with a man who hits .345 but can't catch a baseball? In the pre-DH era, there was no clean answer. He was benched for inferior hitters, traded to make room for better fielders, and sent to the minors despite being one of the best hitters in the league. His career WAR (41.2) suggests a borderline Hall of Famer; his 1,631 hits suggest he wasn't in the lineup enough. The defense cost him hundreds of games, possibly a HOF plaque, and certainly a World Series ring. In ILB: Fournier's DEF 0 is a permanent drag on his OVR. He hits like a 10 but plays defense like a 3."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Jacques",
+      "desc": "French-Canadian heritage. +1 media intrigue. Press calls him 'Jacques' and 'Jules.' Cultural outsider energy."
+    },
+    {
+      "tag": "The Original Tough Baby",
+      "desc": "Walter Johnson's name for him. +1 POW vs elite pitchers. Fournier took liberties with the best stuff in baseball."
+    },
+    {
+      "tag": "The Fournier Dilemma",
+      "desc": "Hits .345 but can't field. Managers must choose: play him and lose defense, or bench him and lose offense. No clean solution."
+    },
+    {
+      "tag": "Lumber Camp Kid",
+      "desc": "Grew up in logging camps. +1 toughness, +1 work ethic. Immune to fatigue from travel or harsh conditions."
+    },
+    {
+      "tag": "The Holdout",
+      "desc": "Threatened to quit rather than be traded. +1 negotiation leverage. But -1 team chemistry during holdouts."
+    },
+    {
+      "tag": "Six for Six",
+      "desc": "Went 6-for-6 on June 29, 1923. In any game, 5% chance of a perfect multi-hit day (4+ hits)."
+    },
+    {
+      "tag": "Error Machine",
+      "desc": "Led NL 1B in errors multiple times. -1 DEF permanently. Any ground ball to 1B has +15% error chance."
+    },
+    {
+      "tag": "October Ghost",
+      "desc": "Never appeared in a World Series. Unknown clutch. In ILB: Fournier has no postseason modifier — his October performance is a complete unknown."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": ".345 over 3 years in Brooklyn. The one place he was always elite.",
+      "note_extra": "Source labeled 'Batter's Box' — mapped to Practice Field per taxonomy."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "Found his home. .351 in 1923, led NL in HR in 1924, 130 RBI in 1925.",
+      "note_extra": "Source labeled 'Ebbets Field / Brooklyn' — mapped to Media/Spotlight as home-franchise/public-face node, consistent with Feller's Cleveland Stadium handling."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "HIGH",
+      "note": "Hit .340 in LA (PCL). The minors were his proving ground and redemption.",
+      "note_extra": "Source labeled 'PCL / Minor Leagues' — mapped to Library/Quiet Spot as exile/proving-ground affinity. Non-standard mapping; flagged."
+    },
+    {
+      "location": "Gambling Hall",
+      "affinity": "MEDIUM",
+      "note": "Successful insurance business in St. Louis post-career. Partner with Milt Stock.",
+      "note_extra": "Source labeled 'Insurance Office / Business' — mapped to Gambling Hall as commerce/financial-transaction node, consistent with Flick's 'Financial Office / Bank' handling. Source affinity was 'MED' — normalized to MEDIUM."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "LOW",
+      "note": "Legendarily terrible. 25 errors in 1914. Could not field bunts. His weakness.",
+      "note_extra": "Source labeled 'First Base (Defensively)' — mapped to Practice Field. Second Practice Field entry; LOW affinity reflects defensive liability at his own position."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "NONE",
+      "note": "Never got there. Zero postseason appearances. The biggest hole in his resume.",
+      "note_extra": "Source labeled 'World Series' (affinity: NONE) — mapped to Practice Field. Third Practice Field entry; consistent with Feller and Ferrell 'Postseason/World Series' NONE handling."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Live ball era — Fournier's power exploded after 1920 when the ball was juiced. He was BUILT for the live ball.",
+      "Brooklyn lineup — surrounded by Wheat, Stock, Taylor, he found his offensive groove (1923-25)",
+      "Second chances — every time he was released or traded, he came back hitting better than before",
+      "Facing elite pitchers — Walter Johnson called him 'the original tough baby.' He elevated against the best."
+    ],
+    "cold_triggers": [
+      "Defensive pressure — any game where bunting is a strategy, Fournier becomes a liability",
+      "Team changes — he played for 5 teams and threatened to quit when traded. Upheaval hurts him.",
+      "Dead ball era — before 1920, his power was suppressed and his defense couldn't compensate",
+      "Postseason pressure — completely untested. Unknown variable."
+    ],
+    "pressure_response": "UNKNOWN. Fournier never appeared in a World Series or any postseason game. He played for mediocre teams throughout his career. We have Walter Johnson's testimony that Fournier was fearless against elite pitching, which suggests he'd perform well under pressure — but there's zero data. In ILB: Fournier's pressure response is a dice roll. He might be a postseason hero; he might collapse. You draft him knowing you're gambling on October."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Original Tough Baby",
+      "type": "Game Action",
+      "text": "Your first baseman faces the greatest pitcher in baseball. The pitcher — who owns everyone — later admits: 'I don't believe I ever pitched to a player who took more liberties with my stuff.' Your hitter gets +2 POW against any pitcher rated STF 4 or higher. The elite bring out his best.",
+      "origin": "Walter Johnson, in the 1924 Reach Guide, singled out Fournier as the hitter who gave him the most trouble. Johnson struck out 3,509 batters; Fournier was the one who scared him."
+    },
+    {
+      "title": "The Fournier Dilemma",
+      "type": "Drama",
+      "text": "Your first baseman hits .345 but commits 21 errors. Every manager who has him faces the same question: play the bat and lose the glove, or bench the bat and save the glove? If you play him: +3 offense, -2 defense. If you bench him: +2 defense, -3 offense. There is no right answer.",
+      "origin": "Fournier presented this exact dilemma to 'Pants Rowland and a half-dozen other managers.' The White Sox replaced him with Chick Gandil in 1917 purely for defense. Brooklyn accepted the errors and got .345."
+    },
+    {
+      "title": "Six for Six",
+      "type": "Game Action",
+      "text": "Your hitter goes 6-for-6 in a single game. A perfect day at the plate. +3 momentum, +1 batting average for the week.",
+      "origin": "June 29, 1923. Fournier went 6-for-6 for the Brooklyn Robins. The same year he hit .351 — and committed 21 errors at first base."
+    },
+    {
+      "title": "The Holdout",
+      "type": "Drama",
+      "text": "Your star hitter is traded and refuses to report. He says he'll quit baseball rather than leave. The press speculates. The new team waits. Eventually he shows up — and has the best three years of his career. But the holdout cost team chemistry points at the start of the season.",
+      "origin": "When traded from St. Louis to Brooklyn in February 1923, Fournier said he'd quit. He eventually reported and hit .351/.430/.588 in his first year with the Robins — the start of his peak."
+    },
+    {
+      "title": "The Coach and the Scout",
+      "type": "Action",
+      "text": "Your retired slugger becomes a college baseball coach, then a professional scout. He coaches UCLA for three years and scouts for four different MLB teams over two decades. The man who couldn't field teaches the next generation the one thing he could do: hit.",
+      "origin": "Fournier coached UCLA baseball (1934-36), then scouted for the Browns (1938-49), Cubs (1950-57), Tigers (1960), and Reds (1961-62). A 30+ year post-playing career in baseball."
+    },
+    {
+      "title": "The DH Who Was Born 50 Years Too Early",
+      "type": "Drama",
+      "text": "Your first baseman's career is limited by his era's demand for defensive skill at every position. If the DH rule existed, he'd have played 500 more games and hit 200+ home runs. Instead, he's benched for inferior hitters, traded for better fielders, and sent to the minors despite being one of the best bats in baseball. The cruelest timing in roster construction.",
+      "origin": "Fournier's 142 career OPS+ and .392 OBP in only 1,530 games (15 seasons) suggest he was severely underutilized. The DH rule wasn't adopted until 1973 — the year Fournier died."
+    },
+    {
+      "title": "Replaced by a Black Sox Fixer",
+      "type": "Drama",
+      "text": "Your franchise replaces your first baseman — one of the best hitters in the league — with a better fielder who turns out to be corrupt. The replacement is banned from baseball for life. Your original player outlasts everyone.",
+      "origin": "The White Sox replaced Fournier with Chick Gandil in 1917 for defensive reasons. Gandil was one of the ringleaders of the 1919 Black Sox scandal and was banned for life. Fournier kept playing until 1927."
+    },
+    {
+      "title": "Lumber Camp to Big Leagues",
+      "type": "Action",
+      "text": "A kid grows up in logging camps, following his French-Canadian father from timber stand to timber stand. He plays baseball with loggers. He gets released multiple times in the minors. He leads the Western Canada League in everything at age 22 for the Moose Jaw Robin Hoods. He makes the majors. +2 toughness, +1 resilience.",
+      "origin": "Fournier's father was a French-Canadian logger who moved the family wherever the trees were — Au Sable (Michigan), then the Pacific Northwest. Jack played baseball in lumber camps before going pro, was released multiple times, and finally broke through with Moose Jaw (Class D) in 1911."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Rugged, handsome in a French-Canadian lumberjack way. 6'0\" 195 lbs — powerful build, big forearms from swinging lumber and bats. Age 35 in 1924 but looks younger — lined, outdoor face weathered by logging camps and ballparks. Dark hair, strong jaw. A left-handed hitter's confident stance. The face carries both confidence and a chip on the shoulder — the look of a man who's been told he can't field and doesn't care because he can hit.",
+    "attire": "Brooklyn Robins 1924 home whites. At the plate, left-handed batting stance, coiled and ready. The bat is the weapon — that's the whole card. Or perhaps at first base, reaching awkwardly for a wide throw, the contrast between his beautiful swing and his ugly defense captured in one image.",
+    "mood": "Defiant confidence. Fournier knew he could hit. He didn't apologize for his defense. The mood should be: 'I'm going to hit .345 and you're going to deal with the errors.' There's a swagger to him — the lumber camp kid who terrorized Walter Johnson. But underneath the confidence, there's the frustration of never making a World Series, never getting the full respect his bat deserved.",
+    "style": "Warm sepia with deep forest greens suggested in the background — echoing the logging camps of his youth. Ebbets Field's quirky facade behind him. The card should feel raw and untamed, like the player — beautiful offense, rough edges everywhere else. More elemental than the polished Bashers cards.",
+    "reference": "Think of a Paul Bunyan portrait crossed with a baseball card. Fournier is the mythical slugger from the timber country — the man with the ax and the bat. The card should feel like it was carved from wood, not printed on cardboard."
+  }
+}

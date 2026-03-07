@@ -1,0 +1,220 @@
+{
+  "card_type": "player",
+  "name": "Happy Felsch",
+  "nickname": "Hap",
+  "year": 1920,
+  "team": "Chicago White Sox",
+  "era": "1910s",
+  "ilb_team": "Muggers 1910",
+  "position": "CF",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'11\"",
+  "weight": "170 lbs",
+  "born": "August 22, 1891 — Milwaukee, WI",
+  "died": "August 17, 1964 — Milwaukee, WI (age 72)",
+  "hof": "BANNED FOR LIFE (reinstated posthumously May 13, 2025). .293 career BA. 825 H. 38 HR. 443 RBI. 88 SB. 14 OF double plays in 1919 (still tied all-time record). 1917 WS champion. 1919 WS: .192 BA — misplayed flyballs, took $5,000. GUILTY. 'The joke seems to be on us.'",
+
+  "real_stats": {
+    "season": 1920,
+    "games": 142,
+    "at_bats": 556,
+    "hits": 188,
+    "doubles": 40,
+    "triples": 15,
+    "home_runs": 14,
+    "rbi": 115,
+    "runs": 88,
+    "stolen_bases": 8,
+    "batting_avg": ".338",
+    "obp": "~.378",
+    "slg": "~.540",
+    "ops_plus": "~137",
+    "war": "~5.5",
+    "career_avg": ".293",
+    "career_hits": 825,
+    "career_hr": 38,
+    "career_rbi": 443,
+    "career_sb": 88,
+    "career_3b": 64,
+    "career_games": 749,
+    "career_seasons": 6,
+    "season_1917": ".308 BA, 102 RBI (1st Sox player to 100), 6 HR, 26 SB, WS champ",
+    "season_1919": ".275 BA, 7 HR, 34 2B, led AL OF assists (32), 14 OF DP (all-time record)",
+    "ws_1917": ".273 BA, HR in G1 (winning run), 3 RBI, 4 R — champion",
+    "ws_1919": ".192 BA, 1 XBH, misplayed flyballs — THREW GAMES",
+    "of_dp_record": "14 OF double plays in 1919 (still tied for all-time single-season record)",
+    "of_assists_game": "4 assists in one game (tied ML record)",
+    "bribe": "$5,000 received from gamblers",
+    "reinstated": "May 13, 2025 — posthumously by Commissioner Rob Manfred"
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 5,
+    "pow": 2,
+    "spd": 2,
+    "def": 2,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": ".338 BA in 1920 → tier 5 (.330+). OPS+ estimated ~137 → ≥130 bonus threshold met, but already at cap. Career .293 BA in 6 seasons. Hit .300+ three times (.300 in 1916, .308 in 1917, .338 in 1920). 825 career hits in only 749 games. The trajectory was ascending: .248 → .300 → .308 → military → .275 → .338. He was becoming an elite hitter when the ban ended everything. Rating: 5.",
+    "pow": "14 HR in 1920 → tier 1 (10-19). SLG ~.540 in 1920 → ≥.500 bonus → +1 = 2. 38 career HR in 6 seasons — more than any other White Sox player hit in the 1910s (24 in the decade). 40 2B and 15 3B in 1920 show plus extra-base power. In the dead-ball/transition era, this was genuine pop. Rating: 2.",
+    "spd": "26 SB in 1917 (peak) → tier 2 (16-30). 88 career SB in 6 seasons (~15 per year average). 64 career triples — substantial speed. Range to play CF effectively in the dead-ball era's cavernous outfields. Good speed, not elite. Rating: 2.",
+    "def": "Very good CF, not quite elite. Led AL in OF putouts and assists in 1919. 32 outfield assists in 1919 — a rifle arm. 14 outfield double plays in 1919 — still tied for the all-time single-season record more than a century later. 4 assists in one game — tied ML record. 'Superb centerfielder with exceptional range and a rifle arm.' .975 career fielding %. But Tris Speaker (DEF 3) was the standard for CF defense in this era, and Felsch, while very good, was a clear tier below Speaker. Rating: 2.",
+    "clu": "ZERO. This is the most damning rating on the card. 1917 WS: .273 BA, HR in Game 1 (winning run), 3 RBI — legitimate championship contribution. BUT: 1919 WS — .192 BA, 1 extra-base hit (a double) in 8 games, misplayed flyballs in key situations. SABR: 'There was little doubt of Felsch's guilt on the field, as he not only hit poorly, but also misplayed flyballs in key situations.' He received $5,000 from gamblers. He admitted his role. Unlike Jackson (.375 WS BA) or Weaver (.324/1.000 fielding), Felsch's ON-FIELD PERFORMANCE was compromised. The guilt is not merely associative — it is statistical and visible. Rating: 0."
+  },
+
+  "personality": {
+    "leadership_style": "THE FOLLOWER. Felsch was not a leader — he was a follower who fell in with the wrong crowd. He fraternized with the Risberg/Gandil clique rather than the Schalk/Collins faction. He was reluctant to join the fix at first but went along because of the money and the peer pressure. In ILB terms: Felsch is the roster's vulnerability — a talented player who can be corrupted by proximity to bad influences.",
+    "temperament": "'Born with a smile,' according to his father. Happy Felsch earned his nickname in childhood — a smiling, easy-going, jovial man who loved silly riddles, whiskey, ribald jokes, and playing baseball. The warmth was genuine. The happiness was not an act. But the smile obscured a lack of education (6th grade), a susceptibility to peer pressure, and a fatal inability to say no when the money was offered.",
+    "work_ethic": "NATURAL AND DEVELOPING. Felsch improved steadily: .248 → .300 → .308 → .275 → .338. He was a gifted athlete who worked at his craft. The 1920 season (.338/14 HR/115 RBI at age 28) suggests he was entering his prime when the ban destroyed everything. The work was there; the character wasn't strong enough to protect it.",
+    "lifestyle": "MILWAUKEE SALOON CULTURE. Born in Milwaukee to German immigrant parents. Sixth-grade education. After the ban: semi-pro baseball in Montana, Saskatchewan, Manitoba — the outlaw circuit, far from anyone who might recognize or report him. Then: grocery stores and taverns in Milwaukee. A crane operator. 'The bar in Milwaukee was known as a hang-out for amateur ballplayers and other fans of the game.' He became one of Eliot Asinof's best sources for Eight Men Out. Died of a liver ailment at 72.",
+    "era_adaptability": "STRONG. Felsch was a five-tool center fielder in 1920 — .338 BA, 14 HR, 15 3B, elite defense. His power was emerging as the lively ball era began. Had he played through the 1920s, his numbers would have been excellent — a .300+ hitter with 15-20 HR and Gold Glove defense at a premium position. He might have been a Hall of Famer. Instead: 6 seasons, a ban, and taverns.",
+    "clubhouse_impact": "THE WEAK LINK. Felsch was the roster's Achilles heel — a good man who couldn't resist bad influences. He brought warmth and humor to the clubhouse (+1 morale from the smile and the riddles) but also brought vulnerability (-2 corruption resistance). His friendship with Risberg and Gandil created the pathway for the fix. In ILB terms: Felsch increases team morale but decreases team integrity.",
+    "dark_side": "The guilt is real. Unlike Jackson (who hit .375) or Weaver (who hit .324 with 1.000 fielding), Felsch actually played poorly in the fixed Series. .192 BA. Misplayed flyballs. He took $5,000 — more than his entire regular-season salary. He admitted his role: 'Well, the beans are spilled and I think I'm through with baseball.' He was reluctant at first but went along. The $5,000 bought him a lifetime exile. He said later that 'he saw nothing left in life for him.' The happy man's happiness was the first casualty."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Born with a Smile",
+      "desc": "Felsch's natural warmth and humor boost team morale. +1 team morale. The smile is genuine. But: it masks a susceptibility to bad influences."
+    },
+    {
+      "tag": "The Scandal (Felsch)",
+      "desc": "GUILTY. After any WS appearance, 40% chance Felsch is banned for life — HIGHER than Jackson (30%) or Weaver (30%) because Felsch actually threw games on the field. The risk is real and the guilt is proven."
+    },
+    {
+      "tag": "The Rifle Arm",
+      "desc": "32 OF assists in 1919. 4 in one game. 14 OF double plays (all-time record). Runners hold on fly balls. +1 DEF inherent from the arm. Base runners who tag up face -1 SPD penalty."
+    },
+    {
+      "tag": "The Wrong Crowd",
+      "desc": "Felsch aligns with the Risberg/Gandil clique, not the Schalk/Collins faction. When both factions are on the roster, -1 team chemistry. Felsch amplifies the division."
+    },
+    {
+      "tag": "Five Thousand Dollars",
+      "desc": "The bribe amount. More than his regular-season salary. When Felsch is offered money or incentives, 30% chance he takes the wrong path. The susceptibility is permanent."
+    },
+    {
+      "tag": "The Ascending Line (Felsch)",
+      "desc": ".248 → .300 → .308 → .275 → .338. Felsch was improving every healthy year. +0.01 CON per season played (cumulative). He was becoming a star. The ban killed the trajectory."
+    },
+    {
+      "tag": "Riddles and Whiskey",
+      "desc": "Felsch loved silly riddles, whiskey, and ribald jokes. +1 clubhouse entertainment. But: -1 discipline. The lifestyle fed the vulnerability."
+    },
+    {
+      "tag": "Reinstated (2025)",
+      "desc": "Posthumously reinstated by Commissioner Manfred on May 13, 2025. The ban lasted 105 years. +1 historical justice. The smile returns, a century too late."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Superb CF with exceptional range and a rifle arm. Led AL in OF putouts, assists, and DP.",
+      "note_extra": "Source labeled 'Center Field' — mapped to Practice Field per taxonomy."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": ".338 in 1920. .308 in 1917. First Sox player to drive in 100. Rising power.",
+      "note_extra": "Source labeled 'Batter's Box (RH)' — mapped to Practice Field per taxonomy. Second HIGH Practice Field entry on this card."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "1915-20. Six seasons. WS champ 1917. The only ballpark he ever knew in the majors.",
+      "note_extra": "Source labeled 'Comiskey Park / Chicago' — mapped to Community Events as home-city/franchise affinity."
+    },
+    {
+      "location": "Bar/Nightlife",
+      "affinity": "MEDIUM",
+      "note": "Born and died in Milwaukee. Ran taverns after the ban. The bar was a hangout for ballplayers."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "DAMNED",
+      "note": "1917: .273, HR (winning run). 1919: .192, misplayed flyballs. GUILTY. The stage of his glory and his damnation.",
+      "note_extra": "Source labeled 'The World Series' (affinity: DAMNED) — mapped to Practice Field; DAMNED preserved exactly. First DAMNED affinity in the set. New tier below NONE — full affinity ladder is now: HIGH → MEDIUM → LOW → NONE → DAMNED."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Regular season — Felsch was excellent in regular-season play; his trajectory was ascending every year",
+      "Center field defense — the rifle arm and range activated; runners hold, balls are caught, double plays turned",
+      "Good company — when surrounded by positive influences (Schalk, Collins), Felsch performs at his peak",
+      "Power surge — the 1920 season showed emerging power (14 HR, 40 2B); in the lively ball era, Felsch was becoming dangerous"
+    ],
+    "cold_triggers": [
+      "The fix — when exposed to corruption or gambling, Felsch's performance degrades catastrophically",
+      "World Series pressure (scandal) — the 1919 WS line (.192) is the worst of any Black Sox star",
+      "Bad company — when surrounded by the Risberg/Gandil clique, -1 to integrity and +1 to corruption risk",
+      "Post-ban despair — 'he saw nothing left in life for him'; after exile, all stats degrade permanently"
+    ],
+    "pressure_response": "BIFURCATED. The 1917 WS: .273 with a Game 1 HR that won the game. Legitimate championship performance. The 1919 WS: .192 with misplayed flyballs. The difference is the $5,000. When Felsch is playing clean, his pressure response is solid — he hit the winning HR in the 1917 WS opener. When he's compromised, the performance collapses. In ILB: Felsch's CLU is 0 because you can never be sure which version shows up in October."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Winning Homer",
+      "type": "Game Action",
+      "text": "Game 1 of the World Series. Your center fielder steps to the plate and drives the ball out of the park. It is the winning run. The White Sox are champions. The smile on his face is real. This is the moment before the fall. +2 CLU. +2 POW. +1 joy. The last clean October.",
+      "origin": "1917 WS Game 1: Felsch's HR off Slim Sallee was the winning run in a 2-1 victory. The White Sox won the Series 4-2."
+    },
+    {
+      "title": "Fourteen Double Plays",
+      "type": "Game Action",
+      "text": "Your center fielder turns his 14th outfield double play of the season. It is a record that will still be tied — never broken — more than a century later. The arm is a rifle. The instincts are supernatural. +3 DEF. +2 all-time record. The arm that threw out runners by the dozen.",
+      "origin": "1919: Felsch turned 14 outfield double plays, still tied for the all-time single-season record."
+    },
+    {
+      "title": "Five Thousand Dollars",
+      "type": "Drama",
+      "text": "A gambler offers your center fielder $5,000 to lose the World Series. It is more than his entire regular-season salary. He is reluctant. He doesn't want to do it. But the money — and his friends are all in. He takes it. He bats .192. He misplays flyballs. He loses his career, his livelihood, his name. 'The joke seems to be on us.' -5 career. -3 CLU. -∞ innocence. The price of $5,000.",
+      "origin": "Felsch received $5,000 from gamblers to throw the 1919 WS. He was reluctant but went along. He hit .192 and misplayed flyballs."
+    },
+    {
+      "title": "The Beans Are Spilled",
+      "type": "Drama",
+      "text": "'Well, the beans are spilled and I think I'm through with baseball. I got $5,000. I could have got just about that much by being on the level if the Sox had won the Series. And now I'm out of baseball — the only profession I know anything about, and a lot of gamblers have gotten rich. The joke seems to be on us.' +3 honesty. -5 career. The confession that changed nothing.",
+      "origin": "Felsch's statement to the Chicago American after the scandal broke. One of the most honest and devastating quotes in baseball history."
+    },
+    {
+      "title": "Three-Thirty-Eight at Twenty-Eight",
+      "type": "Game Action",
+      "text": "Your center fielder is 28 years old. He is having the best season of his career. .338 BA. 14 home runs. 115 RBI. 40 doubles. 15 triples. He is becoming a star. Then: the ban. He will never play another major league game. +3 CON. +2 POW. -∞ future. The peak that was also the end.",
+      "origin": "1920: Felsch hit .338/14 HR/115 RBI — by far his best season — then was banned for life."
+    },
+    {
+      "title": "The Scobey, Montana Outlaws",
+      "type": "Drama",
+      "text": "Your banned center fielder surfaces in Scobey, Montana — population 1,200 — playing semi-pro baseball under the commissioner's radar. He plays in Saskatchewan. Manitoba. Plentywood. Small towns where nobody will report him. The smile is still there. The riddles are still funny. But the stages keep getting smaller. -3 recognition. +1 stubborn joy. The game survives in exile.",
+      "origin": "After the ban, Felsch played semi-pro in Scobey, Montana (1925-26), Regina, Saskatchewan (1927), and other remote locations."
+    },
+    {
+      "title": "Born with a Smile",
+      "type": "Drama",
+      "text": "'Born with a smile,' his father said. Your center fielder smiles through everything — through the sandlots, through the World Series, through the ban, through the taverns. The smile is not a mask. It is the man. Even the guilt cannot erase it. Even the exile. Even the liver ailment at 72. +2 morale. +1 humanity. The smile outlasts the career.",
+      "origin": "Felsch's father said he was 'born with a smile.' He earned the nickname 'Happy' as a child."
+    },
+    {
+      "title": "One Hundred Five Years",
+      "type": "Drama",
+      "text": "Your center fielder is banned for life. He dies in 1964. Sixty-one years later — May 13, 2025 — Commissioner Manfred reinstates him and the other deceased ineligible players. The ban lasted 105 years. The smile lasted 72. The justice came 61 years too late. +1 posthumous redemption.",
+      "origin": "Felsch was posthumously reinstated by Commissioner Rob Manfred on May 13, 2025, along with other deceased players on the ineligible list."
+    }
+  ],
+
+  "art_direction": {
+    "face": "SMILING, ROUND, WARM, DOOMED. 5'11\" 170 lbs — athletic but not imposing. The face should be ROUND and FRIENDLY — the 'ever-smiling' face of a happy kid from Milwaukee. German-American features, working-class, the son of immigrants. Big smile, bright eyes, the look of a man who loved riddles and whiskey and baseball in roughly equal measure. Not sharp or intellectual — WARM and SIMPLE. The happiness should be GENUINE, not forced. But: somewhere in the eyes, a flicker of the man who said 'he saw nothing left in life for him.' The smile covers a vulnerability that will be exploited.",
+    "attire": "Chicago White Sox uniform circa 1920 — white wool jersey with 'SOX' or 'CHICAGO' across the chest, flat cap. THE POSE: the throw from center field — Felsch's rifle arm cocked and releasing, the ball rocketing toward the infield, a runner caught between bases. The 32-assist, 14-double-play season made visual. Or: the swing — right-handed, compact, the .338 swing that produced 40 doubles and 14 home runs. Or: standing in center field, the vast outfield stretching behind him, the smile on his face, the last season before the fall.",
+    "mood": "WARM AND TARNISHED. Felsch's card should feel like a BEER GLASS IN A MILWAUKEE TAVERN — warm amber, slightly cloudy, friendly, but with a sediment of sadness at the bottom. Where Jackson's card is sunset gold (beauty fading) and Weaver's is ivory-to-ash (light interrupted), Felsch is AMBER GONE CLOUDY — the warmth of a good man who made a bad choice, seen through the haze of a century of consequences.",
+    "style": "Sepia-toned with WARM AMBER and BEER-FOAM undertones — the gold of Milwaukee lager, the warmth of a tavern, the friendly glow of a man who was born smiling. But the amber is SLIGHTLY CLOUDED — not pure like Collins's intellectual amber, but hazier, more human, more flawed. The Felsch palette is CLOUDED AMBER — warm, inviting, and not quite clear.",
+    "reference": "Think the smile — Felsch in center field, grinning, the rifle arm ready, the .338 season in full bloom. Then: the same man in a Montana semi-pro uniform, playing for Scobey's 1,200 residents. Then: the tavern in Milwaukee, the old ballplayer telling stories to amateurs. The card should capture the WARMTH and the WASTE — the talent that was real and the character flaw that was fatal. Charlie Sheen played him in Eight Men Out (1988)."
+  }
+}

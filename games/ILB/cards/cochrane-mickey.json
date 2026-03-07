@@ -1,0 +1,224 @@
+{
+  "name": "Mickey Cochrane",
+  "nickname": "Black Mike",
+  "year": 1930,
+  "team": "Philadelphia Athletics",
+  "era": "1920s",
+  "ilb_team": "Bashers AL1920",
+  "position": "C",
+  "bats": "L",
+  "throws": "R",
+  "height": "5'10\"",
+  "weight": "180 lbs",
+  "born": "April 6, 1903 — Bridgewater, Massachusetts",
+  "died": "June 28, 1962 — Lake Forest, Illinois (age 59)",
+  "hof": "Inducted 1947. .320 career BA and .419 career OBP — both highest ever for a catcher. 2× AL MVP (1928, 1934). 5 pennants, 3 WS titles. Bill James ranked him 4th greatest catcher all-time. Lefty Grove: 'Greatest catcher of them all.' First catcher to win MVP. Only catcher with two career cycles.",
+
+  "real_stats": {
+    "season": 1930,
+    "games": 130,
+    "at_bats": 487,
+    "hits": 174,
+    "doubles": 42,
+    "triples": 5,
+    "home_runs": 10,
+    "rbi": 85,
+    "stolen_bases": 5,
+    "batting_avg": ".357",
+    "obp": ".432",
+    "slg": ".511",
+    "ops": ".943",
+    "runs_scored": 110,
+    "walks": 55,
+    "strikeouts": 16,
+    "war": 6.5,
+    "career_avg": ".320",
+    "career_hits": 1652,
+    "career_hr": 119,
+    "career_rbi": 830,
+    "career_runs": 1041,
+    "career_obp": ".419",
+    "career_slg": ".478",
+    "career_ops": ".897",
+    "career_war": 51.3,
+    "pennants": 5,
+    "ws_titles": 3,
+    "mvp_awards": 2
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "con": 5,
+    "pow": 2,
+    "spd": 1,
+    "def": 2,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": ".357 in 1930. .349 in 1931. .331 as a 22-year-old rookie. Career .320 — the highest career batting average for any catcher in baseball history. Career .419 OBP — also the highest ever for a catcher. 1,652 career hits in just 13 seasons (career shortened by beaning). Only catcher to hit for the cycle twice (1932, 1933). First catcher with 100+ runs AND 100+ RBI in the same season (1932). He struck out only 16 times in 487 AB in 1930. At the plate, Cochrane was not just good for a catcher — he was one of the best hitters in baseball, period. Rating of 5 — MAXIMUM.",
+    "pow": "10 HR in 1930. Career high 23 HR (1932). Career 119 HR. .511 SLG in 1930, .478 career. The power was respectable for a catcher but modest by era standards. He hit 42 doubles in 1930 — gap power more than fence-clearing power. He wasn't Ruth or Gehrig or even Foxx (his own teammate). His value was contact and OBP, not launch angle. SLG bonus pushes from tier 1 to tier 2. Rating of 2.",
+    "spd": "5 SB in 1930. Not a prolific base-stealer by the numbers. But Connie Mack sometimes batted him leadoff, which tells you everything about his speed for a catcher. He was a five-sport athlete at Boston University — football halfback, basketball player, boxer, track athlete. He held BU's 53-yard field goal record for over 60 years. The athleticism was real. For a catcher, SPD 1 is excellent. Rating of 1.",
+    "def": "Led AL catchers 6× in putouts, 2× in assists, double plays, and fielding percentage. Caught 110+ games for 11 straight seasons. Pioneered one-hand catching style. Lefty Grove on Cochrane: 'Hardly ever shook him off. I'd look up and there'd be Mickey's signal, just what I was thinking. Like he was reading my mind.' Assisted two pitchers to 16-game winning streaks (AL record). His game management was considered the best in baseball. The asterisk: 1931 WS, Pepper Martin stole 8 bases. Cochrane was unfairly blamed — the pitchers were careless — but the perception stuck. DEF = 2.",
+    "clu": "5 pennants (A's 1929-31, Tigers 1934-35). 3 WS titles (1929, 1930, 1935). .293 career WS BA. The 1929 WS: A's trailed 8-0 in Game 4 and scored 10 runs in the 7th inning — the greatest comeback in WS history at that time. The 1935 WS: Detroit's first championship ever, led by player-manager Cochrane. But the shadows: blamed for the 1931 WS loss (Pepper Martin's SB rampage). Hospitalized after Game 6 of the 1934 WS when the Cardinals rallied — Cochrane's 'Black Mike' darkness consumed him. His October is brilliant but cracked. Rating of 2."
+  },
+
+  "personality": {
+    "leadership_style": "COMBUSTIBLE BRILLIANCE. Cochrane was the rarest kind of leader — one whose fury, properly channeled, elevated everyone around him, and whose fury, improperly channeled, consumed himself. He could ignite a comeback with obscenities in the dugout. He could read a pitcher's mind through a mask. His childhood dream was to be a manager, and he achieved it at 31 as player-manager of the Tigers. 'He showed us how to win,' said Hank Greenberg. Connie Mack: 'Mickey was the most important reason for our success... Mickey had a way of encouraging his teammates and soothing tensions.' He led five pennant winners in seven years during the Ruth/Gehrig Yankees era.",
+    "temperament": "Volcanic. The nickname 'Black Mike' referred to his dark moods and explosive anger. He was fiercely competitive — too fiercely. He couldn't handle failure. After the 1931 WS loss, he internalized the blame for Pepper Martin's stolen bases and it ate at him for years. After Game 6 of the 1934 WS, when the Cardinals rallied, he was hospitalized. In 1936, given the dual role of GM and manager, he suffered a nervous breakdown. The fire that made him great also burned him from the inside.",
+    "work_ethic": "RELENTLESS. Five-sport athlete at Boston University — he was captain of the football team and held the school's field goal record for six decades. He chose baseball over football and basketball only because there was no established pro football league. He didn't even LIKE catching — he preferred the outfield — but the only roster spot available was behind the plate. He learned to catch from Cy Perkins and became the best in baseball at a position he didn't originally want.",
+    "lifestyle": "Complex and ultimately tragic. Cochrane lost money in bank failures during the Depression. He was hospitalized multiple times for emotional breakdowns. His playing career ended at 34 when a Bump Hadley fastball fractured his skull — he was unconscious for 10 days. He lost his only son Gordon in WWII on the boy's first day of combat. 'Mickey was never the same after Gordon's death,' said teammate Elden Auker. After baseball, he ran a dude ranch in Wyoming, worked for a trucking company, and died of a respiratory ailment at 59.",
+    "era_adaptability": "EXCEPTIONAL. Cochrane's .320/.419 line behind the plate would be elite in any era. Modern advanced metrics love catchers who can hit — Cochrane was the prototype. His pitch-calling and game management would translate perfectly. With modern equipment (the batting helmet he never had), his career lasts another 5-7 years. He is the template for the modern offensive catcher — Piazza, Mauer, and every catcher who hits .300 owes a debt to Black Mike.",
+    "clubhouse_impact": "TRANSFORMATIVE. Never played on a team that finished lower than third. Led 5 pennant winners. The A's were good before Cochrane — they became champions with him. The Tigers were mediocre — he made them champions immediately. His impact was quantifiable: teams he joined won. Teams he left declined. In ILB: Cochrane provides +2 to team discipline and +1 to all pitchers' stats — his pitch-calling elevates everyone.",
+    "dark_side": "The darkness that gave him his name. 'Black Mike' wasn't just competitive fire — it was something closer to a compulsion, a need to win so intense that losing destroyed him physically and psychologically. The 1931 WS haunted him. The 1934 WS hospitalized him. The 1936 GM role broke him. The beaning ended his career. His son's death broke him permanently. Cochrane was a man who burned at temperatures that couldn't be sustained. He was 59 when he died — a man who was old at 40, broken at 50, and gone before he should have been. In ILB: 'Black Mike's Darkness' — after every postseason loss, Cochrane suffers -2 to all stats for the following month. After two consecutive postseason failures, he is at risk of nervous breakdown — a d6 roll where 1-2 means he misses the next month entirely. The fire gives, and the fire takes."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Black Mike",
+      "desc": "The fierce competitive fire. +2 to all teammates' stats in elimination games. But: after every postseason loss, Cochrane suffers -2 to all stats for 1 month. The fire gives and takes."
+    },
+    {
+      "tag": "The Catcher's Mind",
+      "desc": "Lefty Grove: 'Like he was reading my mind.' +1 to all pitchers' stats when Cochrane catches. He calls the game better than anyone in ILB."
+    },
+    {
+      "tag": "Five-Sport Athlete",
+      "desc": "Football, basketball, boxing, track, baseball at Boston University. +1 to athleticism in all non-baseball challenges (baserunning decisions, collision plays, throwing). The most athletic catcher in ILB."
+    },
+    {
+      "tag": "Pepper Martin's Ghost",
+      "desc": "1931 WS: 8 stolen bases against Cochrane's battery. Unfair blame. In ILB, opponent base-stealers get +1 vs Cochrane in the World Series — the ghost lingers."
+    },
+    {
+      "tag": "The Skull Fracture",
+      "desc": "MANDATORY EVENT. At a random point after age 30, d20 roll each season. On a 1: Cochrane is hit by a pitch — skull fracture, career over. Immediate retirement. No return. 'The X-rays looked like a road map.'"
+    },
+    {
+      "tag": "Player-Manager",
+      "desc": "Cochrane can manage AND play simultaneously. +1 to team strategy when he is in the lineup. But: dual role adds stress — if combined with GM duties, trigger nervous breakdown risk."
+    },
+    {
+      "tag": "The Comeback Man",
+      "desc": "1929 WS Game 4: A's trailed 8-0, scored 10 in the 7th — greatest WS comeback to that point. When trailing by 5+ runs, Cochrane's team gets +2 to all stats for one inning."
+    },
+    {
+      "tag": "Gordon's Loss",
+      "desc": "Cochrane lost his only son in WWII, first day of combat. If triggered: permanent -1 to all stats. 'Mickey was never the same.' The cruelest non-baseball event in ILB."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Behind the Plate",
+      "affinity": "MAXIMUM",
+      "note": "1,482 games caught. 110+ per season for 11 straight years. He didn't want to be a catcher. He became the best who ever did it."
+    },
+    {
+      "location": "Shibe Park, Philadelphia",
+      "affinity": "HIGH",
+      "note": "9 seasons with the A's. 3 consecutive pennants. 2 WS titles. Connie Mack's field general."
+    },
+    {
+      "location": "Navin Field, Detroit",
+      "affinity": "HIGH",
+      "note": "Player-manager. 2 pennants. Detroit's first WS title (1935). Made champions from nothing."
+    },
+    {
+      "location": "Dugout (Managing)",
+      "affinity": "HIGH",
+      "note": "Childhood dream achieved. 348-250 record (.582). Led from the bench and from behind the plate simultaneously."
+    },
+    {
+      "location": "Batter's Box (Leadoff)",
+      "affinity": "MODERATE",
+      "note": "Mack sometimes batted him leadoff — fast for a catcher, elite OBP. .419 career OBP from the backstop position."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Pennant races — Cochrane led 5 pennant winners in 7 years. When the race was tight, he elevated everyone.",
+      "Working with great pitchers — Lefty Grove, Schoolboy Rowe. He made good pitchers great. His mind synchronized with theirs.",
+      "The comeback — down 8-0 in the 1929 WS Game 4 and won. Cochrane didn't know how to quit.",
+      "First year with new team — 1925 A's (.331 BA rookie), 1934 Tigers (MVP, pennant). Fresh starts energized him."
+    ],
+    "cold_triggers": [
+      "Postseason failure — 1931 WS, 1934 WS. Losses consumed him. Hospitalization followed.",
+      "Blame — the Pepper Martin narrative. When blamed unfairly, Cochrane internalized rather than deflected.",
+      "Administrative burden — GM + manager in 1936. Too much. Nervous breakdown.",
+      "Late career — by 1937, the accumulation of physical and emotional damage was overwhelming. The beaning was the end, but he was already fraying."
+    ],
+    "pressure_response": "SPLIT. Cochrane under pressure was two people. In the moment — during the game, during the rally, during the comeback — he was the best leader in baseball. He ignited the 10-run inning. He called the perfect game. He drove in the winning run. But AFTER the moment — after the loss, after the failure — he was consumed. The 1931 WS broke him for months. The 1934 WS put him in a hospital. In ILB, Cochrane has +2 to all stats DURING pressure situations and -2 to all stats in the AFTERMATH of failure. He is both the best and worst pressure player in the game, depending on when you measure."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Black Mike",
+      "type": "Game Action",
+      "text": "Your catcher is losing. The team has given up. He begins screaming obscenities in the dugout. Players who were slumped on the bench straighten. The next batter gets a hit. Then another. Then another. Your catcher gets a base hit of his own. You win the game. His fury is contagious. His fury is also the thing that will destroy him. But not today.",
+      "origin": "The 'Black Mike' nickname and the dugout tirade that sparked an A's comeback. Cochrane's competitive fire was legendary — and ultimately self-destructive."
+    },
+    {
+      "title": "Reading Minds",
+      "type": "Game Action",
+      "text": "Your ace pitcher looks in for the sign. Before he's even decided what to throw, your catcher has already put down the finger. It's the right pitch. It's always the right pitch. 'Hardly ever shook him off,' the pitcher says later. 'I'd look up and there'd be Mickey's signal, just what I was thinking. Like he was reading my mind.'",
+      "origin": "Lefty Grove on Cochrane's pitch-calling. Grove said he shook off Cochrane only 5-6 times in their entire career together. Cochrane helped two pitchers achieve 16-game winning streaks."
+    },
+    {
+      "title": "The Ten-Run Inning",
+      "type": "Game Action",
+      "text": "Game 4 of the 1929 World Series. Your team trails the Cubs 8-0. It's over. Then it's not. In the bottom of the seventh inning, your team scores ten runs. Ten. The greatest comeback in World Series history. Your catcher is behind all of it — calling the game, getting on base, keeping everyone alive. You win 10-8. The Cubs never recover.",
+      "origin": "1929 WS Game 4: A's trailed 8-0, scored 10 in the 7th inning to win 10-8. The greatest World Series comeback to that point."
+    },
+    {
+      "title": "Pepper Martin's Bases",
+      "type": "Drama",
+      "text": "The 1931 World Series. The Cardinals' Pepper Martin steals eight bases. Your catcher is blamed. It will follow him for the rest of his life — the catcher who couldn't stop Pepper Martin. The truth is more complicated: the pitchers were careless with runners. But truth doesn't matter when the narrative has already been written. Your catcher absorbs the blame because that's what catchers do.",
+      "origin": "1931 WS: Pepper Martin stole 8 bases vs the A's. Cochrane was blamed despite pitchers' negligence with runners. The narrative haunted him permanently."
+    },
+    {
+      "title": "The Skull Fracture",
+      "type": "Drama",
+      "text": "May 25, 1937. Bump Hadley of the Yankees throws a fastball. Your catcher doesn't see it. The ball hits him in the temple. He drops. He doesn't move for ten days. When the doctors look at the X-rays, one says: 'They looked like a road map.' Your catcher will never play again. He is thirty-four years old. He was the greatest catcher in baseball. Now he is a man with a map for a skull.",
+      "origin": "Cochrane was beaned by Bump Hadley on May 25, 1937. Skull fracture. Unconscious for 10 days. Never played again. Age 34."
+    },
+    {
+      "title": "Five Sports",
+      "type": "Action",
+      "text": "At Boston University, your catcher plays basketball, boxing, track, football, and baseball. He is the captain of the football team. He kicks a 53-yard field goal that will be the school record for sixty years. He chooses baseball only because there is no professional football league. He doesn't even like catching — the only open position. He becomes the greatest catcher in the American League at a sport that was his fifth-best, at a position he didn't want.",
+      "origin": "Cochrane was a five-sport athlete at BU. His 53-yard FG stood as a school record for 60+ years. He preferred outfield but caught because it was the only opening."
+    },
+    {
+      "title": "There Goes My Job",
+      "type": "Action",
+      "text": "Opening Day 1925. The bases are loaded, the game is tied, and the veteran catcher is due up. But there's a right-handed sidearm pitcher on the mound, and the twenty-two-year-old rookie says he hit this guy hard in the Pacific Coast League. The manager lets him bat. He delivers a game-winning hit. On the bench, the veteran catcher says: 'There goes Cy Perkins' job.' He's right. He taught the kid everything he knew, and now the kid has taken his place.",
+      "origin": "Cochrane pinch-hit for Cy Perkins on Opening Day 1925, delivered a game-winning hit, and took over as starting catcher. Perkins had mentored Cochrane extensively."
+    },
+    {
+      "title": "The Son",
+      "type": "Drama",
+      "text": "Your catcher retires. He manages. He coaches. He runs a dude ranch. He serves in the Navy. Then his only son ships overseas to fight. Gordon Cochrane dies on his first day of combat. His father is never the same. 'Mickey was never the same after Gordon's death,' says a teammate. Some losses cannot be absorbed. Some darkness has no dawn.",
+      "origin": "Cochrane's son Gordon was killed in WWII on his first day of combat. Teammates said Cochrane was permanently changed. He died in 1962 at age 59."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'10\" 180 lbs — compact, muscular, built like a football halfback, which he was. The face is INTENSE — dark eyes, sharp features, jaw set, brow furrowed. This is the face of 'Black Mike' — not angry exactly, but burning. A man who is always in the middle of something important. The catcher's mask should be pushed up on his forehead or held at his side — the face must be visible. There should be something slightly dangerous about him.",
+    "attire": "Philadelphia Athletics 1930 home whites — the classic A's uniform with the elephant logo era. In full catcher's gear — chest protector, shin guards, mask pushed up. Or: in the batter's box left-handed, coiled, the catcher's mitt still on his belt. He is always both hitter and catcher simultaneously. The uniform should be dirty — catchers are always dirty.",
+    "mood": "CONTROLLED COMBUSTION. This card should feel like a lit fuse. There is an energy to Cochrane that is unlike anyone else in the Bashers set — Ruth is joyful, Gehrig is steady, Sisler is elegant, Williams is invisible. Cochrane is PRESSURE. He is the hiss before the explosion. The card should feel tight, coiled, ready to either win the game or destroy everything trying. There should be warmth, but it's the warmth of a furnace, not a sunset.",
+    "style": "Full color — Bashers era — but SHARP and DARK. The A's dark blue and white. Shibe Park shadows. This is a night-game card even if the game is in daylight — Cochrane carries his own darkness. The lighting should be dramatic: strong contrast, deep shadows on one side of his face, bright light on the other. Black Mike. The card border should be deep navy — the darkest border in the Bashers set.",
+    "reference": "Ruth is the solar system. Gehrig is the axis. Sisler is the sun. Sewell is the earth. Williams is the comet. Cochrane is the CORE — the molten iron center of the earth that keeps everything spinning. He is invisible from the surface, but without him, nothing works. His card should feel like the engine room of a ship — hot, loud, essential, and slightly terrifying. The greatest catcher is the man nobody sees who controls everything."
+  },
+
+  "badges": [
+    "HOF 1947",
+    "2× AL MVP (1928, 1934)",
+    "3× WS Champion",
+    "5 Pennants",
+    ".320 Career BA (Record for C)",
+    ".419 Career OBP (Record for C)",
+    "Five-Sport Athlete",
+    "Black Mike"
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "card_type": "player",
+  "name": "Chick Hafey",
+  "nickname": "The Lenses",
+  "year": 1931,
+  "team": "St. Louis Cardinals",
+  "era": "1920s",
+  "ilb_team": "Bashers AL1920",
+  "position": "LF",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'0\"",
+  "weight": "185 lbs",
+  "born": "February 12, 1903 — Berkeley, California",
+  "died": "July 2, 1973 — Calistoga, California (age 70). Died 18 days before the 40th anniversary celebration of the first All-Star Game — the game where he recorded the very first hit. He'd made arrangements to attend. He never made it.",
+  "hof": "INDUCTED 1971 — Veterans Committee (Frisch era). Bill James lists him among 10 HOFers who don't deserve the honor. BUT: .317 career BA, 133 OPS+ (higher than Tony Gwynn, Rod Carew, Roberto Clemente, Jackie Robinson). Branch Rickey: 'If Hafey had been blessed with normal eyesight and good health, he might have been the best right-handed hitter baseball had ever known.' The Smoky Joe Wood Syndrome — exceptional talent, career curtailed by injury.",
+
+  "real_stats": {
+    "season": 1931,
+    "batting_avg": ".349",
+    "obp": ".404",
+    "slg": ".534",
+    "ops": ".938",
+    "hits": 157,
+    "doubles": 35,
+    "triples": 6,
+    "home_runs": 16,
+    "rbi": 95,
+    "runs": 101,
+    "stolen_bases": 5,
+    "total_bases": 240,
+    "games": 122,
+    "war": 5.9,
+    "note": "NL BATTING CHAMPION — .34889 beat Bill Terry (.34861) by .0002. Bottomley 3rd (.34821). Closest 3-way race in history. Won title with a hit in his final at-bat. MVP 5th.",
+    "career_batting_avg": ".317",
+    "career_hits": 1466,
+    "career_hr": 164,
+    "career_rbi": 833,
+    "career_slg": ".526",
+    "career_ops_plus": 133,
+    "career_games": 1283,
+    "career_seasons": "13 (1924-1937, many partial)",
+    "ws_championships": "2 (1926, 1931)",
+    "ws_appearances": 4,
+    "first_all_star_hit": "1933 — first hit in All-Star Game history",
+    "power_peak": "1928-1930: avg 27 HR, 114 RBI per season",
+    "glasses": "Three different pairs, rotated based on daily vision"
+  },
+
+  "ilb_stats": {
+    "ovr": 7,
+    "con": 4,
+    "pow": 3,
+    "spd": 1,
+    "def": 2,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": "Hafey hit .349 in 1931 to win the NL batting title in the closest three-way race in baseball history — beating Bill Terry (.34861) by .0002 and teammate Jim Bottomley (.34821) by .0007. He won the title with a hit in his final at-bat of the season. He hit .385 over the final 77 games after being at .281 on July 16th. Career: .317 BA with a 133 OPS+ (higher than Gwynn, Carew, Clemente, Jackie Robinson). He did all of this while rotating among THREE different pairs of glasses because his vision varied daily due to sinus problems from multiple beanings. 10 consecutive hits (NL record tie, 1929). The contact was elite DESPITE the disability. Rating of 4.",
+    "pow": "Hafey hit 16 HR in 122 games in 1931. His power peak was 1928-1930, averaging 27 HR and 114 RBI per season. Career: 164 HR, .526 SLG in only 1,283 games. Led NL in slugging in 1927 (.590). Freddie Lindstrom on Hafey's line drives: 'You don't have time to think. Only your instinct of self-preservation functions. You put up your hands to protect yourself.' The power was legitimate and terrifying — line-drive power that endangered infielders. Rating of 3.",
+    "spd": "Hafey stole 5 bases in 1931. Rickey initially noticed his speed (running to first), and he had some early athleticism, but after the beanings and sinus problems, speed was not a significant tool. Rating of 1.",
+    "def": "Hafey was known for his 'rifle arm' — one of the strongest throwing arms in the NL from left field. In 1928, he threw from LF in the 11th inning to cut down the potential winning run, saving a game that preserved the Cardinals' pennant lead. However, his vision problems — three pairs of glasses, daily fluctuation — complicated his ability to read fly balls and judge distance. He used separate glasses for hitting and fielding. The arm was elite; the eyes were unreliable. Rating of 2.",
+    "clu": "Hafey appeared in 4 World Series (1926, 1928, 1930, 1931) and won 2 championships (1926, 1931). However, his career WS batting average was .205 — significantly below his .317 career mark. He won the 1931 batting title AND the WS in the same year, but his October hitting was inconsistent. Rating of 2."
+  },
+
+  "personality": {
+    "leadership_style": "QUIET IN A LOUD ROOM. Hafey was 'soft-spoken' and 'shy' — overshadowed by the raucous Cardinals teammates who surrounded him. He was not a clubhouse leader or a vocal presence. He led by production — .349, the batting title, the rifle-arm throws. The leadership was SILENT COMPETENCE — the man who said nothing and hit everything.",
+    "temperament": "STUBBORN AND PROUD. Despite his quiet demeanor, Hafey was a fierce negotiator. He held out TWICE (1931, 1932), fighting Branch Rickey over salary. When Rickey refused to refund a $2,100 fine, Hafey jumped into his 1929 midnight blue Auburn sedan and drove home to California at ninety miles an hour. The quiet man had a steel spine. He would not be underpaid. He would not be disrespected.",
+    "work_ethic": "ADAPTATION TO DISABILITY. Hafey developed a sophisticated system: separate glasses for hitting and fielding, a 'patent lambs wool filter' in his nose for sinus infections, three pairs of glasses rotated based on daily vision. This is not just work ethic — this is ENGINEERING. He rebuilt his approach to the game around a deteriorating body. Every day was a new calibration.",
+    "lifestyle": "CALIFORNIA RANCHER. Born in Berkeley. Berkeley High School. After baseball: ranched near Berkeley/Calistoga, California wine country. Quiet rural life. Died in Calistoga at 70. The quiet man went home to quiet country and lived quietly until the end.",
+    "era_adaptability": "MODERATE TO HIGH. Hafey's raw hitting ability (.317, 133 OPS+, .526 SLG) would translate well. Modern sports medicine would likely address the sinus problems more effectively, potentially unlocking the talent Rickey saw — 'the best right-handed hitter baseball had ever known.' With modern vision correction and medical treatment, Hafey might have been a .330 hitter with 35 HR. The vision problems were the ONLY thing between Hafey and the inner circle.",
+    "clubhouse_impact": "NEUTRAL. Hafey was not a positive or negative clubhouse force. He was quiet, professional, and occasionally absent (holdouts). In ILB, Hafey provides +0 to team morale. He neither lifts the room nor weighs it down. He simply hits.",
+    "tragic_element": "THE EYES. Chick Hafey was beaned four times in 1926. The beanings caused sinus problems. The sinus problems deteriorated his vision. He wore three pairs of glasses. His vision varied daily. He couldn't always see the ball clearly. And he STILL hit .349 to win the batting title by .0002. Branch Rickey — the man who invented the farm system, who saw everything — said: 'If Hafey had been blessed with normal eyesight and good health, he might have been the best right-handed hitter baseball had ever known.' The eyes betrayed the hands. The hands never stopped trying. He died 18 days before the 40th anniversary of the first All-Star Game — the game where he recorded the very first hit. He'd made arrangements to attend. The eyes that couldn't see the ball couldn't see the celebration either."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Three Pairs of Glasses",
+      "desc": "Vision varied daily. Separate glasses for hitting and fielding. In ILB, Hafey's CON fluctuates: d6 daily — on 1-2: CON 3 (bad vision day), on 3-4: CON 4 (standard), on 5-6: CON 5 (perfect vision day, elite). The glasses rotate. The talent is constant. The vision is not."
+    },
+    {
+      "tag": "The .0002",
+      "desc": "Won 1931 batting title over Terry (.34889 vs .34861). With a hit in his final at-bat. In ILB, when Hafey's BA is within .005 of the league leader, he receives +1 CON. The closer the race, the harder he swings."
+    },
+    {
+      "tag": "Rickey's First Star",
+      "desc": "First major success of Branch Rickey's farm system. In ILB, Hafey costs less to develop — he arrives through the farm system, not through trade or free agency. The system found him. The system made him."
+    },
+    {
+      "tag": "The Rifle Arm",
+      "desc": "Elite throwing arm from left field. Saved 1928 pennant with 11th-inning throw. In ILB, Hafey has +2 to outfield assists. Runners do not advance on Hafey's arm. The rifle doesn't need glasses."
+    },
+    {
+      "tag": "The Beaning",
+      "desc": "Hit by pitch 4 times in 1926. Caused sinus problems, vision deterioration. In ILB, each HBP has a 25% chance of triggering a 'sinus flare' that reduces CON by 1 for 2 weeks. The beanings keep punishing long after the bruises heal."
+    },
+    {
+      "tag": "The Holdout",
+      "desc": "Held out twice (1931, 1932). Drove home to California at 90 mph in a midnight blue Auburn. In ILB, Hafey has a 20% chance of starting each season late (holdout). When he returns, he hits .385 for the rest of the year. The holdout sharpens the blade."
+    },
+    {
+      "tag": "Bottomley's Race",
+      "desc": "1931: Hafey .34889, Terry .34861, Bottomley .34821. All three within .0007. In ILB, when Hafey and Bottomley are on the same team, the batting race is INTERNAL as well as external. The sunshine and the lenses compete for the same crown."
+    },
+    {
+      "tag": "The First All-Star Hit",
+      "desc": "1933 inaugural All-Star Game: Hafey singled off Lefty Gomez — first hit in ASG history. In ILB, Hafey receives +1 to all stats in exhibition/All-Star games. The first hit in a new format belongs to the man who couldn't see."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "1924-1931. Two WS rings. The batting title. The rifle-arm throws. The place where the glasses rotated.",
+      "note_extra": "Source labeled 'Sportsman's Park, St. Louis' / affinity 'MAXIMUM / HOME' — mapped to Media/Spotlight/HIGH per home-franchise ballpark collision taxonomy. 'MAXIMUM / HOME' normalized to HIGH. Same non-standard qualitative label pattern as Grimes's location entries."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Three pairs of glasses. Patent lambs wool filter. Daily calibration. Then: .349. The box was the laboratory.",
+      "note_extra": "Source labeled 'The Batter's Box' / affinity 'IDENTITY' — mapped to Practice Field/HIGH as on-field performance and preparation space. The batter's box is the hitter's equivalent of the pitcher's mound; consistent with prior Pitcher's Mound → Practice Field mappings. 'IDENTITY' normalized to HIGH as the primary positive identity-defining tier."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "HIGH",
+      "note": "Berkeley origins. Calistoga retirement. The midnight blue Auburn driving 90 mph toward home. The quiet man in wine country.",
+      "note_extra": "Source labeled 'California Ranch' / affinity 'HOME / REFUGE' — mapped to Library/Quiet Spot/HIGH per rural/private retreat pattern, consistent with prior Ranch/Farm/Rural mappings. 'HOME / REFUGE' normalized to HIGH."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "1931: .281 on July 16th → .349 by season's end. .385 over 77 games. The greatest late-season surge in batting title history.",
+      "note_extra": "Source labeled 'The Pennant Race' / affinity 'PEAK' — first non-physical location label in the set; 'The Pennant Race' is a game-state rather than a place. Mapped to Media/Spotlight/HIGH as the most appropriate node for a high-stakes public competitive performance context. 'PEAK' normalized to HIGH. Second Media/Spotlight HIGH entry on this card."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Late-season surges — 1931: hit .385 over final 77 games after being at .281 on July 16th. Hafey heated up when the season demanded it.",
+      "Good vision days — when the glasses worked and the sinuses cleared, Hafey was virtually unstoppable. 10 consecutive hits (1929).",
+      "Batting races — the closer the competition, the harder Hafey hit. The .0002 title was won with a hit in his final at-bat.",
+      "Post-holdout return — after missing spring training, Hafey would return and immediately produce at elite levels. The holdout sharpened him."
+    ],
+    "cold_triggers": [
+      "Bad vision days — daily fluctuation meant some days Hafey simply couldn't see well. The glasses rotated but the world didn't always come into focus.",
+      "Sinus flares — chronic sinus problems caused headaches, dizziness, and reduced capacity. Multiple games missed throughout career.",
+      "Beanings — each HBP risked worsening the sinus condition. Pitchers knew he was vulnerable. The fear compounded the damage.",
+      "Contract disputes — holdouts cost him conditioning time and early-season production. The first weeks of each disputed season were lost."
+    ],
+    "pressure_response": "CLUTCH IN THE REGULAR SEASON, FADING IN OCTOBER. Hafey's 1931 batting race performance — .385 over 77 games to win by .0002 — is one of the most clutch regular-season performances in history. But his .205 career WS BA suggests he faded under World Series pressure. The eyes that adapted to the pennant race couldn't adapt to October."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Three Pairs",
+      "type": "Identity / Disability",
+      "text": "Your outfielder wears glasses. Not one pair. Three. He rotates among them based on how his eyes feel that day. Some mornings the world is sharp and the seams on the baseball are visible from sixty feet. Some mornings the world is soft and the pitcher is a blur. He has separate glasses for hitting and fielding. He has a patent lambs wool filter in his nose to prevent sinus infections. He was beaned four times in 1926. The beanings caused the sinus problems. The sinus problems caused the vision loss. The vision loss requires the glasses. Three pairs. Three versions of the world. He hits .349 in all of them.",
+      "origin": "Hafey's three pairs of glasses, daily vision fluctuation, sinus problems from 1926 beanings."
+    },
+    {
+      "title": "Point Zero Zero Zero Two",
+      "type": "Achievement / Precision",
+      "text": "1931. Three men chase the batting title. Your outfielder: .34889. Bill Terry of the Giants: .34861. Jim Bottomley — your outfielder's own teammate: .34821. Three Hall of Famers within seven ten-thousandths of a point. On the final day, your outfielder needs a hit. He gets it. A single. His last at-bat of the season. The title is his by two ten-thousandths of a point. .0002. This is the closest three-way batting race in baseball history. Your outfielder won it wearing three different pairs of glasses. The man who couldn't see won the race that required the most precise measurement in baseball.",
+      "origin": "The 1931 NL batting title — Hafey .34889, Terry .34861, Bottomley .34821."
+    },
+    {
+      "title": "The Best There Never Was",
+      "type": "What-If / Testimony",
+      "text": "Branch Rickey invented the farm system. He saw thousands of players. He evaluated talent as precisely as anyone in baseball history. Of your outfielder, Rickey said: 'I always thought that if Hafey had been blessed with normal eyesight and good health, he might have been the best right-handed hitter baseball had ever known.' Not one of the best. THE best. Better than Hornsby. Better than anyone. This is Rickey's testimony — the man who never exaggerated, who measured everything, who saw the blueprint behind the player. The blueprint was perfect. The body wasn't built to specification. The best right-handed hitter who ever lived was hidden inside a man who couldn't see straight.",
+      "origin": "Branch Rickey's famous quote about Hafey's potential."
+    },
+    {
+      "title": "Eighteen Days",
+      "type": "Coda / Grief",
+      "text": "1933. The first All-Star Game in baseball history. Your outfielder starts in left field and bats cleanup for the National League. In his first at-bat, facing Lefty Gomez — Hall of Famer — he loops a flyball into short center field. It drops. A single. The first hit in All-Star Game history belongs to your outfielder. Forty years later, 1973, Major League Baseball plans a celebration of that first game. Every surviving player receives an invitation. Your outfielder makes arrangements to attend. He dies eighteen days before the celebration. The first hit. The last absence. The man who couldn't see couldn't see the anniversary either.",
+      "origin": "Hafey's first All-Star hit (1933) and death 18 days before the 40th anniversary celebration (1973)."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'0\" 185 lbs — solid, handsome, QUIET. The face of a man who doesn't speak much. Strong jaw, calm expression, eyes that are SEARCHING — always trying to focus, always adjusting. THE GLASSES — round wire-rimmed spectacles, 1930s style, sitting on his face like they belong to someone else. The glasses should look slightly WRONG on a ballplayer's face — because they were. He was the first star to wear them regularly. The glasses are the card. The face behind them is talent. The talent behind the glasses is grief.",
+    "attire": "St. Louis Cardinals 1931 home whites — bird-on-bat logo. RIGHT-HANDED batting stance — compact, violent line-drive swing. OR: in left field, rifle arm cocked to throw, glasses glinting in the sunlight. The body should look STRONG but COMPROMISED — powerful build, capable arms, but something slightly off about the stance. The head tilted slightly, adjusting. The glasses catching light.",
+    "mood": "FOCUSED THROUGH FOG. This card has a quality of PARTIALLY OBSCURED CLARITY — like looking through glasses that aren't quite right. The image should be sharp at the center (the bat, the ball, the contact point) and slightly softer at the edges (the world beyond the batter's box). The mood is DETERMINATION THROUGH LIMITATION — the beauty of a man who cannot fully see the world but hits .349 in it anyway.",
+    "style": "Full color — Bashers era — CARDINALS RED AND LENS GRAY. Cardinals warm red, spectacle gray, wire-rim silver, cream. The red is warm (this is the Cardinals, the sunshine franchise) but the gray INTRUDES — the color of vision tests, of optometrist offices, of things not quite in focus. The border should be LENS GRAY — the color of ground glass, the medium through which Hafey saw the world. THE LENSES — the card you have to look at twice because the first look isn't quite clear. The most HUMAN card in the Bashers — the card that needs corrective lenses to see itself.",
+    "reference": "Ruth is the solar system. Hornsby is the blade. Bottomley is the sunshine. Chick Hafey is THE LENSES — the card that sees the world imperfectly and hits it perfectly. He is the Bashers' great WHAT IF — what if the eyes had worked? What if Rickey was right and he was the best? The Lenses are the only card that looks BACK at you — and asks: what would you have done if you could barely see?"
+  }
+}

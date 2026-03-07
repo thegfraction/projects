@@ -1,0 +1,221 @@
+{
+  "card_type": "player",
+  "name": "Larry Gardner",
+  "nickname": "The Vermont Professor",
+  "year": 1912,
+  "team": "Boston Red Sox",
+  "era": "1910s",
+  "ilb_team": "Muggers AL1910",
+  "position": "3B",
+  "bats": "L",
+  "throws": "R",
+  "height": "5'7\"",
+  "weight": "165 lbs",
+  "born": "May 13, 1886 — Enosburg Falls, VT",
+  "died": "March 11, 1976 — St. George, VT (age 89)",
+  "hof": "Not inducted. Red Sox HOF 2000. Vermont Sports HOF 2012. Named one of Top 100 Cleveland Indians ever. Never received a BBWAA vote, but 4 WS rings and ~35 career WAR.",
+
+  "real_stats": {
+    "season": 1912,
+    "games": 143,
+    "at_bats": 517,
+    "hits": 163,
+    "doubles": 24,
+    "triples": 18,
+    "home_runs": 3,
+    "rbi": 86,
+    "stolen_bases": 25,
+    "batting_avg": ".315",
+    "obp": ".370",
+    "slg": ".434",
+    "ops": ".804",
+    "runs_scored": 68,
+    "walks": 41,
+    "career_avg": ".289",
+    "career_hits": 1931,
+    "career_hr": 27,
+    "career_sb": 165,
+    "career_triples": 129,
+    "career_war": "~35",
+    "ws_appearances": 4,
+    "ws_wins": 4,
+    "ws_hr": 3,
+    "ws_games": 25
+  },
+
+  "ilb_stats": {
+    "ovr": 7,
+    "con": 4,
+    "pow": 0,
+    "spd": 2,
+    "def": 1,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "con": "Hit .315 in 1912 with the pennant-winning Red Sox. Career .289 across 17 seasons. Five seasons of .300+. His best average was .319 with the 1921 Indians. OBP of .370 in 1912 — good plate discipline. He had a bachelor's degree in chemistry, which is unrelated to hitting but tells you something about his intellect. Rating of 4.",
+    "pow": "3 HR in 1912. 27 career HR in 1,923 games — roughly one homer every 71 games. This is quintessential Deadball Era production. His 129 career triples suggest gap power and speed, not fence-clearing strength. Rating of 0.",
+    "spd": "25 SB in 1912. 52 combined SB in 1911-12. 165 career SB. 129 career triples — 100th all-time at retirement. At 5'7\" 165 lbs, Gardner was compact and quick, able to leg out extra bases and take the extra bag. Not a burner but consistently fast. Rating of 2.",
+    "def": "Played ~1,400 games at third base across 17 seasons. Described as 'one of the best third basemen of the Deadball Era' by SABR. Red Sox used 9 different third basemen in 1918 after trading him — none matched his reliability. Solid defender without flashy highlights. Rating of 1.",
+    "clu": "This is the stat that defines Larry Gardner. In 4 World Series appearances, his team won ALL FOUR (1912, 1915, 1916, 1920 — Red Sox and Indians). He hit the series-winning sacrifice fly off Christy Mathewson in the 10th inning of the 1912 WS Game 8 — the only player in history to end a World Series with a sac fly. He hit 3 HR in 25 WS games, versus only 27 HR in 1,923 regular season games — a postseason power surge of roughly 10x his normal rate. His 1916 WS featured a 3-run inside-the-park homer off Rube Marquard. In 1920, he led the Indians with 118 RBI and won a 4th ring. Gardner is the most disproportionately clutch hitter in Deadball Era history. Rating of 3 — MAXIMUM."
+  },
+
+  "personality": {
+    "leadership_style": "Quiet, educated, reliable. Gardner was the anti-showman — a Vermont chemistry graduate who played third base with the same precision he brought to a lab. He never made headlines. He never demanded attention. He just showed up, hit .289, played 143 games, and won World Series. His leadership was through presence and consistency — the kind of player managers build around without ever talking about.",
+    "temperament": "Calm, intelligent, self-effacing. Gardner returned to the University of Vermont after his career and coached baseball for 30 years. He invested in a Cape Cod cranberry business (an early frost ruined it) and later ran an auto dealership in Enosburg Falls. He was practical, grounded, and completely uninterested in fame. When he died at 89 in Vermont, he'd spent more of his life as a college coach than as a ballplayer.",
+    "work_ethic": "Steady and professional. Gardner played 17 seasons — from age 22 to 38 — without ever being the best player on his team but always being essential. He played alongside Tris Speaker, Smoky Joe Wood, Babe Ruth, and Tris Speaker again (with Cleveland). He was the quiet constant in a parade of legends.",
+    "lifestyle": "Vermont through and through. Born in Enosburg Falls, attended UVM, played the first game at Centennial Field (1906) and the first game at Fenway Park (1912). Returned to UVM as coach and athletic director from 1929-1951. Died in St. George, Vermont at 89. Gardner's world was bounded by the Green Mountains — he left only to play baseball, and he always came home.",
+    "era_adaptability": "MODERATE. Gardner's .289 career average and solid defense translate well. His utter lack of power (27 HR in 1,923 games) would be a problem in any era after 1920. But his clutch performance — the most disproportionate postseason-to-regular-season production ratio of the Deadball Era — suggests a player who rises to the occasion in ways stats can't predict.",
+    "clubhouse_impact": "STABILIZING. Gardner was the teammate everyone respected and nobody envied. He wasn't the star — he was the man who played next to the star. Speaker was the centerfielder, Wood was the pitcher, Ruth was the phenomenon. Gardner was the third baseman who drove in the winning run when everyone else was watching the stars. In ILB: Gardner provides a +1 chemistry bonus to every teammate with a higher OVR.",
+    "dark_side": "There is no dark side. Larry Gardner is the most wholesome card in the Muggers set — a chemistry graduate from Vermont who won four World Series, returned to coach college baseball, and died at 89. In a set filled with corruption (Chase), tragedy (Chapman), injustice (Kauff), and madness (Vaughn's disappearance), Gardner is the palate cleanser. His dark side is that nobody remembers him. In ILB: Gardner carries a 'Forgotten Winner' trait — his contributions are always attributed to his more famous teammates."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Four Rings",
+      "desc": "Gardner won every World Series he appeared in — 1912, 1915, 1916, 1920. Any team with Gardner gains +1 to postseason win probability. The man simply does not lose in October."
+    },
+    {
+      "tag": "The Sacrifice Fly",
+      "desc": "Gardner ended the 1912 World Series with a sacrifice fly off Christy Mathewson — the only player in history to end a WS with a sac fly. In ILB, when the game is on the line, Gardner gets +2 CLU for 'productive outs' that score runners."
+    },
+    {
+      "tag": "Postseason Transformer",
+      "desc": "27 HR in 1,923 regular season games. 3 HR in 25 WS games. A 10x power surge in October. Gardner's POW stat increases from 0 to 2 in any postseason game."
+    },
+    {
+      "tag": "Vermont Steady",
+      "desc": "Gardner's consistency provides +1 team chemistry. He never demands attention, never causes drama. In a clubhouse of egos and scandals, he's the quiet professional who makes everyone better."
+    },
+    {
+      "tag": "Chemistry Degree",
+      "desc": "Bachelor's in Chemistry from UVM, 1909. Gardner is the most educated player in the Muggers set. +1 to strategic thinking in any complex game situation."
+    },
+    {
+      "tag": "Forgotten Winner",
+      "desc": "Gardner's contributions are always overshadowed by teammates (Speaker, Wood, Ruth). In ILB, his stat line appears modest but his win shares are disproportionately high. The stat sheet lies about Larry Gardner."
+    },
+    {
+      "tag": "First at Fenway",
+      "desc": "Gardner played in the first game at Fenway Park (1912). When playing at a new ballpark, Gardner gets +1 adaptability bonus for the first series."
+    },
+    {
+      "tag": "Coach's Eye",
+      "desc": "After retirement, Gardner coached at UVM for 30 years. He can evaluate opposing players' weaknesses: +1 to team scouting when Gardner is in the lineup."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "HIGH",
+      "note": "Born, educated, and died in Vermont. Coached at UVM for 30 years. The Green Mountains were home.",
+      "note_extra": "Source labeled 'Vermont / New England' — mapped to Library/Quiet Spot as home-region/academic node, consistent with rural/scholastic mappings across the set."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "Played the first game there. Won 3 WS as the Red Sox third baseman. This was his stage — even if no one noticed.",
+      "note_extra": "Source labeled 'Fenway Park' — mapped to Media/Spotlight as home-franchise/ballpark node, consistent with prior stadium mappings."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "HIGH",
+      "note": "UVM graduate, coach, and athletic director. Gardner was an academic who happened to play baseball at an elite level.",
+      "note_extra": "Source labeled 'University Campus' — mapped to Library/Quiet Spot. Second Library/Quiet Spot entry on this card (Vermont/New England and University Campus both map to the same node — the academic/solitude identity is the dominant location pattern for Gardner)."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "4-for-4. The only player in the Muggers set who never lost on the biggest stage. This is where Gardner becomes someone else entirely.",
+      "note_extra": "Source labeled 'World Series' with affinity 'MAXIMUM' — mapped to Practice Field per World Series collision taxonomy. MAXIMUM normalized to HIGH. Unlike most World Series entries (Practice Field/NONE for players who missed WS), Gardner's is HIGH — the positive valence preserved, consistent with Frisch player card's World Series/PEAK → HIGH mapping."
+    },
+    {
+      "location": "Gambling Hall",
+      "affinity": "MEDIUM",
+      "note": "Owned a Willys-Knight dealership in Enosburg Falls with his cousin's husband. A practical man with practical investments.",
+      "note_extra": "Source labeled 'Auto Dealership' — mapped to Gambling Hall per Financial Office/Bank collision taxonomy (commercial enterprise node). MEDIUM preserved as-is."
+    },
+    {
+      "location": "Gambling Hall",
+      "affinity": "LOW",
+      "note": "Invested in a Cape Cod cranberry business. An early frost ruined the harvest and destroyed the company. Even Gardner's luck had limits.",
+      "note_extra": "Source labeled 'Cranberry Bog' — mapped to Gambling Hall as speculative investment/enterprise node. Second Gambling Hall entry (MEDIUM + LOW). Consistent with the double-Gambling Hall pattern established by Flick and Freeman for working-class non-gamblers with business ventures."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "October — Gardner is a different player in the postseason. His power triples, his average holds, and he delivers the decisive blow.",
+      "Big pitching matchups — facing Mathewson, Marquard, the best arms. Gardner elevated against the best.",
+      "Team success — when the team is winning, Gardner gets better. He feeds on collective momentum.",
+      "New environments — first game at Fenway, first game at Centennial Field. Gardner thrives in fresh settings."
+    ],
+    "cold_triggers": [
+      "Bad teams — Gardner hit .285 for the last-place 1918 Athletics. Without a winning culture, his production dipped.",
+      "Aging — his final years (1922-24) were diminished by nagging injuries. The body gave out before the mind.",
+      "Off-field distraction — the cranberry business failure showed Gardner wasn't immune to setbacks outside baseball.",
+      "Being ignored — Gardner never complained about anonymity, but the lack of recognition meant no HOF campaign, no legacy building."
+    ],
+    "pressure_response": "TRANSCENDENT. This is the word for Larry Gardner in October. He is not merely 'good in the clutch' — he is transformed. A .289 hitter who barely homers becomes a .300+ hitter who goes deep in the World Series. The sacrifice fly off Mathewson. The inside-the-park homer off Marquard. The 118 RBI powering Cleveland to a title. In ILB, Gardner is the secret weapon — the player your opponent underestimates because his regular-season stats look modest. But when the stakes are highest, Larry Gardner becomes the most dangerous hitter in the lineup."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Sacrifice Fly That Won the Series",
+      "type": "Game Action",
+      "text": "Bottom of the 10th. Your team trails by one, but a dropped fly ball, a great catch, a walk, and a clutch single have loaded the bases with one out. Your 5'7\" third baseman — 3 homers all season — lofts a deep fly to right field. The runner tags. He scores. The World Series is over. You won it with the most modest of plays: a sacrifice fly.",
+      "origin": "1912 World Series, Game 8, bottom of the 10th. After Snodgrass's muff and Speaker's single, Gardner drove a sac fly off Mathewson to score Yerkes. The only player to end a WS with a sacrifice fly."
+    },
+    {
+      "title": "The Inside-the-Park Job Off Marquard",
+      "type": "Game Action",
+      "text": "Game 4 of the World Series. Your team trails 2-0. Your third baseman — who has hit 2 home runs all regular season — crushes a drive to the deepest part of center field off Rube Marquard. He circles the bases and slides home. Three-run inside-the-park homer. 3-2 lead. The Series turns.",
+      "origin": "1916 WS Game 4: Gardner hit a 3-run inside-the-park HR off Marquard into deep center at Ebbets Field, turning a 2-0 deficit into a 3-2 Red Sox lead. His 2 WS homers matched his regular season total."
+    },
+    {
+      "title": "Four for Four",
+      "type": "Action",
+      "text": "Your player has now won four World Series — every one he's ever appeared in. 1912. 1915. 1916. 1920. Two different teams. Two different decades. His regular season stats say 'good player.' His postseason record says 'winner.' There is no explaining this. Some players just win.",
+      "origin": "Gardner won the WS with the 1912, 1915, and 1916 Red Sox and the 1920 Indians. He is one of the few players in history to win every World Series he appeared in across that many appearances."
+    },
+    {
+      "title": "The Chemistry Graduate",
+      "type": "Action",
+      "text": "Your player holds a bachelor's degree in chemistry from a respected university. He is the most educated man on the field — and possibly in the entire league. Between games, he reads scientific papers. After retirement, he returns to the university as coach and athletic director for three decades.",
+      "origin": "Gardner graduated from UVM with a chemistry degree in 1909. He coached UVM baseball from 1929-1951 and served as athletic director. The Gardner-Collins Cage at UVM is named for him and teammate Ray Collins."
+    },
+    {
+      "title": "First Game at Fenway",
+      "type": "Action",
+      "text": "Your franchise has built a new ballpark. The first game is today. Your third baseman — a local New England kid who played his first college game at the old park across town six years ago — takes the field. He'll play here for another five years, win three championships, and become part of the building's DNA.",
+      "origin": "Gardner played in the first game at Fenway Park on April 20, 1912. He also played in the first game at UVM's Centennial Field in 1906."
+    },
+    {
+      "title": "Nine Players at Third Base",
+      "type": "Drama",
+      "text": "Your franchise trades its reliable third baseman after nine years. During the next season, you use NINE different players at third base. None of them are Larry Gardner. You win the World Series anyway, but you never find his replacement.",
+      "origin": "After trading Gardner to Philadelphia after 1917, the Red Sox used 9 players at 3B in 1918. They won the WS (the last before 2004) but never matched Gardner's consistency at the position."
+    },
+    {
+      "title": "The Cranberry Disaster",
+      "type": "Drama",
+      "text": "Your player invests his savings in a Cape Cod cranberry business. An early frost destroys the entire harvest. The company folds. Your player, a chemistry graduate, accepts the loss with Vermont stoicism and opens an automobile dealership instead.",
+      "origin": "Gardner invested in cranberries on Cape Cod. A frost ruined the harvest. He pivoted to a Willys-Knight auto dealership in Enosburg Falls with his partner Francis Smith."
+    },
+    {
+      "title": "The Quiet Constant",
+      "type": "Action",
+      "text": "Your third baseman plays alongside Tris Speaker, Smoky Joe Wood, Babe Ruth, and then Speaker again on a different team. He is never the star. He is always on the roster. He is always in the lineup. He always wins. He retires to coach college baseball in Vermont and dies at 89, remembered by almost nobody outside of New England.",
+      "origin": "Gardner was teammates with Speaker and Wood in Boston, overlapped briefly with Ruth, then joined Speaker in Cleveland. He was the constant in a parade of legends, overshadowed by all of them."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Compact 5'7\" 165 lbs — small even for the Deadball Era. Clean-cut, intelligent face with calm, steady eyes. The look of a man who has a chemistry degree and doesn't need to tell you about it. No flash, no swagger — just quiet confidence. He could be a professor or a banker. He happens to be a World Series hero.",
+    "attire": "Boston Red Sox 1912 home whites — the first Fenway Park season. Classic Deadball Era pose: crouched at third base, glove ready, or mid-swing with the compact left-handed stroke that produced 129 career triples. The uniform should look worn and functional — Gardner was a workman, not a fashion plate.",
+    "mood": "Quiet competence. This card should radiate understated reliability — the feeling of a player you trust completely without ever thinking about him. No drama, no tragedy, no spectacle. Just a small man from Vermont who won every World Series he entered and then went home to coach college baseball. The warmest and most comforting card in the Muggers set.",
+    "style": "Sepia-toned with gentle green undertones — Vermont's color, the Green Mountains. The gold accents should be subtle and warm, like autumn light in New England. This is not a flashy card — it's a card that grows on you, that you keep coming back to because something about it feels right.",
+    "reference": "If Wood is lightning, Chapman is a candle, Chase is a stolen jewel, Kauff is a firecracker, Marquard is a spotlight, and Vaughn is a cathedral bell, then Gardner is a hearthfire. Warm, steady, always burning, always there when you need it. The ILB Gardner card should feel like coming home — modest on the outside, indispensable once you understand what you're holding."
+  }
+}

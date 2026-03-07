@@ -1,0 +1,218 @@
+{
+  "card_type": "hitter",
+  "name": "Ripper Collins",
+  "nickname": "The Ringleader",
+  "year": 1934,
+  "team": "St. Louis Cardinals",
+  "era": "1930s",
+  "ilb_team": "Crashers AL1930",
+  "position": "1B",
+  "bats": "S",
+  "throws": "L",
+  "height": "5'9\"",
+  "weight": "165 lbs",
+  "born": "March 30, 1904 — Altoona, Pennsylvania (grew up in Nanty Glo, PA; coal miner at age 13)",
+  "died": "April 15, 1970 — New Haven, New York (age 66, heart attack while scouting for Cardinals)",
+  "hof": "Not inducted. 2x All-Star (1935-36). 2x WS champion (1931, 1934). First switch-hitter to hit 30+ HR (35 in 1934, tied Mel Ott for NL lead). Led NL in SLG (.615) and total bases (369) in 1934. Led Cardinals in 16 offensive categories in 1934. 135 career HR (switch-hitter record until Mantle).",
+
+  "real_stats": {
+    "season": 1934,
+    "games": 154,
+    "at_bats": 600,
+    "hits": 200,
+    "doubles": 40,
+    "triples": 12,
+    "home_runs": 35,
+    "rbi": 128,
+    "runs": 116,
+    "stolen_bases": 3,
+    "walks": 51,
+    "strikeouts": 55,
+    "batting_avg": ".333",
+    "obp": ".393",
+    "slg": ".615",
+    "ops": "1.008",
+    "ops_plus": 152,
+    "war": 5.5,
+    "career_avg": ".296",
+    "career_hr": 135,
+    "career_rbi": 659,
+    "career_hits": 1121,
+    "career_war": 19.3
+  },
+
+  "ilb_stats": {
+    "ovr": 7,
+    "con": 4,
+    "pow": 3,
+    "spd": 1,
+    "def": 0,
+    "clu": 1
+  },
+
+  "stat_justification": {
+    "con": ".333 BA in 1934, 200 hits, 40 doubles. .296 career BA. Hit .300+ in four of nine MLB seasons. Switch-hitter who choked up on the bat for control. 'A chunky, powerful man who hit long home runs even though he choked up on the bat.' Rating: 4.",
+    "pow": "35 HR in 1934 — co-led NL with Mel Ott. .615 SLG (led NL). 369 total bases (led NL). First switch-hitter in MLB to hit 30+ HR. 135 career HR — the switch-hitter record until Mickey Mantle surpassed it in 1955. SLG .615 bonus applies (>=.600); base tier 3 (HR 30-39). Rating: 3.",
+    "spd": "3 SB in 1934. 12 triples — strong for a 1B. Not a speed player, but the triples show gap-to-gap running ability. In the minors (1930 Rochester), he hit 19 triples. Triples bonus applies. Rating: 1.",
+    "def": "The only first baseman in MLB history to twice record zero putouts in a 9-inning game (1935 Cardinals, 1937 Cubs). Led NL 1B in assists once (110 in 1934) but the zero-putout games are historically unique defensive embarrassments. Below average 1B defense overall. Rating: 0.",
+    "clu": ".367 BA in the 1934 WS (Cardinals won in 7 vs. Tigers). 2x WS champion (1931 as a part-timer, 1934 as the starting 1B). He hit well in October but the sample is small and he was not the WS hero — the Dean brothers were. Rating: 1."
+  },
+
+  "personality": {
+    "leadership_style": "The Ringleader. Branch Rickey accused Collins of being the instigator of the Gashouse Gang's legendary chaos. Collins replied: 'Rickey always accused me of being the ringleader; I never could understand why he picked on me — unless it could have been because there was considerable truth in his allegations.' He organized hotel pranks, led the Mississippi Mudcats band, wrote newspaper columns during the pennant race, and kept the clubhouse perpetually chaotic. He was the social engine of the most colorful team in baseball history.",
+    "temperament": "Sly, engaging, baby-faced, mischievous. 'Ruggedly handsome with dark wavy hair, an engaging smile and a boyish grin.' Collins was the prankster-in-chief: painting hotel walls, ushering guests to wrong rooms, playing washboard music on the radio. He was Frisch's favorite because he 'knew how to play and when to be serious.' He could switch from clown to clutch hitter in one at-bat.",
+    "work_ethic": "Coal mine to Cooperstown's doorstep. Started working in the mines at 13 alongside his father. Played sandlot ball, then spent eight years in the minors before making the majors at 27. In 1930 Rochester, hit .376/40 HR/180 RBI (the IL RBI record still stands). At 40, named Minor League Player of the Year while hitting .396 with Albany. The man could always hit — the question was always whether anyone would let him.",
+    "lifestyle": "Pennsylvania coal country to the Gashouse Gang to scouting. Father was a coal miner who played semipro ball. Collins dropped out of school at 14. His father taught him to switch-hit. His nickname came from ripping a ball off a nail in an outfield fence. After playing: managed in the minors, coached for the Cubs and Dodgers, broadcast in Baltimore, scouted for the Cardinals until his death in 1970 (heart attack while scouting in New York). The Gashouse Gang spirit never left him.",
+    "era_adaptability": "MODERATE. The switch-hitting power (.615 SLG, 35 HR) translates well. Modern analytics would love his platoon-proof production. But his defense was poor and his career was short (9 MLB seasons). He'd be a solid platoon-proof DH or 1B in modern baseball — .275/25 HR with the ability to hit from both sides. The personality would make him a fan favorite in any era.",
+    "clubhouse_impact": "MAXIMUM CHAOS (POSITIVE). The Mississippi Mudcats. The hotel pranks. The newspaper columns. Collins was the social glue of the Gashouse Gang — the most entertaining team in baseball history. His clubhouse impact far exceeded his statistical value. Every team needs a Ripper Collins: the guy who keeps everyone loose, who turns a tense pennant race into a party, and who can still hit .333 when it matters.",
+    "dark_side": "The short peak and the replacement. Collins' MLB career was only 9 seasons because (a) he spent 8 years in the minors, and (b) Johnny Mize replaced him in 1936. Mize was simply better. Collins was traded to the Cubs and was never the same dominant hitter. His .296 career BA and 135 HR are solid but not HOF-caliber. He was the star of a specific moment — the 1934 Gashouse Gang — and when that moment passed, so did his stardom. The coal miner went back to work."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Gashouse Gang Ringleader",
+      "desc": "When 2+ Gashouse Gang members (Martin, Dean, Medwick, Frisch) are on the roster: +2 team morale, +1 entertainment, -1 discipline. Collins is the social engine. Without him, the pranks stop."
+    },
+    {
+      "tag": "Mississippi Mudcats",
+      "desc": "Collins, Martin, Dean, and Vance formed a washboard band that played on KMOX radio. +1 team morale and +1 publicity. The most entertaining chemistry trait in the game."
+    },
+    {
+      "tag": "Switch-Hitter Pioneer",
+      "desc": "First switch-hitter to hit 30+ HR. Immune to platoon disadvantage. No penalty vs. LHP or RHP. Collins hits from both sides with equal power."
+    },
+    {
+      "tag": "The Rip",
+      "desc": "Collins' nickname came from ripping a ball so hard it tore the cover on a nail. Once per game, 5% chance of a 'ripped' ball — automatic extra-base hit, +1 entertainment."
+    },
+    {
+      "tag": "Coal Miner's Son",
+      "desc": "Started working mines at 13. +1 toughness. Collins never complains about conditions, fatigue, or injuries. The mine was harder than baseball."
+    },
+    {
+      "tag": "Swing Your Typewriter",
+      "desc": "Collins wrote newspaper columns during the pennant race. After he struck out, Frisch yelled: 'Next time, swing your typewriter.' -1 CON when distracted by media obligations. +1 publicity."
+    },
+    {
+      "tag": "Zero Putouts at First",
+      "desc": "Only 1B to twice record zero putouts in a 9-inning game. DEF permanently 0. The glove was ornamental."
+    },
+    {
+      "tag": "Replaced by Mize",
+      "desc": "When a superior 1B prospect arrives, Collins loses his job within 1 season. Based on Johnny Mize replacing Collins in 1936. The peak was brilliant but finite."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "6 seasons at Sportsman's Park. 2 WS titles. The Gashouse Gang's home. .333/35/128 in 1934."
+    },
+    {
+      "location": "Bar/Nightlife",
+      "affinity": "HIGH",
+      "note": "Painting hotel walls, wrong-room pranks, washboard band rehearsals. The Gashouse Gang's social headquarters."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "Mississippi Mudcats performed live on KMOX radio. Collins, Martin, Dean, Vance. Washboard music for St. Louis."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Switch-hitter. .333 BA. 35 HR. Choked up on the bat. Power from both sides. A crowd magnet everywhere."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Started in the mines at 13. Father was a coal miner. The hardship built the toughness."
+    },
+    {
+      "location": "Gambling Hall",
+      "affinity": "LOW",
+      "note": "8 years in the minors before the majors. The minor league grind was part of his DNA."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "NONE",
+      "note": "Twice zero putouts in a game. The only 1B in history to do it twice. Defense was not practiced — or it didn't take."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Gashouse Gang chemistry — when the team is loose and chaotic, Collins thrives.",
+      "Switch-hitting matchups — he has no platoon weakness. Both sides produce power.",
+      "Pennant races — .333 in 1934 as the Cardinals surged from behind to win.",
+      "Minor league dominance — .376/40/180 at Rochester. When he's locked in, pitchers have no answer."
+    ],
+    "cold_triggers": [
+      "Media distractions — 'Swing your typewriter.' The writing career hurt the hitting.",
+      "Defensive expectations — zero putouts. Twice. The glove was a liability.",
+      "Replacement by superior talent — Johnny Mize arrived and Collins was gone.",
+      "Post-peak decline — after 1935, never hit 20 HR again in the majors."
+    ],
+    "pressure_response": "DELIVERED IN OCTOBER. .367 BA in the 1934 WS — Cardinals won in 7 over the Tigers. 2x WS champion (1931, 1934). Led the Cardinals in 16 offensive categories during the 1934 pennant race. He hit .333 down the stretch as the Cardinals won 20 of their last 25 to overtake the Giants. The Gashouse Gang was chaos, but Collins channeled it into production. The coal miner's son hit when it mattered."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The First Switch-Hitter to Hit 30 Home Runs",
+      "type": "Game Action",
+      "text": "Your first baseman is 5'9\", 165 pounds. He chokes up on the bat. He switch-hits. He hits 35 home runs — more than anyone in the league except one Hall of Famer. He's the first switch-hitter to ever hit 30. The record will stand for 21 years until Mickey Mantle breaks it.",
+      "origin": "1934: Collins hit 35 HR (co-led NL with Ott). First switch-hitter with 30+ HR. Record stood until Mantle's 37 in 1955."
+    },
+    {
+      "title": "The Mississippi Mudcats",
+      "type": "Action",
+      "text": "Your first baseman, your outfielder, your pitcher, and your relief pitcher form a washboard band. They play on the radio. They perform in the clubhouse. They perform in hotels. The music is terrible. The morale is incredible.",
+      "origin": "Collins, Pepper Martin, Dizzy Dean, and Dazzy Vance formed the Mississippi Mudcats — a washboard-style band that performed on KMOX radio in St. Louis."
+    },
+    {
+      "title": "Swing Your Typewriter",
+      "type": "Drama",
+      "text": "Your star first baseman starts writing a newspaper column during the pennant race. He provides baseball commentary and stories about his roommate's pranks. After he strikes out in a game, the manager shouts: 'Next time, swing your typewriter!' The writing career is suspended.",
+      "origin": "Collins wrote columns for the East St. Louis Journal during the 1934 pennant race. After he struck out, Frisch shouted: 'Next time, swing your typewriter.'"
+    },
+    {
+      "title": "The Rip",
+      "type": "Action",
+      "text": "Your young player hits a ball so hard it strikes a nail protruding from the outfield fence. The cover tears — rips open. The outfielder picks up the ball and sees it hanging. 'Who hit that?' 'The ripper.' The nickname sticks for life.",
+      "origin": "Collins' nickname originated when a line drive struck a nail in an outfield fence, partially tearing the ball's cover. The outfielder said: 'It was the ripper.'"
+    },
+    {
+      "title": "180 RBI in the International League",
+      "type": "Game Action",
+      "text": "Your prospect hits .376 with 40 home runs and 180 RBI in the International League. The RBI record still stands nearly a century later. He also has 234 hits, 19 triples, and a .684 SLG. He's been in the minors for eight years. He's finally ready.",
+      "origin": "1930 Rochester: Collins hit .376/40 HR/180 RBI. The IL RBI record still stands. He was called up to the Cardinals in 1931."
+    },
+    {
+      "title": "The Hotel Pranks",
+      "type": "Action",
+      "text": "Your players paint the walls of a busy hotel. They usher guests to the wrong rooms. They perform washboard music in the lobby. The manager is furious. The fans are delighted. The team wins the pennant.",
+      "origin": "Gashouse Gang members, led by Collins, painted hotel walls and directed guests to wrong rooms. The team won the 1934 pennant and WS."
+    },
+    {
+      "title": "Replaced by The Big Cat",
+      "type": "Drama",
+      "text": "Your first baseman hit .333 with 35 HR two years ago. But a kid named Johnny Mize arrives. He's bigger, stronger, and younger. Your first baseman is traded. The kid becomes a Hall of Famer. Your guy becomes a footnote.",
+      "origin": "1936: Johnny Mize arrived and took over 1B. Collins was traded to the Cubs after the season. Mize became a HOFer."
+    },
+    {
+      "title": "Minor League Player of the Year at Forty",
+      "type": "Game Action",
+      "text": "Your legend is 40 years old. His MLB career is over. He's player-managing in the Eastern League. He hits .396 with 40 doubles. He's named Minor League Player of the Year. The coal miner's son could always hit — even when nobody was watching.",
+      "origin": "1944: Collins, age 40, hit .396 with Albany and was named Minor League Player of the Year."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Baby-faced, ruggedly handsome, dark wavy hair, engaging smile. 5'9\" 165 lbs — compact and powerful. The face should show mischief — this is the man who organized the hotel pranks, led the washboard band, and wrote newspaper columns during the pennant race. Equal parts charm and danger.",
+    "attire": "St. Louis Cardinals 1934 home whites with the classic birds-on-the-bat. Sportsman's Park behind him. The bat should be choked up — his signature grip. Maybe a washboard or a newspaper tucked under one arm, hinting at the Mississippi Mudcats and the writing career.",
+    "mood": "Gashouse Gang energy. The swing — compact, powerful, from both sides. Or: the dugout celebration, arms around Pepper Martin and Dizzy Dean, chaos incarnate. The card should feel fun — not solemn, not reverent. Joyful, loud, and slightly dangerous.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Depression-era St. Louis — dusty, hot, alive. Cardinals red and Missouri brown undertones. Working-class grit for a coal miner's son who became the life of baseball's greatest party.",
+    "reference": "The card of the coal miner who became the ringleader. The switch-hitter who hit 35 HR before Mantle. The sportswriter told to swing his typewriter. The washboard musician. The hotel prankster. Ripper Collins — the most fun player in the Gashouse Gang, and the Gashouse Gang was the most fun team in history."
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "name": "Frank Chance",
+  "nickname": "The Peerless Leader",
+  "year": 1906,
+  "team": "Chicago Cubs",
+  "era": "1900s",
+  "ilb_team": "Banners",
+  "position": "1B",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'0\"",
+  "weight": "190 lbs",
+  "born": "September 9, 1877 — Salida, CA (raised Fresno)",
+  "died": "September 15, 1924 — Los Angeles, CA (age 47)",
+  "hof": "Class of 1946 (Veterans Committee) — Inducted alongside Tinker and Evers.",
+
+  "real_stats": {
+    "season": 1906,
+    "games": 136,
+    "at_bats": 474,
+    "hits": 151,
+    "doubles": 24,
+    "triples": 10,
+    "home_runs": 3,
+    "rbi": 71,
+    "runs": 103,
+    "stolen_bases": 57,
+    "batting_avg": ".319",
+    "obp": ".419",
+    "slg": ".430",
+    "ops": ".849",
+    "ops_plus": 163,
+    "war": 7.4,
+    "career_avg": ".296",
+    "career_hits": 1274,
+    "career_hr": 20,
+    "career_sb": 401,
+    "career_war": 47.7,
+    "career_obp": ".394",
+    "career_ops_plus": 135,
+    "ws_career_avg": ".300",
+    "ws_1908_avg": ".421",
+    "manager_record": "946-648 (.593)",
+    "cubs_manager_pct": ".664",
+    "team_1906_record": "116-36"
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "con": 5,
+    "pow": 1,
+    "spd": 3,
+    "def": 1,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "con": ".319 BA in 1906 (.300-.329 = 4). OPS+ 163 (≥130 bonus = +1). Cap 5 reached. Led NL in OBP in 1905 (.450). John McGraw put him on his all-time NL team. Career 135 OPS+ across the dead-ball era. Elite contact hitter who crowded the plate fearlessly.",
+    "pow": "3 HR in 1906 (0-9 = 0). SLG .430 (under .500, no bonus). But: 10 triples, 24 doubles, and a dead-ball era SLG of .430 suggests gap power beyond the zero floor. Bumped to 1 for line-drive power and extra-base hit production. Still very low — this was not a power hitter.",
+    "spd": "57 SB led NL in 1906 (31-50+ = 3). 67 SB led NL in 1903. Cubs' all-time career SB leader with 401. For a 6'0\" 190-lb first baseman, his speed was extraordinary. Stole home from second base in one play. Maximum speed rating.",
+    "def": "Pre-Gold Glove era. SABR: 'not widely regarded as one of the game's greatest fielders.' .983 fielding pct, 470 career double plays. Solid fundamentals at first base but not a defensive wizard. His value was bat + speed + leadership + managing, not glove. Rating: 1.",
+    "clu": ".300 career WS BA (.300+ = 2). .421 in 1908 WS, reaching base in half his plate appearances (+1 WS hero moment). 10 SB in 20 WS games. The man who managed 116 wins and two championships. Maximum clutch."
+  },
+
+  "personality": {
+    "leadership_style": "Absolute authority. 'You do things my way or you meet me after the game.' Fined players for shaking hands with opponents. Forced Solly Hofman to postpone his wedding lest marriage impair his play. Suspended Tinker for profanity, reinstated him two days later when he needed him. This was not a democracy — it was a dynasty built on fear, respect, and 116 wins.",
+    "temperament": "Controlled fury backed by physical dominance. At 6'0\" 190 lbs, he was the biggest man on most fields. Offseason prizefighter — Jim Corbett and John L. Sullivan called him 'the greatest amateur brawler of all time.' Incited a riot at the Polo Grounds by assaulting pitcher Joe McGinnity. Threw beer bottles at Brooklyn fans. First player ever ejected from a World Series game (1910).",
+    "work_ethic": "Maniacal preparation married to physical toughness. Crowded the plate knowing he'd get beaned — hit by pitch 36 times, including 5 times in one doubleheader. Played through broken fingers as a catcher, broken shoulder in 1909, and blood clots in his brain. Never stopped working until his body literally couldn't function.",
+    "lifestyle": "California gentleman rancher meets dead-ball enforcer. Owned a ranch in Glendora, CA. Built a building in downtown Glendora (still standing). Father was a bank president — Frank traded dentistry school for baseball. Preached moderation and sobriety to his players. Married Edythe Pancake (yes, Pancake) in 1903; she became an advocate for women attending baseball games.",
+    "era_adaptability": "VERY HIGH. Chance was the prototype player-manager — the first modern field general. His .664 winning percentage as Cubs manager has never been matched. He'd be a manager in any era, but in his own era, he was also one of the best hitters and fastest baserunners at his position.",
+    "clubhouse_impact": "DOMINANT. His players 'never disputed his authority and admired his leadership by example.' Three Finger Brown admired his 'stout heart.' Evers called him 'the greatest first baseman of all time.' Tinker said 'Husk was always square and smart.' But the authority came with an iron fist — this was a man who would fight you if you disobeyed.",
+    "dark_side": "The beanings killed him. Hit by pitch 36 times, multiple head shots. Lost hearing in one ear entirely, partial loss in the other. Developed blood clots in his brain. Had brain surgery in 1912 while Cubs owner Murphy fired him from his hospital bed. The surgeries gave him an 'annoyingly whiny tone' from the hearing loss. Died at 47 — heart disease brought on by bronchial asthma, some say related to the cumulative head trauma. Named White Sox manager in 1924 but was too sick to ever take the field. Dead within months."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Peerless Leader",
+      "desc": "Player-manager aura. All teammates gain +1 discipline. Team cannot lose more than 3 games in a row while Chance is healthy."
+    },
+    {
+      "tag": "The Brawler",
+      "desc": "Offseason prizefighter. In any on-field fight, Chance wins automatically. Opponents lose 1 morale after any altercation."
+    },
+    {
+      "tag": "Plate Crowder",
+      "desc": "Fearlessly crowds the plate. +1 CON from intimidating pitchers, but 15% chance of being hit by pitch each game. Cumulative HBP leads to injury risk."
+    },
+    {
+      "tag": "Iron Discipline",
+      "desc": "Fines teammates for fraternizing with opponents. Team morale is rigid: +2 in winning streaks, -2 in losing streaks. No middle ground."
+    },
+    {
+      "tag": "California Gentleman",
+      "desc": "Rancher's calm off the field. After a loss, Chance recovers 1 morale faster than other players."
+    },
+    {
+      "tag": "Dynasty Architect",
+      "desc": "As manager, Chance's team gains +1 to all stats in September. Pennant races are his domain."
+    },
+    {
+      "tag": "Stolen Thunder",
+      "desc": "Fastest first baseman alive. Can attempt to steal any base, including home, with a 70% success rate."
+    },
+    {
+      "tag": "Brain Damage",
+      "desc": "Cumulative head trauma. After 100 career games, Chance's stats begin declining by 1 per season. The clock is always ticking."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Dugout / Manager's Office",
+      "affinity": "HIGH",
+      "note": "His cathedral. From here he built 116 wins and two championships. The tactical nerve center."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Drilled his team relentlessly. Practice was non-negotiable. Errors in practice meant fines in games."
+    },
+    {
+      "location": "Boxing Ring / Gym",
+      "affinity": "HIGH",
+      "note": "Offseason prizefighter. The ring was where the Peerless Leader became the Peerless Brawler."
+    },
+    {
+      "location": "Ranch / Outdoors",
+      "affinity": "HIGH",
+      "note": "Owned a ranch in Glendora, CA. The California gentleman at rest."
+    },
+    {
+      "location": "Hotel / Rest",
+      "affinity": "MEDIUM",
+      "note": "Needed rest — the beanings took their toll. But his mind never stopped strategizing."
+    },
+    {
+      "location": "Bar / Nightlife",
+      "affinity": "LOW",
+      "note": "Preached moderation and sobriety. If his players drank, he'd fine them. Led by austere example."
+    },
+    {
+      "location": "Media / Spotlight",
+      "affinity": "MEDIUM",
+      "note": "Comfortable with the press. Gave memorable quotes. But preferred action to interviews."
+    },
+    {
+      "location": "Owner's Box",
+      "affinity": "LOW",
+      "note": "Owned 10% of the Cubs, but feuded with Murphy viciously. Fired from his hospital bed. Hated management politics."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Pennant races and October baseball — .300 WS BA, .421 in 1908, 10 WS stolen bases",
+      "Physical confrontation — fights, beanings, and brawls energized him rather than intimidated him",
+      "Team success under his authority — the more control he had, the better the team performed",
+      "New challenges — succeeded at catcher, outfield, first base, and manager whenever promoted"
+    ],
+    "cold_triggers": [
+      "Cumulative head trauma — each beaning degraded his long-term capacity, the body failing the will",
+      "Ownership meddling — Murphy firing him from his hospital bed, releasing good players to save money",
+      "Physical breakdown — broken shoulder 1909, fractured ankle 1911, brain surgery 1912",
+      "Losing control — when he couldn't manage (Yankees' bad roster, Red Sox late career), he withered"
+    ],
+    "pressure_response": "THE ULTIMATE CLUTCH LEADER. Frank Chance did not merely perform under pressure — he manufactured winning conditions through sheer force of personality. .300 in the World Series. .421 in 1908. Stole home from second base to break a tie game. Managed the greatest single-season team in baseball history (116-36). Four 100-win seasons in five years. First player ejected from a World Series because he cared too much. But the pressure was also killing him — literally. Each beaning brought him closer to the blood clots, the hearing loss, the brain surgery, and death at 47. The Peerless Leader's greatness and his destruction came from the same source: he refused to back down from anything."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The 116-Win Season",
+      "type": "Action",
+      "text": "Your player-manager demands perfection. For the rest of the season, your team gains +1 to all stats — but any player who commits an error is fined (loses 1 morale). If your team finishes with the best record, all players gain permanent +1 discipline.",
+      "origin": "The 1906 Cubs went 116-36, the best record in baseball history at the time. Chance managed and played first base, hitting .319 with 57 SB. The record stood alone for 95 years until the 2001 Mariners tied it in a longer season."
+    },
+    {
+      "title": "The Greatest Amateur Brawler",
+      "type": "Game Action",
+      "text": "Your player starts a fight on the field. He wins automatically — Jim Corbett and John L. Sullivan said so. The opposing team loses 2 morale. Your team gains 1 intensity. But there's a 30% chance of ejection.",
+      "origin": "Chance was an offseason prizefighter. Boxing legends Corbett and Sullivan called him 'the greatest amateur brawler of all time.' He once assaulted Joe McGinnity on the Polo Grounds and incited a full riot."
+    },
+    {
+      "title": "Baseball's Most Expensive Base",
+      "type": "Game Action",
+      "text": "Your first baseman steals second, then steals home on the very next pitch to break a tie game. If successful (75% chance), your team owner grants the player partial ownership of the franchise.",
+      "origin": "Chance stole second, then immediately stole home against the Reds to break a tie. Owner Murphy was so grateful he gave Chance a 10% ownership stake in the Cubs. Chance later sold it for $150,000."
+    },
+    {
+      "title": "You Do Things My Way",
+      "type": "Drama",
+      "text": "Your manager institutes iron discipline. All players gain +1 to all stats, but any act of insubordination (arguing, fraternizing, missing curfew) results in immediate suspension. If a player's wedding is scheduled mid-season, it must be postponed.",
+      "origin": "Chance fined players for shaking hands with opponents, suspended Tinker for profanity, and forced outfielder Solly Hofman to delay his wedding until after the season."
+    },
+    {
+      "title": "Five Beanings in a Day",
+      "type": "Drama",
+      "text": "Your plate-crowding hitter is hit by pitch 5 times in a doubleheader. He stays in the game each time. +3 CON for the rest of the week from adrenaline and fury. But add 1 to his cumulative head trauma counter. At 5 accumulated, he begins losing stats permanently.",
+      "origin": "On May 30, 1904, Chance was hit by pitch five times in a doubleheader, sustaining a black eye and badly bruised forehead. The cumulative beanings eventually caused blood clots in his brain and killed him at 47."
+    },
+    {
+      "title": "Fired from the Hospital Bed",
+      "type": "Drama",
+      "text": "Your player-manager is recovering from surgery when the team owner fires him during a bedside argument. The manager loses the team — but gains free agency and can sign anywhere for maximum salary.",
+      "origin": "In 1912, Chance was hospitalized for brain surgery to correct blood clots from beanings. Cubs owner Murphy fired him during a heated hospital-room argument over Murphy's cost-cutting. Chance recovered and signed with the Yankees."
+    },
+    {
+      "title": "Tinker to Evers to Chance",
+      "type": "Game Action",
+      "text": "Your SS, 2B, and 1B execute a flawless double play. The opposing team's momentum resets to zero. Your infield gains +1 DEF for the rest of the game.",
+      "origin": "The most famous double-play combination in baseball history, immortalized in Franklin P. Adams' 1910 poem 'Baseball's Sad Lexicon.' Tinker, Evers, and Chance were inducted into the HOF together in 1946."
+    },
+    {
+      "title": "The Peerless Leader Falls",
+      "type": "Drama",
+      "text": "Your greatest manager is named to lead a new team but is too sick to take the field. He never manages a single game. The team plays the entire season without him, haunted by what might have been.",
+      "origin": "Chance was named White Sox manager for 1924 but was too ill to ever take charge. He died in September 1924 at age 47. Evers served as acting manager in his absence."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Big, imposing, gray-eyed Californian. 6'0\" 190 lbs of coiled authority — the biggest man in the infield. Strong jaw, direct gaze, no-nonsense expression. Called a 'gray-eyed man of destiny.' Not handsome so much as commanding. The face of a man who prizefights in the offseason and manages baseball dynasties in-season.",
+    "attire": "Chicago Cubs uniform circa 1906 — white wool jersey with 'CHICAGO' across the chest in dark block letters, baggy flannel pants, flat cap, dark stockings. First baseman's mitt in hand or bat on shoulder. No number. The jersey tight across broad shoulders.",
+    "mood": "Command presence. Standing in the dugout doorway surveying his empire — or at the plate, crowding it fearlessly, daring the pitcher to throw inside. The look of a man who has already decided he will win and is merely going through the formalities.",
+    "style": "Sepia-toned with warm golden highlights. West Side Park grandstand in soft focus, the 1906 pennant flags visible. Dead-ball era photographic grain. Unified ILB portrait style. Warmer and more golden than the Evers card — Chance is California sunshine turned to iron.",
+    "reference": "Think the dugout general — arms crossed, jaw set, the Peerless Leader watching his 116-win machine operate. Or: mid-stride rounding third, stealing home, the fastest first baseman anyone has ever seen. Cabinet card composition, authoritative frame, dominance radiating."
+  },
+
+  "badges": [
+    "HOF 1946",
+    "2× WS Champion",
+    "116-36 Record (1906)",
+    ".664 Manager W%",
+    "401 Career SB",
+    "Greatest Amateur Brawler",
+    "Tinker-Evers-Chance",
+    "The Peerless Leader"
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "card_type": "hitter",
+  "name": "Gavvy Cravath",
+  "nickname": "Cactus",
+  "year": 1915,
+  "team": "Philadelphia Phillies",
+  "era": "1910s",
+  "ilb_team": "Muggers 1910",
+  "position": "RF",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'10\"",
+  "weight": "185 lbs",
+  "born": "March 23, 1881 — Escondido, CA",
+  "died": "May 23, 1963 — Laguna Beach, CA (age 82)",
+  "hof": "Not inducted. 6x NL HR champion (1913-15, 1917-19). 24 HR in 1915 (20th-century record until Ruth). 119 career HR (4th all-time at retirement). 2x NL RBI leader. Led NL in 6 offensive categories in 1915. First Phillies pennant. Magistrate judge, Laguna Beach, 36 years.",
+
+  "real_stats": {
+    "season": 1915,
+    "batting_avg": ".285",
+    "obp": ".393",
+    "slg": ".510",
+    "home_runs": 24,
+    "rbi": 115,
+    "runs": 89,
+    "walks": 86,
+    "war": 7.0,
+    "career_avg": ".287",
+    "career_hits": 1134,
+    "career_hr": 119,
+    "career_rbi": 719,
+    "career_obp": ".380",
+    "career_slg": ".478",
+    "hr_titles": 6,
+    "debut_age": 31
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 4,
+    "pow": 4,
+    "spd": 0,
+    "def": 1,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": ".341 BA in 1913 (best season for average) — tier 4 (>=.340). Led NL in hits (179) that year, near-Triple Crown. Career .287 — solid but not elite. In 1915 (peak overall season), hit only .285 but led league in 6 offensive categories. Excellent batting eye: .380 career OBP, led NL in walks and OBP multiple times. Rating: 4.",
+    "pow": "24 HR in 1915 — 20th-century record until Ruth (1919). 6x NL HR champion (1913-15, 1917-19). .568 SLG in 1913, .510 in 1915. 119 career HR — 4th most in history at retirement. In dead-ball context, 24 HR was as many as 12 of 16 MLB teams combined. Baker Bowl's 272-foot RF porch helped (92 of 119 career HR at home), but he still hit them. 'Some players steal bases with speed. I steal them with my bat.' Rating: 4.",
+    "spd": "'Wooden shoes and piano legs.' Explicitly, famously slow. Couldn't crack Boston's outfield because of it. Zero base-stealing threat. 'I do not claim to be the fastest man in the world.' He was not. Rating: 0.",
+    "def": "Led NL outfielders in assists 3 times — the arm was strong and accurate. 'Sure death on fly balls.' But range was severely limited by his lack of speed. Positioned well, threw well, but couldn't cover ground. Defensive value came entirely from the arm. Rating: 1.",
+    "clu": "1915 WS: .125 (2-for-16), zero HR, zero extra-base hits. Phillies lost in 5 to Boston. 'Looked more like an amateur than any other member of the Phillies.' The most dominant offensive player in the NL disappeared completely on the biggest stage. His groundout drove in the winning run in G1 (Phillies' only win), but otherwise nothing. Only one pennant in his career. Rating: 0."
+  },
+
+  "personality": {
+    "leadership_style": "THE SWASHBUCKLER. Stan Baumgartner: 'A swashbuckling, tobacco-chewin', high cussin', bull-necked, blacksmith-armed wielder of the wagon tongue.' Cravath led by personality — boisterous, confident, self-aware about his limitations and proud of his strengths. He didn't pretend to be fast. He just hit the ball over fences in an era when nobody else could.",
+    "temperament": "SELF-DEPRECATING AND FEARLESS. 'They call me wooden shoes and piano legs and a few other pet names. I do not claim to be the fastest man in the world, but I can get around the bases with a fair wind and all sails set. And so long as I am busting the old apple on the seam, I am not worrying a great deal about my legs.' Practical joker. Good-humored. 'A good-humored, helpful chap.'",
+    "work_ethic": "THE ADAPTATION. In Minneapolis, Cravath learned opposite-field hitting to exploit Nicollet Park's 279-foot RF line. He brought that skill to Baker Bowl (272 feet). He wasn't gifted a park — he LEARNED to use it. The 1910-11 Millers stats (.326/14 HR, then .363/29 HR) were the proof of concept. The Phillies were the payoff.",
+    "lifestyle": "CALIFORNIA TO LAGUNA BEACH. Born in Escondido, CA — first San Diego-area player in MLB. Named 'Gavvy' after killing a seagull with a batted ball (gaviota in Spanish). After baseball: real estate in California, then magistrate judge in Laguna Beach for 36 years (1927-1963). Longer judicial career than baseball career. Died at 82.",
+    "clubhouse_impact": "THE CHARACTER. +2 morale (practical jokes, good humor). +1 confidence (if Cravath is hitting, the lineup has a threat). -1 baserunning (piano legs are contagious to watch). The most entertaining player on the Muggers roster. Not the best. Not the fastest. The most fun.",
+    "dark_side": "Baker Bowl. 92 of 119 career HR at home. Never more than 5 on the road in any season. The greatest home-park advantage in baseball history. Was Cravath great or was he a product? The answer is both — he was great AT exploiting his environment, which is its own kind of genius. But it kept him out of the HOF. And the .125 in the WS, when Baker Bowl wasn't available for 3 of 5 games, suggests the road Cravath was a different, lesser player. The fence had two sides and Cravath was honest about both."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Dead-Ball Home Run King",
+      "desc": "6x NL HR champion. 24 HR in 1915 (20th-century record). Before Ruth, Cravath WAS the power game. +2 POW reputation. Opposing pitchers fear the swing even in the dead-ball era."
+    },
+    {
+      "tag": "Baker Bowl",
+      "desc": "272-foot RF porch. 92 of 119 career HR at home. +2 POW at Baker Bowl. -2 POW on the road. 'There are always two sides to every fence.' The most park-dependent player in ILB."
+    },
+    {
+      "tag": "Piano Legs",
+      "desc": "SPD 0. 'Wooden shoes and piano legs.' Cravath cannot run. He knows it. Everyone knows it. 'So long as I am busting the old apple on the seam, I am not worrying about my legs.'"
+    },
+    {
+      "tag": "The Seagull",
+      "desc": "Named 'Gavvy' after killing a seagull with a batted ball. Gaviota — Gavvy. +1 legend. +1 nickname quality. The most colorful origin story in the Muggers collection."
+    },
+    {
+      "tag": "The Clerical Error",
+      "desc": "Got back to the majors because Minneapolis left out 'not' in a telegram. A typo changed baseball history. +1 fate. Without the error, Cravath stays in the minors and the Phillies never win their first pennant."
+    },
+    {
+      "tag": "Speaker's Outfield Blocked Him",
+      "desc": "Couldn't crack Boston's OF of Speaker, Lewis, Hooper (Golden Outfield — 2 on this roster!). When facing his former team's outfielders, -1 morale (the rejection stings)."
+    },
+    {
+      "tag": "Cactus",
+      "desc": "Western roots, California tough, swashbuckling. +1 toughness. +1 personality. The desert plant that thrives where others can't — in Baker Bowl, in the dead-ball era, everywhere conventional wisdom said power couldn't exist."
+    },
+    {
+      "tag": "The Judge",
+      "desc": "After baseball: magistrate judge in Laguna Beach for 36 years. +1 post-career legacy. Cravath served justice longer than he served the Phillies."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "272-foot RF porch at Baker Bowl. 92 of 119 career HR here. The park that made him — or that he exploited."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Led NL in assists 3 times. Strong arm, limited range. The arm was the weapon in right field."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "Magistrate judge in Laguna Beach for 36 years. The longest career of his life."
+    },
+    {
+      "location": "Gambling Hall",
+      "affinity": "LOW",
+      "note": "Never more than 5 HR on the road in any season. Different player away from Baker Bowl."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "LOW",
+      "note": ".125 (2-16) in 1915 WS. 'Looked more like an amateur.' October was not his month."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Baker Bowl home games — when hitting in Philadelphia, Cravath is a different player; the short porch activates his power",
+      "Patience at the plate — when drawing walks and working counts, the HR follow; led NL in BB and OBP",
+      "Opposite-field mastery — learned at Nicollet Park, perfected at Baker Bowl; when pulling to RF, unstoppable",
+      "Good humor — when the clubhouse is loose, Cravath's at-bats improve; the practical joker hits best when laughing"
+    ],
+    "cold_triggers": [
+      "Road games — 92 of 119 career HR at home; on the road, Cravath's power drops dramatically; POW effectively -2",
+      "World Series pressure — .125 in 1915; the biggest stage turned the biggest slugger into an amateur",
+      "Speed situations — any context requiring legs (infield hits, extra bases, defense) exposes the SPD 0",
+      "Late-career decline — by 1919 was mostly a pinch-hitter; the body that was never fast became barely mobile"
+    ],
+    "pressure_response": "CATASTROPHIC. The 1915 WS was Cravath's only chance on the biggest stage, and he went 2-for-16 (.125) with zero extra-base hits. The NL's most dominant offensive player — 24 HR, 115 RBI, .510 SLG — vanished against Boston's pitching. 3 of 5 games were on the road, away from Baker Bowl. The road Cravath was always lesser, but the WS Cravath was almost non-existent. CLU 0 is earned, and it's the tragedy of his career."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Twenty-Four",
+      "type": "Game Action",
+      "text": "Your right fielder hits his 24th home run of the season. No one in the 20th century has ever hit more. In a league where teams hit fewer than 20 combined, your slugger has hit 24 alone. The record will stand until a pitcher named Ruth breaks it four years later. +4 POW. +3 all-time record. The dead-ball era's impossible number.",
+      "origin": "1915: Cravath hit 24 HR — 20th-century record. As many as 12 of 16 MLB teams combined."
+    },
+    {
+      "title": "The Baker Bowl Advantage",
+      "type": "Game Action",
+      "text": "Right field: 272 feet. Your right-handed batter lifts a fly ball that would be an out in any other park. It clears the wall. Home run. 92 of 119 will come here. +2 POW at home. -2 POW on road. 'There are always two sides to every fence.' Your slugger is honest about his advantage.",
+      "origin": "92 of 119 career HR at Baker Bowl. Never more than 5 on the road. The most park-dependent slugger ever."
+    },
+    {
+      "title": "The Gaviota",
+      "type": "Drama",
+      "text": "Your batter crushes a ball into the California sky. It strikes a seagull in flight. The bird falls dead. The Mexican fans chant: 'Gaviota! Gaviota!' The American fans join in. Your player has a new name. +1 nickname. +1 legend. +0 ornithology. Gavvy Cravath is born.",
+      "origin": "Cravath earned his nickname hitting a ball that killed a seagull (gaviota in Spanish) in semi-pro ball."
+    },
+    {
+      "title": "The Clerical Error",
+      "type": "Drama",
+      "text": "The Minneapolis Millers send a telegram to Pittsburgh about your player's availability. They mean to write 'NOT available.' They write 'available.' The National Commission rules the error binding. Your player becomes a free agent at 31. He signs with Philadelphia. He hits 119 home runs. A missing word changes baseball history. +3 fate. +1 second chance.",
+      "origin": "Minneapolis left out 'not' in a telegram, accidentally making Cravath a free agent. He signed with the Phillies."
+    },
+    {
+      "title": "One-Twenty-Five in October",
+      "type": "Drama",
+      "text": "Your slugger — 24 HR, 115 RBI, the most dominant offensive player in the NL — goes 2-for-16 in the World Series. .125. Zero extra-base hits. 'Looked more like an amateur.' The Phillies lose in 5. The fence is 272 feet in Philadelphia. It is 350 in Boston. Your slugger's power has no home here. -3 CLU. -2 reputation. The two sides of every fence.",
+      "origin": "1915 WS: Cravath hit .125 (2-16), zero HR, as Phillies lost in 5 to Red Sox."
+    },
+    {
+      "title": "Piano Legs and Wooden Shoes",
+      "type": "Drama",
+      "text": "'They call me wooden shoes and piano legs and a few other pet names. I do not claim to be the fastest man in the world, but I can get around the bases with a fair wind and all sails set. And so long as I am busting the old apple on the seam, I am not worrying about my legs.' +2 self-awareness. +1 humor. -2 SPD. The slowest man in the Muggers, and the funniest about it.",
+      "origin": "Cravath's self-deprecating quote about his lack of speed — one of the best in dead-ball era baseball."
+    },
+    {
+      "title": "Six Home Run Titles",
+      "type": "Game Action",
+      "text": "Your right fielder wins the NL home run crown for the sixth time in seven years. No one has ever done this. Mel Ott will tie it. Ralph Kiner will break it. Mike Schmidt will extend it. But your slugger did it first, in an era when home runs barely existed. +3 POW legacy. +2 historical significance.",
+      "origin": "6x NL HR champion (1913-15, 1917-19). Record stood until Kiner's 7th in 1952."
+    },
+    {
+      "title": "Thirty-Six Years on the Bench",
+      "type": "Drama",
+      "text": "Your retired slugger becomes a magistrate judge in Laguna Beach, California. He serves for 36 years. He serves the law longer than he served the Phillies. He dies at 82, having hit 119 home runs and rendered thousands of verdicts. +2 judicial legacy. The gavel outlasts the bat.",
+      "origin": "Cravath was elected magistrate judge in Laguna Beach in 1927, serving 36 years until his death in 1963."
+    }
+  ],
+
+  "art_direction": {
+    "face": "BULL-NECKED, POWERFUL, AMUSED, WESTERN. 5'10\" 185 lbs — 'bull-necked, blacksmith-armed.' NOT a pretty face. A WORKING face — thick neck, broad shoulders, strong jaw, the face of a man who chews tobacco, cusses fluently, and hits balls over fences that are 272 feet away. California-tanned. The expression: a cocky grin with self-awareness. He knows he's slow. He knows the park helps. He doesn't care. He'll hit another one tomorrow.",
+    "attire": "Philadelphia Phillies 1915 whites — wool flannel with the 'P' insignia, flat cap. THE POSE: the power swing follow-through — Cravath's right-handed swing fully extended, the ball already gone, the body uncoiled. The swing should look violent and compact — not the graceful line-drive of Wheat but a muscle swing designed to put the ball over the short porch. Or: standing at the plate, bat on shoulder, staring at the Baker Bowl wall 272 feet away, knowing exactly what he's going to do.",
+    "mood": "COCKY CONFIDENCE. Cravath's card should feel like a saloon in the Old West — loud, confident, slightly dangerous, and full of character. Not elegant. Not refined. ENTERTAINING.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Baker Bowl red undertones — the faded red of the brick outfield wall, the dusty green of desert cacti. Where Wheat is harvest gold, Cravath is sunbaked red — the color of old brick, hot California sun, and a man who's been playing in small parks his whole career.",
+    "reference": "The thick neck. The power swing. The Baker Bowl wall looming close behind him. A seagull falling from the sky. The card should feel PHYSICAL — the most muscular, least graceful card in the Muggers outfield collection."
+  }
+}

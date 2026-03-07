@@ -1,0 +1,228 @@
+{
+  "card_type": "player",
+  "name": "Lou Gehrig",
+  "nickname": "The Iron Horse",
+  "year": 1927,
+  "team": "New York Yankees",
+  "era": "1920s",
+  "ilb_team": "Bashers AL1920",
+  "position": "1B",
+  "bats": "L",
+  "throws": "L",
+  "height": "6'0\"",
+  "weight": "200 lbs",
+  "born": "June 19, 1903 — New York, NY",
+  "died": "June 2, 1941 — New York, NY (age 37)",
+  "hof": "Inducted 1939 — special election, five-year waiting period waived. First player to have his number (#4) retired. Voted greatest first baseman of all time (BBWAA, 1969). Leading vote-getter on MLB All-Century Team (1999).",
+
+  "real_stats": {
+    "season": 1927,
+    "games": 155,
+    "at_bats": 584,
+    "hits": 218,
+    "doubles": 52,
+    "triples": 18,
+    "home_runs": 47,
+    "rbi": 175,
+    "stolen_bases": 10,
+    "batting_avg": ".373",
+    "obp": ".474",
+    "slg": ".765",
+    "ops": "1.240",
+    "runs_scored": 149,
+    "walks": 109,
+    "strikeouts": 84,
+    "war": 12.8,
+    "total_bases": 447,
+    "extra_base_hits": 117,
+    "career_avg": ".340",
+    "career_hits": 2721,
+    "career_hr": 493,
+    "career_rbi": 1995,
+    "career_runs": 1888,
+    "career_obp": ".447",
+    "career_slg": ".632",
+    "career_ops": "1.080",
+    "career_war": 113.8,
+    "career_2b": 534,
+    "career_3b": 163,
+    "career_grand_slams": 23,
+    "consecutive_games": 2130,
+    "ws_titles": 6,
+    "ws_appearances": 7,
+    "ws_avg": ".361",
+    "ws_slg": ".731",
+    "ws_hr": 10,
+    "ws_rbi": 35
+  },
+
+  "ilb_stats": {
+    "ovr": 12,
+    "con": 5,
+    "pow": 5,
+    "spd": 1,
+    "def": 0,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "con": ".373 in 1927 — higher than Ruth's .356. Career .340. 2,721 hits in just 17 seasons (shortened by ALS). 218 H in 1927. 8 seasons with 200+ H. .474 OBP in 1927, .447 career. Seven times he achieved 200+ H AND 100+ BB in the same season — a feat of combined contact and discipline almost no one else has matched. From 1927-37, every single season: .300+ BA, .424+ OBP, .583+ SLG. Eleven straight years of that. Only Cobb, Ruth, and Bonds also produced 11 qualifying seasons with 165+ OPS+. Rating of 5 — MAXIMUM.",
+    "pow": "47 HR in 1927 — would have been the record in almost any other year, but Ruth hit 60. 493 career HR. .765 SLG (1927). .632 career SLG (3rd all-time behind Ruth and Williams). 23 career grand slams — record for over 70 years. 185 RBI in 1931 — the AL record, which STILL stands. Three of the six highest RBI seasons in history (185, 175, 173). 534 career 2B. 447 TB in 1927 (3rd all-time). 117 XBH in 1927 (2nd all-time to Ruth's 119). Triple Crown 1934: .363/49/166. The power was as immense as Ruth's — the difference was 13 HR in one season and the world decided who was king. Rating of 5 — MAXIMUM.",
+    "spd": "10 SB in 1927. 163 career triples — remarkable for a first baseman, indicating real speed in his prime. He was considered an excellent baserunner until ALS began to affect his coordination. Not a speed threat, but not slow either. He ran hard on every play because he didn't know another way. Rating of 1.",
+    "def": "Solid, reliable, there every day. Led AL 1B in assists 3 times, putouts 3 times. Good hands. But not elite — not in the class of Sisler or Hal Chase defensively. His value was almost entirely offensive. The 2,130 consecutive games are a testament to his durability, not his glove. Rating of 0.",
+    "clu": "The postseason numbers are staggering. .361 WS BA — higher than his career .340. .731 WS SLG — higher than his career .632. 10 WS HR and 35 WS RBI in just 34 games. The Yankees won 6 of the 7 World Series he played in. His 1.214 WS OPS ties Ruth for 3rd-best in WS history. He got better when it mattered. In 1928 WS, he hit .545 with 4 HR and 9 RBI in a 4-game sweep. In 1932 WS (the Called Shot game), Gehrig hit 3 HR and 8 RBI — overshadowed by Ruth's legend. He was the greatest postseason hitter of the pre-modern era. Rating of 3 — MAXIMUM."
+  },
+
+  "personality": {
+    "leadership_style": "Quiet authority. Gehrig was named Yankees captain in 1935 — the team didn't name another captain until Thurman Munson in 1976. He led by presence, by showing up every single day, by never complaining, never missing a game, never asking for anything. His teammates revered him in a way they never revered Ruth — not with awe, but with deep respect. He was the foundation. Ruth was the weather; Gehrig was the ground.",
+    "temperament": "Reserved, humble, dutiful. The son of German immigrants who valued work above all else. His father was a metalworker often out of work; his mother Christina took in laundry, cooked, cleaned. Lou absorbed their ethic — head down, work hard, don't complain, don't show off. He was painfully shy. He lived with his parents until age 30. His mother ruined every romance until Eleanor Twitchell. He was the antithesis of Ruth in every way except one: at the plate, they were equals.",
+    "work_ethic": "ABSOLUTE. The streak — 2,130 consecutive games — is the physical proof. He played through broken fingers (X-rays taken after his death revealed multiple fractures nobody knew about). He played through back spasms. He was hit in the head by a pitch and stayed in the game. His GM once faked a rainout when Gehrig was sick, to protect the streak. His wife tried to trick him into stopping at 1,999 games. He played every single day for fourteen years because that was what his parents would have wanted, because that was what the team needed, because that was who he was.",
+    "lifestyle": "Modest, almost ascetic compared to Ruth. Earned well but lived simply. Married Eleanor in 1933 — she was his first real relationship, his mother having driven away all previous girlfriends. They were devoted to each other. Eleanor never remarried after Lou's death and spent the rest of her life (until 1984) preserving his legacy. He didn't drink to excess, didn't carouse, didn't make headlines. The press nicknamed him 'Biscuit Pants' — a gentle tease for his quiet, doughy earnestness.",
+    "era_adaptability": "SUPREME. Gehrig's .340/.447/.632 career line would be elite in any era. His 113.8 WAR is the highest of any first baseman in history. His plate discipline (11 seasons with 100+ walks) and power (.632 SLG) translate perfectly to modern baseball. He would be the best first baseman in any era, which is exactly what he was in his own.",
+    "clubhouse_impact": "STABILIZING. If Ruth was the weather, Gehrig was the thermostat. He kept the temperature even. He showed up. He performed. He didn't create drama. In ILB: Gehrig provides +1 to team discipline and +1 to team morale — not through charisma but through reliability. Every teammate knows that Gehrig will be in the lineup tomorrow. Every teammate knows that Gehrig will produce. The certainty itself is a form of leadership.",
+    "dark_side": "The shadow. Gehrig spent his entire career in someone else's shadow — first Ruth, then McGraw (who stole his 4-HR headlines), then Ruth again (the Called Shot overshadowed Gehrig's 2 HR in the same game), then DiMaggio. He was the greatest first baseman alive and the second-most famous player on his own team for 12 of his 17 seasons. The shadow ate at him. He and Ruth had a famous falling-out — reportedly over a comment Ruth's wife made about Eleanor's parenting — and the two didn't speak for years. They reconciled at the Luckiest Man speech. The other shadow: ALS. The disease that took his body at 37 and his life at 37. He went from 200 hits and 100 RBI to .143 and unable to field in less than a year. He took himself out of the lineup on May 2, 1939, because he knew he was hurting the team. The last act of the Iron Horse was recognizing that the horse was broken. In ILB: 'The Iron Horse Breaks' — mandatory late-career event. At a random point after age 34, Gehrig's stats begin declining. The decline is irreversible. It cannot be treated. It is the cruelest card in ILB."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Iron Horse",
+      "desc": "2,130 consecutive games. In ILB, Gehrig cannot be benched, cannot be rested, cannot be injured for more than 0 games. He plays every game. Period. The streak is not a stat — it is a law of physics."
+    },
+    {
+      "tag": "Ruth's Shadow",
+      "desc": "As long as Ruth is on the same team, Gehrig's OVR appears as 10 instead of 12 to the public. His stats are unchanged — only his visibility is reduced. If Ruth is traded or retires, Gehrig's true OVR is revealed. Cross-reference: Ruth's 'Ruth's Shadow' trait on Sisler."
+    },
+    {
+      "tag": "The Luckiest Man",
+      "desc": "If Gehrig is forced to retire (via 'The Iron Horse Breaks'), trigger the Luckiest Man speech. +3 to entire team's morale permanently. +2 to league-wide attendance for the remainder of the season. The speech is the most powerful morale event in ILB."
+    },
+    {
+      "tag": "Twenty-Three Grand Slams",
+      "desc": "When Gehrig bats with bases loaded, automatic +3 CON and +3 POW. 23 career grand slams — the most for 70+ years. In pressure situations with runners on, Gehrig becomes the most dangerous hitter in ILB."
+    },
+    {
+      "tag": "The Iron Horse Breaks",
+      "desc": "MANDATORY EVENT. At a random point after season age 34, Gehrig's stats begin a permanent, irreversible decline: -1 to CON and POW per season. Cannot be stopped. Cannot be treated. The disease has no name in 1939. This is the cruelest card in ILB. It must be played."
+    },
+    {
+      "tag": "Murderers' Row",
+      "desc": "When Gehrig bats behind Ruth (or any OVR 10+ player), +1 to POW — pitchers can't pitch around Gehrig without facing Ruth. The most feared back-to-back in baseball history."
+    },
+    {
+      "tag": "Number Four",
+      "desc": "First retired number in baseball history. Gehrig's #4 cannot be worn by any other player on his team, in his era, or in ILB. The number itself is a monument."
+    },
+    {
+      "tag": "Columbia Man",
+      "desc": "Attended Columbia University. +1 to intelligence-based plays (situational hitting, baserunning decisions). Gehrig was not just a ballplayer — he was educated, thoughtful, and strategic."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "17 seasons. 1,065 of 2,130 streak games. The Luckiest Man speech. Number retired. He IS Yankee Stadium as much as Ruth is.",
+      "note_extra": "Source labeled 'Yankee Stadium' with affinity 'MAXIMUM' — mapped to Media/Spotlight as home-franchise/ballpark node. MAXIMUM normalized to HIGH."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Batting 4th, behind Ruth (#3). .340/.447/.632. 1,995 RBI. He hit cleanup for a decade behind the greatest hitter alive and was his equal.",
+      "note_extra": "Source labeled 'Batter's Box — Cleanup' with affinity 'MAXIMUM' — mapped to Practice Field as batting/position node. MAXIMUM normalized to HIGH."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": ".361/.483/.731. Better in October than the regular season. 6 of 7 WS won. 10 HR, 35 RBI in 34 games.",
+      "note_extra": "Source labeled 'World Series' with affinity 'MAXIMUM' — mapped to Practice Field per World Series collision taxonomy. MAXIMUM normalized to HIGH. Second Practice Field entry on this card. Consistent with Gardner's World Series/HIGH mapping — both are 4+ WS champions with unambiguously positive October affinities."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "2,130 consecutive games at first base. The position is his. The ground is his. He will be there tomorrow.",
+      "note_extra": "Source labeled 'First Base' with affinity 'HIGH' — direct pass-through. Third Practice Field entry on this card (Batter's Box, World Series, First Base all map to Practice Field). The triple convergence on a single node reflects Gehrig's identity as entirely defined by the act of playing."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "'Today I consider myself the luckiest man on the face of the earth.' 61,808 people. Babe Ruth embraced him. The most important speech in sports history.",
+      "note_extra": "Source labeled 'Home Plate — July 4, 1939' with affinity 'SACRED' — first use of SACRED affinity in the set. SACRED has no standard taxonomy equivalent; normalized to HIGH as the most positive available tier. The SACRED designation marks this as qualitatively distinct from all other locations in the set — a site of irreversible, permanent meaning rather than preference or performance. Flagged for potential future taxonomy addition if a SACRED tier is formalized."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Every day — Gehrig's defining quality was consistency. From 1927-37, he hit .300+ with .424+ OBP and .583+ SLG EVERY season. He didn't have hot streaks — he had a 13-year baseline of excellence.",
+      "Bases loaded — 23 career grand slams. When runners were on, Gehrig was the most dangerous hitter alive.",
+      "World Series — .361 BA, .731 SLG. He was better in October. The 1928 WS: .545 BA, 4 HR, 9 RBI in a 4-game sweep.",
+      "After Ruth performs — when Ruth hit 3 HR in the 1928 WS, Gehrig hit 4 HR. When Ruth had his Called Shot, Gehrig hit the next pitch for a HR. He elevated alongside Ruth, not in spite of him."
+    ],
+    "cold_triggers": [
+      "1938 — The beginning of the end. .295 BA, 29 HR. 'I tired mid-season. I don't know why.' The body was failing and nobody knew why.",
+      "1939 spring — .143 BA. Unable to field routine grounders. Teammates noticed. He noticed. The end was coming.",
+      "Being overshadowed — his 4 HR game was buried by McGraw's retirement. His 2 HR in the Called Shot game were forgotten. When visibility is stolen, a quiet -1 to all stats.",
+      "Mother's interference — Christina Gehrig dominated Lou's personal life until Eleanor. Personal turmoil -1 to focus."
+    ],
+    "pressure_response": "GRANITE. Gehrig's response to pressure was to become MORE himself — more consistent, more reliable, more present. His WS stats (.361/.731) exceed his regular season stats (.340/.632). He didn't rise to the occasion — he was already at the occasion, every day, and the occasion simply recognized him when it mattered. The Iron Horse didn't bend under pressure. Iron doesn't bend. It holds until it breaks, and then it holds some more, and then it breaks forever. CLU 3."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Two Thousand One Hundred Thirty",
+      "type": "Legacy",
+      "text": "Your first baseman played yesterday. He will play today. He will play tomorrow. He played with broken fingers nobody knew about until the X-rays after his death. He played when his GM faked a rainout to protect him. He played when his wife tried to trick him into stopping at 1,999. He plays because his parents were poor German immigrants who taught him that the only thing a man has is his work, and you do not miss work. Not for fourteen years. Not for 2,130 games.",
+      "origin": "June 1, 1925 to May 2, 1939. 2,130 consecutive games. The record stood for 56 years until Cal Ripken Jr. surpassed it in 1995."
+    },
+    {
+      "title": "The Luckiest Man",
+      "type": "Drama",
+      "text": "July 4, 1939. Yankee Stadium. Sixty-one thousand eight hundred and eight people. Your first baseman is dying. He knows it. They know it. He steps to the microphone and says: 'Today I consider myself the luckiest man on the face of the earth.' Babe Ruth, who hasn't spoken to him in years, walks across the field and embraces him. The stadium weeps. The nation weeps. The game stops.",
+      "origin": "Lou Gehrig Appreciation Day. Gehrig's farewell speech. He and Ruth had been estranged over a personal dispute. Ruth embraced Gehrig at the ceremony. Gehrig died less than two years later."
+    },
+    {
+      "title": "Wally Pipp's Headache",
+      "type": "Action",
+      "text": "June 2, 1925. Your starting first baseman has a headache. Your manager puts the kid from Columbia in his place. The kid from Columbia will not leave the lineup for fourteen years. Wally Pipp will become the most famous man in baseball history to lose his job to a headache.",
+      "origin": "Miller Huggins benched Wally Pipp for a slumping lineup. Gehrig replaced him and never left. 'Wally Pipp'd' entered the baseball lexicon as a cautionary tale."
+    },
+    {
+      "title": "The Shadow",
+      "type": "Drama",
+      "text": "June 3, 1932. Your first baseman hits four home runs in a single game — the first American Leaguer to do it in the modern era. The next morning, the headlines are about John McGraw retiring from the Giants. Your first baseman says nothing. He never says anything. He just shows up tomorrow and hits.",
+      "origin": "Gehrig's 4 HR game at Shibe Park was overshadowed by McGraw's retirement. In the 1932 WS, Gehrig's 3 HR and 8 RBI were overshadowed by Ruth's Called Shot. It happened his entire career."
+    },
+    {
+      "title": "One Hundred Eighty-Five",
+      "type": "Game Action",
+      "text": "Your first baseman drives in 185 runs in a single season. It is the American League record. It will still be the American League record in 2026. Nobody talks about it because Hack Wilson drove in 190 the year before. Your first baseman is the second-most prolific run producer in a single season, on a team with the most prolific home run hitter alive, and somehow both of those things make him invisible.",
+      "origin": "1931: 185 RBI — the AL record, still standing. Second all-time behind Hack Wilson's 190 (NL, 1930). Gehrig also hit .341 with 46 HR that year."
+    },
+    {
+      "title": "May Second",
+      "type": "Drama",
+      "text": "May 2, 1939. Your first baseman walks to the manager's office. He has a .143 batting average. He cannot field a routine grounder. He doesn't know what's wrong. He says: 'I'm not helping the team.' The manager says nothing because there is nothing to say. The Iron Horse removes himself from the lineup for the first time in fourteen years. In Detroit, the opposing players give him a standing ovation. He tips his cap and weeps in the dugout.",
+      "origin": "Gehrig voluntarily ended his streak at 2,130 games. He was diagnosed with ALS the following month. He never played again."
+    },
+    {
+      "title": "Murderers' Row",
+      "type": "Game Action",
+      "text": "Your lineup reads: Combs, Koenig, Ruth, Gehrig, Meusel, Lazzeri. The 1927 Yankees. One hundred and ten wins. A nineteen-game pennant lead. A four-game World Series sweep. Pittsburgh's players watched your team take batting practice before Game 1 and lost the Series before it started. Your first baseman hit .373 with 47 HR and 175 RBI, won the MVP, and was the second-most talked-about player on his own team.",
+      "origin": "The 1927 Yankees — Murderers' Row — are widely considered the greatest team in baseball history. Gehrig won the MVP. Ruth hit 60 HR. The Pirates were reportedly demoralized watching BP."
+    },
+    {
+      "title": "Number Four",
+      "type": "Legacy",
+      "text": "Your first baseman's number is retired. It is the first time any team in any sport has done this. Number four will never be worn again by a New York Yankee. It will hang in the stadium forever. They retired the number because the man who wore it will never play again, and no one should pretend to replace him.",
+      "origin": "July 4, 1939. The Yankees retired #4 — the first retired number in MLB history, and the first in major American professional sports."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'0\" 200 lbs. Broad-shouldered, thick-armed, powerful but not imposing. The face is open, earnest, almost boyish — square jaw, clear eyes, dark hair parted neatly. He looks like a man who would help you move your furniture. He looks like someone's son. He looks like he's trying very hard not to be noticed, which makes you notice him more.",
+    "attire": "New York Yankees 1927 pinstripes — same uniform as Ruth, same team, same year. But where Ruth's card is mid-swing with the ball already gone, Gehrig's should be at the ready — bat on shoulder, or in his stance, waiting. Always waiting. Always prepared. The #4 on the back should be visible. The uniform should be slightly dirty — he's been in the game every day.",
+    "mood": "QUIET PERMANENCE. This card should feel like bedrock. Where Ruth is a supernova, Gehrig is the earth beneath it. The mood is steady, warm, certain — like knowing your father will be home when you get there. There should be no flash. There should be no drama. There should be only the absolute certainty that this man will be here tomorrow, and the day after, and the day after that, until the day he can't be here anymore, and then the world will break.",
+    "style": "Full color — Bashers era — but where Ruth's card blazes with saturated navy and gold, Gehrig's should be warmer, more grounded. Rich earth tones beneath the pinstripes. Golden late-afternoon light at Yankee Stadium, but the light of 5:30 PM, not high noon — the light that says the day is almost over but there's still work to do. The card border should be iron-gray, not gold. Iron, not gold. The Iron Horse.",
+    "reference": "Ruth is the solar system. Gehrig is the axis the solar system spins on. Without Ruth, baseball is still great. Without Gehrig, the Yankees don't win 6 of 7 World Series. He is the most important player no one talks about first. His card should feel like the thing you didn't know you needed until it was gone. It should feel like reliability. It should feel like love expressed through presence rather than words. It should feel like a man who, upon learning he was dying, told sixty thousand people he was lucky."
+  }
+}

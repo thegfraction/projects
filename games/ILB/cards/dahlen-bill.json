@@ -1,0 +1,227 @@
+{
+  "card_type": "hitter",
+  "name": "Bill Dahlen",
+  "nickname": "Bad Bill",
+  "year": 1894,
+  "team": "Chicago Colts",
+  "era": "1890s",
+  "ilb_team": "Banners",
+  "position": "SS",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'9\"",
+  "weight": "180 lbs",
+  "born": "January 5, 1870 — Nelliston, NY",
+  "died": "December 5, 1950 — Brooklyn, NY",
+  "hof": "Not inducted — highest WAR (75.2) of any eligible non-HOF position player. Fell 2 votes short in 2013.",
+
+  "real_stats": {
+    "season": 1894,
+    "games": 121,
+    "at_bats": 502,
+    "hits": 182,
+    "doubles": 32,
+    "triples": 14,
+    "home_runs": 15,
+    "rbi": 108,
+    "runs": 150,
+    "stolen_bases": 43,
+    "batting_avg": ".359",
+    "obp": ".455",
+    "slg": ".566",
+    "ops": "1.021",
+    "ops_plus": 138,
+    "war": 7.1,
+    "career_avg": ".272",
+    "career_hits": 2461,
+    "career_hr": 84,
+    "career_sb": 548,
+    "career_war": 75.2,
+    "career_rbi": 1234,
+    "career_runs": 1590,
+    "career_doubles": 413,
+    "career_triples": 163,
+    "ejections": 70,
+    "hitting_streak": 42
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "con": 5,
+    "pow": 2,
+    "spd": 3,
+    "def": 2,
+    "clu": 1
+  },
+
+  "stat_justification": {
+    "con": ".359 BA in 1894 — highest ever by a SS at the time. .330+ = max 5. Career .272 across 21 seasons with a 110 OPS+. Led NL in hits during peak years. The 42-game hitting streak proves sustained contact mastery.",
+    "pow": "15 HR in 1894 (10-19 HR = 1). SLG .566 (>=.500 = +1) = 2. Had considerable power for the dead-ball era — 84 career HR ranked among the top 15 all-time at retirement. Not a slugger, but dangerous.",
+    "spd": "43 SB in 1894 (31-50 = 3). Career 548 SB. Johnny Evers called him the most astute baserunner he'd ever seen. Famous ambidextrous hook slide. Elite speed and instincts on the bases.",
+    "def": "Pre-Gold Glove era (before 1957), so reputation-based: led NL in assists 4x, double plays 3x, set career records for games, putouts, assists, and total chances at SS. John McGraw called him the best SS in the country. 28.5 defensive WAR (11th all-time). Rating: 2 (conservative for pre-GG era).",
+    "clu": "Went 0-for-15 in only World Series (1905) — .000 BA = 0. However, stole 3 bases and played flawless defense in that Series. The 42-game hitting streak shows ability to perform under sustained pressure. Splitting the difference: 1."
+  },
+
+  "personality": {
+    "leadership_style": "Lead by intimidation and intensity. Dahlen didn't inspire through speeches — he inspired through fury. He played every game like a personal insult needed avenging. As a manager, he was ejected 36 times in four seasons.",
+    "temperament": "Volcanic. Ejected 70 times total across his career as player and manager. The nickname 'Bad Bill' came from his relentless umpire-baiting, which included physical confrontations. A 1898 Tribune summary noted he 'holds the record for being put out of games.' Tied an MLB record with 11 ejections in 1910 alone.",
+    "work_ethic": "Elite. Played 21 seasons and held the all-time games played record (2,443) at retirement. Despite his temper, Dahlen was durable, dependable, and always in the lineup. Cap Anson started him immediately as a rookie and he never stopped playing.",
+    "lifestyle": "Member of Chicago's notorious 'Dawn Patrol' — a group of Colts players who caroused all night. Dahlen, Bill Lange, and Jimmy Ryan were ungovernable partiers whose antics exhausted club management. He was known to get himself ejected from games to attend horse races.",
+    "era_adaptability": "HIGH. Grew up in tiny Nelliston, NY, played semi-pro at 19, adapted from small-town New York to big-city Chicago, Brooklyn, and Manhattan. Thrived under both Cap Anson's old-school discipline and John McGraw's combative style. Would fit any era that rewards toughness.",
+    "clubhouse_impact": "Divisive. Teammates either loved his fire or resented his indiscipline. Brooklyn ownership traded him twice because his behavior 'injured the team in a disciplinary way.' But McGraw — a kindred spirit — called the Dahlen trade the 'most successful deal I ever made.'",
+    "dark_side": "Divorced his first wife Hattie amid allegations of domestic violence in 1901. His ejection habit was compulsive — he'd get thrown out to attend horse races. After retirement, he faded into obscurity: night clerk at a Brooklyn post office, attendant at Yankee Stadium. Died at 80, buried in an unmarked grave."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Volatile Competitor",
+      "desc": "Ejection risk every game — but +1 to team intensity when present."
+    },
+    {
+      "tag": "Dawn Patrol",
+      "desc": "Nightlife affinity. If paired with other carousing players, chemistry boost — but fatigue risk increases."
+    },
+    {
+      "tag": "Iron Man",
+      "desc": "Held the all-time games played record. Extremely low injury risk."
+    },
+    {
+      "tag": "Umpire's Nightmare",
+      "desc": "High ejection probability. When ejected, team loses his stats for remainder of game."
+    },
+    {
+      "tag": "Scientific Runner",
+      "desc": "Ambidextrous hook slide. +1 SB success rate, harder to tag on bases."
+    },
+    {
+      "tag": "McGraw's Kindred Spirit",
+      "desc": "Extra chemistry with combative managers and aggressive team personalities."
+    },
+    {
+      "tag": "Forgotten Legend",
+      "desc": "If benched or underutilized, no morale penalty — Dahlen accepts obscurity quietly."
+    },
+    {
+      "tag": "Upstate Roots",
+      "desc": "Born 23 miles from Cooperstown. Comfort bonus in New York-based era squares."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Bar/Nightlife",
+      "affinity": "HIGH",
+      "note": "Core member of Chicago's Dawn Patrol. Caroused hard and often with Lange and Ryan."
+    },
+    {
+      "location": "Gambling Hall",
+      "affinity": "HIGH",
+      "note": "Got himself ejected from games to attend horse races. Known gambler."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "MEDIUM",
+      "note": "Not known for extra practice, but 21-year durability suggests consistent preparation."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Combative presence. Argued with management, but respected by tough teammates."
+    },
+    {
+      "location": "Restaurant/Steakhouse",
+      "affinity": "MEDIUM",
+      "note": "Social figure in Chicago and Brooklyn nightlife circles."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "LOW",
+      "note": "Too restless. The Dawn Patrol didn't do early bedtimes."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "LOW",
+      "note": "Taciturn and private off the field. Reluctant interviewee. Avoided the spotlight."
+    },
+    {
+      "location": "Church",
+      "affinity": "NONE",
+      "note": "No association in historical record."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Multi-hit games (the 42-game streak began with him batting just .257 — then he caught fire)",
+      "Umpire confrontations that go his way (rage fuels performance)",
+      "Playing for managers who match his intensity (McGraw effect)",
+      "Pennant races and high-stakes series (4 NL pennants, 1 WS ring)"
+    ],
+    "cold_triggers": [
+      "Ejections (loses game time — the self-inflicted wound)",
+      "Management criticism of his lifestyle (Chicago ownership's public complaints triggered decline)",
+      "Postseason pressure (0-for-15 in the World Series suggests a different kind of cold)",
+      "Being traded or feeling unwanted (Brooklyn traded him twice for disciplinary reasons)"
+    ],
+    "pressure_response": "COMPLEX. Dahlen's 42-game hitting streak — getting hits in 70 of 71 games — is one of the greatest sustained pressure performances in baseball history. But he went 0-for-15 in his only World Series. He thrived under daily grind pressure but may have tightened in the ultimate spotlight. His temper was both fuel and flaw: it drove him to 21 seasons of elite play, but it also got him thrown out of games he could have won."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Streak",
+      "type": "Game Action",
+      "text": "Your SS has been hitting in every game. If he's had hits in 3+ consecutive games, he goes on a tear: +2 CON for the next 5 games. If the streak breaks, momentum drops to Cold.",
+      "origin": "Dahlen's record 42-game hitting streak in 1894 — hits in 70 of 71 games. Fourth-longest in MLB history."
+    },
+    {
+      "title": "Ejected!",
+      "type": "Drama",
+      "text": "Your hothead player argues a call too aggressively. He's tossed from the game. Lose his stats for the remainder. If he was your best player, team morale drops by 1.",
+      "origin": "Dahlen was ejected 70 times as player and manager. He once tied the MLB record with 11 ejections in a single season (1910)."
+    },
+    {
+      "title": "The Dawn Patrol",
+      "type": "Drama",
+      "text": "Three of your players stayed out all night before a game. Each has -1 to all stats today. But if any of them get a hit, the others get a +1 morale boost. Camaraderie through chaos.",
+      "origin": "Dahlen, Bill Lange, and Jimmy Ryan were Chicago's notorious Dawn Patrol — ungovernable carousers who exhausted management's patience."
+    },
+    {
+      "title": "Thrown Out to the Races",
+      "type": "Action",
+      "text": "Your player deliberately provokes an ejection so he can leave the game early. Remove him from the lineup. Roll: 60% chance he returns tomorrow refreshed (+1 all stats for 1 game). 40% chance he's suspended for 2 games.",
+      "origin": "Dahlen's habit of getting ejected to attend horse races at the track."
+    },
+    {
+      "title": "The Best Deal I Ever Made",
+      "type": "Action",
+      "text": "Trade a 'problem' player with high stats to a rival. The traded player gets +2 OVR with his new team. Your team gets two replacement-level players. Was it worth it?",
+      "origin": "John McGraw called acquiring Dahlen from Brooklyn 'the most successful deal I ever made.' Brooklyn got two busts in return."
+    },
+    {
+      "title": "Sparrow in an Open Lot",
+      "type": "Drama",
+      "text": "Your manager can't keep your volatile player under control. For the next 3 games, roll before each game: 25% chance of ejection before the 5th inning.",
+      "origin": "A New York Times writer compared managing Dahlen to 'trying to keep a sparrow in an open lot.'"
+    },
+    {
+      "title": "The Hook Slide",
+      "type": "Game Action",
+      "text": "Your baserunner attempts a steal with his signature ambidextrous slide. +20% success rate on this steal attempt. If successful, rattles the opposing catcher for the rest of the inning.",
+      "origin": "Johnny Evers called Dahlen the most astute baserunner he'd ever seen, particularly his ambidextrous hook slide that anticipated where the catcher's throw would arrive."
+    },
+    {
+      "title": "Unmarked Grave",
+      "type": "Drama",
+      "text": "A retired legend from your franchise is discovered living in obscurity. Pay 3 coins to honor him publicly: +2 team morale and unlock a Mentor card. Ignore it: no effect, but a lost opportunity.",
+      "origin": "After baseball, Dahlen worked as a Yankee Stadium attendant and Brooklyn post office clerk. He died at 80 and was buried in an unmarked grave. As of 2006, it remained unmarked."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Compact, stocky build at 5'9\" 180 lbs. Hard, weathered face with a permanent scowl. German descent. Sharp eyes under a heavy brow. Thick mustache typical of 1890s players. Built like a firecracker — small but explosive.",
+    "attire": "Chicago Colts uniform circa 1894 — high-collared wool jersey, baggy flannel pants, pillbox or flat-top cap. No number (pre-numbered era). Dark stockings. Leather belt.",
+    "mood": "Defiant intensity. Mid-argument energy — jaw clenched, eyes locked on the umpire or pitcher. The 'Bad Bill' glare. Not smiling. Never smiling.",
+    "style": "Sepia-toned with warm golden highlights. Dusty 1890s ballfield in soft focus behind him. Vintage photographic grain. Unified ILB portrait style.",
+    "reference": "Think 1890s cabinet card photography rendered in the ILB sepia portrait style. The energy of a man who was ejected 70 times — barely contained fury behind the eyes."
+  }
+}

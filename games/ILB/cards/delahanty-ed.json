@@ -1,0 +1,210 @@
+{
+  "card_type": "hitter",
+  "name": "Ed Delahanty",
+  "nickname": "Big Ed",
+  "year": 1899,
+  "team": "Philadelphia Phillies",
+  "era": "1890s",
+  "ilb_team": "Banners NL1890",
+  "position": "LF",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'1\"",
+  "weight": "170 lbs",
+  "born": "October 30, 1867 — Cleveland, OH",
+  "died": "July 2, 1903 — Niagara Falls, ON (age 35). Fell from the International Railway Bridge into the Niagara River. Body found a week later. Accident, suicide, or murder — never solved.",
+  "hof": "Inducted 1945 (Veterans Committee). Career .346 BA (7th all-time). Only player to win batting titles in both AL and NL.",
+
+  "real_stats": {
+    "season": 1899,
+    "games": 146,
+    "at_bats": 581,
+    "hits": 238,
+    "doubles": 55,
+    "triples": 9,
+    "home_runs": 9,
+    "rbi": 137,
+    "stolen_bases": 30,
+    "batting_avg": ".410",
+    "obp": ".464",
+    "slg": ".582",
+    "ops": "1.046",
+    "ops_plus": 184,
+    "war": 9.0,
+    "career_avg": ".346",
+    "career_hits": 2597,
+    "career_hr": 101,
+    "career_sb": 455,
+    "career_war": 69.5
+  },
+
+  "ilb_stats": {
+    "ovr": 10,
+    "con": 5,
+    "pow": 2,
+    "spd": 3,
+    "def": 2,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": ".410 BA in 1899 — first player in history to hit .400 three times (.407 in 1894, .404 in 1895, .410 in 1899). Won NL batting title in 1899 and AL title in 1902 (.376) — only player to win batting crowns in both leagues. Career .346 BA (7th all-time). 2,597 hits in only 1,835 games. Twelve straight seasons above .300. Jack O'Connor: 'If Del had a weakness at the bat, I never could discover it.' Maximum 5.",
+    "pow": "9 HR in 1899 with 55 doubles (MLB record until 1923). Led NL in HR twice (19 in 1893, 13 in 1896). Hit 4 HR in one game (1896 — second player ever). 101 career HR. Led NL in RBI 3 times. Led NL in SLG 5 times. Career .505 SLG. The premier slugger of the 1890s — bigger, stronger, more powerful than contemporary contact hitters. Crazy Schmit: 'When you pitch to Delahanty, you just want to shut your eyes, say a prayer and chuck the ball.' Rating 2 reflects genuine dead-ball power.",
+    "spd": "30 SB in 1899. Led NL with 58 SB in 1898. 455 career SB. Multiple inside-the-park HR (hit 4 HR in a game — 2 were inside-the-park). Delahanty was a legitimate five-tool player — he could run. The Sporting Life called him 'an awfully even, well balanced player all around.' Rating 3 — led the league in steals.",
+    "def": "The Sporting Life: 'You look at his batting and say well, that chap is valuable if he couldn't catch the measles, and then you look at his fielding and conclude that it wouldn't pay to let him go if he couldn't hit.' Strong arm. Good range for a 6'1\" outfielder. Not elite but solidly above average. Rating 2.",
+    "clu": "Delahanty never reached a World Series or its precursor. The Phillies were never good enough in his era despite having the greatest outfield in 19th-century baseball (Delahanty, Thompson, Hamilton). He died at 35, still an active player (.333 in 42 games in 1903). His career was cut short before he could find a winning team. Rating 0."
+  },
+
+  "personality": {
+    "leadership_style": "The Superstar. Delahanty was baseball's first true five-tool player — he could hit for average, hit for power, run, throw, and field. He led by sheer dominance, not by words or example. When he was in the lineup, opposing pitchers prayed. His presence elevated the entire franchise — the Phillies' outfield of the 1890s was the greatest of its century because of him.",
+    "temperament": "Restless, ambitious, self-destructive. Delahanty was never satisfied — with his team, his salary, or his life. He jumped to the Players' League in 1890 for more money. He jumped to the American League in 1902 for more money. He tried to jump to the Giants in 1903 but was blocked. He was an alcoholic who bet heavily on horses. He was described as charming and dangerous in equal measure — a man who could hit .410 and then drink away his winnings. His final train ride was fueled by whiskey and desperation.",
+    "work_ethic": "NATURALLY GIFTED. Delahanty's talent was immense and partly innate — five brothers played in the majors, suggesting genetic gifts. He didn't need to outwork anyone; he simply outperformed them. But when his talent wasn't enough (bad teams, financial trouble, aging), he had no backup plan. He was a man built for greatness who couldn't build for stability.",
+    "lifestyle": "Irish-American from Cleveland. Working-class family. Five brothers who all played professional baseball (Ed, Frank, Jim, Joe, Tom). Married, but his personal life was troubled — marital problems, drinking, gambling debts. He owed money to John McGraw after a failed team jump. By 1903, he was drunk on a train crossing Niagara Falls, was ejected by the conductor, and fell (or jumped, or was pushed) from the International Railway Bridge. His body was found a week later at the bottom of the falls.",
+    "era_adaptability": "ELITE. Delahanty was the most complete player of the 1890s — a genuine five-tool player decades before the term existed. He'd be a perennial MVP candidate in any era. His power would scale up with modern baseballs. His speed was legitimate. His defense was solid. He's the closest thing the dead-ball era produced to a modern superstar. Only his alcoholism and self-destructive tendencies would limit him.",
+    "clubhouse_impact": "MAGNETIC BUT UNSTABLE. Delahanty's talent made him the center of every team — and his restlessness made him a flight risk on every team. He jumped leagues three times. Teammates loved his bat but couldn't trust his loyalty. He was the kind of player who made your lineup elite and your front office nervous simultaneously.",
+    "dark_side": "Niagara Falls. On July 2, 1903, drunk and possibly delusional, Delahanty was ejected from a train at the Canadian border near Niagara Falls. He walked or stumbled onto the International Railway Bridge and fell into the Niagara River. His mangled body was found a week later. He was 35, hitting .333, and still one of the best hitters in baseball. The mystery — accident, suicide, or murder — has never been solved. In ILB terms: Delahanty carries a 'Falls' trait — at any point in his career, there's a small chance he self-destructs spectacularly. The greatest talent in the set with the most devastating personal flaw."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Five-Tool Original",
+      "desc": "The first true five-tool player. Delahanty can hit, hit for power, run, throw, and field. +1 to all stats when all five categories are above 0."
+    },
+    {
+      "tag": "Three-Time .400",
+      "desc": "First player to hit .400 three times (.407, .404, .410). +2 reputation. Opposing pitchers: 'Shut your eyes, say a prayer and chuck the ball.'"
+    },
+    {
+      "tag": "Four Home Runs",
+      "desc": "Hit 4 HR in one game (1896). Once per season, Delahanty has a 5% chance of hitting 4 HR in a single game. When it happens, +3 team morale."
+    },
+    {
+      "tag": "Both Leagues",
+      "desc": "Only player to win batting titles in both AL and NL. +1 chemistry when switching leagues. No adjustment period on new teams."
+    },
+    {
+      "tag": "Five Brothers",
+      "desc": "Five Delahanty brothers played MLB. +1 chemistry with any teammate who shares his last name or ethnicity. Family bonds are deep."
+    },
+    {
+      "tag": "The Restless Star",
+      "desc": "Delahanty always wants more money. If underpaid, 25% chance he jumps to a rival league. If blocked from jumping, -2 morale."
+    },
+    {
+      "tag": "The Falls",
+      "desc": "CRITICAL FLAW: Alcoholism, gambling, desperation. After age 33, 5% cumulative chance per season that Delahanty's career ends in catastrophic self-destruction. Cannot be prevented."
+    },
+    {
+      "tag": "Greatest Outfield",
+      "desc": "+3 chemistry when paired with elite OF teammates. The 1894 Phillies outfield (Delahanty, Thompson, Hamilton) all hit over .400."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": ".346 career. 2,597 hits. No weakness at the plate."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Played 14 years for the Phillies. Their greatest pre-modern hitter."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "Born in Cleveland. Irish-American roots. Five brothers from the same neighborhood."
+    },
+    {
+      "location": "Bar/Nightlife",
+      "affinity": "HIGH",
+      "note": "Alcoholic. Heavy gambler on horses. Financial trouble was constant."
+    },
+    {
+      "location": "Restaurant/Steakhouse",
+      "affinity": "LOW",
+      "note": "His final journey. Ejected from the train near Niagara Falls. Fell into the river."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "LOW",
+      "note": "Where his body was found. The mystery of his death endures."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Great outfield teammates — Delahanty thrived alongside Thompson and Hamilton",
+      "Contract negotiations — anger at being underpaid fueled his best seasons",
+      "League-jumping years — his first season in a new league was always his best (.376 AL debut)",
+      "Power moments — when Delahanty got hot, he hit for power no one else in the era could match"
+    ],
+    "cold_triggers": [
+      "Alcohol — drinking binges could derail him for extended periods",
+      "Gambling debts — financial pressure affected his focus and behavior",
+      "Being trapped — when blocked from jumping leagues (1903), he unraveled",
+      "Bad teams — Delahanty never played for a champion and the frustration ate at him"
+    ],
+    "pressure_response": "UNKNOWN — TRAGIC. Delahanty never played in a World Series or its equivalent. The Phillies of the 1890s had the greatest outfield in baseball and still couldn't win. When Washington blocked his jump to the Giants in 1903, the pressure destroyed him. In ILB: Delahanty's pressure response is theoretically elite (his talent demands it) but practically untested. He might be the greatest October player who never existed — or the greatest collapse. We'll never know."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Four Home Runs",
+      "type": "Game Action",
+      "text": "Your slugger hits 4 home runs in a single game — 2 over the fence and 2 inside-the-park. He becomes the second player in history to accomplish the feat. Your team still loses 9-8. The most bittersweet power display in baseball.",
+      "origin": "On July 13, 1896, Delahanty hit 4 HR against the Colts (Cubs). Two cleared the fence, two were inside-the-park. The Phillies lost 9-8."
+    },
+    {
+      "title": "The .400 Outfield",
+      "type": "Game Action",
+      "text": "Your entire outfield hits over .400 for the season — four players all above .400. The team batting average is .349, an all-time record. Your team still doesn't win the pennant. The greatest hitting team that couldn't win.",
+      "origin": "The 1894 Phillies outfield: Delahanty (.407), Thompson (.407), Hamilton (.404), Turner (.416). Team BA of .349 — still the all-time MLB record."
+    },
+    {
+      "title": "Fifty-Five Doubles",
+      "type": "Game Action",
+      "text": "Your hitter smashes 55 doubles in a single season — a record that will stand for 24 years. He also hits .410 with 137 RBI. His bat is a machine that produces extra-base hits at an impossible rate.",
+      "origin": "Delahanty hit 55 doubles in 1899 — an MLB record until George Burns hit 64 in 1923. He also led the league in BA (.410), hits (238), and RBI (137)."
+    },
+    {
+      "title": "The League Jump",
+      "type": "Action",
+      "text": "Your superstar signs with a rival league for more money. He wins the batting title in his first season there. But when he tries to jump again, the leagues make a deal to freeze all players. He's trapped. His rage begins.",
+      "origin": "Delahanty jumped to the AL's Senators in 1902, won the batting title (.376). In 1903, he tried to jump to the Giants but was blocked by the peace agreement between the leagues."
+    },
+    {
+      "title": "Five Brothers",
+      "type": "Drama",
+      "text": "Five brothers from the same Cleveland neighborhood all reach the major leagues. The eldest is the greatest hitter of his generation. The family name becomes synonymous with baseball in their city. No family will ever match this.",
+      "origin": "Ed, Frank, Jim, Joe, and Tom Delahanty all played in MLB. No family has ever produced five major leaguers. Ed was by far the greatest."
+    },
+    {
+      "title": "Stuck in the Doghouse",
+      "type": "Drama",
+      "text": "Your outfielder chases a fly ball into a scoreboard storage area and gets physically stuck inside it. While teammates pull him free, the opposing runner circles the bases for a home run. The crowd roars with laughter.",
+      "origin": "At Philadelphia's Huntingdon Street Grounds, Cap Anson's fly ball landed in the 'doghouse' (scoreboard number storage). Delahanty got stuck trying to retrieve it. Anson circled the bases."
+    },
+    {
+      "title": "Shut Your Eyes and Pray",
+      "type": "Game Action",
+      "text": "Your hitter is so dangerous that opposing pitchers have no strategy. They simply throw and hope. Crazy Schmit's prescription: 'Shut your eyes, say a prayer and chuck the ball. The Lord only knows what'll happen after that.'",
+      "origin": "Crazy Schmit of the Giants and Orioles on facing Delahanty. The quote captures the helplessness pitchers felt against the most complete hitter of the 1890s."
+    },
+    {
+      "title": "The Bridge at Niagara",
+      "type": "Drama",
+      "text": "Your superstar — drunk, in debt, trapped on a team he hates — is ejected from a train near the Falls. He walks onto the International Railway Bridge in the dark. He falls. His body is found a week later. He was 35 and hitting .333. The mystery is never solved.",
+      "origin": "On July 2, 1903, Delahanty was ejected from a train for drunkenness near Niagara Falls. He fell from the bridge into the Niagara River. His body was found downstream. Accident, suicide, or murder — unknown."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Handsome, powerful, Irish features — 6'1\" 170 lbs, broad-shouldered and athletic. Strong jaw, intense dark eyes, confident expression bordering on arrogance. The face of a man who knows he's the best player alive and is angry that it isn't enough. There's charm here — Delahanty was magnetic — but also something haunted behind the confidence.",
+    "attire": "Philadelphia Phillies 1899 whites — the golden era of the franchise's greatest outfield. Full right-handed swing, maximum extension, the ball leaving the bat. Delahanty should look like he's hitting the ball harder than anyone else on the card — because he was. The swing has violence to it that the other contact hitters (Keeler, Burkett) lack.",
+    "mood": "Dangerous beauty. Delahanty's card should feel like looking at a lit fuse — gorgeous, powerful, and headed somewhere catastrophic. Not grim like Walsh or combative like Burkett — this is a golden player with a dark undertow. The most handsome and the most doomed position player card in the set.",
+    "style": "Rich, warm sepia with deep golden undertones — the most luxurious-looking card among the hitters. Reflecting the Gilded Age Philadelphia of the 1890s. Ornate border with subtle Irish motifs (shamrocks, Celtic knots). But the paper has water damage at the bottom edge — a subtle, devastating reference to the Niagara River. The most beautiful card in the set, with a hidden wound.",
+    "reference": "This is the T206 that stops you cold. ILB sepia at its most beautiful and most tragic. Where Joss is quietly heartbreaking and Walsh is grimly doomed, Delahanty is operatically tragic — the golden hero who falls from the bridge. The card equivalent of a Greek myth written in baseball stats."
+  }
+}

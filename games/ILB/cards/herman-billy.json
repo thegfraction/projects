@@ -1,0 +1,228 @@
+{
+  "card_type": "player",
+  "name": "Billy Herman",
+  "nickname": "The Hit-and-Run King",
+  "year": 1935,
+  "team": "Chicago Cubs",
+  "league": "National League",
+  "era": "1930s",
+  "ilb_team": "Crashers AL1930",
+  "position": "2B",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'11\"",
+  "weight": "180 lbs",
+  "born": "July 7, 1909 — New Albany, Indiana (named after William Jennings Bryan, three-time presidential candidate)",
+  "died": "September 5, 1992 — West Palm Beach, Florida (age 83, cancer)",
+  "hof": "Inducted 1975 (Veterans Committee). 10× All-Star (1934-43). .304 career BA. 2,345 hits. 486 career doubles. NL records for 2B putouts. 4× NL pennant (1932, 1935, 1938, 1941). Bob Feller Act of Valor Award (Navy WWII).",
+
+  "real_stats": {
+    "season": 1935,
+    "games": 154,
+    "at_bats": 666,
+    "batting_avg": ".341",
+    "hits": 227,
+    "doubles": 57,
+    "triples": 6,
+    "home_runs": 7,
+    "rbi": 83,
+    "runs": 113,
+    "stolen_bases": 2,
+    "walks": 42,
+    "strikeouts": 37,
+    "slg": ".476",
+    "obp": ".385",
+    "ops": ".861",
+    "ops_plus": 119,
+    "war": 6.4,
+    "career_avg": ".304",
+    "career_hr": 47,
+    "career_rbi": 839,
+    "career_hits": 2345,
+    "career_war": 54.6,
+    "career_doubles": 486,
+    "career_runs": 1163
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 4,
+    "pow": 0,
+    "spd": 0,
+    "def": 2,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": ".341 BA in 1935 — career high. Led NL with 227 hits and 57 doubles. .304 career BA. 2,345 career hits. 486 career doubles. Only 428 career K in 7,707 PA. 'As great a hit-and-run batter as I have ever seen.' Exceptional bunting ability. But: OPS+ of 119 in 1935 indicates the batting average was good-not-great in context. He was a contact-first, line-drive hitter without much else. Rating of 4.",
+    "pow": "7 HR in 1935. 47 career HR in 15 seasons. .476 SLG. Herman was a doubles machine (57 2B in 1935, 486 career), not a power hitter. The doubles came from line drives into gaps, not over fences. No SLG bonus. Rating of 0.",
+    "spd": "2 SB in 1935. 67 career SB. 6 triples in 1935 (82 career). Not fast. His baserunning value came from the hit-and-run, not raw speed. He was a smart runner, not a fast one. Rating of 0.",
+    "def": "NL record for putouts by 2B in a season (466 in 1933 — still standing). Led NL 2B in putouts 7 times, assists 3 times. Formed elite DP combo with Billy Jurges. 'Quick reflexes, strong arm, uncanny ability to turn double plays.' .968 career fielding pct. Rating of 2 — excellent 2B defense.",
+    "clu": "4 World Series: 1932 (lost to Yankees), 1935 (lost to Tigers — .333 BA), 1938 (lost to Yankees), 1941 (lost to Yankees). 0-4 in the Fall Classic. 1-12 lifetime in WS games vs. Yankees. He played well (.333 in 1935), but his teams always lost. Never won a ring as a player (though he coached the 1955 champion Dodgers). Rating of 0 — the anti-clutch narrative is unavoidable."
+  },
+
+  "personality": {
+    "leadership_style": "The Professional. Herman was the consummate pro — showed up, played hard, hit .304, fielded beautifully, and never complained. 'Baseball was always kind of a struggle for me. I guess maybe I was doing all right and didn't realize it.' He didn't see himself as a star. He saw himself as a worker. That humility made him beloved by teammates and frustrating to front offices who didn't appreciate him until he was gone.",
+    "temperament": "Hard-nosed, quiet, self-deprecating. Named after William Jennings Bryan — a political orator — but Herman was the opposite: understated, private, steady. He was considered 'hard-nosed' in an era of hard-nosed managers (Hornsby, Grimm, Hartnett, Durocher). He outlasted all of them by simply being consistent. His first MLB at-bat set the tone: he chopped a ball into the plate that bounced up and hit him in the back of the head. He stayed in the game.",
+    "work_ethic": "Relentless. Started as a 17-year-old in the minors (1928). Played through the Depression, three WS losses, a trade away from the Cubs, and WWII Navy service (1944-45). Played baseball on Pacific islands during the war — Eniwetok, Kwajelein, Saipan, Guam, Philippines. Returned at 37 and kept playing. Spent over 50 years in professional baseball — player, manager, coach, scout. From age 17 to age 70.",
+    "lifestyle": "Small-town Indiana kid who became a Chicago institution. Born in New Albany, IN. Played for the Cubs 1931-41 — the heart of the franchise during the Depression. After playing: managed the Pirates (badly), coached the Dodgers (1955 WS championship as coach), managed the Red Sox (128-182), coached the Angels, scouted for Oakland. Moved to Palm Beach Gardens, FL in 1968. Died of cancer in 1992.",
+    "era_adaptability": "MODERATE-HIGH. Herman's skill set — elite contact, elite defense at 2B, hit-and-run mastery, bunting — translates well. The .304 BA and plate discipline play. The defense at 2B is timeless. But: 47 career HR is a problem in modern baseball. He'd be a .285/5 HR 2B with Gold Glove defense — valuable but not a star. Think a right-handed version of DJ LeMahieu with better defense.",
+    "clubhouse_impact": "STRONG POSITIVE. Herman was respected by hard-nosed managers (Hornsby, Durocher) and beloved by teammates. He was passed over for Cubs manager twice (Hartnett in 1938, Wilson later) — disappointing but he never caused problems. When traded to Brooklyn, he immediately helped them win a pennant. When he managed the Pirates, he inherited a gutted roster and handled it with grace: 'They've gone and traded the whole team on me.'",
+    "dark_side": "Oh-for-October. Four World Series. Four losses. 0-12 in WS games vs. the Yankees. The 1932 Cubs were swept (the 'Called Shot' series). The 1935 Cubs lost to the Tigers in 6. The 1938 Cubs were swept by the Yankees again. The 1941 Dodgers lost to the Yankees in 5. Herman hit .333 in 1935 and played well, but it didn't matter. He is the greatest player of his era who never won a World Series. The ring that never came. As a coach, he finally got one — the 1955 Dodgers. But by then it was someone else's championship."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Hit-and-Run Master",
+      "desc": "'The greatest hit-and-run batter I have ever seen.' When the hit-and-run is called, Herman has 85% success rate — doubles into the hole vacated by the moving infielder. +1 CON on hit-and-run plays specifically."
+    },
+    {
+      "tag": "Doubles Machine",
+      "desc": "57 2B in 1935 — NL record for a second baseman. 486 career 2B. Herman converts 25% of singles into doubles through gap-hitting. Line drives find the alleys."
+    },
+    {
+      "tag": "The Eternal Runner-Up",
+      "desc": "0-4 in World Series. Passed over for manager twice. Traded despite being the team's best player. -1 CLU permanently. Fate conspires against Herman in the biggest moments."
+    },
+    {
+      "tag": "Infield General",
+      "desc": "When paired with an elite SS (Billy Jurges, Pee Wee Reese), the double-play combination gets +1 DEF to both players. Herman-Jurges was one of the best DP combos of the 1930s."
+    },
+    {
+      "tag": "Navy Veteran",
+      "desc": "Served 1944-45. Played baseball on Pacific islands (Eniwetok, Kwajelein, Saipan, Guam, Philippines). Bob Feller Act of Valor Award recipient. +1 team morale from respect. After return: -1 CON for 1 season (rust)."
+    },
+    {
+      "tag": "The First At-Bat",
+      "desc": "Herman's first MLB at-bat: he chopped a ball into the plate that bounced up and hit him in the back of the head. He stayed in the game. +1 toughness. 5% chance per career of a comically unlucky debut."
+    },
+    {
+      "tag": "Baseball Was Always a Struggle",
+      "desc": "Herman never saw himself as a star. .304 career BA, 2,345 hits, 10× All-Star, HOF — and he thought he was struggling. Self-deprecation prevents ego problems but also prevents self-advocacy. Will not demand a raise or higher lineup spot."
+    },
+    {
+      "tag": "Fifty-Year Man",
+      "desc": "Player (1928-47), manager, coach, scout (through 1979). Age 17 to age 70 in professional baseball. +2 franchise longevity. Herman never leaves the game. The game eventually leaves him."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "10 seasons (1931-41). 3 pennants. The heart of the franchise during the Depression.",
+      "note_extra": "Source labeled 'Wrigley Field / Chicago' — mapped to Media/Spotlight/HIGH per home-franchise ballpark collision taxonomy."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "NL record 466 putouts (1933). Led NL putouts 7×, assists 3×. Elite double-play pivot.",
+      "note_extra": "Source labeled 'Second Base' — mapped to Practice Field/HIGH as on-field defensive identity space, consistent with 'Behind the Plate' (catchers) and 'Batter's Box' mappings for primary position domain."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "'Nobody could handle the inside pitch to right field better.' Hit-and-run master.",
+      "note_extra": "Source labeled 'Batter's Box (right side)' — mapped to Practice Field/HIGH as on-field offensive identity space. The parenthetical '(right side)' specifies the right-handed batter's box; preserved in note. Second Practice Field HIGH entry on this card."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "MEDIUM",
+      "note": "Traded to Dodgers 1941. Won pennant immediately. 3 good seasons before Navy.",
+      "note_extra": "Source labeled 'Ebbets Field / Brooklyn' — mapped to Media/Spotlight/MEDIUM as second franchise venue at medium attachment. Consistent with Harris's Yankee Stadium MEDIUM pattern: won there once under limited tenure, not the primary home."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Navy service 1944-45. Played baseball on Eniwetok, Kwajelein, Saipan, Guam, Philippines.",
+      "note_extra": "Source labeled 'Pacific Theater (WWII)' — mapped to Hotel/Rest/MEDIUM as itinerant wartime dislocation space. Consistent with Hargrave's minor-league mapping to Hotel/Rest (the transient, island-hopping nature of Pacific service mirrors the bus-and-small-towns minor league pattern). MEDIUM reflects meaningful but involuntary temporary residence."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "LOW",
+      "note": "0-4. 1-12 in WS games vs Yankees. .333 in 1935 (still lost). The ring never came.",
+      "note_extra": "Source labeled 'World Series' / affinity 'LOW' — third consecutive NL crossover card with World Series mapped to Media/Spotlight/LOW (after Hartnett, Harris). Consistent non-physical competitive-stage failure pattern. Third Media/Spotlight LOW in the set."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "LOW",
+      "note": "Pirates 1947 (92 losses). Red Sox 1965-66 (128-182). 'They traded the whole team on me.'",
+      "note_extra": "Source labeled 'Manager's Office' / affinity 'LOW' — first Library/Quiet Spot LOW in the set. The manager's office is the private professional authority and tactical space; mapped to Library/Quiet Spot (private/enclosed workspace) rather than Media/Spotlight (public performance) or Practice Field (on-field). The LOW reflects Herman receiving the managerial role under stripped-roster conditions and underperforming in it — authority given too late and on wrong terms."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Hit-and-run situations — Herman was the best in baseball at executing this play.",
+      "Doubles — 57 in 1935. Line drives find gaps when his swing is grooved.",
+      "Elite SS partner — with Jurges or Reese, the DP combo was devastating.",
+      "Regular season — .304 career BA. He was money from April to September."
+    ],
+    "cold_triggers": [
+      "World Series — 0-4. The October curse was real and persistent.",
+      "Managerial situations — passed over, then given bad rosters when finally hired.",
+      "Trade displacement — leaving Chicago hurt him emotionally.",
+      "Post-war rust — returning from Navy service, his swing was never quite the same."
+    ],
+    "pressure_response": "REGULAR SEASON EXCELLENT, OCTOBER CURSED. .304 career BA. 10 consecutive All-Star selections. 4 NL pennants. But 0-4 in the World Series. He hit .333 in the 1935 WS — the team still lost. He went 1-12 lifetime in WS games vs. the Yankees. The individual performance was often good; the team result was always bad. The WS losses weren't Herman's fault, but they define his legacy's missing piece. He finally got a ring as a coach — the 1955 Dodgers, 20 years after his first WS loss."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Perfect Hit-and-Run",
+      "type": "Game Action",
+      "text": "Runner goes on the pitch. The shortstop breaks to cover second. Your second baseman punches the ball through the exact hole the shortstop just vacated. Runner goes first to third. 'The greatest hit-and-run batter I have ever seen.'",
+      "origin": "Herman was universally regarded as the best hit-and-run batter of his era. He could consistently drive the ball through the hole created by the moving middle infielder."
+    },
+    {
+      "title": "Fifty-Seven Doubles",
+      "type": "Game Action",
+      "text": "Your second baseman hits 57 doubles in a season — a National League record for the position. Line drives into the left-center gap, the right-center gap, down the lines. He doesn't hit home runs. He doesn't need to. The gaps are his kingdom.",
+      "origin": "1935: Herman's 57 doubles set the NL record for second basemen. He led the NL in both hits (227) and doubles."
+    },
+    {
+      "title": "The Ball Bounces Off the Plate Into His Head",
+      "type": "Action",
+      "text": "Your rookie's first MLB at-bat. He chops a pitch into the back of home plate. The ball bounces straight up, hits him in the back of the head, and rolls away. He stays in the game. This is the beginning of a Hall of Fame career.",
+      "origin": "Herman's first at-bat vs. Reds pitcher Si Johnson: he chopped the ball into the plate, it bounced up and hit him in the back of the head. He stayed in the game."
+    },
+    {
+      "title": "Oh-for-October",
+      "type": "Drama",
+      "text": "Your team wins the pennant. You go to the World Series. You lose. You win another pennant. You lose the World Series again. You do it a third time. A fourth. Four pennants, four losses. You hit .333 in one of them. Doesn't matter. The ring never comes.",
+      "origin": "Herman went 0-4 in World Series (1932, 1935, 1938, 1941). Hit .333 in 1935 WS. 1-12 in WS games vs Yankees."
+    },
+    {
+      "title": "They Traded the Whole Team on Me",
+      "type": "Drama",
+      "text": "You're named player-manager. You're excited until you learn the cost: the franchise traded its MVP-caliber third baseman to acquire you. 'Why, they've gone and traded the whole team on me.' The third baseman wins MVP for the other team. Your team loses 92 games.",
+      "origin": "1946: Pirates traded Bob Elliott (who won 1947 NL MVP for Boston) to acquire Herman as player-manager. Herman's 1947 Pirates went 62-92."
+    },
+    {
+      "title": "Baseball on Pacific Islands",
+      "type": "Action",
+      "text": "The war takes your second baseman. The Navy sends him to the Pacific. He plays baseball on islands whose names nobody can pronounce — Eniwetok, Kwajelein, Saipan, Guam. He wins the Navy World Series in Hawaii. Then he comes home and tries to remember how to hit a curveball.",
+      "origin": "1944-45: Herman served in the Navy, playing baseball on Pacific islands. He won the wartime Navy World Series in Hawaii in September 1945."
+    },
+    {
+      "title": "Passed Over — Twice",
+      "type": "Drama",
+      "text": "Your second baseman is the smartest player on the team. Everyone knows he should manage. The job opens. They give it to someone else. The job opens again. Someone else again. He never complains. He just keeps hitting .304.",
+      "origin": "Herman was passed over for Cubs manager in favor of Gabby Hartnett (1938) and Jimmy Wilson (1940). He was 'disappointed but did not show it outwardly.'"
+    },
+    {
+      "title": "The 1955 Ring — As a Coach",
+      "type": "Action",
+      "text": "Twenty years after your first World Series loss, you finally get a championship ring. You're not playing. You're coaching third base. Someone else's team, someone else's moment. But you're there. The ring fits. It just came 20 years late.",
+      "origin": "Herman coached the 1955 Brooklyn Dodgers to their first WS championship — 20 years after his first WS loss with the 1935 Cubs."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Solid, workmanlike, Midwestern face. 5'11\" 180 lbs. Not flashy. The face of a man who hits .304 and doesn't realize he's doing well. Quiet determination. A touch of self-deprecation in the eyes.",
+    "attire": "Chicago Cubs 1935 home whites with the classic 'C' on the chest. Wrigley Field's ivy-covered walls behind him (ivy was planted in 1937, but artistic license for the iconic look). Modest, clean uniform — Herman was a craftsman, not a showman.",
+    "mood": "The hit-and-run. Herman at the plate, the runner breaking from first, the shortstop moving — and Herman's bat finding the exact gap. Or: the double-play pivot, turning two with Jurges. The card should feel precise, professional, dependable. Like a Swiss watch that hits .341.",
+    "style": "Chicago Depression-era palette. Wrigley Field brick and ivy. Warm but muted — browns, brick reds, ivy greens. The card should feel like a worker's card — respected, reliable, unglamorous. The steady hand in a turbulent decade.",
+    "reference": "The card of the man who thought baseball was a struggle while hitting .304 for 15 years. 10 All-Star Games. 4 pennants. 0 championships. Named after William Jennings Bryan — three-time presidential candidate who also never won the big one. Billy Herman: the forever runner-up."
+  }
+}

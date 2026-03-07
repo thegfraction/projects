@@ -1,0 +1,216 @@
+{
+  "card_type": "player",
+  "name": "Harry Heilmann",
+  "nickname": "Slug / Harry the Horse",
+  "year": 1923,
+  "team": "Detroit Tigers",
+  "era": "1920s",
+  "ilb_team": "Bashers AL1920",
+  "position": "RF",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'1\"",
+  "weight": "200 lbs",
+  "born": "August 3, 1894 — San Francisco, California",
+  "died": "July 9, 1951 — Southfield, Michigan (age 56, lung cancer)",
+  "hof": "Inducted 1952 (posthumous, BBWAA — 86.7%). .342 career BA (12th all-time, 3rd among RHH behind Hornsby and Delahanty). Four AL batting titles (1921, 1923, 1925, 1927). .403 BA in 1923 — one of six AL players to hit .400. 2,660 H, 542 2B, 1,543 RBI. #54 on Sporting News 100 Greatest Players (1998). Ty Cobb: 'Next to Rogers Hornsby, he was the best right-handed hitter of them all.'",
+
+  "real_stats": {
+    "season": 1923,
+    "batting_avg": ".403",
+    "obp": ".481",
+    "slg": ".632",
+    "ops": "1.113",
+    "hits": 211,
+    "runs": 121,
+    "doubles": 44,
+    "triples": 11,
+    "home_runs": 18,
+    "rbi": 115,
+    "walks": 74,
+    "strikeouts": 40,
+    "stolen_bases": 9,
+    "war": 9.3,
+    "career_batting_avg": ".342",
+    "career_obp": ".410",
+    "career_slg": ".520",
+    "career_ops": ".930",
+    "career_hits": 2660,
+    "career_hr": 183,
+    "career_rbi": 1543,
+    "career_2b": 542,
+    "career_war": 72.2,
+    "batting_titles": "4 (1921: .394, 1923: .403, 1925: .393, 1927: .398)",
+    "ops_plus": 148
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 5,
+    "pow": 3,
+    "spd": 0,
+    "def": 0,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": "Harry Heilmann hit .403 in 1923. He is one of six players in AL history to reach .400. He won four batting titles — .394, .403, .393, .398 — all in odd years when his contract was up. His career .342 BA is 12th in history and 3rd among right-handed batters (behind only Hornsby and Delahanty). He hit over .300 for twelve consecutive seasons (1919-1930). In 1923, he struck out only 40 times in 524 AB while hitting .403 — that's a K rate below 8%. Ty Cobb: 'I never toyed with Heilmann's swing, it was already near-perfect.' Grantland Rice rated him the premier scholar in the 'School of Swat' ahead of Cobb and Ruth. He was the American League's answer to Rogers Hornsby. There is no higher rating than 5 for Contact.",
+    "pow": "Heilmann was a line drive hitter, not a fly ball slugger. His power came from doubles — 44 in 1923, 542 career (6th in history at retirement). He hit 18 HR in 1923 with a .632 SLG. In his 1921-27 peak, he averaged .583 SLG — 4th in the AL decade behind only Ruth, Gehrig, and Simmons. In 1921, he reportedly hit a 610-foot home run that made 'patrons gasp in astonishment.' But the HR totals (183 career) reflect a gap hitter, not a slugger. His eight 100-RBI seasons came from relentless doubles and triples production. Rating of 3.",
+    "spd": "Hall of Fame sportswriter Tommy Holmes: 'Heilmann was never much faster than an ice wagon on the base paths. Without doubt, he is the slowest moving great hitter who ever lived.' His nickname 'Slug' referred to his speed, not his hitting. Another writer noted that Cobb's speed added 50 hits per year to his output, while Heilmann's lack of speed robbed him of infield hits — the one thing keeping him from matching Hornsby. He stole 9 bases in 1923 and 113 for his career, mediocre numbers even for a slow era. Rating of 0.",
+    "def": "Heilmann led the AL in errors at first base in both 1919 (31 errors!) and 1920. In 1917, the Tigers tried him in right field (95 games), center field (28), and first base (27) — he was not particularly good at any position. He was moved back to right field in 1921, where he was adequate but never better. The Tigers kept him in the lineup purely because of his bat. Rating of 0.",
+    "clu": "Harry Heilmann never played in a single postseason game. The closest Detroit came during his tenure was 4 games behind in 1916. While he won batting titles in contract years ('I always bear down real hard when a new contract is coming up'), there is no October data to evaluate. In a system that weights clutch performance heavily, Heilmann's zero postseason exposure is a significant gap. Rating of 0."
+  },
+
+  "personality": {
+    "leadership_style": "QUIET GENEROSITY. Heilmann was not loud, not theatrical, not a showman. He went about his work 'calmly, methodically, almost bashfully.' He blushed when fans gave him standing ovations. He refused to talk about his Detroit River rescue. He sold insurance in the offseason and used his connections to help the Capuchin Soup Kitchen raise money for decades. His leadership was the leadership of a man who didn't know he was leading — the kind who inspires by example rather than declaration.",
+    "temperament": "Modest, warm, unpretentious. When journalists reported him leading the league, 'little comment is made.' He never courted applause. He was 'not a grandstander — not theatrical.' His parents initially feared he was doing something criminal because he was bringing home so much money from baseball. He was the kind of player whose greatness was recognized only by those paying close attention — and then often credited to Cobb's coaching. He bore the shadow gracefully.",
+    "work_ethic": "QUIET BUT RELENTLESS. Heilmann batted .282 in his first six seasons and .380 for the next seven. He didn't suddenly get talent — he learned. Whether Cobb coached him or the lively ball helped or he simply matured, Heilmann's improvement was one of the most dramatic in baseball history. He worked at his craft. He also worked as an insurance agent in the offseason. He later worked at broadcasting until he became beloved. He always worked.",
+    "lifestyle": "San Francisco kid, Detroit institution. Heilmann spent his entire adult life becoming part of Detroit's fabric. He rescued people from the river. He sold insurance. He called games on the radio for 17 years. He helped the Capuchin brothers feed the poor. He convinced Mickey Mantle and Ted Williams to attend charity fundraisers. He was a parishioner of the Shrine of the Little Flower. He became Detroit in a way that transcended baseball.",
+    "era_adaptability": "COMPLICATED. Heilmann's .403 season came in a high-offense era, and his line drive approach was perfectly suited to the dead/live ball transition. In a modern context, his zero speed and poor defense would limit his value. But .342 career BA with that contact rate? His bat-to-ball skill would translate. He'd be a DH in modern baseball — and an elite one. The K rate (sub-8% in 1923) is staggering by any era's standards.",
+    "clubhouse_impact": "BELOVED. Heilmann was friends with Babe Ruth despite beating him for batting titles. He sold Ruth life insurance. He worked fundraisers. He became the voice of the Tigers for a generation of fans. He was modest enough to never mention his river rescue. Walter Briggs upon his death: 'I doubt whether the death of any other person in the State of Michigan could cause more genuine regret.' In ILB, Heilmann provides +1 to team morale through sheer likability.",
+    "dark_side": "THE SHADOW. Heilmann played his entire career in someone else's shadow. First Cobb (his manager and outfield partner), then Ruth (who he beat for batting titles but who got all the headlines). A reporter wrote that his feats never got 'full credit' because 'there is nothing picturesque, nothing highly colored, nothing bombastic nor spectacular about his methods.' He was a man who hit .403 and finished third in MVP voting. His most famous baseball card isn't even his face — it's teammate Larry Woodall, mislabeled by the AP for decades. In death, he was elected to the Hall of Fame six months after he died. Cobb pushed for his election but it came too late for Harry to know. The shadow is the trait: in ILB, Heilmann's OVR appears 2 lower than actual when another player with OVR 10+ is on his team. He gets better — but nobody notices."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Odd-Year Man",
+      "desc": "Won batting titles in 1921, 1923, 1925, 1927 — every other year. 'Mr. Navin gives me contracts on a two-year basis. I always bear down real hard when a new contract is coming up.' In ILB, Heilmann's CON is +1 in contract years (odd-numbered seasons) and -1 in off-years (even-numbered)."
+    },
+    {
+      "tag": "Cobb's Shadow",
+      "desc": "Ty Cobb was Heilmann's teammate, manager, and outfield partner. Cobb: 'Next to Hornsby, the best right-handed hitter of them all.' But Heilmann got credit for nothing. In ILB, when paired with any OVR 10+ teammate, Heilmann's OVR appears 2 lower — but his actual stats are unaffected. The shadow hides the truth."
+    },
+    {
+      "tag": "The River Rescue",
+      "desc": "July 25, 1916: car goes into the Detroit River. Heilmann dives in. Saves three lives. Two die. His brother Walter drowned in 1908. In ILB, once per season, Heilmann can attempt a 'rescue play' — sacrifice his at-bat to save a teammate's injury roll. Automatic success."
+    },
+    {
+      "tag": "The Insurance Agent",
+      "desc": "Heilmann sold Babe Ruth a $50,000 life insurance policy after Ruth's WS share. In ILB, Heilmann provides +1 to team financial stability and contract negotiations. He's the guy who protects the investment."
+    },
+    {
+      "tag": "McManus's Victim",
+      "desc": "June 30, 1926: Marty McManus pulled the hidden ball trick on Heilmann, with Ty Cobb coaching third base. In ILB, Heilmann is vulnerable to the hidden ball trick — McManus's 'Hidden Ball Trick' trait automatically succeeds against Heilmann (no d6 roll). The cross-card link is built into the embarrassment."
+    },
+    {
+      "tag": "The Wrong Face",
+      "desc": "Heilmann's most famous baseball card (1960 Fleer) is actually teammate Larry Woodall. The mislabeled AP photo was used for decades. In ILB, Heilmann's card can be 'mistaken' for another player once per game — opponent's scouting report is wrong, granting +1 surprise factor on first AB."
+    },
+    {
+      "tag": "The Voice of Detroit",
+      "desc": "After retirement, Heilmann became the Tigers' radio broadcaster for 17 years (1934-1950). He became more beloved as a voice than as a player. In ILB, post-retirement Heilmann provides +2 to franchise popularity and fan engagement — he builds the legacy even after the bat goes silent."
+    },
+    {
+      "tag": "Four Hundred Three",
+      "desc": ".403 in 1923. One of six AL players to ever hit .400. In ILB, when Heilmann's running BA is above .400 at any point in the season, he enters 'The Zone' — +1 to all offensive stats until it drops below .400."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "15 seasons (1914-1929). The only home he ever knew in baseball. Four batting titles. Detroit River rescue nearby. Harry Heilmann Day (1926) — they gave him a car, a diamond pin, and a hunting dog.",
+      "note_extra": "Source labeled 'Navin Field, Detroit' / affinity 'MAXIMUM' — mapped to Media/Spotlight/HIGH per home-franchise ballpark collision taxonomy. MAXIMUM normalized to HIGH."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": ".342 career BA. .403 peak. The batter's box was the one place Heilmann belonged completely — no shadow, no comparison, just the bat and the ball.",
+      "note_extra": "Source labeled 'The Batter's Box' / affinity 'MAXIMUM' — mapped to Practice Field/HIGH as on-field performance identity space, consistent with prior Batter's Box mapping (Hargrave). Non-physical identity location. MAXIMUM normalized to HIGH."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "HIGH",
+      "note": "17 years calling Tigers games (1934-1950). He became Detroit. 'You can take your Barbers and Gowdys and McNamees — we'll never have another like the Old Slug.'",
+      "note_extra": "Source labeled 'The Radio Booth' / affinity 'HOME (Post-Career)' — new compound label with parenthetical temporal qualifier, first in the set. The radio booth is the enclosed, intimate post-career professional working space. Mapped to Library/Quiet Spot/HIGH as private/behind-the-scenes broadcasting environment (not the public arena itself). Distinct from Media/Spotlight because it is the production side of the broadcast, not the stage. 'HOME (Post-Career)' normalized to HIGH."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Where he dove in to save drowning strangers on July 25, 1916. His brother Walter had drowned in San Francisco Bay in 1908. The river is where Heilmann became something more than a ballplayer.",
+      "note_extra": "Source labeled 'Detroit River' / affinity 'SACRED' — first SACRED affinity label in the set. Encodes moral/spiritual significance: the site of a life-or-death civic act, connected to his brother's drowning death eight years prior. Mapped to Community Events/HIGH as the space of Heilmann's most profound public civic action. Not Library/Quiet Spot (too private), not Practice Field (not performance), not Hotel/Rest (not transient). SACRED is distinct from all prior labels — it registers moral weight rather than performance quality, emotional comfort, or identity. Normalized to HIGH."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "MEDIUM",
+      "note": "Born here. His brother Walter drowned here. Heilmann left and never came back. Detroit became his city.",
+      "note_extra": "Source labeled 'San Francisco, California' / affinity 'ORIGIN' — new label with negative-valence register (departure, loss, absence). First negative-register ORIGIN in the set. Distinct from Haines's 'SOUL/ORIGIN' which was positive (Clayton, Ohio as spiritual source). Heilmann's ORIGIN is defined by what he left behind. Mapped to Library/Quiet Spot/MEDIUM: birthplace/departure origin warrants MEDIUM rather than HIGH because the attachment is characterized by loss and distance. Second Library/Quiet Spot entry on this card."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Contract year — 'I always bear down real hard when a new contract is coming up.' .394, .403, .393, .398 in odd years.",
+      "Line drive count — when Heilmann is hitting line drives, he enters a rhythm that's nearly impossible to break.",
+      "Ty Cobb's approval — whether coaching or managing, Cobb's acknowledgment drove Heilmann to his peak.",
+      "Doubles production — 44 2B in 1923. When the doubles are falling, Heilmann is locked in."
+    ],
+    "cold_triggers": [
+      "Even years — .356, .346, .328 in the off-years. Still excellent. But not .400.",
+      "Postseason pressure — not because he choked, but because he never got there. The absence is the cold trigger.",
+      "Fielding demands — any time Heilmann is asked to do something other than hit, the performance drops.",
+      "Arthritis (career-ending) — from 1928 on, his hands betrayed him. .328, .344, .333 — still good, but the .400 magic was gone."
+    ],
+    "pressure_response": "UNKNOWABLE. This is the tragedy of Harry Heilmann. He never played in a World Series. He never had a Game 7 at-bat. He won batting titles in contract years, which suggests he elevated under financial pressure — but the October pressure was never applied. We'll never know what .403 Harry Heilmann would have done in the World Series. CLU = 0 not because he failed, but because the test was never given. The absence is the loudest thing about his card."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Four Hundred Three",
+      "type": "Season Arc",
+      "text": "Your hitter bats .403. He is one of six men in American League history to reach .400. He leads the league in batting average by ten points over Babe Ruth. He finishes third in MVP voting. He goes home and sells Ruth a $50,000 life insurance policy. The world remembers Ruth. Your hitter sells the policy and goes back to work.",
+      "origin": "1923: Heilmann hit .403, denied Ruth the Triple Crown, finished 3rd in MVP behind Ruth and Collins, then sold Ruth life insurance in the offseason."
+    },
+    {
+      "title": "The River",
+      "type": "Drama",
+      "text": "July 25, 1916. A car goes off a dock and into the Detroit River. Five people inside. Your hitter is driving nearby. He stops his car. He dives into the river. He saves three. Two die — a woman and her three-year-old daughter. Your hitter's brother Walter drowned in San Francisco Bay eight years ago. He was seventeen. Your hitter says nothing to the press. The next day, the crowd gives him a standing ovation. Reporters can see him blushing clear around to the back of his neck.",
+      "origin": "Heilmann's Detroit River rescue, July 25, 1916. Three saved, two died. His brother Walter drowned in 1908."
+    },
+    {
+      "title": "The Odd Years",
+      "type": "Game Mechanic",
+      "text": ".394. .403. .393. .398. Every other year, your hitter wins the batting title. A reporter points out the pattern. Your hitter replies: 'Mr. Navin gives me contracts on a two-year basis. I always bear down real hard when a new contract is coming up.' Is he joking? Nobody knows. The numbers say he isn't.",
+      "origin": "Heilmann won AL batting titles in 1921, 1923, 1925, 1927 — exclusively in odd years. His explanation about contract cycles became one of baseball's great one-liners."
+    },
+    {
+      "title": "The Wrong Face",
+      "type": "Legacy / Comedy",
+      "text": "In 1960, Fleer releases a baseball card with your hitter's name on it. The face belongs to Larry Woodall, a backup catcher. The AP mislabeled the photo decades ago. Nobody catches the error. The wrong face appears on trading cards, websites, and reference books for fifty years. Your hitter hit .403 and the world cannot even remember what he looked like.",
+      "origin": "The famous mislabeled AP photo of Larry Woodall used as 'Harry Heilmann' on the 1960 Fleer card and subsequent reprints, uncorrected until the 2010s."
+    },
+    {
+      "title": "McManus's Trick",
+      "type": "Game Action",
+      "text": "June 30, 1926. Your hitter reaches third base. Ty Cobb is coaching third. Marty McManus of the St. Louis Browns has the ball hidden in his glove. Your hitter steps off the bag. Out. Ty Cobb — the greatest baseball mind of his generation — was standing right there and did not see it coming. Neither did your hitter. McManus smiles. The crowd gasps. In baseball, anyone can be fooled.",
+      "origin": "McManus pulled the hidden ball trick on Heilmann with Cobb coaching 3B, June 30, 1926. Cross-links to McManus card."
+    },
+    {
+      "title": "The Slowest Great Hitter",
+      "type": "Character",
+      "text": "'Without doubt, he is the slowest moving great hitter who ever lived.' Your hitter does not beat out infield hits. Your hitter does not steal bases. Your hitter does not cover ground in the outfield. Your hitter hits .403 anyway. He hits line drives into gaps that no amount of speed could catch. He doesn't need legs. He needs the bat.",
+      "origin": "Tommy Holmes quote. Heilmann's nickname 'Slug' referred to his speed. The sportswriter estimated Cobb's speed added 50 hits per year while Heilmann's slowness cost him the same."
+    },
+    {
+      "title": "The Voice",
+      "type": "Legacy",
+      "text": "After the bat goes silent, your hitter picks up a microphone. For seventeen years, he is the voice of the Detroit Tigers. He is clumsy at first — 'he met the English language and, ambushed, fled behind his Maginot Line.' But he works at it the way he worked at hitting. He gets better. He stays long enough to become beloved. He tells stories about Cobb and Ruth. He raises money for soup kitchens. He becomes Detroit in a way that transcends the box score. He dies three days before the All-Star Game at his home ballpark. They have a moment of silence.",
+      "origin": "Heilmann's 17-year radio career (1934-1950). Died July 9, 1951, days before the ASG at Briggs Field. Elected to HOF posthumously in Jan 1952."
+    },
+    {
+      "title": "The Shadow's Shadow",
+      "type": "Drama",
+      "text": "First, Cobb's shadow. Then Ruth's. When the weekly averages are published, the headline reads 'Heilmann Leads Hitters' — and beyond that, little comment is made. He is not picturesque. He is not highly colored. He is not bombastic nor spectacular. He is the greatest right-handed hitter in the American League and nobody gives him full credit. He does not court the applause of the crowds. He is modest to a point where he almost shuns it. He proves that no matter how great a man and his deeds are, he must be something of an actor to win the ovations he so richly deserves.",
+      "origin": "Paraphrased from a 1920s sportswriter's lament about Heilmann's lack of recognition despite leading the AL in hitting."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'1\" 200 lbs — big, broad, handsome in a plain way. Irish-German features. 'Pleasant-faced.' Not theatrical, not fierce — WARM. This is the face of a man who blushes when people applaud him. The eyes are intelligent but not piercing. He looks like a man who would sell you insurance and mean it. He looks like a man who would dive into a river to save a stranger and then refuse to talk about it.",
+    "attire": "Detroit Tigers 1923 home whites — the old English 'D' on the left chest. In a line-drive swing — the bat connecting with the ball, the ball launching on a rope into the right-center gap. Or: standing in the box, bat cocked, eyes steady, waiting for the pitch. The swing should suggest contact, not power. This is a man who hit .403 with line drives, not moon shots.",
+    "mood": "WARM OBSCURITY. This card should feel like a late afternoon in Detroit — golden light, unhurried, generous. There is no drama in this card, no menace, no fear. There is only the quiet excellence of a man who did his job better than almost anyone and was noticed by almost no one. The mood is the mood of a great radio broadcast — intimate, knowledgeable, present, and fading when the broadcast ends.",
+    "style": "Full color — Bashers era — but GOLDEN and SOFT. Detroit's old English D, tiger orange, white. The dominant tone is WARM AMBER — late afternoon tiger light, the glow of a radio dial in a living room, the color of a batting average that keeps climbing. NOT sharp like Cochrane. NOT dark like Coveleski. NOT blazing like Ruth. WARM. A card you want to hold. The border should be tiger-orange, fading to amber — the color of a voice on the radio, the color of a line drive in the gap, the color of a man who hit .403 and whose face nobody remembers.",
+    "reference": "Ruth is the solar system. Gehrig is the axis. Coveleski is the mineshaft. Heilmann is THE RADIO — everywhere, beloved, warm, and invisible. You hear the voice but you don't see the face. The card should feel like a broadcast — present and absent simultaneously. .403 and nobody noticed. The radio plays on."
+  }
+}

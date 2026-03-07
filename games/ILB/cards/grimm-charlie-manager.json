@@ -1,0 +1,263 @@
+{
+  "card_type": "manager",
+  "name": "Charlie Grimm",
+  "nickname": "Jolly Cholly",
+  "year": 1935,
+  "team": "Chicago Cubs",
+  "era": "1930s",
+  "ilb_team": "Iron",
+  "archetype": "Players' Manager",
+  "born": "August 28, 1898 — St. Louis, MO",
+  "died": "November 15, 1983 — Scottsdale, AZ (age 85)",
+  "hof": "Not inducted (significant omission). 3 NL pennants. 1,287-1,067 career (.547). Ashes scattered on Wrigley Field — the only manager to literally become part of his ballpark.",
+  "height": "6'0\"",
+  "weight": "175 lbs",
+
+  "record": {
+    "career_wins": 1287,
+    "career_losses": 1067,
+    "win_pct": ".547",
+    "pennants": 3,
+    "world_series": 0,
+    "seasons_managed": 19,
+    "ejections": "Minimal — though he once mimicked an umpire's walk behind his back and got tossed for it. Even his ejections were comedy.",
+    "peak_team": "1935 Chicago Cubs",
+    "peak_record": "100-54, 21-game winning streak in September. Lost WS to Tigers in 6 games.",
+    "teams_managed": [
+      "Chicago Cubs I (1932-38): 3 NL pennants (1932, 1935, 1945*), 396-281",
+      "Milwaukee Brewers/AA (1941-43): Pennant and Little World Series 1943",
+      "Chicago Cubs II (1944-49): NL pennant 1945, 307-258",
+      "Boston/Milwaukee Braves (1952-56): Inaugural Milwaukee manager, 341-285",
+      "Chicago Cubs III (1960): Brief third stint, swapped with Boudreau"
+    ],
+    "notable": "Replaced Rogers Hornsby as Cubs manager in 1932 — went from the most hated to the most beloved. Led 21-game winning streak in September 1935 (one of the longest in MLB history). 3 pennants, 0 World Series wins. Voluntarily stepped down in 1938 when the team struggled — 'imagine that happening today.' Swapped positions with Lou Boudreau in 1960 (manager → broadcaster, broadcaster → manager). Left-handed banjo player who serenaded fans before games. Formed string bands with teammates on every team. Bill Veeck's partner with Milwaukee Brewers. Ashes scattered on Wrigley Field after death. 'A pat on the back, an encouraging word, or a wisecrack paid off a lot more than a brilliantly executed work of strategy.' Philip Wrigley called him 'my favorite baseball character.'",
+    "playing_career": ".290 BA, 2,299 hits, 79 HR, 1,078 RBI across 20 seasons (1916-36). Led NL first basemen in fielding percentage 7 times. Hit .389 in 1929 World Series. One of the few to play AND manage in 2,000+ games each. 'Der Kaptink' — Cubs team captain 1925-32."
+  },
+
+  "ilb_ratings": {
+    "tac": 3,
+    "pit": 3,
+    "lin": 4,
+    "adp": 4,
+    "dis": 4,
+    "ego": 7,
+    "har": 10,
+    "int": 4,
+    "str": 6,
+    "flx": 8,
+    "ovr": 10
+  },
+
+  "rating_justification": {
+    "tac": "Moderate. Grimm explicitly said 'a pat on the back, an encouraging word, or a wisecrack paid off a lot more than a brilliantly executed work of strategy.' He was sound but unspectacular tactically — managing by instinct and morale rather than by the percentages (McKechnie) or by innovation (Huggins). Rating of 3.",
+    "pit": "Moderate. Grimm had no particular reputation for pitching management. His pennant-winning teams were balanced, not pitching-dominant. The 1935 Cubs won with a 21-game winning streak fueled by offense and momentum, not a dominant pitching staff. Rating of 3.",
+    "lin": "High. Grimm was a skilled hitter himself (.290 career, .389 in the 1929 WS) and understood lineup construction. He played alongside some of the greatest hitters in Cubs history and built balanced lineups around available talent. His player-manager years showed he understood how to construct a batting order from the inside. Rating of 4.",
+    "adp": "High. Three separate stints managing the Cubs. One stint with the Braves (including their move to Milwaukee). Minor leagues with Veeck. Broadcasting. Front office. Manager-broadcaster swap with Boudreau. Grimm adapted to every role baseball threw at him — but his adaptability was more vocational than tactical. He always came back to the same approach: joy, morale, encouragement. Rating of 4.",
+    "dis": "Low-moderate. Grimm's discipline style was encouragement, not enforcement. His teams played hard because they loved the environment, not because they feared consequences. This worked beautifully for pennant races but may have contributed to 0 World Series victories — the World Series demands an intensity Grimm's gentle approach couldn't always provide. Rating of 4.",
+    "ego": "Good. Grimm replaced Rogers Hornsby — the most toxic ego in baseball — and immediately restored clubhouse harmony. His own lack of ego was his greatest ego-management tool. Players didn't have to manage the manager's personality because there was nothing to manage. Grimm's ego was subordinate to the team's joy. Rating of 7.",
+    "har": "Maximum. 'Jolly Cholly' is the most descriptive nickname in this entire project. Left-handed banjo before games. String bands on every team. Sing-alongs during spring training. Comedy routines with infielders. Mimicking umpires for laughs. Every teammate remembered Grimm with warmth. Philip Wrigley called him 'my favorite baseball character.' His ashes were scattered on Wrigley Field — the ultimate expression of belonging. Rating of 10.",
+    "int": "Low-moderate. Grimm's intensity was expressed through joy rather than pressure. 'Playing baseball was more fun than working for a living.' He cared deeply about winning but refused to let the caring become suffering. The intensity was warm, not hot — a campfire, not a blowtorch. The campfire lasts longer but can't forge steel. Rating of 4.",
+    "str": "Moderate-high. Grimm built three pennant-winning teams and developed players like Phil Cavarretta (signed at 18, became a star under Grimm). He also managed the inaugural Milwaukee Braves to competitive seasons. But none of his teams won the World Series, and his post-1945 Cubs declined steadily. The building was good; the finishing was incomplete. Rating of 6.",
+    "flx": "Elite. No manager in this project has played more roles: player, player-manager, manager, broadcaster, manager again, minor league owner-manager, broadcaster again, manager a third time, front office executive, goodwill ambassador. The manager-broadcaster swap with Lou Boudreau in 1960 is the most flexible moment in managerial history. Grimm did everything with grace. Rating of 8."
+  },
+
+  "personality": {
+    "leadership_style": "Joy as strategy. Grimm led by making baseball fun. His teams wanted to play because playing was a pleasure. The banjo before games, the comedy routines, the encouraging words, the pats on the back — these weren't distractions from managing; they WERE the managing. Grimm believed that happy players play better than scared players, and three pennants suggest he was right. The leadership was atmospheric: Grimm created a climate of joy, and within that climate, talented players bloomed.",
+    "temperament": "Irrepressibly cheerful. 'Jolly Cholly' wasn't a mask — it was the man. Even in adversity (0 World Series wins, being moved to the broadcast booth, managing bad teams), Grimm maintained his warmth and humor. The temperament of a man who genuinely believed baseball was 'more fun than working for a living' — and who made everyone around him believe it too.",
+    "work_ethic": "Devoted but light-handed. Grimm worked hard at creating the right environment rather than grinding tactical preparation. His pre-game banjo playing wasn't laziness — it was environmental design. The work ethic was relational: Grimm worked hardest at knowing his players, understanding their moods, and keeping the atmosphere positive. The string band was his office.",
+    "lifestyle": "German-American, musical, convivial. Born in St. Louis to parents of German extraction. Played left-handed banjo his entire life. Formed string bands on every team he joined. Partners with Bill Veeck (the greatest promoter in baseball) in Milwaukee. Beloved in Wisconsin for his German heritage. Lived by Lake Koshkonong in retirement. His ashes scattered on Wrigley Field — he literally became the ballpark.",
+    "communication_style": "Humor, encouragement, and performance. Grimm communicated through wisecracks, banjo-playing, comedy routines, and encouraging words. He mimicked umpires behind their backs. He played 'burnout' with catchers in front of fans. He turned routine ground balls into vaudeville acts with Billy Herman. Every interaction was a performance designed to lift spirits. The communication was entertainment, and the entertainment was communication.",
+    "loyalty_expectations": "Play hard and have fun doing it. Grimm's expectations were simple: give your best effort and enjoy the game. He didn't demand personality compliance (McCarthy), moral perfection (McKechnie), or combative intensity (Durocher). He demanded joy — and joy, when genuine, produces effort naturally.",
+    "dark_side": "Zero World Series wins and the question of whether joy is enough. Three pennants, zero rings. The 1932 Cubs were swept by the Yankees. The 1935 Cubs lost to the Tigers after the greatest winning streak in decades. The 1945 Cubs lost the last wartime World Series. Is joy sufficient for the ultimate test? Grimm's career suggests that harmony can build teams but can't always finish the job. The campfire warms but doesn't forge. In ILB: Grimm carries 'The Pennant Ceiling' — his teams reliably contend but have a reduced championship conversion rate. The joy gets you to October but not through it."
+  },
+
+  "playbook": {
+    "roster_philosophy": "Talented players in a joyful environment. Grimm didn't build rosters through systems (McCarthy) or adaptation (McKechnie) — he built them through atmosphere. Get good players, make them happy, let them play. The roster construction was less important than the roster culture. Grimm's teams weren't the most talented — they were the happiest, and happy players overperform.",
+    "conflict_response": "DISSOLVE THROUGH HUMOR. Grimm turned tension into comedy. When things got bad, the banjo came out. When players argued, Grimm cracked a joke. When umpires made bad calls, Grimm mimicked their walks for laughs. Conflict couldn't survive in Grimm's atmosphere of relentless good humor.",
+    "clique_strategy": "UNITE THROUGH MUSIC AND FUN. The string band wasn't a hobby — it was a team-building strategy. When you're playing banjo and mandolin together before games, you're a band. Bands don't have cliques. Grimm's musical performances created a shared identity that transcended baseball roles.",
+    "player_types_that_thrive": [
+      "Players escaping toxic environments — Grimm replaced Hornsby, and the relief was palpable",
+      "Young players who need confidence — Grimm's encouragement nurtured talents like Cavarretta",
+      "Team-first players who value camaraderie — the string band mentality rewards belonging",
+      "Fun-loving personalities who play better when relaxed — Grimm's atmosphere freed them",
+      "Consistent, professional players who need a positive environment to sustain performance"
+    ],
+    "player_types_that_struggle": [
+      "Win-at-all-costs competitors who need pressure to perform — Grimm's atmosphere can feel soft",
+      "Players who need structure and discipline — the joy-first approach lacks rigor for some",
+      "Pitchers who need intensive development — Grimm's coaching strength was morale, not mechanics",
+      "Intense personalities who view fun as unprofessional — Durocher types clash with Grimm",
+      "Players who exploit permissiveness — the gentle hand sometimes can't grip tight enough"
+    ],
+    "tolerance_thresholds": {
+      "max_ego_cluster": 5,
+      "max_volatility": "LOW — Grimm's joyful environment dissipates moderate volatility but can't contain extreme chaos.",
+      "discipline_floor": "LOW-MODERATE — through love, not rules. Sufficient for regular season; sometimes insufficient for October.",
+      "star_exception": "Stars are treated the same as everyone else — but with the same joy. Grimm didn't need star exceptions because his system naturally accommodated different personalities through warmth."
+    }
+  },
+
+  "chemistry_impact": {
+    "team_fit": {
+      "effect": "MAXIMUM INCREASE",
+      "desc": "+3 Team Fit for all players. Grimm's joy is structural and universal. The string band, the comedy, the encouragement — everyone belongs in Jolly Cholly's clubhouse."
+    },
+    "volatility": {
+      "effect": "STRONGLY REDUCED",
+      "desc": "-2 Volatility. Grimm's humor dissolves tension before it can build. The banjo is a pressure valve — when things get tight, the music starts."
+    },
+    "discipline": {
+      "effect": "SLIGHTLY DECREASED",
+      "desc": "-1 Discipline. The joy-first approach can soften edges. Players who need fear-based motivation find Grimm's atmosphere too relaxed. The campfire doesn't forge."
+    },
+    "ego": {
+      "effect": "SUPPRESSED",
+      "desc": "-2 Ego for all players. Grimm's selflessness is contagious. When the manager plays banjo for fun rather than demanding obedience, ego feels silly."
+    },
+    "work_habits": {
+      "effect": "INCREASED",
+      "desc": "+1 Work Habits. Happy players work harder — not because they're told to, but because they want to. The joy makes effort feel natural."
+    },
+    "adaptability": {
+      "effect": "INCREASED",
+      "desc": "+1 Adaptability. Grimm's flexible approach teaches players to adjust. When the manager can switch between managing and broadcasting, players learn to be flexible too."
+    }
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Jolly Cholly",
+      "desc": "All players gain +2 morale upon joining. No player can develop 'Disgruntled' status under Grimm. The joy is permanent, unconditional, and contagious. 'Playing baseball was more fun than working for a living.'"
+    },
+    {
+      "tag": "The Banjo",
+      "desc": "Before every game, Grimm plays the banjo. All players gain +1 to their highest stat that game. The pre-game ritual sets the tone: relaxed, focused, joyful. The left-handed banjo is Grimm's most important instrument."
+    },
+    {
+      "tag": "After Hornsby",
+      "desc": "If Grimm replaces a high-DIS/low-HAR manager, all players gain +3 Team Fit permanently. The relief of escaping brutality is transformative. The 1932 Cubs went 37-18 after Hornsby was fired and Grimm took over."
+    },
+    {
+      "tag": "21-Game Streak",
+      "desc": "When on a winning streak of 5+ games, all players gain an additional +1 to all stats per game on the streak (cumulative, max +3). Momentum is Grimm's greatest weapon. The 1935 Cubs won 21 straight in September."
+    },
+    {
+      "tag": "The Pennant Ceiling",
+      "desc": "Grimm's teams win pennants but not World Series. In championship games, all players lose -1 to all stats. The joy that builds a season can't quite sustain October's pressure. Three pennants, zero rings."
+    },
+    {
+      "tag": "The Swap",
+      "desc": "Grimm can swap roles with any non-manager staff member at any time. If the team is struggling, Grimm moves to broadcasting and the new manager gets +2 to all ratings for 10 games (fresh energy). The 1960 Boudreau swap as mechanic."
+    },
+    {
+      "tag": "Der Kaptink",
+      "desc": "Grimm was 'Der Kaptink' — the captain who became the manager. If a player-captain is on the roster, that player gains +2 to all stats (Grimm understands the captain-to-manager pipeline)."
+    },
+    {
+      "tag": "Ashes on Wrigley",
+      "desc": "Grimm's ashes were scattered on Wrigley Field. At home, all players gain +1 to all stats. The manager is literally part of the ballpark. The belonging is eternal."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "Three stints as Cubs manager. His ashes are scattered here. Grimm didn't just manage at Wrigley — he became Wrigley. The belonging is physical.",
+      "note_extra": "Source labeled 'Wrigley Field / Chicago' / affinity 'MAXIMUM' — mapped to Media/Spotlight/HIGH per home-franchise ballpark collision taxonomy. MAXIMUM normalized to HIGH, consistent with prior MAXIMUM/SACRED normalizations in the set."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Where Grimm played banjo, performed comedy, mimicked umpires. The pre-game was his stage. The entertainment was the preparation.",
+      "note_extra": "Source labeled 'On-Deck Circle / Pre-Game' — mapped to Practice Field/HIGH as the on-field preparation space physically adjacent to the field. The performance/entertainment intent is preserved in the note. Bar/Nightlife was considered but rejected: the pre-game banjo at a ballpark is a performance ritual in a preparation context, not a nightlife/entertainment district context."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "Multiple stints as broadcaster. Swapped with Boudreau in 1960. Grimm was as natural in the booth as in the dugout.",
+      "note_extra": "Source labeled 'Broadcast Booth' — direct pass-through to Media/Spotlight. Second Media/Spotlight HIGH entry on this card. First card in the set with an explicit broadcast booth location."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Co-owned the Brewers with Bill Veeck. First manager of the Milwaukee Braves. Beloved for his German heritage in a German-American city.",
+      "note_extra": "Source labeled 'Milwaukee' — mapped to Community Events/HIGH as a civic and cultural identity node. The Milwaukee connection is defined by communal belonging (German-American heritage, co-ownership with Veeck, inaugural Braves manager) rather than ballpark prominence or private retreat. Distinct from Greenberg's Synagogue/Community Events entry, which was religious; this is civic-cultural."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Where the Cubs held spring training. Where Grimm led sing-alongs. Where the string band performed. The island of joy.",
+      "note_extra": "Source labeled 'Catalina Island / Spring Training' — mapped to Practice Field/HIGH per spring training = preparation space pattern, consistent with prior spring training mappings. Second Practice Field HIGH entry on this card."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "HIGH",
+      "note": "Where Grimm retired. The peaceful lake. The banjo on the porch. The afterlife of Jolly Cholly before the ashes went to Wrigley.",
+      "note_extra": "Source labeled 'Lake Koshkonong / Wisconsin' — mapped to Library/Quiet Spot/HIGH per rural retirement/private retreat pattern, consistent with prior rural/quiet location mappings."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Winning streaks — the 21-game streak shows Grimm's momentum is the most powerful in baseball when flowing",
+      "After replacing a disliked manager — the relief effect is immediate and transformative",
+      "Home games at Wrigley — the fans, the banjo, the atmosphere create a perpetual home advantage",
+      "Spring training / early season — Grimm's joy is freshest when the season is young"
+    ],
+    "cold_triggers": [
+      "World Series — three pennants, zero rings. October's pressure exceeds joy's capacity",
+      "Extended losing — even Jolly Cholly can't play banjo through a 10-game losing streak",
+      "Late-career decline — the act becomes stale. 'Cubs management looked the other way at the clowning'",
+      "Players who need more than encouragement — the gentle approach has a ceiling"
+    ],
+    "pressure_response": "EXCELLENT IN REGULAR SEASON, DIMINISHED IN OCTOBER. Grimm's joy builds incredible regular-season momentum — the 21-game streak, the three pennants, the .547 winning percentage. But October requires a different gear that Grimm's gentle approach can't always reach. In ILB: +2 Clutch during regular season, -1 Clutch in postseason. The Pennant Ceiling is real. Joy carries you to the dance but can't always close the deal."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Banjo",
+      "type": "Action",
+      "text": "Your manager pulls out his left-handed banjo and serenades the team before the game. All players gain +1 to their highest stat. If the team is on a losing streak: +2 instead (the music heals). 'I quickly brought my left-handed banjo out of hiding. We had a group.'",
+      "origin": "Grimm played banjo on every team he joined. Cubs, Pirates, Brewers, Braves — the banjo traveled with him. He formed string bands with teammates: guitar, mandolin, ukulele, and his banjo. The music was the morale."
+    },
+    {
+      "title": "After Hornsby",
+      "type": "Action",
+      "text": "Your manager replaces a brutal predecessor. All players gain +3 Team Fit and +2 morale permanently. The relief is palpable. The joy is immediate. Laughter replaces fear.",
+      "origin": "August 2, 1932: Hornsby was fired. Grimm took over. The Cubs went 37-18 and won the pennant. The transformation from the most hated manager in baseball to the most beloved was instantaneous. The clubhouse breathed again."
+    },
+    {
+      "title": "21 in a Row",
+      "type": "Game Action",
+      "text": "Your team catches fire. On a winning streak of 10+ games, all players gain +3 to all stats. The streak becomes self-reinforcing — each win fuels the next. 'One of the most sensational finishes in major league history.'",
+      "origin": "September 1935: the Cubs won 21 consecutive games to take the pennant. It remains one of the longest winning streaks in MLB history. Under Grimm, momentum wasn't just a bonus — it was the entire strategy."
+    },
+    {
+      "title": "The Pennant Ceiling",
+      "type": "Drama",
+      "text": "Your team wins the pennant but enters the World Series at -1 to all stats. The joy that built the season can't sustain October's pressure. Three pennants. Zero rings. Is happiness enough?",
+      "origin": "1932: swept by Yankees. 1935: lost to Tigers in 6. 1945: lost to Tigers in 7. Grimm's Cubs always reached the World Series and always fell short. The most joyful manager in history, staring at the one thing joy couldn't win."
+    },
+    {
+      "title": "The Swap",
+      "type": "Action",
+      "text": "Your manager moves to the broadcast booth. A new manager takes over. That new manager gains +2 to all ratings for 10 games (fresh energy). If the team wins the pennant: Grimm's ghost gets credit. 'Imagine that happening today — you can't.'",
+      "origin": "1938: Grimm voluntarily stepped down for Gabby Hartnett. Hartnett won the pennant. 1960: Grimm and Lou Boudreau literally swapped roles — manager became broadcaster, broadcaster became manager. The most flexible moment in baseball history."
+    },
+    {
+      "title": "Ashes on Wrigley",
+      "type": "Drama",
+      "text": "Your manager's connection to the ballpark transcends life. At home, all players gain +2 to all stats permanently. The manager isn't just part of the team — he's part of the field. The joy lives in the dirt.",
+      "origin": "After Grimm's death in 1983, his widow was granted permission to scatter his ashes on Wrigley Field. The only manager in baseball history to literally become part of his ballpark. Jolly Cholly plays forever."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Round, warm, laughing. 6'0\" 175 lbs but carrying himself like a smaller, lighter man — always in motion, always performing. The face is meant for smiling: wide mouth, crinkled eyes, generous cheeks. Not movie-star handsome (Durocher) or intimidating (McGraw) or cold (McCarthy) — welcoming. The face of the man you'd want next to you on a long road trip. The face you'd trust with your team's morale. The banjo player's face: animated, expressive, alive.",
+    "attire": "Chicago Cubs uniform from the 1930s — the classic blue and white. But also: the banjo. Grimm should always be depicted with or near his left-handed banjo. It's not a prop — it's his identity. The uniform says 'manager.' The banjo says 'Jolly Cholly.' Both are equally true. A baseball glove on one hand, banjo strings in the other. The dual identity of the man who made baseball fun.",
+    "mood": "Pure warmth. The card should feel like walking into a room where everyone is laughing. Not chaotic (Robinson's Daffiness Boys) but genuinely, sustainably joyful. The mood is the first day of spring training on Catalina Island: sunshine, sea air, the sound of a banjo, and the knowledge that baseball season is beginning. The warmth of a man who loved his job and made everyone around him love theirs.",
+    "style": "Green Players' Manager palette but brighter and warmer than previous Players' Managers — this is the sunniest card in the project. Wrigley Field ivy in the background, afternoon sunshine, the friendly confines. The card should feel handmade and personal — like something Grimm would have designed himself, with a little musical note somewhere. Border should have a subtle banjo-string pattern. The most inviting card in the game.",
+    "reference": "The Players' Manager Spectrum: Hanlon (1900) teaches. Mack (1910) presides with dignity. Robinson (1920) loves chaotically. Grimm (1930) entertains. Four different kinds of player-managing: education → patriarchy → family comedy → musical joy. Grimm and Robinson share HAR 10 but differ fundamentally: Robinson's chaos was accidental comedy; Grimm's joy was intentional performance. Robinson's Daffiness Boys stumbled into fun; Grimm's string band created it. Both are beloved. Only one played the banjo."
+  }
+}

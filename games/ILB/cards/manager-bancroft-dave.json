@@ -1,0 +1,267 @@
+{
+  "card_type": "manager",
+  "name": "Dave Bancroft",
+  "nickname": "Beauty",
+  "year": 1925,
+  "team": "Boston Braves",
+  "era": "1920s",
+  "ilb_team": "Lumber",
+  "archetype": "Tactical Purist",
+  "born": "April 20, 1891 — Sioux City, IA",
+  "died": "October 9, 1972 — Superior, WI (age 81)",
+  "hof": "Inducted 1971 (Veterans Committee). Controversial selection — critics attributed it to Frankie Frisch's cronyism on the committee. But defenders note: premier defensive shortstop of his era, Ozzie Smith's equal in the field and a better hitter. Career .279 BA, 2,004 hits, 320 doubles. Set still-standing record: 984 chances handled by a shortstop in a single season (1922). First shortstop to turn 100 double plays in a season.",
+  "height": "5'9\"",
+  "weight": "160 lbs",
+
+  "record": {
+    "career_wins": 249,
+    "career_losses": 363,
+    "win_pct": ".407",
+    "pennants": 0,
+    "world_series": 0,
+    "seasons_managed": 4,
+    "ejections": "Infrequent — fought with words and positioning, not volume",
+    "peak_team": "1925 Boston Braves",
+    "peak_record": "70-83 (5th place — the high-water mark)",
+    "teams_managed": ["Boston Braves (1924-1927)"],
+    "notable": "McGraw's captain given a chance to manage the NL's worst franchise. Applied brilliant defensive systems thinking to a talent-starved roster. Converted Bob Smith from failed infielder to dependable pitcher. Built teams around pitching and defense because he had nothing else. Four consecutive second-division finishes, but the 1925 leap from last to fifth was called a 'miracle.'",
+    "playing_career": "16 seasons. .279 career BA. 2,004 hits. Switch-hitter. 4× NL pennant team member (1915 Phillies, 1921-23 Giants). 2× World Series champion (1921, 1922). Captain of McGraw's Giants. Frank Graham: 'The greatest shortstop the Giants ever had and one of the greatest that ever lived.'",
+    "innovation": "Defensive positioning pioneer — studied every opposing batter and positioned himself before they swung. Converted players between positions based on skill analysis (Bob Smith: infielder→pitcher). Applied McGraw's 'scientific game' philosophy with less talent."
+  },
+
+  "ilb_ratings": {
+    "tac": 4,
+    "pit": 3,
+    "lin": 3,
+    "adp": 2,
+    "dis": 7,
+    "ego": 4,
+    "har": 4,
+    "int": 7,
+    "str": 6,
+    "flx": 3,
+    "ovr": 5
+  },
+
+  "rating_justification": {
+    "tac": "Bancroft was one of baseball's most cerebral players, and he brought that intelligence to managing. He believed 'the business of batting and fielding is a contention between minds,' studying every opposing batter to position himself before they swung. Hughie Jennings called him a player who 'uses his brain — a player like him at short means everything to a ballclub.' He knew the Giants' signs before he ever joined the team. As a manager, he applied McGraw's 'scientific game' with rigor: emphasis on positioning, fundamentals, cutoff throws, and defensive execution. But he never had the talent to fully realize his tactical vision.",
+    "pit": "Bancroft's finest managerial achievement was converting Bob Smith from a struggling infielder (.228 BA) into a dependable starting pitcher. After coach Dick Rudolph suggested the experiment, Bancroft put Smith in the rotation where he stifled the pennant-bound Pirates for 11 innings in his first real start. Smith went on to win in double figures for six consecutive seasons. Bancroft also built the entire 1926 team philosophy around pitching and defense, recognizing that the Braves' offense was hopeless. This was strong pitcher management given extreme constraints.",
+    "lin": "As a switch-hitting leadoff man under McGraw, Bancroft understood lineup construction from the inside. He knew how to set up a batting order to manufacture runs — but the Braves had almost no offensive talent to work with. His lineup craft was strong in concept but limited in execution. He repeatedly stated that the Braves needed 'more batting punch' and tried to acquire hitters, but the franchise had no money and no trade capital.",
+    "adp": "This is Bancroft's critical weakness. He learned one system — McGraw's 'scientific game' of fundamentals, positioning, and cerebral play — and applied it relentlessly regardless of context. When managing inferior talent, his demanding approach created friction. His 'hard-nosed style rubbed more than a few Braves players the wrong way.' He couldn't soften his approach when the roster couldn't execute at the level he demanded. After four years of the same system producing the same results, he requested his own release rather than adapt.",
+    "dis": "Bancroft enforced McGraw-level discipline on a non-McGraw roster. He demanded precision, fundamentals, and mental engagement from players who often lacked the skill to deliver. This created a paradox: his discipline was internally consistent and tactically sound, but it produced resentment on a losing team. The Earl Smith sucker-punch incident (June 18, 1927) was the most dramatic manifestation — a former player literally knocked Bancroft unconscious during a game. Strong discipline, poorly calibrated to context.",
+    "ego": "Bancroft struggled with ego management on losing teams. His hard-nosed approach, learned under McGraw where discipline was reinforced by winning, failed when applied to players who saw no reward for the demands. Earl Smith clashed with him repeatedly before being sold to Pittsburgh, then returned to punch him. The personality clashes were chronic, not isolated. Bancroft lacked the interpersonal flexibility to manage frustrated egos on a cellar-dwelling team.",
+    "har": "The Braves under Bancroft were not a harmonious team. Chronic losing, personality clashes, and Bancroft's demanding style created a tense clubhouse. The 1924 team finished last. After overhauling the roster, the 1925 team jumped to fifth — a genuine achievement — but then regressed to seventh in both 1926 and 1927 as the improvements stalled and morale eroded. Bancroft was captain material on a winning team; he struggled to create unity on a losing one.",
+    "int": "Bancroft's personal intensity was elite. He played nine innings of a game with a high fever, then collapsed in the clubhouse with pneumonia — earning McGraw's famous reaction: 'Imagine, he played nine innings with pneumonia.' He walked to first base in his final managing game while exchanging verbal threats with Earl Smith, knowing he was being baited. He never quit, never stopped competing, never showed weakness. But his intensity was personal rather than transferable — he couldn't always ignite the same fire in his players.",
+    "str": "The Bob Smith conversion is the signature move: seeing a failing infielder and recognizing an effective pitcher inside him. He also overhauled the roster between 1924 and 1925, jumping from last to fifth — earning the nickname 'Miracle Man' in contemporary headlines. He emphasized young player development and repeatedly identified defensive talent. But his overall roster strategy was constrained by the Braves' poverty. He couldn't acquire the offensive talent he identified as needed.",
+    "flx": "Low flexibility. Bancroft was a one-system manager — McGraw's system — applied with great intelligence but limited adaptability. He didn't modify his approach for different personnel, different contexts, or repeated failure. When the system produced four straight second-division finishes, his response was to request his own release rather than change. This rigidity is characteristic of the Tactical Purist archetype: the system is the point, and if it fails, the failure is in the materials, not the design."
+  },
+
+  "personality": {
+    "leadership_style": "Cerebral field general who directed play from shortstop with the authority of a professor commanding a classroom. Bancroft's leadership was intellectual — he studied opponents obsessively, positioned defenders by instinct refined through analysis, and expected every player to engage with the game mentally. Under McGraw, this worked beautifully because the Giants had elite talent executing a brilliant system. In Boston, the professor had no students who could pass the exam. His authority was real but insufficient to overcome the talent gap.",
+    "temperament": "Smart, scrappy, and 'well suited to the scientific game.' Bancroft was competitive without being explosive — he fought with positioning and preparation rather than screaming. But he was hard-nosed enough to generate genuine conflict. The Washington Times called him a fielder of 'uncanny intuition,' and his habit of shouting 'Beauty!' at good pitches earned him his nickname. He approached baseball as an intellectual contest with physical execution, and he demanded the same from everyone around him.",
+    "work_ethic": "Ferocious. Played nine innings with pneumonia and collapsed afterward. Set the record for most chances handled by a shortstop in a season (984 in 1922) through relentless preparation and positioning. As a manager, he arrived in 1924 with appendicitis that required surgery — traumatic damage from being hit by a pitch — and still managed 79 games. His work ethic was never in question; the question was whether he could inspire the same dedication in inferior players.",
+    "lifestyle": "Small-town Midwesterner to the core. Born in Sioux City, Iowa, married Edna Gisin of Superior, Wisconsin, and lived there for the rest of his life. The couple remained childless. After baseball, Bancroft became a warehouse supervisor for Interprovincial Pipeline Company. Retired in 1956 to pursue hunting and fishing. Died in Superior in 1972, a small-town man who happened to play in the biggest cities in America. His lifestyle was modest, disciplined, and utterly without pretension.",
+    "communication_style": "Cerebral and direct. When the Giants' catcher offered to teach him the team's signs upon his arrival, Bancroft replied: 'Why, have they changed? If not, I know them already.' This was not arrogance — it was precision. He had studied the signs from the opposing dugout. His communication was efficient, information-dense, and expected reciprocal intelligence. Players who engaged mentally thrived under him. Players who didn't found him cold and demanding.",
+    "loyalty_expectations": "Think. Bancroft demanded mental engagement above all else. Physical tools were secondary to baseball intelligence — he proved this by converting Bob Smith from a failed hitter to a successful pitcher based on a skill only visible to someone watching carefully. Players who brought their minds to the ballpark earned Bancroft's respect and protection. Players who coasted earned his contempt and, eventually, a ticket out of Boston.",
+    "dark_side": "The limits of intelligence without talent. Bancroft was the most brilliant tactical mind to manage in the National League in the 1920s — and he compiled the worst record of any HOF manager in history. The gap between his knowledge and his roster was unbridgeable. His demanding style, transplanted from McGraw's winning clubhouse to a basement franchise, created resentment instead of excellence. Earl Smith punched him unconscious on a baseball field. His HOF election is genuinely controversial — critics call it cronyism via Frankie Frisch. And perhaps most poignantly, when McGraw finally retired in 1932, Bancroft was right there coaching the Giants — but Bill Terry got the managing job. The brilliant captain was always the lieutenant, never the general. Even his managing opportunity came as 'a favor to Christy Mathewson,' not as recognition of his own merit. Beauty saw everything on the field — but never saw himself clearly enough to understand why the game wouldn't give him what he deserved."
+  },
+
+  "playbook": {
+    "roster_philosophy": "Build from defense outward. Bancroft managed the way he played — defense first, positioning second, fundamentals third, offense a distant fourth. He believed the game was won between pitches, in the positioning of fielders and the mental chess match between batter and defender. His Braves were always better defensively than offensively, and he deliberately prioritized pitching and fielding when constructing his roster. When he said the team needed 'more batting punch,' it was an admission of failure, not a change in philosophy.",
+    "conflict_response": "SUPPRESS THROUGH STRUCTURE. Bancroft didn't fight conflicts head-on — he tried to structure them away. If a player wasn't performing, he was repositioned (Smith), replaced, or released. If a veteran clashed with the system, Bancroft sold them (Earl Smith to Pittsburgh). The system was non-negotiable; individual conflicts were resolved by removing the conflicting individual. This worked under McGraw, where replacements were plentiful. In Boston, where replacements were worse than the problems, it was catastrophic.",
+    "clique_strategy": "ENFORCE STANDARDS. Bancroft's clubhouse ran on a single standard: execute the fundamentals. There were no cliques because there was no tolerance for sub-groups — everyone was expected to meet the same mental and physical demands. This created unity on the 1925 team that jumped to fifth place, but it also created a brittle culture that cracked under sustained losing.",
+    "player_types_that_thrive": [
+      "Cerebral players who study opponents and anticipate — the 'contention between minds' types",
+      "Defensive specialists — Bancroft values the glove as much as the bat",
+      "Position-flexible players willing to be moved where the system needs them",
+      "Young players hungry to learn fundamentals from a master",
+      "Scrappy overachievers who maximize limited tools through intelligence and effort"
+    ],
+    "player_types_that_struggle": [
+      "Pure sluggers with poor defense — Bancroft will bench offensive talent for defensive reliability",
+      "Lazy or mentally disengaged players — Bancroft's ultimate sin is not thinking on the field",
+      "Ego-driven stars who expect special treatment — the system applies to everyone equally",
+      "Volatile personalities who express frustration physically — Bancroft learned this the hard way",
+      "Players who need positive reinforcement — Bancroft's style is demanding, not encouraging"
+    ],
+    "tolerance_thresholds": {
+      "max_ego_cluster": 2,
+      "max_volatility": "LOW — Bancroft demands mental discipline. Emotional volatility disrupts the system and creates the kind of personality clashes that defined his tenure in Boston.",
+      "discipline_floor": "HIGH — McGraw-level fundamentals expected. 'The business of batting and fielding is a contention between minds.' Players who don't engage mentally are not tolerated.",
+      "star_exception": "None. The system is the star. Even Bancroft himself was traded when McGraw had a younger replacement ready. No individual is above the system."
+    }
+  },
+
+  "chemistry_impact": {
+    "team_fit": {
+      "effect": "MODERATE",
+      "desc": "Bancroft's system creates clear roles and expectations, which helps players understand where they fit. But the system's rigidity can feel suffocating on losing teams. +1 Team Fit in the first season under Bancroft as the new system energizes. -1 Team Fit for each consecutive losing season afterward."
+    },
+    "volatility": {
+      "effect": "SUPPRESSED",
+      "desc": "Bancroft's structured approach suppresses volatility — which is good for team discipline but bad for competitive fire. High-volatility players lose -1 Intensity under Bancroft but gain +1 Discipline."
+    },
+    "discipline": {
+      "effect": "STRONGLY INCREASED",
+      "desc": "McGraw's system, faithfully applied. All players gain +1 Defensive rating. Fundamentals errors are reduced by 30%. But discipline without talent produces well-organized losing."
+    },
+    "ego": {
+      "effect": "LOW TOLERANCE",
+      "desc": "The system applies equally to everyone. Stars who expect exceptions create friction. Max 2 high-ego players. Any ego conflict has 40% chance of escalating to physical confrontation (see: Earl Smith)."
+    },
+    "work_habits": {
+      "effect": "INCREASED",
+      "desc": "Bancroft's personal work ethic is infectious among players who respect intelligence. All cerebral players gain +1 to their lowest stat. But anti-intellectual players are unaffected."
+    },
+    "adaptability": {
+      "effect": "LOW",
+      "desc": "One system. Applied consistently. The McGraw system works brilliantly with elite talent and fails gracefully with average talent and fails badly with poor talent. Bancroft does not adapt the system to the talent; he tries to raise the talent to the system."
+    }
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Contention Between Minds",
+      "desc": "Bancroft's core philosophy. All players who study opponents (high baseball IQ) gain +2 to defensive positioning. Players who don't study gain nothing. The team's defensive ceiling is determined by its collective intelligence, not its collective talent."
+    },
+    {
+      "tag": "Beauty!",
+      "desc": "Bancroft's signature exclamation — shouted when his pitcher threw a good pitch or a fielder made a good play. When the team executes fundamentals perfectly for three consecutive defensive plays, all players gain +1 Momentum. Beauty rewards precision, not power."
+    },
+    {
+      "tag": "The McGraw System",
+      "desc": "Bancroft applies McGraw's 'scientific game' — cutoff throws, defensive positioning, hit-and-run, sacrifice bunts, manufactured runs. All players gain +1 to fundamentals-based plays. But the system requires minimum talent thresholds: if team OVR is below 6, the system's bonuses are halved because the players can't execute it."
+    },
+    {
+      "tag": "The Smith Conversion",
+      "desc": "Bancroft can convert a struggling position player into a pitcher (or vice versa). Once per season, select one player failing at their current role. 50% chance the conversion succeeds (+3 to new position stats). 30% chance of marginal improvement (+1). 20% chance the experiment fails entirely. Based on converting Bob Smith from .228-hitting infielder to 10-win pitcher."
+    },
+    {
+      "tag": "Nine Innings With Pneumonia",
+      "desc": "When Bancroft is injured or ill, he plays through it. If the player-manager misses a game, team morale drops -2. If he plays through injury, team gains +1 Intensity but Bancroft has 25% chance of collapsing (missing 2-4 weeks). Based on Bancroft's famous 1923 collapse after playing a full game with pneumonia."
+    },
+    {
+      "tag": "I Know Them Already",
+      "desc": "Bancroft's intelligence extends to reconnaissance. Before any series, Bancroft has already studied the opposing team's signs, tendencies, and weaknesses. +1 Tactics for the first game of every series. The advantage fades in subsequent games as opponents adjust. Based on his already knowing the Giants' signs when he was traded to the team."
+    },
+    {
+      "tag": "The Lieutenant's Curse",
+      "desc": "Bancroft was always the brilliant captain, never the chosen general. When a managerial opening occurs on a prestigious team, Bancroft has 20% chance of being hired — but 50% chance that a less qualified candidate is chosen instead. If passed over, -1 Morale for Bancroft for the rest of the season. Based on being passed over for Bill Terry when McGraw retired."
+    },
+    {
+      "tag": "The Sucker Punch",
+      "desc": "Bancroft's demanding style creates enemies. Once per season, 15% chance a former player or current rival confronts Bancroft physically. Bancroft is injured (misses 1-2 games) and the attacker is suspended. +1 Sympathy Harmony from the team rallying around their injured manager. Based on Earl Smith's sucker-punch knockout of Bancroft on June 18, 1927."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Braves Field / Home Ballpark",
+      "affinity": "MEDIUM",
+      "note": "Bancroft's kingdom — such as it was. The cavernous park at least rewarded his defensive philosophy. But few fans came to watch his well-organized defeats."
+    },
+    {
+      "location": "Shortstop Position",
+      "affinity": "HIGH",
+      "note": "Bancroft's true office. He saw the entire field from shortstop — every positioning opportunity, every mental lapse, every failure of fundamentals. The position of maximum information."
+    },
+    {
+      "location": "Polo Grounds / Giants Territory",
+      "affinity": "HIGH",
+      "note": "Where Bancroft was captain, champion, and valued. Under McGraw, his intelligence was weaponized by elite talent. The best years of his life."
+    },
+    {
+      "location": "Coaching Box / Dugout",
+      "affinity": "MEDIUM",
+      "note": "Where Bancroft directed play when not on the field. He emphasized fundamentals from the bench, teaching young infielders the science of positioning."
+    },
+    {
+      "location": "Superior, Wisconsin",
+      "affinity": "HIGH",
+      "note": "Home. Married his wife there, lived there his whole life, died there. The small Lake Superior town grounded a man who played in New York and Philadelphia."
+    },
+    {
+      "location": "Commissioner's Office",
+      "affinity": "LOW",
+      "note": "The Veterans Committee room where his HOF election was awarded — and forever questioned. Frankie Frisch's presence haunts the legacy."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Team executing fundamentals — when the defense is positioned perfectly and the system works, Bancroft's teams play above their talent level",
+      "Early-season roster overhaul — Bancroft's best work came in the offseason, restructuring the roster. The 1925 jump from last to fifth place was his masterpiece",
+      "Young player development — when a prospect absorbs Bancroft's teaching and begins thinking on the field, the whole team benefits from the proof of concept",
+      "Pitching-dominant games — low-scoring affairs where defense and positioning decide the outcome are Bancroft's ideal competitive context"
+    ],
+    "cold_triggers": [
+      "Sustained losing — the system works only when players believe in it, and consecutive losses erode belief faster than intelligence can rebuild it",
+      "Personality clashes escalating — when friction between Bancroft's demands and player frustration reaches critical mass, the clubhouse fractures",
+      "Offensive drought — Bancroft's defense-first approach has no answer for teams that simply can't score enough runs to win",
+      "Being passed over — external rejection (not getting the Giants job, being dismissed by the Braves) creates lasting psychic damage to Bancroft's authority"
+    ],
+    "pressure_response": "BRILLIANT IN THEORY, BRITTLE IN PRACTICE. Bancroft responds to pressure by doubling down on the system — more fundamentals, more positioning, more mental engagement. When the talent exists to execute, this creates a ratcheting effect where pressure improves performance. When the talent doesn't exist, it creates a death spiral where more demands produce more failure produce more demands. In ILB: +2 TAC and +1 DIS in high-pressure situations, but -1 HAR and -1 EGO as the pressure reveals the cracks between the system and the players. Bancroft's teams are always the most prepared team in the building — and sometimes the most miserable."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "I Know Them Already",
+      "type": "Game Action",
+      "text": "Your manager has been studying the opposing team for months. He knows their signs, their tendencies, their weaknesses. For the first game of the series, gain +2 Tactics and +1 to all defensive positioning. The advantage diminishes by -1 each subsequent game as the opponent adjusts.",
+      "origin": "When Bancroft was traded to the Giants in 1920, catcher Frank Snyder offered to teach him the team's signs. Bancroft replied: 'Why, have they changed? If not, I know them already.' He had been reading their signs from the opposing dugout for five years."
+    },
+    {
+      "title": "The Smith Conversion",
+      "type": "Action",
+      "text": "Your manager identifies a player failing at their current position and converts them to a new role. Select one player with a stat below 3. Roll: 50% chance they gain +3 in their new position, 30% chance +1, 20% chance the experiment fails and they lose -1. Can only be used once per season.",
+      "origin": "Bob Smith was a .228-hitting shortstop with no future. Bancroft converted him to pitcher after coach Dick Rudolph suggested the idea. In his first real start, Smith held the pennant-bound Pirates to one run over 11 innings. He went on to win in double figures for six straight years."
+    },
+    {
+      "title": "Nine Innings With Pneumonia",
+      "type": "Drama",
+      "text": "Your manager is seriously ill but refuses to sit out. He plays the full game, then collapses in the clubhouse. Team gains +2 Intensity from witnessing his dedication. But manager misses 2-6 weeks recovering. Roll for severity: 50% 2 weeks, 30% 4 weeks, 20% 6 weeks.",
+      "origin": "In June 1923, Bancroft reported to the Polo Grounds with a high fever and played nine full innings. After the game he collapsed in the clubhouse and was hospitalized with pneumonia. McGraw's reaction: 'Imagine, he played nine innings with pneumonia.'"
+    },
+    {
+      "title": "The Professor's Gambit",
+      "type": "Game Action",
+      "text": "Your manager repositions the entire defense based on his study of the opposing hitters. For this game, all defensive ratings gain +2 — but if any batter reaches base on a ball hit to an unusual location, the entire defensive bonus is lost as players question the positioning.",
+      "origin": "Bancroft believed 'the business of batting and fielding is a contention between minds.' He positioned himself at shortstop by studying every opposing batter's tendencies, crediting his uncanny defensive instincts to intellectual preparation rather than raw athleticism."
+    },
+    {
+      "title": "The Sucker Punch",
+      "type": "Drama",
+      "text": "A former player harboring a grudge attacks your manager during a game. Your manager is knocked unconscious and carried off the field. He misses 1-2 games. The attacker is fined $500 and suspended 30 days. Your team gains +1 Harmony from rallying around the injured manager — but opponents lose respect for your clubhouse discipline.",
+      "origin": "On June 18, 1927, former Braves catcher Earl Smith, now with Pittsburgh, sucker-punched Bancroft in the jaw after an exchange of words at home plate. Bancroft was carried unconscious to the clubhouse and required three stitches. Smith was fined $500 and suspended 30 days."
+    },
+    {
+      "title": "A Favor to Mathewson",
+      "type": "Trade",
+      "text": "A prestigious team trades you their brilliant captain as a favor to your franchise's owner. You receive a player-manager with elite tactical skills and +3 Intelligence. But the player-manager knows he was sent as a favor, not chosen as a leader. His authority starts at -1 until he earns it through results.",
+      "origin": "McGraw traded Bancroft to Boston 'as a favor to Christy Mathewson,' the Braves' president and McGraw's old friend. McGraw wanted to give his captain a managing opportunity, but he also had Travis Jackson waiting. The move was generous — but Bancroft always knew it was charity."
+    },
+    {
+      "title": "The Miracle of Fifth Place",
+      "type": "Action",
+      "text": "Your manager overhauls the roster in the offseason, acquiring new players, repositioning existing ones, and installing his system from scratch. The team jumps +2 in the standings immediately. But the improvement is fragile — if the team is still losing by midseason, all gains revert to 0 as the initial energy fades.",
+      "origin": "After finishing last in 1924, Bancroft overhauled the Braves' roster for 1925. The team jumped from eighth to fifth place — a dramatic leap that contemporary headlines called a 'miracle.' But the improvement stalled: the Braves fell back to seventh in both 1926 and 1927."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Compact, alert, 5'9\" and 160 lbs — a small man whose eyes are doing most of the work. The face is intelligent and watchful, with the quick focus of someone processing information faster than the game moves. Clean-shaven, ears slightly prominent, jaw set. Not commanding physically but radiating competence. This is a man who knows where the ball is going before the batter swings.",
+    "attire": "Boston Braves uniform, 1925 vintage. Player-manager in the field, glove on, crouched slightly at shortstop. The uniform is clean — Bancroft positioned himself so well that he rarely dove. Cap straight, stance balanced, weight forward on the balls of his feet. Ready. Always ready. The posture of a man who has already solved the puzzle and is waiting for the pieces to move.",
+    "mood": "Quiet intensity masked by intellectual precision. Not the volcanic fire of a Firebrand or the iron authority of an Authoritarian — this is the focused calm of a chess player who knows he's better than his opponent but suspects his own pieces might not cooperate. There's a melancholy under the competence. The look of a brilliant man who ended up at the wrong school.",
+    "style": "Cool blue-grey palette — the Tactical Purist color, but muted, almost institutional. Braves Field in the background, vast and empty (the Braves drew poorly). Late afternoon shadows stretching across an infield that Bancroft has already positioned for the next batter. The color scheme is more cerebral than the warm ambers of Speaker or the rich browns of Robinson. This card feels like a blueprint — clean, precise, theoretical, and slightly cold.",
+    "reference": "Third Tactical Purist in the ILB spectrum, and a dramatic departure from the first two. Selee (1900, OVR 11) built systems from unlimited authority. Huggins (1910, OVR 12) applied intellect to championship rosters. Bancroft (1920, OVR 5) applies the same caliber of intelligence to the worst franchise in the National League. This is the Tactical Purist as tragic figure — the brilliant mind without the means. Where Selee and Huggins proved that systems thinking produces championships, Bancroft proves that systems thinking without talent produces nothing but well-organized losing. The Grey Eagle could inspire; the Professor can only teach. And if the students can't learn, the lesson dies in the classroom."
+  },
+
+  "badges": [
+    "HOF 1971",
+    "2× WS Champ (player)",
+    "McGraw's Captain",
+    "Bob Smith Conversion",
+    "984 Chances (Record)",
+    "100 DP Season (1st ever)"
+  ]
+}

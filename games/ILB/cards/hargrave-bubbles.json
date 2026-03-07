@@ -1,0 +1,183 @@
+{
+  "card_type": "player",
+  "name": "Bubbles Hargrave",
+  "nickname": "The Valve",
+  "year": 1926,
+  "team": "Cincinnati Reds",
+  "era": "1920s",
+  "ilb_team": "Bashers AL1920",
+  "position": "C",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'9\"",
+  "weight": "170 lbs",
+  "born": "July 15, 1892 — New Haven, Indiana",
+  "died": "February 23, 1969 — Cincinnati, Ohio (age 76). Worked as a supervisor for a valve company for 20+ years after baseball. Buried Union Cemetery, Symmes Township.",
+  "hof": "NOT IN COOPERSTOWN. Cincinnati Reds HOF (1962). Indiana Baseball HOF (2005). .310 career BA, 786 H, 6× consecutive .300 seasons. First catcher to win a batting title in the 20th century (1926). The crown nobody expected from the position nobody associated with hitting.",
+
+  "real_stats": {
+    "season": 1926,
+    "batting_avg": ".353",
+    "obp": ".404",
+    "slg": ".524",
+    "ops": ".928",
+    "hits": 115,
+    "doubles": 22,
+    "triples": 5,
+    "home_runs": 6,
+    "rbi": 48,
+    "runs": 42,
+    "stolen_bases": 1,
+    "total_bases": 171,
+    "games": 105,
+    "at_bats": 326,
+    "war": 3.6,
+    "note": "NL Batting Champion — first catcher to win in 20th century. Broke Hornsby's 6-year streak. Only 326 AB (controversial).",
+    "career_batting_avg": ".310",
+    "career_hits": 786,
+    "career_hr": 29,
+    "career_rbi": 376,
+    "career_games": 852,
+    "career_seasons": 12,
+    "three_hundred_streak": "6 consecutive .300 seasons (1922-1927)",
+    "last_pro_season": ".372 BA (1932 Buffalo, age 40)"
+  },
+
+  "ilb_stats": {
+    "ovr": 5,
+    "con": 3,
+    "pow": 1,
+    "spd": 0,
+    "def": 2,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": "Hargrave hit .353 in 1926 to win the NL batting title — the first catcher to do so in the 20th century (first since King Kelly in 1886). He broke Rogers Hornsby's six-consecutive-year hold on the NL batting crown. Career: .310 BA with 6 consecutive .300 seasons (1922-1927). He hit .372 in his final professional season at age 40. The contact was genuine and sustained. However, the 1926 title came in only 326 AB (105 games, with pinch-hit appearances to reach the 100-game minimum). The small sample and controversial qualification temper the rating slightly, but the 6-year .300 streak confirms the skill was real. Rating of 3.",
+    "pow": "Hargrave hit 6 home runs in 1926 with a .524 SLG. Career: 29 HR in 852 games over 12 seasons. He was released by the Yankees partly because of 'lack of power and speed.' He was a pure contact hitter who used line-drive approach rather than power. For a catcher in the 1920s, this was not unusual, but it limits the power rating. Rating of 1.",
+    "spd": "Hargrave stole 1 base in 1926. He was a catcher carrying moderate weight on a 5'9\" frame. Speed was never a tool. Rating of 0.",
+    "def": "Hargrave was described as 'a master of judgment behind the plate' and 'a fiery competitor.' He led NL catchers in fielding percentage in 1927 and in double plays in 1924. He caught for a staff that included Carl Mays, Pete Donohue, and Eppa Rixey — managing diverse pitching personalities. His value behind the plate was in game-calling and staff management, not arm strength or blocking. Rating of 2.",
+    "clu": "Hargrave never appeared in a World Series. The 1926 Reds were in the pennant race but finished second to the Cardinals. He finished 6th in NL MVP voting that year. Without any postseason experience, the clutch rating cannot be assessed positively. Rating of 0."
+  },
+
+  "personality": {
+    "leadership_style": "QUIET AUTHORITY FROM BEHIND THE PLATE. Catchers lead differently — they lead by controlling the game, calling pitches, managing pitching staffs, and absorbing punishment. Hargrave was 'a master of judgment behind the plate' — his leadership was invisible to the stands but felt by every pitcher he caught. He didn't command the clubhouse. He commanded the battery.",
+    "temperament": "FIERY UNDERNEATH, STUTTERING ON TOP. Hargrave was described as 'a fiery competitor' and 'peppery.' But he also stuttered — badly enough that his teammates named him 'Bubbles' for the way he said words starting with 'B.' He HATED the nickname. The fire was genuine; the voice that expressed it was unreliable. Like Cuyler, the stutter shaped the man — teaching him to communicate through action rather than words, through judgment rather than speeches.",
+    "work_ethic": "PERSISTENCE THROUGH FAILURE. Hargrave hit .207 in his first MLB trial (Cubs, 1913-1915). He spent FIVE YEARS in the minors rebuilding his swing. He came back to hit .310 for his career. His father didn't want him to play baseball — he tried the upholstery business first. The work ethic was PATIENT — the long development, the willingness to fail and return, the craftsmanship of a hitter who built himself one minor-league season at a time.",
+    "lifestyle": "BLUE-COLLAR INDIANA. Born in New Haven, Indiana. Brother Pinky was also a catcher. Father opposed baseball. Tried upholstery. Spent 5 years in the minors. Won a batting title. Worked for a valve company for 20+ years after retirement. Died in Cincinnati. This is the most WORKING-CLASS card in the Bashers — no architecture degrees, no cattle ranches, no Broadway. Just catching, hitting, and opening valves.",
+    "era_adaptability": "LOW TO MODERATE. Hargrave's batting skills (.310 career, .353 title) would translate, but his lack of power (29 career HR) and speed would limit his value in modern baseball. Modern catchers are expected to contribute power — Hargrave would be a .280 hitter with 8 HR, valuable for framing and game-calling but undersized offensively. His game-management skills might translate better than his bat.",
+    "clubhouse_impact": "MODERATE POSITIVE. Hargrave was a catcher — the position of clubhouse glue. He managed diverse pitching staffs (including the difficult Carl Mays) and earned respect through judgment and durability. Not a morale leader like Bottomley, but a structural presence — the person who holds the battery together. In ILB, +1 to all pitchers' effectiveness when Hargrave is behind the plate.",
+    "tragic_element": "THE ASTERISK. Hargrave won the NL batting title in 1926. It was debated for months. His 326 AB were well below what modern standards would require. Some record books don't list him as champion. The first catcher in 40 years to win a batting title, and the title itself came with a footnote. The stutterer who hated his name won a crown that some people said didn't count. Even the triumph was qualified. Even the glory came with an asterisk."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Stutterer's Crown",
+      "desc": "Hargrave stuttered on 'B' sounds — hence 'Bubbles,' a name he despised. Cuyler stuttered too. In ILB, when Hargrave and Cuyler are on the same team, both receive +1 to composure. Two men who learned to speak through action, not words. The stutterers' alliance."
+    },
+    {
+      "tag": "Hornsby's Streak-Breaker",
+      "desc": "1926: Hargrave's .353 broke Hornsby's six-year hold on the NL batting crown. Hornsby 'slumped' to .317. In ILB, Hargrave has +2 CON when competing for the batting title against an OVR 10+ hitter. The underdog swings harder when the giant stumbles."
+    },
+    {
+      "tag": "The Controversial Crown",
+      "desc": "326 AB. 105 games (padded with pinch-hit appearances). Debated for months. Some record books don't list him. In ILB, Hargrave's batting title carries an asterisk — opponents may CHALLENGE the title if Hargrave has fewer than 400 AB. The crown is always contested."
+    },
+    {
+      "tag": "Master of Judgment",
+      "desc": "'A master of judgment behind the plate.' In ILB, Hargrave provides +1 to all pitchers' CTL (control) rating when catching. The game-calling is the hidden weapon. The catcher's mind is the pitcher's best pitch."
+    },
+    {
+      "tag": "Mays's Catcher",
+      "desc": "Hargrave caught Carl Mays for the 1926 Reds. Mays — the death-pitch pariah — won 19 games that year. In ILB, when Hargrave catches Mays, Mays receives +1 STF and -1 to the HBP danger roll. The master of judgment controls even the submarine."
+    },
+    {
+      "tag": "The Five-Year Rebuild",
+      "desc": "Hit .207 with Cubs (1913-1915). Spent 5 years in the minors. Came back to hit .310 career. In ILB, Hargrave has +1 to all stats after being sent down and recalled. The failure was the education."
+    },
+    {
+      "tag": "Bubbles and Pinky",
+      "desc": "Brothers. Both ML catchers. Most amusing nickname combination in baseball history. In ILB, if another Hargrave card exists, both receive +1 to morale. Family is the foundation beneath the battery."
+    },
+    {
+      "tag": "The Valve",
+      "desc": "After baseball, Hargrave worked as a valve company supervisor for 20+ years. A valve controls flow — and that's what Hargrave did behind the plate. In ILB, Hargrave 'controls the flow' of the game: when catching, the opponent's momentum triggers are reduced by 1. The valve regulates."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "1921-1928. Eight seasons. Six .300 years. The batting title. The pennant race. The place where the stutterer found his voice in the bat.",
+      "note_extra": "Source labeled 'Redland Field, Cincinnati' / affinity 'MAXIMUM / HOME' — mapped to Media/Spotlight/HIGH per home-franchise ballpark collision taxonomy. 'MAXIMUM / HOME' normalized to HIGH."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Hargrave's true home was behind the plate — calling pitches, managing staffs, controlling the game. The catcher's crouch was his drafting table.",
+      "note_extra": "Source labeled 'Behind the Plate' / affinity 'IDENTITY' — mapped to Practice Field/HIGH as on-field performance and craft space, consistent with prior Pitcher's Mound and Batter's Box mappings. 'IDENTITY' normalized to HIGH."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "Five years (1916-1920) rebuilding after .207 with Cubs. Hit .335 with St. Paul in 1920. The wilderness that made him.",
+      "note_extra": "Source labeled 'The Minor Leagues' / affinity 'REBIRTH' — mapped to Hotel/Rest/HIGH as itinerant development space. The minor leagues are defined by buses, small towns, and extended travel; Hotel/Rest captures the transience of this formative period better than Library/Quiet Spot. 'REBIRTH' is a new life-phase affinity label (alongside Haines's 'SOUL/ORIGIN/GRAVE'). Normalized to HIGH."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "HIGH",
+      "note": "20+ years as a supervisor. A valve controls flow. So did Bubbles. The metaphor writes itself.",
+      "note_extra": "Source labeled 'The Valve Company' / affinity 'RETIREMENT' — mapped to Library/Quiet Spot/HIGH as private post-career professional employment. 'RETIREMENT' is a new life-phase affinity label encoding post-career finality in a positive register. Distinguished from Community Events (civic public service, Haines/Hanlon) by its private employment nature. Normalized to HIGH."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "1926 batting race — Hargrave's .432 by end of May, .424 by end of June. When locked into a batting race, he elevated beyond his normal level.",
+      "Pitching staff chemistry — when Hargrave was in sync with his pitchers, the whole team performed better. His hot streaks correlated with team streaks.",
+      "Line-drive approach — Hargrave was a pure line-drive hitter. When his timing was right, everything was a sharp single or double."
+    ],
+    "cold_triggers": [
+      "Durability — catchers of the 1920s wore down. Hargrave's games caught rarely exceeded 100. Extended absence dulled his timing.",
+      "Late-season fatigue — the 1926 title came with only 105 games. The body couldn't sustain a full 154-game season behind the plate.",
+      "Power drought — Hargrave's lack of HR meant cold streaks produced almost no production. No power to compensate for lost contact."
+    ],
+    "pressure_response": "UNKNOWN BUT PROMISING. Hargrave never played in October. But the 1926 batting race — maintaining .353 through a pennant chase with national attention — suggests he could handle pressure. The stutterer who won the crown didn't choke under scrutiny. CLU = 0 reflects absence of data, not evidence of failure."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Stutterer's Crown",
+      "type": "Achievement / Identity",
+      "text": "1926. Your catcher stutters. When he tries to say words that start with 'B,' the syllable repeats — b-b-b-bubbles. His teammates call him Bubbles. He hates it. He hits .432 by the end of May. He hits .424 by the end of June. Rogers Hornsby — the greatest right-handed hitter alive, winner of six consecutive NL batting titles — slumps to .317. Your catcher finishes at .353. He wins the crown. He is the first catcher to win a batting title in forty years. The stutterer who couldn't say his own position ('B-b-b-backstop') can hit better than anyone in the National League. The mouth failed him. The hands never did.",
+      "origin": "Hargrave's 1926 NL batting title — .353, first catcher since 1886. Broke Hornsby's streak."
+    },
+    {
+      "title": "The Asterisk",
+      "type": "Controversy / Legacy",
+      "text": "Your catcher wins the batting title. Then the debate begins. He has only 326 at-bats. Only 105 games — and some of those were pinch-hit appearances to reach the 100-game minimum. Rube Bressler hit .357 but played fewer games. Paul Waner hit .336 in 144 games and 618 plate appearances. The Sporting News deliberates for months. NL President Heydler rules in your catcher's favor. Some record books list him. Others don't. The crown is his. The footnote is also his. Forty years from now, people will still argue about whether a catcher with 326 at-bats deserves a batting title. Your catcher won't be alive to hear them.",
+      "origin": "The controversial 1926 batting title — 326 AB, 105 games, months of debate."
+    },
+    {
+      "title": "The Five-Year Rebuild",
+      "type": "Origin / Persistence",
+      "text": "1913-1915. Your catcher hits .207 for the Chicago Cubs. He cannot hold a starting job. He is sent to the minor leagues. He stays there for five years. Five years of buses and small towns and catching in the heat. Five years of rebuilding the swing, learning to read pitchers, studying the geometry of contact. In 1920, he hits .335 for St. Paul. The Cincinnati Reds bring him back. He hits .300 for six consecutive seasons. He wins a batting title. The five years in the wilderness were not punishment. They were education. The valve was being calibrated.",
+      "origin": "Hargrave's .207 with Cubs, 5 years in minors, .310 career upon return."
+    },
+    {
+      "title": "Bubbles and Pinky",
+      "type": "Character / Family",
+      "text": "Your catcher's name is Bubbles. His brother's name is Pinky. Both are catchers. Both play in the major leagues. In 1930, both play in the American League simultaneously — Bubbles for the Yankees, Pinky for the Tigers and Senators. They are from New Haven, Indiana. They have freckles and short hair and peppery dispositions. They are the most amusingly named pair of brothers in baseball history. The stutterer and the blusher, both crouching behind home plate, both catching the national pastime. Their father didn't want either of them to play.",
+      "origin": "Brothers Bubbles and Pinky Hargrave — both ML catchers, both from Indiana."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'9\" 170 lbs — compact, solid, WEATHERED. A catcher's face: broken nose possible, jaw set, eyes sharp and reading the batter. The face of a man who calls pitches and controls games and hates his own nickname. There should be something DETERMINED in this face — the determination of a man who hit .207, spent five years in the minors, and came back to win a batting title. Not handsome. Not ugly. FUNCTIONAL — every feature serving a purpose, like a well-designed valve.",
+    "attire": "Cincinnati Reds 1926 home whites. In the catcher's crouch — shin guards, chest protector (primitive 1920s style), mask pushed up on forehead, giving the sign. Or: at the plate, compact right-handed stance, driving a line drive. The body should look DURABLE — not big, not fast, but SOLID. Built to absorb foul tips and keep catching.",
+    "mood": "WARM WORKMANSHIP. This card is not glamorous or dramatic — it is CRAFTED. The mood is a well-made tool: functional, reliable, quietly satisfying. The warmth comes from the craft — the satisfaction of a man who rebuilt himself in the minors and won a crown. No fireworks. No shadows. Just the steady warmth of competence.",
+    "style": "Full color — Bashers era — REDS RED AND HONEST BROWN. Cincinnati red, leather brown, warm cream. The palette of a catcher's gear and a working man's hands. Simple, warm, unpretentious. The border should be CATCHER'S BROWN — the color of a well-worn mitt, the leather that absorbs everything. THE VALVE — the card that controls flow without anyone noticing. The smallest card in the Bashers, with the most unexpected title. The card that fits in your palm like a baseball.",
+    "reference": "Ruth is the solar system. Hornsby is the blade. Wilson is the barrel. Cy Williams is the blueprint. Bubbles Hargrave is THE VALVE — the smallest, quietest, most overlooked component in the machine, but the one that controls the flow. Remove the valve and the system floods. Remove the valve and the pressure has no regulation. He is the card that makes you wonder: what if every catcher could hit .353? What if the position you least expect to produce a batting champion is the one that does?"
+  }
+}

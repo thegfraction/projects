@@ -1,0 +1,222 @@
+{
+  "name": "Bill Bradley",
+  "nickname": "Big Bennie",
+  "year": 1902,
+  "team": "Cleveland Blues",
+  "era": "1900s",
+  "ilb_team": "Banners NL1900",
+  "position": "3B",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'11\"",
+  "weight": "185 lbs",
+  "born": "February 13, 1878 — Cleveland, OH",
+  "died": "March 11, 1954 — Cleveland, OH (age 76, pneumonia)",
+  "hof": "NOT in HOF. Received 1 vote (0.4%) in 1936, peaked at 2.5% in 1937. Cleveland Indians HOF (posthumous, 1954). Recognized alongside Jimmy Collins and Pie Traynor as best 3B pre-1950. Collins: 'If I could field and bat like Bradley, I should lay claim to that title myself.'",
+
+  "real_stats": {
+    "season": 1902,
+    "games": 137,
+    "at_bats": 550,
+    "hits": 187,
+    "doubles": 39,
+    "triples": 12,
+    "home_runs": 11,
+    "rbi": 77,
+    "runs": 104,
+    "stolen_bases": 11,
+    "batting_avg": ".340",
+    "obp": ".375",
+    "slg": ".515",
+    "ops": ".890",
+    "ops_plus": 149,
+    "war": 7.4,
+    "total_bases": 283,
+    "hitting_streak": 29,
+    "career_avg": ".271",
+    "career_hits": 1471,
+    "career_hr": 34,
+    "career_sb": "~100",
+    "career_rbi": "~600",
+    "career_runs": "~700",
+    "career_war": 34.9,
+    "peak_4yr_war": 23.8,
+    "cycle": "Sept 24, 1903 (first in Cleveland history)",
+    "hr_streak": "4 straight games (first in AL, May 21-24, 1902)"
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 4,
+    "pow": 2,
+    "spd": 1,
+    "def": 2,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": ".340 BA in 1902 → technically tier 5 (.330+). OPS+ 149 (≥130 bonus). But context matters: career .271 BA across 14 seasons. The peak was concentrated in 4 years (1901-04: .312/.348/.455). After 1904, illness ('autotoxicity') and a broken wrist from a pitched ball destroyed his offense — he hit .268, .223, and eventually sub-.200. The 4-year peak was elite but the brevity argues for CON 4 rather than 5. He was a superstar-in-the-making who never fully became one. Rating: 4.",
+    "pow": "11 HR in 1902 → tier 1 (10-19). SLG .515 → ≥.500 bonus (+1) = 2. He was the first AL player to homer in 4 consecutive games (May 21-24, 1902). 39 doubles and 12 triples in 1902 — 283 total bases. His bat, 'Big Bennie,' had genuine dead-ball pop. In the context of the era, this was impressive power from a third baseman. Rating: 2.",
+    "spd": "11 SB in 1902. Career ~100 SB. Not a speed player — he was 5'11\" 185 lbs and played 3B. Some baserunning value but nothing exceptional. Rating: 1.",
+    "def": "Led AL 3B in fielding percentage 4 times. Led AL 3B in double plays 3 times. Set AL record with 7 putouts in a game (both 1901 and 1909). Cleveland Plain Dealer: 'There is not a third baseman in either big league today who is as accurate a thrower as Bradley with his famous underhand whip.' Jimmy Collins (the best 3B of the era): 'If I could field and bat like Bradley, I should lay claim to that title myself.' Even when his bat failed, his glove kept him in the lineup until age 32. Rating: 2.",
+    "clu": "Zero. Cleveland never won a pennant during Bradley's decade with the franchise (1901-1910). They finished 2nd in 1908, their best showing, but Bradley was already declining. No postseason games, no pennant races decided, no October moments. The greatest Cleveland player of the early AL never got his chance. Rating: 0."
+  },
+
+  "personality": {
+    "leadership_style": "THE HOMETOWN STAR. Bradley was Cleveland, through and through — born there, grew up there, played there for a decade, died there. He rejected McGraw's $15,000 offer to stay in Cleveland for $4,500. He wasn't a vocal leader — he led by being the best player on the team every day, playing beside Lajoie and never being outshone. Quiet, reliable, Cleveland to the bone.",
+    "temperament": "Steady, unflashy, professional. No dramatic stories, no headline-grabbing incidents, no feuds. He played hard, fielded brilliantly, hit the ball where they couldn't catch it, and went home. The anti-Jennings — no screaming, no coaching-box theatrics, just a man doing the job. His bat was named 'Big Bennie' and that was about as colorful as he got.",
+    "work_ethic": "SELF-MADE. Rode freight trains back to Cleveland broke after being released in the minors. Walked 35 miles from Akron. Worked at the Dangler Stove Company. Played semi-pro baseball for extra money. Clawed his way from Payne Avenue pickup games to the top of the American League. The work ethic was forged in Cleveland's working-class Irish neighborhoods.",
+    "lifestyle": "Cleveland Irish-American, working class, Catholic (Immaculate Conception School). Grew up playing pickup ball with the Delahanty brothers and Tommy Leach — a neighborhood that produced an extraordinary number of major leaguers. Loyal to Cleveland — turned down McGraw's riches to stay home. After baseball: scout for the Indians, staying in the organization until the end.",
+    "era_adaptability": "MIXED. Bradley's 4-year peak (.312/.348/.455) was elite but his career was cut short by illness and injury. In a modern era with better medicine, the 'autotoxicity' might have been treatable and the wrist injury rehabilitated. The talent was there — Collins said so. The body failed him. In any era, he'd be a strong 3B for 4-5 years and then a question mark.",
+    "clubhouse_impact": "SOLID AND STEADY. No drama. No headlines. Played alongside Nap Lajoie — one of the biggest stars in baseball — and complemented him perfectly. The 3B who made the All-Star SS look even better. +1 team chemistry from reliability, -0 from drama. The teammate everyone wants but nobody writes about.",
+    "dark_side": "The collapse. After 4 elite seasons (1901-04), everything fell apart. 1905: diagnosed with 'autotoxicity' — a vague stomach ailment that sapped his strength. BA dropped to .268. Then 1906: wrist broken by Bill Hogg's pitch. Hogg reportedly spat: 'The big Frenchman [Lajoie] is next on my list.' Bradley was the warning shot aimed at Lajoie. The wrist never fully healed. By 1909-10, he was hitting below .200 — a shell of the .340 hitter he'd been 7 years earlier. Released at 32. The superstar-in-the-making who was destroyed by illness, a malicious pitcher, and the limitations of 1900s medicine."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Cleveland Born and Bred",
+      "desc": "Born, raised, played, died in Cleveland. Rejected McGraw's $15,000 to stay home at $4,500. When Bradley plays for Cleveland (or any 'home' team), +1 to all stats. Loyalty has its own power."
+    },
+    {
+      "tag": "Big Bennie",
+      "desc": "Bradley's bat. When Big Bennie is hot, he hits for power — HR in 4 straight games, 29-game hitting streak. +1 POW during hitting streaks of 10+ games."
+    },
+    {
+      "tag": "The Underhand Whip",
+      "desc": "Bradley's signature throw from 3B — underhand, accurate, devastatingly fast. 'Not a third baseman in either big league who is as accurate a thrower.' Infield hits against Bradley are 30% less likely."
+    },
+    {
+      "tag": "Collins's Endorsement",
+      "desc": "Jimmy Collins: 'If I could field and bat like Bradley...' When paired with Collins on the same roster, both gain +1 DEF. The two best 3B of the dead-ball era, together."
+    },
+    {
+      "tag": "Lajoie's Partner",
+      "desc": "Bradley and Lajoie formed the best left-side of the infield in the early AL. When paired with an elite 2B/SS, Bradley gains +1 to all defensive stats. The partnership amplifies."
+    },
+    {
+      "tag": "The Autotoxicity",
+      "desc": "After age 26, Bradley risks a random illness event each season. If triggered, -2 CON for the remainder of that season. The body that produced .340 was fragile."
+    },
+    {
+      "tag": "Hogg's Pitch",
+      "desc": "Bill Hogg broke Bradley's wrist deliberately, then targeted Lajoie. Once per career, Bradley may suffer a wrist injury from a beanball. -1 POW permanently. The dead-ball era's casual violence claims another career."
+    },
+    {
+      "tag": "Freight Train Home",
+      "desc": "Rode freight trains broke. Walked 35 miles. Won a game with a 9th-inning grand slam the day before being released. +1 resilience. The man who fought his way home."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Third Base / Hot Corner",
+      "affinity": "HIGH",
+      "note": "Led AL 3B in fielding 4×, DP 3×. The underhand whip throw. 7 putouts in a game. The best 3B in the early AL alongside Collins."
+    },
+    {
+      "location": "Cleveland, Ohio",
+      "affinity": "HIGH",
+      "note": "Born. Raised. Played a decade. Rejected McGraw's riches. Died. Scouted for the Indians. Cleveland, always Cleveland."
+    },
+    {
+      "location": "Payne Avenue District",
+      "affinity": "HIGH",
+      "note": "Grew up playing pickup ball with the Delahanty brothers and Tommy Leach. The neighborhood that made big leaguers."
+    },
+    {
+      "location": "Alongside Nap Lajoie",
+      "affinity": "HIGH",
+      "note": "Bradley-Lajoie was the best 3B-2B/SS tandem in the early AL. Four years of elite left-side defense."
+    },
+    {
+      "location": "Hospital / Recovery",
+      "affinity": "LOW",
+      "note": "Autotoxicity. Broken wrist. Fever. The body failed the talent. Cleveland hospitals saw too much of Bill Bradley."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Hitting streaks — 29-game streak in 1902. When rolling, the bat is unstoppable. Big Bennie comes alive.",
+      "Home in Cleveland — playing before the hometown crowd gives Bradley a boost. The Payne Avenue kid performing for his people.",
+      "Power surges — HR in 4 straight games. When the power shows up, it shows up in clusters.",
+      "Playing alongside elite teammates — Lajoie lifted Bradley's game. The partnership elevated both."
+    ],
+    "cold_triggers": [
+      "Illness — the autotoxicity that sapped his strength after 1904. When sick, the offense vanishes completely.",
+      "Wrist injury — Hogg's pitch broke the wrist and the career trajectory. Post-injury, the power never fully returned.",
+      "Away from Cleveland — he turned down New York's millions. Away from home, his motivation wavered.",
+      "Late-career decline — by 1909, he was sub-.200. The body aged faster than it should have."
+    ],
+    "pressure_response": "UNTESTED. Like Lange and Hoy, Bradley never played a postseason game. Cleveland never won a pennant during his decade with the team. The closest was 1908 (2nd place), but by then Bradley was already declining. Would the .340 hitter have risen in October? We'll never know. In ILB: high ceiling, zero data. The hometown hero who never got his spotlight."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Four Home Runs in Four Games",
+      "type": "Game Action",
+      "text": "Your third baseman homers in four consecutive games — the first player in the league's history to do so. The power comes in clusters: 11 HR in 137 games, but four of them in four straight days against the same team. +2 POW for the remainder of the series. Big Bennie is alive.",
+      "origin": "May 21-24, 1902: Bradley homered in 4 straight games against Philadelphia, becoming the first AL player to accomplish this."
+    },
+    {
+      "title": "The 29-Game Hitting Streak",
+      "type": "Game Action",
+      "text": "Your third baseman reaches base in 29 consecutive games — the longest hitting streak in the league this season. The lineup becomes predictable: he hits. +1 CON for the duration of any hitting streak exceeding 15 games.",
+      "origin": "1902: Bradley's 29-game hitting streak was the longest in the AL that season, during his .340 peak."
+    },
+    {
+      "title": "Hit for the Cycle",
+      "type": "Game Action",
+      "text": "Single, double, triple, home run — all in one game. Your third baseman becomes the first Cleveland player in history to hit for the cycle. 12 total bases. The franchise has a new milestone. +2 to all offensive stats for the game.",
+      "origin": "September 24, 1903: Bradley hit for the first cycle in Cleveland franchise history in a 12-2 win over Washington."
+    },
+    {
+      "title": "If I Could Field and Bat Like Bradley",
+      "type": "Drama",
+      "text": "The best third baseman in the other league is asked who's the game's best. He says your guy. 'If I could field and bat like Bradley, I should lay claim to that title myself.' The endorsement from the king of the position. +2 DEF reputation. +1 CON confidence.",
+      "origin": "1904: Jimmy Collins, Boston's Hall of Fame 3B, when asked who was the best third baseman in baseball."
+    },
+    {
+      "title": "The Underhand Whip",
+      "type": "Game Action",
+      "text": "Your third baseman makes the throw — underhand, from the edge of the grass, a whip that crosses the diamond like a bullet on a string. The runner is out by two steps. 'Not a third baseman in either big league who is as accurate a thrower.' +1 DEF permanently from reputation.",
+      "origin": "Cleveland Plain Dealer: 'There is not a third baseman in either big league today who is as accurate a thrower as Bradley with his famous underhand whip.'"
+    },
+    {
+      "title": "The Autotoxicity",
+      "type": "Drama",
+      "text": "Your 27-year-old superstar — .312 BA over four years, the best young 3B in the league — is diagnosed with a stomach ailment. The doctors call it 'autotoxicity,' which means nothing specific. His average drops 72 points in one year. The offense that was building toward greatness simply... stops. -2 CON. The body that produced .340 was never as strong as it looked.",
+      "origin": "1905: Bradley was diagnosed with 'autotoxicity' and his BA plummeted from .300 to .268. He never hit a home run that year."
+    },
+    {
+      "title": "Hogg's Pitch",
+      "type": "Drama",
+      "text": "A pitcher breaks your third baseman's wrist with a pitch. Then he spits toward your best hitter: 'The big Frenchman is next on my list.' The targeting is deliberate. Your 3B misses half the season. His wrist never fully heals. -1 POW permanently. The dead-ball era's casual violence claims another career.",
+      "origin": "1906: Bill Hogg broke Bradley's wrist with a pitch, then reportedly targeted Nap Lajoie next. Bradley missed half the season and his power never recovered."
+    },
+    {
+      "title": "Freight Train Home",
+      "type": "Origin",
+      "text": "Your player is released, broke, in a minor league town far from home. He wins his last game with a 9th-inning grand slam. The next day, he's out of a job. He rides a freight train to Akron, then walks 35 miles to Cleveland in the dark. He arrives home penniless. He finds another team. He makes the majors. The road to glory starts with walking 35 miles.",
+      "origin": "1897: Bradley was released from Burlington, Iowa. He won his last game with a grand slam, then rode freight trains and walked 35 miles from Akron to Cleveland, broke."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Solid, working-class Irish-American Cleveland man. 5'11\" 185 lbs — strong, thick-wristed (before the break), the build of a man who worked at a stove factory and played pickup ball in Cleveland's immigrant neighborhoods. Not glamorous like Lange or fierce like Jennings — steady, reliable, the face of a man who stayed home when the money was elsewhere. Brown or dark hair, straightforward gaze, slight weathering from Cleveland winters.",
+    "attire": "Cleveland Blues uniform circa 1902 — white wool jersey with blue trim or 'CLEVELAND' insignia, baggy flannel pants, flat cap. POSE: the underhand whip throw from third base — low to the ground, arm sweeping from the side or underneath, the ball released on a line toward first base. The signature play that made him famous. Or: at bat with Big Bennie — the follow-through of a power swing, the ball disappearing into the gap. No number.",
+    "mood": "Working-class excellence. Bradley's card should feel SOLID and HONEST — no flash, no mythology, just a Cleveland kid doing the work. The Lake Erie air, the early AL's rough-hewn parks, the industrial city behind him. This is a card about talent that was real but fragile, about a career that almost was.",
+    "style": "Sepia-toned with STEEL-BLUE and INDUSTRIAL undertones — Cleveland in 1902. Where Lange is golden California and Jennings is furnace-red, Bradley is LAKE ERIE GRAY and IRON. The palette should suggest the early American League's factory-town roots, the working-class neighborhoods that produced ballplayers, the cold pragmatism of a man who stayed home. Cooler and more industrial than other Banners cards.",
+    "reference": "Think the underhand whip throw frozen mid-release — Bradley low at 3B, arm sweeping, ball on its way to first. Or: the HR in the 4th straight game — the swing of Big Bennie connecting, the dead ball somehow clearing the fence. The card should capture blue-collar power — not the effortless beauty of Lange, but the earned strength of a man who walked 35 miles home and then made the majors."
+  },
+
+  "badges": [
+    "Cleveland Born and Bred",
+    "1st AL Player: HR in 4 Straight",
+    "29-Game Hitting Streak",
+    "1st Cleveland Cycle",
+    "Collins's Endorsement",
+    "Led AL 3B Fielding 4×",
+    "Cleveland Indians HOF 1954"
+  ]
+}

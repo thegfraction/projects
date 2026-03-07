@@ -1,0 +1,214 @@
+{
+  "card_type": "hitter",
+  "name": "Jake Daubert",
+  "nickname": "The Coal Miner's MVP",
+  "year": 1913,
+  "team": "Brooklyn Superbas",
+  "era": "1910s",
+  "ilb_team": "Muggers AL1910",
+  "position": "1B",
+  "bats": "L",
+  "throws": "L",
+  "height": "5'10\"",
+  "weight": "160 lbs",
+  "born": "April 7, 1884 — Shamokin, PA",
+  "died": "October 9, 1924 — Cincinnati, OH (age 40, still active player)",
+  "hof": "Not inducted. Brooklyn Dodgers HOF 1990. Cincinnati Reds HOF 1966. 2x NL batting champion. 1913 Chalmers Award (MVP). The premier NL first baseman of the Deadball Era — frequently compared to Hal Chase, but honest.",
+
+  "real_stats": {
+    "season": 1913,
+    "games": 139,
+    "at_bats": 508,
+    "hits": 178,
+    "doubles": 17,
+    "triples": 7,
+    "home_runs": 2,
+    "rbi": 52,
+    "stolen_bases": 25,
+    "batting_avg": ".350",
+    "obp": ".403",
+    "slg": ".419",
+    "ops": ".822",
+    "runs_scored": 76,
+    "walks": 38,
+    "career_avg": ".303",
+    "career_hits": 2326,
+    "career_hr": 56,
+    "career_triples": 165,
+    "career_sb": "~260",
+    "career_sac_hits": 392,
+    "career_war": "~28",
+    "ws_appearances": 2,
+    "ws_record": "1-1 (1916 loss, 1919 win)"
+  },
+
+  "ilb_stats": {
+    "ovr": 7,
+    "con": 5,
+    "pow": 0,
+    "spd": 2,
+    "def": 2,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": "Won back-to-back NL batting titles: .350 (1913) and .329 (1914). Career .303 across 15 seasons and 2,326 hits. Hit .336 with 205 hits at age 38 in 1922. A 'slashing chop hitter with tremendous bat control' who compared himself to a crack marksman. 392 career sacrifice hits — NL record, 2nd all-time in MLB. His bunting was an art form: 4 sac bunts in one game on a bad ankle. Rating of 5 — maximum contact.",
+    "pow": "2 HR in 1913. Career-high 12 HR at age 38 in 1922. 56 career HR in 2,014 games. SLG .419 in 1913. 'He had little power at bat and little range in the field. No one noticed.' — Robert Creamer. Daubert was a pure slap-and-bunt hitter with gap power expressed through triples, not homers. Rating of 0.",
+    "spd": "25 SB in 1913 (his peak). ~260 career SB. 165 career triples — led NL twice (1918, 1922). At 5'10\" 160 lbs, Daubert was quick enough to leg out triples and steal bases, though he slowed with age. Rating of 2.",
+    "def": "Led NL in fielding percentage at 1B three times (.993 in 1912, .993 in 1916, and once more). Never fielded below .989. Baseball Magazine: 'Flashing and sensational like Chase, he is, unlike Chase, never erratic, never prone to sudden error, never sulky or indifferent.' He was the honest Chase — spectacular AND reliable. Rating of 2.",
+    "clu": "Hit .176 in the 1916 World Series (Brooklyn lost to Red Sox). Hit .241 in the 1919 World Series (Reds won — but against the Black Sox, a tainted championship). No signature postseason moments. Daubert's October record is his one weakness. Rating of 0."
+  },
+
+  "personality": {
+    "leadership_style": "Captain and labor leader. Daubert captained both the Brooklyn and Cincinnati clubs. He was VP of the Baseball Players' Fraternity, replacing Ty Cobb. He sued for prorated salary during the wartime-shortened 1918 season — and won. He was popular enough to be nominated for Alderman in Brooklyn. 'Modest, polite and colorless, though a tiger about money.'",
+    "temperament": "Intelligent, dignified, quietly fierce. Sportswriters loved him because he could discuss topics beyond baseball. He was shrewd in business — invested in real estate, a cigar company, a poolroom, a coal washery, and a semi-pro baseball team. He made more money outside baseball than in it. He never forgot the coal mines, and he never went back to them.",
+    "work_ethic": "Relentless. Daubert played 2,014 games over 15 seasons. In 1924, at age 40, he was the oldest regular position player in the majors and still hitting .281. He defied his doctor's orders to play in Cincinnati's final home game of the season. Nineteen days later, he was dead. He literally played until it killed him.",
+    "lifestyle": "Self-made man. Coal miner at 11. Brother Calvin died in the mines. Jake escaped through baseball. Invested shrewdly — real estate, cigar business, coal washery. His biggest moneymaker was the coal washery in Schuylkill Haven. He went from mining coal to profiting from it. 'A crack shot can hit a bird on the wing because the eye and his finger on the trigger act together.'",
+    "era_adaptability": "MODERATE. Daubert's .303 career average and elite fielding translate well. His lack of power (56 HR in 15 years) would be a severe limitation in any era after 1920. But his bunting mastery (392 sac hits) and bat control would make him an elite contact specialist in any context. He'd be a modern Ichiro-type: average, speed, defense, no power.",
+    "clubhouse_impact": "CAPTAIN. Daubert was the captain of every team he played on. He was elected to lead the Players' Fraternity by his peers. He was 'universally popular' — modest, polite, and respected. In a clubhouse with Hal Chase's corruption and other scandals, Daubert was the moral anchor. In ILB: +1 to team integrity and +1 to team chemistry.",
+    "dark_side": "The death. On October 2, 1924, Daubert had an appendectomy. Complications arose. A blood transfusion failed. He died on October 9, seven days later. It was later discovered he had hemolytic spherocytosis — a hereditary blood disorder where red blood cells are oval instead of round. He was 40 years old and still an active player. His pallbearers included Edd Roush, Eppa Rixey, Rube Bressler — and Carl Mays, the man who killed Ray Chapman. The man who escaped the coal mines was killed by his own blood. In ILB: Daubert carries a 'Mortal Fragility' trait — a hidden health condition that can remove him from the game without warning."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Anti-Chase",
+      "desc": "Daubert was explicitly compared to Hal Chase — spectacular AND reliable. 'Flashing like Chase, but never erratic, never sulky.' When paired with Chase on the Muggers roster, +2 DEF contrast bonus: Daubert makes Chase's corruption more visible."
+    },
+    {
+      "tag": "Two Batting Titles",
+      "desc": ".350 and .329 — back-to-back NL batting champions. +1 CON in any game where Daubert is batting above .320. His bat control was his superpower."
+    },
+    {
+      "tag": "The Bunter",
+      "desc": "392 career sacrifice hits — NL record, 2nd all-time in MLB. 4 sac bunts in one game on a bad ankle. Daubert can advance any runner with 95% success rate. The lost art of the sacrifice."
+    },
+    {
+      "tag": "Captain",
+      "desc": "Captained both Brooklyn and Cincinnati. VP of the Players' Fraternity. +1 team morale. Daubert is the natural leader — elected, not appointed."
+    },
+    {
+      "tag": "Coal Miner's Son",
+      "desc": "Worked the mines at 11. Brother Calvin killed underground. Daubert carries the toughness of a man who escaped death once and never forgot. +1 endurance in adverse conditions."
+    },
+    {
+      "tag": "Tiger About Money",
+      "desc": "'Modest, polite and colorless, though a tiger about money.' Daubert sued for his salary and won. His off-field investments outearned his playing salary. +1 financial stability; will not accept unfair contracts."
+    },
+    {
+      "tag": "Mortal Fragility",
+      "desc": "Undiagnosed hemolytic spherocytosis. Daubert can be removed from the game at any time by a health event. 5% chance per season. If triggered: permanent removal. The cruelest trait in ILB."
+    },
+    {
+      "tag": "Mays's Pallbearer",
+      "desc": "Carl Mays — the man who killed Ray Chapman — carried Daubert's coffin. In ILB, Chapman and Daubert are linked by death and by Mays. If both are on the same roster, a special 'Mortality' narrative triggers."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Nine seasons as Brooklyn's captain and star. Nominated for Alderman. 'Universally popular.'"
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Led NL in FP 3x. Never below .989. The best honest defensive 1B in the Deadball NL."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "Invested in real estate, cigars, coal washery, poolroom, semi-pro team, ice, and movies. Made more money off the field."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Born Shamokin, buried Pottsville. Escaped the mines but never forgot them. His coal washery was his biggest moneymaker."
+    },
+    {
+      "location": "Gambling Hall",
+      "affinity": "MEDIUM",
+      "note": "VP of Players' Fraternity. Sued for his salary. A labor activist in an era when players had no power."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "NONE",
+      "note": "Died on the operating table at 40. Defied his doctor to play one more game. It cost him everything."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Regular season — Daubert was a machine from April to September. .303 career average sustained over 15 years and 2,014 games.",
+      "Batting races — the competition for the batting title brought out his best. .350 in 1913, .329 in 1914.",
+      "Business success — when his off-field investments thrived, Daubert played with confidence and security.",
+      "Captaincy — being the leader gave him purpose. He played his best when the team looked to him."
+    ],
+    "cold_triggers": [
+      "October — .176 in the 1916 WS, .241 in the 1919 WS. Daubert vanished when the spotlight was brightest.",
+      "Health issues — beaned in 1924, suffered headaches and difficulty sleeping. His body was failing before anyone knew why.",
+      "Contract disputes — the 1918 salary fight with Ebbets distracted him and led to his trade.",
+      "Aging — by 1923-24, the oldest regular in the majors, holding on by will alone."
+    ],
+    "pressure_response": "INVERTED. Daubert is the opposite of Larry Gardner and Sherry Smith. Where they transcended in October, Daubert diminished. His regular-season excellence — .303 career, 2x batting champion, MVP — evaporated in the World Series. .176 and .241. No signature October moment. In ILB, Daubert is the player you build your lineup around from April to September and then agonize over in October. His CLU of 0 is the price you pay for CON of 5 and DEF of 2. You can't have everything. Baseball is cruel that way."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Anti-Chase",
+      "type": "Action",
+      "text": "Your first baseman is compared to the most spectacular defender in the game — but unlike that other man, yours is never erratic, never sulky, never indifferent. 'Flashing and sensational, but unlike Chase, never prone to sudden error.' Baseball Magazine concludes: 'He is the most valuable first sacker playing the game.'",
+      "origin": "Baseball Magazine explicitly compared Daubert to Hal Chase, concluding that Daubert was more valuable because he combined Chase's flash with complete reliability."
+    },
+    {
+      "title": "Four Bunts on a Bad Ankle",
+      "type": "Game Action",
+      "text": "Your first baseman has a bad ankle and can barely run. In the second game of a doubleheader, he goes 0-for-1 officially — but lays down FOUR sacrifice bunts, tying the MLB record. He advances every runner. He scores no runs himself. He doesn't need to.",
+      "origin": "August 15, 1914: Daubert laid down 4 sac bunts in one game vs Philadelphia, tying Cy Seymour's record. He was injured and couldn't run, so he bunted instead."
+    },
+    {
+      "title": "The Coal Miner's Escape",
+      "type": "Drama",
+      "text": "At age 11, your future MVP goes to work in the coal mines alongside his father and brothers. One brother will die there. Your player escapes — through a bat, a ball, and a semi-pro team in a tiny Pennsylvania town. He'll never go underground again. But he'll invest in a coal washery, turning the thing that nearly killed him into his biggest profit.",
+      "origin": "Daubert worked the Shamokin mines from age 11. His brother Calvin was killed in the mines. Daubert escaped through baseball and later invested in a coal washery in Schuylkill Haven."
+    },
+    {
+      "title": "The Tiger About Money",
+      "type": "Action",
+      "text": "When the 1918 season is shortened by war, the owners prorate your captain's salary. He sues for the $2,150 balance. He wins. The owner, furious, trades him. Your captain doesn't care — he has more money from his business investments than from baseball.",
+      "origin": "Daubert sued Ebbets for prorated salary and won most of the $2,150. Ebbets traded him to Cincinnati in retaliation. Daubert's off-field investments outearned his playing salary."
+    },
+    {
+      "title": "The Tainted Ring",
+      "type": "Drama",
+      "text": "Your team wins the World Series — but the other team threw it. Your captain hit .241 with 3 hits in Game 1 and 2 hits in the decisive Game 8, but the victory is forever marked by the Black Sox Scandal. The ring is real. The championship is questioned. Your captain's honest achievement is overshadowed by someone else's corruption.",
+      "origin": "Daubert captained the 1919 Reds to a WS victory over the Black Sox. His .241 average included a triple in the 9-1 Game 1 win and 2 hits in the 10-5 Game 8 clincher."
+    },
+    {
+      "title": "One More Game",
+      "type": "Drama",
+      "text": "Your 40-year-old captain falls ill on a road trip. His doctor says don't play. He defies the order and plays in the team's final home game. Nineteen days later, he dies on the operating table. It is later discovered he had a hereditary blood disorder no one knew about. He is the oldest active player to die in the majors.",
+      "origin": "Daubert fell ill in late 1924, defied his doctor to play one more game, had an appendectomy on October 2, and died October 9 from complications and undiagnosed hemolytic spherocytosis."
+    },
+    {
+      "title": "The Pallbearer's Paradox",
+      "type": "Drama",
+      "text": "Among the men carrying your captain's coffin is the pitcher who killed a teammate with a pitch. Carl Mays, who ended Ray Chapman's life, now helps lay Jake Daubert to rest. Death connects them all — the beaning, the blood disorder, the coal mines. In the Deadball Era, mortality was never abstract.",
+      "origin": "Carl Mays was a pallbearer at Daubert's funeral, alongside Edd Roush, Eppa Rixey, and Rube Bressler."
+    },
+    {
+      "title": "Alderman Daubert",
+      "type": "Action",
+      "text": "Your first baseman is so popular in Brooklyn that fans nominate him for Alderman. He runs. He loses the election — but wins back-to-back batting titles. Some men serve the public from City Hall. Some serve them from first base.",
+      "origin": "Daubert was nominated for Alderman in Brooklyn. He lost the election but won the 1913-14 NL batting titles and the 1913 MVP."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Compact 5'10\" 160 lbs — lean and wiry, the build of a man who worked coal mines at 11. Clean, intelligent face with the quiet dignity of a self-made man. No flash — just competence and decency written in every line. The look of a man who escaped the underground and plays every game like it might be his last.",
+    "attire": "Brooklyn Superbas 1913 home whites — the MVP year. Classic Deadball Era first baseman's stance: crouched at the bag, glove extended, or mid-bunt with the extraordinary bat control that produced 392 sacrifice hits. The uniform should look immaculate — Daubert was meticulous about his appearance and his fielding.",
+    "mood": "Quiet dignity with mortality underneath. Daubert should radiate the steadiness of a man who has seen death in the coal mines and plays baseball as an act of survival. There's no glamour — just a deeply competent man doing his job with precision and grace. The viewer should feel both admiration and sadness: this man will die at 40, still playing.",
+    "style": "Sepia-toned with coal-gray undertones — Pennsylvania anthracite, the dark earth of Shamokin. The gold accents should be honest and unglamorous — no shimmer, no sparkle. This card should feel earned, like every hit in Daubert's career: nothing given, everything worked for.",
+    "reference": "If Wood is lightning, Chapman is a candle, Chase is a stolen jewel, Kauff is a firecracker, Marquard is a spotlight, Vaughn is a cathedral bell, Gardner is a hearthfire, and Smith is a lantern, then Daubert is a coal seam — dark, deep, valuable, and ultimately consumed. The ILB Daubert card should feel like finding a diamond in a mine: unglamorous on the surface, precious underneath, and taken from the earth too soon."
+  }
+}

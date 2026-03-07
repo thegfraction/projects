@@ -1,0 +1,228 @@
+{
+  "name": "Jesse Burkett",
+  "nickname": "The Crab",
+  "year": 1896,
+  "team": "Cleveland Spiders",
+  "era": "1890s",
+  "ilb_team": "Banners NL1890",
+  "position": "LF",
+  "bats": "L",
+  "throws": "L",
+  "height": "5'8\"",
+  "weight": "155 lbs",
+  "born": "December 4, 1868 — Wheeling, WV",
+  "died": "May 27, 1953 — Worcester, MA (age 84)",
+  "hof": "Inducted 1946 (Veterans Committee). 3× NL Batting Champion. Only Cobb and Hornsby also hit .400 three times.",
+
+  "real_stats": {
+    "season": 1896,
+    "games": 133,
+    "at_bats": 586,
+    "hits": 240,
+    "doubles": 27,
+    "triples": 16,
+    "home_runs": 6,
+    "rbi": 72,
+    "stolen_bases": 32,
+    "batting_avg": ".410",
+    "obp": ".461",
+    "slg": ".545",
+    "ops": "1.006",
+    "ops_plus": 171,
+    "war": 7.6,
+    "gold_gloves": 0,
+    "silver_sluggers": 0,
+    "all_star": 0,
+    "career_avg": ".338",
+    "career_hits": 2850,
+    "career_hr": 75,
+    "career_sb": 389,
+    "career_war": 55.2
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "con": 5,
+    "pow": 1,
+    "spd": 2,
+    "def": 0,
+    "clu": 1
+  },
+
+  "stat_justification": {
+    "con": ".410 BA in 1896 — 240 hits (ML record for 15 years until Cobb). Led NL in BA (.405 and .410 in back-to-back years). .396 in 1899 (revised down from .402). 3× NL batting champion (1895, 1896, 1901). Career .338 BA, 2,850 hits. Only Cobb, Hornsby, and Burkett hit .400 three times. Frank Shaughnessy called him 'the greatest bunter in baseball history.' His foul-ball ability was so extreme it partly inspired the foul-strike rule. Maximum 5.",
+    "pow": "6 HR in 1896. 75 career HR. 55 inside-the-park HR (all-time MLB record). But this is speed-based power, not bat power. ~80% of his 2,850 hits were singles. He was 5'8\" 155 lbs — a line-drive singles hitter. One writer mused what he'd have done with 'that rabbit ball Ruth used.' The .545 SLG earns a bonus, pushing to 1.",
+    "spd": "32 SB in 1896, 47 in 1895, 389 career. 55 inside-the-park HR — the all-time record. 182 career triples. Burkett was fast and aggressive on the bases. Rating 2.",
+    "def": "Led NL outfielders in errors 3 times. Has the 4th-most career errors by an outfielder in MLB history. Weak throwing arm. One observer called his fielding 'as awkward as the bovine in a china shop.' He improved with coaching from Jimmy McAleer but was never better than below-average. Rating 0.",
+    "clu": "Won the 1895 Temple Cup — Spiders beat the mighty Baltimore Orioles 4 games to 1. Burkett contributed as a hitter in the series. But the 1896 Temple Cup was a sweep loss to Baltimore, and Burkett committed a poor throw that allowed a run. Mixed postseason record. Rating 1."
+  },
+
+  "personality": {
+    "leadership_style": "The Agitator. Burkett didn't lead through inspiration or example — he led through combativeness. He argued with umpires, insulted opponents, berated rookies, and fought with sportswriters. His leadership philosophy: 'You've got to be a battler. If you don't, they'll walk all over you. Once the bell rang, I had no friends on the other team.' He made everyone around him either furious or competitive.",
+    "temperament": "Surly, combative, sharp-tongued. The nickname 'Crab' says everything. Burkett was the meanest player on the Cleveland Spiders — and the Spiders were the meanest team in baseball. He was ejected from both games of a doubleheader (the first player to do this). He threw a baseball at heckling fans. He told an umpire his identity was 'none of your blankety blank business' — the umpire announced 'Burkett batting for exercise,' and Burkett struck out to the crowd's delight. He was considered unpopular with teammates. And yet: off the field, he was different. He married a Worcester girl, settled there for life, and became a respected community figure.",
+    "work_ethic": "RELENTLESS AND OBSESSIVE. Burkett began as a pitcher (39-6 record in minor leagues) but couldn't cut it in the majors (3-10, 5.57 ERA). So he reinvented himself as an outfielder and became one of the greatest hitters in history. He honed his bunting until he could place the ball anywhere on the field. He practiced fouling off pitches until the rule was changed because of him. He played professionally until age 47. That's not talent — that's rage converted into work.",
+    "lifestyle": "Born in Wheeling, WV — a baseball-crazed town. Father was a laborer for the Wheeling and Belmont Bridge Company. Married in Worcester, MA, and lived there for the rest of his life (64 years). After his ML career, he owned and managed the Worcester Busters in the New England League (1906-15), winning 4 consecutive pennants. Coached at Holy Cross College for 4 years, then coached the Giants briefly. Son Howard played minor league ball. Burkett lived to 84 — far outliving most of his contemporaries.",
+    "era_adaptability": "HIGH for the skill, LOW for the personality. Burkett's bat control, bunting ability, and plate discipline would translate to any era. He's a Tony Gwynn prototype — a left-handed slap hitter with elite bat-to-ball skills. But his combativeness, treatment of umpires and rookies, and general hostility would be a PR nightmare in the modern game. He'd be suspended constantly for arguments.",
+    "clubhouse_impact": "DIVISIVE. Burkett made the Spiders meaner, tougher, and more competitive — but also more volatile. He 'had no friends on the other team' and not many on his own. SABR's biography notes he was 'unpopular with teammates' while simultaneously being the team's best hitter. The Crab made everyone uncomfortable, and the discomfort made everyone better. Or worse. Depending on the day.",
+    "dark_side": "The cruelty. Burkett didn't just compete hard — he was deliberately cruel. He insulted rookies, berated sportswriters, and was considered the 'meanest player on the infamously rowdy Cleveland Spiders.' The Spiders themselves became the worst team in baseball history (20-134 in 1899) after the owner gutted them by sending Burkett, Young, and others to St. Louis. Burkett was complicit in this — he went willingly to the better team, leaving behind a franchise that collapsed into the most pathetic record ever. In ILB terms: Burkett carries a 'Crab' trait — his combativeness gives +1 to team competitiveness but -1 to team cohesion, and he'll always leave for a better opportunity."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Crab",
+      "desc": "Surly, combative, mean. +1 team competitiveness permanently. -1 team cohesion. Opposing players lose -1 morale from constant verbal abuse."
+    },
+    {
+      "tag": "Three-Time .400",
+      "desc": "Only Cobb and Hornsby also hit .400 three times. +2 reputation among hitters. Opposing pitchers gain 'Intimidated' trait."
+    },
+    {
+      "tag": "Greatest Bunter",
+      "desc": "Shaughnessy: 'the greatest bunter in baseball history.' Burkett can bunt for a hit at will — 40% success rate on bunt attempts."
+    },
+    {
+      "tag": "Foul Ball Artist",
+      "desc": "Could foul off pitches indefinitely. Pitcher fatigue increases +1 every AB against Burkett. The foul-strike rule was partly inspired by him."
+    },
+    {
+      "tag": "55 Inside-the-Park",
+      "desc": "All-time MLB record for inside-the-park HR (55). 10% chance any triple becomes an inside-the-park HR."
+    },
+    {
+      "tag": "Pitcher-Turned-Hitter",
+      "desc": "Went 39-6 as a minor league pitcher before switching to OF. Understands pitching: +1 CON vs. pitchers who rely on deception."
+    },
+    {
+      "tag": "Spider's Venom",
+      "desc": "+2 chemistry with Cleveland Spiders teammates. But if the team is gutted by ownership, Burkett leaves first."
+    },
+    {
+      "tag": "Worcester Man",
+      "desc": "Adopted Worcester, MA as home. Owned and managed the Worcester Busters. 4 consecutive pennants. +1 longevity (plays until age 47)."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Batter's Box",
+      "affinity": "HIGH",
+      "note": "Three .400 seasons. 2,850 hits. The box was his kingdom."
+    },
+    {
+      "location": "Umpire's Face",
+      "affinity": "HIGH",
+      "note": "First player ejected from both games of a doubleheader. Constant arguments."
+    },
+    {
+      "location": "Wheeling, WV",
+      "affinity": "HIGH",
+      "note": "Born there. First WV native in the Hall of Fame."
+    },
+    {
+      "location": "Worcester, MA",
+      "affinity": "HIGH",
+      "note": "Adopted home for 64 years. Owned the Worcester Busters."
+    },
+    {
+      "location": "Holy Cross College",
+      "affinity": "MEDIUM",
+      "note": "Coached baseball there for 4 years after playing career."
+    },
+    {
+      "location": "Clubhouse",
+      "affinity": "LOW",
+      "note": "Unpopular with teammates. 'His claws were in every rhubarb.'"
+    },
+    {
+      "location": "Press Box",
+      "affinity": "LOW",
+      "note": "Insulted sportswriters regularly. They got their revenge in print."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Heckling — Burkett got meaner and better when people tried to rattle him",
+      "Batting races — his three titles came when he was locked in competition",
+      "Playing for the best team — Burkett thrived when surrounded by talent (Spiders, Cardinals)",
+      "Bunting situations — no one was better at placing bunts exactly where he wanted"
+    ],
+    "cold_triggers": [
+      "Being shown up by umpires — 'Burkett batting for exercise' left him red-faced",
+      "Bad teams — his production declined sharply once the Spiders were gutted",
+      "The foul-strike rule (1901 NL, 1903 AL) — his BA dropped when foul balls became strikes",
+      "Age-related decline — his average fell each year after 1901"
+    ],
+    "pressure_response": "COMBATIVE. Burkett's pressure response was anger — he hit better when he was mad, which was almost always. In the 1895 Temple Cup, he helped the underdog Spiders beat the mighty Orioles 4-1. But in the 1896 Cup, his errors contributed to a sweep loss. In ILB: Burkett is dangerous in October because his rage intensifies — but his fielding can cost you at the worst moment."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Four-Ten",
+      "type": "Game Action",
+      "text": "Your left fielder hits .410 for the season — 240 hits, a major league record. He leads the league in batting average, hits, and runs scored. He's the second player to hit .400 in consecutive years. Your franchise has a generational hitter.",
+      "origin": "Burkett hit .410 in 1896 with 240 hits (ML record for 15 years), 160 runs, and led the NL in BA for the second straight year."
+    },
+    {
+      "title": "Ejected Twice",
+      "type": "Drama",
+      "text": "Your outfielder is ejected from the first game of a doubleheader for arguing a called third strike. He refuses to leave. The umpire threatens to forfeit. In the second game, he's ejected again. First player in history to accomplish this.",
+      "origin": "On August 4, 1897, Burkett became the first player ejected from both games of a doubleheader vs. Louisville. He argued calls in both games."
+    },
+    {
+      "title": "Batting for Exercise",
+      "type": "Drama",
+      "text": "Your pinch-hitter refuses to tell the umpire who he's batting for. The umpire announces to the crowd: 'Burkett batting for exercise.' The crowd laughs. Your player, red-faced, strikes out. -2 morale. But +1 motivation for the next 5 games.",
+      "origin": "In the New England League, an umpire asked who Burkett was pinch-hitting for. He said 'None of your blankety blank business.' The umpire's response humiliated him."
+    },
+    {
+      "title": "The Greatest Bunt",
+      "type": "Game Action",
+      "text": "Your hitter lays down the most perfect bunt in baseball history. The ball dies exactly where no fielder can reach it. He does this whenever he wants. Opponents cannot defend it.",
+      "origin": "Frank Shaughnessy called Burkett 'the greatest bunter in baseball history.' He could place bunts with surgical precision."
+    },
+    {
+      "title": "The Foul Ball Rule",
+      "type": "Drama",
+      "text": "Your hitter can foul off pitches indefinitely, exhausting every pitcher he faces. The league changes the rules to stop him — foul balls now count as strikes. Your hitter's batting average drops 40 points. The game itself adapts to neutralize one man.",
+      "origin": "Burkett's ability to foul off pitches was so extreme that it partially inspired the foul-strike rule. His average dropped from .376 (1901) to .306 (1902) and below .300 after the rule took full effect."
+    },
+    {
+      "title": "Pitcher to Hitter",
+      "type": "Action",
+      "text": "Your pitcher goes 39-6 in the minors but can't succeed in the majors (3-10, 5.57 ERA). Rather than quit, he reinvents himself as an outfielder — and becomes a .400 hitter. The most successful position change in baseball history.",
+      "origin": "Burkett was a dominant minor league pitcher (39-6 for Worcester in 1889) but failed as a ML pitcher (3-10, 5.57 for the Giants). He switched to the outfield and hit .338 lifetime."
+    },
+    {
+      "title": "The Spider's Death",
+      "type": "Drama",
+      "text": "Your team's owner also owns another franchise. He strips your team of its best players — including your .400 hitter — and sends them to the better team. Your franchise goes 20-134, the worst record in baseball history. The franchise folds.",
+      "origin": "Frank Robison owned both the Spiders and Cardinals. In 1899, he transferred Burkett, Young, and others to St. Louis. The gutted Spiders went 20-134."
+    },
+    {
+      "title": "Playing at Forty-Seven",
+      "type": "Action",
+      "text": "Your retired star refuses to retire. He owns, manages, and plays for a minor league team. He wins the league batting title at age 37. He wins 4 consecutive pennants as manager. He plays his last professional game at 47. He then coaches in college.",
+      "origin": "Burkett managed the Worcester Busters (1906-15), won the New England League batting title in 1906, won 4 straight pennants, and played until age 47."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Small, compact, scowling. 5'8\" 155 lbs — the smallest position player card in the set. Sharp features, hard eyes, downturned mouth. The face of a man who is already angry at you before you've done anything. Not menacing like Cobb — more like a small animal defending territory. There's competence in the scowl, not cruelty.",
+    "attire": "Cleveland Spiders 1896 road grays — the era when the Spiders were still a powerhouse. Crouched left-handed batting stance, bat cocked, ready to bunt or slap. The stance is low and coiled — Burkett made himself even smaller at the plate. Or: captured mid-argument with an umpire, jaw jutting, finger pointing, the classic Crab pose.",
+    "mood": "Controlled rage. Not chaotic rage (Waddell) or cold fury (Cobb) — this is a low-frequency, constant anger. Burkett was always mad, always arguing, always competing. The image should feel tense and compressed, like a spring that's been wound too tight. The most combative card in the set.",
+    "style": "Harsh, contrasty sepia — darker shadows than most position player cards, reflecting the Spiders' rough reputation. The gritty industrial feel of 1890s Cleveland — steel mills, smokestacks, rough ballfields. Ornate but slightly tattered border — the Crab has scratched at the edges. Aged paper with deliberate scuff marks — this card has been in fights.",
+    "reference": "This is the T206 that looks like it's glaring at you from the page. ILB sepia at its most confrontational. Where Keeler is polished and Lajoie is regal, Burkett is a back-alley brawler with a .410 average. The card that proves you don't have to be likable to be legendary."
+  },
+
+  "badges": [
+    "HOF 1946",
+    "3× NL Batting Champ",
+    ".410 in 1896",
+    "55 Inside-the-Park HR (Record)",
+    "Greatest Bunter Ever",
+    "Inspired Foul-Strike Rule",
+    "2,850 Career Hits",
+    "Playing at 47"
+  ]
+}

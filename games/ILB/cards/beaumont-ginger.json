@@ -1,0 +1,229 @@
+{
+  "name": "Ginger Beaumont",
+  "nickname": "The Red-Haired Wonder",
+  "year": 1903,
+  "team": "Pittsburgh Pirates",
+  "era": "1900s",
+  "ilb_team": "Banners NL1900",
+  "position": "CF",
+  "bats": "L",
+  "throws": "R",
+  "height": "5'8\"",
+  "weight": "190 lbs",
+  "born": "July 23, 1876 — Rochester, WI",
+  "died": "April 10, 1956 — Burlington, WI (age 79)",
+  "hof": "Not inducted. Wisconsin Athletic HOF 1951 (charter member). Both Bill Klem and Honus Wagner named him CF on their all-time teams. Wagner: 'He was one of the best players who ever lived.'",
+
+  "real_stats": {
+    "season": 1903,
+    "games": 141,
+    "at_bats": 613,
+    "hits": 209,
+    "doubles": 30,
+    "triples": 6,
+    "home_runs": 7,
+    "rbi": 68,
+    "runs": 137,
+    "stolen_bases": 25,
+    "batting_avg": ".341",
+    "obp": ".390",
+    "slg": ".434",
+    "ops": ".824",
+    "ops_plus": 142,
+    "war": 5.7,
+    "career_avg": ".311",
+    "career_hits": 1759,
+    "career_hr": 39,
+    "career_sb": 254,
+    "career_war": 32.4,
+    "career_obp": ".362",
+    "career_ops_plus": 119,
+    "ws_1903_avg": ".250",
+    "ws_1903_hits": 9,
+    "ws_1903_sb": 2
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 5,
+    "pow": 0,
+    "spd": 3,
+    "def": 2,
+    "clu": 1
+  },
+
+  "stat_justification": {
+    "con": ".341 BA in 1903 → tier 5 (.330+). OPS+ 142 → ≥130 bonus (+1) = 6, capped at 5. Led NL in runs (137), hits (209), and total bases (272). Won 1902 NL batting title (.357). Led NL in hits 4× (1902-04, 1907) — first player to lead 3 consecutive years. Career .311 BA. Honus Wagner: 'He was one of the best players who ever lived.' Maximum contact.",
+    "pow": "7 HR in 1903 → tier 0 (0-9). SLG .434 (no bonus). 30 doubles show gap power, but only 39 career HR in 12 seasons. A dead-ball singles/doubles hitter — the prototypical leadoff man. Rating: 0.",
+    "spd": "25 SB in 1903 → tier 2 (16-30). 254 career SB. Clocked home to first in 4.4 seconds — remarkable for a 5'8\" 190 lb man. Sportswriter John Gruber: 'Nobody who saw him for the first time ambling along would admit this... but when he hit the ball he was off like a streak.' CF with elite range (Klem's best ever) = +1 bonus. Maximum: 3.",
+    "def": "Bill Klem (1939): 'The most graceful and efficient man I've ever seen in the outfield.' Honus Wagner named him CF on his all-time team. Led NL CF in fielding percentage (1902). 'He was considered by fellow ballplayers to be the best fielder in the business.' Pre-Gold Glove era, but two all-time greats (Wagner and Klem) naming him best CF = elite reputation. Rating: 2.",
+    "clu": ".250 BA in the 1903 WS → tier 1 (.250-.299). 9 hits, 2 SB in 8 games. First batter in World Series history — faced Cy Young on October 1, 1903, and lofted a fly ball to center. Historic but not heroic. The Pirates lost the series 5-3. No clinching moment. Rating: 1."
+  },
+
+  "personality": {
+    "leadership_style": "Quiet excellence. Beaumont didn't lead by charisma or intimidation — he led by showing up every day and hitting. On a team with Honus Wagner, Fred Clarke, and other stars, Beaumont earned his place as a peer through relentless consistency. He was Dreyfuss's kind of player: clean-living, devoted to youth baseball, and utterly professional.",
+    "temperament": "Gentle, humble, deceptively competitive. The sportswriters mocked his name — 'Clarence' — and Giants tough guys like 'Bad Bill' Dahlen and Art Devlin would shout 'Clarence, Clarence, don't dirty the seat of your pants!' in falsetto voices. But Beaumont earned their respect by hitting .341 and leading the league in runs. The bench jockeying stopped when the bat started talking.",
+    "work_ethic": "Pure natural ability refined through persistence. Beaumont went from Wisconsin semipro ball to the majors in less than a year. He didn't have the body of a speedster — 5'8\" 190 lbs — but he worked his legs until he was clocked at 4.4 seconds to first. He bunted, slapped, legged out infield hits. Six hits in one game, all of them singles, four of them infield hits. That's work, not luck.",
+    "lifestyle": "Wisconsin farm boy, clean liver. Didn't smoke or drink. Devoted free time to youth baseball in Pittsburgh. Purchased a 180-acre farm in Honey Creek, WI in 1904 and renamed it 'Centerfield Farm.' Married Norma Vaughn in 1901; raised two daughters and a son. Elected supervisor of Walworth County in 1914. Saved his money and lived comfortably in retirement. The anti-stereotype of the dissolute ballplayer.",
+    "era_adaptability": "STRONG for contact and defense. Beaumont's approach — high contact, elite speed, center field defense — would translate well to any era as a top-of-the-order slap hitter. Think Ichiro Suzuki's approach with less power. The .311 career average and 254 stolen bases in a dead-ball context would translate to a high-OBP, high-speed leadoff man. The power wouldn't translate at all.",
+    "clubhouse_impact": "STABILIZING. Clean-living, no drama, devoted to the team and to youth baseball. On a Pittsburgh team with bigger personalities (Wagner, Clarke), Beaumont was the steady presence — the man you didn't worry about. In ILB terms: +1 team chemistry simply by being on the roster. No negative traits.",
+    "dark_side": "The knees and the forgetting. Beaumont's knee injuries — which nagged him from 1905 onward — slowly destroyed his speed and with it his game. The former 4.4-second man could no longer leg out bunts. Pittsburgh traded him when he was 30, and by 33 he was done. Then came the longer forgetting: despite campaigns in the 1940s and 1980s, Beaumont was never inducted into the HOF. He suffered two strokes in his 70s and died in a wheelchair. Named his farm 'Centerfield Farm' because he never forgot where he belonged — even if the world forgot him."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "First Batter in WS History",
+      "desc": "Beaumont stepped to the plate against Cy Young on October 1, 1903 — the first at-bat in World Series history. +2 legacy permanently. Historic presence."
+    },
+    {
+      "tag": "Wagner's Pick",
+      "desc": "Honus Wagner named Beaumont CF on his all-time team. 'He was one of the best players who ever lived.' When endorsed by a GOAT, +1 reputation."
+    },
+    {
+      "tag": "Deceptive Speed",
+      "desc": "5'8\" 190 lbs but clocked at 4.4 seconds home to first. 'When he hit the ball he was off like a streak.' Opponents underestimate his SPD by 1 on first encounter."
+    },
+    {
+      "tag": "Klem's Best",
+      "desc": "Bill Klem: 'The most graceful and efficient man I've ever seen in the outfield.' +1 DEF when an umpire is watching (always). The eye of the game validates him."
+    },
+    {
+      "tag": "Clean Living",
+      "desc": "Didn't smoke or drink. Devoted to youth baseball. +1 team morale. No off-field incidents, ever."
+    },
+    {
+      "tag": "Centerfield Farm",
+      "desc": "Named his 180-acre Wisconsin farm 'Centerfield Farm.' After retirement, gains +2 morale on farm/rural locations. The simple life restores."
+    },
+    {
+      "tag": "Infield Hit Machine",
+      "desc": "6 hits in one game, all singles, 4 of them infield hits. When Beaumont bunts, 60% chance of reaching base. Dead-ball era genius."
+    },
+    {
+      "tag": "Bad Knees",
+      "desc": "Knee injuries from 1905 onward. After age 29, SPD decreases by 1 per season. The body that held surprising speed surrenders it."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Center Field",
+      "affinity": "HIGH",
+      "note": "Klem's best ever. Wagner's all-time pick. Named his farm after it. This is where he lives."
+    },
+    {
+      "location": "Farm / Rural",
+      "affinity": "HIGH",
+      "note": "Centerfield Farm, Honey Creek, WI. 180 acres. Walworth County supervisor. The simple life."
+    },
+    {
+      "location": "Leadoff Spot",
+      "affinity": "HIGH",
+      "note": "Considered the finest leadoff hitter of the dead-ball era. Led NL in hits 4×, runs 1×."
+    },
+    {
+      "location": "Youth Baseball Field",
+      "affinity": "HIGH",
+      "note": "Devoted free time to youth baseball in Pittsburgh. A mentor, not just a player."
+    },
+    {
+      "location": "Clubhouse / Locker Room",
+      "affinity": "MEDIUM",
+      "note": "Steady, reliable, no drama. The teammate everyone wants. Just don't call him Clarence."
+    },
+    {
+      "location": "Media / Spotlight",
+      "affinity": "LOW",
+      "note": "Humble, not a showman. 'A lazier or more indifferent-appearing player could not be conceived.' Until the bat spoke."
+    },
+    {
+      "location": "Hospital",
+      "affinity": "LOW",
+      "note": "Knee injuries, two strokes in his 70s, wheelchair-bound last years. The body failed the spirit."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Hitting streaks — led NL in hits 3 consecutive years (1902-04), the first player to do so",
+      "Pennant races — played on 3 consecutive NL pennant winners (1901-03). Rose when it mattered.",
+      "Multi-hit games — 6 hits in one game (July 22, 1899), including 4 infield hits. When hot, unstoppable.",
+      "Playing alongside Wagner — on the same team as the greatest player alive, Beaumont held his own and sometimes outperformed him"
+    ],
+    "cold_triggers": [
+      "Knee injuries — from 1905 onward, chronic knee problems sapped his speed and batting average",
+      "Bench jockeying about his name — Giants players mocking 'Clarence' could get under his skin early in his career",
+      "World Series pressure — .250 in the 1903 WS, first at-bat was an out. Not a postseason hero.",
+      "Trade aftermath — traded from Pittsburgh at 30, never recovered full form. The decline was swift."
+    ],
+    "pressure_response": "HISTORIC BUT MODEST. Beaumont was the first batter in World Series history — he stepped in against Cy Young on October 1, 1903, with 16,242 screaming fans at Huntington Avenue Grounds. He flew out to center. In the series he hit .250 with 9 hits and 2 stolen bases — solid but not dominant. The Pirates lost 5-3. Beaumont's pressure response is reliable rather than spectacular: he doesn't shrink, but he doesn't transcend. His regular-season consistency (.341 in 1903, 137 runs, 209 hits) was his true gift. In ILB: Beaumont is the steady hand, not the October hero."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The First At-Bat",
+      "type": "Game Action",
+      "text": "Your leadoff hitter steps to the plate for the very first at-bat of the very first World Series. 16,242 fans roar. He faces the greatest pitcher alive. He lifts a fly ball to center — an out, but a historic one. Your franchise gains +3 permanent legacy. The moment is eternal.",
+      "origin": "October 1, 1903: Ginger Beaumont faced Cy Young as the first batter in World Series history at Huntington Avenue Grounds. He flew out to center field. The at-bat lasted seconds. The legacy lasted forever."
+    },
+    {
+      "title": "Six Hits, All Singles",
+      "type": "Game Action",
+      "text": "Your leadoff hitter goes 6-for-6 — all singles, four of them infield hits beaten out by sheer speed. He also scores 6 runs (an NL record). The opposing infield is demoralized: there is no defense against a man who can bunt and run like this.",
+      "origin": "July 22, 1899: Beaumont went 6-for-6 against Philadelphia's Wiley Piatt, all singles, four infield hits. He scored 6 runs — still a 9-inning NL record. 'Not one ball was hit out of the infield,' he recalled."
+    },
+    {
+      "title": "Three Straight Hits Titles",
+      "type": "Action",
+      "text": "Your leadoff hitter leads the league in hits for three consecutive seasons. No one has ever done this before. He gains the 'Contact King' trait: +1 permanent CON and immunity to slumps lasting longer than 5 games.",
+      "origin": "Beaumont led the NL in hits in 1902 (193), 1903 (209), and 1904 (185) — the first player in league history to lead three consecutive years. Only five others have matched it."
+    },
+    {
+      "title": "Don't Call Me Clarence",
+      "type": "Drama",
+      "text": "Opposing bench jockeys mock your player's real name in falsetto voices. Your player is rattled for 1 game (-1 CON). But if he gets a hit that game, he gains +1 CON for the rest of the series — the bat is the best revenge.",
+      "origin": "Giants toughs like 'Bad Bill' Dahlen and Art Devlin would shout 'Clarence, Clarence, don't dirty the seat of your pants!' in falsetto. Beaumont earned their respect by outperforming them."
+    },
+    {
+      "title": "The Deceptive Body",
+      "type": "Game Action",
+      "text": "Your stocky, ambling outfielder — who looks like he couldn't outrun a milk cart — is clocked at 4.4 seconds from home to first. Opposing fielders underestimate his speed by 2 for the first 3 games of any series. By then it's too late.",
+      "origin": "Sportswriter John Gruber: 'A lazier or more indifferent-appearing player, emphasized by a burly body, could not be conceived. But when he hit the ball he was off like a streak, which astonished the uninitiated and made him one of the wonders of the century.'"
+    },
+    {
+      "title": "Centerfield Farm",
+      "type": "Drama",
+      "text": "Your retired star purchases a 180-acre farm and names it after his position. He becomes a county supervisor, raises a family, and lives a simple, happy life. +3 legacy (modest but permanent). No dark side, no tragedy — just contentment.",
+      "origin": "Beaumont purchased his Honey Creek, WI farm in 1904 and named it 'Centerfield Farm.' He was elected Walworth County supervisor in 1914. He saved his money and by all accounts was comfortably well-off."
+    },
+    {
+      "title": "Wagner's Endorsement",
+      "type": "Action",
+      "text": "The greatest player in the game selects your outfielder for his all-time team. The endorsement is shock — 'People are generally surprised' — but the GOAT knows. Your player gains +2 permanent legacy and the 'Peer of Legends' trait.",
+      "origin": "In 1937, Honus Wagner selected Beaumont as his all-time CF in Collier's magazine. 'People are generally surprised at the selection of Beaumont, but he was one of the best players who ever lived.' Every other player Wagner named is in the HOF."
+    },
+    {
+      "title": "The Wheelchair and the Plaque",
+      "type": "Drama",
+      "text": "Your aging legend suffers two strokes and is confined to a wheelchair. But in 1951, he is honored with a charter induction into his state's Athletic Hall of Fame. Two World Series teammates — now in their 80s — unveil his plaque. The recognition comes late, but it comes.",
+      "origin": "Beaumont suffered strokes in 1948 and 1950. In 1951, wheelchair-bound, he was inducted as a charter member of the Wisconsin Athletic HOF. Cy Young and Deacon Phillippe — his 1903 WS opponents/teammates — unveiled his plaque."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Stocky, red-haired Wisconsin farm boy. 5'8\" 190 lbs — burly, compact, built like a catcher but with a leadoff hitter's eyes. Red hair (hence 'Ginger'), round friendly face, slightly ambling posture that belies explosive speed. Not imposing — approachable, quiet, deceptively athletic.",
+    "attire": "Pittsburgh Pirates uniform circa 1903 — white wool jersey with 'PITTSBURGH' or 'P' on the chest, baggy flannel pants, flat cap. Left-handed batting stance — the compact swing of a man who hits line drives and beats out bunts. Or: mid-stride running the bases, surprising speed from a stocky frame. No number.",
+    "mood": "Gentle confidence. Not fierce or intimidating — warm, steady, the look of a man who hits .341 without anyone noticing until the season's over. Huntington Avenue Grounds behind him, the first World Series crowd in soft focus. The calm before the first pitch of October.",
+    "style": "Sepia-toned with warm, golden, wheat-field undertones — Wisconsin farm warmth. This is the most approachable card in the Banners set. Where Mathewson is moonlight and Young is deep earth, Beaumont is autumn harvest. Comfortable. Honest. The card you'd hand to a child learning to love baseball.",
+    "reference": "Think the left-handed batting stance — compact, balanced, ready to slap a single through the infield. Or: the center fielder at full speed, legs churning, cap flying off, chasing down a fly ball that everyone thought was a hit. The deceptive athlete, the forgotten star, the first man to step to the plate in a World Series."
+  },
+
+  "badges": [
+    "1st Batter in WS History",
+    "1902 NL Batting Champ",
+    "4× NL Hits Leader",
+    "4.4 Sec Home to 1st",
+    "Wagner's All-Time CF",
+    "3× NL Pennant (1901-03)"
+  ]
+}

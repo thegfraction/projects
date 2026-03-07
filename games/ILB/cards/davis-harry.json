@@ -1,0 +1,214 @@
+{
+  "card_type": "hitter",
+  "name": "Harry Davis",
+  "nickname": "Jasper",
+  "year": 1905,
+  "team": "Philadelphia Athletics",
+  "era": "1900s",
+  "ilb_team": "Banners AL1900",
+  "position": "1B",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'10\"",
+  "weight": "180 lbs",
+  "born": "July 19, 1873 — Philadelphia, PA",
+  "died": "August 11, 1947 — Philadelphia, PA (age 74)",
+  "hof": "Not inducted (38.4 career WAR). Gray Ink 134 (HOF avg 144).",
+
+  "real_stats": {
+    "season": 1905,
+    "games": 149,
+    "at_bats": 569,
+    "hits": 160,
+    "doubles": 47,
+    "triples": 5,
+    "home_runs": 8,
+    "rbi": 83,
+    "stolen_bases": 22,
+    "batting_avg": ".281",
+    "obp": ".345",
+    "slg": ".415",
+    "ops": ".760",
+    "ops_plus": 137,
+    "war": 5.0,
+    "career_avg": ".277",
+    "career_hits": 1841,
+    "career_hr": 75,
+    "career_sb": 285,
+    "career_war": 38.4
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 3,
+    "pow": 3,
+    "spd": 2,
+    "def": 1,
+    "clu": 1
+  },
+
+  "stat_justification": {
+    "con": ".281 BA in 1905, career .277 with 1,841 hits. OPS+ of 137 in his peak year. Davis was a professional hitter — led the AL in doubles 3 times — but his average was good-not-great. He got his value from extra-base power and run production, not pure contact. Rating of 3.",
+    "pow": "8 HR in 1905 — led the American League. Led the AL in HR 4 consecutive years (1904-07). Top home run hitter in baseball 1900-09 (67 HR, 9 more than second place). Also led NL in triples with 28 in 1897. 47 doubles in 1905 (led AL). Rating of 3 reflects dead-ball-era dominance — Davis was the preeminent power hitter of the first decade of the AL.",
+    "spd": "22 SB in 1905, 285 career. 28 triples in 1897 (5th highest single-season total in MLB history). Davis had legitimate speed, unusual for a power-hitting first baseman. Led the AL in power-speed number 4 consecutive years. Rating of 2.",
+    "def": "Led AL 1B in range factor in 1901, double plays turned in 1906 and 1910. Career .978 fielding percentage. Solid defensive first baseman. Not a Tenney-level innovator, but reliable. Rating of 1.",
+    "clu": "Mixed postseason record: .200 in 1905 WS (lost to Giants/Mathewson), .353 in 1910 WS (won), .208 in 1911 WS (won). 3x World Series champion with the A's (1910, 1911, 1913). The 1910 WS was heroic; the rest was mediocre. Rating of 1 — the championships matter, but he was inconsistent in October."
+  },
+
+  "personality": {
+    "leadership_style": "The Captain. Connie Mack named Davis captain of the Athletics after the 1905 season, and he was universally recognized as Mack's lieutenant on the field. Credited with being 'at least 25 per cent of the brains of the Philadelphia American League baseball club.' He was the thinking man's slugger — a player who won games with his mind as often as his bat.",
+    "temperament": "Fiery beneath a gentlemanly exterior. Playing for Mack, who discouraged fighting, created a veneer of civility. But early in his career with the Giants, a writer noted he 'blossomed into a kicker of class A. He can give McGraw two jumps, a hundred words, and beat him in a canter.' Davis had a booming voice and argued passionately with umpires — he was ejected 8 times as a player.",
+    "work_ethic": "Self-made and resilient. Orphaned at 5, raised at Girard College for disadvantaged boys. Quit baseball in 1901 to work for the Pennsylvania Railroad. Mack lured him back. He then became the cornerstone of a dynasty. Davis also took young players under his wing, literally — he boarded promising rookies in his own house.",
+    "lifestyle": "Philadelphia through and through — born and died there. Attended Girard College (orphan school). Married Eleanor Hicks in 1898. After retirement from baseball, served as a Philadelphia City Councilman. Continued as a coach and scout for Mack's A's until 1927 — a 30+ year association with the franchise.",
+    "era_adaptability": "HIGH. Davis's combination of power, speed, intelligence, and leadership would translate well to any era. His 28 triples in 1897 suggest elite athletic ability. His game-management skills and mentoring would make him a valuable clubhouse presence regardless of the decade. The only limitation is his modest batting average.",
+    "clubhouse_impact": "CAPTAIN-MENTOR. Davis was the heart and soul of the early Athletics. He mentored young players, boarding them in his house. He was Mack's extension on the field — the player-coach before the term existed. After losing the captaincy, he continued to serve as assistant captain and coach for years. A true franchise cornerstone.",
+    "dark_side": "The 1905 World Series. Davis's best season — leading the AL in HR, RBI, runs, and doubles — ended with a whimper. He went 4-for-20 (.200) with 0 RBI as the A's were demolished by Christy Mathewson and the Giants (lost 4-1). Davis never drove in a run in the entire series. It haunted the franchise. In ILB terms: Davis carries a 'Regular Season Hero' trait — his peak stats don't always translate to October."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Captain",
+      "desc": "Davis is Mack's lieutenant. +1 team discipline permanently. All players on the roster gain +1 morale from his presence."
+    },
+    {
+      "tag": "Orphan's Drive",
+      "desc": "Raised at Girard College for disadvantaged boys. Father died of typhoid when Harry was 5. Davis never suffers morale drops from adversity — he's already survived worse."
+    },
+    {
+      "tag": "4× HR King",
+      "desc": "Led the AL in HR 4 consecutive years (1904-07). When Davis leads the league in any stat, +2 team reputation."
+    },
+    {
+      "tag": "Railroad Man",
+      "desc": "Quit baseball to work for the Pennsylvania Railroad in 1901. Davis gains +1 reliability — he always shows up. But if he feels undervalued, 15% chance he retires mid-career."
+    },
+    {
+      "tag": "Mentor",
+      "desc": "Davis boards young players in his own house. Rookies on his team gain +1 to all stats for their first 20 games."
+    },
+    {
+      "tag": "First Cycle",
+      "desc": "First player to hit for the cycle in AL history (July 10, 1901). Once per season, Davis can attempt a cycle game — roll 6 on d6 for success."
+    },
+    {
+      "tag": "Mack's Man",
+      "desc": "30+ year association with Connie Mack and the Athletics. +2 chemistry with any Mack-managed team. -1 chemistry if traded away."
+    },
+    {
+      "tag": "City Councilman",
+      "desc": "After retirement, served on Philadelphia City Council. +1 reputation in the team's home city. Davis is a pillar of the community."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "The captain. Heart and soul of the Athletics for a decade."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "Mack's lieutenant. 25% of the brains of the club."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "Boarded young players in his house. Married to Eleanor. Family man."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Philadelphia City Councilman after retirement."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "HIGH",
+      "note": "His alma mater for orphans — Girard College. Several future players came from there."
+    },
+    {
+      "location": "Restaurant/Steakhouse",
+      "affinity": "MEDIUM",
+      "note": "Worked for the Pennsylvania Railroad before Mack recruited him back."
+    },
+    {
+      "location": "Bar/Nightlife",
+      "affinity": "LOW",
+      "note": "No major drinking associations. Professional demeanor."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Dynasty years — Davis peaked when the A's were contending (1905, 1910)",
+      "Extra-base hit streaks — when his doubles and triples are falling, he's locked in",
+      "Leadership moments — Davis thrives when the team needs a captain",
+      "Mentoring rookies — gains energy from teaching young players"
+    ],
+    "cold_triggers": [
+      "World Series pressure (1905) — went silent against Mathewson",
+      "Aging — decline was steep after age 35",
+      "Feeling undervalued — quit baseball once and could do it again"
+    ],
+    "pressure_response": "INCONSISTENT. Davis's postseason record is a tale of two careers: .200 in the 1905 WS (terrible), .353 in the 1910 WS (heroic), .208 in 1911 (mediocre). He won 3 World Series rings, but his October performance was streaky. In ILB: Davis is a coin flip in the postseason — he'll either carry you or disappear. Pair him with consistent CLU teammates for insurance."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Four Consecutive Crowns",
+      "type": "Game Action",
+      "text": "Your slugger leads the league in home runs for the 4th straight year. He gains +1 POW permanently and +3 team reputation. The streak establishes him as the era's premier power hitter.",
+      "origin": "Davis led the AL in home runs 4 consecutive years (1904-07) — the top HR hitter in baseball for the entire first decade of the 1900s."
+    },
+    {
+      "title": "Twenty-Eight Triples",
+      "type": "Game Action",
+      "text": "Your player hits 28 triples in a season — the 5th-highest total in MLB history. He gains +2 SPD and the 'Triple Machine' trait for the rest of the season. He also leads the league in triples with only 10 doubles, a statistical anomaly no one has ever matched.",
+      "origin": "Davis hit 28 triples with only 10 doubles for the 1897 Pirates — a bizarre ratio that remains unique in baseball history."
+    },
+    {
+      "title": "The Orphan's Path",
+      "type": "Drama",
+      "text": "A player loses his father at age 5 and is sent to a school for disadvantaged children. He emerges with iron determination and a business education. He gains the 'Orphan's Drive' trait — immune to morale drops from adversity.",
+      "origin": "Davis's father died of typhoid when Harry was 5. His mother sent him to Girard College, a school for orphaned and disadvantaged boys in Philadelphia."
+    },
+    {
+      "title": "Quit and Come Back",
+      "type": "Action",
+      "text": "Your veteran quits baseball to work for the railroad. His manager sends him an offer too good to refuse. He returns and becomes the cornerstone of a dynasty. +1 OVR after returning (renewed motivation).",
+      "origin": "Davis quit baseball in 1901 to work for the Pennsylvania Railroad. Connie Mack lured him back with a big contract. Davis then anchored the A's for a decade."
+    },
+    {
+      "title": "The First Cycle",
+      "type": "Game Action",
+      "text": "Your batter hits a single, double, triple, and home run in the same game — the first cycle in league history. Team morale +3 for the series. The achievement enters the record books permanently.",
+      "origin": "On July 10, 1901, Davis became the first player to hit for the cycle in American League history."
+    },
+    {
+      "title": "Mack's Lieutenant",
+      "type": "Action",
+      "text": "Your manager names a veteran player as team captain. The captain gains +1 to all leadership rolls. He becomes the manager's extension on the field — handling disputes, mentoring rookies, and making in-game decisions.",
+      "origin": "After the 1905 season, Mack named Davis captain of the Athletics. Davis was universally recognized as '25% of the brains of the club.'"
+    },
+    {
+      "title": "Boarding House Mentor",
+      "type": "Action",
+      "text": "Your veteran opens his home to promising rookies. All rookies who live with him gain +1 to all stats for their first season. But the veteran's family life suffers (-1 personal morale).",
+      "origin": "Davis took promising young players under his wing and literally boarded them in his own house."
+    },
+    {
+      "title": "The Mathewson Shutout",
+      "type": "Drama",
+      "text": "Your best regular-season team faces an unhittable pitcher in the World Series. Your cleanup hitter goes 4-for-20 with 0 RBI. The series is lost in 5 games. The regular season meant nothing.",
+      "origin": "Davis led the AL in HR, RBI, runs, and doubles in 1905 — then went .200 with 0 RBI as Christy Mathewson shut down the A's in the World Series."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Strong, determined face of a self-made man. 5'10\" 180 lbs — solid build. Square jaw, thick neck, serious eyes with intelligence behind them. Clean-shaven or small mustache. The look of a man who has earned everything he has — from the orphanage to the captain's armband.",
+    "attire": "Philadelphia Athletics 1905 home whites with the elephant emblem. The uniform fits well — Davis is built but not bulky. Bat in hand, in a powerful right-handed batting stance, or standing with hands on hips in the captain's pose of authority. The first baseman's mitt visible.",
+    "mood": "Authoritative confidence. Not showy or flashy — commanding. The captain on the field. There's a weight to Davis that the younger players don't have — the gravity of a man who runs the clubhouse. Think of the look a mentor gives a rookie: proud, firm, and encouraging all at once.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Slightly more formal, institutional quality — reflecting Davis's Girard College background and his eventual career in city politics. Philadelphia's industrial skyline in the background. Clean, professional tobacco-card composition. The Athletics' elephant motif in the border. Aged paper with moderate wear. The captain's card — it should feel like the card that holds the team together.",
+    "reference": "Think of the card that sits next to Seybold in the Athletics section — Seybold was the lovable slugger, Davis was the captain. Where Seybold is warm and jovial, Davis is authoritative and steady. The backbone card. The card that makes all the other cards better."
+  }
+}

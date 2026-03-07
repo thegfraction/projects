@@ -1,0 +1,226 @@
+{
+  "name": "Ping Bodie",
+  "nickname": "The Wonderful Wop",
+  "born_as": "Francesco Stephano Pezzolo",
+  "year": 1917,
+  "team": "Philadelphia Athletics",
+  "era": "1910s",
+  "ilb_team": "Banners AL1910",
+  "position": "CF",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'8\"",
+  "weight": "195 lbs",
+  "born": "October 8, 1887 — San Francisco, CA (as Francesco Stephano Pezzolo)",
+  "died": "December 17, 1961 — San Francisco, CA (age 74)",
+  "hof": "Not inducted. Italian American Sports Hall of Fame. Pioneer for Italian Americans in baseball.",
+
+  "real_stats": {
+    "season": 1917,
+    "games": 148,
+    "at_bats": 538,
+    "hits": 157,
+    "doubles": 28,
+    "triples": 11,
+    "home_runs": 7,
+    "rbi": 74,
+    "stolen_bases": 10,
+    "batting_avg": ".291",
+    "obp": ".343",
+    "slg": ".418",
+    "ops": ".761",
+    "ops_plus": 130,
+    "war": 3.0,
+    "gold_gloves": 0,
+    "silver_sluggers": 0,
+    "all_star": 0,
+    "career_avg": ".275",
+    "career_hits": 1011,
+    "career_hr": 43,
+    "career_sb": 49,
+    "career_war": 8.8
+  },
+
+  "ilb_stats": {
+    "ovr": 6,
+    "con": 3,
+    "pow": 2,
+    "spd": 1,
+    "def": 1,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": ".291 BA in 1917, his best full ML season. Career .275 over 1,050 games. OPS+ of 130 in peak year. Bodie was a solid line-drive hitter who used a 52-ounce bat — the heaviest in baseball. He could hit for average, but he was more about impact than consistency. Rating of 3.",
+    "pow": "7 HR in 1917 — 3rd in the AL in the dead-ball era. Hit 30 HR for the SF Seals in 1910 (PCL record at the time). 46 extra-base hits in 1917 (5th in AL). .418 SLG (6th in AL). Career 43 HR. Bodie was one of the most feared sluggers of the 1910s. Rating of 2 reflects meaningful dead-ball power.",
+    "spd": "10 SB in 1917, 49 career. At 5'8\" 195 lbs, Bodie was stocky and slow. Bugs Baer's immortal line: 'His head was full of larceny but his feet were honest.' Rating of 1 — he could barely run.",
+    "def": "Led AL outfielders in assists with 32 in 1917 — a strong throwing arm. But his range was limited by his stocky build. He played all outfield positions and even first base. Versatile but not graceful. Rating of 1.",
+    "clu": "Never reached the World Series as a regular player. Was on the 1921 Yankees roster but was traded to the Red Sox in August. Asked for a half share of the WS money — was denied. Zero meaningful postseason contributions. Rating of 0."
+  },
+
+  "personality": {
+    "leadership_style": "The Entertainer. Bodie didn't lead through authority or quiet example — he led through sheer force of personality. He was always the center of attention, always talking, always making people laugh. His leadership was morale: he kept the clubhouse loose and the fans engaged, even on terrible teams.",
+    "temperament": "Supremely self-confident and hilarious. Bodie bragged constantly but was universally beloved because the bragging was charming, not arrogant. His one-liners are legendary: 'I and the Liberty Bell are the only attractions in Philadelphia.' 'I room with his suitcase.' 'I rammycackled the old persimmon.' He had what writers called 'a twinkle in his eyes and an outgoing personality full of showmanship.'",
+    "work_ethic": "Inconsistent. Bodie clashed with managers (Jimmy Callahan sent him back to the minors in 1914) and his weight fluctuated. He was capable of greatness — 30 HR in the PCL, 97 RBI as a rookie — but couldn't always sustain it. His work ethic was directed at living life fully, not necessarily at peak conditioning.",
+    "lifestyle": "Born Francesco Stephano Pezzolo in San Francisco's Cow Hollow neighborhood to Italian immigrants. Changed his name to Bodie (after a California ghost town) to avoid discrimination. Developed his strength rolling rocks on Telegraph Hill as a kid. After baseball, worked as a Hollywood electrician and bit actor at Universal Studios for 32 years. Inspired future Italian American stars: Lazzeri, Crosetti, the DiMaggios.",
+    "era_adaptability": "MODERATE. Bodie's power would translate — he was a genuine slugger in any era. His personality would make him a media sensation today. But his speed, defense, and conditioning would limit him. He'd be a beloved DH or platoon bat with massive social media following.",
+    "clubhouse_impact": "MORALE-MAXIMIZER. Bodie was the ultimate clubhouse character. Pranks (putting ducks in teammates' rooms), eating contests (beat an ostrich at spaghetti), legendary one-liners. He kept terrible teams from falling apart. The 1917 Athletics were one of the worst teams ever — and Bodie said he was their only attraction. He was right.",
+    "dark_side": "The name change. Francesco Pezzolo became Ping Bodie because Italian Americans faced relentless discrimination. He was called 'The Wonderful Wop' by sportswriters — a nickname that reflects the casual bigotry of the era. The spaghetti-eating contest against an ostrich was staged partly as ethnic caricature. Bodie navigated this with humor and dignity, but the undercurrent was ugly. In ILB terms: Bodie carries a 'Pioneer' trait — he opened doors for the DiMaggios and Lazzeri, but he bore the cost of being first."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Ping!",
+      "desc": "Named for the sound of his 52-oz bat hitting the dead ball. +1 POW on contact. Opposing pitchers hear the PING and lose -1 confidence."
+    },
+    {
+      "tag": "Ruth's Roommate",
+      "desc": "Roomed with Babe Ruth. +2 chemistry with Ruth. 'I don't room with Ruth — I room with his suitcase.'"
+    },
+    {
+      "tag": "Italian Pioneer",
+      "desc": "First Italian American to make a major impact in MLB. +1 chemistry with all future Italian American players (DiMaggio, Lazzeri, Crosetti, Rizzuto)."
+    },
+    {
+      "tag": "The Entertainer",
+      "desc": "+2 team morale permanently. Bodie's personality prevents morale from ever dropping below baseline."
+    },
+    {
+      "tag": "Ostrich Slayer",
+      "desc": "Beat Percy the ostrich in a spaghetti-eating contest (12 plates to 11). +1 stamina (he's always fueled). No fatigue from doubleheaders."
+    },
+    {
+      "tag": "Only Attraction",
+      "desc": "'I and the Liberty Bell are the only attractions in Philadelphia.' On bad teams, Bodie gains +1 fan loyalty while all other players lose it."
+    },
+    {
+      "tag": "Name Changer",
+      "desc": "Changed from Pezzolo to Bodie to avoid discrimination. Bodie is immune to ethnic chemistry penalties and provides this immunity to teammates."
+    },
+    {
+      "tag": "Hollywood Ending",
+      "desc": "After baseball, became a Hollywood electrician and bit actor. +1 reputation in entertainment-heavy cities."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Restaurant / Italian Kitchen",
+      "affinity": "HIGH",
+      "note": "Beat an ostrich at spaghetti. Food was central to his identity."
+    },
+    {
+      "location": "Clubhouse / Locker Room",
+      "affinity": "HIGH",
+      "note": "Always the center of attention. Pranks, jokes, one-liners."
+    },
+    {
+      "location": "Hollywood / Movie Set",
+      "affinity": "HIGH",
+      "note": "Worked as electrician and bit actor at Universal Studios for 32 years."
+    },
+    {
+      "location": "San Francisco",
+      "affinity": "HIGH",
+      "note": "Born in Cow Hollow. Rolled rocks on Telegraph Hill as a kid. Died there at 74."
+    },
+    {
+      "location": "Press Box / Media",
+      "affinity": "HIGH",
+      "note": "Gave great quotes. Inspired Ring Lardner's You Know Me Al."
+    },
+    {
+      "location": "Spring Training",
+      "affinity": "HIGH",
+      "note": "The ostrich contest happened in Jacksonville. Pranks were spring training specialties."
+    },
+    {
+      "location": "Library / Quiet Places",
+      "affinity": "LOW",
+      "note": "Bodie was never quiet. 'Did you see the way I smacked the old onion around?'"
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Bad teams that need a hero — Bodie thrived as the lone bright spot on awful clubs",
+      "Big crowds — the showman played up to the audience",
+      "Early-season confidence — his rookie year (.289, 97 RBI) and best seasons started strong",
+      "Italian pride moments — performing well in front of Italian American fans in New York"
+    ],
+    "cold_triggers": [
+      "Clashes with managers — Callahan sent him to the minors in 1914",
+      "Weight fluctuations — Bodie's conditioning was inconsistent",
+      "Late-career decline — slumped below .200 in 1921 and was traded/released"
+    ],
+    "pressure_response": "UNTESTED-PROBABLE LOW. Bodie never reached the World Series as a regular player. He was denied a WS share in 1921. His personality suggests he'd either be spectacularly clutch (the showman rises) or spectacularly bad (the pressure overwhelms the clown). In ILB: Bodie is a wild card in October — flip a coin."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Ostrich Contest",
+      "type": "Drama",
+      "text": "Your slugger is challenged to an eating contest against an ostrich during spring training. He eats 12 plates of spaghetti. The ostrich collapses at 11. Your player gains +2 fan loyalty and the 'Iron Stomach' trait. National media coverage ensues.",
+      "origin": "In 1919 spring training in Jacksonville, Bodie defeated Percy the ostrich in a spaghetti-eating contest, 12 plates to 11, before Percy collapsed."
+    },
+    {
+      "title": "Rooming with the Suitcase",
+      "type": "Action",
+      "text": "Your player is assigned to room with the most famous athlete in the world. The superstar is never there. When asked about it, your player delivers an immortal one-liner. +3 reputation. The quote lives forever.",
+      "origin": "'I don't room with Ruth — I room with his suitcase.' The most famous roommate quote in sports history."
+    },
+    {
+      "title": "The 52-Ounce Bat",
+      "type": "Game Action",
+      "text": "Your slugger swings the heaviest bat in baseball — 52 ounces. Every hit makes a distinctive PING. On contact, 25% chance of extra-base hit. On a miss, -1 SPD next at-bat (bat weight slows recovery).",
+      "origin": "Bodie's nickname came from the distinctive 'ping' sound his 52-ounce bat made on contact — the heaviest bat in baseball."
+    },
+    {
+      "title": "Only Attraction in Town",
+      "type": "Action",
+      "text": "Your team is historically bad. Your best player declares himself the city's only attraction. He gains +2 fan loyalty while all other players lose -1. Attendance actually increases because people come to see him.",
+      "origin": "Playing for one of the worst A's teams ever in 1917, Bodie declared: 'I and the Liberty Bell are the only attractions in Philadelphia.'"
+    },
+    {
+      "title": "You Know Me Al",
+      "type": "Drama",
+      "text": "A famous writer uses your player as inspiration for a fictional character. The fictional character becomes more famous than the real player. +3 cultural reputation. But -1 personal reputation (people remember the fiction, not the man).",
+      "origin": "Bodie is widely credited as a primary inspiration for Ring Lardner's Jack Keefe in the beloved Saturday Evening Post series 'You Know Me Al.'"
+    },
+    {
+      "title": "The Name Change",
+      "type": "Drama",
+      "text": "Your player changes his name to avoid ethnic discrimination. He loses his family identity but gains acceptance. He opens the door for future players of his background. +1 pioneer reputation. Future players of his heritage gain +1 chemistry with him.",
+      "origin": "Francesco Stephano Pezzolo became Ping Bodie, taking the name of a California ghost town, to escape the discrimination Italian Americans faced in early 1900s America."
+    },
+    {
+      "title": "Put Me in the Lineup",
+      "type": "Action",
+      "text": "Your rookie demands to play. He goes directly to the owner and says 'You want hitting? Put me in.' The owner overrides the manager. The rookie produces — .289 with 97 RBI in his first year.",
+      "origin": "When Bodie was benched by the White Sox, he went directly to owner Charles Comiskey and demanded to play. Comiskey told manager Hugh Duffy to put him in. Bodie hit .289 with 97 RBI."
+    },
+    {
+      "title": "Larceny and Honest Feet",
+      "type": "Game Action",
+      "text": "Your slugger attempts to steal a base. He is thrown out spectacularly. A sportswriter pens an immortal line about the attempt. -1 SB but +2 entertainment value.",
+      "origin": "Bugs Baer, writing for Hearst: 'He was thrown out trying to steal second. His head was full of larceny but his feet were honest.'"
+    }
+  ],
+
+  "art_direction": {
+    "face": "Round, expressive Italian face with a broad smile and mischievous dark eyes. Stocky — 5'8\" 195 lbs, built like a fireplug. Thick neck, strong jaw, dark hair. The face of a man who just beat an ostrich at spaghetti and wants you to know about it. Warmth and humor radiate from every feature.",
+    "attire": "Philadelphia Athletics 1917 whites with the elephant emblem. The uniform strains over his stocky frame. The massive 52-oz bat visible — it should look comically large. Mid-swing with full force, or posing with the bat over his shoulder and that trademark grin. The bat is the star of the show.",
+    "mood": "Pure joy. Not intensity, not determination — delight. Bodie played baseball because it was fun, and that should come through in every pixel. The most lighthearted card in the ILB set. Where Cobb is terrifying and Young is serene, Bodie is laughing.",
+    "style": "Warm, golden sepia — the warmest card in the set, reflecting Bodie's San Francisco Italian roots and sunny personality. The background hints at San Francisco or Hollywood — bay water, Telegraph Hill, or a movie studio. Ornate tobacco-card border with subtle Italian motifs (grape vines, olive branches). The paper should look well-loved — this is the card everyone passed around because the story on the back was too good not to share.",
+    "reference": "Think of the T206 card you'd hang on your wall not for its value but because it makes you smile. ILB sepia at its most joyful. Bodie should look like the card that proves baseball isn't just about stats — it's about characters. The most fun card in the entire collection."
+  },
+
+  "badges": [
+    "Italian American Pioneer",
+    "Beat an Ostrich",
+    "Ruth's Roommate",
+    "Inspired 'You Know Me Al'",
+    "Hollywood Electrician",
+    "52-oz Bat"
+  ]
+}

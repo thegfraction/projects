@@ -1,0 +1,200 @@
+{
+  "card_type": "hitter",
+  "name": "Kiki Cuyler",
+  "nickname": "The Flint Flash",
+  "year": 1925,
+  "team": "Pittsburgh Pirates",
+  "era": "1920s",
+  "ilb_team": "Bashers AL1920",
+  "position": "RF",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'10\"",
+  "weight": "180 lbs",
+  "born": "August 30, 1898 — Harrisville, Michigan (as Hazen Shirley Cuyler)",
+  "died": "February 11, 1950 — Ann Arbor, Michigan (age 51). Heart attack. Coaching for the Red Sox. Died 18 years before his HOF induction.",
+  "hof": "INDUCTED 1968 (Veterans Committee — posthumous). .321 career BA, 2,299 H, 328 SB, 157 3B, 1,305 R. Led NL in SB 4x, runs 2x. 10x .300 hitter. The 1925 WS hero who was benched for the 1927 WS. 'Cuyler can hit, run, field and throw with the best of em.' Elected 18 years after his death — the accomplishments too great to be obscured by time.",
+
+  "real_stats": {
+    "season": 1925,
+    "batting_avg": ".357",
+    "obp": ".419",
+    "slg": ".598",
+    "ops": "1.017",
+    "hits": 220,
+    "doubles": 43,
+    "triples": 26,
+    "home_runs": 18,
+    "rbi": 102,
+    "runs": 144,
+    "stolen_bases": 41,
+    "total_bases": 369,
+    "games": 153,
+    "war": 7.4,
+    "inside_the_park_hr": 8,
+    "mvp_voting": "2nd (behind Hornsby's .403)",
+    "career_batting_avg": ".321",
+    "career_hits": 2299,
+    "career_doubles": 394,
+    "career_triples": 157,
+    "career_hr": 128,
+    "career_rbi": 1065,
+    "career_runs": 1305,
+    "career_sb": 328,
+    "career_sb_titles": 4,
+    "ws_1925": ".269 BA, 2 HR (incl. Game 2), Game 7 winning double vs Walter Johnson"
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "con": 4,
+    "pow": 2,
+    "spd": 5,
+    "def": 2,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "con": "Cuyler hit .357 in 1925 with 220 hits — tying the Pirates single-season record. He tied the NL record with 10 consecutive hits over three games (September 18-21), then went 4-for-4 the next game for 14 hits in 16 at-bats. Career: .321 BA, 2,299 hits, 10x .300 seasons. He batted over .350 four times. Aggressive first-pitch hitter who attacked the ball. Fred Clarke: 'Cuyler might become a second Cobb.' Rating: 4.",
+    "pow": "Cuyler hit 18 HR with 43 2B, 26 3B, and 369 total bases in 1925. The .598 SLG and 1.017 OPS are impressive. But the power was gap-based — the 26 triples (2nd most post-1900) and 8 inside-the-park home runs tell the story: Cuyler drove the ball into gaps and ran it into extra bases. Only 10 of his 18 HR cleared a fence. The power was RUNNING power, not fence power. In 1925's high-offense era, 18 HR from an outfielder is moderate. Rating: 2.",
+    "spd": "The defining attribute. 41 SB in 1925 (led NL 4x in career, 328 career SB). 26 triples — 2nd most in any post-1900 season. 8 inside-the-park home runs. 'The Flint Flash.' Max Carey, who led the NL in steals 10 times, tutored Cuyler in baserunning technique. Cuyler was also an all-star basketball player in offseasons — the athletic base was extraordinary. This is the fastest card in the entire Bashers set. Sam Rice (SPD 4) is fast. Cuyler is faster. Rating: 5.",
+    "def": "Cuyler had 'a powerful arm' and elite range from his speed. He played all three outfield positions (RF, CF, LF) effectively. SABR: 'Blessed with uncanny speed, quick reflexes, and a powerful arm.' He was not a transcendent defensive player but the speed made him excellent in the outfield. Rating: 2.",
+    "clu": "1925 World Series, Game 7, bottom of the 8th inning. Score tied 7-7. Bases loaded. Two outs. The pitcher is Walter Johnson — the Big Train, widely considered the greatest pitcher who ever lived. Johnson had already won Games 1 and 4 of this series. The Pirates trailed 3-1 in games and came back. Cuyler swung. The ball rocketed down the right field line, dropped fair, rolled into the tarp — ruled a ground-rule double. Two runs scored. Pirates 9, Senators 7. It held. First time a team had ever come back from a 3-1 deficit in a best-of-7 World Series. Cuyler also hit a 2-run HR in Game 2. Maximum clutch — the defining hit, against the greatest pitcher, in the ultimate game. The benching is a character trait, not a CLU failure. Rating: 3."
+  },
+
+  "personality": {
+    "leadership_style": "QUIET EXAMPLE. Cuyler was not a vocal leader. He was 'polite, shy, and kind.' 'A model on and off the field.' He led by being the best player on the field, not by talking. The stutter may have contributed to the reticence — a man who struggled with his own name learned to let his bat speak instead. Joe Cronin: 'He was one of the finest and cleanest living fellows I ever met in baseball. Cuyler was an established star when I joined the Pirates in 1925 but he was always willing to help.'",
+    "temperament": "SHY LONER WITH A STUBBORN STREAK. 'He was a loner. He kept to himself. He liked to dance, and he'd go out, never palled around with a single player on the club. They didn't really dislike him, but he wasn't one of the boys.' (Woody English). But beneath the shyness was stubbornness — he held out after 1925, feuded with Donie Bush, refused to break up a double play. The loner had a spine. The shy man had pride. It cost him a World Series.",
+    "work_ethic": "ATHLETIC AND DEDICATED. Cuyler attended West Point during WWI. He worked in the Buick factory in Flint after the war. He didn't sign a professional baseball contract until age 22 — older than most prospects. He hit .254 in his first minor league season. He became a Hall of Famer. The work ethic was not flashy — it was patient, persistent, and ultimately explosive. The Flint Flash was a slow burn before he was a flash.",
+    "lifestyle": "SMALL-TOWN MICHIGAN. Born in Harrisville (population tiny), attended West Point, worked at Buick in Flint, signed at 22, played until 38. Devout Catholic — signed the cross before every at-bat, rare in the 1920s. Played all-star basketball in offseasons. His son opened Ki Cuyler's Bar & Grill in Harrisville after his death (burned down 2018). Coached for Cubs and Red Sox after playing. Died at 51 — heart attack, like Shocker, like so many 1920s players whose hearts gave out too soon.",
+    "era_adaptability": "VERY HIGH. Cuyler's skill set — speed, contact, gap power, defensive versatility — is the template for the modern five-tool outfielder. He'd be a centerfielder in today's game, batting leadoff or third, stealing 40+ bases, hitting .300, playing elite defense. The inside-the-park home run power wouldn't translate (modern fences), but the stolen bases, triples-to-doubles conversion, and line-drive approach would make him an MVP candidate in any era.",
+    "clubhouse_impact": "NEUTRAL TO SLIGHTLY NEGATIVE. The loner quality meant Cuyler didn't build deep clubhouse bonds. He wasn't disliked — 'they didn't really dislike him' — but he wasn't embraced either. The stubbornness with Bush damaged team chemistry in 1927. In ILB, Cuyler provides +0 to team morale but +3 to team offensive production. He makes teams better without making them closer.",
+    "dark_side": "THE BENCHING. Kiki Cuyler hit .357 and won the 1925 World Series. Two years later, he was the best hitter on a pennant-winning team and DID NOT PLAY A SINGLE GAME in the 1927 World Series. He sat on the bench while the Pirates were swept by Ruth, Gehrig, and Murderers' Row. The 'Cuyler Case' almost overshadowed the Series itself. The fans wanted him. The manager didn't. The shy stutterer could not talk his way back into the lineup. The bat that beat Walter Johnson went silent when it mattered most — not because it failed, but because it was never allowed to swing."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Flint Flash",
+      "desc": "41 SB, 26 3B, 8 IPHR. 328 career SB. Fastest card in the Bashers. In ILB, Cuyler has +3 to baserunning, +2 to defensive range, and +1 to infield hit probability. Speed is not just a stat — it is a DIMENSION of play that affects everything."
+    },
+    {
+      "tag": "The Stutter",
+      "desc": "Cuyler stuttered — the nickname 'Kiki' may have originated from the way he said his own name. In ILB, Cuyler has -1 to all verbal interactions (negotiations, arguments with umpires, clubhouse speeches). But +1 to all non-verbal expression (the bat, the legs, the glove). The stutter taught him to communicate through action."
+    },
+    {
+      "tag": "Game Seven",
+      "desc": "1925 WS, Game 7, 8th inning, bases loaded, game tied 7-7, two outs, facing Walter Johnson. Two-run ground-rule double. First 3-1 comeback in WS history. In ILB, when Cuyler bats with bases loaded in a tie game in October, +3 to all offensive stats. This is the signature moment. It cannot be replicated in regular season play."
+    },
+    {
+      "tag": "The Benching",
+      "desc": "1927: Best hitter on a pennant-winning team. Benched by Donie Bush. Did not play in the World Series. Pirates swept by Yankees. In ILB, Cuyler has a non-zero chance of being benched by manager conflict. Roll d20 at start of each month: on 1, benched for the month. Cannot be overridden. The pride and the stubbornness are inseparable from the talent."
+    },
+    {
+      "tag": "Rice's Catch",
+      "desc": "1925 WS Game 3: Sam Rice tumbled over the fence catching Cuyler's line drive. Or did he? Rice's sealed letter wasn't opened until 1974. In ILB, when Cuyler and Rice are in the same game, one spectacular defensive play per game is UNCERTAIN — the result is sealed and revealed only after the game ends."
+    },
+    {
+      "tag": "The Catholic Sign",
+      "desc": "Devout Catholic. Signed the cross before every at-bat — rare in the 1920s. In ILB, Cuyler has +1 to composure in high-pressure situations. The ritual centers him. The faith is the foundation beneath the speed."
+    },
+    {
+      "tag": "Carey's Student",
+      "desc": "Max Carey — 10x NL stolen base leader — tutored Cuyler in baserunning: sliding technique, avoiding pickoffs, reading pitchers. In ILB, if Cuyler has played alongside a SPD 3+ teammate previously, his SB success rate improves permanently by 10%. The student eventually surpassed the teacher."
+    },
+    {
+      "tag": "The Factory Worker",
+      "desc": "Cuyler worked at the Buick plant in Flint, Michigan before signing at age 22. Hit .254 his first minor league season. In ILB, Cuyler has +1 to late-career durability. Men who worked in factories before playing baseball understood that baseball was easier than real work. The baseline was iron."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "1925 WS Game 7: the double that beat Walter Johnson. 1924-1927 — the years when 'Cuy Cuy' echoed through the stands at Forbes Field. .336 career BA with the Pirates (3rd all-time)."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "41 SB, 26 3B, 8 IPHR in 1925 alone. The basepaths were his canvas. He painted them with speed."
+    },
+    {
+      "location": "Bar/Nightlife",
+      "affinity": "HIGH",
+      "note": "1928-1935 with the Cubs at Wrigley. .328 BA. 228 H in 1930. Two NL pennants. The second life after Pittsburgh."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "Born in Harrisville. Buried there. His son's bar was there until it burned down in 2018. Cuyler Park hosts an annual old-timers game."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "LOW",
+      "note": "Sat on the bench while the Pirates were swept by Murderers' Row in 1927. The bat that beat Walter Johnson went silent — not because it failed, but because it was never allowed to swing."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Postseason — 1925 WS: .269 BA, 2 HR, the Game 7 double. Cuyler elevated in October. The bigger the moment, the better the bat.",
+      "Late-season surges — .385 by mid-August 1925. 14 hits in 16 at-bats in late September. Cuyler finished seasons in 'a blaze of glory.'",
+      "Running — when Cuyler was on the bases, everything accelerated. Stolen bases led to runs, runs led to wins, wins led to confidence.",
+      "New teams — .285 his first year with the Cubs (injured), then .360 the next. The fresh start unlocked him."
+    ],
+    "cold_triggers": [
+      "Manager conflict — the Bush feud destroyed his 1927 season. Cuyler's stubbornness meant the dispute could not be resolved quietly.",
+      "Injuries — torn ankle ligaments (1927), injured hand running into wall (1928). The speed made him reckless. The recklessness cost him games.",
+      "Second-half fades — .381 by June 11, 1926, then .288 in the second half. The blazing starts sometimes burned out.",
+      "Isolation — the loner quality meant no one advocated for him when Bush benched him. No clubhouse allies to broker peace."
+    ],
+    "pressure_response": "TRANSCENDENT IN OCTOBER, FRAGILE IN POLITICS. Cuyler is the most paradoxical CLU card in the Bashers. He hit the WS-winning double against Walter Johnson in Game 7 — maximum clutch. But he was benched for the NEXT World Series by his own manager. The athletic pressure? He thrived. The interpersonal pressure? He crumbled. CLU = 3 reflects the on-field reality. The Benching reflects the off-field cost."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Bases Loaded, Walter Johnson",
+      "type": "Drama",
+      "text": "October 15, 1925. Forbes Field, Pittsburgh. Game Seven. Rain falling. Fog so thick the outfielders are shadows. Score tied 7-7. Bottom of the eighth. Two outs. Bases loaded. The pitcher is Walter Johnson — the Big Train, the greatest pitcher alive, winner of Games 1 and 4, pitching on a lame leg in the rain. Your right fielder steps in. He has hit .357 this season with 26 triples and 18 home runs. He signs the cross. Johnson pitches. Your right fielder swings. The ball rockets down the right field line. It drops fair. It rolls into the tarp. Two runs score. The umpires rule it a ground-rule double. Pirates 9, Senators 7. It holds. The World Series is over. Your right fielder has beaten Walter Johnson with the bases loaded in a tie game in the eighth inning of Game Seven. No team had ever come back from 3-1 to win a best-of-seven World Series. Until now.",
+      "origin": "1925 WS Game 7 — Cuyler's 2-run ground-rule double off Walter Johnson. First 3-1 comeback in WS history."
+    },
+    {
+      "title": "The Bench",
+      "type": "Drama",
+      "text": "1927. Your right fielder has hit .357, won the World Series, and led the National League in stolen bases. He is the most popular player in Pittsburgh. The fans chant his name — Cuy-Cuy, Cuy-Cuy — at Forbes Field. His new manager does not like him. On August 6, your right fielder fails to slide into second base on a force play. He is fined fifty dollars. He is benched. He does not start another game for the rest of the season. The Pirates win the pennant. They face the New York Yankees — Ruth, Gehrig, Murderers' Row — in the World Series. Your right fielder sits on the bench for all four games. He does not play. The Pirates are swept. The 'Cuyler Case' almost overshadows the Series itself. Your right fielder is traded to Chicago. The bat that beat Walter Johnson never swings in Pittsburgh again.",
+      "origin": "The Cuyler-Bush feud, 1927. Cuyler benched for the season and the WS. Traded to Cubs."
+    },
+    {
+      "title": "Cuy Cuy",
+      "type": "Drama",
+      "text": "Your right fielder's real name is Hazen Shirley Cuyler. He stutters. When he tries to say his own name, it comes out doubled — Cuy-Cuy, Cuy-Cuy. Or: every time he chases a fly ball, the shortstop yells 'Cuy' and the second baseman echoes 'Cuy' and the fans start chanting 'Cuy Cuy' and the papers shorten it to Kiki. Either way: the name is an echo. The stutterer's echo. The fielder's echo. The crowd's echo. The name became the man. Kiki Cuyler — pronounced like two eyes opening.",
+      "origin": "Two origin stories for 'Kiki' — the stutter or the fielding calls. Both involve repetition, echo, doubling."
+    },
+    {
+      "title": "The Factory and the Flash",
+      "type": "Action",
+      "text": "Your right fielder attended West Point during the war. When the war ended, he went to work at the Buick plant in Flint, Michigan. He played industrial league baseball on weekends. At twenty-two — ancient for a prospect — he signed with the Michigan-Ontario League team in Bay City. He hit .254 his first year. He hit .354 his second year in the majors. The Flint Flash was not born fast. He was built in a factory, tested on an assembly line, and released into the world two years late, fully formed, and running.",
+      "origin": "Cuyler's path: West Point → Buick factory in Flint → minor leagues at 22 → .354 rookie season in Pittsburgh at 25."
+    },
+    {
+      "title": "Rice's Catch",
+      "type": "Drama",
+      "text": "1925 World Series, Game 3. Your right fielder hits a line drive to right field. Washington's Sam Rice races to the fence. He leaps. He tumbles over the railing into the stands. He disappears. Seconds pass. He emerges with the ball. The umpire calls your right fielder out. The Pirates protest — a fan stuffed the ball into Rice's glove. Rice says nothing. He says nothing for forty-nine years. When he dies in 1974, a sealed letter is opened: 'At no time did I lose possession of the ball.' Your right fielder's line drive became the most famous catch — or non-catch — in World Series history. Two sealed letters in this set: Rice's catch and Rice's tornado. Both involve balls that disappeared and men who kept secrets.",
+      "origin": "Sam Rice's controversial catch in the 1925 WS Game 3 — the ball Cuyler hit. Rice's sealed letter opened after his death in 1974."
+    },
+    {
+      "title": "Twenty-Six Triples",
+      "type": "Game Action",
+      "text": "1925. Your right fielder hits twenty-six triples. Twenty-six. The second most in any season after 1900. He also steals forty-one bases and hits eight inside-the-park home runs. He scores one hundred forty-four runs. He has three hundred sixty-nine total bases. The Pirates' record. Everything about this season is RUNNING — running to first, running to second, running to third, running home. The ball leaves the bat and the legs take over. The Flint Flash doesn't hit home runs over fences. He hits triples into gaps and arrives before the throw. The speed is the power.",
+      "origin": "Cuyler's 26 3B in 1925 — 2nd most in any post-1900 season. Combined with 41 SB and 8 IPHR."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'10\" 180 lbs — compact, athletic, FAST-looking. A handsome, shy face — the kind of face that looks away from the camera. Brown eyes that are alert but not assertive. There is something GENTLE in this face, something that doesn't match the violence of the swing or the aggression of the steal. This is the face of a man who signs the cross before he swings, who stutters when he says his own name, who dances alone at night. The shyness is not weakness — it is the shell around the speed.",
+    "attire": "Pittsburgh Pirates 1925 home whites. In full sprint — rounding second, heading for third, body leaning into the turn, dust rising. Or: in the batter's box, making the sign of the cross, bat cocked, eyes already reading the pitch. The body should look FAST even when still — the way a sprinter looks fast at the starting blocks before the gun fires. The uniform should be dirty — Cuyler slid, Cuyler dove, Cuyler ran into walls.",
+    "mood": "BRIGHT SPEED. This is the brightest card in the Bashers — not golden like Heilmann, not warm like Uhle, but ELECTRIC. The mood is the moment between the bat crack and the ball landing — that instant of pure kinetic possibility when nobody knows if it's a single, a double, or a triple. The mood is RUNNING. The mood is also SHY — there is a quiet center inside the speed, a stillness inside the flash. The cross before the swing.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Vivid greens (Forbes Field grass), sharp blacks (Pirates uniform), speed-blur whites. The border bright green — the color of fresh-cut outfield grass, the color of the gap where triples are born. THE ECHO — Cuy-Cuy, the name that doubles itself, the speed that multiplies. The card vibrates.",
+    "reference": "Ruth is the solar system. Gehrig is the axis. Rice is the sealed envelope. Cuyler is THE ECHO — the sound that doubles, the name that repeats, the speed that reverberates. He is the fastest object in the Bashers constellation — the one that moves so quickly it appears to be in two places at once. First base and third base. The batter's box and the outfield. The 1925 World Series and the 1927 bench. The hero and the exile. Cuy-Cuy."
+  }
+}

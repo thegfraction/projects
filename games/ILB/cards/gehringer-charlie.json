@@ -1,0 +1,225 @@
+{
+  "card_type": "player",
+  "name": "Charlie Gehringer",
+  "nickname": "The Mechanical Man",
+  "year": 1936,
+  "team": "Detroit Tigers",
+  "era": "1930s",
+  "ilb_team": "Crashers AL1930",
+  "position": "2B",
+  "bats": "L",
+  "throws": "R",
+  "height": "5'11\"",
+  "weight": "180 lbs",
+  "born": "May 11, 1903 — Fowlerville, MI (farm in Iosco Township)",
+  "died": "January 21, 1993 — Bloomfield Hills, MI (age 89)",
+  "hof": "Class of 1949 (BBWAA runoff, 85%). #2 retired by Tigers (1983).",
+
+  "real_stats": {
+    "season": 1936,
+    "games": 154,
+    "at_bats": 641,
+    "hits": 227,
+    "doubles": 60,
+    "triples": 12,
+    "home_runs": 15,
+    "rbi": 116,
+    "stolen_bases": 4,
+    "batting_avg": ".354",
+    "obp": ".431",
+    "slg": ".555",
+    "ops": ".986",
+    "ops_plus": 148,
+    "war": 7.6,
+    "gold_gloves": 0,
+    "silver_sluggers": 0,
+    "all_star": 6,
+    "career_avg": ".320",
+    "career_hits": 2839,
+    "career_hr": 184,
+    "career_sb": 182,
+    "career_war": 80.5
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "con": 5,
+    "pow": 2,
+    "spd": 1,
+    "def": 3,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": ".354 BA in 1936 with a career-low 13 strikeouts in 641 AB — one K every 49.3 at-bats, near-impossible plate discipline. .371 in 1937 MVP year (beat DiMaggio and Gehrig). Career .320. Seven 200-hit seasons. Led AL in hits twice, runs twice. Rick Ferrell: 'He hit more line drives and met the ball more solidly than any hitter.' Del Baker: 'Let him come to bat two strikes down and he wouldn't bat more than 15 points under his average.'",
+    "pow": "15 HR in 1936, 184 career. Not a slugger — a doubles machine. 60 doubles in 1936 (only 6 players in history have done that). 574 career doubles (19th all-time). SLG .555 in 1936 earns the bonus. His power was gap-to-gap line drives, not over the fence.",
+    "spd": "4 SB in 1936, but led AL with 27 SB in 1929. Career 182 SB. Good athlete who slowed with age. Two consecutive-game streaks of 500+ games shows durability. Elite range at 2B — Sewell said he 'coasted around like somebody skating.' Rating of 1.",
+    "def": "Among the greatest defensive second basemen in history. Led AL 2B in fielding percentage 7 times, assists 7 times. At retirement: #1 all-time in DP turned (1,444), #2 in assists (7,068), #6 in putouts (5,369). Joe Sewell: 'I couldn't hit a ball past him. He'd just coast around that infield, just like somebody skating.' H.G. Salsinger: 'He lacks showmanship but has polish no other 2B since Napoleon Lajoie ever had.' Pre-GG equivalent of 6+ Gold Gloves. Maximum defense.",
+    "clu": ".321 BA in 20 World Series games across 3 Fall Classics (1934, 1935, 1940). .375 in the 1935 WS championship. .379 in the 1934 WS (loss). HR off Dizzy Dean in 1934 WS Game 5. .500 BA in first 6 All-Star Games (10-for-20). Excellent but lacks a single transcendent clutch moment. Rating of 2."
+  },
+
+  "personality": {
+    "leadership_style": "Lead by Silent Example. Gehringer was the anti-showman — a player whose excellence was so quiet it could be mistaken for passivity. He wasn't a rah-rah leader. He was a metronome. Every day, the same preparation, the same execution, the same results. Mickey Cochrane: 'He says hello on Opening Day, goodbye on Closing Day, and in between hits .350.' His leadership was in the reliability. You never had to wonder about Gehringer.",
+    "temperament": "Quiet to the point of legend. At a civic banquet in his honor, his entire speech was: 'I'm known around baseball as saying very little, and I'm not going to spoil my reputation.' When asked why he signed his name 'Chas. Gehringer,' he said: 'Why use seven letters when four will do?' Not cold — just private. Teammates respected the silence because it came with .320 and flawless defense.",
+    "work_ethic": "Machine-like. Ty Cobb: 'He'd say hello at the start of Spring Training and goodbye at the end of the season and the rest of the time he let his bat and glove do all the talking.' Two consecutive-game streaks of 500+ games. Played every inning of the first 6 All-Star Games. Career-low 13 K in 641 AB in 1936. This isn't talent alone — it's relentless, invisible preparation.",
+    "lifestyle": "Modest and private. Grew up on a Michigan farm. Worked as a department store clerk and sold coal in the off-season early in his career. Didn't marry until age 46 — delayed because he moved his diabetic mother in with him and didn't want to burden a wife. Became wealthy through an auto accessories business (Gehringer & Forsyth). Quiet life in Beverly Hills, Michigan. No children. Died at 89.",
+    "era_adaptability": "MAXIMUM. Gehringer's game — contact hitting, plate discipline, elite defense, durability — translates to every era. He struck out 13 times in 641 AB. Modern analytics would worship him. He's the prototype of the modern 'complete second baseman.'",
+    "clubhouse_impact": "MODERATE-HIGH. Not a vocal presence but a calming, stabilizing force. His consistency raised the floor of every team he was on. Cochrane called him 'the ideal player from the managerial standpoint.' He never caused problems, never needed managing, never had a bad stretch. The clubhouse impact of a metronome: you set your watch to him.",
+    "dark_side": "Almost none — which is itself a kind of story. Gehringer lived one of the quietest, most dignified lives in baseball history. The 'darkness' is the loneliness: a bachelor until 46, living with his sick mother, private to the point of isolation. Bucky Harris: 'I've never seen one man hit in so much hard luck, consistently. Year after year, he leads the league in line drives right at somebody. No wonder he looks so sad.' Was he sad? Or just quiet? The Mechanical Man gives nothing away."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Mechanical Man",
+      "desc": "Immune to hot/cold streaks. Gehringer's performance variance is the lowest of any card. He never goes on a tear; he never slumps. He just hits .330."
+    },
+    {
+      "tag": "Silent Marvel",
+      "desc": "+1 team stability. Gehringer's quiet consistency prevents morale collapse events. His presence steadies the clubhouse without anyone noticing."
+    },
+    {
+      "tag": "Wind Him Up",
+      "desc": "At season start, Gehringer automatically enters 'steady' state. No hot/cold triggers affect him for the first 40 games. Lefty Gomez: 'Wind him up in the spring and shut him off in the fall.'"
+    },
+    {
+      "tag": "Iron Man",
+      "desc": "Injury risk reduced by 50%. Two consecutive-game streaks of 500+. Played every inning of 6 straight All-Star Games. The machine doesn't break down."
+    },
+    {
+      "tag": "Cobb's Protégé",
+      "desc": "+1 CON when mentored by an elite manager. Cobb taught him to swing. Cochrane managed him to the pennant. He thrived under strong leadership."
+    },
+    {
+      "tag": "G-Men Infield",
+      "desc": "Synergy with Hank Greenberg, Goose Goslin, Mickey Cochrane. 3+ Tigers dynasty players = +1 DEF for all infielders."
+    },
+    {
+      "tag": "Farm Boy",
+      "desc": "+1 durability. Grew up doing farm labor in rural Michigan. Built for endurance, not flash."
+    },
+    {
+      "tag": "The Bachelor",
+      "desc": "-1 social/nightlife engagement. Gehringer went home. He didn't carouse. This protects him from nightlife penalties but limits team-bonding events."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Invisible preparation. Always ready, never flashy about it.",
+      "note_extra": "Source labeled 'Batting Cages / Practice Field' — mapped to Practice Field per standard collision taxonomy."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "The bachelor goes to his room. Private, recharged by solitude.",
+      "note_extra": "Source labeled 'Hotel / Rest' — direct pass-through to Hotel/Rest node."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "HIGH",
+      "note": "Learned to play right-handed despite being a lefty. Lifelong passion.",
+      "note_extra": "Source labeled 'Golf Course' — mapped to Library/Quiet Spot as solitary leisure/private activity node. First Golf Course entry in the set."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Respected authority but didn't seek it out. Let his play do the talking.",
+      "note_extra": "Source labeled 'Manager's Office' — mapped to Hotel/Rest per recurring Manager's Office collision taxonomy. Second Hotel/Rest entry on this card (HIGH from actual hotel solitude, MEDIUM from manager relationship)."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "LOW",
+      "note": "Too shy. Avoided the spotlight. Skipped his own HOF induction for his wedding.",
+      "note_extra": "Source labeled 'Community Events' — direct pass-through."
+    },
+    {
+      "location": "Bar/Nightlife",
+      "affinity": "NONE",
+      "note": "The Mechanical Man didn't go out. He went home.",
+      "note_extra": "Source labeled 'Bar / Nightlife' — direct pass-through."
+    },
+    {
+      "location": "Gambling Hall",
+      "affinity": "NONE",
+      "note": "No association whatsoever.",
+      "note_extra": "Source labeled 'Gambling Hall' — direct pass-through. Double NONE (Bar/Nightlife and Gambling Hall both NONE) — first card in the set with both simultaneously at minimum."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "N/A — The Mechanical Man doesn't get 'hot.' He's always at operating temperature.",
+      "All-Star Games (historically .500 in 6 games — he elevated for showcases)",
+      "World Series (.321 career — performed under pressure without drama)",
+      "Stable team environment with strong manager (Cochrane era)"
+    ],
+    "cold_triggers": [
+      "Extremely rare — his floor is so high that cold streaks barely register",
+      "Managerial instability (struggled early under lesser managers before Cochrane)",
+      "Being benched or losing starting role (happened twice as a young player — devastated him quietly)",
+      "Sore arm (1930-31 — only significant injury of career)"
+    ],
+    "pressure_response": "STEADY. Gehringer doesn't spike under pressure the way Simmons does — he maintains. .321 in World Series, .500 in All-Star Games, .375 in the 1935 championship series. He doesn't become superhuman in October; he just doesn't decline. The machine operates at the same level regardless of the stakes."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Mechanical Man",
+      "type": "Action",
+      "text": "Your 2B enters 'Machine Mode' for the next 20 games. His stats cannot be modified by any hot/cold triggers, momentum shifts, or morale events. He just produces.",
+      "origin": "Lefty Gomez: 'You wind him up in the spring, turn him loose, he hits .330 or .340, and you shut him off at the end of the season.'"
+    },
+    {
+      "title": "Sixty Doubles",
+      "type": "Game Action",
+      "text": "Your highest-CON hitter converts all singles into doubles for 3 games. Gap power activated — every ball finds the alley.",
+      "origin": "1936: Gehringer led MLB with 60 doubles — one of only six players in history to reach that mark. He also struck out just 13 times."
+    },
+    {
+      "title": "Discovered on a Hunting Trip",
+      "type": "Drama",
+      "text": "A scout discovers an unknown amateur player while on vacation. Sign him for $500 or less. 40% chance he becomes a Hall of Famer; 60% chance he's a solid regular.",
+      "origin": "Bobby Veach heard about Gehringer while hunting in Fowlerville. Ty Cobb was so impressed he signed him on the spot without changing out of his uniform."
+    },
+    {
+      "title": "Hello and Goodbye",
+      "type": "Drama",
+      "text": "Your quietest player says nothing all season but hits .350. Team chemistry is unaffected — he neither helps nor hurts morale. But he never misses a game.",
+      "origin": "Cochrane: 'He says hello on Opening Day, goodbye on Closing Day, and in between hits .350.'"
+    },
+    {
+      "title": "The Civic Banquet Speech",
+      "type": "Drama",
+      "text": "Your star player is honored at a public event. His entire speech: one sentence. Crowd loves it. +2 fan appeal for its sheer authenticity.",
+      "origin": "At a civic banquet, Gehringer's speech: 'I'm known around baseball as saying very little, and I'm not going to spoil my reputation.'"
+    },
+    {
+      "title": "Why Use Seven Letters",
+      "type": "Action",
+      "text": "Your most efficient player optimizes the team's strategy. Remove one unnecessary roster move or bullpen change. Saves you one action card this turn.",
+      "origin": "When asked why he signed 'Chas.' instead of 'Charles,' Gehringer said: 'Why use seven letters when four will do?'"
+    },
+    {
+      "title": "The Diamond Behind the Barn",
+      "type": "Drama",
+      "text": "A young prospect grew up playing on a homemade field. If signed, he gains 'Natural Talent': +1 to his best stat permanently.",
+      "origin": "Young Charlie and his brother laid out a diamond behind the barn — a rock for home, a pump handle for first, a cellar door for third, a rain barrel for second."
+    },
+    {
+      "title": "Satchel's Verdict",
+      "type": "Action",
+      "text": "After barnstorming against Negro League stars, your hitter gains respect across all leagues. +1 reputation. Cannot be diminished by racial or league prejudice.",
+      "origin": "Gehringer barnstormed with Satchel Paige, who called him 'the best white hitter I ever pitched against.' Gehringer said facing Paige was 'no fun.'"
+    }
+  ],
+
+  "art_direction": {
+    "face": "Quiet, handsome, serious face — not menacing like Simmons, just focused. 5'11\" 180 lbs — lean, athletic, built for endurance not power. Left-handed batter's stance, clean and mechanically perfect. German-American features, dark hair, calm steady eyes that give nothing away.",
+    "attire": "Detroit Tigers 1936 home whites with the Old English 'D' area (no real logos). Classic wool flannel. Cap straight. Everything neat, everything precise. The uniform of a man who never had a hair out of place.",
+    "mood": "Quiet excellence. Not flashy, not dramatic — just perfect. The fielding stance of a man who makes every play look easy. Or the batting follow-through of a left-handed doubles machine. This card should feel like competence itself.",
+    "style": "Warm sepia tones, softer than Simmons's aggressive amber. Navin Field/Briggs Stadium in background. Late-afternoon Michigan light, golden and gentle. The card you almost overlook — until you see the numbers. Ken Burns documentary aesthetic.",
+    "reference": "Think 1933 Goudey card elegance rendered in ILB sepia style. The anti-highlight-reel card. The card of a man who hit .354 and struck out 13 times."
+  }
+}

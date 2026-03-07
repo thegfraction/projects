@@ -1,0 +1,228 @@
+{
+  "card_type": "hitter",
+  "name": "Johnny Evers",
+  "nickname": "The Crab",
+  "year": 1908,
+  "team": "Chicago Cubs",
+  "era": "1900s",
+  "ilb_team": "Banners",
+  "position": "2B",
+  "bats": "L",
+  "throws": "R",
+  "height": "5'9\"",
+  "weight": "125 lbs",
+  "born": "July 21, 1881 — Troy, NY",
+  "died": "March 28, 1947 — Albany, NY",
+  "hof": "Class of 1946 (Old Timers Committee) — Inducted alongside Tinker and Chance.",
+
+  "real_stats": {
+    "season": 1908,
+    "games": 126,
+    "at_bats": 416,
+    "hits": 125,
+    "doubles": 19,
+    "triples": 6,
+    "home_runs": 0,
+    "rbi": 37,
+    "runs": 83,
+    "stolen_bases": 36,
+    "batting_avg": ".300",
+    "obp": ".402",
+    "slg": ".360",
+    "ops": ".762",
+    "ops_plus": 126,
+    "war": 4.7,
+    "career_avg": ".270",
+    "career_hits": 1659,
+    "career_hr": 12,
+    "career_sb": 324,
+    "career_war": 47.7,
+    "career_obp": ".356",
+    "career_ops_plus": 106,
+    "peak_1912_avg": ".341",
+    "peak_1912_obp": ".431",
+    "ws_1914_avg": ".438",
+    "ws_career_avg": ".316"
+  },
+
+  "ilb_stats": {
+    "ovr": 7,
+    "con": 4,
+    "pow": 0,
+    "spd": 2,
+    "def": 2,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "con": ".300 BA in 1908 (.300-.329 = 4). Career .270 with 106 OPS+. Led NL in OBP in 1912 (.431) and batted .341 that year. Drew 108 walks in 1910. Elite plate discipline for his era — said he could have hit 30 points higher if he'd 'made a specialty of hitting' instead of working counts.",
+    "pow": "0 HR in 1908. 12 HR in entire 18-year career. Didn't hit his first HR until age 24 after 350+ games. At 125 lbs, he was the smallest position player in the NL. Zero power rating is automatic.",
+    "spd": "36 SB in 1908 (31-50 = 3). 49 SB in 1906, 46 in 1907. 324 career SB. Fast and crafty on the bases. Rated 2 rather than 3 because the GG CF/SS bonus doesn't apply to a 2B, and his speed was more about instinct than raw burner ability.",
+    "def": "Pre-Gold Glove era: the middle man of the most famous double-play combination in history (Tinker-to-Evers-to-Chance, immortalized in Franklin P. Adams' 1910 poem). Led NL 2B in fielding %. Acrobatic pivot man. Umpire Bill Klem: 'Johnny Evers was the toughest and meanest man I ever saw on a ball field.' Rating: 2.",
+    "clu": ".316 career WS batting average (.300+ = 2). In 1914 WS: .438 BA as Miracle Braves swept the heavily favored A's. The Merkle play (Sept 23, 1908) is one of baseball's most famous clutch moments — he noticed Merkle didn't touch second, called for the ball, and won the pennant. That's a WS hero moment (+1). Total: 3."
+  },
+
+  "personality": {
+    "leadership_style": "Lead by obsessive intensity and rules mastery. The smartest player on the field at all times. As Braves captain in 1914, he ran teammates ragged in practice and took subpar effort as a personal insult. Rabbit Maranville: 'He'd make you want to punch him, but you knew Johnny was thinking only of the team.'",
+    "temperament": "A 'keen little umpire-fighting bundle of nerves.' His quote: 'My favorite umpire is a dead one.' Constantly ejected, fined, suspended. Bill Klem called him the toughest and meanest man he saw in 36 years of umpiring. High-strung to the point of self-destruction — suffered a full nervous breakdown in 1911.",
+    "work_ethic": "Maniacal. At 125 lbs, he spent off-days wolfing down candy bars to retain weight. Studied the rulebook obsessively — knew rules opponents didn't even know existed (the Merkle play). Co-authored 'Touching Second,' a book on inside baseball strategy.",
+    "lifestyle": "Spartan and tortured. Lost his entire savings in the Emerson Shoe Company collapse (1910). Witnessed his friend George Macdonald's death in a car accident (skull crushed by a trolley). His young daughter Helen died of scarlet fever in 1914, during the Miracle Braves run. His marriage to Helen Fitzgibbons essentially collapsed. Suffered a debilitating stroke in 1942.",
+    "era_adaptability": "HIGH. His value wasn't physical — it was intellectual. The brainiest player in baseball could adapt to any era. He'd be the analytics-obsessed utility man in modern baseball, the guy who knows every obscure rule and every tendency.",
+    "clubhouse_impact": "Extreme positive AND negative. His intensity won pennants (5 NL pennants, 3 WS titles). But teammates both revered and resented him. He fought with Tinker so bitterly they didn't speak for years despite playing beside each other. Traded by Cubs owner Murphy after being named manager — Murphy called his own decision a mistake.",
+    "dark_side": "The nervous breakdown of 1911 — out for most of the season after losing all his money. The death of his daughter during the 1914 season haunted him. His marriage disintegrated. He feuded with Tinker, with Murphy, with umpires, with everyone. He suffered a stroke in 1942 and was debilitated for his final 5 years. Died one year after his HOF induction, never fully recovered."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Rules Lawyer",
+      "desc": "Knows every rule. Once per game, can challenge a play using an obscure rule — 70% chance the call goes his way."
+    },
+    {
+      "tag": "The Crab",
+      "desc": "Perpetual scowl and aggression. +1 intimidation to opponents, but teammates lose 1 morale if his team is losing."
+    },
+    {
+      "tag": "Bundle of Nerves",
+      "desc": "Under sustained pressure, risk of breakdown. If team loses 5+ consecutive games, Evers misses 3 games."
+    },
+    {
+      "tag": "Inside Baseball",
+      "desc": "Co-authored the book on strategy. Team gains +1 to all situational plays (bunts, steals, hit-and-run)."
+    },
+    {
+      "tag": "Feud Engine",
+      "desc": "Automatically feuds with one random teammate per season. Both players lose 1 chemistry but gain 1 intensity."
+    },
+    {
+      "tag": "Miracle Worker",
+      "desc": "On a team in last place after midseason, Evers activates: all players gain +1 morale and +1 hustle."
+    },
+    {
+      "tag": "125-Pound Fury",
+      "desc": "Smallest player on the field. Opponents underestimate him — first hit each game has +20% chance of being a double."
+    },
+    {
+      "tag": "Troy Roots",
+      "desc": "New York State comfort. Extra chemistry in early-era squares near his hometown."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Ran teammates ragged. Practice was war. Every drill was personal."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "HIGH",
+      "note": "Studied the rulebook obsessively. Co-wrote 'Touching Second.' The thinker's retreat."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "The pre-game argument was his domain. Strategy sessions that felt like interrogations.",
+      "note_extra": "Source labeled 'Clubhouse / Locker Room' (HIGH) — mapped to Hotel/Rest per taxonomy."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Needed rest — at 125 lbs, fatigue was constant. But his mind never stopped racing."
+    },
+    {
+      "location": "Restaurant/Steakhouse",
+      "affinity": "MEDIUM",
+      "note": "Ate candy bars to gain weight. Not a gourmand — eating was fuel, not pleasure."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "MEDIUM",
+      "note": "Could work the press when he wanted to. Wrote a book. But inherently combative."
+    },
+    {
+      "location": "Bar/Nightlife",
+      "affinity": "LOW",
+      "note": "Too high-strung. Alcohol and nerves don't mix. Not a carouser."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "LOW",
+      "note": "An 'insolent, snarling, aggressive grouch' per the NY press. Not a crowd-pleaser."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Pennant races — Evers was at his absolute best in September (Merkle play, 1914 miracle run)",
+      "Proving doubters wrong — undersized his whole life, every slight fueled him",
+      "Rules exploitation — finding the edge nobody else sees",
+      "New teams or new challenges (the Braves trade turned him into an MVP)"
+    ],
+    "cold_triggers": [
+      "Financial ruin (lost everything in the shoe company, triggered 1911 breakdown)",
+      "Personal tragedy (daughter's death during the 1914 season nearly broke him)",
+      "Feuding with management (Murphy firing, Britton-style owner conflicts)",
+      "Physical exhaustion — at 125 lbs, his body failed him repeatedly (broken leg 1910, nervous breakdown 1911)"
+    ],
+    "pressure_response": "TRANSCENDENT IN OCTOBER, FRAGILE IN LIFE. The paradox of Johnny Evers: .438 in the 1914 World Series sweep, .316 career WS BA, the Merkle play — he was one of the greatest postseason performers of the dead-ball era. But he suffered a nervous breakdown, lost a child, watched a friend die, lost his savings, and saw his marriage collapse. Evers thrived under baseball pressure because it was the one arena where his manic intensity was a virtue rather than a curse. The diamond was the only place the Crab made sense."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Merkle's Boner",
+      "type": "Game Action",
+      "text": "Your most cerebral player notices that a baserunner failed to touch a base. Call for the ball and tag the bag: the opponent's winning run is nullified. The game becomes a tie and must be replayed.",
+      "origin": "Sept 23, 1908: Evers noticed Fred Merkle of the Giants didn't touch second base on an apparent walk-off single. He got the ball, stepped on second, and the umpire called the runner out. The game was replayed, and the Cubs won the pennant."
+    },
+    {
+      "title": "The Nervous Breakdown",
+      "type": "Drama",
+      "text": "Your highest-intensity player collapses from mental exhaustion. He's out for the rest of the season (or 10 games, whichever is less). When he returns, he gains +2 CON for 5 games — the comeback fire.",
+      "origin": "Evers suffered a nervous breakdown in 1911 after losing his life savings in the Emerson Shoe Company collapse and witnessing his friend's death in a trolley accident. He played only 46 games that year, then rebounded to bat .341 in 1912."
+    },
+    {
+      "title": "The Miracle Run",
+      "type": "Action",
+      "text": "If your team is in last place past the midpoint of the season, activate this card. All players gain +1 to all stats for the remainder of the season. But if you fail to make the playoffs, team morale crashes to zero.",
+      "origin": "The 1914 'Miracle Braves' were in last place in July. With Evers as captain, they surged to the pennant and swept the heavily-favored A's in the World Series. Evers hit .438 in the Series and won NL MVP."
+    },
+    {
+      "title": "Tinker to Evers to Chance",
+      "type": "Game Action",
+      "text": "Your SS, 2B, and 1B execute a flawless double play. The opposing team's momentum resets to zero. Your infield gains +1 DEF for the rest of the game.",
+      "origin": "The most famous double-play combination in baseball history, immortalized in Franklin P. Adams' 1910 poem 'Baseball's Sad Lexicon.' Tinker, Evers, and Chance were inducted into the HOF together in 1946."
+    },
+    {
+      "title": "My Favorite Umpire Is a Dead One",
+      "type": "Drama",
+      "text": "Your player screams at the umpire after a bad call. 50% chance he's ejected. If he stays in: +2 intensity for the rest of the game. If ejected: team morale drops by 1, but opponent's confidence also drops by 1 (they know you're fearless).",
+      "origin": "Evers' actual quote about umpires. Bill Klem called him the toughest and meanest man he saw in 36 years of umpiring."
+    },
+    {
+      "title": "Touching Second",
+      "type": "Action",
+      "text": "Your team captain writes the book on inside baseball. For the rest of the series, your team gains +1 to all situational plays: bunts, sacrifices, steals, hit-and-run, and defensive shifts.",
+      "origin": "Evers co-authored 'Touching Second' (1910) with sportswriter Hugh Fullerton — a strategic treatise that became a bestseller and defined 'inside baseball' as a concept."
+    },
+    {
+      "title": "The Smallest Man on the Field",
+      "type": "Action",
+      "text": "Your undersized player is doubted by opponents and fans. He gains +1 SPD and +1 CON this game from sheer spite. If he gets 2+ hits, opponents lose 1 morale.",
+      "origin": "At 5'9\" and 125 lbs, Evers was the smallest position player in the NL. When he debuted in the minors at reportedly under 100 lbs, fans thought he was a comedy act."
+    },
+    {
+      "title": "A Father's Grief",
+      "type": "Drama",
+      "text": "Your star player's child falls gravely ill during the season. He plays through it. -1 to all stats for 5 games. But if the team wins a playoff game during this stretch, he gains permanent +1 CLU.",
+      "origin": "During the 1914 Miracle Braves run, Evers' daughter Helen contracted scarlet fever from his quarantined son and died. He played through the grief and won the World Series and MVP."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Impossibly thin, wiry frame at 5'9\" 125 lbs — all sinew and nerve. Jutting jaw, permanently clenched. Sharp, darting Irish eyes under a small cap. Hollow cheeks. The face of a man who runs on fury and candy bars. One reporter called him an 'insolent, snarling, aggressive grouch.'",
+    "attire": "Chicago Cubs uniform circa 1908 — white wool jersey with 'CHICAGO' across the chest in dark block letters, baggy flannel pants, small flat cap, dark stockings. Glove in hand or mid-pivot on a double play. No number.",
+    "mood": "Wired intensity. The Statue of Liberty pose — arm raised, holding the ball aloft on second base as the crowd erupts. Or: the Crab crouch, jaw set, eyes scanning the field for any advantage, any missed rule, any edge.",
+    "style": "Sepia-toned with warm golden highlights. West Side Park grandstand in soft focus, pennant flags barely visible. Dead-ball era photographic grain. Unified ILB portrait style.",
+    "reference": "Think the Merkle play moment — Evers on second base, ball held high, the look of a man who just found the loophole that won a pennant. Cabinet card composition, wiry frame centered, intensity radiating off a small body."
+  }
+}

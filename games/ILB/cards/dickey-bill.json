@@ -1,0 +1,216 @@
+{
+  "card_type": "hitter",
+  "name": "Bill Dickey",
+  "nickname": "The Man Nobody Knows",
+  "year": 1937,
+  "team": "New York Yankees",
+  "era": "1930s",
+  "ilb_team": "Crashers AL1930",
+  "position": "C",
+  "bats": "L",
+  "throws": "R",
+  "height": "6'1\"",
+  "weight": "185 lbs",
+  "born": "June 6, 1907 — Bastrop, LA (railroad worker's son, grew up in Arkansas)",
+  "died": "November 12, 1993 — Little Rock, AR (age 86, complications from stroke)",
+  "hof": "Class of 1954 (BBWAA, 80.2%). #8 retired by Yankees (shared with Yogi Berra). #57 Sporting News 100 Greatest. Monument Park plaque.",
+
+  "real_stats": {
+    "season": 1937,
+    "games": 140,
+    "at_bats": 530,
+    "hits": 176,
+    "doubles": 35,
+    "triples": 2,
+    "home_runs": 29,
+    "rbi": 133,
+    "stolen_bases": 3,
+    "batting_avg": ".332",
+    "obp": ".417",
+    "slg": ".570",
+    "ops": ".987",
+    "ops_plus": 150,
+    "war": 6.6,
+    "all_star": 11,
+    "career_avg": ".313",
+    "career_hits": 1969,
+    "career_hr": 202,
+    "career_sb": 36,
+    "career_war": 56.3
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "con": 5,
+    "pow": 3,
+    "spd": 0,
+    "def": 3,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": ".332 in 1937, .362 in 1936 (highest catcher BA for 73 years until Joe Mauer in 2009). Career .313 over 17 seasons. .300+ in 11 seasons. Only 289 strikeouts in 6,300 at-bats — extraordinary contact rate. Miller Huggins: 'Choke up and drill the ball.' He did, for two decades.",
+    "pow": "29 HR in 1937 (career high). 202 career HR. 4 straight 20+ HR / 100+ RBI seasons (1936-39) — unprecedented for a catcher. Grand slams on consecutive days (Aug 3-4, 1937, tying Ruth's record). 3 HR in one game vs Browns (July 26, 1939). SLG .570 in 1937. Rating of 3.",
+    "spd": "3 SB in 1937. 36 career. He was a 6'1\" 185-lb catcher. Speed was irrelevant. Never played another position — pure catcher. Rating of 0.",
+    "def": "Maximum. 13 consecutive 100+ game seasons behind the plate (MLB record, later tied by Bench). Led AL catchers in fielding % 6x, putouts 5x, assists 3x. Zero passed balls in entire 1931 season. One-handed catching pioneer. Expert pitch-caller: 'always one pitch ahead of the batters' (Charlie Devens). Bob Feller: 'Bill Dickey is the best catcher I ever saw. I believe I could have won 35 games if Bill Dickey was my catcher.' Caught 46% of stolen base attempts in 1931. Rating of 3.",
+    "clu": ".438 in 1932 WS (7-for-16, 4 RBI). 4-for-4 to open 1938 WS. Drove in winning run in 1939 WS Game 1 (bottom 9th). Title-clinching HR in 1943 WS Game 5 vs Cardinals. Played 1936 WS with broken hand — didn't tell anyone. 8 WS appearances, 7 championships. Rating of 2."
+  },
+
+  "personality": {
+    "leadership_style": "The Quiet Commander. Dickey was the Yankees' leader on the field — the manager behind the plate. Joe McCarthy used his pitchers as interchangeable parts, and Dickey handled them all. Seldom did a pitcher leave the Yankees and get better. His leadership was invisible: no speeches, no rah-rah. Just complete control of the game from behind the plate. The counterweight to Ruth's bombast, the mirror of Gehrig's quiet professionalism.",
+    "temperament": "Still waters, deep currents. Called 'The Man Nobody Knows' because he was so quiet and reserved. But that calm exterior masked a fierce competitor. On July 4, 1932, he broke Carl Reynolds' jaw with one punch after a home plate collision — 30-day suspension, $1,000 fine. 'His quiet demeanor belied his fiery approach.' The lesson: don't confuse silence with softness.",
+    "work_ethic": "Relentless consistency. 13 straight 100+ game seasons catching — a record. Miller Huggins told the young slugger-wannabe to choke up and drill the ball. Dickey obeyed, rebuilt his swing, and hit .313 for 17 years. He adapted rather than imposed. The catcher's mentality: serve the team, manage the game, endure.",
+    "lifestyle": "Reserved, private, dignified. Married Violet Ann Arnold in 1928 — one daughter. Lived in Arkansas after retirement. Worked at Stephens, Inc. (investment firm) with his brother George. Excellent quail hunter. No scandals, no drama. A gentleman in an era of colorful characters. Died at 86 after a stroke in 1989 left him homebound.",
+    "era_adaptability": "HIGH. Dickey's combination of .313 BA, 202 HR, and elite defense translates to any era. A left-handed hitting catcher with power who can also hit .330+ and call a game? That's a franchise player in 2025 as much as 1937. His lack of speed is irrelevant at catcher.",
+    "clubhouse_impact": "MAXIMUM — through mentorship. Dickey didn't just play; he created. He taught Yogi Berra to catch ('Bill Dickey is learning me all of his experiences'). He taught Elston Howard ('Without Bill, I'm nobody'). Joe Garagiola and Roy Campanella would listen in on his lessons. His legacy is a lineage of great Yankee catchers.",
+    "dark_side": "Forever overshadowed. Dickey played his entire career in the shadow of Ruth, Gehrig, and DiMaggio. After retirement, Berra immediately inherited his #8 and his reputation. The only Yankee with a retired number never featured on Yankeeography. He never led the league in a single offensive category — yet he was the most complete catcher alive. The Man Nobody Knows died as The Man Nobody Remembers."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Man Nobody Knows",
+      "desc": "Immune to media pressure and fan distraction. Dickey's quiet demeanor shields him — and his pitchers — from outside noise. +1 team stability."
+    },
+    {
+      "tag": "Pitch Caller Supreme",
+      "desc": "+2 to all pitchers' stats when Dickey is catching. He was 'always one pitch ahead of the batters.' Seldom did a pitcher leave the Yankees and improve."
+    },
+    {
+      "tag": "The One Punch",
+      "desc": "If an opponent deliberately collides with Dickey at home plate, 50% chance he breaks their jaw. -30 game suspension. But opposing runners think twice. +1 intimidation at home plate."
+    },
+    {
+      "tag": "Gehrig's Best Friend",
+      "desc": "+1 all stats when paired with a quiet, consistent teammate. Dickey and Gehrig were roommates, mirror images. Their bond was the soul of the dynasty."
+    },
+    {
+      "tag": "Iron Catcher",
+      "desc": "13 straight 100+ game seasons. Injury risk reduced by 50% per season. The most durable catcher in history."
+    },
+    {
+      "tag": "The Mentor",
+      "desc": "After retirement, +3 to any young catcher on the roster. Dickey taught Berra, Howard, and others. His coaching converts prospects into All-Stars."
+    },
+    {
+      "tag": "Yankee Dynasty",
+      "desc": "Synergy with Gehrig, DiMaggio, Gomez, Ruffing. 3+ Yankees = +1 all stats. The dynasty ran through Dickey's mitt."
+    },
+    {
+      "tag": "Always Overshadowed",
+      "desc": "-1 fan appeal. He'll never be the star, even when he's the best player in the lineup. The quiet ones don't sell papers."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "His domain. 13 straight years, 100+ games. Never played another position. Born for this."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "The quiet center of gravity. Where he mentored young catchers and steadied pitchers."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "HIGH",
+      "note": "Excellent quail hunter. Arkansas country. The outdoors suited his quiet nature."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Dignified but not flashy. Would show up, shake hands, leave quietly."
+    },
+    {
+      "location": "Restaurant/Steakhouse",
+      "affinity": "MEDIUM",
+      "note": "Private dinners with Gehrig. Not a nightlife man."
+    },
+    {
+      "location": "Bar/Nightlife",
+      "affinity": "LOW",
+      "note": "Not his scene. He was the counterweight to Ruth's excesses."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "LOW",
+      "note": "The Man Nobody Knows. He avoided the spotlight his entire life."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "World Series / October — 8 appearances, 7 rings. Built for the biggest stage.",
+      "Paired with elite pitching — Gomez, Ruffing, the Yankees staff. Dickey elevated everyone.",
+      "Consecutive-day power: grand slams Aug 3-4, 1937; 3 HR in one game July 1939",
+      "Stable environment — McCarthy's consistent management suited Dickey perfectly"
+    ],
+    "cold_triggers": [
+      "Losing Gehrig — the 1940 slump coincided with his best friend's illness and death",
+      "Being provoked physically — the Reynolds punch cost him 30 games in 1932",
+      "Managerial responsibilities — struggled as player-manager in 1946, resigned",
+      "Aging — shoulder injury in 1942 broke his iron streak"
+    ],
+    "pressure_response": "ELITE. Dickey was at his best in big games. Britannica: 'At his best in big games — he caught every inning of his 38 World Series games.' .438 in the 1932 Classic. 4-for-4 opener in 1938. Title-clinching HR in 1943. Played with a broken hand in the 1936 WS without telling anyone. The pressure response of a man who defines quiet competence."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The One Punch",
+      "type": "Game Action",
+      "text": "An opposing runner collides with your catcher at home plate. Your catcher breaks the runner's jaw with one punch. Result: 30-game suspension and $1,000 fine — but no one runs into your catcher again all season. +2 intimidation.",
+      "origin": "July 4, 1932: Carl Reynolds collided with Dickey at home plate. Dickey broke Reynolds' jaw with one punch. 30-day suspension, $1,000 fine. The message was received."
+    },
+    {
+      "title": "The Broken Hand",
+      "type": "Game Action",
+      "text": "Your catcher plays the entire World Series with a broken bone in his hand. He doesn't tell anyone — not the manager, not the press, not the opposing team. -1 POW but +2 CLU and +2 team morale.",
+      "origin": "1936 WS: Dickey played with a broken bone in his hand. 'Bill didn't tell you he had a broken bone in his hand all during the Series. He kept it quiet because he didn't want Terry to know he wasn't the usual threat.'"
+    },
+    {
+      "title": "Back-to-Back Grand Slams",
+      "type": "Game Action",
+      "text": "Your slugger hits grand slams on consecutive days. +3 POW for the week. The baseball world briefly notices him before returning to his more famous teammates.",
+      "origin": "August 3-4, 1937: Dickey hit grand slams off John Whitehead and Vern Kennedy on consecutive days, tying a record set by Babe Ruth."
+    },
+    {
+      "title": "Learning Me All His Experiences",
+      "type": "Action",
+      "text": "Your retired catcher mentors a young backup. The backup gains +3 DEF and becomes an All-Star within 2 seasons. The mentor's legacy outlives his own fame.",
+      "origin": "Yogi Berra: 'Bill Dickey is learning me all of his experiences.' Dickey transformed Berra from a raw hitter into a Hall of Fame catcher. Then did the same for Elston Howard."
+    },
+    {
+      "title": "The Pride of the Yankees",
+      "type": "Drama",
+      "text": "Your catcher's best friend and roommate is diagnosed with a fatal illness. The catcher was the first to know. He plays himself in the movie about his friend's life. -2 morale for the season, but +1 leadership permanently.",
+      "origin": "Dickey was Gehrig's best friend and road roommate. He was the first Yankee to learn of Gehrig's ALS diagnosis. He played himself in 'The Pride of the Yankees' (1942)."
+    },
+    {
+      "title": "Stop Unbuttoning Your Shirt",
+      "type": "Drama",
+      "text": "Your young catcher tries to hit home runs like the team's slugger. The manager tells him to choke up and drill the ball. If he listens: +2 CON permanently. If he refuses: -1 CON, +1 POW (risky).",
+      "origin": "Huggins to young Dickey: 'Stop unbuttoning your shirt on every pitch. We pay one player here for hitting home runs and that's Babe Ruth. Choke up and drill the ball. That way, you'll be around here longer.'"
+    },
+    {
+      "title": "Ending the Streak",
+      "type": "Game Action",
+      "text": "An opposing pitcher has struck out 5 consecutive Hall of Famers. Your catcher steps up and singles to center, ending the streak. The crowd barely notices. +1 CON.",
+      "origin": "1934 All-Star Game: Carl Hubbell struck out Ruth, Gehrig, Foxx, Simmons, and Cronin consecutively. Dickey singled to end the streak. Quietly, of course."
+    },
+    {
+      "title": "The Man Nobody Knows",
+      "type": "Drama",
+      "text": "Your best player has the lowest fan appeal on the team. He's overshadowed by flashier teammates in every era. He never leads the league in anything. He retires with 7 rings and a quiet legacy. -2 fan appeal, +2 team chemistry, +1 all stats.",
+      "origin": "Dickey never led the AL in a single offensive category. He played behind Ruth, Gehrig, DiMaggio. His #8 was retired — but shared with Berra. The only retired-number Yankee without a Yankeeography."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Tall for a catcher (6'1\"), lean, angular face with an Ozark drawl and quiet eyes. Not imposing — contained. The face of a man who watches everything and says nothing. Left-handed batter's stance: compact, balanced, the choking-up grip Huggins taught him.",
+    "attire": "New York Yankees 1937 home pinstripes. Catcher's gear nearby or catching crouch. The iconic interlocking NY on the chest. Number 8 on the back. The most famous uniform in baseball, worn by its most invisible star.",
+    "mood": "Quiet authority. Not the swing — the crouch. The catcher's mask pushed up on the forehead, the mitt ready, the game being called from behind the plate. This card should feel like the engine room of a dynasty — the man who made everything work without anyone noticing.",
+    "style": "Muted, dignified tones — darker than the other Crashers cards. Less gold, more shadow. Yankee Stadium in the background, but from behind the plate, not from the batter's box. The card of the man who sees the whole game from the one position no one watches.",
+    "reference": "Think of the 1937 All-Star Game photo: Gehrig, Cronin, Dickey, DiMaggio, Gehringer, Foxx, Greenberg — seven legends in a row, and Dickey somehow the least remembered. That's this card."
+  }
+}

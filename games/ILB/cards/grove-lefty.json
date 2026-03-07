@@ -1,0 +1,223 @@
+{
+  "card_type": "player",
+  "name": "Lefty Grove",
+  "nickname": "Mose",
+  "year": 1931,
+  "team": "Philadelphia Athletics",
+  "era": "1930s",
+  "ilb_team": "Crashers AL1930",
+  "position": "SP",
+  "bats": "L",
+  "throws": "L",
+  "height": "6'3\"",
+  "weight": "190 lbs",
+  "born": "March 6, 1900 — Lonaconing, MD (coal-mining town in the Appalachian hills)",
+  "died": "May 22, 1975 — Norwalk, OH (age 75, heart attack while watching a baseball game on TV)",
+  "hof": "Class of 1947 (BBWAA, 76.4%). MLB All-Century Team (1999). Voted greatest LHP of AL history.",
+
+  "real_stats": {
+    "season": 1931,
+    "games": 41,
+    "wins": 31,
+    "losses": 4,
+    "era": "2.06",
+    "innings": "288.2",
+    "strikeouts": 175,
+    "walks": 62,
+    "complete_games": 27,
+    "shutouts": 4,
+    "whip": "1.08",
+    "war": 12.1,
+    "career_wins": 300,
+    "career_losses": 141,
+    "career_era": "3.06",
+    "career_strikeouts": 2266,
+    "career_cg": 298,
+    "career_shutouts": 35,
+    "career_war": 109.8,
+    "no_hitters": 0,
+    "perfect_games": 0
+  },
+
+  "ilb_stats": {
+    "ovr": 12,
+    "stf": 4,
+    "ctl": 3,
+    "sta": 3,
+    "def": 0,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "stf": "2.06 ERA in 1931 — the AL average was 4.38. His ERA was 2.32 runs below the league average, the most dominant gap in history. Pitching Triple Crown: led AL in wins (31), strikeouts (175), and ERA. K/9 of 5.46 in 1931 falls below the 6.0 bonus threshold (he led in K but the rate wasn't extreme). In 1930 his K/9 was 6.47, which would earn the bonus. Doc Cramer: 'He didn't have a curve. All he had was a fastball. Everybody knew what they were going to hit at, but they still couldn't hit him.' Joe Cronin: 'Just to see that big guy glaring down at you from the mound was enough to frighten the daylights out of you.' STF 4 — possibly the most underrated 4 in the system, as his dominance came from pure velocity and intimidation rather than pitch variety.",
+    "ctl": "BB/9 of 1.93 in 1931 (62 walks in 288.2 IP) → tier 3. WHIP 1.08 — close to the bonus but not under 1.00. Grove was notoriously wild early: 131 BB in 1925 (led AL). But he learned and improved every year. By 1931 he had mastered control while retaining his explosive fastball. In Boston he reinvented himself as a finesse pitcher after his arm went bad, learning curves and forkballs. Rating of 3 — excellent but not historic control.",
+    "sta": "288.2 IP in 1931 with 27 CG in 30 starts. Also used extensively in relief (9 saves in 1930, 5 in 1931). Career 298 CG over 17 seasons. Pitched 275+ IP in 6 seasons. Not quite the 300+ IP tier that would earn a 4, but the CG rate and relief work show extraordinary durability. His arm did eventually give out — traded to Boston with a dead arm in 1934, then reinvented himself. Rating of 3.",
+    "def": ".954 career fielding percentage. No special defensive reputation as a pitcher. He was a terrible hitter (.148 career, led all pitchers in strikeouts with 593). Adequate fielder, nothing more. Rating of 0.",
+    "clu": "4-2, 1.75 ERA in 3 World Series (1929-31). 36 K in 51.1 IP, 2 saves. Won Game 5 of 1930 WS in relief (entered 8th, won 2-0 on Foxx HR). Won Games 1 and 6 of 1931 WS with complete-game efforts. In 1929 WS relieved in 2 games, struck out side in 9th of Game 1. Bill Dickey: 'Nobody could throw a fastball past me if I knew it was coming — and then Grove threw three past me in one at-bat.' ERA < 2.00 → tier 2, plus WS clinching performances → +1. Maximum clutch rating of 3."
+  },
+
+  "personality": {
+    "leadership_style": "Through terror. Grove led by being the most intense, most competitive, most explosive man on the field. Teammates didn't follow him because they loved him — they followed him because they feared disappointing him. Connie Mack: 'Grove is the best lefthander that ever walked on a pitcher's slab. He surpasses everybody I have ever seen.' But Mack also had to manage Grove's volcanic personality like a bomb disposal expert.",
+    "temperament": "The most volcanic temper in baseball history. After losses, Grove shredded uniforms, kicked buckets, ripped lockers off walls, broke chairs, threw bats, balls, shoes, and water buckets. SABR: 'Few if any pitchers threw tantrums on a par with the 6'3\", 190-pound Lefty, who did everything big.' The 1931 streak-ending loss to the Browns — where he tore apart the entire clubhouse and blamed Al Simmons for taking the day off — is the defining moment. He raged at Simmons for YEARS afterward.",
+    "work_ethic": "Complex. Grove was a natural — his fastball came from God, not from practice. He barely warmed up. He relied on pure velocity for most of his career. But when his arm died in 1934, he did something remarkable: he completely reinvented himself. Learned the curve, the forkball, the changeup. Won 4 more ERA titles with Boston using craft instead of power. That transformation shows the intelligence beneath the fury.",
+    "lifestyle": "Coal miner's son who never fully left the mountains. Born in Lonaconing, MD — Appalachian coal country. Quit the mines after two weeks: 'Dad, I didn't put that coal in here, and I hope I don't have to take no more of her out.' Built 'Lefty's Place' in Lonaconing — bowling alleys, pool table, candy counter — and employed his unemployed brother and disabled brother-in-law. More comfortable with homefolk than city dwellers. Died watching a baseball game on TV.",
+    "era_adaptability": "ELITE. Grove's fastball was clocked informally at 100+ mph — he would dominate in any era. His late-career reinvention as a finesse pitcher shows adaptability. Bill James: 'What argument, if any, could be presented against the proposition that Lefty Grove was the greatest pitcher who ever lived?' In a modern context, Grove would be a Randy Johnson-type: terrifying velocity from the left side with improving control.",
+    "clubhouse_impact": "EXPLOSIVE. Grove could inspire or destroy a clubhouse depending on the day. After wins: jovial, gregarious, the life of the party. After losses: a hurricane that sent teammates running for cover. His multi-year grudge against Simmons over the 1931 loss poisoned the A's clubhouse. Connie Mack endured Grove's tantrums because the results were undeniable. A toxic competitor whose toxicity was tolerated because he was the best.",
+    "dark_side": "The destruction of the A's dynasty. Grove was the greatest pitcher on the greatest team of 1929-31 — but Connie Mack couldn't afford his players during the Depression. Grove was sold to Boston for $125,000 in December 1933, arriving with a dead arm. The A's dynasty crumbled. Grove reinvented himself in Boston and won 4 more ERA titles, but he never returned to the World Series. His MVP award — the first ever given in the AL — is not in Cooperstown. It's in the George's Creek Library in Lonaconing, Maryland. He never gave it to the Hall of Fame."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Fastest Alive",
+      "desc": "+2 STF in any game where Grove is facing a rival ace. His fastball was the most feared pitch in the AL for a decade. Doc Cramer: 'He was fabulous.'"
+    },
+    {
+      "tag": "The Tantrum",
+      "desc": "After any loss, 50% chance Grove destroys the clubhouse. -2 team morale. But +1 STF in his next start from pure rage. The fury fuels him."
+    },
+    {
+      "tag": "A's Dynasty",
+      "desc": "When paired with Foxx, Simmons, or Cochrane: +1 to all stats. The 1929-31 A's were one of the greatest teams ever assembled. 79-15 in 3 years."
+    },
+    {
+      "tag": "The Grudge",
+      "desc": "If a teammate makes an error behind Grove, 25% chance Grove holds a grudge for the rest of the season. -2 chemistry with that player permanently."
+    },
+    {
+      "tag": "Coal Country",
+      "desc": "+1 STA innate. Born in the coal mines of Appalachia. His arm was forged in mountains. Grove was tougher than the anthracite."
+    },
+    {
+      "tag": "The Reinvention",
+      "desc": "If Grove's arm goes dead (injury event), he can reinvent himself: loses -2 STF but gains +2 CTL. A different pitcher, equally effective."
+    },
+    {
+      "tag": "Connie Mack's Fire Sale",
+      "desc": "If your franchise enters financial crisis, Grove is the first player sold. He brings $125,000 but leaves a hole no one can fill."
+    },
+    {
+      "tag": "Dickey's Bonus",
+      "desc": "Receives +2 from Bill Dickey's 'Pitch Caller Supreme' trait. Dickey once said nobody could throw a fastball past him — and then Grove threw three."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "His throne. 300 wins, 298 CG, 2,266 K. The most dominant pitcher of his generation.",
+      "note_extra": "Source labeled 'Pitcher's Mound' — mapped to Practice Field/HIGH per on-field pitching performance space pattern, consistent with Grimes's 'The Pitcher's Mound' / SOVEREIGNTY mapping."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "HIGH",
+      "note": "Built a bowling alley/pool hall in Lonaconing. Employed his brother. More comfortable with homefolk.",
+      "note_extra": "Source labeled 'Lefty's Place (Home)' — mapped to Library/Quiet Spot/HIGH as private/home retreat with community-employment dimension. The home-base-as-sanctuary pattern is consistent with prior rural hometown mappings."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "But only after wins. After losses, the clubhouse becomes a war zone. Teammates flee.",
+      "note_extra": "Source labeled 'Clubhouse / Locker Room' — consistent 9+ card collision taxonomy mapping to Hotel/Rest. Conditionality ('only after wins') preserved in note."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "HIGH",
+      "note": "Lonaconing boy at heart. Appalachian roots. Never fully adapted to city life.",
+      "note_extra": "Source labeled 'Rural / Small Town' — mapped to Library/Quiet Spot/HIGH per rural identity/private retreat pattern. Second Library/Quiet Spot HIGH entry on this card."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "LOW",
+      "note": ".148 career BA. Led all pitchers in K with 593. He was the worst-hitting great pitcher in history.",
+      "note_extra": "Source labeled 'Batting Cages' — mapped to Practice Field/LOW. First LOW entry for Practice Field in the set. The same node appears at both HIGH (Pitcher's Mound) and LOW (Batting Cages) on this card — the split encodes Grove's pitcher/batter duality: absolute mastery on the mound, absolute helplessness at the plate."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "LOW",
+      "note": "Terse at tributes. Not a media personality. Let the fastball speak.",
+      "note_extra": "Source labeled 'Media / Spotlight' — direct pass-through. First LOW entry for Media/Spotlight in the set."
+    },
+    {
+      "location": "Gambling Hall",
+      "affinity": "LOW",
+      "note": "Never made peace with the business of baseball. The Depression destroyed his team.",
+      "note_extra": "Source labeled 'Financial Adviser' — mapped to Gambling Hall/LOW as risk-coded financial domain. Grove's relationship to baseball's business side was defined by the Depression fire sale that scattered the A's dynasty. Consistent with prior working-class-commerce-as-Gambling-Hall mappings (Flick, Freeman, Gardner, Goslin). Distinguished from Library/Quiet Spot (executive/strategic financial activity, Greenberg) by the adversarial/hostile framing."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Winning streaks — 16 consecutive wins in 1931, 8 straight wins after the loss that ended the streak",
+      "Rivalry games — especially vs. Yankees. Responding to bench-jockeying ('kicked over any water pails lately?'), he struck out 8 of the first 10 batters",
+      "World Series — 1.75 ERA, 4-2, 36 K in 3 Fall Classics. October warrior.",
+      "After reinvention — won 4 ERA titles in Boston using craft after his arm died"
+    ],
+    "cold_triggers": [
+      "Teammate errors — the Simmons/Moore incident triggered a multi-year rage spiral",
+      "Post-loss tantrums — destructive behavior after defeats could spiral into clubhouse poison",
+      "Arm injuries — his dead arm in 1933-34 nearly ended his career before reinvention",
+      "Financial stress — the A's fire sale broke the dynasty and scattered Grove's support system"
+    ],
+    "pressure_response": "PARADOXICAL. In the biggest games (World Series), Grove was magnificent — 1.75 ERA across 3 Fall Classics. But in the biggest single game of his career (going for his 17th straight win in 1931), he lost 1-0 on a substitute's error and had perhaps the most famous meltdown in baseball history. Grove was a pressure performer whose pressure valve was set to 'nuclear.' He thrived in pressure — but when it went wrong, the explosion was legendary. From July 1930 to September 1931: 46-4. The best 50-decision stretch by any pitcher in baseball history."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Clubhouse Destruction",
+      "type": "Drama",
+      "text": "Your ace loses a 1-0 game on a teammate's error. He tears the clubhouse apart — ripping lockers off walls, smashing chairs, shredding his own uniform. -3 team morale. But in his next start, +2 STF from pure fury. He wins.",
+      "origin": "August 23, 1931: Grove lost 1-0 to the Browns when sub LF Jimmy Moore misjudged a fly ball. Simmons was in Milwaukee for treatment. Grove blamed Simmons for years. He tore apart the St. Louis clubhouse — lockers, chairs, bats, balls, shoes, everything."
+    },
+    {
+      "title": "Sixteen Straight",
+      "type": "Game Action",
+      "text": "Your pitcher ties the AL consecutive win record at 16. His next start determines history. Roll for fate: on success, the record falls. On failure, a 1-0 loss — and the greatest tantrum baseball has ever seen.",
+      "origin": "1931: Grove tied Walter Johnson and Smokey Joe Wood's AL record of 16 straight wins. Game 17 was the 1-0 loss to the Browns. He followed it with 8 more consecutive wins."
+    },
+    {
+      "title": "The $100,600 Man",
+      "type": "Action",
+      "text": "Your team purchases the greatest minor league pitcher in history for a record sum — $600 more than Babe Ruth cost. He's wild and raw, but the fastball is unhittable. He leads the league in walks AND strikeouts his first season.",
+      "origin": "Connie Mack paid $100,600 for Grove — $600 more than the Yankees paid for Ruth. In 1925, Grove went 10-12 but led the AL in both walks (131) and strikeouts (116). The investment paid off: 300 career wins."
+    },
+    {
+      "title": "Dad, I Didn't Put That Coal in There",
+      "type": "Drama",
+      "text": "A young man from a mining family quits the mines after two weeks. He picks up a baseball. The fastball splinters wood. A local manager offers $125/month — $50 more than his father makes. The boy never goes underground again.",
+      "origin": "Grove worked two weeks in the Lonaconing coal mines before quitting. He told his father: 'Dad, I didn't put that coal in here, and I hope I don't have to take no more of her out.' Bill Louden signed him for $125/month."
+    },
+    {
+      "title": "The Reinvention",
+      "type": "Action",
+      "text": "Your ace's fastball dies. His arm is dead. Everyone says he's finished. But he learns three new pitches and wins 4 more ERA titles using craft instead of power. -2 STF permanently, +2 CTL permanently.",
+      "origin": "Traded to Boston with a dead arm in 1934, Grove reinvented himself. He learned the curve and forkball. Won 4 ERA titles with the Red Sox (1935, 1936, 1938, 1939) using finesse. He won his 300th game at age 41."
+    },
+    {
+      "title": "The Fire Sale",
+      "type": "Drama",
+      "text": "The Depression hits. Your owner can't afford the payroll. He sells your ace, your cleanup hitter, and your catcher to different teams. The dynasty is over. Each sold player gets -2 morale. The franchise gets cash but loses its soul.",
+      "origin": "Connie Mack sold Grove ($125K), Foxx, Cochrane, and Simmons during the Depression. The 1929-31 A's dynasty — 79-15 in 3 years — was scattered to the winds for cash."
+    },
+    {
+      "title": "Three Past Dickey",
+      "type": "Game Action",
+      "text": "Your pitcher faces the opposing team's best hitter. The hitter knows the fastball is coming. Three pitches. Three swings. Three misses. +2 intimidation for the rest of the game. Every batter in the lineup now fears the fastball.",
+      "origin": "Bill Dickey: 'Nobody could throw a fastball past me if I knew it was coming — and then Grove threw three past me in one at-bat.' The fastball was that good."
+    },
+    {
+      "title": "Win Number 300",
+      "type": "Game Action",
+      "text": "Your aging pitcher — now 41, pitching on craft alone — grinds out a complete-game victory for his 300th win. The milestone seemed impossible when his arm died at 34. He did it anyway.",
+      "origin": "July 25, 1941: Grove won his 300th game — a complete-game 10-6 win for the Red Sox vs. Cleveland at Fenway Park. He was 41 years old. He retired at exactly 300 wins, .680 winning percentage — the best among all 300-game winners."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Tall, lean, angular — 6'3\" 190 lbs of coiled fury. Long arms, high leg kick. The face of a man who could throw 100 mph and hated losing more than he loved winning. Intense, narrow eyes. Set jaw. The expression of someone who might throw through you if he can't throw past you. Appalachian mountain features — hard, weathered, uncompromising.",
+    "attire": "Philadelphia Athletics 1931 home whites, classic elephant logo on sleeve. Number 10. LH delivery at full extension — the high leg kick, the whip-arm release. The ball invisible. Or the aftermath: jaw set, glaring at the batter, having just struck him out on three fastballs.",
+    "mood": "Controlled violence. The fastball is a weapon and he knows it. Not serene, not joyful — combustible. The card should radiate menace and dominance. This is the most dangerous pitcher in the set. The card you play when you need to win and don't care about the collateral damage.",
+    "style": "Dark, intense sepia — the darkest card in the Crashers set. Shibe Park looming behind him, packed with fans who came to see someone throw 100 mph in an era before radar guns. Heavy shadow on the face. The card should feel heavy in your hand — like it might bite you.",
+    "reference": "This is the ace card. The Crashers' trump card. If the Foxx card is the most powerful hitter, the Grove card is the most terrifying pitcher. Together they're the engine of the 1929-31 A's dynasty. The card should feel like danger — beautiful, lethal, explosive."
+  }
+}

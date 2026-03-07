@@ -1,0 +1,211 @@
+{
+  "card_type": "pitcher",
+  "name": "Stan Coveleski",
+  "nickname": "Covey / The Big Pole",
+  "year": 1920,
+  "team": "Cleveland Indians",
+  "era": "1920s",
+  "ilb_team": "Bashers AL1920",
+  "position": "SP",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'11\"",
+  "weight": "166 lbs",
+  "born": "July 13, 1889 — Shamokin, Pennsylvania (born Stanislaus Kowalewski)",
+  "died": "March 20, 1984 — South Bend, Indiana (age 94)",
+  "hof": "Inducted 1969 (Veterans Committee). 215-142, 2.89 ERA, 224 CG, 38 shutouts. Five 20-win seasons. 1920 WS: 3 CG wins, 0.67 ERA (still WS record). Bill James ranked him 24th greatest RHP all-time. Babe Ruth and Ty Cobb both called him one of the toughest pitchers they ever faced.",
+
+  "real_stats": {
+    "season": 1920,
+    "games": 41,
+    "wins": 24,
+    "losses": 14,
+    "era": "2.49",
+    "innings": "315.1",
+    "strikeouts": 133,
+    "walks": 65,
+    "complete_games": 28,
+    "shutouts": 3,
+    "whip": "1.107",
+    "war": 7.1,
+    "ws_wins": 3,
+    "ws_era": "0.67",
+    "ws_ip": "27.0",
+    "ws_hits": 15,
+    "ws_walks": 2,
+    "career_wins": 215,
+    "career_losses": 142,
+    "career_era": "2.89",
+    "career_cg": 224,
+    "career_shutouts": 38,
+    "career_ip": "3082",
+    "career_k": 981,
+    "career_bb": 764,
+    "twenty_win_seasons": 5
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "stf": 3,
+    "ctl": 4,
+    "sta": 4,
+    "def": 0,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "stf": "The spitball was Coveleski's primary weapon — Joe Sewell: 'I've seen him throw that spitball to a right-handed hitter and that ball would break from your head down to the ground, like hitting a butterfly.' He led the AL in strikeouts in 1920 (133) but his K/9 was modest (~3.8) because he didn't try to strike batters out — he tried to get them out on one pitch. The stuff was deception, not velocity. Rating: 3.",
+    "ctl": "'Why should I throw seven or eight times to a batter when I can get 'em out with a single pitch?' In the 1920 WS he threw his three complete game victories on 72, 78, and 81 pitches respectively — an average of 77 pitches per CG. Career BB/9 approximately 2.2. WHIP 1.107 in 1920. A control pitcher whose weapon was his single most unhittable pitch. Rating: 4.",
+    "sta": "315.1 IP in 1920, 28 complete games. Career: 3,082 IP, 224 CG. Pitched a 19-inning complete game on May 24, 1918 — still the Cleveland franchise record. Won 20+ games in four consecutive seasons (1918-1921: 22, 24, 24, 23). Routinely threw 275+ innings. He worked in coal mines 12 hours a day, 7 days a week starting at age 12. Built for endurance. Rating: 4.",
+    "def": "Adequate pitcher's fielding. Not a factor in his value. Rating: 0.",
+    "clu": "THE 1920 WORLD SERIES. Three complete game victories. 0.67 ERA — the World Series record, still standing after 100+ years. In 27 innings: 15 hits, 2 earned runs, 2 walks. Won Games 1, 4, and 7; the clincher was a shutout. Pitched three WS wins on 72, 78, and 81 pitches. The most efficient, dominant individual WS pitching performance in baseball history. 'Pitched that game and won it, and walked back alone to the clubhouse. And nobody said a word except maybe Nice game, Covey.' Rating: 3 — MAXIMUM."
+  },
+
+  "personality": {
+    "leadership_style": "Quiet professionalism. Coveleski didn't inspire with speeches or fire — he led by being impossibly efficient. He threw fewer pitches per game than almost any pitcher in history. He completed what he started. He didn't waste effort. His leadership was the leadership of a man who grew up in coal mines: you do the work, you don't complain, you go home.",
+    "temperament": "Worried, meticulous, perfectionist. 'The pressure never lets up. Don't matter what you did yesterday. That's history. It's tomorrow that counts. So you worry all the time. It never ends. Lord, baseball is a worrying thing.' Coveleski was not carefree. He was a worrier — a man who understood that his arm was his only way out of the mines, and every pitch was a step further from Shamokin.",
+    "work_ethic": "COAL MINE CALIBER. At age 12, Coveleski quit school to work 12 hours a day, 7 days a week in the Shamokin coal mines for $3.75 a week. He threw rocks at tin cans to develop his arm. His brother Harry made the majors first and showed Stan the way. Everything about Coveleski's pitching style — the efficiency, the endurance, the refusal to waste anything — came from the mines. You don't throw eight pitches when one will do, because you don't swing the pick eight times when one will break the coal.",
+    "lifestyle": "From coal mines to the mound and back to earth. After baseball, Coveleski opened a gas station in South Bend, Indiana. He gave free pitching lessons to neighborhood kids in a field behind his garage. He dropped the 'e' from Coveleskie because he never corrected anyone who misspelled it. He lived to 94 — outlasting almost every player he ever faced. A quiet, solid, unpretentious man who happened to throw the greatest World Series in history.",
+    "era_adaptability": "COMPLICATED. The spitball — Coveleski's primary weapon — is illegal in modern baseball. Without it, he would need to reinvent himself entirely. But his control (2.2 BB/9), efficiency (77 pitches per CG), and endurance would translate to any era. If he adapted to a modern pitch mix (cutter, sinker, changeup), his command profile would make him elite. With the spitball? He'd be the most dominant pitcher alive.",
+    "clubhouse_impact": "STEADY. Coveleski wasn't a clubhouse leader in the vocal sense. He was the guy who took the ball every fifth day and won. He hunted with Smoky Joe Wood in the offseason — the quiet connection between two workhorse pitchers. In ILB, Coveleski provides +1 to team pitching staff morale — his consistency reassures everyone that at least one game a week is handled.",
+    "dark_side": "The worry. Coveleski's quote — 'The pressure never lets up... Lord, baseball is a worrying thing' — reveals a man who never relaxed, never felt secure, never believed yesterday's success protected him from tomorrow's failure. The mines were always behind him, always waiting. If the arm went, he went back to Shamokin. That fear drove him to be efficient, to never waste a pitch, to complete every game — because every game was proof that he was still here, still above ground. In ILB: 'The Worrier' — Coveleski cannot benefit from rest days. He worries MORE on days off. His stats improve when he pitches regularly and decline when idle. The mines are always behind him."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Last Legal Spitball",
+      "desc": "Coveleski was grandfathered when the spitball was banned in 1920 — one of 17 pitchers allowed to keep throwing it. In ILB, Coveleski's spitball is a unique pitch type: +2 STF on every pitch, but if the opposing manager 'challenges' the pitch (once per game), d6: on 1, the ump rules it illegal and Coveleski is ejected."
+    },
+    {
+      "tag": "Coal Miner's Son",
+      "desc": "Quit school at 12 to work 12 hours/day in the mines for $3.75/week. In ILB, Coveleski has +2 to stamina — he cannot be fatigued. The mines taught him endurance no training regimen could match."
+    },
+    {
+      "tag": "Seventy-Two Pitches",
+      "desc": "Threw a WS complete game on 72 pitches. In ILB, Coveleski's pitch count decays at half the normal rate. He can throw 9 innings on what costs other pitchers 5."
+    },
+    {
+      "tag": "The Worrier",
+      "desc": "'Lord, baseball is a worrying thing.' Coveleski's stats decline on rest days — he worries MORE when idle. +1 when pitching on regular rest, -1 when rested extra days."
+    },
+    {
+      "tag": "Sewell's Battery",
+      "desc": "Joe Sewell was Coveleski's teammate on the 1920 Indians. When paired: +1 to both players' stats. Sewell's 'Chapman's Heir' trait links to the 1920 championship context."
+    },
+    {
+      "tag": "Smoky Joe's Hunting Partner",
+      "desc": "Coveleski hunted with Smoky Joe Wood in the offseason. Cross-era link to Muggers. When both are in the same ILB collection: +1 to pitcher bonding — the quiet fraternity of arms."
+    },
+    {
+      "tag": "Brother's Path",
+      "desc": "Stan's brother Harry was also a ML pitcher — first siblings to both win 20 in a season. They agreed never to pitch against each other. In ILB, if both Coveleskis are in the game, neither can face the other's team."
+    },
+    {
+      "tag": "Point-Six-Seven",
+      "desc": "0.67 ERA in the 1920 WS — still the record after 100+ years. In ILB, during the World Series, Coveleski receives +2 to all pitching stats. He is the WS record holder. The record IS the trait."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "The mound was his domain. 3,082 career IP, 224 CG. He threw fewer pitches than anyone and went deeper than everyone."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "0.67 ERA — still the WS record. 3 CG wins. 27 IP, 2 BB, 2 ER. The greatest individual WS pitching performance ever."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "South Bend, Indiana — where he lived after baseball. Gas station. Free pitching lessons for kids. Stadium named after him. Died there at 94."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "LOW",
+      "note": "Shamokin, Pennsylvania — the coal mines. $3.75/week. 12 hours/day. Everything he did was running from here — and he never stopped running."
+    },
+    {
+      "location": "Bar/Nightlife",
+      "affinity": "NONE",
+      "note": "Despite his success, Coveleski 'didn't really like playing there.' The city wore on him. He preferred the quiet."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Regular rest — Coveleski was at his best on normal rest. He worried when idle. 'The pressure never lets up.'",
+      "World Series — 0.67 ERA. He elevated in October unlike almost any pitcher in history.",
+      "Complete games — the deeper he went, the better he got. 28 CG in 1920, 224 career. He was built to finish.",
+      "Economy — when Coveleski was throwing fewer pitches, he was at his most dominant. 72 pitches for a CG."
+    ],
+    "cold_triggers": [
+      "Extra rest — too many days off and the worrying consumed him. He needed the routine of the rotation.",
+      "1925 WS — charged with 2 losses as the Senators fell to Pittsburgh. Even the best falter eventually.",
+      "Cleveland — despite his success, Coveleski 'didn't really like playing there.' Something about the city wore on him.",
+      "Losing control — when the spitball wasn't breaking, he had fewer options than pitchers with multiple plus pitches."
+    ],
+    "pressure_response": "TRANSCENDENT IN OCTOBER. Coveleski in the regular season was excellent — 215-142, 2.89 ERA. Coveleski in the World Series was immortal — 0.67 ERA, 3 CG wins, 5 hits per game, 2 walks in 27 innings. The gap between his regular season and his October is one of the largest in baseball history. He worried all year, and then in October, when the pressure was greatest, the worry transformed into focus. The mines had taught him: when the ceiling is lowest, you work hardest. CLU = 3."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Point-Six-Seven",
+      "type": "Game Action",
+      "text": "Three games. Three complete games. Three victories. Fifteen hits allowed — five per game. Two walks in twenty-seven innings. Seventy-two pitches, seventy-eight pitches, eighty-one pitches. An ERA of 0.67. It is the greatest individual pitching performance in World Series history. It is still the record. It will be the record when you read this. Your pitcher walks back to the clubhouse alone. Nobody says a word except maybe 'Nice game, Covey.' Just another ball game.",
+      "origin": "1920 WS: Coveleski won Games 1, 4, and 7. 0.67 ERA — still the WS record. 'Pitched that game and won it, and walked back alone to the clubhouse.'"
+    },
+    {
+      "title": "The Coal Mines",
+      "type": "Drama",
+      "text": "At twelve years old, your pitcher quits school. He goes into the coal mines of Shamokin, Pennsylvania. Twelve hours a day. Seven days a week. Three dollars and seventy-five cents. He throws rocks at tin cans to develop his arm because rocks are free and tin cans are everywhere and the mines will kill him if he stays. His brother Harry makes the majors first. Stan follows. He never goes back underground.",
+      "origin": "Coveleski was born Stanislaus Kowalewski in the coal town of Shamokin, PA. Worked in the mines from age 12. His brother Harry reached the majors first, showing him the path."
+    },
+    {
+      "title": "The Spitball",
+      "type": "Action",
+      "text": "In 1920, Major League Baseball bans the spitball. Your pitcher has built his entire career on the pitch. They let him keep throwing it — he is one of seventeen pitchers grandfathered in. The pitch that was his salvation becomes his secret, legal and illegal simultaneously. He is the last of his kind. When he retires, the spitball dies with him. Joe Sewell watches it break: 'From your head down to the ground. Like hitting a butterfly.'",
+      "origin": "The spitball was banned in 1920. Coveleski was one of 17 pitchers allowed to continue throwing it. He used chewing tobacco and later alum to doctor the ball."
+    },
+    {
+      "title": "Seventy-Two Pitches",
+      "type": "Game Action",
+      "text": "Game 1 of the 1920 World Series. Your pitcher throws seventy-two pitches. He completes the game. He wins 3-1. Four days later, he throws seventy-eight pitches. Complete game. Wins 5-1. Three days after that, eighty-one pitches. Complete game shutout. He has thrown three complete World Series victories on fewer pitches than most modern pitchers throw in one start.",
+      "origin": "Coveleski's pitch counts in his three 1920 WS wins: 72, 78, 81. Average of 77 pitches per CG. 'Why should I throw seven or eight times to a batter when I can get 'em out with a single pitch?'"
+    },
+    {
+      "title": "Lord, Baseball Is a Worrying Thing",
+      "type": "Drama",
+      "text": "'The pressure never lets up. Don't matter what you did yesterday. That's history. It's tomorrow that counts. So you worry all the time. It never ends. Lord, baseball is a worrying thing.' Your pitcher says this and means it. He is not at peace. He is never at peace. The mines are always behind him. Every pitch is one more day above ground.",
+      "origin": "Coveleski's most famous quote. His HOF plaque quote. The defining statement of a man who understood that talent is not protection — only work is protection."
+    },
+    {
+      "title": "Nineteen Innings",
+      "type": "Game Action",
+      "text": "May 24, 1918. Your pitcher takes the mound and does not leave it for nineteen innings. He wins 3-2 in New York. It is still the longest complete game by a single pitcher in Cleveland franchise history. Nobody tells him to stop. Nobody needs to. He is from the coal mines. He does not stop until the work is done.",
+      "origin": "Coveleski pitched a 19-inning complete game on May 24, 1918 — a Cleveland franchise record that still stands."
+    },
+    {
+      "title": "The Brothers",
+      "type": "Drama",
+      "text": "Stan and Harry Kowalewski — now Coveleski — are the first siblings in baseball history to each win twenty games in a season. They play in the same league. They make an agreement: they will never pitch against each other. The coal mines produced them both. The game will not set them against one another.",
+      "origin": "Harry Coveleski won 20 for the 1914 Tigers. Stan won 20 for the 1918 Indians. They agreed never to face each other on the mound."
+    },
+    {
+      "title": "The Gas Station",
+      "type": "Action",
+      "text": "After the last pitch, your pitcher moves to South Bend, Indiana. He opens a gas station. He gives free pitching lessons to neighborhood kids in a field behind his garage. He lives to ninety-four. They name the baseball stadium after him. He drops the 'e' from the end of his name because he never corrects anyone who misspells it. It doesn't matter how you spell it. What matters is the 0.67.",
+      "origin": "Coveleski ran Coveleski Service Station in South Bend. Taught local kids for free. The minor league stadium bears his name. Died 1984 at age 94."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'11\" 166 lbs — lean, sinewy, no bulk. The face of a man who has worked underground. Polish-American features — strong cheekbones, deep-set eyes, a face that has seen darkness and emerged from it. Not handsome, not ugly — weathered. The eyes are the key: they are watchful, worried, calculating. He is always thinking about the next pitch. He is always thinking about the mines.",
+    "attire": "Cleveland Indians 1920 home whites. Mid-delivery — the spitball in flight. The fingers should be slightly wet. The ball should be leaving the hand at an angle that suggests movement, not speed. Or: on the mound, glove raised, looking in for the sign, ready to throw one pitch and end the at-bat. The uniform should be clean — Coveleski didn't sweat much because he didn't throw hard. He threw smart.",
+    "mood": "WORRIED MASTERY. This card should feel like the inside of a coal mine — dark, confined, pressurized, and yet somehow productive. Coveleski's card is anxious — a man who is never at ease, who worries about tomorrow even after winning today. But the worry IS the mastery. The worry is what makes him throw 72 pitches in a World Series complete game. The mood is twilight before the game — the quiet dread that precedes the focus.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Dominant tone is the gray-blue of coal dust, of pre-dawn Shamokin, of a man who spent his formative years underground. The Cleveland card is cool and close where others blaze. The border should be coal-dark — charcoal, almost black.",
+    "reference": "Ruth is the solar system. Gehrig is the axis. Sisler is the sun. Coveleski is the MINESHAFT — deep, dark, productive, and built for pressure. He goes deeper than anyone. He works in places others can't breathe. His card should feel like descending — like the ceiling is getting lower but the work is getting better. 0.67. The number itself is the image."
+  }
+}
