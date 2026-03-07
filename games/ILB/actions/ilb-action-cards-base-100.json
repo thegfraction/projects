@@ -1,0 +1,4965 @@
+[
+  {
+    "id": "action-001",
+    "number": 1,
+    "name": "Take That Bum With Ya",
+    "cardFamily": "regular",
+    "cardType": "trade",
+    "timing": "postgame",
+    "rarity": "common",
+    "title": "Take That Bum With Ya",
+    "text": "The opposing team's manager gets drunk after the game and slurs, 'yyy'you can take that bum with ya.' He's pointing at one of his better players.",
+    "flavor": "A warm bottle, a bad loss, and a very loose tongue.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "accept",
+        "label": "Take the player",
+        "effectText": "Claim one opposing player (+7 tier) if you have roster room."
+      },
+      {
+        "id": "decline",
+        "label": "Walk away sober",
+        "effectText": "No effect."
+      }
+    ],
+    "effects": [
+      {
+        "type": "offerTradeOrClaim",
+        "details": {
+          "source": "opponentRoster",
+          "targetTier": "+7"
+        }
+      }
+    ],
+    "tags": [
+      "trade",
+      "drunk-manager",
+      "roster-move",
+      "opportunity"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "drunk_trade_offer",
+      "rosterHooks": [
+        "frustrated-manager",
+        "loose-cannon"
+      ]
+    }
+  },
+  {
+    "id": "action-002",
+    "number": 2,
+    "name": "Straight Swap",
+    "cardFamily": "regular",
+    "cardType": "trade",
+    "timing": "postgame",
+    "rarity": "common",
+    "title": "Straight Swap",
+    "text": "The opposing manager offers you a trade: his (+6) for your (+5) and a (+3 or higher). Take it or leave it. You may draw one Free Agent Card as a sweetener.",
+    "flavor": "Every trade feels fair until the season's over.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": [
+        {
+          "type": "rosterHas",
+          "minTier": "+5"
+        },
+        {
+          "type": "rosterHas",
+          "minTier": "+3"
+        }
+      ]
+    },
+    "choices": [
+      {
+        "id": "accept",
+        "label": "Make the deal",
+        "effectText": "Trade your (+5) and (+3) for opponent's (+6). Draw 1 Free Agent Card."
+      },
+      {
+        "id": "decline",
+        "label": "No deal",
+        "effectText": "No effect."
+      }
+    ],
+    "effects": [
+      {
+        "type": "offerTradeOrClaim",
+        "details": {
+          "source": "opponentRoster",
+          "targetTier": "+6",
+          "cost": [
+            "+5",
+            "+3"
+          ],
+          "bonus": "drawFreeAgent:1"
+        }
+      }
+    ],
+    "tags": [
+      "trade",
+      "multi-player",
+      "free-agent-draw"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "structured_trade",
+      "rosterHooks": [
+        "trade-block",
+        "roster-churn"
+      ]
+    }
+  },
+  {
+    "id": "action-003",
+    "number": 3,
+    "name": "Wants Out",
+    "cardFamily": "regular",
+    "cardType": "trade",
+    "timing": "postgame",
+    "rarity": "common",
+    "title": "Wants Out",
+    "text": "A member of the other team, a (+5), sidles up to you after the game. 'Got any space for me, coach? I can't take another day with that lunatic.'",
+    "flavor": "Some guys just need a change of scenery. Or a change of manager.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "accept",
+        "label": "Welcome aboard",
+        "effectText": "Sign the (+5). Must release a player of the same position."
+      },
+      {
+        "id": "decline",
+        "label": "Sorry pal, no room",
+        "effectText": "No effect."
+      }
+    ],
+    "effects": [
+      {
+        "type": "signPlayer",
+        "details": {
+          "source": "opponentRoster",
+          "targetTier": "+5",
+          "requireRelease": "samePosition"
+        }
+      }
+    ],
+    "tags": [
+      "trade",
+      "signing",
+      "position-gate",
+      "clubhouse"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "player_wants_out",
+      "rosterHooks": [
+        "misfit-player",
+        "unhappy-clubhouse"
+      ]
+    }
+  },
+  {
+    "id": "action-004",
+    "number": 4,
+    "name": "Loose Cannon",
+    "cardFamily": "regular",
+    "cardType": "trade",
+    "timing": "postgame",
+    "rarity": "uncommon",
+    "title": "Loose Cannon",
+    "text": "A (+6) from the other team just got in a drunken brawl with their own (+3). He's talented, he's volatile, and he's available. The question is: can you handle him?",
+    "flavor": "Talent and trouble ride the same train.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "sign",
+        "label": "Sign the loose cannon",
+        "effectText": "Add (+6) to roster. +2 Intensity, +1 Scandal. Risk of future clubhouse event."
+      },
+      {
+        "id": "pass",
+        "label": "Too much heat",
+        "effectText": "No effect."
+      }
+    ],
+    "effects": [
+      {
+        "type": "signPlayer",
+        "details": {
+          "source": "opponentRoster",
+          "targetTier": "+6",
+          "sideEffects": [
+            "intensity+2",
+            "scandal+1"
+          ]
+        }
+      }
+    ],
+    "tags": [
+      "trade",
+      "brawl",
+      "risk-reward",
+      "alcohol",
+      "clubhouse-chaos"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "volatile_signing",
+      "rosterHooks": [
+        "loose-cannon",
+        "volatile",
+        "brawler"
+      ]
+    }
+  },
+  {
+    "id": "action-005",
+    "number": 5,
+    "name": "The Big Fish",
+    "cardFamily": "regular",
+    "cardType": "trade",
+    "timing": "postgame",
+    "rarity": "uncommon",
+    "title": "The Big Fish",
+    "text": "The other team is willing to deal their (+7) to you, but they want your (+6) and a (+4). 'Wanna gamble?' Draw one Free Agent Card.",
+    "flavor": "The best trades always sting a little.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": [
+        {
+          "type": "rosterHas",
+          "minTier": "+6"
+        },
+        {
+          "type": "rosterHas",
+          "minTier": "+4"
+        }
+      ]
+    },
+    "choices": [
+      {
+        "id": "accept",
+        "label": "Make the deal",
+        "effectText": "Trade your (+6) and (+4) for their (+7). Draw 1 Free Agent."
+      },
+      {
+        "id": "decline",
+        "label": "Too rich for my blood",
+        "effectText": "No effect."
+      }
+    ],
+    "effects": [
+      {
+        "type": "offerTradeOrClaim",
+        "details": {
+          "source": "opponentRoster",
+          "targetTier": "+7",
+          "cost": [
+            "+6",
+            "+4"
+          ],
+          "bonus": "drawFreeAgent:1"
+        }
+      }
+    ],
+    "tags": [
+      "trade",
+      "blockbuster",
+      "free-agent-draw",
+      "multi-player"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "blockbuster_trade",
+      "rosterHooks": [
+        "trade-block",
+        "star-acquisition"
+      ]
+    }
+  },
+  {
+    "id": "action-006",
+    "number": 6,
+    "name": "Highway Robbery",
+    "cardFamily": "regular",
+    "cardType": "trade",
+    "timing": "postgame",
+    "rarity": "rare",
+    "title": "Highway Robbery",
+    "text": "Is this guy dreaming? The opposing team is offering their (+8) for your (+5), (+5), and (+4). But wait a minute here. Draw two Free Agent Cards.",
+    "flavor": "When the deal sounds too good, it usually is. But sometimes it ain't.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": [
+        {
+          "type": "rosterHas",
+          "minTier": "+5",
+          "count": 2
+        },
+        {
+          "type": "rosterHas",
+          "minTier": "+4"
+        }
+      ]
+    },
+    "choices": [
+      {
+        "id": "accept",
+        "label": "Take the deal",
+        "effectText": "Trade three players for their (+8). Draw 2 Free Agents."
+      },
+      {
+        "id": "decline",
+        "label": "Something smells",
+        "effectText": "No effect."
+      }
+    ],
+    "effects": [
+      {
+        "type": "offerTradeOrClaim",
+        "details": {
+          "source": "opponentRoster",
+          "targetTier": "+8",
+          "cost": [
+            "+5",
+            "+5",
+            "+4"
+          ],
+          "bonus": "drawFreeAgent:2"
+        }
+      }
+    ],
+    "tags": [
+      "trade",
+      "blockbuster",
+      "free-agent-draw",
+      "multi-player",
+      "risk-reward"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "highway_robbery",
+      "rosterHooks": [
+        "desperate-seller",
+        "star-acquisition"
+      ]
+    }
+  },
+  {
+    "id": "action-007",
+    "number": 7,
+    "name": "Victory Spoils",
+    "cardFamily": "regular",
+    "cardType": "trade",
+    "timing": "postgame",
+    "rarity": "common",
+    "title": "Victory Spoils",
+    "text": "Win: 'Aw to hell with ya, I'll swap my (+5) for your (+4), get outta town!' Lose: 'Jeez kid, take the (+4), you need him more than I do.'",
+    "flavor": "The post-game handshake that turns into a transaction.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "conditionalTrade",
+        "details": {
+          "onWin": {
+            "give": "+4",
+            "receive": "+5",
+            "source": "opponentRoster"
+          },
+          "onLose": {
+            "give": "nothing",
+            "receive": "+4",
+            "source": "opponentRoster"
+          }
+        }
+      }
+    ],
+    "tags": [
+      "trade",
+      "win-lose",
+      "mercy-deal"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "win_lose_swap",
+      "rosterHooks": [
+        "sportsmanship",
+        "pity-trade"
+      ]
+    }
+  },
+  {
+    "id": "action-008",
+    "number": 8,
+    "name": "Fury Swap",
+    "cardFamily": "regular",
+    "cardType": "trade",
+    "timing": "postgame",
+    "rarity": "uncommon",
+    "title": "Fury Swap",
+    "text": "Win: 'You sonofabitch, here just take (+6) and get the fuck outta here!' Lose: 'Thems the breaks, punk. Here take (+5), I ain't got space for him.'",
+    "flavor": "Baseball trades are 30% strategy and 70% emotion.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "conditionalTrade",
+        "details": {
+          "onWin": {
+            "give": "nothing",
+            "receive": "+6",
+            "source": "opponentRoster"
+          },
+          "onLose": {
+            "give": "nothing",
+            "receive": "+5",
+            "source": "opponentRoster"
+          }
+        }
+      }
+    ],
+    "tags": [
+      "trade",
+      "win-lose",
+      "profanity",
+      "emotion"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "fury_swap",
+      "rosterHooks": [
+        "volatile-manager",
+        "emotional-trade"
+      ]
+    }
+  },
+  {
+    "id": "action-009",
+    "number": 9,
+    "name": "Broadway Exit",
+    "cardFamily": "regular",
+    "cardType": "trade",
+    "timing": "postgame",
+    "rarity": "common",
+    "title": "Broadway Exit",
+    "text": "Win: The opposing (+4) was wondering if you had a spot for him. Lose: One of your better players (+5) decided to quit the team and go sing on Broadway.",
+    "flavor": "Eternity makes dreamers of us all.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "conditionalTrade",
+        "details": {
+          "onWin": {
+            "give": "nothing",
+            "receive": "+4",
+            "source": "opponentRoster"
+          },
+          "onLose": {
+            "lose": "+5",
+            "reason": "quit"
+          }
+        }
+      }
+    ],
+    "tags": [
+      "trade",
+      "win-lose",
+      "quit",
+      "absurd"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "win_gain_lose_quit",
+      "rosterHooks": [
+        "flaky-player",
+        "dreamer"
+      ]
+    }
+  },
+  {
+    "id": "action-010",
+    "number": 10,
+    "name": "Existential Crisis Trade",
+    "cardFamily": "regular",
+    "cardType": "trade",
+    "timing": "postgame",
+    "rarity": "rare",
+    "title": "Existential Crisis Trade",
+    "text": "Win: 'I'm so sick of this game. I hate eternity!' The other manager unloads his (+9) for your (+6), (+5), and (+4). Draw 2 Free Agent Cards. Lose: Nothing. Hit the showers.",
+    "flavor": "Even infinity gets old.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "accept",
+        "label": "Take the deal (Win only)",
+        "effectText": "Trade three players for (+9). Draw 2 Free Agents."
+      },
+      {
+        "id": "decline",
+        "label": "Let him cool off",
+        "effectText": "No effect."
+      }
+    ],
+    "effects": [
+      {
+        "type": "conditionalTrade",
+        "details": {
+          "onWin": {
+            "give": [
+              "+6",
+              "+5",
+              "+4"
+            ],
+            "receive": "+9",
+            "bonus": "drawFreeAgent:2"
+          },
+          "onLose": "noEffect"
+        }
+      }
+    ],
+    "tags": [
+      "trade",
+      "blockbuster",
+      "win-gated",
+      "existential",
+      "free-agent-draw"
+    ],
+    "generatorHints": {
+      "canBeGenerated": false,
+      "templateKey": null,
+      "rosterHooks": []
+    }
+  },
+  {
+    "id": "action-011",
+    "number": 11,
+    "name": "Even Trade Keeper",
+    "cardFamily": "regular",
+    "cardType": "keeper",
+    "timing": "anytime",
+    "rarity": "rare",
+    "title": "Even Trade \u2014 Opponent",
+    "text": "KEEPER: Hold this card. Play it at any time to initiate an even-value trade with the opposing team. You pick, they accept. That's how keepers work around here.",
+    "flavor": "The ace up your sleeve. Use it wisely.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "anytime",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "keeper",
+        "details": {
+          "action": "initiateEvenTrade",
+          "scope": "opponentRoster"
+        }
+      }
+    ],
+    "tags": [
+      "keeper",
+      "trade",
+      "even-swap",
+      "strategic"
+    ],
+    "generatorHints": {
+      "canBeGenerated": false,
+      "templateKey": null,
+      "rosterHooks": []
+    }
+  },
+  {
+    "id": "action-012",
+    "number": 12,
+    "name": "Full Deck Trade Keeper",
+    "cardFamily": "regular",
+    "cardType": "keeper",
+    "timing": "anytime",
+    "rarity": "legendary",
+    "title": "Even Trade \u2014 Full Deck",
+    "text": "KEEPER: Hold this card. Play it at any time to initiate an even-value trade with any player in the entire available pool. The whole deck is your catalog.",
+    "flavor": "In eternity, everyone's available. Eventually.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "anytime",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "keeper",
+        "details": {
+          "action": "initiateEvenTrade",
+          "scope": "entireDeck"
+        }
+      }
+    ],
+    "tags": [
+      "keeper",
+      "trade",
+      "even-swap",
+      "full-access",
+      "legendary"
+    ],
+    "generatorHints": {
+      "canBeGenerated": false,
+      "templateKey": null,
+      "rosterHooks": []
+    }
+  },
+  {
+    "id": "action-013",
+    "number": 13,
+    "name": "Pulled Something",
+    "cardFamily": "regular",
+    "cardType": "injury",
+    "timing": "postgame",
+    "rarity": "common",
+    "title": "Pulled Something",
+    "text": "Your (+5) stretches something unpronounceable during the game. Trainer says he's out next game, maybe longer if he doesn't rest.",
+    "flavor": "They don't even know what to call the muscle he pulled.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "injurePlayer",
+        "details": {
+          "targetTier": "+5",
+          "duration": 1,
+          "unit": "games"
+        }
+      }
+    ],
+    "tags": [
+      "injury",
+      "1-game",
+      "minor",
+      "absurd"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "minor_injury",
+      "rosterHooks": [
+        "injury-prone",
+        "aging"
+      ]
+    }
+  },
+  {
+    "id": "action-014",
+    "number": 14,
+    "name": "Hot Streak / Hangover",
+    "cardFamily": "regular",
+    "cardType": "clubhouse",
+    "timing": "postgame",
+    "rarity": "common",
+    "title": "Hot Streak / Hangover",
+    "text": "Win: Your (+4) gets an extra Contact point next game \u2014 he's seeing the ball like a grapefruit. Lose: Your (+5) stays out late getting hammered. He's useless tomorrow. Out 1 game.",
+    "flavor": "The night after a win and the night after a loss are very different animals.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "conditional",
+        "details": {
+          "onWin": {
+            "type": "modifyStat",
+            "target": "+4",
+            "stat": "contact",
+            "value": 1,
+            "duration": 1
+          },
+          "onLose": {
+            "type": "injurePlayer",
+            "target": "+5",
+            "duration": 1,
+            "reason": "hangover"
+          }
+        }
+      }
+    ],
+    "tags": [
+      "win-lose",
+      "buff",
+      "injury",
+      "alcohol",
+      "clubhouse"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "win_buff_lose_injury",
+      "rosterHooks": [
+        "party-animal",
+        "hot-streak"
+      ]
+    }
+  },
+  {
+    "id": "action-015",
+    "number": 15,
+    "name": "Ty Cobb Heckles",
+    "cardFamily": "regular",
+    "cardType": "legend",
+    "timing": "pregame",
+    "rarity": "uncommon",
+    "title": "Ty Cobb Heckles",
+    "text": "Ty Cobb shows up at batting practice and starts heckling your whole squad. But your (+6) hit one out right as he told Cobb to go to hell. That (+6) hits one guaranteed bomb tonight.",
+    "flavor": "The Georgia Peach never could keep his mouth shut. Sometimes that works in your favor.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "pregame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "guaranteedOutcome",
+        "details": {
+          "target": "+6",
+          "outcome": "homeRun",
+          "duration": 1
+        }
+      }
+    ],
+    "tags": [
+      "celebrity-cameo",
+      "guaranteed-outcome",
+      "power",
+      "legend"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "legend_heckle_inspire",
+      "rosterHooks": [
+        "power-hitter",
+        "defiant"
+      ]
+    }
+  },
+  {
+    "id": "action-016",
+    "number": 16,
+    "name": "Babe Ruth's Party",
+    "cardFamily": "regular",
+    "cardType": "clubhouse",
+    "timing": "pregame",
+    "rarity": "common",
+    "title": "Babe Ruth's Party",
+    "text": "Babe Ruth was up late partying with several of your players. One of them woke up in a bathtub of gin. Your (+5) is out tonight.",
+    "flavor": "The Sultan of Swat is also the Sultan of Bad Decisions.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "pregame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "injurePlayer",
+        "details": {
+          "targetTier": "+5",
+          "duration": 1,
+          "reason": "hangover"
+        }
+      }
+    ],
+    "tags": [
+      "celebrity-cameo",
+      "injury",
+      "alcohol",
+      "1-game",
+      "absurd"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "legend_party_casualty",
+      "rosterHooks": [
+        "party-animal",
+        "nightlife"
+      ]
+    }
+  },
+  {
+    "id": "action-017",
+    "number": 17,
+    "name": "Old Friend",
+    "cardFamily": "regular",
+    "cardType": "opportunity",
+    "timing": "betweenGames",
+    "rarity": "uncommon",
+    "title": "Old Friend",
+    "text": "One of your teammates was lifelong friends with a legend. They reconnect over dinner. Choose a (+6) card of your choice from the available pool and add him to your roster.",
+    "flavor": "In eternity, old friends always turn up.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "betweenGames",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "sign",
+        "label": "Sign the old friend",
+        "effectText": "Choose any (+6) from the available pool."
+      },
+      {
+        "id": "decline",
+        "label": "Nice dinner though",
+        "effectText": "No effect."
+      }
+    ],
+    "effects": [
+      {
+        "type": "signPlayer",
+        "details": {
+          "source": "availablePool",
+          "targetTier": "+6",
+          "choice": "playerPick"
+        }
+      }
+    ],
+    "tags": [
+      "signing",
+      "choose-player",
+      "friendship",
+      "opportunity"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "old_friend_signing",
+      "rosterHooks": [
+        "loyal",
+        "mentor",
+        "veteran"
+      ]
+    }
+  },
+  {
+    "id": "action-018",
+    "number": 18,
+    "name": "Drunken Signing",
+    "cardFamily": "regular",
+    "cardType": "opportunity",
+    "timing": "betweenGames",
+    "rarity": "rare",
+    "title": "Drunken Signing",
+    "text": "As it turns out, you signed a (+7) when you were out drinking last night. You almost forgot. Choose a (+7) card of your choice.",
+    "flavor": "The best contracts are written on cocktail napkins.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "betweenGames",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "signPlayer",
+        "details": {
+          "source": "availablePool",
+          "targetTier": "+7",
+          "choice": "playerPick"
+        }
+      }
+    ],
+    "tags": [
+      "signing",
+      "choose-player",
+      "alcohol",
+      "opportunity",
+      "rare"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "drunken_signing",
+      "rosterHooks": [
+        "party-animal",
+        "risk-taker"
+      ]
+    }
+  },
+  {
+    "id": "action-019",
+    "number": 19,
+    "name": "Tape Study",
+    "cardFamily": "regular",
+    "cardType": "opportunity",
+    "timing": "betweenGames",
+    "rarity": "rare",
+    "title": "Tape Study",
+    "text": "You sign a (+8) after watching his little league tapes. Something about the swing. Choose a (+8). You must discard your (+6) or highest card to make room.",
+    "flavor": "Scouts see the future. Good managers trust the film.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "betweenGames",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "sign",
+        "label": "Sign the (+8)",
+        "effectText": "Choose any (+8). Discard your (+6) or highest card."
+      },
+      {
+        "id": "pass",
+        "label": "The price is too high",
+        "effectText": "No effect."
+      }
+    ],
+    "effects": [
+      {
+        "type": "signPlayer",
+        "details": {
+          "source": "availablePool",
+          "targetTier": "+8",
+          "cost": "releaseHighestOrTier:+6"
+        }
+      }
+    ],
+    "tags": [
+      "signing",
+      "choose-player",
+      "sacrifice",
+      "scouting"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "tape_study_signing",
+      "rosterHooks": [
+        "scout-eye",
+        "prospect"
+      ]
+    }
+  },
+  {
+    "id": "action-020",
+    "number": 20,
+    "name": "Fed Up",
+    "cardFamily": "regular",
+    "cardType": "clubhouse",
+    "timing": "postgame",
+    "rarity": "common",
+    "title": "Fed Up",
+    "text": "Your (+6) says he's sick of the way you've been using him and chooses to walk. Don't bother chasing him. Draw 1 Free Agent Card as a replacement.",
+    "flavor": "You can't make everyone happy. Especially not for eternity.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "releasePlayer",
+        "details": {
+          "targetTier": "+6",
+          "reason": "quit"
+        }
+      },
+      {
+        "type": "drawFreeAgent",
+        "details": {
+          "count": 1
+        }
+      }
+    ],
+    "tags": [
+      "quit",
+      "forced-release",
+      "free-agent-draw",
+      "morale",
+      "clubhouse"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "player_walks",
+      "rosterHooks": [
+        "diva",
+        "high-ego",
+        "frustrated"
+      ]
+    }
+  },
+  {
+    "id": "action-021",
+    "number": 21,
+    "name": "Stirring Speech",
+    "cardFamily": "regular",
+    "cardType": "manager",
+    "timing": "postgame",
+    "rarity": "common",
+    "title": "Stirring Speech",
+    "text": "After the game you give a stirring speech that would make Knute Rockne weep. Next game, your starting pitcher is rated (5) regardless of actual rating.",
+    "flavor": "Words win ball games. Sometimes.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "modifyStat",
+        "details": {
+          "target": "startingPitcher",
+          "stat": "overall",
+          "setValue": 5,
+          "duration": 1
+        }
+      }
+    ],
+    "tags": [
+      "morale",
+      "pitching",
+      "buff",
+      "manager",
+      "speech"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "stirring_speech",
+      "rosterHooks": [
+        "leader",
+        "inspirational"
+      ]
+    }
+  },
+  {
+    "id": "action-022",
+    "number": 22,
+    "name": "Ted Williams Tips",
+    "cardFamily": "regular",
+    "cardType": "legend",
+    "timing": "pregame",
+    "rarity": "common",
+    "title": "Ted Williams Tips",
+    "text": "Ted Williams drops by to give your guys some batting tips. But all it does is get in their heads and mess them up. You spend the afternoon fixing things in BP. No effect.",
+    "flavor": "The greatest hitter who ever lived is also the worst hitting coach in eternity.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "pregame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "noEffect",
+        "details": {}
+      }
+    ],
+    "tags": [
+      "celebrity-cameo",
+      "no-effect",
+      "humor",
+      "legend"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "legend_bad_advice",
+      "rosterHooks": [
+        "contact-hitter",
+        "overthinking"
+      ]
+    }
+  },
+  {
+    "id": "action-023",
+    "number": 23,
+    "name": "Charlie Hough Emergency Start",
+    "cardFamily": "regular",
+    "cardType": "legend",
+    "timing": "pregame",
+    "rarity": "uncommon",
+    "title": "Charlie Hough Emergency Start",
+    "text": "Legendary knuckleballer Charlie Hough says he'll pitch for you tomorrow. Win last game: he's a (5). Lost last game: he's a (4). Either way, that knuckleball dances.",
+    "flavor": "The ball floats up there like a butterfly with a grudge.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "pregame",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "start",
+        "label": "Let Hough pitch",
+        "effectText": "Hough starts next game. Rating depends on last result."
+      },
+      {
+        "id": "decline",
+        "label": "Stick with the rotation",
+        "effectText": "No effect."
+      }
+    ],
+    "effects": [
+      {
+        "type": "addTemporaryGuest",
+        "details": {
+          "player": "Charlie Hough",
+          "position": "SP",
+          "onWin": 5,
+          "onLose": 4,
+          "duration": 1
+        }
+      }
+    ],
+    "tags": [
+      "celebrity-cameo",
+      "pitching",
+      "win-lose",
+      "one-game-rental"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "legend_guest_pitcher",
+      "rosterHooks": [
+        "knuckleballer",
+        "emergency-start"
+      ]
+    }
+  },
+  {
+    "id": "action-024",
+    "number": 24,
+    "name": "Post-Game Brawl",
+    "cardFamily": "regular",
+    "cardType": "clubhouse",
+    "timing": "postgame",
+    "rarity": "uncommon",
+    "title": "Post-Game Brawl",
+    "text": "Win: After the game, one of your guys punches the other team's (+6)! They make up and he agrees to join. Lose: After the game, one of your guys gets his ass kicked. -1 morale.",
+    "flavor": "The handshake line got interesting.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "conditional",
+        "details": {
+          "onWin": {
+            "type": "signPlayer",
+            "source": "opponentRoster",
+            "targetTier": "+6"
+          },
+          "onLose": {
+            "type": "modifyClubhouseState",
+            "stat": "morale",
+            "value": -1
+          }
+        }
+      }
+    ],
+    "tags": [
+      "win-lose",
+      "brawl",
+      "signing",
+      "morale",
+      "clubhouse-chaos"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "postgame_brawl",
+      "rosterHooks": [
+        "brawler",
+        "volatile",
+        "hothead"
+      ]
+    }
+  },
+  {
+    "id": "action-025",
+    "number": 25,
+    "name": "Newspaper Quote",
+    "cardFamily": "regular",
+    "cardType": "opportunity",
+    "timing": "postgame",
+    "rarity": "rare",
+    "title": "Newspaper Quote",
+    "text": "Win: You're quoted in the local newspaper. A young (+8) hears it and is inspired to join. Sign (+8) of your choosing. Lose: You talk shit to reporters. Nothing much comes of it.",
+    "flavor": "The pen is mightier than the bat. But only on good days.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "conditional",
+        "details": {
+          "onWin": {
+            "type": "signPlayer",
+            "source": "availablePool",
+            "targetTier": "+8",
+            "choice": "playerPick"
+          },
+          "onLose": {
+            "type": "noEffect"
+          }
+        }
+      }
+    ],
+    "tags": [
+      "win-lose",
+      "media",
+      "signing",
+      "choose-player",
+      "win-gated"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "newspaper_inspire",
+      "rosterHooks": [
+        "media-savvy",
+        "inspirational"
+      ]
+    }
+  },
+  {
+    "id": "action-026",
+    "number": 26,
+    "name": "Pete Rose at the Signing Table",
+    "cardFamily": "regular",
+    "cardType": "legend",
+    "timing": "betweenGames",
+    "rarity": "uncommon",
+    "title": "Pete Rose at the Signing Table",
+    "text": "You meet Pete Rose at an autograph signing. He offers to play for next to nothing. But you gotta replace your 2B \u2014 Pete plays where Pete wants.",
+    "flavor": "Charlie Hustle doesn't care about the money. He cares about the action.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "betweenGames",
+      "conditions": [
+        {
+          "type": "positionFilled",
+          "position": "2B"
+        }
+      ]
+    },
+    "choices": [
+      {
+        "id": "sign",
+        "label": "Sign Pete Rose",
+        "effectText": "Release current 2B. Pete Rose joins as 2B."
+      },
+      {
+        "id": "decline",
+        "label": "I like my 2B",
+        "effectText": "No effect."
+      }
+    ],
+    "effects": [
+      {
+        "type": "signPlayer",
+        "details": {
+          "player": "Pete Rose",
+          "position": "2B",
+          "requireRelease": "2B"
+        }
+      }
+    ],
+    "tags": [
+      "celebrity-cameo",
+      "signing",
+      "position-gate",
+      "sacrifice",
+      "legend"
+    ],
+    "generatorHints": {
+      "canBeGenerated": false,
+      "templateKey": null,
+      "rosterHooks": []
+    }
+  },
+  {
+    "id": "action-027",
+    "number": 27,
+    "name": "Ozzie Smith Wants In",
+    "cardFamily": "regular",
+    "cardType": "legend",
+    "timing": "betweenGames",
+    "rarity": "uncommon",
+    "title": "Ozzie Smith Wants In",
+    "text": "Ozzie Smith thinks your lineup and his glove are a good fit. He'll sign if he starts at SS. No negotiations.",
+    "flavor": "The Wizard does backflips. Your defense does too.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "betweenGames",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "sign",
+        "label": "Start Ozzie at SS",
+        "effectText": "Ozzie Smith joins. Must start at SS."
+      },
+      {
+        "id": "decline",
+        "label": "Can't move my SS",
+        "effectText": "No effect."
+      }
+    ],
+    "effects": [
+      {
+        "type": "signPlayer",
+        "details": {
+          "player": "Ozzie Smith",
+          "position": "SS",
+          "requireStart": true
+        }
+      }
+    ],
+    "tags": [
+      "celebrity-cameo",
+      "signing",
+      "position-gate",
+      "defense",
+      "legend"
+    ],
+    "generatorHints": {
+      "canBeGenerated": false,
+      "templateKey": null,
+      "rosterHooks": []
+    }
+  },
+  {
+    "id": "action-028",
+    "number": 28,
+    "name": "Barry Bonds Prestige",
+    "cardFamily": "regular",
+    "cardType": "legend",
+    "timing": "betweenGames",
+    "rarity": "rare",
+    "title": "Barry Bonds Prestige",
+    "text": "Barry Bonds is a free agent but will only sign with a team with an overall rating over 90. Is your squad elite enough for the most dangerous hitter in history?",
+    "flavor": "Barry doesn't join losers. Barry IS the winning.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "betweenGames",
+      "conditions": [
+        {
+          "type": "teamOverall",
+          "min": 90
+        }
+      ]
+    },
+    "choices": [
+      {
+        "id": "sign",
+        "label": "Sign Barry Bonds",
+        "effectText": "Bonds joins your roster."
+      },
+      {
+        "id": "decline",
+        "label": "Too much baggage",
+        "effectText": "No effect."
+      }
+    ],
+    "effects": [
+      {
+        "type": "signPlayer",
+        "details": {
+          "player": "Barry Bonds",
+          "condition": "teamOverall>=90"
+        }
+      }
+    ],
+    "tags": [
+      "celebrity-cameo",
+      "signing",
+      "team-rating-gate",
+      "power",
+      "legend"
+    ],
+    "generatorHints": {
+      "canBeGenerated": false,
+      "templateKey": null,
+      "rosterHooks": []
+    }
+  },
+  {
+    "id": "action-029",
+    "number": 29,
+    "name": "Hack Wilson's Bender",
+    "cardFamily": "regular",
+    "cardType": "legend",
+    "timing": "betweenGames",
+    "rarity": "uncommon",
+    "title": "Hack Wilson's Bender",
+    "text": "Hack Wilson got drunk and punched out his now-former manager. He'll sign, so long as your team's got a chance. Team overall 70 or higher.",
+    "flavor": "56 home runs. 191 RBI. And a BAC that could strip paint.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "betweenGames",
+      "conditions": [
+        {
+          "type": "teamOverall",
+          "min": 70
+        }
+      ]
+    },
+    "choices": [
+      {
+        "id": "sign",
+        "label": "Sign Hack Wilson",
+        "effectText": "Wilson joins if team OVR >= 70."
+      },
+      {
+        "id": "decline",
+        "label": "We don't need that headache",
+        "effectText": "No effect."
+      }
+    ],
+    "effects": [
+      {
+        "type": "signPlayer",
+        "details": {
+          "player": "Hack Wilson",
+          "condition": "teamOverall>=70"
+        }
+      }
+    ],
+    "tags": [
+      "celebrity-cameo",
+      "signing",
+      "team-rating-gate",
+      "alcohol",
+      "brawl",
+      "legend"
+    ],
+    "generatorHints": {
+      "canBeGenerated": false,
+      "templateKey": null,
+      "rosterHooks": []
+    }
+  },
+  {
+    "id": "action-030",
+    "number": 30,
+    "name": "Andre Dawson Bargain",
+    "cardFamily": "regular",
+    "cardType": "legend",
+    "timing": "betweenGames",
+    "rarity": "uncommon",
+    "title": "Andre Dawson Bargain",
+    "text": "Andre Dawson is being frozen out by greedy colluding owners. He doesn't care what you pay him. He just wants to hit 40 homers a year. Sign him. No conditions.",
+    "flavor": "Sometimes the best deals cost nothing. The Hawk flies free.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "betweenGames",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "sign",
+        "label": "Sign Andre Dawson",
+        "effectText": "Dawson joins your roster. No cost."
+      },
+      {
+        "id": "decline",
+        "label": "No room",
+        "effectText": "No effect."
+      }
+    ],
+    "effects": [
+      {
+        "type": "signPlayer",
+        "details": {
+          "player": "Andre Dawson",
+          "cost": "none"
+        }
+      }
+    ],
+    "tags": [
+      "celebrity-cameo",
+      "signing",
+      "free",
+      "legend",
+      "power"
+    ],
+    "generatorHints": {
+      "canBeGenerated": false,
+      "templateKey": null,
+      "rosterHooks": []
+    }
+  },
+  {
+    "id": "action-031",
+    "number": 31,
+    "name": "Sandy Koufax Appears",
+    "cardFamily": "regular",
+    "cardType": "legend",
+    "timing": "postgame",
+    "rarity": "rare",
+    "title": "Sandy Koufax Appears",
+    "text": "Win: 'That was amazing \u2014 you seemed overmatched but you've got a good team. Need an arm?' Sign Sandy Koufax. Lose: Tough loss, better luck next time, kid.",
+    "flavor": "The left arm of God only shows up when you deserve it.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "conditional",
+        "details": {
+          "onWin": {
+            "type": "signPlayer",
+            "player": "Sandy Koufax"
+          },
+          "onLose": {
+            "type": "noEffect"
+          }
+        }
+      }
+    ],
+    "tags": [
+      "win-lose",
+      "celebrity-cameo",
+      "signing",
+      "pitching",
+      "win-gated",
+      "legend"
+    ],
+    "generatorHints": {
+      "canBeGenerated": false,
+      "templateKey": null,
+      "rosterHooks": []
+    }
+  },
+  {
+    "id": "action-032",
+    "number": 32,
+    "name": "Sick of the Bench",
+    "cardFamily": "regular",
+    "cardType": "trade",
+    "timing": "postgame",
+    "rarity": "common",
+    "title": "Sick of the Bench",
+    "text": "Your (+4) is sick of riding pine behind better players and wants a trade. Luckily the opposing team is sick of their (+5). Even swap. Done deal.",
+    "flavor": "Two problems solving each other.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "accept",
+        "label": "Make the swap",
+        "effectText": "Trade your (+4) for opponent's (+5)."
+      },
+      {
+        "id": "decline",
+        "label": "I need my bench",
+        "effectText": "Player unhappy. -1 morale."
+      }
+    ],
+    "effects": [
+      {
+        "type": "offerTradeOrClaim",
+        "details": {
+          "give": "+4",
+          "receive": "+5",
+          "source": "opponentRoster"
+        }
+      }
+    ],
+    "tags": [
+      "trade",
+      "even-swap",
+      "forced",
+      "bench",
+      "morale"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "bench_frustration_swap",
+      "rosterHooks": [
+        "frustrated",
+        "bench-player"
+      ]
+    }
+  },
+  {
+    "id": "action-033",
+    "number": 33,
+    "name": "Big Ed's Temper",
+    "cardFamily": "regular",
+    "cardType": "injury",
+    "timing": "postgame",
+    "rarity": "uncommon",
+    "title": "Big Ed's Temper",
+    "text": "Big Ed Delahanty takes umbrage with something said post-game. He beat your (+4) near to death. Your player is out for 2 games.",
+    "flavor": "Ed Delahanty: .346 lifetime average, zero lifetime chill.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "injurePlayer",
+        "details": {
+          "targetTier": "+4",
+          "duration": 2,
+          "reason": "assault",
+          "assailant": "Ed Delahanty"
+        }
+      }
+    ],
+    "tags": [
+      "injury",
+      "2-game",
+      "brawl",
+      "celebrity-cameo",
+      "dark-history"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "legend_assault",
+      "rosterHooks": [
+        "volatile",
+        "brawler",
+        "hothead"
+      ]
+    }
+  },
+  {
+    "id": "action-034",
+    "number": 34,
+    "name": "Clubhouse Feud",
+    "cardFamily": "regular",
+    "cardType": "clubhouse",
+    "timing": "postgame",
+    "rarity": "uncommon",
+    "title": "Clubhouse Feud",
+    "text": "Your (+6) and another (+6) are at each other's throats again. You have to trade one of them. Maury Wills and Wildfire Schulte are available, or trade for any (+5).",
+    "flavor": "Two egos, one clubhouse, zero patience.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": [
+        {
+          "type": "rosterHas",
+          "minTier": "+6",
+          "count": 2
+        }
+      ]
+    },
+    "choices": [
+      {
+        "id": "tradeFirst",
+        "label": "Trade the first (+6)",
+        "effectText": "Release first (+6). Sign Maury Wills, Wildfire Schulte, or any (+5)."
+      },
+      {
+        "id": "tradeSecond",
+        "label": "Trade the second (+6)",
+        "effectText": "Release second (+6). Sign replacement."
+      }
+    ],
+    "effects": [
+      {
+        "type": "forceTrade",
+        "details": {
+          "mustRelease": "+6",
+          "replacements": [
+            "Maury Wills",
+            "Wildfire Schulte",
+            "any+5"
+          ]
+        }
+      }
+    ],
+    "tags": [
+      "forced-trade",
+      "clubhouse",
+      "morale",
+      "ego",
+      "choice"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "clubhouse_feud_trade",
+      "rosterHooks": [
+        "high-ego",
+        "volatile",
+        "diva"
+      ]
+    }
+  },
+  {
+    "id": "action-035",
+    "number": 35,
+    "name": "Ultimatum",
+    "cardFamily": "regular",
+    "cardType": "clubhouse",
+    "timing": "postgame",
+    "rarity": "uncommon",
+    "title": "Ultimatum",
+    "text": "Your (+7) comes to you after the game. 'It's him or (+6).' Trade either for a (+5 or less), OR trade BOTH for a (+8). Your call, skip.",
+    "flavor": "The best players make the worst ultimatums.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "tradeOne",
+        "label": "Trade one for (+5)",
+        "effectText": "Trade the (+7) or (+6) for any (+5)."
+      },
+      {
+        "id": "tradeBoth",
+        "label": "Trade BOTH for (+8)",
+        "effectText": "Lose both players. Sign any (+8)."
+      }
+    ],
+    "effects": [
+      {
+        "type": "forceTrade",
+        "details": {
+          "options": [
+            "tradeOneForLess",
+            "tradeBothForMore"
+          ]
+        }
+      }
+    ],
+    "tags": [
+      "forced-trade",
+      "ultimatum",
+      "clubhouse",
+      "choice",
+      "high-stakes"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "player_ultimatum",
+      "rosterHooks": [
+        "diva",
+        "high-ego",
+        "star-conflict"
+      ]
+    }
+  },
+  {
+    "id": "action-036",
+    "number": 36,
+    "name": "Beer Brawl",
+    "cardFamily": "regular",
+    "cardType": "clubhouse",
+    "timing": "postgame",
+    "rarity": "uncommon",
+    "title": "Beer Brawl",
+    "text": "A beer brawl erupts in the locker room. It was your (+5) and (+5) going at it again. Release one or both. Draw a Free Agent Card for each player released.",
+    "flavor": "Domestic beer, domestic violence.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "releaseOne",
+        "label": "Release one (+5)",
+        "effectText": "Release one. Draw 1 Free Agent."
+      },
+      {
+        "id": "releaseBoth",
+        "label": "Release both",
+        "effectText": "Release both. Draw 2 Free Agents."
+      }
+    ],
+    "effects": [
+      {
+        "type": "forceTrade",
+        "details": {
+          "mustRelease": "+5",
+          "count": "1or2",
+          "bonus": "drawFreeAgentPerRelease"
+        }
+      }
+    ],
+    "tags": [
+      "brawl",
+      "forced-release",
+      "free-agent-draw",
+      "alcohol",
+      "clubhouse-chaos",
+      "choice"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "locker_room_brawl",
+      "rosterHooks": [
+        "brawler",
+        "party-animal",
+        "volatile"
+      ]
+    }
+  },
+  {
+    "id": "action-037",
+    "number": 37,
+    "name": "Spiked",
+    "cardFamily": "regular",
+    "cardType": "injury",
+    "timing": "postgame",
+    "rarity": "uncommon",
+    "title": "Spiked",
+    "text": "Your (+5) got spiked bad on a play at second. He's out for 7 games. You might as well trade or release him.",
+    "flavor": "Metal cleats and bad intentions.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "hold",
+        "label": "Hold and wait",
+        "effectText": "Player out 7 games. Roster spot occupied."
+      },
+      {
+        "id": "release",
+        "label": "Release him",
+        "effectText": "Free the roster spot. Draw 1 Free Agent."
+      }
+    ],
+    "effects": [
+      {
+        "type": "injurePlayer",
+        "details": {
+          "targetTier": "+5",
+          "duration": 7,
+          "reason": "spiked"
+        }
+      }
+    ],
+    "tags": [
+      "injury",
+      "severe",
+      "forced-decision",
+      "choice"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "severe_spiking",
+      "rosterHooks": [
+        "aggressive-baserunner",
+        "old-school"
+      ]
+    }
+  },
+  {
+    "id": "action-038",
+    "number": 38,
+    "name": "Double Play Collision",
+    "cardFamily": "regular",
+    "cardType": "injury",
+    "timing": "postgame",
+    "rarity": "common",
+    "title": "Double Play Collision",
+    "text": "Your second baseman got taken out on a hard slide turning a double play. He's going to miss the next game.",
+    "flavor": "The pivot man pays the price.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "injurePlayer",
+        "details": {
+          "targetPosition": "2B",
+          "duration": 1,
+          "reason": "collision"
+        }
+      }
+    ],
+    "tags": [
+      "injury",
+      "1-game",
+      "position-specific",
+      "2B"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "position_injury",
+      "rosterHooks": [
+        "middle-infielder"
+      ]
+    }
+  },
+  {
+    "id": "action-039",
+    "number": 39,
+    "name": "Hit By Pitch",
+    "cardFamily": "regular",
+    "cardType": "injury",
+    "timing": "postgame",
+    "rarity": "common",
+    "title": "Hit By Pitch",
+    "text": "Your third baseman was hit by a pitch and injured. He's going to miss the next 2 games.",
+    "flavor": "Inside corner, meet outside forearm.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "injurePlayer",
+        "details": {
+          "targetPosition": "3B",
+          "duration": 2,
+          "reason": "hitByPitch"
+        }
+      }
+    ],
+    "tags": [
+      "injury",
+      "2-game",
+      "position-specific",
+      "3B"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "position_injury",
+      "rosterHooks": [
+        "crowder-plate",
+        "brawl-target"
+      ]
+    }
+  },
+  {
+    "id": "action-040",
+    "number": 40,
+    "name": "Knee Trouble",
+    "cardFamily": "regular",
+    "cardType": "injury",
+    "timing": "postgame",
+    "rarity": "common",
+    "title": "Knee Trouble",
+    "text": "Your first baseman is having knee trouble and will miss the next game. Unless next game is a championship \u2014 then he plays through it but is out for 2 games after.",
+    "flavor": "The knee knows what's at stake.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "injurePlayer",
+        "details": {
+          "targetPosition": "1B",
+          "duration": 1,
+          "conditional": "ifChampionship:playButOut2After"
+        }
+      }
+    ],
+    "tags": [
+      "injury",
+      "conditional",
+      "position-specific",
+      "1B",
+      "championship"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "conditional_injury",
+      "rosterHooks": [
+        "aging",
+        "iron-man"
+      ]
+    }
+  },
+  {
+    "id": "action-041",
+    "number": 41,
+    "name": "Doctoring the Ball",
+    "cardFamily": "regular",
+    "cardType": "clubhouse",
+    "timing": "postgame",
+    "rarity": "uncommon",
+    "title": "Doctoring the Ball",
+    "text": "After the game it's discovered your starting pitcher had been cheating and doctoring the ball. He's suspended for 3 games!",
+    "flavor": "Pine tar, Vaseline, and a terrible poker face.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "suspendPlayer",
+        "details": {
+          "targetPosition": "SP",
+          "duration": 3,
+          "reason": "cheating"
+        }
+      }
+    ],
+    "tags": [
+      "scandal",
+      "pitching",
+      "suspension",
+      "cheating"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "pitcher_cheating",
+      "rosterHooks": [
+        "crafty-pitcher",
+        "dark-side"
+      ]
+    }
+  },
+  {
+    "id": "action-042",
+    "number": 42,
+    "name": "Catcher Ejected",
+    "cardFamily": "regular",
+    "cardType": "clubhouse",
+    "timing": "postgame",
+    "rarity": "uncommon",
+    "title": "Catcher Ejected",
+    "text": "Your catcher had some choice words for the umpire. He got suspended for 2 games! You must trade for a backup catcher at +1 value above your current.",
+    "flavor": "You can say a lot of things to an umpire. He said all of them.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "suspendPlayer",
+        "details": {
+          "targetPosition": "C",
+          "duration": 2,
+          "reason": "ejection"
+        }
+      },
+      {
+        "type": "forceTrade",
+        "details": {
+          "mustAcquire": "C",
+          "costModifier": "+1"
+        }
+      }
+    ],
+    "tags": [
+      "ejection",
+      "position-gate",
+      "forced-trade",
+      "catcher",
+      "umpire"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "catcher_ejection",
+      "rosterHooks": [
+        "hothead",
+        "volatile"
+      ]
+    }
+  },
+  {
+    "id": "action-043",
+    "number": 43,
+    "name": "Willie Mays Missed Train",
+    "cardFamily": "regular",
+    "cardType": "legend",
+    "timing": "pregame",
+    "rarity": "legendary",
+    "title": "Willie Mays Missed Train",
+    "text": "Willie Mays missed the train to his next game and agreed to play with you tonight to stay sharp. One-game rental. Mays plays as a (+11) for one game only.",
+    "flavor": "The Say Hey Kid says hey, can I borrow your jersey?",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "pregame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "addTemporaryGuest",
+        "details": {
+          "player": "Willie Mays",
+          "tier": "+11",
+          "position": "CF",
+          "duration": 1
+        }
+      }
+    ],
+    "tags": [
+      "celebrity-cameo",
+      "one-game-rental",
+      "legendary",
+      "outfield"
+    ],
+    "generatorHints": {
+      "canBeGenerated": false,
+      "templateKey": null,
+      "rosterHooks": []
+    }
+  },
+  {
+    "id": "action-044",
+    "number": 44,
+    "name": "Momentum Swing",
+    "cardFamily": "regular",
+    "cardType": "clubhouse",
+    "timing": "postgame",
+    "rarity": "common",
+    "title": "Momentum Swing",
+    "text": "Win: You're finally stacking up some wins. The team is starting to get behind you! +2 morale. Lose: The team is losing faith in you as manager. Your (+5) walks off. Draw 1 Free Agent.",
+    "flavor": "Winning cures everything. Losing poisons everything.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "conditional",
+        "details": {
+          "onWin": {
+            "type": "modifyClubhouseState",
+            "stat": "morale",
+            "value": 2
+          },
+          "onLose": {
+            "type": "releasePlayer",
+            "targetTier": "+5",
+            "reason": "quit",
+            "bonus": "drawFreeAgent:1"
+          }
+        }
+      }
+    ],
+    "tags": [
+      "win-lose",
+      "morale",
+      "quit",
+      "free-agent-draw"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "momentum_swing",
+      "rosterHooks": [
+        "fragile-confidence",
+        "leader"
+      ]
+    }
+  },
+  {
+    "id": "action-045",
+    "number": 45,
+    "name": "Trade Demand",
+    "cardFamily": "regular",
+    "cardType": "trade",
+    "timing": "postgame",
+    "rarity": "common",
+    "title": "Trade Demand",
+    "text": "Win: Great win! Hit the showers! Lose: Tensions are high. You need to make a move just to make a move. Trade any (+5 or up) for a (+4). Sometimes you gotta shake things up.",
+    "flavor": "Desperation trades are still trades.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "conditional",
+        "details": {
+          "onWin": {
+            "type": "noEffect"
+          },
+          "onLose": {
+            "type": "forceTrade",
+            "give": "+5orHigher",
+            "receive": "+4"
+          }
+        }
+      }
+    ],
+    "tags": [
+      "win-lose",
+      "forced-trade",
+      "desperation",
+      "loss-gated"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "desperation_trade",
+      "rosterHooks": [
+        "losing-streak",
+        "frustrated-manager"
+      ]
+    }
+  },
+  {
+    "id": "action-046",
+    "number": 46,
+    "name": "Negro League Barnstorm",
+    "cardFamily": "regular",
+    "cardType": "opportunity",
+    "timing": "betweenGames",
+    "rarity": "rare",
+    "title": "Negro League Barnstorm",
+    "text": "The Negro League team is out barnstorming and they just challenged you! Win: Sign any Negro Leaguer (+8 or lower). Lose: Your (+7 or higher pre-1950) player quits in shame.",
+    "flavor": "They played a different game. They played it better.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "betweenGames",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "accept",
+        "label": "Accept the challenge",
+        "effectText": "Play the barnstorm game. Win/Lose determines outcome."
+      },
+      {
+        "id": "decline",
+        "label": "Decline respectfully",
+        "effectText": "No effect."
+      }
+    ],
+    "effects": [
+      {
+        "type": "conditional",
+        "details": {
+          "onWin": {
+            "type": "signPlayer",
+            "source": "negroLeaguePool",
+            "maxTier": "+8"
+          },
+          "onLose": {
+            "type": "releasePlayer",
+            "targetTier": "+7orHigher",
+            "condition": "pre1950",
+            "reason": "shame"
+          }
+        }
+      }
+    ],
+    "tags": [
+      "barnstorming",
+      "signing",
+      "era-gate",
+      "high-stakes",
+      "race-history"
+    ],
+    "generatorHints": {
+      "canBeGenerated": false,
+      "templateKey": null,
+      "rosterHooks": []
+    }
+  },
+  {
+    "id": "action-047",
+    "number": 47,
+    "name": "Talk Him Off the Ledge",
+    "cardFamily": "regular",
+    "cardType": "keeper",
+    "timing": "anytime",
+    "rarity": "rare",
+    "title": "Talk Him Off the Ledge",
+    "text": "KEEPER: Hold this card. Play it at any time to prevent a player from quitting the team or demanding a trade. Sometimes all they need is a conversation.",
+    "flavor": "The best managers know when to manage people, not lineups.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "anytime",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "keeper",
+        "details": {
+          "action": "preventQuitOrTradeRequest"
+        }
+      }
+    ],
+    "tags": [
+      "keeper",
+      "morale",
+      "clubhouse",
+      "save-player"
+    ],
+    "generatorHints": {
+      "canBeGenerated": false,
+      "templateKey": null,
+      "rosterHooks": []
+    }
+  },
+  {
+    "id": "action-048",
+    "number": 48,
+    "name": "Shrewd Negotiator",
+    "cardFamily": "regular",
+    "cardType": "keeper",
+    "timing": "anytime",
+    "rarity": "rare",
+    "title": "Shrewd Negotiator",
+    "text": "KEEPER: Hold this card. Play it to add (+1) to the receiving end of your next trade. The art of the deal. The baseball deal, anyway.",
+    "flavor": "Every GM wishes they had this in their pocket.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "anytime",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "keeper",
+        "details": {
+          "action": "tradeBonus",
+          "modifier": "+1toReceiving"
+        }
+      }
+    ],
+    "tags": [
+      "keeper",
+      "trade",
+      "strategic",
+      "bonus"
+    ],
+    "generatorHints": {
+      "canBeGenerated": false,
+      "templateKey": null,
+      "rosterHooks": []
+    }
+  },
+  {
+    "id": "action-049",
+    "number": 49,
+    "name": "World War",
+    "cardFamily": "regular",
+    "cardType": "drama",
+    "timing": "betweenGames",
+    "rarity": "legendary",
+    "title": "World War",
+    "text": "World War breaks out! All cards rated (+7) and up are drafted into military service and will miss the next 3 games. The roster thins. The stakes rise.",
+    "flavor": "Even in eternity, history has a way of repeating itself.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "betweenGames",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "injurePlayer",
+        "details": {
+          "targetTier": "+7andUp",
+          "duration": 3,
+          "reason": "warDraft",
+          "affectsAll": true
+        }
+      }
+    ],
+    "tags": [
+      "drama",
+      "war",
+      "era-event",
+      "multi-player",
+      "severe",
+      "legendary"
+    ],
+    "generatorHints": {
+      "canBeGenerated": false,
+      "templateKey": null,
+      "rosterHooks": []
+    }
+  },
+  {
+    "id": "action-050",
+    "number": 50,
+    "name": "Terminal Diagnosis",
+    "cardFamily": "regular",
+    "cardType": "drama",
+    "timing": "betweenGames",
+    "rarity": "legendary",
+    "title": "Terminal Diagnosis",
+    "text": "Your highest-rated player comes to you and reveals he has a terminal illness. He'll play 3 final games \u2014 4 if the last one is a championship. Then he's gone forever. Make them count.",
+    "flavor": "Some stories don't have happy endings. They have meaningful ones.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "betweenGames",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "injurePlayer",
+        "details": {
+          "target": "highestOverall",
+          "duration": 3,
+          "conditional": "4ifChampionship",
+          "permanent": true,
+          "reason": "terminalIllness"
+        }
+      }
+    ],
+    "tags": [
+      "drama",
+      "illness",
+      "permanent-loss",
+      "emotional",
+      "legendary"
+    ],
+    "generatorHints": {
+      "canBeGenerated": false,
+      "templateKey": null,
+      "rosterHooks": []
+    }
+  },
+  {
+    "id": "action-051",
+    "number": 51,
+    "name": "Murder at the Hotel",
+    "cardFamily": "regular",
+    "cardType": "drama",
+    "timing": "betweenGames",
+    "rarity": "legendary",
+    "title": "Murder at the Hotel",
+    "text": "At bed checks, your (+7 or highest) was discovered dead in his hotel room. He'd been writing checks his ass couldn't cash. Discard player permanently.",
+    "flavor": "Eternity doesn't mean you can't die twice.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "betweenGames",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "releasePlayer",
+        "details": {
+          "target": "highestOverallOrTier:+7",
+          "permanent": true,
+          "reason": "death"
+        }
+      }
+    ],
+    "tags": [
+      "drama",
+      "death",
+      "permanent-loss",
+      "dark",
+      "legendary"
+    ],
+    "generatorHints": {
+      "canBeGenerated": false,
+      "templateKey": null,
+      "rosterHooks": []
+    }
+  },
+  {
+    "id": "action-052",
+    "number": 52,
+    "name": "The Scandal",
+    "cardFamily": "regular",
+    "cardType": "drama",
+    "timing": "betweenGames",
+    "rarity": "rare",
+    "title": "The Scandal",
+    "text": "Your (+7 or highest) has gotten your daughter pregnant. Choice: discard him permanently, OR he's locked at his position for the rest of the game \u2014 can't be traded, can't be benched. He's family now.",
+    "flavor": "Baseball is a family game. This just got personal.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "betweenGames",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "discard",
+        "label": "He's gone",
+        "effectText": "Discard player permanently."
+      },
+      {
+        "id": "keep",
+        "label": "Welcome to the family",
+        "effectText": "Player locked at position for remainder of game. Cannot trade or bench."
+      }
+    ],
+    "effects": [
+      {
+        "type": "forceTrade",
+        "details": {
+          "options": [
+            "discardPermanently",
+            "lockPosition"
+          ]
+        }
+      }
+    ],
+    "tags": [
+      "drama",
+      "scandal",
+      "family",
+      "forced-choice",
+      "permanent"
+    ],
+    "generatorHints": {
+      "canBeGenerated": false,
+      "templateKey": null,
+      "rosterHooks": []
+    }
+  },
+  {
+    "id": "action-053",
+    "number": 53,
+    "name": "Drunk Trade",
+    "cardFamily": "regular",
+    "cardType": "drama",
+    "timing": "betweenGames",
+    "rarity": "rare",
+    "title": "Drunk Trade",
+    "text": "The opposing manager gets you drunk and you agree to an awful trade. Your (+7 or highest) for his (+4) and (+3). You may need to check out an AA meeting.",
+    "flavor": "Two drinks became four. Four became a catastrophe.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "betweenGames",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "forceTrade",
+        "details": {
+          "give": "highestOverallOrTier:+7",
+          "receive": [
+            "+4",
+            "+3"
+          ],
+          "mandatory": true
+        }
+      }
+    ],
+    "tags": [
+      "drama",
+      "trade",
+      "alcohol",
+      "devastating",
+      "forced"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "drunk_disaster_trade",
+      "rosterHooks": [
+        "party-animal",
+        "irresponsible"
+      ]
+    }
+  },
+  {
+    "id": "action-054",
+    "number": 54,
+    "name": "Mickey Mantle or Mass Exodus",
+    "cardFamily": "regular",
+    "cardType": "drama",
+    "timing": "betweenGames",
+    "rarity": "legendary",
+    "title": "Mickey Mantle or Mass Exodus",
+    "text": "If winning record: A player reaches out to Mickey Mantle. He agrees to join. Sign Mickey Mantle. If losing record: All players (+8 and up) leave the team!",
+    "flavor": "Fortune favors the bold. Misfortune favors the rest.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "betweenGames",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "conditional",
+        "details": {
+          "onWinningRecord": {
+            "type": "signPlayer",
+            "player": "Mickey Mantle"
+          },
+          "onLosingRecord": {
+            "type": "releasePlayer",
+            "targetTier": "+8andUp",
+            "affectsAll": true,
+            "reason": "exodus"
+          }
+        }
+      }
+    ],
+    "tags": [
+      "drama",
+      "record-gate",
+      "celebrity-cameo",
+      "mass-exodus",
+      "high-stakes",
+      "legendary"
+    ],
+    "generatorHints": {
+      "canBeGenerated": false,
+      "templateKey": null,
+      "rosterHooks": []
+    }
+  },
+  {
+    "id": "action-055",
+    "number": 55,
+    "name": "Blackmail",
+    "cardFamily": "regular",
+    "cardType": "drama",
+    "timing": "betweenGames",
+    "rarity": "rare",
+    "title": "Blackmail",
+    "text": "A sports reporter catches your (+8 or highest) cheating on his wife. He'll stay silent if you sign his friend, a (+3), for at least 5 games. Refuse and your star is out 3 games from the scandal.",
+    "flavor": "The press always gets their story. One way or another.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "betweenGames",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "comply",
+        "label": "Sign the reporter's friend",
+        "effectText": "Sign a (+3) who must stay on roster 5 games. Star plays."
+      },
+      {
+        "id": "refuse",
+        "label": "Refuse the blackmail",
+        "effectText": "Star player out 3 games. +2 Scandal."
+      }
+    ],
+    "effects": [
+      {
+        "type": "forceTrade",
+        "details": {
+          "options": [
+            "signDeadWeight",
+            "suspendStar"
+          ]
+        }
+      }
+    ],
+    "tags": [
+      "drama",
+      "scandal",
+      "media",
+      "blackmail",
+      "forced-choice"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "blackmail_scandal",
+      "rosterHooks": [
+        "dark-side",
+        "womanizer",
+        "media-target"
+      ]
+    }
+  },
+  {
+    "id": "action-056",
+    "number": 56,
+    "name": "Divorce Drama",
+    "cardFamily": "regular",
+    "cardType": "drama",
+    "timing": "betweenGames",
+    "rarity": "rare",
+    "title": "Divorce Drama",
+    "text": "Your top two players' children are getting divorced from each other. Family tensions mean one of them must be traded for equal value from the next opponent. The traded player will hit a guaranteed homer against you.",
+    "flavor": "When families break up, clubhouses do too.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "betweenGames",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "tradeFirst",
+        "label": "Trade the first player",
+        "effectText": "Trade player 1 for equal value. He hits a guaranteed HR against you."
+      },
+      {
+        "id": "tradeSecond",
+        "label": "Trade the second player",
+        "effectText": "Trade player 2 for equal value. He hits a guaranteed HR against you."
+      }
+    ],
+    "effects": [
+      {
+        "type": "forceTrade",
+        "details": {
+          "mustTradeOneOfTop2": true,
+          "tradeForEqualValue": true,
+          "revenge": "guaranteedHomeRun"
+        }
+      }
+    ],
+    "tags": [
+      "drama",
+      "family",
+      "forced-trade",
+      "guaranteed-outcome",
+      "revenge",
+      "choice"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "family_drama_trade",
+      "rosterHooks": [
+        "family-man",
+        "loyalty"
+      ]
+    }
+  },
+  {
+    "id": "action-057",
+    "number": 57,
+    "name": "Bathroom Encounter",
+    "cardFamily": "regular",
+    "cardType": "legend",
+    "timing": "betweenGames",
+    "rarity": "uncommon",
+    "title": "Bathroom Encounter",
+    "text": "You run into Kirby Puckett in the bathroom at a steakhouse. After a few cordial minutes, he's agreed to replace your (+5) on the team. Puck's in.",
+    "flavor": "The best signings happen in the strangest places.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "betweenGames",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "sign",
+        "label": "Sign Kirby Puckett",
+        "effectText": "Puckett replaces your (+5)."
+      },
+      {
+        "id": "decline",
+        "label": "Finish washing your hands",
+        "effectText": "No effect."
+      }
+    ],
+    "effects": [
+      {
+        "type": "signPlayer",
+        "details": {
+          "player": "Kirby Puckett",
+          "cost": "release+5"
+        }
+      }
+    ],
+    "tags": [
+      "celebrity-cameo",
+      "signing",
+      "sacrifice",
+      "absurd",
+      "legend"
+    ],
+    "generatorHints": {
+      "canBeGenerated": false,
+      "templateKey": null,
+      "rosterHooks": []
+    }
+  },
+  {
+    "id": "action-058",
+    "number": 58,
+    "name": "The Best Game / Worst Day",
+    "cardFamily": "regular",
+    "cardType": "opportunity",
+    "timing": "postgame",
+    "rarity": "rare",
+    "title": "The Best Game / Worst Day",
+    "text": "Win by 7+: Lou Gehrig asks to join your team. Sign Lou Gehrig. Win by 6 or less: Cal Ripken asks instead. Sign Cal Ripken. Lose: Your (+5) packs his bags, muttering about you sucking eggs.",
+    "flavor": "The margin of victory determines the magnitude of the miracle.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "conditional",
+        "details": {
+          "onWinBy7Plus": {
+            "type": "signPlayer",
+            "player": "Lou Gehrig"
+          },
+          "onWinBy6OrLess": {
+            "type": "signPlayer",
+            "player": "Cal Ripken"
+          },
+          "onLose": {
+            "type": "releasePlayer",
+            "targetTier": "+5",
+            "reason": "quit"
+          }
+        }
+      }
+    ],
+    "tags": [
+      "win-lose",
+      "win-margin-gate",
+      "celebrity-cameo",
+      "signing",
+      "legend"
+    ],
+    "generatorHints": {
+      "canBeGenerated": false,
+      "templateKey": null,
+      "rosterHooks": []
+    }
+  },
+  {
+    "id": "action-059",
+    "number": 59,
+    "name": "Dazzy Vance Contract",
+    "cardFamily": "regular",
+    "cardType": "legend",
+    "timing": "betweenGames",
+    "rarity": "uncommon",
+    "title": "Dazzy Vance Contract",
+    "text": "Dazzy Vance will sign \u2014 but only if he's guaranteed starting pitcher for the next 10 games. If you bench or replace him before 10 games, he's released immediately. Non-negotiable.",
+    "flavor": "The Dazzler has terms. Accept them or move along.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "betweenGames",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "sign",
+        "label": "Accept Dazzy's terms",
+        "effectText": "Vance starts SP for 10 games. If benched early, he leaves."
+      },
+      {
+        "id": "decline",
+        "label": "Too much commitment",
+        "effectText": "No effect."
+      }
+    ],
+    "effects": [
+      {
+        "type": "signPlayer",
+        "details": {
+          "player": "Dazzy Vance",
+          "position": "SP",
+          "contract": {
+            "minGames": 10,
+            "ifBroken": "release"
+          }
+        }
+      }
+    ],
+    "tags": [
+      "celebrity-cameo",
+      "signing",
+      "pitching",
+      "contract-clause",
+      "legend"
+    ],
+    "generatorHints": {
+      "canBeGenerated": false,
+      "templateKey": null,
+      "rosterHooks": []
+    }
+  },
+  {
+    "id": "action-060",
+    "number": 60,
+    "name": "Frank Robinson MVP",
+    "cardFamily": "regular",
+    "cardType": "legend",
+    "timing": "betweenGames",
+    "rarity": "uncommon",
+    "title": "Frank Robinson MVP",
+    "text": "Frank Robinson was an MVP in both leagues and hopes to be in ILB as well. He'll join your team if you release the outfielder with the least power.",
+    "flavor": "The only man to win MVP in both leagues wants to add a third.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "betweenGames",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "sign",
+        "label": "Sign Frank Robinson",
+        "effectText": "Release your OF with lowest POW. Robinson joins."
+      },
+      {
+        "id": "decline",
+        "label": "I like my outfield",
+        "effectText": "No effect."
+      }
+    ],
+    "effects": [
+      {
+        "type": "signPlayer",
+        "details": {
+          "player": "Frank Robinson",
+          "cost": "releaseOF:lowestPower"
+        }
+      }
+    ],
+    "tags": [
+      "celebrity-cameo",
+      "signing",
+      "sacrifice",
+      "position-gate",
+      "legend"
+    ],
+    "generatorHints": {
+      "canBeGenerated": false,
+      "templateKey": null,
+      "rosterHooks": []
+    }
+  },
+  {
+    "id": "action-061",
+    "number": 61,
+    "name": "Busted Hand",
+    "cardFamily": "regular",
+    "cardType": "injury",
+    "timing": "postgame",
+    "rarity": "common",
+    "title": "Busted Hand",
+    "text": "Your (+6) busted his hand up on a slide. He'll miss your next game. Ice, tape, and bourbon.",
+    "flavor": "The dirt at second base doesn't forgive.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "injurePlayer",
+        "details": {
+          "targetTier": "+6",
+          "duration": 1,
+          "reason": "handInjury"
+        }
+      }
+    ],
+    "tags": [
+      "injury",
+      "1-game",
+      "minor"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "minor_injury",
+      "rosterHooks": [
+        "aggressive-baserunner"
+      ]
+    }
+  },
+  {
+    "id": "action-062",
+    "number": 62,
+    "name": "Mental Asylum",
+    "cardFamily": "regular",
+    "cardType": "drama",
+    "timing": "betweenGames",
+    "rarity": "legendary",
+    "title": "Mental Asylum",
+    "text": "Your (+7 pre-1950) went to a quack doctor for treatment and ended up committed to a mental asylum. He's gone for the rest of the season. This is not a joke. This happened.",
+    "flavor": "Baseball history is full of horrors that aren't in the record books.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "betweenGames",
+      "conditions": [
+        {
+          "type": "rosterHas",
+          "era": "pre-1950",
+          "minTier": "+7"
+        }
+      ]
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "releasePlayer",
+        "details": {
+          "targetTier": "+7",
+          "condition": "pre1950",
+          "permanent": true,
+          "reason": "institutionalized"
+        }
+      }
+    ],
+    "tags": [
+      "drama",
+      "era-gate",
+      "pre-1950",
+      "severe",
+      "dark-history",
+      "legendary"
+    ],
+    "generatorHints": {
+      "canBeGenerated": false,
+      "templateKey": null,
+      "rosterHooks": []
+    }
+  },
+  {
+    "id": "action-063",
+    "number": 63,
+    "name": "Rain Delay Keeper",
+    "cardFamily": "regular",
+    "cardType": "keeper",
+    "timing": "anytime",
+    "rarity": "rare",
+    "title": "Rain Delay",
+    "text": "KEEPER: Hold this card. Play it to cancel any one Action or Drama card before it resolves. The skies open up and wash the whole thing away.",
+    "flavor": "Sometimes the baseball gods grant a reprieve.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "anytime",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "keeper",
+        "details": {
+          "action": "cancelCard"
+        }
+      }
+    ],
+    "tags": [
+      "keeper",
+      "cancel",
+      "defensive",
+      "strategic"
+    ],
+    "generatorHints": {
+      "canBeGenerated": false,
+      "templateKey": null,
+      "rosterHooks": []
+    }
+  },
+  {
+    "id": "action-064",
+    "number": 64,
+    "name": "Second Opinion",
+    "cardFamily": "regular",
+    "cardType": "keeper",
+    "timing": "anytime",
+    "rarity": "rare",
+    "title": "Second Opinion",
+    "text": "KEEPER: Hold this card. Play it to reduce any injury duration by 1 game. The doc says he's fine. Probably. Get back out there.",
+    "flavor": "In eternity, the medical staff has seen everything. Twice.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "anytime",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "keeper",
+        "details": {
+          "action": "reduceInjury",
+          "modifier": -1
+        }
+      }
+    ],
+    "tags": [
+      "keeper",
+      "injury",
+      "recovery",
+      "strategic"
+    ],
+    "generatorHints": {
+      "canBeGenerated": false,
+      "templateKey": null,
+      "rosterHooks": []
+    }
+  },
+  {
+    "id": "action-065",
+    "number": 65,
+    "name": "Car Accident",
+    "cardFamily": "regular",
+    "cardType": "drama",
+    "timing": "betweenGames",
+    "rarity": "legendary",
+    "title": "Car Accident",
+    "text": "Your (+7 or highest) was involved in an automobile accident and may never walk again. Discard player permanently.",
+    "flavor": "The road between cities is long. Not everyone makes it.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "betweenGames",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "releasePlayer",
+        "details": {
+          "target": "highestOverallOrTier:+7",
+          "permanent": true,
+          "reason": "accident"
+        }
+      }
+    ],
+    "tags": [
+      "drama",
+      "accident",
+      "permanent-loss",
+      "legendary"
+    ],
+    "generatorHints": {
+      "canBeGenerated": false,
+      "templateKey": null,
+      "rosterHooks": []
+    }
+  },
+  {
+    "id": "action-066",
+    "number": 66,
+    "name": "Overheard at the Bar",
+    "cardFamily": "regular",
+    "cardType": "opportunity",
+    "timing": "betweenGames",
+    "rarity": "common",
+    "title": "Overheard at the Bar",
+    "text": "You overhear the opposing manager's pitching plan at a bar. Next game, all your batters get +1 Contact. He really should drink quieter.",
+    "flavor": "Loose lips sink rotations.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "betweenGames",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "modifyStat",
+        "details": {
+          "target": "allBatters",
+          "stat": "contact",
+          "value": 1,
+          "duration": 1
+        }
+      }
+    ],
+    "tags": [
+      "opportunity",
+      "buff",
+      "alcohol",
+      "scouting",
+      "humor"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "overheard_at_bar",
+      "rosterHooks": [
+        "party-animal",
+        "nightlife"
+      ]
+    }
+  },
+  {
+    "id": "action-067",
+    "number": 67,
+    "name": "Telegram from the Owner",
+    "cardFamily": "regular",
+    "cardType": "manager",
+    "timing": "betweenGames",
+    "rarity": "uncommon",
+    "title": "Telegram from the Owner",
+    "text": "A telegram arrives from the owner: 'WIN OR ELSE.' If you lose the next game, you must release your lowest-rated player. If you win, the owner sends a bonus: Draw 1 Free Agent.",
+    "flavor": "Ownership pressure is eternal. Literally.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "betweenGames",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "triggerFollowup",
+        "details": {
+          "nextGameWin": {
+            "type": "drawFreeAgent",
+            "count": 1
+          },
+          "nextGameLose": {
+            "type": "releasePlayer",
+            "target": "lowestOverall"
+          }
+        }
+      }
+    ],
+    "tags": [
+      "manager",
+      "pressure",
+      "conditional",
+      "followup"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "owner_pressure",
+      "rosterHooks": [
+        "losing-streak",
+        "underdog"
+      ]
+    }
+  },
+  {
+    "id": "action-068",
+    "number": 68,
+    "name": "Mystery Stranger",
+    "cardFamily": "regular",
+    "cardType": "opportunity",
+    "timing": "betweenGames",
+    "rarity": "uncommon",
+    "title": "Mystery Stranger",
+    "text": "A man in a trench coat approaches you at the train station. 'I know a guy. (+6). Good glove. Quiet. No questions.' Sign a (+6) from the available pool. No backstory. No paperwork.",
+    "flavor": "In eternity, some players just appear. Don't ask where from.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "betweenGames",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "sign",
+        "label": "Take the mystery player",
+        "effectText": "Sign any (+6) from the pool."
+      },
+      {
+        "id": "decline",
+        "label": "Too sketchy",
+        "effectText": "No effect."
+      }
+    ],
+    "effects": [
+      {
+        "type": "signPlayer",
+        "details": {
+          "source": "availablePool",
+          "targetTier": "+6",
+          "choice": "playerPick"
+        }
+      }
+    ],
+    "tags": [
+      "opportunity",
+      "signing",
+      "mystery",
+      "noir"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "mystery_signing",
+      "rosterHooks": [
+        "mysterious",
+        "shadowy"
+      ]
+    }
+  },
+  {
+    "id": "action-069",
+    "number": 69,
+    "name": "Fan Favorite",
+    "cardFamily": "regular",
+    "cardType": "clubhouse",
+    "timing": "postgame",
+    "rarity": "common",
+    "title": "Fan Favorite",
+    "text": "Win: The crowd starts chanting your (+4)'s name. He gains +1 Contact and +1 Clutch next game from the confidence boost. Lose: The crowd boos. -1 morale.",
+    "flavor": "The crowd giveth and the crowd taketh away.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "conditional",
+        "details": {
+          "onWin": {
+            "type": "modifyStat",
+            "target": "+4",
+            "stats": {
+              "contact": 1,
+              "clutch": 1
+            },
+            "duration": 1
+          },
+          "onLose": {
+            "type": "modifyClubhouseState",
+            "stat": "morale",
+            "value": -1
+          }
+        }
+      }
+    ],
+    "tags": [
+      "win-lose",
+      "morale",
+      "buff",
+      "crowd",
+      "clubhouse"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "fan_favorite",
+      "rosterHooks": [
+        "beloved",
+        "underdog-player"
+      ]
+    }
+  },
+  {
+    "id": "action-070",
+    "number": 70,
+    "name": "Wrong Hotel Room",
+    "cardFamily": "regular",
+    "cardType": "clubhouse",
+    "timing": "betweenGames",
+    "rarity": "common",
+    "title": "Wrong Hotel Room",
+    "text": "Your (+5) walked into the wrong hotel room and found a poker game with three guys from the other team. He lost $200 and his confidence. -1 Contact next game.",
+    "flavor": "Never draw to an inside straight with men who play forever.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "betweenGames",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "modifyStat",
+        "details": {
+          "targetTier": "+5",
+          "stat": "contact",
+          "value": -1,
+          "duration": 1
+        }
+      }
+    ],
+    "tags": [
+      "clubhouse",
+      "gambling",
+      "debuff",
+      "absurd",
+      "humor"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "gambling_mishap",
+      "rosterHooks": [
+        "gambler",
+        "nightlife",
+        "careless"
+      ]
+    }
+  },
+  {
+    "id": "action-071",
+    "number": 71,
+    "name": "Reggie Jackson Integration",
+    "cardFamily": "regular",
+    "cardType": "legend",
+    "timing": "betweenGames",
+    "rarity": "uncommon",
+    "title": "Reggie Jackson Integration",
+    "text": "Reggie Jackson would love to play for your team. He'll join if you discard any white player from before 1950. Mr. October has conditions.",
+    "flavor": "History has debts. Sometimes they come due on the diamond.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "betweenGames",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "sign",
+        "label": "Sign Reggie Jackson",
+        "effectText": "Release a white pre-1950 player. Reggie joins."
+      },
+      {
+        "id": "decline",
+        "label": "Can't make that move",
+        "effectText": "No effect."
+      }
+    ],
+    "effects": [
+      {
+        "type": "signPlayer",
+        "details": {
+          "player": "Reggie Jackson",
+          "cost": "releasePlayer:pre1950:white"
+        }
+      }
+    ],
+    "tags": [
+      "celebrity-cameo",
+      "signing",
+      "era-gate",
+      "roster-composition",
+      "race-history"
+    ],
+    "generatorHints": {
+      "canBeGenerated": false,
+      "templateKey": null,
+      "rosterHooks": []
+    }
+  },
+  {
+    "id": "action-072",
+    "number": 72,
+    "name": "Lou Brock Speed Gate",
+    "cardFamily": "regular",
+    "cardType": "legend",
+    "timing": "betweenGames",
+    "rarity": "uncommon",
+    "title": "Lou Brock Speed Gate",
+    "text": "Lou Brock is available. He'll sign if you already have a player with 2 SPD or higher to run with him. Speed attracts speed.",
+    "flavor": "Brock doesn't want to be the only one running. He wants a gang.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "betweenGames",
+      "conditions": [
+        {
+          "type": "rosterHasStat",
+          "stat": "speed",
+          "min": 2
+        }
+      ]
+    },
+    "choices": [
+      {
+        "id": "sign",
+        "label": "Sign Lou Brock",
+        "effectText": "Brock joins if SPD condition met."
+      },
+      {
+        "id": "decline",
+        "label": "Not enough speed",
+        "effectText": "No effect."
+      }
+    ],
+    "effects": [
+      {
+        "type": "signPlayer",
+        "details": {
+          "player": "Lou Brock",
+          "condition": "rosterHasSpeed>=2"
+        }
+      }
+    ],
+    "tags": [
+      "celebrity-cameo",
+      "signing",
+      "stat-gate",
+      "speed",
+      "legend"
+    ],
+    "generatorHints": {
+      "canBeGenerated": false,
+      "templateKey": null,
+      "rosterHooks": []
+    }
+  },
+  {
+    "id": "action-073",
+    "number": 73,
+    "name": "Mark McGwire Bash Brother",
+    "cardFamily": "regular",
+    "cardType": "legend",
+    "timing": "betweenGames",
+    "rarity": "uncommon",
+    "title": "Mark McGwire Bash Brother",
+    "text": "Mark McGwire is looking for a new Bash Brother. He'll sign if you have a player with 4 POW or higher. Big Mac needs a big friend.",
+    "flavor": "The forearms. My God, the forearms.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "betweenGames",
+      "conditions": [
+        {
+          "type": "rosterHasStat",
+          "stat": "power",
+          "min": 4
+        }
+      ]
+    },
+    "choices": [
+      {
+        "id": "sign",
+        "label": "Sign Mark McGwire",
+        "effectText": "McGwire joins if POW condition met."
+      },
+      {
+        "id": "decline",
+        "label": "No Bash Brothers here",
+        "effectText": "No effect."
+      }
+    ],
+    "effects": [
+      {
+        "type": "signPlayer",
+        "details": {
+          "player": "Mark McGwire",
+          "condition": "rosterHasPower>=4"
+        }
+      }
+    ],
+    "tags": [
+      "celebrity-cameo",
+      "signing",
+      "stat-gate",
+      "power",
+      "legend"
+    ],
+    "generatorHints": {
+      "canBeGenerated": false,
+      "templateKey": null,
+      "rosterHooks": []
+    }
+  },
+  {
+    "id": "action-074",
+    "number": 74,
+    "name": "XP: Contact Surge",
+    "cardFamily": "regular",
+    "cardType": "opportunity",
+    "timing": "postgame",
+    "rarity": "common",
+    "title": "Contact Surge",
+    "text": "Your created player has been working on his swing in the cage every night. +1 Contact to your created player permanently.",
+    "flavor": "A thousand swings in the dark. One swing in the light.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": [
+        {
+          "type": "hasCreatedPlayer"
+        }
+      ]
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "modifyStat",
+        "details": {
+          "target": "createdPlayer",
+          "stat": "contact",
+          "value": 1,
+          "permanent": true
+        }
+      }
+    ],
+    "tags": [
+      "xp",
+      "created-player",
+      "contact",
+      "buff"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "xp_contact_up",
+      "rosterHooks": [
+        "created-player"
+      ]
+    }
+  },
+  {
+    "id": "action-075",
+    "number": 75,
+    "name": "XP: Power Development",
+    "cardFamily": "regular",
+    "cardType": "opportunity",
+    "timing": "postgame",
+    "rarity": "common",
+    "title": "Power Development",
+    "text": "Your created player started lifting with the veterans. Something clicked. +1 Power permanently.",
+    "flavor": "The kid's getting stronger. The veterans are getting nervous.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "postgame",
+      "conditions": [
+        {
+          "type": "hasCreatedPlayer"
+        }
+      ]
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "modifyStat",
+        "details": {
+          "target": "createdPlayer",
+          "stat": "power",
+          "value": 1,
+          "permanent": true
+        }
+      }
+    ],
+    "tags": [
+      "xp",
+      "created-player",
+      "power",
+      "buff"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "xp_power_up",
+      "rosterHooks": [
+        "created-player"
+      ]
+    }
+  },
+  {
+    "id": "action-076",
+    "number": 76,
+    "name": "Pitcher Rattled",
+    "cardFamily": "game",
+    "cardType": "momentum",
+    "timing": "ingame",
+    "rarity": "common",
+    "title": "Pitcher Rattled",
+    "text": "The opposing pitcher just walked two in a row and kicked the mound. He's rattled. All your batters get +1 Contact this inning.",
+    "flavor": "You can see it in his eyes. He's lost the zone.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "ingame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "modifyStat",
+        "details": {
+          "target": "allBatters",
+          "stat": "contact",
+          "value": 1,
+          "duration": "thisInning"
+        }
+      }
+    ],
+    "tags": [
+      "momentum",
+      "pitching",
+      "buff",
+      "ingame"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "pitcher_rattled",
+      "rosterHooks": [
+        "contact-hitter",
+        "patient-batter"
+      ]
+    }
+  },
+  {
+    "id": "action-077",
+    "number": 77,
+    "name": "Hitter Locked In",
+    "cardFamily": "game",
+    "cardType": "momentum",
+    "timing": "ingame",
+    "rarity": "common",
+    "title": "Hitter Locked In",
+    "text": "Your best hitter is seeing the ball like a beach ball today. He gets +2 Contact for the rest of this game. The pitcher wants no part of him.",
+    "flavor": "When you're locked in, the seams look like highway lanes.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "ingame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "modifyStat",
+        "details": {
+          "target": "highestContact",
+          "stat": "contact",
+          "value": 2,
+          "duration": "thisGame"
+        }
+      }
+    ],
+    "tags": [
+      "momentum",
+      "buff",
+      "contact",
+      "ingame"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "hitter_locked_in",
+      "rosterHooks": [
+        "hot-streak",
+        "contact-hitter"
+      ]
+    }
+  },
+  {
+    "id": "action-078",
+    "number": 78,
+    "name": "Dugout Fight Brewing",
+    "cardFamily": "game",
+    "cardType": "clubhouse",
+    "timing": "ingame",
+    "rarity": "uncommon",
+    "title": "Dugout Fight Brewing",
+    "text": "Two of your players are jawing at each other in the dugout. Handle it now: bench one for the rest of the game and gain +1 team morale, or let it fester and risk -2 morale after the game.",
+    "flavor": "The camera pans to the dugout. Somebody's pointing fingers.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "ingame",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "benchOne",
+        "label": "Bench the instigator",
+        "effectText": "Lose a player this game. +1 morale."
+      },
+      {
+        "id": "ignore",
+        "label": "Let them figure it out",
+        "effectText": "Risk: -2 morale after the game (60% chance)."
+      }
+    ],
+    "effects": [
+      {
+        "type": "modifyClubhouseState",
+        "details": {
+          "options": [
+            "benchForMorale",
+            "riskMoraleDrop"
+          ]
+        }
+      }
+    ],
+    "tags": [
+      "clubhouse",
+      "ingame",
+      "morale",
+      "choice",
+      "tension"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "dugout_fight",
+      "rosterHooks": [
+        "volatile",
+        "hothead",
+        "ego-clash"
+      ]
+    }
+  },
+  {
+    "id": "action-079",
+    "number": 79,
+    "name": "Manager Argument",
+    "cardFamily": "game",
+    "cardType": "manager",
+    "timing": "ingame",
+    "rarity": "common",
+    "title": "Manager Argument",
+    "text": "Your manager storms out to argue a call. 50% chance the call is overturned in your favor. 25% chance the manager gets ejected and you lose tactical bonuses for the rest of the game.",
+    "flavor": "Dirt on the umpire's shoes. Spit on the manager's lips.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "ingame",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "argue",
+        "label": "Let the manager argue",
+        "effectText": "50% overturn. 25% ejection risk."
+      },
+      {
+        "id": "restraint",
+        "label": "Hold him back",
+        "effectText": "No effect. Safe play."
+      }
+    ],
+    "effects": [
+      {
+        "type": "modifyManagerState",
+        "details": {
+          "options": [
+            "argueCall",
+            "restraint"
+          ]
+        }
+      }
+    ],
+    "tags": [
+      "manager",
+      "umpire",
+      "ingame",
+      "risk-reward",
+      "choice"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "manager_argument",
+      "rosterHooks": [
+        "firebrand",
+        "volatile-manager"
+      ]
+    }
+  },
+  {
+    "id": "action-080",
+    "number": 80,
+    "name": "Crowd Energy",
+    "cardFamily": "game",
+    "cardType": "momentum",
+    "timing": "ingame",
+    "rarity": "common",
+    "title": "Crowd Energy",
+    "text": "The crowd is on its feet. The noise is deafening. All your players gain +1 Clutch for the remainder of this game. Feed off it.",
+    "flavor": "Thirty thousand ghosts screaming for one more run.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "ingame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "modifyStat",
+        "details": {
+          "target": "allPlayers",
+          "stat": "clutch",
+          "value": 1,
+          "duration": "thisGame"
+        }
+      }
+    ],
+    "tags": [
+      "momentum",
+      "buff",
+      "clutch",
+      "crowd",
+      "ingame"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "crowd_energy",
+      "rosterHooks": [
+        "clutch-performer",
+        "home-crowd"
+      ]
+    }
+  },
+  {
+    "id": "action-081",
+    "number": 81,
+    "name": "Umpire's Tight Zone",
+    "cardFamily": "game",
+    "cardType": "umpire",
+    "timing": "ingame",
+    "rarity": "common",
+    "title": "Umpire's Tight Zone",
+    "text": "The umpire is calling a tiny zone tonight. Pitchers lose -1 Control. Batters gain +1 Contact. It's a hitter's night.",
+    "flavor": "If it ain't down the middle, it ain't a strike.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "ingame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "modifyStat",
+        "details": {
+          "targets": [
+            {
+              "who": "allPitchers",
+              "stat": "control",
+              "value": -1
+            },
+            {
+              "who": "allBatters",
+              "stat": "contact",
+              "value": 1
+            }
+          ],
+          "duration": "thisGame"
+        }
+      }
+    ],
+    "tags": [
+      "umpire",
+      "ingame",
+      "zone",
+      "buff",
+      "debuff"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "tight_zone",
+      "rosterHooks": [
+        "control-pitcher",
+        "contact-hitter"
+      ]
+    }
+  },
+  {
+    "id": "action-082",
+    "number": 82,
+    "name": "Umpire's Big Zone",
+    "cardFamily": "game",
+    "cardType": "umpire",
+    "timing": "ingame",
+    "rarity": "common",
+    "title": "Umpire's Big Zone",
+    "text": "The umpire is calling everything tonight. Pitchers gain +1 Control. Batters lose -1 Contact. It's a pitcher's night. Get used to the backward K.",
+    "flavor": "That was six inches off the plate. Strike three.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "ingame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "modifyStat",
+        "details": {
+          "targets": [
+            {
+              "who": "allPitchers",
+              "stat": "control",
+              "value": 1
+            },
+            {
+              "who": "allBatters",
+              "stat": "contact",
+              "value": -1
+            }
+          ],
+          "duration": "thisGame"
+        }
+      }
+    ],
+    "tags": [
+      "umpire",
+      "ingame",
+      "zone",
+      "buff",
+      "debuff"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "big_zone",
+      "rosterHooks": [
+        "strikeout-pitcher",
+        "power-hitter"
+      ]
+    }
+  },
+  {
+    "id": "action-083",
+    "number": 83,
+    "name": "Wind Blowing Out",
+    "cardFamily": "game",
+    "cardType": "weather",
+    "timing": "ingame",
+    "rarity": "common",
+    "title": "Wind Blowing Out",
+    "text": "The wind is blowing straight out to center. All batters gain +1 Power this game. Fly balls become souvenirs.",
+    "flavor": "The flags are pointing at the scoreboard. The pitchers are pointing at the sky.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "ingame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "modifyStat",
+        "details": {
+          "target": "allBatters",
+          "stat": "power",
+          "value": 1,
+          "duration": "thisGame"
+        }
+      }
+    ],
+    "tags": [
+      "weather",
+      "ingame",
+      "power",
+      "buff"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "wind_out",
+      "rosterHooks": [
+        "power-hitter",
+        "wind-park"
+      ]
+    }
+  },
+  {
+    "id": "action-084",
+    "number": 84,
+    "name": "Wind Blowing In",
+    "cardFamily": "game",
+    "cardType": "weather",
+    "timing": "ingame",
+    "rarity": "common",
+    "title": "Wind Blowing In",
+    "text": "The wind is howling in from center. All batters lose -1 Power this game. Bombs become warning-track flyouts.",
+    "flavor": "The flags are pointing at the pitcher. Good luck, sluggers.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "ingame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "modifyStat",
+        "details": {
+          "target": "allBatters",
+          "stat": "power",
+          "value": -1,
+          "duration": "thisGame"
+        }
+      }
+    ],
+    "tags": [
+      "weather",
+      "ingame",
+      "power",
+      "debuff"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "wind_in",
+      "rosterHooks": [
+        "power-hitter",
+        "wind-park"
+      ]
+    }
+  },
+  {
+    "id": "action-085",
+    "number": 85,
+    "name": "Risky Steal Signal",
+    "cardFamily": "game",
+    "cardType": "tactics",
+    "timing": "ingame",
+    "rarity": "common",
+    "title": "Risky Steal Signal",
+    "text": "Your fastest runner is on first. The catcher has a weak arm. Do you send him? Success: runner advances to third. Failure: caught stealing, rally killed.",
+    "flavor": "Green light. Red consequences.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "ingame",
+      "conditions": [
+        {
+          "type": "runnerOnFirst"
+        }
+      ]
+    },
+    "choices": [
+      {
+        "id": "steal",
+        "label": "Send him",
+        "effectText": "65% success: runner to 3rd. 35% caught stealing."
+      },
+      {
+        "id": "hold",
+        "label": "Hold the runner",
+        "effectText": "No effect. Play it safe."
+      }
+    ],
+    "effects": [
+      {
+        "type": "stealAttempt",
+        "details": {
+          "successRate": 0.65,
+          "onSuccess": "advanceToThird",
+          "onFail": "caughtStealing"
+        }
+      }
+    ],
+    "tags": [
+      "tactics",
+      "ingame",
+      "speed",
+      "risk-reward",
+      "choice",
+      "steal"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "steal_attempt",
+      "rosterHooks": [
+        "speed-demon",
+        "basestealer"
+      ]
+    }
+  },
+  {
+    "id": "action-086",
+    "number": 86,
+    "name": "Hit and Run",
+    "cardFamily": "game",
+    "cardType": "tactics",
+    "timing": "ingame",
+    "rarity": "common",
+    "title": "Hit and Run",
+    "text": "Runner on first, contact hitter at the plate. Call the hit and run? Success: ball hit through the hole, runners on corners. Failure: liner right at the shortstop, double play.",
+    "flavor": "The oldest trick in the book. Still works. Sometimes.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "ingame",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "hitAndRun",
+        "label": "Call the hit and run",
+        "effectText": "55% success: runners on corners. 45% double play."
+      },
+      {
+        "id": "hold",
+        "label": "Play it straight",
+        "effectText": "No effect."
+      }
+    ],
+    "effects": [
+      {
+        "type": "hitAndRun",
+        "details": {
+          "successRate": 0.55,
+          "onSuccess": "runnersOnCorners",
+          "onFail": "doublePay"
+        }
+      }
+    ],
+    "tags": [
+      "tactics",
+      "ingame",
+      "contact",
+      "risk-reward",
+      "choice"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "hit_and_run",
+      "rosterHooks": [
+        "contact-hitter",
+        "small-ball"
+      ]
+    }
+  },
+  {
+    "id": "action-087",
+    "number": 87,
+    "name": "Bench Coach Tip",
+    "cardFamily": "game",
+    "cardType": "tactics",
+    "timing": "ingame",
+    "rarity": "common",
+    "title": "Bench Coach Tip",
+    "text": "Your bench coach notices the opposing pitcher is tipping his curveball. All batters get +1 Contact for the next 3 at-bats until the pitcher adjusts.",
+    "flavor": "The hand in the glove tells the whole story.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "ingame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "modifyStat",
+        "details": {
+          "target": "allBatters",
+          "stat": "contact",
+          "value": 1,
+          "duration": "3atBats"
+        }
+      }
+    ],
+    "tags": [
+      "tactics",
+      "ingame",
+      "scouting",
+      "buff",
+      "pitching"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "pitch_tipping",
+      "rosterHooks": [
+        "scouting",
+        "veteran-catcher"
+      ]
+    }
+  },
+  {
+    "id": "action-088",
+    "number": 88,
+    "name": "Old Feud Rekindled",
+    "cardFamily": "game",
+    "cardType": "clubhouse",
+    "timing": "ingame",
+    "rarity": "uncommon",
+    "title": "Old Feud Rekindled",
+    "text": "Two players from different eras recognize each other from a past life grievance. Your (+6) and their (+6) both get +1 Power this game from pure rage. Baseball is personal.",
+    "flavor": "Eternity doesn't heal all wounds. Some just ferment.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "ingame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "modifyStat",
+        "details": {
+          "targets": [
+            {
+              "who": "yourPlayer:+6",
+              "stat": "power",
+              "value": 1
+            },
+            {
+              "who": "opponentPlayer:+6",
+              "stat": "power",
+              "value": 1
+            }
+          ],
+          "duration": "thisGame"
+        }
+      }
+    ],
+    "tags": [
+      "rivalry",
+      "ingame",
+      "buff",
+      "power",
+      "feud"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "old_feud",
+      "rosterHooks": [
+        "grudge",
+        "rivalry",
+        "hothead"
+      ]
+    }
+  },
+  {
+    "id": "action-089",
+    "number": 89,
+    "name": "Catcher Framing",
+    "cardFamily": "game",
+    "cardType": "tactics",
+    "timing": "ingame",
+    "rarity": "common",
+    "title": "Catcher Framing",
+    "text": "Your catcher is framing pitches beautifully tonight. Your pitcher gains +1 Control this game. Every borderline pitch is a strike.",
+    "flavor": "The best catchers are magicians. The umpire never sees the trick.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "ingame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "modifyStat",
+        "details": {
+          "target": "startingPitcher",
+          "stat": "control",
+          "value": 1,
+          "duration": "thisGame"
+        }
+      }
+    ],
+    "tags": [
+      "tactics",
+      "ingame",
+      "catcher",
+      "pitching",
+      "buff"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "catcher_framing",
+      "rosterHooks": [
+        "elite-catcher",
+        "defense"
+      ]
+    }
+  },
+  {
+    "id": "action-090",
+    "number": 90,
+    "name": "Pitcher Losing Command",
+    "cardFamily": "game",
+    "cardType": "momentum",
+    "timing": "ingame",
+    "rarity": "common",
+    "title": "Pitcher Losing Command",
+    "text": "Your starter is losing command. -1 Control. Do you pull him now or let him work through it? Pull: bullpen takes over. Stay: 40% chance he finds it, 60% it gets worse (-1 more).",
+    "flavor": "The ball is going everywhere except where he wants it.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "ingame",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "pull",
+        "label": "Go to the pen",
+        "effectText": "Bullpen pitcher enters. Fresh arm."
+      },
+      {
+        "id": "stay",
+        "label": "Let him battle",
+        "effectText": "40% regains control. 60% loses another -1 Control."
+      }
+    ],
+    "effects": [
+      {
+        "type": "modifyManagerState",
+        "details": {
+          "options": [
+            "pullPitcher",
+            "riskWithStarter"
+          ]
+        }
+      }
+    ],
+    "tags": [
+      "momentum",
+      "pitching",
+      "ingame",
+      "choice",
+      "risk-reward"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "losing_command",
+      "rosterHooks": [
+        "wild-pitcher",
+        "stamina-low"
+      ]
+    }
+  },
+  {
+    "id": "action-091",
+    "number": 91,
+    "name": "Nerves in the Big Moment",
+    "cardFamily": "game",
+    "cardType": "momentum",
+    "timing": "ingame",
+    "rarity": "uncommon",
+    "title": "Nerves in the Big Moment",
+    "text": "Bases loaded, two outs. Your batter's hands are shaking. -2 Clutch for this at-bat. Unless he has the 'clutch performer' trait \u2014 then +1 Clutch instead. Pressure reveals character.",
+    "flavor": "Some men rise. Some men freeze. You drafted them. You find out now.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "ingame",
+      "conditions": [
+        {
+          "type": "basesLoaded"
+        }
+      ]
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "modifyStat",
+        "details": {
+          "target": "currentBatter",
+          "stat": "clutch",
+          "value": -2,
+          "override": {
+            "ifTrait": "clutch-performer",
+            "value": 1
+          },
+          "duration": "thisAtBat"
+        }
+      }
+    ],
+    "tags": [
+      "momentum",
+      "clutch",
+      "ingame",
+      "pressure",
+      "trait-dependent"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "big_moment_nerves",
+      "rosterHooks": [
+        "clutch-performer",
+        "choker",
+        "pressure"
+      ]
+    }
+  },
+  {
+    "id": "action-092",
+    "number": 92,
+    "name": "Rain Delay",
+    "cardFamily": "game",
+    "cardType": "weather",
+    "timing": "ingame",
+    "rarity": "uncommon",
+    "title": "Rain Delay",
+    "text": "Rain delay! The game pauses for 45 minutes. Pitchers cool down. When play resumes, both starters lose -1 Stamina. But the break lets your manager think \u2014 choose one batter to gain +1 Contact.",
+    "flavor": "The tarp comes out. The strategy comes in.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "ingame",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "chooseBatter",
+        "label": "Pick a batter to boost",
+        "effectText": "One batter gains +1 Contact rest of game. Both pitchers -1 Stamina."
+      }
+    ],
+    "effects": [
+      {
+        "type": "modifyStat",
+        "details": {
+          "pitcherEffect": {
+            "target": "bothStarters",
+            "stat": "stamina",
+            "value": -1
+          },
+          "batterChoice": {
+            "stat": "contact",
+            "value": 1
+          }
+        }
+      }
+    ],
+    "tags": [
+      "weather",
+      "ingame",
+      "rain",
+      "choice",
+      "buff",
+      "debuff"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "rain_delay",
+      "rosterHooks": [
+        "stamina",
+        "contact-hitter"
+      ]
+    }
+  },
+  {
+    "id": "action-093",
+    "number": 93,
+    "name": "Bunt for Hit",
+    "cardFamily": "game",
+    "cardType": "tactics",
+    "timing": "ingame",
+    "rarity": "common",
+    "title": "Bunt for Hit",
+    "text": "Your speedster drops a perfect bunt. If SPD >= 2, it's an automatic infield hit. If SPD < 2, it's a sacrifice. Either way, it rattles the infield.",
+    "flavor": "The bat goes dead. The legs go live.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "ingame",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "bunt",
+        "label": "Drop the bunt",
+        "effectText": "SPD >= 2: infield hit. SPD < 2: sacrifice."
+      },
+      {
+        "id": "swing",
+        "label": "Swing away",
+        "effectText": "Normal at-bat."
+      }
+    ],
+    "effects": [
+      {
+        "type": "buntAttempt",
+        "details": {
+          "spdThreshold": 2,
+          "aboveThreshold": "infieldHit",
+          "belowThreshold": "sacrifice"
+        }
+      }
+    ],
+    "tags": [
+      "tactics",
+      "ingame",
+      "speed",
+      "bunt",
+      "choice"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "bunt_play",
+      "rosterHooks": [
+        "speed-demon",
+        "small-ball"
+      ]
+    }
+  },
+  {
+    "id": "action-094",
+    "number": 94,
+    "name": "Star Player Distraction",
+    "cardFamily": "game",
+    "cardType": "clubhouse",
+    "timing": "ingame",
+    "rarity": "uncommon",
+    "title": "Star Player Distraction",
+    "text": "Your star player is distracted \u2014 he keeps looking into the stands. Someone from his past is in the crowd. -1 to all his stats this game. Unless you bench him: he gets angry and comes back +2 next game.",
+    "flavor": "Some ghosts sit in the bleachers.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "ingame",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "keep",
+        "label": "Leave him in",
+        "effectText": "Star player -1 all stats this game."
+      },
+      {
+        "id": "bench",
+        "label": "Pull him out",
+        "effectText": "Lose him this game. +2 all stats next game from anger."
+      }
+    ],
+    "effects": [
+      {
+        "type": "modifyStat",
+        "details": {
+          "options": [
+            "debuffNow",
+            "benchForBoostLater"
+          ]
+        }
+      }
+    ],
+    "tags": [
+      "clubhouse",
+      "ingame",
+      "distraction",
+      "choice",
+      "star-player"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "star_distraction",
+      "rosterHooks": [
+        "dark-side",
+        "haunted",
+        "personal-demons"
+      ]
+    }
+  },
+  {
+    "id": "action-095",
+    "number": 95,
+    "name": "Manager Ejection Risk",
+    "cardFamily": "game",
+    "cardType": "manager",
+    "timing": "ingame",
+    "rarity": "uncommon",
+    "title": "Manager Ejection Risk",
+    "text": "The umpire warns your manager after a tirade. One more outburst and he's gone. If ejected: lose all manager bonuses this game. If he stays calm: +1 team morale for showing restraint.",
+    "flavor": "The vein in his neck is throbbing. The ump's thumb is twitching.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "ingame",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "keepArguing",
+        "label": "Let him keep going",
+        "effectText": "60% ejection. 40% ump backs down and team gets +2 morale."
+      },
+      {
+        "id": "cool",
+        "label": "Cool him down",
+        "effectText": "+1 morale for composure."
+      }
+    ],
+    "effects": [
+      {
+        "type": "modifyManagerState",
+        "details": {
+          "options": [
+            "riskEjection",
+            "showRestraint"
+          ]
+        }
+      }
+    ],
+    "tags": [
+      "manager",
+      "umpire",
+      "ingame",
+      "risk-reward",
+      "choice",
+      "ejection"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "ejection_risk",
+      "rosterHooks": [
+        "firebrand",
+        "volatile-manager"
+      ]
+    }
+  },
+  {
+    "id": "action-096",
+    "number": 96,
+    "name": "Perfect Game Bid",
+    "cardFamily": "game",
+    "cardType": "momentum",
+    "timing": "ingame",
+    "rarity": "rare",
+    "title": "Perfect Game Bid",
+    "text": "Your pitcher is perfect through 6 innings. The dugout is silent. Nobody talks to him. +2 Control, +1 Stuff for the rest of the game. But if he allows a hit, the crash is -2 Control from heartbreak.",
+    "flavor": "Twenty-seven up. Twenty-seven down. Maybe.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "ingame",
+      "conditions": [
+        {
+          "type": "pitcherPerfectThrough6"
+        }
+      ]
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "modifyStat",
+        "details": {
+          "target": "startingPitcher",
+          "buffs": {
+            "control": 2,
+            "stuff": 1
+          },
+          "onFirstHit": {
+            "control": -2
+          },
+          "duration": "untilBroken"
+        }
+      }
+    ],
+    "tags": [
+      "momentum",
+      "pitching",
+      "ingame",
+      "rare",
+      "high-stakes",
+      "perfect-game"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "perfect_game_bid",
+      "rosterHooks": [
+        "ace",
+        "control-artist"
+      ]
+    }
+  },
+  {
+    "id": "action-097",
+    "number": 97,
+    "name": "Bench Jockeying",
+    "cardFamily": "game",
+    "cardType": "clubhouse",
+    "timing": "ingame",
+    "rarity": "common",
+    "title": "Bench Jockeying",
+    "text": "Your dugout is riding the opposing batter mercilessly. 50% chance he gets rattled (-1 Contact this at-bat). 50% chance he gets angry (+1 Power this at-bat). Talk shit, get hit.",
+    "flavor": "Words are weapons. Sometimes they backfire.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "ingame",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "heckle",
+        "label": "Keep heckling",
+        "effectText": "50% opponent -1 CON. 50% opponent +1 POW."
+      },
+      {
+        "id": "quiet",
+        "label": "Shut up",
+        "effectText": "No effect."
+      }
+    ],
+    "effects": [
+      {
+        "type": "modifyStat",
+        "details": {
+          "target": "opponentCurrentBatter",
+          "coin": {
+            "heads": {
+              "stat": "contact",
+              "value": -1
+            },
+            "tails": {
+              "stat": "power",
+              "value": 1
+            }
+          }
+        }
+      }
+    ],
+    "tags": [
+      "clubhouse",
+      "ingame",
+      "risk-reward",
+      "choice",
+      "heckling"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "bench_jockeying",
+      "rosterHooks": [
+        "brawler",
+        "firebrand",
+        "hothead"
+      ]
+    }
+  },
+  {
+    "id": "action-098",
+    "number": 98,
+    "name": "Pitcher-Catcher Disconnect",
+    "cardFamily": "game",
+    "cardType": "momentum",
+    "timing": "ingame",
+    "rarity": "common",
+    "title": "Pitcher-Catcher Disconnect",
+    "text": "Your pitcher keeps shaking off the catcher. They're not on the same page. -1 Control until you either call a mound visit (costs 1 bullpen arm warmup) or let them figure it out (50/50 they sync up).",
+    "flavor": "One finger. Two fingers. Head shake. Repeat.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "ingame",
+      "conditions": []
+    },
+    "choices": [
+      {
+        "id": "moundVisit",
+        "label": "Send someone out",
+        "effectText": "Costs 1 bullpen arm warmup. Pitcher and catcher sync. Restored."
+      },
+      {
+        "id": "letThemFigureItOut",
+        "label": "Let them work it out",
+        "effectText": "50% they sync. 50% -1 Control continues."
+      }
+    ],
+    "effects": [
+      {
+        "type": "modifyStat",
+        "details": {
+          "target": "startingPitcher",
+          "stat": "control",
+          "value": -1,
+          "resolution": "choiceBased"
+        }
+      }
+    ],
+    "tags": [
+      "momentum",
+      "pitching",
+      "catcher",
+      "ingame",
+      "choice"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "battery_disconnect",
+      "rosterHooks": [
+        "veteran-catcher",
+        "young-pitcher"
+      ]
+    }
+  },
+  {
+    "id": "action-099",
+    "number": 99,
+    "name": "Fog Rolling In",
+    "cardFamily": "game",
+    "cardType": "weather",
+    "timing": "ingame",
+    "rarity": "uncommon",
+    "title": "Fog Rolling In",
+    "text": "A thick fog is rolling in from the river. All outfielders -1 Defense. All fly balls have a 15% chance of being 'lost in the fog' for extra bases. It's eerie out there.",
+    "flavor": "The center fielder disappears into the mist. The ball disappears with him.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "ingame",
+      "conditions": []
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "modifyStat",
+        "details": {
+          "target": "allOutfielders",
+          "stat": "defense",
+          "value": -1,
+          "duration": "thisGame",
+          "specialRule": "fogLostBall:15%"
+        }
+      }
+    ],
+    "tags": [
+      "weather",
+      "ingame",
+      "fog",
+      "defense",
+      "debuff",
+      "atmosphere"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "fog_game",
+      "rosterHooks": [
+        "outfielder",
+        "river-stadium"
+      ]
+    }
+  },
+  {
+    "id": "action-100",
+    "number": 100,
+    "name": "Walk-Off Moment",
+    "cardFamily": "game",
+    "cardType": "momentum",
+    "timing": "ingame",
+    "rarity": "rare",
+    "title": "Walk-Off Moment",
+    "text": "Bottom of the last inning. Tied game. Your highest-CLU player steps up. He gets +3 Clutch for this at-bat. If he's got the 'legend' tag, it's a guaranteed walk-off hit. This is what eternity is for.",
+    "flavor": "The stadium holds its breath. The dead hold their breath. Everyone holds their breath.",
+    "trigger": {
+      "resultRequired": null,
+      "phaseRequired": "ingame",
+      "conditions": [
+        {
+          "type": "tiedGameLastInning"
+        }
+      ]
+    },
+    "choices": [],
+    "effects": [
+      {
+        "type": "modifyStat",
+        "details": {
+          "target": "highestClutch",
+          "stat": "clutch",
+          "value": 3,
+          "duration": "thisAtBat",
+          "override": {
+            "ifTag": "legend",
+            "result": "guaranteedWalkoff"
+          }
+        }
+      }
+    ],
+    "tags": [
+      "momentum",
+      "clutch",
+      "ingame",
+      "rare",
+      "walk-off",
+      "legendary-moment"
+    ],
+    "generatorHints": {
+      "canBeGenerated": true,
+      "templateKey": "walkoff_moment",
+      "rosterHooks": [
+        "clutch-performer",
+        "legend",
+        "hero"
+      ]
+    }
+  }
+]
