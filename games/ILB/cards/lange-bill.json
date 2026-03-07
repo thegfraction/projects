@@ -1,0 +1,231 @@
+{
+  "card_type": "player",
+  "name": "Bill Lange",
+  "nickname": "Little Eva / Big Bill",
+  "year": 1895,
+  "team": "Chicago Colts",
+  "era": "1900s",
+  "ilb_team": "Banners NL1900",
+  "position": "CF",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'1\"",
+  "weight": "190 lbs",
+  "born": "June 6, 1871 — San Francisco, CA",
+  "died": "July 23, 1950 — San Francisco, CA (age 79, heart attack)",
+  "hof": "NOT in HOF. Only 7 seasons (ineligible). Career .330/.400/.458. Clark Griffith: 'I consider Bill Lange the equal of, if not better than, all outfielders of all time.' Cap Anson: 'Better than Cobb or Speaker.' Connie Mack: 'The greatest baserunner I ever saw.'",
+  "player_image": "https://raw.githubusercontent.com/thegfraction/projects/b9a611655116268b1910dda04fcb97fd0d03b2d1/games/ILB/images/lange-bill.png",
+
+  "real_stats": {
+    "season": 1895,
+    "games": 123,
+    "at_bats": 479,
+    "hits": 186,
+    "doubles": 27,
+    "triples": 16,
+    "home_runs": 10,
+    "rbi": 98,
+    "runs": 120,
+    "stolen_bases": 67,
+    "batting_avg": ".389",
+    "obp": ".456",
+    "slg": ".575",
+    "ops": "1.031",
+    "ops_plus": 157,
+    "war": 5.9,
+    "career_avg": ".330",
+    "career_hits": 1056,
+    "career_hr": 39,
+    "career_sb": 350,
+    "career_rbi": 579,
+    "career_runs": 691,
+    "career_war": 28.4,
+    "career_obp": ".400",
+    "career_slg": ".458",
+    "career_ops_plus": 126,
+    "seasons_played": 7,
+    "retired_age": 28
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "con": 5,
+    "pow": 2,
+    "spd": 3,
+    "def": 2,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": ".389 BA in 1895 → tier 5 (.330+). OPS+ 157 (≥130 bonus applies, already capped at 5). Career .330 over 7 years — only one season below .300 (rookie year, .281). He was a natural hitter: pure line-drive stroke, great eye (.400 career OBP), difficult to strike out. In a league that included Keeler, Burkett, and Delahanty, Lange's bat belonged in the top echelon. Maximum contact: 5.",
+    "pow": "10 HR in 1895 → tier 1 (10-19). SLG .575 → ≥.500 bonus (+1) = 2. The triples tell the story: 16 in 1895, 14 in 1897. He had elite gap power — 27 doubles plus those 16 triples in a 123-game season. Total bases 275. At 6'1\" 190 lbs, he was one of the biggest men in the NL and he hit balls into gaps that smaller men couldn't reach. Rating: 2.",
+    "spd": "67 SB in 1895. 84 SB in 1896. 73 SB in 1897 (NL leader). 350 career SB in 7 years — 50 SB per season average. 5 SB in one game (July 4, 1896). Connie Mack called his baserunning 'the greatest I ever saw.' At 6'1\" 190 lbs, his speed was shocking — he ran like a man who weighed 160. The size-speed combination was decades ahead of its time. Maximum speed: 3.",
+    "def": "Clark Griffith (who saw Speaker, Cobb, and DiMaggio): 'I consider Bill Lange the equal of, if not better than, all outfielders of all time.' Cap Anson: 'He was in a class by himself as an outfielder. Better than Cobb or Speaker.' The fence catch legend — whether he actually crashed through the wall or not, the story existed because his contemporaries believed he was capable of it. He tracked down everything in center field. Rating: 2.",
+    "clu": "Zero. The Chicago Colts/Orphans never reached the postseason during Lange's seven-year career (1893-1899). He never played a single postseason game. No October moments, no World Series, no pennant race heroics. The five-tool phenom on a team that never contended. Rating: 0."
+  },
+
+  "personality": {
+    "leadership_style": "The magnetic star. Lange was the most popular player on the Colts by a 6:1 ratio in a Chicago poll. He didn't lead through discipline — he led through charisma, talent, and the simple fact that he was the best player anyone had ever seen. He was the leader of the 'Dawn Patrol' — the players who skipped curfew and lived the nightlife. He led from the front, but the front was often a saloon at 3 AM.",
+    "temperament": "Free-spirited, romantic, larger than life. He faked an injury to watch a boxing match. He brought a four-legged chicken to spring training as a mascot (it died). He fell in love with a society woman and walked away from the highest salary in baseball. Lange treated baseball as a magnificent adventure, not a career — and when the adventure conflicted with love, he chose love.",
+    "work_ethic": "Effortless excellence. Lange didn't grind — he arrived. He was 6'1\" 190 lbs of natural ability. The speed, the power, the arm, the fielding range — they were gifts, not achievements. This made him frustrating for managers like Cap Anson, who valued discipline. Lange would show up late, hungover, and still go 3-for-4 with 2 stolen bases. The effort was invisible because the talent was overwhelming.",
+    "lifestyle": "San Francisco society, nightlife, romance. Born to a military family at the Presidio. Leader of the Dawn Patrol with Bill Dahlen. Three marriages (Grace Giselman, then two more). Real estate success. Olympic Club member. Known for dancing. The most glamorous ballplayer of the 1890s — a man who lived as large as he played.",
+    "era_adaptability": "ELITE. Lange's size-speed-power profile — 6'1\" 190 lbs, 67+ SB, .389 BA, .575 SLG — maps directly onto the modern five-tool outfielder prototype. He was Willie Mays before Willie Mays existed. In any era, the combination of size, speed, contact, power, defense, and arm strength would make him a franchise player. The only question is whether he'd stay — or walk away again.",
+    "clubhouse_impact": "ELECTRIC BUT VOLATILE. The Dawn Patrol: curfew-breaking, carousing, antagonizing Cap Anson. Lange was the fun player — the guy everyone wanted to be around. But he was also unreliable: the boxing hoax, the late arrivals, the constant tension with management. In ILB: +2 team fun/morale, -1 team discipline. The life of the party is also the reason the party ends late.",
+    "dark_side": "The choice and the aftermath. Bill Lange retired at 28 — the prime of a career that Griffith, Anson, and Mack all said was the greatest they'd ever seen — to marry Grace Giselman, whose father wouldn't let her marry a ballplayer. He refused offers of the highest salary in the league. He chose love. And the marriage failed. They divorced in 1915. By then he was 44 and too old to play. He married twice more. The greatest what-if in baseball history: what would Bill Lange's career have looked like with 14 seasons instead of 7? The choice was romantic. The consequence was erasure."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Five-Tool Phenom",
+      "desc": "Contact, power, speed, defense, arm. Lange has all five at elite levels. +1 to his lowest stat for any given game. The complete player."
+    },
+    {
+      "tag": "Love Over Baseball",
+      "desc": "Retired at 28 to marry a woman whose father forbade her to marry a ballplayer. Lange can only be played for 7 seasons maximum in any franchise mode. After that, he walks away."
+    },
+    {
+      "tag": "Dawn Patrol",
+      "desc": "Lange + Dahlen = curfew breakers. When both are on the roster, +2 fun/-1 discipline. The nightlife finds them."
+    },
+    {
+      "tag": "The Greatest I Ever Saw",
+      "desc": "Connie Mack on his baserunning. Griffith on his outfielding. Anson on everything. When Lange is in the lineup, opposing teams' morale drops -1 from sheer intimidation."
+    },
+    {
+      "tag": "The Fence Catch",
+      "desc": "Legend: dove for a fly ball and crashed through the outfield fence. Whether true or not, it's part of his mythology. 20% chance per game of making an impossible catch that becomes legendary."
+    },
+    {
+      "tag": "Most Popular by 6:1",
+      "desc": "Chicago poll results. Lange draws fans. +3 attendance when he plays. The people love watching him."
+    },
+    {
+      "tag": "Four-Legged Chicken",
+      "desc": "Brought a four-legged chicken to spring training as a mascot. It died. When the mascot dies, -1 luck for the season."
+    },
+    {
+      "tag": "The What-If",
+      "desc": "7 seasons instead of 14. .330 career average at age 28. What would the numbers have been? +5 romantic tragedy to legacy."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Equal to Cobb, Speaker, DiMaggio per Griffith. The greatest CF of the 1890s. Everything was catchable.",
+      "note_extra": "Source labeled 'Center Field' / affinity 'HIGH' — mapped to Practice Field/HIGH as the primary defensive performance workspace. The position as craft domain at maximum affinity — consistent with the established position → Practice Field/HIGH mapping across the set (Klein's Right Field, Kuhel's First Base, Lange's own basepaths). Griffith's testimony ('equal of, if not better than, all outfielders of all time') anchors the HIGH."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Born, retired, and died in SF. The Presidio, the society scene, the Olympic Club. Home was always California.",
+      "note_extra": "Source labeled 'San Francisco' / affinity 'HIGH' — mapped to Community Events/HIGH as Lange's lifelong community of origin, return, and death. Born at the Presidio, retired to SF, died there at 79. The fullest biographical anchoring to a single city in the set: birth, career retirement, late life, and death all in the same city. Fifth Community Events/HIGH in the set. Distinguished from Knight's California/HIGH (adopted late-life settlement) — Lange's SF spans the entire biographical arc."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "Dawn Patrol leader. Skipped curfew. Drank all night. Showed up and hit .389. The party was the pregame.",
+      "note_extra": "Source labeled 'Nightlife / Saloons' / affinity 'HIGH' — mapped to Hotel/Rest/HIGH. First Hotel/Rest/HIGH in the set encoding habitual nightlife and saloon culture as a primary affinity domain (prior Hotel/Rest/HIGHs: Kauff's Broadway entertainment, Johnson's DC dining, Lajoie's restaurant/steakhouse). The Dawn Patrol: Lange and Dahlen as habitual curfew-breakers, drinking through the night before games. HIGH encodes genuine, recurring, identity-constituting engagement with this domain — not occasion but habit. 'The party was the pregame.'"
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "Known in San Francisco society for his dancing. Grace and Bill were fixtures on the dance scene. Elegance in motion.",
+      "note_extra": "Source labeled 'Dance Floor' / affinity 'HIGH' — mapped to Hotel/Rest/HIGH as a social leisure venue. The dance floor is categorized as a Hotel/Rest domain rather than Media/Spotlight because Lange danced as a social participant in San Francisco society (the Olympic Club scene, private events with Grace) rather than as a performer for an audience. Two Hotel/Rest/HIGH entries on this card (nightlife/saloons and dance floor) — first card with two Hotel/Rest/HIGH entries. The two HIGHs encode distinct social leisure registers: the Dahlen-era carousing and the Grace-era elegant society dancing."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "350 career SB. 84 in one season. 5 in one game. Mack: 'the greatest baserunner I ever saw.' The basepaths were his playground.",
+      "note_extra": "Source labeled 'Basepaths' / affinity 'HIGH' — mapped to Practice Field/HIGH as an active game-performance workspace. The basepaths are an extension of the fielding and batting performance domain — the arena where Lange expressed his SPD 3 capability. Second Practice Field/HIGH on this card alongside Center Field. The basepaths encode a distinct sub-domain of baseball performance from the outfield (defense) and batting box (offense): pure baserunning craft. Five HIGH entries total on this card — most in the set."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "MEDIUM",
+      "note": "Post-baseball career. Successful in real estate and insurance. The businessman who used to play baseball.",
+      "note_extra": "Source labeled 'Real Estate Office' / affinity 'MEDIUM' — mapped to Library/Quiet Spot/MEDIUM as a private professional/business workspace. Consistent with the established financial/professional office → Library/Quiet Spot mapping (Lajoie's Financial Office/Bank at MEDIUM). MEDIUM encodes genuine post-career professional success — Lange was described as successful in real estate and insurance after retiring — without deep identity investment. It's what he did, not who he was: the businessman who used to play baseball."
+    },
+    {
+      "location": "October/Postseason",
+      "affinity": "LOW",
+      "note": "NEVER EXPERIENCED IT. Seven years, zero pennant races. The greatest what-if never got his October.",
+      "note_extra": "Source labeled 'October / Postseason' / affinity 'LOW' — preserved as abstract opportunity domain rather than a physical location, consistent with Kiner's 'Postseason'/NONE and Kuhel's 'World Series'/LOW. Third opportunity-domain absence entry in the set. LOW encodes proximate deprivation with awareness: Lange knew October existed, his teams never reached it, the absence was felt. Distinguished from Kiner's NONE (categorical structural exclusion by team futility that was documented and chronic) — Lange's LOW reflects the same team-futility mechanism but with the added weight of his early retirement cutting off any future chance. Both LOW (Lange, Kuhel) and NONE (Kiner) encode opportunity deprivation; LOW is the experienced absence, NONE the categorical one. Source label preserved with slash-no-space variant ('October/Postseason') matching JSX exactly."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Early season — Lange's best stretches came in the first half. He loved the spring and the return to the game.",
+      "Against elite pitching — the better the opponent, the more Lange elevated. He hit .389 against the full NL.",
+      "Stolen base situations — 5 SB in one game. When running, he got faster as the game progressed.",
+      "Adoring crowds — most popular player by 6:1. The crowd's energy fed his performance."
+    ],
+    "cold_triggers": [
+      "Late-season motivation — on losing teams, Lange's focus could drift. The Colts never contended seriously.",
+      "Management conflict — Cap Anson clashes. When told what to do, Lange did the opposite (the boxing hoax).",
+      "Homesickness — San Francisco called. He was always a California man playing in a Chicago winter.",
+      "Romance — when Grace appeared, baseball became secondary. Love was always the stronger pull."
+    ],
+    "pressure_response": "UNKNOWN. This is the tragedy of Bill Lange. He never faced a postseason game, never played in a pennant race that mattered, never had his October moment. Every contemporary said he was the greatest they'd ever seen — but they saw him in May and June, not in October. Would the five-tool phenom have risen or faded under pressure? We'll never know. In ILB: ceiling is maximum, floor is unknown. The ultimate gamble card."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Choice: Love Over Baseball",
+      "type": "Drama",
+      "text": "Your 28-year-old superstar — hitting .330, the most popular player in the league, offered the highest salary ever — announces he is retiring. His fiancée's father won't let her marry a ballplayer. He walks away. The team offers double, triple his salary. He says no. The marriage lasts 15 years before ending in divorce. By then he is 44 and too old to return. The greatest career that never finished.",
+      "origin": "After the 1899 season, Lange retired at 28 to marry Grace Giselman. Her father forbade her to marry a ballplayer. They divorced in 1915. Lange never returned to the majors. Teams offered him record salaries. He refused every one."
+    },
+    {
+      "title": "Five Stolen Bases in One Game",
+      "type": "Game Action",
+      "text": "Your center fielder steals five bases in a single game. He is two shy of the all-time record. The opposing catcher is demoralized. Your baserunning gains +3 momentum for the remainder of the series.",
+      "origin": "July 4, 1896: Lange stole 5 bases in one game against Louisville, two short of the record set by George Gore and Billy Hamilton."
+    },
+    {
+      "title": "The Fence Catch",
+      "type": "Game Action",
+      "text": "Bottom of the 10th, scoreless game. Your center fielder makes a full-speed diving catch in deep center — and crashes through the wooden outfield fence. The legend says he held onto the ball. Whether he actually broke through the fence or not, the catch is real, the game is saved, and the story becomes immortal. +3 legend. +2 defense reputation forever.",
+      "origin": "August 31, 1896 (or thereabouts): Lange made a diving catch in the 10th inning. The fence-crash legend was likely confused with a teammate being carried through broken fence slats for medical treatment, but the myth persists because everyone believed Lange was capable of it."
+    },
+    {
+      "title": "The Dawn Patrol",
+      "type": "Drama",
+      "text": "Your star outfielder and your star shortstop skip curfew, drink all night, and are seen with 'loose women.' The manager is furious. The next day, both players go a combined 6-for-8 with 4 stolen bases. -2 team discipline, +2 team fun, +1 to both players' stats for the day. The party is the fuel.",
+      "origin": "Lange and Bill Dahlen led the Dawn Patrol — the Colts players who broke curfew regularly, antagonizing manager Cap Anson. Anson ultimately lost the power struggle."
+    },
+    {
+      "title": "The Boxing Hoax",
+      "type": "Drama",
+      "text": "Your star player wants to see a boxing match instead of reporting to spring training. He arranges for a friend in the media to publish a fake injury report. He watches the fight. He is 'miraculously cured' afterward. -1 management trust. +1 player entertainment.",
+      "origin": "1897: Lange arranged a hoax with a friend in the media, faking an injury so he could watch the Corbett-Fitzsimmons boxing match. He was 'cured' after the fight and hit .340 that season."
+    },
+    {
+      "title": "The Four-Legged Chicken",
+      "type": "Drama",
+      "text": "Your star player brings a four-legged chicken to spring training as a team mascot. The chicken was hatched 'in the dark of the moon' from a crop of 13 eggs. The media is fascinated. The chicken dies before the season starts. -1 luck. +2 entertainment. The mascot that never was.",
+      "origin": "1896: Lange brought a four-legged chicken from San Francisco to spring training as a mascot for the Colts. The Chicago Post reported: 'Big Bill Lange's mascot, the four-legged chicken he picked up in San Francisco, is dead.'"
+    },
+    {
+      "title": "Equal to Them All",
+      "type": "Drama",
+      "text": "Decades after your player retires, a man who saw him play — and who also saw Cobb, Speaker, and DiMaggio — declares him the equal or better of all of them. The legend grows in absence. +5 legacy. The players who are remembered aren't always the ones who stayed.",
+      "origin": "Clark Griffith (1950): 'I have seen all the other great outfielders — Tris Speaker, Ty Cobb, Joe DiMaggio — in action, and I consider Bill Lange the equal of, if not better than, all outfielders of all time.'"
+    },
+    {
+      "title": "One Hit Under .300",
+      "type": "Drama",
+      "text": "Your rookie center fielder finishes at .281 — the only time in his career he'll hit below .300. It is also the only time the stats won't match the talent. After this, every season will be .319 or better. The rough start makes the peak sweeter.",
+      "origin": "1893: Lange's rookie year was his only sub-.300 season. He hit .281 with 47 SB and 88 RBI. Every subsequent season: .325, .389, .326, .340, .319, .325."
+    }
+  ],
+
+  "art_direction": {
+    "face": "BIG. 6'1\" 190 lbs — enormous for the 1890s. Broad-shouldered, athletic, the build of a modern power outfielder trapped in the dead-ball era. Handsome, confident, the face of the most popular player in Chicago by a 6:1 margin. A man who looks like he'd be equally at home on a dance floor, in a saloon, or running down a fly ball in deep center. Dark hair, strong jaw, easy charisma.",
+    "attire": "Chicago Colts uniform circa 1895 — white wool jersey with 'CHICAGO' or Colts insignia, baggy flannel pants, flat cap. Full-speed stride in center field — legs extended, arms pumping, chasing down a fly ball at the fence. Or: the stolen base — sliding feet-first into second, dust flying, the catcher's throw arriving too late. No number.",
+    "mood": "Joyful velocity. Lange's card should feel like SPEED and FUN — the thrill of a man who played baseball as a grand adventure. Not grim, not intense — alive. The West Side Park behind him, 1890s Chicago summer, the crowd on its feet for their favorite player. This is the card that makes you smile before you read the stats.",
+    "style": "Sepia-toned with WARMER, more golden, almost Californian undertones — unlike the blue-collar Collins card or the industrial McGinnity. Lange is sunshine and San Francisco, even in Chicago. The palette should suggest youth, vitality, and the golden light of a career that burned too bright and too brief. A card that glows.",
+    "reference": "Think full-speed pursuit — the outfielder at maximum velocity, the ball just ahead of his outstretched glove, the fence approaching. Or: the stolen base in mid-slide, the grin already forming because he knows he's safe. The card should capture the moment before the fence, the moment before the choice — when everything was still possible and the greatest player anyone had ever seen was still playing."
+  }
+}

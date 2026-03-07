@@ -1,0 +1,225 @@
+{
+  "card_type": "player",
+  "name": "Tony Lazzeri",
+  "nickname": "Poosh 'Em Up",
+  "year": 1929,
+  "team": "New York Yankees",
+  "era": "1930s",
+  "ilb_team": "Crashers AL1930",
+  "position": "2B",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'11\"",
+  "weight": "170 lbs",
+  "born": "December 6, 1903 — San Francisco, CA (Cow Hollow district, son of Italian immigrants)",
+  "died": "August 6, 1946 — Millbrae, CA (age 42, fall caused by epileptic seizure)",
+  "hof": "Class of 1991 (Veterans Committee). First Italian-American baseball superstar. 5× World Series champion.",
+
+  "real_stats": {
+    "season": 1929,
+    "games": 147,
+    "at_bats": 545,
+    "hits": 193,
+    "doubles": 37,
+    "triples": 11,
+    "home_runs": 18,
+    "rbi": 106,
+    "stolen_bases": 9,
+    "batting_avg": ".354",
+    "obp": ".429",
+    "slg": ".561",
+    "ops": ".990",
+    "ops_plus": 145,
+    "war": 7.1,
+    "gold_gloves": 0,
+    "silver_sluggers": 0,
+    "all_star": 1,
+    "career_avg": ".292",
+    "career_hits": 1840,
+    "career_hr": 178,
+    "career_sb": 148,
+    "career_war": 47.6
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 5,
+    "pow": 2,
+    "spd": 1,
+    "def": 0,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": "Career .292 BA, peak .354 in 1929 with 193 hits, 37 doubles, 11 triples. Hit .300+ in five seasons. OPS+ 145 in peak year. Career .380 OBP. One of the smartest hitters of his era — Miller Huggins acknowledged him as 'the brains of the Yankee infield.' Seven 100-RBI seasons as a second baseman. Maximum contact.",
+    "pow": "18 HR in 1929 (his career high, reached 4 times). SLG .561 triggers the bonus → POW 2. Career 178 HR — extraordinary for a 2B in the 1920s-30s. First player to hit two grand slams in one game (May 24, 1936). AL record 11 RBI in a game. 60 HR in PCL in 1925 (minor league record at the time). One of the first power-hitting middle infielders in history.",
+    "spd": "9 SB in 1929, 148 career. 39 SB in his 1925 PCL season. Good early speed that declined with knee injuries. 11 triples in 1929. Not a burner in his prime years but a smart baserunner. Rating of 1.",
+    "def": "No Gold Gloves (pre-award). Converted from SS to 2B by Miller Huggins as a rookie. Led AL second basemen in double plays in 1929 (86). Huggins considered him smart and reliable. Filled in at SS and 3B when needed. But not considered an elite defender — he was valued for his bat. Rating of 0.",
+    "clu": ".291 BA across 5 World Series championships (1927, 1928, 1932, 1936, 1937). Hit WS grand slam in 1936 (only 2nd in WS history). Scored deciding run in 1937 WS. Key double off Alexander in 1928 WS Game 4 clincher. BUT: struck out with bases loaded in Game 7 of 1926 WS vs. Grover Cleveland Alexander — immortalized on Alexander's HOF plaque. The K haunted him. Rating of 2 — the redemption over 5 titles outweighs the one failure."
+  },
+
+  "personality": {
+    "leadership_style": "The Quiet Leader. Lazzeri was universally regarded as the smartest player on the Yankees — and this was a team with Ruth, Gehrig, and DiMaggio. Frankie Crosetti: 'He not only was a great ballplayer, he was a great man. He was a leader. He was like a manager on the field.' Huggins called him 'the brains of the Yankee infield.' He led through intelligence, composure, and example — never through volume. The anti-Ruth: he let his play speak.",
+    "temperament": "Cool, calm, impenetrable. Sportswriters found him impossible to interview. One complained that 'interviewing that guy is like mining coal with a nail file.' He was quiet and modest — he would rarely talk about himself. But beneath the silence was iron. He played his entire career with epilepsy, a condition that terrified every team that scouted him. He never had a seizure on the field. He carried the secret with dignity and played through it without complaint.",
+    "work_ethic": "Boilermaker's son. Dropped out of school to work with his father making boilers. That blue-collar foundation never left him. He was shuffled between minor league teams for years — Salt Lake City to Peoria to Lincoln and back. He quit baseball entirely at 19 out of frustration, then came back and hit 60 home runs. He converted from shortstop to second base as a rookie because Huggins asked him to. He did everything asked of him, quietly, perfectly.",
+    "lifestyle": "San Francisco Italian. Born in Cow Hollow to Augustine and Julia Lazzeri, Italian immigrants. Grew up in a rough neighborhood. Married Maye Janes in 1923; they had a son, David Anthony (born 1931). He was the first major Italian-American baseball star — a decade before DiMaggio. Italian-speaking fans at Yankee Stadium screamed 'Poosh 'em up!' (a mangled translation of 'hit it out'). He carried the hopes of an entire immigrant community on his back and never spoke about it.",
+    "era_adaptability": "HIGH. Lazzeri was one of the first power-hitting middle infielders in baseball history. In a modern game that values 2B who can hit for power (Altuve, Cano, Pedroia), Lazzeri would be a prototype. His OPS+ of 145 in 1929 would play in any era. His intelligence and leadership would translate anywhere. The only question: his epilepsy management would be far easier with modern medicine.",
+    "clubhouse_impact": "MAXIMUM. Despite being the quiet man, Lazzeri was the glue. Mark Koenig considered him the team's most valuable player — not Ruth, not Gehrig. He was popular with teammates and respected by opponents. He was the player-coach type who managed the infield, positioned fielders, and thought three plays ahead. When the Yankees released him after 1937, they lost more than a second baseman — they lost their on-field brain.",
+    "dark_side": "The Epilepsy Secret. Every team that scouted Lazzeri knew about his condition — and most passed. The Cubs passed. The Reds passed. The Yankees sent three separate scouts to investigate his medical history and his family before they'd sign him. He managed the condition privately for his entire career, but the fear was always there: what if it happened during a game? It never did. But the stress of carrying that secret — of knowing that one public seizure could end everything — is unimaginable. He died at 42, alone, from a fall in his home almost certainly caused by a seizure. He was found the next day."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Murderers' Row",
+      "desc": "+1 to all teammates' POW when lineup includes 3+ players with OVR 8+. The 1927 Yankees effect: greatness amplifies greatness."
+    },
+    {
+      "tag": "The Quiet Man",
+      "desc": "Never causes clubhouse drama. Immune to media controversy events. But: cannot give pre-game speeches or rally teammates vocally."
+    },
+    {
+      "tag": "Infield Brain",
+      "desc": "+1 DEF to all infielders on the team. Lazzeri positions fielders, calls plays, and thinks three moves ahead. A manager on the field."
+    },
+    {
+      "tag": "Italian Pioneer",
+      "desc": "First Italian-American baseball superstar. Draws extra fans from Italian immigrant communities. +1 revenue in cities with large Italian populations."
+    },
+    {
+      "tag": "The Epilepsy Secret",
+      "desc": "5% chance per season of a health scare event. If triggered: miss 3 games, -1 team morale from worry. If managed privately: no further effect. If made public: massive media storm."
+    },
+    {
+      "tag": "Poosh 'Em Up",
+      "desc": "+2 POW in clutch RBI situations (runner on 3rd, 2 outs). Italian fans in the stands fuel him. The grand-slam specialist."
+    },
+    {
+      "tag": "Alexander's Shadow",
+      "desc": "In World Series Game 7 situations, 20% chance of a bases-loaded strikeout that haunts Lazzeri's legacy. But 80% chance of redemption hit."
+    },
+    {
+      "tag": "Boilermaker's Son",
+      "desc": "Blue-collar work ethic. Immune to fatigue events. Plays through minor injuries without complaint."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "His cathedral. 12 seasons as the Yankees' 2B. 5 WS titles. 'Poosh 'em up!' echoed from the Italian fans in the bleachers.",
+      "note_extra": "Source labeled 'Yankee Stadium' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH as home-stage identity monument. Consistent with the established home-ballpark-as-identity-monument → Media/Spotlight/HIGH mapping (Griffith Stadium/Kuhel, Baker Bowl/Klein, Forbes Field/Kiner's Korner/Kiner). Yankee Stadium over 12 seasons (1926-1937), five World Series titles, the 'Poosh 'em up!' chants from the Italian fans in the bleachers — all encode Yankee Stadium as the stage where Lazzeri's identity as both ballplayer and Italian-American icon was constituted and performed publicly. HIGH."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "The smartest infielder in the game. Always working on positioning, double plays, relay throws.",
+      "note_extra": "Source labeled 'Infield / Practice Field' / affinity 'HIGH' — mapped to Practice Field/HIGH. The source label straddles two sub-locations (infield as game workspace, practice field as training workspace) but both resolve to Practice Field. 'Always working on positioning, double plays, relay throws' — the infield as the primary craft domain. Consistent with the position → Practice Field/HIGH mapping throughout the set."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "He carried an entire immigrant community's dreams. Italian restaurants in the Bronx and Manhattan were his territory.",
+      "note_extra": "Source labeled 'Italian Neighborhood / Restaurant' / affinity 'HIGH' — mapped to Community Events/HIGH. The source label fuses two potential ILB nodes (Italian restaurants as Hotel/Rest; Italian neighborhood as Community Events). The note foregrounds community belonging rather than dining: 'He carried an entire immigrant community's dreams.' The neighborhood context — Italian immigrant cultural community in New York, the expression of his SF Italian origins transplanted to the Bronx — is primary. Mapped to Community Events/HIGH as the community-of-cultural-identity domain: the Italian-American immigrant community that claimed Lazzeri as its first baseball hero. The restaurant is the venue within that community, not the community itself."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "The quiet man. He managed his epilepsy privately and needed rest and routine to stay healthy.",
+      "note_extra": "Source labeled 'Hotel / Quiet Space' / affinity 'HIGH' — mapped to Hotel/Rest/HIGH. First Hotel/Rest/HIGH in the set encoding privacy and health management as the primary affinity driver rather than social pleasure (Kauff's Broadway, Johnson's DC dining, Lajoie's restaurant/steakhouse, Lange's dance floor/nightlife). Lazzeri's Hotel/Rest/HIGH encodes a distinct register: the hotel room/quiet space as the domain where he could manage his epilepsy privately, maintain the routine required by his condition, and rest without scrutiny. HIGH reflects genuine identity-level affinity — the quiet space was not just comfortable but medically necessary, and the capacity to be alone and undisturbed was constitutive of his career's sustainability."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Not a carouser. His medical condition required discipline. He couldn't afford the lifestyle of Ruth.",
+      "note_extra": "Source labeled 'Bar / Nightlife' / affinity 'LOW' — mapped to Hotel/Rest/LOW. The LOW is explicitly medically motivated: his epilepsy required the discipline that Ruth's lifestyle would have undermined. Comparable to Lajoie's Bar/Saloon/LOW (mild/occasional, 'steady lifestyle') but with stronger causal specificity — Lazzeri's LOW is prescribed avoidance, not casual disinterest. Two Hotel/Rest entries on this card: HIGH (quiet space, health management) and LOW (bar/nightlife, medically disciplined avoidance). The HIGH/LOW pairing within Hotel/Rest encodes the two poles of his relationship to the node: the private, quiet, restorative version at maximum positive affinity, and the social/carousing version at low negative affinity."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "NONE",
+      "note": "'Interviewing that guy is like mining coal with a nail file.' He avoided the press like a plague.",
+      "note_extra": "Source labeled 'Press Room / Interviews' / affinity 'NONE' — mapped to Media/Spotlight/NONE. First NONE for the Media/Spotlight node in the set (prior NONEs: Kell Hotel/Rest/NONE bar avoidance, Lajoie Hotel/Rest/NONE gambling, Lazzeri Hotel/Rest/NONE gambling below). Media/Spotlight/NONE encodes active, deliberate avoidance of the public-performance and celebrity domain — not absence but rejection. The sportswriter quote ('like mining coal with a nail file') makes the avoidance vivid. Lazzeri was the anti-Ruth: while Ruth maximized every media opportunity, Lazzeri refused all of them. Media/Spotlight spans HIGH (Yankee Stadium as public performance stage) and NONE (press interviews as celebrity exposure) on the same card — the widest affinity spread within a single node for Media/Spotlight in the set. He embraced the performance but rejected the celebrity."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "NONE",
+      "note": "No association.",
+      "note_extra": "Source labeled 'Gambling Hall' / affinity 'NONE' — mapped to Hotel/Rest/NONE. Third Hotel/Rest/NONE in the set (Kell Bar/Nightlife/NONE, Lajoie Gambling Hall/NONE, Lazzeri Gambling Hall/NONE). The minimal two-word note 'No association' is consistent with the standard Hotel/Rest/NONE boilerplate for gambling. Two NONE entries on this card (Media/Spotlight/NONE and Hotel/Rest/NONE) — first card in the set with two NONE entries. The two NONEs together encode the boundaries of Lazzeri's disciplined life: no press, no gambling. The epilepsy required restriction; the temperament required privacy."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Playing alongside elite teammates (Ruth, Gehrig, DiMaggio) — greatness elevates him",
+      "RBI situations — man on third, clutch at-bats",
+      "World Series games (after 1926) — five consecutive WS wins",
+      "Italian Heritage Day promotions — the crowd energizes him"
+    ],
+    "cold_triggers": [
+      "Bases-loaded, late-inning pressure in elimination games — Alexander's shadow",
+      "Health scares or seizure-adjacent episodes — needs recovery time",
+      "Being asked to do interviews or public speaking — drains his energy",
+      "Playing without elite teammates — his production declined when traded from Yankees"
+    ],
+    "pressure_response": "STRONG WITH ONE SCAR. Lazzeri was clutch across 5 World Series championships — .291 BA, WS grand slam, deciding runs scored. Connie Mack and opposing managers feared him in RBI situations. But the 1926 Game 7 strikeout against Alexander is branded on his legacy. One pitch earlier, he'd hit a screaming drive that landed foul by ten feet. One pitch later, he struck out. That single at-bat is on Alexander's HOF plaque. Lazzeri spent the rest of his career in redemption mode — and succeeded."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Sixty Home Runs in the Thin Air",
+      "type": "Action",
+      "text": "In the minor leagues, your prospect hits 60 home runs in a single season at a high-altitude ballpark. Scouts dismiss it as inflated stats. One team takes the risk. The prospect becomes a Hall of Famer.",
+      "origin": "1925: Lazzeri hit .355 with 60 HR, 222 RBI, 202 runs at Salt Lake City (PCL). Every team knew about the altitude — and his epilepsy. The Cubs and Reds passed. The Yankees signed him for $50,000."
+    },
+    {
+      "title": "Alexander Strikes Out Lazzeri",
+      "type": "Drama",
+      "text": "World Series Game 7. Bases loaded. Two outs. Your batter faces a legendary pitcher. He launches a drive down the line — foul by ten feet. The next pitch: strikeout. The moment is immortalized on the pitcher's HOF plaque. Your batter carries the shame forever. -3 CLU permanently unless he wins a future WS.",
+      "origin": "1926 WS Game 7: Grover Cleveland Alexander struck out Lazzeri with bases loaded in the 7th. One pitch earlier, Lazzeri hit a screaming drive that landed foul. The K is on Alexander's plaque in Cooperstown."
+    },
+    {
+      "title": "Two Grand Slams in One Game",
+      "type": "Game Action",
+      "text": "Your second baseman hits two grand slams in a single game — the first player in major league history to do so. He drives in 11 runs (an AL record that still stands). +5 POW for the week. Opposing teams fear him.",
+      "origin": "May 24, 1936: Lazzeri went 4-for-5 with 3 HR (two grand slams) and 11 RBI at Shibe Park vs. the A's. The 11-RBI AL record still stands as of 2026."
+    },
+    {
+      "title": "The Natural Cycle with a Grand Slam",
+      "type": "Game Action",
+      "text": "Your batter hits for the natural cycle — single, double, triple, home run in sequence — and the home run is a grand slam. The only player in history to accomplish this feat. +3 to all offensive stats for the game.",
+      "origin": "June 3, 1932: Lazzeri hit for the natural cycle against the Athletics. The home run was a grand slam — making him the only player in MLB history to complete a natural cycle with a grand slam."
+    },
+    {
+      "title": "The Epilepsy Secret",
+      "type": "Drama",
+      "text": "Your star player has a medical condition that terrifies front offices. Every team that scouts him passes — except one. He plays his entire career managing the condition in private. He never misses a game because of it. But the stress of the secret exacts a toll. He dies young.",
+      "origin": "Lazzeri had epilepsy. The Cubs and Reds both passed on signing him. The Yankees sent three scouts to investigate before committing. He never had a seizure on the field in 14 major league seasons. He died at 42, alone, from a fall in his home."
+    },
+    {
+      "title": "Mining Coal with a Nail File",
+      "type": "Action",
+      "text": "Your star player refuses all interviews. The press complains bitterly. But his teammates revere him — he leads by example, not words. +2 team chemistry from respect, -1 from media frustration.",
+      "origin": "A sportswriter complained: 'Interviewing that guy is like mining coal with a nail file.' Lazzeri was the quietest Yankee — and the smartest. He let Ruth and Gehrig get the headlines."
+    },
+    {
+      "title": "Poosh 'Em Up!",
+      "type": "Game Action",
+      "text": "Italian-speaking fans in the stands begin chanting your player's name. He responds with a two-run double that breaks the game open. The immigrant community adopts him as their hero. +2 fan loyalty in cities with large Italian populations.",
+      "origin": "Italian fans at Yankee Stadium chanted 'Poosh 'em up!' — a mangled Italian phrase meaning 'hit it out.' Lazzeri was the first Italian-American baseball superstar, a decade before DiMaggio."
+    },
+    {
+      "title": "Found the Next Morning",
+      "type": "Drama",
+      "text": "Your retired Hall of Famer is found dead in his home at age 42. The cause is listed as a heart attack, but those who knew him suspect his lifelong medical condition. The community mourns. He waited 45 years for Cooperstown.",
+      "origin": "August 6, 1946: Lazzeri was found dead in his Millbrae, CA home. The coroner ruled a heart attack caused the fall, but many believe it was an epileptic seizure. He was inducted into the HOF in 1991 — 45 years after his death."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Lean, Italian features. Dark hair, dark eyes, serious expression. 5'11\" 170 lbs — wiry, not bulky. The face of a man who carries secrets. Not grinning like Ruth — composed, watchful. The look of someone who's always thinking two plays ahead.",
+    "attire": "New York Yankees 1929 home pinstripes. The classic NY interlocking logo on the cap. The uniform of the greatest dynasty in baseball. He should look like the quiet man in the middle of the loudest team in history.",
+    "mood": "Silent intensity. Not the home run swing — the follow-through of a line-drive double into the gap. Or the pivot on a double play, the ball already released before the runner arrives. This card should feel like intelligence in motion. The smartest man on the smartest team.",
+    "style": "Classic sepia with Yankee Stadium's old frieze visible in the background haze. The Italian tricolor subtly suggested in a ribbon or shadow. More restrained than the Ruth or Gehrig cards — this is the card you have to look at twice to appreciate. Like Lazzeri himself.",
+    "reference": "The forgotten Yankee. The card that asks: what does it cost to carry a secret your whole life? The card of the man who struck out against Alexander and then won five World Series in redemption."
+  }
+}

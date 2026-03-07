@@ -1,0 +1,210 @@
+{
+  "card_type": "player",
+  "name": "Joe Kuhel",
+  "nickname": "Joe Cool",
+  "year": 1936,
+  "team": "Washington Senators",
+  "league": "American League",
+  "era": "1930s",
+  "ilb_team": "Crashers AL1930",
+  "position": "1B",
+  "bats": "L",
+  "throws": "L",
+  "height": "6'0\"",
+  "weight": "180 lbs",
+  "born": "June 25, 1906 — Cleveland, OH",
+  "died": "February 26, 1984 — Kansas City, KS",
+  "hof": "Not inducted. .277 BA, 131 HR, 1,049 RBI, 2,212 H, .992 FLD% in 18 seasons.",
+
+  "real_stats": {
+    "season": 1936,
+    "games": 151,
+    "at_bats": 599,
+    "hits": 192,
+    "doubles": 42,
+    "triples": 7,
+    "home_runs": 16,
+    "rbi": 118,
+    "stolen_bases": 13,
+    "batting_avg": ".321",
+    "obp": ".392",
+    "slg": ".467",
+    "ops": ".859",
+    "ops_plus": 118,
+    "war": 4.8,
+    "career_avg": ".277",
+    "career_hits": 2212,
+    "career_hr": 131,
+    "career_rbi": 1049,
+    "career_war": 30.3
+  },
+
+  "ilb_stats": {
+    "ovr": 6,
+    "con": 4,
+    "pow": 1,
+    "spd": 1,
+    "def": 2,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": ".321 BA in 1936 → tier 4 (.300-.329). OPS+ 118 → no bonus (<130). Also hit .322 in 1933 WS year. But career .277 BA, 104 OPS+ — an average hitter over 18 seasons with occasional hot streaks. Rating of 4.",
+    "pow": "16 HR in 1936 → tier 1 (10-19). SLG .467 → no bonus (<.500). Griffith Stadium was cavernous — Kuhel hit the only Senators home run in Griffith Stadium in all of 1945 (an inside-the-parker). Hit 27 HR at Comiskey Park in 1940, showing the park effect was real. 131 career HR. Rating of 1.",
+    "spd": "13 SB in 1936 → tier 1 (6-15). 178 career SB. Stole 22 bases at age 36 in 1942 — unusual late-career speed for a 1B. No CF/SS positional bonus. Rating of 1.",
+    "def": "Best defensive 1B in the AL during the 1930s. .992 career fielding pct. Scout: 'His fielding is considered by many players to be the equal of the once peerless Hal Chase. He gobbles the hard grounders and the easy ones with equal ease. His judgment has almost been uncanny.' Equivalent to 3-5 GG. Rating of 2.",
+    "clu": ".188 BA in 1933 WS (3-for-16). Lost to Giants in 5 games. Only postseason appearance. PS BA < .250 → tier 0. No hero moments. Rating of 0."
+  },
+
+  "personality": {
+    "leadership_style": "The Steady Professional. Kuhel played 18 seasons, 2,104 games, all at first base. He wasn't flashy, wasn't loud, wasn't controversial. He showed up, played gold-glove defense, hit .277, and went home. When he became a manager, his leadership style was blunt realism: 'What we're trying to do here is make chicken salad out of chicken shit.' He knew what he had and didn't pretend otherwise.",
+    "temperament": "Quiet, modest, reliable. His son remembered: 'He wouldn't speak about himself a lot, or his accomplishments, unless he was with family. Or someone he trusted a lot.' Kuhel was reticent about his career — not bitter, not boastful. Just private. He performed card tricks for kids in Kansas City. He co-founded 3&2 Baseball, a youth league. The man gave back quietly.",
+    "work_ethic": "Self-made from nothing. Orphaned young. Adopted by Slavakian immigrants who ran a grocery store. Dropped out of Brooklyn Heights High School in Cleveland after one year to become a leatherworker. Played baseball on weekends for the Cleveland Chiropractic College team. A semi-pro manager named Doik Novario placed him with Flint in the Michigan-Ontario League. From there: 18 major league seasons. The journey from orphan leatherworker to $65,000 prospect is one of the great bootstrap stories in baseball.",
+    "lifestyle": "Cleveland orphan, Kansas City man. Met his wife while playing for the KC Blues. Settled in Kansas City permanently. After baseball: district sales manager for Roper Sales Corp. until retirement in 1971. Co-founded 3&2 Baseball for kids up to 16 in 1943. Performed card tricks. Lived near his old ballpark. Buried at Forest Hill Cemetery, Kansas City — near Satchel Paige and Buck O'Neil. A quiet, community-rooted life.",
+    "era_adaptability": "MODERATE. The elite defense at 1B translates to any era — Gold Glove caliber. The .277 career BA and 131 HR in 18 seasons are underwhelming by modern 1B standards. He'd be a defense-first 1B, which is a niche role in modern baseball (think Eric Hosmer with better glove, less power). The speed for a 1B (178 career SB, 22 at age 36) is unusual and adds value.",
+    "clubhouse_impact": "STEADY-RELIABLE. Kuhel wasn't a Jungle Club catalyst or a joyful Goose. He was the guy who played every day, made every play at first, and didn't cause problems. His Kansas City community involvement (3&2 Baseball, card tricks for kids) suggests a man who cared deeply but expressed it through action, not words. The kind of player every team needs and nobody talks about.",
+    "dark_side": "The inconsistency. Kuhel could hit .321 one year and .249 the next. The 1933 WS was his one shot at October glory — he hit .188. Griffith Stadium ate his power numbers alive. When he finally got to a hitter-friendly park (Comiskey), he was already in his 30s. His managerial career was dismal: 106-201 (.345) in two seasons with the Senators. 'Chicken salad out of chicken shit' — he saw the truth clearly, but that didn't help him win. The orphan who built himself from nothing never quite reached the heights his talent suggested."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Joe Cool",
+      "desc": "Kuhel's name is pronounced 'COOL.' +1 composure in all situations. He never panics, never overreacts, never gets rattled. The steadiest hand on the roster."
+    },
+    {
+      "tag": "Gold Glove Before Gold Gloves",
+      "desc": "Best defensive 1B in the AL during the 1930s. 'Equal to the peerless Hal Chase.' +2 DEF at 1B. Turns errors into outs. Saves infielders with scoops, stretches, and range."
+    },
+    {
+      "tag": "Griffith Stadium Prisoner",
+      "desc": "Griffith Stadium's cavernous dimensions suppressed Kuhel's power. -1 POW at Griffith Stadium. +1 POW at all other parks. In 1945, he hit the only Senators HR in Griffith Stadium — an inside-the-parker."
+    },
+    {
+      "tag": "The Orphan's Drive",
+      "desc": "Orphaned young, adopted by immigrants, dropped out of school to work leather. Kuhel built his career from nothing. +1 work ethic permanently. Will never demand a trade or quit on a team."
+    },
+    {
+      "tag": "Card Tricks",
+      "desc": "Kuhel performed sleight-of-hand card tricks for kids around Kansas City. +1 entertainment, +1 team morale in the offseason. The quiet man's small magic."
+    },
+    {
+      "tag": "Chicken Salad",
+      "desc": "As a manager: 'What we're trying to do here is make chicken salad out of chicken shit.' When managing a bad team: +1 blunt honesty, -1 ownership relations. Kuhel tells the truth even when nobody wants to hear it."
+    },
+    {
+      "tag": "3&2 Baseball",
+      "desc": "Co-founded 3&2 Baseball, a youth league in Kansas City in 1943 — still operating today. +2 legacy. +1 community. The orphan built a home for kids who needed one."
+    },
+    {
+      "tag": "Kansas City Roots",
+      "desc": "KC Blues teammate of Joe Cronin in 1928. Met his wife in KC. Settled there permanently. When traded or released: always gravitates back to Kansas City."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "18 seasons, 2,104 games, all at 1B. Best defensive 1B in the AL. 'His judgment has almost been uncanny.'",
+      "note_extra": "Source labeled 'First Base — Any Park' / affinity 'HIGH' — mapped to Practice Field/HIGH as the primary defensive performance workspace. The 'Any Park' qualifier encodes the universality of his mastery: 18 seasons at the position across multiple teams and parks. Consistent with Klein's 'Right Field' → Practice Field/HIGH (position as craft domain). Distinguished from Kelly's 'First Base' / IDENTITY (where the position was constitutive of the man's being): Kuhel's 1B is a craft domain at HIGH, not a full identity-constitution."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "8 seasons total (1930-37, 1944-46). 1933 WS. Home — but the park ate his power.",
+      "note_extra": "Source labeled 'Griffith Stadium / Washington' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH as home-stage identity. Eight total seasons at Griffith Stadium across two stints makes it Kuhel's primary professional identity stage. The chemistry trait 'Griffith Stadium Prisoner' encodes the power suppression as a park-conditional mechanic, not as a reduction in his identity attachment: HIGH reflects belonging, not statistical happiness. Consistent with prior home-stage → Media/Spotlight/HIGH mappings."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "KC Blues (1926-30). Met his wife. Settled permanently. Co-founded 3&2 Baseball. Buried near Satchel Paige.",
+      "note_extra": "Source labeled 'Kansas City' / affinity 'HIGH' — mapped to Community Events/HIGH as the permanent post-career community of settlement. The most densely anchored community entry in the set: met his wife in KC, settled there permanently after his playing career, co-founded the still-active 3&2 Baseball youth league in 1943, and is buried at Forest Hill Cemetery near Satchel Paige and Buck O'Neil. Kansas City is where every thread of his post-baseball life converged. Fourth Community Events/HIGH after Sain, Kell, and Knight."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "MEDIUM",
+      "note": "6 seasons with White Sox (1938-43). Career-high 27 HR in 1940. The park finally let him hit.",
+      "note_extra": "Source labeled 'Comiskey Park / Chicago' / affinity 'MEDIUM' — mapped to Practice Field/MEDIUM as a secondary professional performance workspace. Six seasons and career-best power numbers (27 HR in 1940) at Comiskey, but it was never his primary identity stage. MEDIUM encodes a positive professional environment where a suppressed skill (power) finally emerged — distinct from Klein's Wrigley/LOW (where a suppressed version of himself declined) and Kell's batting cages/MEDIUM (secondary craft discipline). First Practice Field/MEDIUM encoding a non-home ballpark where park-conditional ability was unlocked."
+    },
+    {
+      "location": "World Series",
+      "affinity": "LOW",
+      "note": ".188 BA in 1933 WS. One shot at October — hit 3-for-16. Lost to Giants in 5 games.",
+      "note_extra": "Source labeled 'World Series' / affinity 'LOW' — preserved as an abstract opportunity domain rather than a physical location, consistent with Kiner's 'Postseason' / NONE. The World Series is the achievement context where Kuhel's performance was definitively poor (.188, 3-for-16, team lost in 5). LOW encodes actual participation with negative outcome, distinct from Kiner's NONE (structural deprivation — never reached it). The affinity gap between NONE (Kiner — denied the stage) and LOW (Kuhel — reached it and failed) encodes a meaningful experiential distinction. Both are abstract opportunity domains rather than ILB node-mapped physical locations; both are preserved with source labels intact."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Hitter-friendly parks — Kuhel's power emerged at Comiskey Park (27 HR in 1940). The bat wakes up when the walls come in.",
+      "Contract years / proving himself — hit .321 in 1936 (6th in MVP), hit .322 in 1933 (WS year). Kuhel performs when the spotlight is on.",
+      "Stability — 18 seasons at one position. Kuhel improves with routine and consistency.",
+      "Community engagement — when rooted in a city (Washington, Kansas City), Kuhel's production stabilizes."
+    ],
+    "cold_triggers": [
+      "Cavernous ballparks — Griffith Stadium killed his power numbers for 8 years.",
+      "Post-peak inconsistency — .321 in 1936, then .283 in 1937. The drop-offs were sudden and unexplained.",
+      "Postseason pressure — .188 in the 1933 WS. His one shot at October was his worst stretch."
+    ],
+    "pressure_response": "THE RELIABLE REGULAR. Kuhel was not a postseason hero (.188 in his only WS). He was not a headline-maker. He was the man who played 2,104 games at first base over 18 seasons, hit .277, fielded .992, and never missed a beat. In ILB terms: Kuhel's pressure response is 'keeps doing his job.' He won't win you the World Series with a walk-off, but he won't lose it with a crucial error either. He's the floor — the dependable minimum that lets the stars around him take risks."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Only Home Run in Griffith Stadium",
+      "type": "Game Action",
+      "text": "Your first baseman hits a line drive that rattles around the cavernous outfield. He sprints around the bases — an inside-the-park home run. It is the only home run any player on your team will hit in your home park the entire season. Six visiting players hit one there. Your guy managed one. The park wins.",
+      "origin": "1945: Kuhel hit the only Senators HR in Griffith Stadium all season — an inside-the-parker off Bob Muncrief on September 7."
+    },
+    {
+      "title": "The Leatherworker's Hands",
+      "type": "Action",
+      "text": "Your first baseman's hands are extraordinary. He scoops low throws out of the dirt. He stretches for wide throws without leaving the bag. He catches line drives bare-handed. He learned to work with his hands making leather goods as a teenager — those hands never forgot.",
+      "origin": "Kuhel worked as a leatherworker before baseball. 'He gobbles the hard grounders and the easy ones with equal ease.'"
+    },
+    {
+      "title": "Sixty-Five Thousand Dollars",
+      "type": "Drama",
+      "text": "Your scout has been watching a minor league first baseman for weeks. The report: 'The best first baseman in the country.' The price: $65,000 — the most your owner has ever spent on a prospect. This is during the Depression. You already have a first baseman hitting .330. You buy the kid anyway.",
+      "origin": "1930: Clark Griffith paid $65,000 for Kuhel from the KC Blues — his most expensive purchase ever, with Joe Judge already at 1B."
+    },
+    {
+      "title": "Chicken Salad Out of Chicken Shit",
+      "type": "Action",
+      "text": "You are the manager of the worst team in baseball. A reporter asks what you expect from the season. Your answer: 'What we're trying to do here is make chicken salad out of chicken shit.' The team goes on a road trip and plays well. When the train pulls into the station, 5,000 fans are waiting.",
+      "origin": "1949: Kuhel managed the Senators to 106-201 over two years. His candor was legendary."
+    },
+    {
+      "title": "Card Tricks for the Kids",
+      "type": "Action",
+      "text": "Your first baseman retires. He doesn't write a memoir or chase broadcasting jobs. Instead, he performs card tricks for kids in the neighborhood and co-founds a youth baseball league. The league is still operating 80 years later.",
+      "origin": "Kuhel performed sleight-of-hand for Kansas City kids and co-founded 3&2 Baseball in 1943 — still active today."
+    },
+    {
+      "title": "Three Triples in a Game",
+      "type": "Game Action",
+      "text": "Your first baseman — a left-handed line-drive hitter — rips three triples in one game. Nobody expects a first baseman to hit three triples. The gaps are his domain today.",
+      "origin": "May 13, 1937: Kuhel tied the AL record with 3 triples in one game."
+    },
+    {
+      "title": "The Orphan's Journey",
+      "type": "Drama",
+      "text": "Your prospect was orphaned as a child. Adopted by immigrants who ran a grocery store. He dropped out of school to become a leatherworker. He played weekend baseball for a chiropractic college team. A semi-pro manager placed him with a minor league team in Flint, Michigan. Twenty years later, he has 2,212 major league hits.",
+      "origin": "Kuhel was orphaned young, adopted by Slavakian immigrants, worked leather, played sandlot ball, and built an 18-year MLB career."
+    },
+    {
+      "title": "Buried Near Satchel and Buck",
+      "type": "Drama",
+      "text": "Your first baseman dies in Kansas City at 77. He is buried at Forest Hill Cemetery — near Satchel Paige and Buck O'Neil. Three baseball men, three different stories, all at rest in the same Kansas City earth. The orphan from Cleveland found his home.",
+      "origin": "Kuhel is buried at Forest Hill Cemetery, Kansas City, near Paige and O'Neil."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Solid, steady, left-handed. 6'0\" 180 lbs. The face of a man who doesn't need attention — pleasant, unremarkable, dependable. Not a movie star, not a character. The face you'd trust behind a counter or at first base.",
+    "attire": "Washington Senators 1936 home whites — the curly 'W' cap. Griffith Stadium behind him. The pose: stretching for a low throw at first base, fully extended, the ball just hitting the glove. Defense is his identity.",
+    "mood": "Quiet competence. The card should feel workmanlike — not glamorous, not dramatic. Like a well-made tool. Kuhel was the foundation, not the showpiece.",
+    "style": "Washington navy and red. Muted, professional, understated. The least flashy card in the set — and that's the point. Every roster needs a Joe Kuhel. This card honors the role players.",
+    "reference": "The card of Joe Cool. The orphan who became a leatherworker who became the best defensive first baseman in the American League. The man who hit the only home run in Griffith Stadium in 1945. The man who made chicken salad. The man who did card tricks for kids and co-founded a youth league. The man buried near Satchel Paige. Joe Kuhel — 18 seasons of showing up."
+  }
+}

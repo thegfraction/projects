@@ -1,0 +1,185 @@
+{
+  "card_type": "player",
+  "name": "George Kelly",
+  "nickname": "High Pockets",
+  "year": 1924,
+  "team": "New York Giants",
+  "era": "1920s",
+  "ilb_team": "Bashers AL1920",
+  "position": "1B",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'4\"",
+  "weight": "190 lbs",
+  "born": "September 10, 1895 — San Francisco, California",
+  "died": "October 13, 1984 — Burlingame, California (age 89). The second longest-lived Basher. Buried Holy Cross Cemetery, Colma, CA. Nephew of Bill Lange.",
+  "hof": "INDUCTED 1973 — Veterans Committee. THE MOST CONTROVERSIAL INDUCTION IN HOF HISTORY. Never received more than 1.9% of BBWAA vote. Bill James: 'the worst player in the Hall of Fame.' Frisch and Terry (teammates) on the Veterans Committee shepherded his election. Led to the Veterans Committee having its powers reduced. Kelly's plaque hangs in Cooperstown. The debate about whether it should has never stopped.",
+
+  "real_stats": {
+    "season": 1924,
+    "batting_avg": ".324",
+    "obp": ".371",
+    "slg": ".531",
+    "ops": ".902",
+    "hits": 185,
+    "doubles": 37,
+    "triples": 9,
+    "home_runs": 21,
+    "rbi": 136,
+    "runs": 91,
+    "stolen_bases": 4,
+    "total_bases": 303,
+    "games": 144,
+    "war": 4.8,
+    "note": "136 RBI led both leagues. 7 HR in 6 consecutive games (NL record). 3 HR in one game (all 8 Giants runs). 6th in MVP.",
+    "career_batting_avg": ".297",
+    "career_hits": 1778,
+    "career_hr": 148,
+    "career_rbi": 1020,
+    "career_war": 23.6,
+    "career_seasons": 16,
+    "ws_record": "4 WS appearances (1921-1924), 2 championships (1921, 1922)",
+    "putout_record": "1,759 putouts in 1920 — NL record (still stands)",
+    "hr_streak": "First player to hit HR in 6 consecutive games"
+  },
+
+  "ilb_stats": {
+    "ovr": 7,
+    "con": 2,
+    "pow": 3,
+    "spd": 1,
+    "def": 3,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "con": "Kelly hit .324 in 1924 with 185 hits and a .371 OBP. He batted .300+ in 6 consecutive seasons (1921-1926). Career: .297 BA, 1,778 hits. But he never led the NL in batting average, on-base percentage, or slugging percentage in any season. He was a solid, consistent hitter but not an elite contact man. His value was in RBI production and defense, not in getting on base at elite rates. Rating of 2.",
+    "pow": "Kelly drove in 136 runs in 1924, leading both leagues — his second RBI title (also 1920). He led the NL with 23 HR in 1921 and hit 7 HR in 6 consecutive games in 1924 (NL record). He hit 3 HR in a game twice and drove in all 8 Giants runs in one of those games. Career: 148 HR, 1,020 RBI, 100+ RBI in 4 straight years. He was described as a 'streaky power hitter' who would 'get white-hot for a week and slug the ball all over the park.' The power was real but inconsistent — more gap-to-gap than fence-clearing. Rating of 3.",
+    "spd": "Kelly stole 4 bases in 1924. At 6'4\" and 190 lbs, he was one of the tallest players in the league. He hit 9 triples in 1924 (decent for his size) but was not a baserunning threat. He played every position except shortstop and catcher, suggesting adequate athleticism, but speed was not a tool. Rating of 1.",
+    "def": "Kelly's defense is the strongest argument for his career value. Frankie Frisch called him 'the finest first baseman I have ever seen.' His arm was so strong that he served as the relay man on outfield throws — normally a shortstop's job. He set the NL record with 1,759 putouts in 1920 (still standing). He led NL first basemen in putouts 3 times, assists 3 times, and maintained a .992 fielding percentage. He used the same glove from his debut to retirement. The 1921 WS-ending double play — receiving Rawlings's throw, then firing to Frisch — was a defensive masterpiece. Rating of 3 (maximum).",
+    "clu": "Kelly appeared in 4 consecutive World Series (1921-1924) and won 2 championships. John McGraw — one of the greatest managers in baseball history — said Kelly 'made more important hits for me than any player I ever had.' The 1921 WS Game 8 clinching double play is the signature moment. In the 1923 WS, he threw out Dugan at home on a Ruth grounder. His .248 career WS batting average is unspectacular, but the PLAYS — the defensive gems, the clutch hits, the big moments — define him. This is a player whose October reputation exceeds his October statistics. Rating of 3 (maximum)."
+  },
+
+  "personality": {
+    "leadership_style": "PLACID RELIABILITY. McGraw described Kelly as 'placid' and 'reliable.' He was not a firebrand or a clubhouse leader. He was the steady first baseman who showed up, played elite defense, hit in the clutch, and went home. The leadership was STRUCTURAL — like the first base itself, he anchored the infield and made everything around him function. Frisch, Bancroft, Jackson, Groh — they all relied on High Pockets being at first base, stretching for every throw.",
+    "temperament": "QUIET AND LOYAL. Kelly played under John McGraw — one of the most demanding managers in baseball history — for 8 seasons without significant conflict. He agreed to move to second base in 1925 when McGraw wanted Bill Terry's bat in the lineup, sacrificing his best position without complaint. The temperament was OBEDIENT — not passive, but trusting. If McGraw asked, Kelly did it. The reward was 4 pennants.",
+    "work_ethic": "THE SAME GLOVE. Kelly used the same first baseman's glove from his first day in the majors to his last. By the time he retired, it looked 'positively prehistoric.' This is the work ethic distilled to its essence — the tool doesn't matter, the hands do. The discipline doesn't change. The position doesn't either, until your manager asks you to move.",
+    "lifestyle": "SAN FRANCISCO. Born there, died in Burlingame (just south of it). Nephew of Bill Lange (famous 19th-century outfielder). After baseball, he coached for the Reds (1935-37) and lived quietly in California for decades. Died at 89 — the second longest-lived Basher. A quiet, long, West Coast life bookending a loud New York career.",
+    "era_adaptability": "MODERATE. Kelly's defensive skills would translate to any era — the arm, the footwork, the stretch. His offensive profile (.297/.342/.452) would be below average for a modern 1B, where power is expected. He'd be a defense-first 1B who hits .270 with 18 HR — valuable but not a star. The clutch hitting is harder to project. Modern analytics would undervalue him (23.6 career WAR) just as they do now.",
+    "clubhouse_impact": "POSITIVE THROUGH FUNCTION. Kelly made the infield work. Frisch, Bancroft, Jackson — Hall of Famers who all benefited from Kelly's stretch at first, his arm on relays, his reliability. In ILB, Kelly provides +1 DEF to all infield teammates. The first baseman elevates the infield around him.",
+    "tragic_element": "THE PLAQUE AND THE DEBATE. George Kelly is in the Baseball Hall of Fame. He got 1.9% of the BBWAA vote. The Veterans Committee — led by his former teammates Frisch and Terry — elected him. Bill James called him 'the worst player in the Hall of Fame.' The plaque has hung in Cooperstown since 1973. Every year, someone writes another article about why it shouldn't. Kelly's tragedy is not being excluded from greatness. It's being included and having the inclusion questioned for the rest of eternity. The plaque DEFENDS itself. The statistics PROSECUTE. The verdict was never final. It never will be."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "McGraw's Clutch Man",
+      "desc": "'Kelly made more important hits for me than any player I ever had' — John McGraw. In ILB, Kelly has +2 to all offensive stats in situations where the game outcome is directly at stake (tying/go-ahead run). The clutch is not a statistic. It's a testimony."
+    },
+    {
+      "tag": "The Controversial Plaque",
+      "desc": "HOF 1973 — 1.9% BBWAA vote, elected by Veterans Committee via Frisch cronyism. In ILB, Kelly carries THE ASTERISK (inverse of Hargrave's): his HOF status is permanently contested. Opponents may challenge his ranking. The plaque defends itself. The debate never ends."
+    },
+    {
+      "tag": "High Pockets",
+      "desc": "6'4\" in an era of 5'9\" averages. In ILB, Kelly has +1 DEF at 1B (reach advantage) and +1 defensive range for stretching. But -1 to strike zone size — the height creates a larger target for pitchers. The pockets are high. The strike zone is too."
+    },
+    {
+      "tag": "The Same Glove",
+      "desc": "Kelly used one glove his entire career. In ILB, Kelly has +1 DEF consistency — his fielding never fluctuates. No hot or cold streaks on defense. The glove is prehistoric. The hands are eternal."
+    },
+    {
+      "tag": "The Relay Arm",
+      "desc": "First baseman used as relay man on outfield throws. In ILB, Kelly's arm extends the defensive chain: outfield assists +1 when Kelly is the relay man. The strongest arm plays the position that doesn't usually need one."
+    },
+    {
+      "tag": "Frisch's Pipeline",
+      "desc": "Frisch got Kelly into the HOF. Also Haines, Bancroft, Hafey, Youngs, Bottomley, Lindstrom. In ILB, when Kelly is on the same team as any other Frisch-pipeline HOFer, both receive +1 to reputation. The teammates who testified for each other."
+    },
+    {
+      "tag": "Streaky Power",
+      "desc": "7 HR in 6 games. 3 HR in a game (twice). Then weeks of ordinary production. In ILB, Kelly's POW fluctuates: d6 each week: on 6 = HOT STREAK (POW becomes 5 for the week). On 1 = cold (POW becomes 1). The surge and the silence."
+    },
+    {
+      "tag": "The Game Ender (1921)",
+      "desc": "WS Game 8, 1921: Rawlings to Kelly to Frisch — double play to end the World Series. In ILB, Kelly has +3 DEF in WS-clinching situations. The play that justified the plaque."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Polo Grounds, New York",
+      "affinity": "MAXIMUM / HOME",
+      "note": "1920-1926. Four pennants, two championships. The place where High Pockets became High Pockets. McGraw's domain.",
+      "note_extra": "Source affinity 'MAXIMUM / HOME' — compound label preserving both the peak performance register (MAXIMUM) and the home identity register (HOME). Variant of Huggins player's 'MAXIMUM/HOME' (no spaces). Both encode the same concept: highest possible affinity at the primary home performance stage. Spacing difference preserved exactly as written."
+    },
+    {
+      "location": "First Base",
+      "affinity": "IDENTITY",
+      "note": "1,759 putouts in 1920 (NL record, still stands). Same glove, same stretch, same reliability. The position was the man.",
+      "note_extra": "Source affinity 'IDENTITY' — second IDENTITY affinity in the set. Prior IDENTITY: Hoy's deaf community (a community/social group identity). Kelly's IDENTITY applies to a playing position rather than a community — the first base itself is his identity domain. First position-as-identity mapping. IDENTITY encodes that the position and the player are inseparable: Kelly is not someone who plays first base, he is a first baseman. The stretch, the glove, the arm, the putout record — all are constitutive of his being as a ballplayer."
+    },
+    {
+      "location": "The World Series",
+      "affinity": "PEAK",
+      "note": "4 consecutive WS (1921-1924). 2 rings. The clinching double play. More important hits than anyone McGraw ever had.",
+      "note_extra": "Source affinity 'PEAK' — new affinity label. Distinct from MAXIMUM (the highest sustainable level), HIGH (standard strong positive), and MYTHIC (prophetic/transcendent). PEAK encodes the apex of career achievement in a specific context: Kelly performed above his regular-season level in the World Series — the big plays, the clutch hits, the clinching double play. Not his sustained ceiling but the top of what he was capable of when it mattered most. PEAK is achievement-in-context rather than identity-in-domain."
+    },
+    {
+      "location": "San Francisco",
+      "affinity": "HOME / ORIGIN",
+      "note": "Born SF, died Burlingame. Nephew of Bill Lange. West Coast boy who conquered New York and came home.",
+      "note_extra": "Source affinity 'HOME / ORIGIN' — new compound affinity. Distinct from 'MAXIMUM/HOME' (Huggins player — home as performance apex) and 'SOUL/ORIGIN/GRAVE' (Hoy — triple compound encoding spiritual/biographical/mortal arc). 'HOME / ORIGIN' is a binary compound: both the home identity (where Kelly always returned) and the biographical origin (where he was formed). San Francisco as both starting point and ending point: born there, buried nearby, coached there in the minors. The West Coast as his constant coordinate."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Streaky power — Kelly would get 'white-hot for a week' and hit 7 HR in 6 games. When the power streak arrives, he's unstoppable.",
+      "October baseball — 4 consecutive WS appearances. Kelly elevated in the postseason, making plays and hits that exceeded his regular-season production.",
+      "RBI situations — led both leagues in RBI (1924). Kelly thrived with runners on base. The more pressure, the better.",
+      "Defensive rhythm — when the infield was in sync, Kelly's defense anchored everything. Hot defensive streaks correlated with team success."
+    ],
+    "cold_triggers": [
+      "Between streaks — Kelly's power was feast-or-famine. The cold periods produced modest .270-level production with no extra-base pop.",
+      "Position changes — moving to 2B (1925) disrupted his rhythm initially. Unfamiliar defensive demands split his focus.",
+      "Walk rate — Kelly's .371 OBP (1924) was good but not elite. He didn't draw enough walks to sustain production during batting slumps.",
+      "Post-Giants decline — after leaving McGraw's system, Kelly's production dropped. He needed the structure of the Giants machine."
+    ],
+    "pressure_response": "ELITE. This is the defining trait. McGraw's testimony is the evidence. The 1921 WS-clinching double play is the proof. The 1923 throw on Dugan off a Ruth grounder is the confirmation. Kelly's pressure response exceeds what his statistics suggest. CLU = 3 (maximum) reflects not just October numbers but the quality of the moments within those numbers."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Plaque and the Debate",
+      "type": "Legacy / Controversy",
+      "text": "1973. The Veterans Committee elects your first baseman to the Baseball Hall of Fame. The Baseball Writers gave him 1.9% of their vote — not even close. The Veterans Committee includes Frankie Frisch and Bill Terry, your first baseman's former teammates. Bill James will call your first baseman 'the worst player in the Hall of Fame.' The plaque will hang in Cooperstown. The debate will never end. Your first baseman's career batting average is .297. His career WAR is 23.6. His manager — John McGraw — said he made more important hits than any player he ever had. The statistics prosecute. The testimony defends. The plaque hangs. The verdict was never final.",
+      "origin": "Kelly's controversial HOF induction (1973) via the Frisch-led Veterans Committee."
+    },
+    {
+      "title": "Game Eight",
+      "type": "Achievement / Clutch",
+      "text": "1921 World Series. Game Eight. Best-of-nine format. Your team is one win from the championship. Bottom of the ninth. One out. Aaron Ward running from first. Home Run Baker grounds one hard to the right side. Johnny Rawlings dives, makes a sprawling stop, and throws to first from his knees. Your first baseman catches the ball. Ward doesn't stop — he's running for second, then third, trying to beat the play. Your first baseman — six feet four inches of calm — guns the ball across the infield to Frankie Frisch. Ward crashes into Frisch. Frisch goes down flat on his back. He holds the ball high. The umpire calls the out. The World Series is over. Your first baseman made the play. The play nobody remembers. The play that justified the plaque.",
+      "origin": "The 1921 WS Game 8 clinching double play — Rawlings to Kelly to Frisch."
+    },
+    {
+      "title": "Seven in Six",
+      "type": "Achievement / Streak",
+      "text": "July 1924. Your first baseman begins hitting home runs and does not stop. One game. Two games. Three. Four. Five. Six consecutive games with a home run — the first player in baseball history to accomplish this. Seven home runs in six games, a National League record. In one of these games, he hits three home runs and drives in all eight of his team's runs. Then the streak ends. Then the ordinary production resumes. Then the weeks of singles and groundouts. Then — weeks later — another streak. White-hot for a week. Room temperature for a month. The power lives in bursts. The bursts live forever.",
+      "origin": "Kelly's NL-record 7 HR in 6 consecutive games (1924); first to HR in 6 straight."
+    },
+    {
+      "title": "The Same Glove",
+      "type": "Character / Identity",
+      "text": "From the first day he takes the field for the New York Giants to the last day he plays professional baseball, your first baseman uses the same glove. The same thin piece of leather. By the time he retires, it looks positively prehistoric — a relic from another era worn while playing in the current one. They ask him why. He doesn't have a good answer. The glove works. The hands inside it know the shape. The stretch knows the reach. Why would you change the thing that knows how to catch? The glove is the career. The career is the glove. Both are worn down to essential leather.",
+      "origin": "Kelly used the same first baseman's glove his entire career."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'4\" 190 lbs — TALL. The tallest Basher. A tall man's face: long, angular, with features that seem to have been stretched slightly. Not gaunt — LANKY. The expression is PLACID — McGraw's word. Calm, steady, not emotional. The face of a man who does not argue with umpires or managers or sportswriters. He simply catches the ball, drives in the run, and walks back to first base. There should be COMPETENCE in this face — not brilliance, not intensity, but the quiet competence of a man who does his job very well and lets others debate whether very well is good enough.",
+    "attire": "New York Giants 1924 home whites — the iconic 'NY' interlocking on the chest. RIGHT-HANDED batting stance OR stretching at first base — that famous stretch, 6'4\" fully extended, the tallest reach in the NL. The body should look LONG — long arms, long legs, long torso. Everything about Kelly is LENGTH — the pockets are high because the legs are long. Baker Bowl's short fence doesn't help him. The Polo Grounds' vast outfield doesn't hurt him. The dimensions are his.",
+    "mood": "COMPETENT AND CONTESTED. This card exists in two states simultaneously: the PLACID RELIABILITY of Kelly the player, and the ENDLESS DEBATE of Kelly the Hall of Famer. The mood should split — warm competence on one hand, cool questioning on the other. The card should feel like a case being argued. The evidence is mixed. The defense is strong. The prosecution has better statistics. The jury is still out.",
+    "style": "Full color — Bashers era — GIANTS ORANGE AND JUDICIAL GRAY. New York Giants orange-black, judicial gray, cream white. The Giants orange is confident — this is a championship team. But the gray creeps in at the edges — the debate, the doubt, the 1.9% BBWAA vote. The border should be COURTROOM GRAY — the color of testimony and cross-examination, the color of a plaque that defends itself. THE TALL MAN'S CASE — the tallest card in the Bashers, with the most debated credentials. The card that stands up and asks you to judge it.",
+    "reference": "Ruth is the solar system. Hornsby is the blade. Wilson is the barrel. Hargrave is the valve. George Kelly is THE TALL MAN'S CASE — the card that puts itself on trial. Every other card in the Bashers knows its place in the hierarchy. Kelly's place is CONTESTED. He is in the Hall of Fame. He should not be. He made the most important hits. His statistics say otherwise. The card stands 6'4\" and asks you to look up at it and decide."
+  }
+}

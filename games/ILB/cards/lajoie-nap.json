@@ -1,0 +1,225 @@
+{
+  "card_type": "player",
+  "name": "Nap Lajoie",
+  "nickname": "The Frenchman",
+  "year": 1901,
+  "team": "Philadelphia Athletics",
+  "era": "1900s",
+  "ilb_team": "Banners AL1900",
+  "position": "2B",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'1\"",
+  "weight": "195 lbs",
+  "born": "September 5, 1874 — Woonsocket, RI",
+  "died": "February 7, 1959 — Daytona Beach, FL",
+  "hof": "Class of 1937 (BBWAA, 83.6% — led all inductees that year)",
+  "player_image": "https://raw.githubusercontent.com/thegfraction/projects/b9a611655116268b1910dda04fcb97fd0d03b2d1/games/ILB/images/lajoie-nap.png",
+
+  "real_stats": {
+    "season": 1901,
+    "games": 131,
+    "at_bats": 544,
+    "hits": 232,
+    "doubles": 48,
+    "triples": 14,
+    "home_runs": 14,
+    "rbi": 125,
+    "stolen_bases": 27,
+    "batting_avg": ".426",
+    "obp": ".463",
+    "slg": ".643",
+    "ops": "1.106",
+    "ops_plus": 220,
+    "war": 11.7,
+    "gold_gloves": 0,
+    "silver_sluggers": 0,
+    "all_star": 0,
+    "career_avg": ".338",
+    "career_hits": 3242,
+    "career_hr": 82,
+    "career_sb": 380,
+    "career_war": 107.2
+  },
+
+  "ilb_stats": {
+    "ovr": 10,
+    "con": 5,
+    "pow": 2,
+    "spd": 2,
+    "def": 2,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": ".426 BA in 1901 — the highest single-season average in the American League, ever. Still the record 124 years later. Won 5 batting titles. Career .338 BA with 3,242 hits. Only struck out 9 times in his entire 1901 season. The man placed the ball wherever he wanted with a custom two-knob bat.",
+    "pow": "14 HR and .643 SLG in 1901 — won the Triple Crown. Led the AL in total bases (350), extra-base hits (76), doubles (48). For a dead-ball-era second baseman, this was monster power. He out-homered an entire team that year.",
+    "spd": "27 SB in 1901, 380 career. Connie Mack described him as going 'over the ground like a deer.' Good speed for his 6'1\" 195-lb frame, especially at second base, but not a basestealing weapon like Cobb.",
+    "def": "Led AL second basemen in putouts 5 times, assists 3 times, double plays 5 times, fielding percentage 4 times. Connie Mack said he 'plays so naturally and so easily it looks like lack of effort.' One of the greatest defensive second basemen ever. Rating of 2 rather than 3 only because Gold Gloves didn't exist.",
+    "clu": "Never appeared in a World Series (the WS started in 1903; Lajoie's teams never won the pennant). In 1908, his Cleveland Naps lost the pennant by .004 to Detroit — and Lajoie batted just .289 down the stretch, blaming himself for the collapse. No postseason heroics to speak of."
+  },
+
+  "personality": {
+    "leadership_style": "Quiet authority. Lajoie led by example, not by speeches. He was the franchise — Cleveland literally renamed their team 'the Naps' after him. But as a player-manager (1905–1909), he struggled with strategy and signals. He was a doer, not a schemer.",
+    "temperament": "Steady, professional, easygoing. The anti-Cobb. Lajoie was well-liked by teammates, opponents, and fans. Cy Young called him 'one of the most rugged hitters I ever faced' but everyone respected the man. Not a hothead — but not a pushover either. He jumped leagues over a $400 salary dispute.",
+    "work_ethic": "Natural talent over grind. Where Cobb practiced obsessively, Lajoie made it look effortless. He had a custom-designed two-knob bat from Hillerich that gave him supernatural bat control. His gift was God-given fluidity — the ball went where he wanted it almost by instinct.",
+    "lifestyle": "Working-class roots. Son of French-Canadian immigrants in Woonsocket, RI. Father died when Nap was 5. Worked in cotton mills as a kid, drove a horse cab as a teenager ('The Slugging Cabby'). Money motivated him — he jumped to the AL for $6,000/year when the NL capped him at $2,400. Practical, not flashy.",
+    "era_adaptability": "HIGH. Lajoie adapted from the NL to the brand-new AL without blinking — in fact, he dominated harder. His natural athleticism and bat control would translate to any era. His calm demeanor would make him a perfect modern clubhouse presence.",
+    "clubhouse_impact": "POSITIVE-STEADY. Not a rah-rah guy, but universally respected. Teammates liked playing with him. He didn't cause drama, didn't demand attention, and elevated everyone's game just by being the best player on the field. The kind of star every team wants.",
+    "dark_side": "The 1910 batting title scandal. In the final games of the season, opposing St. Louis Browns manager Jack O'Connor allegedly ordered his third baseman to play deep, gifting Lajoie bunt hits to deny Cobb the batting crown. Lajoie went 8-for-8 with 7 bunts. The scheme was exposed; O'Connor was fired. Lajoie's reputation survived mostly intact — he was the sympathetic figure — but it remains a blemish. In ILB terms: Lajoie carries a low-frequency 'Scandal' trigger that can emerge in tight batting races."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Franchise Face",
+      "desc": "Team morale +1 when Lajoie is in the starting lineup. The team is literally named after him."
+    },
+    {
+      "tag": "Natural Talent",
+      "desc": "Lajoie's skills don't degrade under fatigue. He plays at full capacity even when tired."
+    },
+    {
+      "tag": "Everyman",
+      "desc": "Compatible with players from all eras and backgrounds. No chemistry conflicts."
+    },
+    {
+      "tag": "Blue Collar",
+      "desc": "Extra comfort in industrial-era and working-class city squares. Grew up in cotton mills."
+    },
+    {
+      "tag": "Graceful Defender",
+      "desc": "+1 DEF when playing second base. His fielding was described as 'picking fruit.'"
+    },
+    {
+      "tag": "Bat Craftsman",
+      "desc": "Lajoie's custom two-knob bat gives him +1 CON when batting with RISP (runners in scoring position)."
+    },
+    {
+      "tag": "Rival: Cobb",
+      "desc": "When on the same team or opposing Ty Cobb, both players gain +1 to all stats from competitive fire."
+    },
+    {
+      "tag": "League Jumper",
+      "desc": "Can be recruited to any team regardless of league restrictions. His contract disputes make him available."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "MEDIUM",
+      "note": "Natural talent. Practiced, but didn't grind like Cobb. Made it look easy.",
+      "note_extra": "Source labeled 'Batting Cages / Practice Field' / affinity 'MEDIUM' — mapped to Practice Field/MEDIUM. The source label straddles two sub-locations within the Practice Field node; both resolve to the same ILB node. MEDIUM encodes Lajoie's relationship to practice: a natural talent who worked but didn't obsess. Consistent with Kell's Batting Cages/MEDIUM (methodical secondary craft) — here it is the moderate engagement of a player whose talent exceeded his need to grind."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Well-liked, comfortable, the steady center of any team.",
+      "note_extra": "Source labeled 'Clubhouse / Locker Room' / affinity 'HIGH' — mapped to Practice Field/HIGH. Consistent with the established Clubhouse/Locker Room → Practice Field/HIGH mapping used throughout the set. The clubhouse as the social-teamwork domain at HIGH: Lajoie was 'the steady center of any team,' universally respected, no chemistry conflicts. Two Practice Field entries on this card: MEDIUM (individual practice, moderate engagement) and HIGH (team social workspace, full affinity)."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "Enjoyed team dinners. Social but not wild. A man of simple pleasures.",
+      "note_extra": "Source labeled 'Restaurant / Steakhouse' / affinity 'HIGH' — mapped to Hotel/Rest/HIGH. Third Hotel/Rest/HIGH in the set after Kauff (Broadway entertainment) and Johnson (DC dining). Restaurant/steakhouse as a social dining domain is the elevated version of Keeler's restaurant at MEDIUM — HIGH encodes team dinners as a genuine affinity and regular social practice, while the 'social but not wild' note preserves the distinction from Kauff's more extravagant Broadway engagement."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "MEDIUM",
+      "note": "'I'm out for the stuff' — his career motto. Money-motivated but not a tycoon.",
+      "note_extra": "Source labeled 'Financial Office / Bank' / affinity 'MEDIUM' — mapped to Library/Quiet Spot/MEDIUM as a private professional/financial planning workspace. First financial domain → Library/Quiet Spot mapping in the set. The node encodes a private, transactional, non-social space where Lajoie engaged practically with his financial interests — motivated by money ('I'm out for the stuff') but not an investor or entrepreneur. MEDIUM reflects genuine engagement without deep identity investment: he cared about money enough to jump leagues over $400 but was 'practical, not flashy.'"
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Popular with fans but not a showman. Respected more than adored.",
+      "note_extra": "Source label directly names the ILB node 'Community Events' / affinity 'MEDIUM.' No mapping ambiguity. MEDIUM encodes a genuine but modulated public community presence: popular and respected without seeking or performing in the spotlight. Consistent with the Community Events/MEDIUM pattern for players who engage with the public on their own steady terms rather than as performers or organizers."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "No major drinking associations. Steady lifestyle.",
+      "note_extra": "Source labeled 'Bar / Saloon' / affinity 'LOW' — mapped to Hotel/Rest/LOW. The note is explicitly exculpatory: 'No major drinking associations. Steady lifestyle.' This LOW is semantically distinct from Klein's Bar/Kensington at LOW (which encoded active alcoholism as a harm domain) — Lajoie's LOW encodes mild/occasional presence without habitual association or documented harm. Second Hotel/Rest entry on this card at LOW (alongside HIGH for Restaurant). Two Hotel/Rest entries at opposite ends of the positive spectrum on the same card."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "NONE",
+      "note": "No association.",
+      "note_extra": "Source labeled 'Gambling Hall' / affinity 'NONE' — mapped to Hotel/Rest/NONE. Second NONE in the set after Kell's Bar/Nightlife/NONE. The note is the most minimal in the entire set: two words, 'No association.' Gambling Hall is a hotel/rest-adjacent venue of leisure; NONE encodes complete absence of documented engagement. Three Hotel/Rest entries on this card spanning three affinities (HIGH for restaurant, LOW for bar/saloon, NONE for gambling hall) — first card with Hotel/Rest represented at three distinct affinity levels, encoding the full spectrum from genuine social pleasure to mild occasional presence to total absence."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "New league / new team — Lajoie thrives in fresh starts (jumped to AL and hit .426)",
+      "Multi-hit games — once locked in, he stays locked in for weeks",
+      "Salary disputes resolved in his favor — motivation surges",
+      "Playing against Cobb — the rivalry elevates both players"
+    ],
+    "cold_triggers": [
+      "Managerial responsibilities — his batting average dropped significantly as player-manager",
+      "Pennant pressure — collapsed in 1908 when it mattered most",
+      "Contract disputes unresolved — plays distracted when underpaid"
+    ],
+    "pressure_response": "INCONSISTENT. Lajoie was a dominant regular-season force but wilted in the one true pennant race he faced. His .289 down the stretch in 1908 — when Cleveland lost by .004 — haunted him. He never reached a World Series. In ILB: Lajoie is a stat-sheet monster who carries real risk in elimination scenarios. Pair him with a high-CLU player to compensate."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Triple Crown",
+      "type": "Game Action",
+      "text": "Your highest-CON player leads the league in AVG, HR, and RBI simultaneously. For the next 3 games, he gains +1 to CON, POW, and OVR. Opposing teams lose -1 morale.",
+      "origin": "Lajoie won the first AL Triple Crown in 1901 with a .426 BA, 14 HR, and 125 RBI — one of the most dominant seasons in baseball history."
+    },
+    {
+      "title": "League Jumper",
+      "type": "Drama",
+      "text": "Your star player is offered double his salary by a rival league. Pay 3 resource cards to match the offer, or lose him. If you match, team chemistry +2 (loyalty). If you don't, he joins the opponent's next available team.",
+      "origin": "Lajoie jumped from the Phillies to the Athletics in 1901 when the NL capped his salary at $2,400 and the AL offered $6,000."
+    },
+    {
+      "title": "The Injunction",
+      "type": "Drama",
+      "text": "A court order bars your player from competing in one state. He can play all away games except in that state. You lose home-field advantage for 1 season but keep the player.",
+      "origin": "The Pennsylvania Supreme Court upheld an injunction barring Lajoie from playing for any team other than the Phillies — but only in Pennsylvania. He was traded to Cleveland to circumvent it."
+    },
+    {
+      "title": "The Bunt Scandal",
+      "type": "Drama",
+      "text": "In a tight batting race, an opposing manager orders his fielders to play deep, gifting your player easy bunts. Your player goes 8-for-8 — but if discovered, the opposing manager is fired and your player's reputation takes -1 for the season.",
+      "origin": "The infamous 1910 batting race: Browns manager O'Connor ordered his 3B to play deep, letting Lajoie bunt his way to 8 hits in a doubleheader to try to beat Cobb for the title."
+    },
+    {
+      "title": "Name the Team",
+      "type": "Action",
+      "text": "Your franchise player is so beloved that the team is renamed after him. Team morale +3 for the rest of the season. But if that player is ever traded, morale crashes by -5.",
+      "origin": "The Cleveland franchise renamed itself 'the Naps' in honor of Lajoie. When he left in 1914, they became the Indians."
+    },
+    {
+      "title": "The Slugging Cabby",
+      "type": "Action",
+      "text": "A young prospect from a working-class background arrives. He's raw but talented. If you start him immediately, he gains +2 to all stats for his first 3 games. If you bench him, he develops slowly but safely.",
+      "origin": "Lajoie was driving a horse cab for $7.50/week before signing his first baseball contract. He went 4-for-his-first-5 in the minors and never looked back."
+    },
+    {
+      "title": "The Custom Bat",
+      "type": "Game Action",
+      "text": "Your player commissions a custom bat design. For the rest of the season, he gains +1 CON and can place-hit: choose to pull or go opposite field on any at-bat.",
+      "origin": "Lajoie used a custom two-knob bat made by J.F. Hillerich Company that gave him extraordinary bat control. He could place the ball wherever he wanted."
+    },
+    {
+      "title": "Pennant Collapse",
+      "type": "Drama",
+      "text": "Your team leads the league with 10 games left. Your player-manager's batting average drops by -2 CON under the weight of dual responsibilities. If the team loses the pennant, the manager resigns.",
+      "origin": "Lajoie batted just .289 as player-manager in the 1908 pennant race, and Cleveland lost to Detroit by .004. He blamed himself and resigned as manager after 1909."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Broad, strong face with a calm, confident expression. Large build for the era — 6'1\" 195 lbs. Clean-shaven with a square jaw. Deep-set eyes that radiate quiet competence. French-Canadian features — strong nose, dark complexion.",
+    "attire": "Philadelphia Athletics or Cleveland Naps home whites, high wool collar, loose flannel. No number (pre-numbering era). Cap sits straight and proper — this is a professional. Clean uniform — Lajoie was elegant, not gritty.",
+    "mood": "Serene confidence. Not aggressive like Cobb — poised. The look of a man who knows he's the best and doesn't need to prove it. Mid-swing follow-through with a custom bat, or fielding a grounder with balletic ease at second base.",
+    "style": "Warm sepia with golden undertones. Soft stadium light from a wooden grandstand. Cleaner than Cobb's card — less dust, more polish. Tobacco-card composition with ornate border, but slightly more refined. Aged paper texture with gentle foxing.",
+    "reference": "Think T206 Lajoie card — the dignified companion to Cobb's feral energy. Same ILB sepia portrait style but warmer, calmer. The gentleman's card."
+  }
+}

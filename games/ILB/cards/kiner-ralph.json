@@ -1,0 +1,225 @@
+{
+  "card_type": "player",
+  "name": "Ralph Kiner",
+  "nickname": "The Sultan of Swat II",
+  "year": 1949,
+  "team": "Pittsburgh Pirates",
+  "era": "1940s",
+  "ilb_team": "Allies AL1940",
+  "position": "LF",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'2\"",
+  "weight": "195 lbs",
+  "born": "October 27, 1922 — Santa Rita, NM",
+  "died": "February 6, 2014 — Rancho Mirage, CA (age 91)",
+  "hof": "HOF 1975 (BBWAA, 75.4% — final year, one vote over minimum). 7 straight NL HR titles. #4 retired by Pirates.",
+
+  "real_stats": {
+    "season": 1949,
+    "games": 152,
+    "at_bats": 549,
+    "hits": 170,
+    "doubles": 19,
+    "triples": 5,
+    "home_runs": 54,
+    "rbi": 127,
+    "runs": 116,
+    "stolen_bases": 6,
+    "walks": 117,
+    "strikeouts": 61,
+    "batting_avg": ".310",
+    "obp": ".432",
+    "slg": ".658",
+    "ops": "1.090",
+    "ops_plus": 176,
+    "war": 7.3,
+    "career_avg": ".279",
+    "career_hits": 1451,
+    "career_hr": 369,
+    "career_rbi": 1015,
+    "career_war": 43.1,
+    "hr_per_ab": "1 per 14.1 AB"
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "con": 5,
+    "pow": 5,
+    "spd": 1,
+    "def": 0,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": "Kiner batted .310 in 1949 — not just a home run hitter. He drew 117 walks for a .432 OBP, 4th in the NL. OPS+ of 176 easily clears the 130 bonus threshold. Over his career, Kiner posted a .398 OBP — elite plate discipline. He struck out only 61 times in 549 AB in 1949 while hitting 54 HR. The ratio of power to contact was extraordinary. Rating of 5.",
+    "pow": "54 HR in 1949 — highest in the NL from 1931 to 1997. At retirement, his HR/AB ratio (1 per 14.1) was 2nd only to Babe Ruth. He led the NL in HR for SEVEN consecutive seasons (1946-52) — unprecedented and unmatched. He hit 40+ HR in four seasons and 50+ twice. 369 career HR in only 10 seasons. Greenberg taught him to pull the ball; Kiner's Korner at Forbes Field was the result. Maximum power. Rating of 5.",
+    "spd": "6 SB in 1949. Kiner was slow — explicitly described as 'slow of foot' with a 'weak arm.' He was a station-to-station slugger who relied entirely on the long ball. His 5 triples in 1949 are his only speed indicator, and those came mostly from Forbes Field's vast outfield. Rating of 1.",
+    "def": "Poor defensive left fielder. Limited range, weak throwing arm. Kiner's value was almost entirely offensive. He was a liability in the field by modern standards. No Gold Glove equivalent. Rating of 0.",
+    "clu": "Zero postseason appearances in 10 seasons. The Pirates finished 8th, 8th, 4th, 6th, 8th, 7th, 8th, 8th during Kiner's peak years. He never had the opportunity to play October baseball. By default: CLU = 0. This is not a reflection of Kiner's ability under pressure — it's a reflection of his team's futility."
+  },
+
+  "personality": {
+    "leadership_style": "Star power on a bad team. Kiner was the reason fans came to Forbes Field — the Pirates were terrible, but Kiner filled the seats. He was the franchise, the brand, the drawing card. When Branch Rickey cut his salary after he led the NL in HR for the 7th time, Kiner protested. Rickey replied: 'We could have finished last without you.' Kiner's leadership was existential: he gave a hopeless franchise a reason to exist.",
+    "temperament": "Charismatic, gregarious, Hollywood-adjacent. Kiner dated Ava Gardner, Elizabeth Taylor, and Janet Leigh. He was a California kid — born in New Mexico, raised in Alhambra — with movie-star looks and a slugger's confidence. But he was also humble enough to listen to Hank Greenberg for hours, absorb the older man's wisdom, and transform his swing. The combination of glamour and work ethic was unique.",
+    "work_ethic": "Greenberg-forged. Kiner's transformation from raw power to elite slugger was the direct result of Hank Greenberg's mentorship. Greenberg arrived in Pittsburgh in 1947 and immediately started tutoring Kiner: stand closer to the plate, pull outside pitches, take extra batting practice every day. Kiner called Greenberg 'the single biggest influence of my adult life.' The results: 23 HR in 1946 became 51 HR in 1947.",
+    "lifestyle": "Hollywood glamour meets Pennsylvania steel. Kiner was the most eligible bachelor in baseball — dating actresses, attending premieres, living large. But he also befriended Bing Crosby (Pirates co-owner) and built a post-career as a beloved broadcaster. After retirement, became GM of the PCL San Diego Padres, then joined the Mets broadcast booth from Day One (1962) until his death in 2014 — 52 years. Famous for malapropisms ('Kinerisms') that endeared him to fans.",
+    "era_adaptability": "HIGH FOR OFFENSE, LOW FOR DEFENSE. Kiner's power numbers would translate to any era — 54 HR with a .432 OBP is elite by any standard. But modern teams would struggle with his defense and speed. He'd be a DH in today's game, which would cap his WAR. His plate discipline and power-to-contact ratio, however, are timeless.",
+    "clubhouse_impact": "FAN FAVORITE, PEER RESPECTED. Kiner wasn't a vocal leader — the Pirates were too bad for that. But he was respected for his power and his willingness to work. Teammates loved his personality. Fritz Ostermueller coined the famous line attributed to Kiner: 'Home run hitters drive Cadillacs, singles hitters drive Fords.' Kiner embodied that philosophy — and the fans who came to watch him proved it.",
+    "dark_side": "The back that broke. Kiner's career ended at 32 due to chronic back problems. He went from 37 HR in 1952 to 28, then 22, then 18 before retiring. Only 10 seasons, 1,451 hits, .279 career BA — borderline HOF credentials by counting stats. He barely squeaked in (75.4%, final year of eligibility, one vote over minimum). The what-if haunts: 5 more healthy seasons might have meant 500+ HR and first-ballot induction. And he never played a single postseason game — the Pirates' futility denied him the October stage entirely."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Kiner's Korner",
+      "desc": "Forbes Field's left-field porch was built for him. +2 POW at home park. Kiner's power had its own zip code."
+    },
+    {
+      "tag": "Greenberg's Protégé",
+      "desc": "Hank Greenberg transformed Kiner from raw to elite. +1 CON when paired with a veteran mentor figure on the roster."
+    },
+    {
+      "tag": "Seven Straight Crowns",
+      "desc": "Led the NL in HR for 7 consecutive seasons. +1 POW in games where Kiner already has a HR — momentum builds."
+    },
+    {
+      "tag": "Cadillac Hitter",
+      "desc": "'Home run hitters drive Cadillacs.' Kiner gets +1 salary demand but +2 fan attendance. Star power transcends team quality."
+    },
+    {
+      "tag": "Bad Back",
+      "desc": "Chronic back problems. After age 30, 30% chance per season of -1 POW or career-ending injury."
+    },
+    {
+      "tag": "Last Chance HOF",
+      "desc": "Elected with 75.4% on final ballot — one vote over minimum. Kiner carries a 'Prove Them Wrong' aura: +1 to all stats in contract years."
+    },
+    {
+      "tag": "Hollywood Date Night",
+      "desc": "Dated Ava Gardner, Elizabeth Taylor, Janet Leigh. +1 charisma in off-field events. -1 focus during spring training?"
+    },
+    {
+      "tag": "Mets Voice",
+      "desc": "52 years in the broadcast booth. After retirement, Kiner becomes the voice of a franchise. +1 legacy and fan connection."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "54 HR in 1949. 7 straight HR titles. 2nd best HR/AB in history behind Ruth.",
+      "note_extra": "Source labeled 'Batter's Box' / affinity 'HIGH' — mapped to Practice Field/HIGH as the primary batting performance workspace. Standard batter's domain mapping."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "The left-field porch was literally built for him. Home run paradise.",
+      "note_extra": "Source labeled 'Forbes Field / Kiner's Korner' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH. Kiner's Korner is not merely a home ballpark (which would be Practice Field/HIGH as professional performance workspace) but an architectural monument named for an active player — a public identity object. First ballpark-as-named-monument mapping in the set. The distinction from a standard home stage: the Korner is simultaneously a performance zone and a public tribute inscribed into the ballpark's physical structure, placing it firmly in the Media/Spotlight node as an identity-monument domain."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "California kid. Dated movie stars. Attended premieres. Baseball's most glamorous slugger.",
+      "note_extra": "Source labeled 'Hollywood / Red Carpet' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH. Celebrity lifestyle and public glamour domain. Kiner as Hollywood-adjacent public figure: dates Gardner/Taylor/Leigh, attends premieres, lives as a public star off the field. Consistent with the Media/Spotlight node as fame-and-public-identity domain."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "52 years with the Mets. 'Kinerisms' became legendary. Second career as beloved as the first.",
+      "note_extra": "Source labeled 'Broadcast Booth' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH as a public broadcast performance domain. Consistent with Kell's broadcast booth → Media/Spotlight/HIGH mapping. Kiner as broadcaster: 52 years with the Mets from their inaugural season (1962) to his death (2014), a public performance identity that outlasted his playing career by four decades. Three Media/Spotlight/HIGH entries on this card — the most concentrated Media/Spotlight presence in the set, equaling Johnson's three entries and exceeding all others."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "MEDIUM",
+      "note": "Respected for power. Good personality. But the team was always bad.",
+      "note_extra": "Source labeled 'Clubhouse / Locker Room' / affinity 'MEDIUM' — mapped to Practice Field/MEDIUM as the internal team workspace. First Practice Field/MEDIUM for a position player's clubhouse entry. Prior clubhouse → Practice Field mappings: Kell (HIGH — universally beloved, mentoring role) and Keeler (HIGH — zero drama, emotional anchor). Kiner's MEDIUM encodes the dampening effect of perpetual team futility: a good teammate and respected presence on a franchise that finished last or near-last in 7 of 8 full seasons. The team context prevents the clubhouse from becoming a positive feedback domain."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "The bad back haunted him. Surgery, rehabilitation, decline.",
+      "note_extra": "Source labeled 'Training Room / Doctor's Office' / affinity 'LOW' — mapped to Hotel/Rest/LOW as a medical recovery space. Consistent with the prior hospital → Hotel/Rest/LOW mappings (Joss, Huggins manager, Jennings manager). First training room → Hotel/Rest/LOW in the set (prior entries specified hospital/sickbed). Kiner's back problems are the defining physical limitation of his career: early retirement at 32, the '500 HR what-if,' the career arc truncated by chronic injury."
+    },
+    {
+      "location": "Postseason",
+      "affinity": "NONE",
+      "note": "Never experienced it. The Pirates denied him October entirely.",
+      "note_extra": "Source labeled 'Postseason' / affinity 'NONE' — preserved with source label unchanged. The 'Postseason' is an opportunity domain rather than a physical location — the most abstract preferred_location entry in the set. Prior NONE entries encode social spaces the card subject actively avoided (Kell's Hotel/Rest/NONE for nightlife, Kauff's Community Events/NONE for gambling halls). Kiner's NONE encodes structural deprivation: he did not avoid the postseason, he was denied it by ten years of Pirates futility. The NONE here is absence imposed from outside rather than chosen. The momentum.pressure_response makes this active gameplay: CLU 0 with a hidden roll mechanic if Kiner reaches the postseason."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Multi-HR games — Kiner hit 3 HR in a game multiple times. When he goes deep once, expect more",
+      "Facing power-friendly parks — any park with short porches amplifies Kiner's pull power",
+      "Batting practice confidence — Greenberg's regimen of extra BP was Kiner's fuel",
+      "Fan attendance peaks — Kiner played better when the crowd was big. He was a showman"
+    ],
+    "cold_triggers": [
+      "Back pain — chronic issue that could flare up at any time, reducing power and range",
+      "Losing streaks — the Pirates' futility wore on him. Hard to stay motivated on a 112-loss team",
+      "Defensive demands — any game requiring range or arm strength exposed Kiner's weakness"
+    ],
+    "pressure_response": "UNKNOWN — NO OCTOBER DATA. Kiner never played a postseason game. The Pirates finished last or near-last in 7 of his 8 full seasons with them. We simply don't know how Kiner would have performed under October pressure. His regular-season consistency (7 straight HR titles) suggests he'd maintain his level, but the hypothesis was never tested. In ILB terms: Kiner starts with CLU 0, but if he reaches the postseason, there's a hidden roll — 40% chance he erupts (CLU jumps to 2), 60% chance he's ordinary (CLU stays 0). The unknown is the drama."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Greenberg's First Lesson",
+      "type": "Drama",
+      "text": "An aging legend arrives at your team. On his first day, he invites the young slugger to take extra batting practice. 'Stand closer to the plate. Pull outside pitches.' The young man listens. His HR total doubles the next season. From 23 to 51.",
+      "origin": "Hank Greenberg arrived in Pittsburgh in 1947 and immediately began tutoring Kiner. The results: 23 HR in 1946 became 51 HR in 1947. Kiner called Greenberg 'the single biggest influence of my adult life.'"
+    },
+    {
+      "title": "Kiner's Korner",
+      "type": "Action",
+      "text": "Your slugger hits so many home runs that the team rebuilds the outfield fence just for him. The shortened left-field porch becomes legendary. They name it after him. It's the first ballpark feature named for an active player.",
+      "origin": "Forbes Field's bullpen was built in left field for Greenberg, then retained for Kiner. 'Greenberg Gardens' became 'Kiner's Korner.' Kiner later used the name for his post-game TV show."
+    },
+    {
+      "title": "54 Home Runs on a Last-Place Team",
+      "type": "Game Action",
+      "text": "Your slugger hits 54 home runs — the highest total in the NL in 18 years. His team finishes in 6th place. Nobody else on the roster hits more than 16. He is the entire offense. He IS the franchise.",
+      "origin": "1949. Kiner hit 54 HR — the NL's highest since Hack Wilson's 56 in 1930. The Pirates finished 6th (71-83). Kiner drove in 127 of the team's runs essentially by himself."
+    },
+    {
+      "title": "We Could Have Finished Last Without You",
+      "type": "Drama",
+      "text": "Your star leads the league in home runs for the 7th straight year. He asks for a raise. The GM tells him: 'We could have finished last without you.' The salary is cut. The player is traded the next season.",
+      "origin": "Branch Rickey became Pirates GM and cut Kiner's $90,000 salary to $75,000 despite his 7th HR title. The famous quote is baseball's most brutal management line. Kiner was traded in 1953."
+    },
+    {
+      "title": "One Vote Over the Line",
+      "type": "Drama",
+      "text": "Your retired slugger waits 13 years for the Hall of Fame. Each year, the vote comes up short. On his final ballot — his very last chance — he receives exactly one vote more than the minimum. He's in. Barely.",
+      "origin": "Kiner received 75.4% in 1975 — his 13th and final year of BBWAA eligibility. 273 votes out of 362. He needed 272. One vote saved his Hall of Fame legacy."
+    },
+    {
+      "title": "Dating the A-List",
+      "type": "Action",
+      "text": "Your slugger is baseball's most eligible bachelor. He dates the biggest movie stars of the era — three of Hollywood's most famous women. He's as comfortable on the red carpet as in the batter's box. The press loves him.",
+      "origin": "Kiner dated Ava Gardner, Elizabeth Taylor, and Janet Leigh during his playing career. He was a California kid with Hollywood connections and movie-star charisma."
+    },
+    {
+      "title": "The Bad Back",
+      "type": "Drama",
+      "text": "Your slugger's back gives out. He goes from 37 home runs to 28, then 22, then 18. He's only 32. The power evaporates. A 500-HR career shrinks to 369. He retires knowing what might have been.",
+      "origin": "Chronic back problems ended Kiner's career after 10 seasons. He was on pace for 500+ HR but the back robbed him of 5+ productive years."
+    },
+    {
+      "title": "52 Years Behind the Mic",
+      "type": "Action",
+      "text": "Your retired slugger reinvents himself as a broadcaster. He joins a brand-new franchise on its first day and stays for 52 years — longer than most franchises exist. His verbal stumbles become legendary and beloved. He becomes a second kind of icon.",
+      "origin": "Kiner joined the Mets broadcast booth in 1962 (their inaugural season) and remained until his death in 2014. His malapropisms ('Kinerisms') became as famous as his home runs."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'2\" 195 lbs, powerfully built. Movie-star handsome — the man who dated Elizabeth Taylor. Strong jaw, confident eyes, California-bronzed. The face of a man who hit 54 HR and dated Hollywood royalty in the same year. Swagger without arrogance.",
+    "attire": "Pittsburgh Pirates home whites, 1949 style. Number 4. Classic postwar flannel, 'Pirates' across the chest. Right-handed batter in full extension — the follow-through of a 54-HR season, bat whipped around, ball headed for Kiner's Korner.",
+    "mood": "Pure power, pure confidence. The ball is leaving Forbes Field, headed for Kiner's Korner. The crowd is on its feet — they came to see this. Kiner is the entire show on a last-place team, and he knows it. The card should radiate the joy of crushing a baseball.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Forbes Field with its vast outfield and the shortened left-field porch. The Korner is visible — the bullpen behind the fence where so many Kiner bombs landed.",
+    "reference": "Think of pure, unapologetic power hitting. Kiner was Ruth's heir in the NL — the man who made the long ball an art form. The card should feel like a home run trot: slow, satisfied, inevitable. 'Home run hitters drive Cadillacs.'"
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "card_type": "player",
+  "name": "John Knight",
+  "nickname": "Schoolboy",
+  "year": 1910,
+  "team": "New York Highlanders",
+  "era": "1900s",
+  "ilb_team": "Banners AL1900",
+  "position": "SS",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'2\"",
+  "weight": "180 lbs",
+  "born": "October 6, 1885 — Philadelphia, PA",
+  "died": "December 19, 1965 — Walnut Creek, CA (age 80)",
+  "hof": "Not inducted. Journeyman utility man with one spectacular season.",
+  "player_image": "https://raw.githubusercontent.com/thegfraction/projects/b9a611655116268b1910dda04fcb97fd0d03b2d1/games/ILB/images/knight-john.png",
+
+  "real_stats": {
+    "season": 1910,
+    "games": 106,
+    "at_bats": 389,
+    "hits": 121,
+    "doubles": 18,
+    "triples": 8,
+    "home_runs": 4,
+    "rbi": 62,
+    "stolen_bases": 21,
+    "batting_avg": ".312",
+    "obp": ".357",
+    "slg": ".424",
+    "ops": ".781",
+    "ops_plus": 130,
+    "war": 2.3,
+    "gold_gloves": 0,
+    "silver_sluggers": 0,
+    "all_star": 0,
+    "career_avg": ".239",
+    "career_hits": 636,
+    "career_hr": 14,
+    "career_sb": 86,
+    "career_war": 3.1
+  },
+
+  "ilb_stats": {
+    "ovr": 5,
+    "con": 3,
+    "pow": 0,
+    "spd": 2,
+    "def": 1,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": ".312 BA in 1910 — 5th in the AL — leading the Highlanders in 7 offensive categories. But career .239 over 8 major league seasons. Knight was the definition of a one-year wonder. The gap between his peak (.312) and his career (.239) is enormous. Rating of 3 reflects the peak season at its best, acknowledging the volatility.",
+    "pow": "4 HR in 1910, 14 career in 767 games. No power. His extra-base hits came from doubles and triples (speed). A definitive 0.",
+    "spd": "21 SB in 1910, 86 career. 8 triples. At 6'2\" 180 lbs, Knight was unusually tall for a shortstop and still had legitimate speed. He was the tallest man to play shortstop at that time. Rating of 2 reflects good speed for his size.",
+    "def": "Played every infield position plus outfield. .933 career fielding percentage — below average, but his range was noted. He was considered the tallest man to play SS in his era (6'2\"). Versatility was his defensive calling card, not excellence at any one position. Rating of 1.",
+    "clu": "Never reached the postseason. Zero October at-bats. This is a definitive 0."
+  },
+
+  "personality": {
+    "leadership_style": "Wanderer and survivor. Knight played for 4 ML teams and bounced through the minors until age 42. He wasn't a captain or leader — he was the resourceful journeyman who keeps finding ways to stay in the game. His leadership was by example: adapt, survive, reinvent.",
+    "temperament": "Resourceful and adventurous. Played under a fake name ('Ryan') at age 18 to protect his amateur status while still a high school student. Briefly attended dental school. Covered the World Series as a newspaper reporter. Proposed a national baseball golf tournament. Knight had wide-ranging interests and refused to be defined by one role.",
+    "work_ethic": "Streaky and inconsistent, but capable of brilliance. Hit .400 in June 1905 as a 19-year-old rookie — then faded badly. Had one magnificent season in 1910 (.312) surrounded by mediocrity (.239 career). Knight could turn it on, but couldn't sustain it. His career in the minors showed persistence — he played until age 42.",
+    "lifestyle": "Philadelphia native. Father Jim Knight was a semi-pro pitcher known to A's owner Ben Shibe. Jack played under a fake name in amateur ball, got spotted by Harry Davis, and debuted at 19. Briefly attended UPenn Dental School in 1912. After baseball, settled in Walnut Creek, California. Covered the 1915 World Series as a journalist. Proposed a baseball-players golf tournament. A man of many interests.",
+    "era_adaptability": "LOW-MODERATE. Knight's one great season (.312 in 1910) wouldn't be enough to sustain a modern career. His .239 career average and defensive inconsistency would limit him to a utility role in any era. His versatility (5 positions) has value, but he'd need to find another hot streak.",
+    "clubhouse_impact": "COLORFUL-POSITIVE. Knight was a local boy who made good — the 19-year-old 'Schoolboy' who charmed Philadelphia fans. Monte Cross, the veteran he replaced, was 'broad-minded enough to feel pleased with the Kid's success' and mentored him. Knight was well-liked but never a cornerstone.",
+    "dark_side": "The fade. Knight hit .400 in June 1905 and everyone thought a star was born. Then he was hit by a Cy Young pitch, missed time, and never recaptured the magic that season (.203 final avg). The pattern repeated: one brilliant stretch followed by a return to mediocrity. In ILB terms: Knight carries a 'Flash in the Pan' trait — capable of brief brilliance but unreliable over a full season."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Schoolboy",
+      "desc": "Debuted at 19, still a student. +1 fan popularity (they love a kid). -1 consistency (he's still learning)."
+    },
+    {
+      "tag": "Fake Name",
+      "desc": "Played amateur ball as 'Ryan' to protect his eligibility. Knight can be inserted into lineups as a surprise — opponents don't scout him properly. +1 CON for first 5 games on a new team."
+    },
+    {
+      "tag": "Davis's Discovery",
+      "desc": "Harry Davis spotted Knight and recommended him to Mack. +2 chemistry with Davis. If Davis is on the roster, Knight gains +1 OVR."
+    },
+    {
+      "tag": "Versatile",
+      "desc": "Played SS, 3B, 2B, 1B, and OF. Knight can fill any position without a DEF penalty — but gains no DEF bonus either."
+    },
+    {
+      "tag": "Hot Streak",
+      "desc": "Once per season, Knight can enter a 'hot streak' mode: +2 CON for 10 games. After the streak ends, -1 CON for the next 10 games."
+    },
+    {
+      "tag": "Tallest Shortstop",
+      "desc": "At 6'2\", Knight was the tallest man to play SS in his era. +1 range at SS but -1 agility on double-play pivots."
+    },
+    {
+      "tag": "Renaissance Journeyman",
+      "desc": "Dental student, journalist, golf tournament organizer. Knight never suffers morale drops from being sent to the minors — he always finds something to do."
+    },
+    {
+      "tag": "Cy Young's Victim",
+      "desc": "Twice injured by Cy Young pitches. -1 CON when facing elite pitchers (flinch factor)."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Played until age 42 across every level of professional baseball.",
+      "note_extra": "Source labeled 'Ballpark (any level)' / affinity 'HIGH' — mapped to Practice Field/HIGH as the universal baseball performance workspace. The 'any level' qualifier is the most generic ballpark entry in the set: Knight's primary identity domain is the baseball field wherever he could find it — major leagues, AAA, AA, PCL, throughout a 24-year professional career. Practice Field/HIGH."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "MEDIUM",
+      "note": "Covered the 1915 World Series as a journalist for a Cleveland paper.",
+      "note_extra": "Source labeled 'Press Box / Newspaper Office' / affinity 'MEDIUM' — mapped to Library/Quiet Spot/MEDIUM as a private content-production workspace. Consistent with the Joss newsroom → Library/Quiet Spot mapping: Knight as journalist is a producer of content (reporter covering the WS), not a subject or performer, placing him in the analytical/production domain rather than Media/Spotlight. MEDIUM rather than HIGH because journalism was an occasional sideline, not a primary identity domain."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Proposed a national baseball-players golf tournament after the season.",
+      "note_extra": "Source labeled 'Golf Course' / affinity 'MEDIUM' — mapped to Community Events/MEDIUM as a social and organizational activity domain. In Knight's era, golf was a social sport; his proposal for a national baseball-players tournament is explicitly a community-organizing gesture — convening peers around a shared activity. Community Events/MEDIUM for social-organizational engagement at moderate affinity."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "LOW",
+      "note": "Briefly attended UPenn Dental School in 1912. Didn't stick.",
+      "note_extra": "Source labeled 'University / Dental School' / affinity 'LOW' — mapped to Library/Quiet Spot/LOW as a private academic/professional training institution. First Library/Quiet Spot/LOW in the set (prior Library/Quiet Spot entries were all HIGH or MEDIUM). LOW encodes that Knight sampled this domain — enrolled in dental school — but it was a low-affinity environment he abandoned without completing. Two Library/Quiet Spot entries on this card: MEDIUM (journalism as practiced sideline) and LOW (dental school as sampled and discarded)."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Born in Philly. Father was known to A's owner Shibe. Local roots.",
+      "note_extra": "Source labeled 'Home / Philadelphia' / affinity 'MEDIUM' — mapped to Community Events/MEDIUM as community-of-origin at moderate affinity. Philadelphia is where Knight was born, raised, and debuted, but he left for other teams and died in California — so it is a warm connection without the full-life embedding of Kell's Swifton (Community Events/HIGH). Community Events/MEDIUM for origin community with genuine but limited ongoing attachment. Two Community Events entries on this card: golf/organizational (MEDIUM) and home/origin (MEDIUM)."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Minneapolis, Seattle, Oakland, Denver, Sacramento, Cleveland AA. Everywhere.",
+      "note_extra": "Source labeled 'Minor League Town' / affinity 'HIGH' — mapped to Practice Field/HIGH as the minor league professional performance workspace. Second Practice Field/HIGH on this card alongside 'Ballpark (any level).' Both encode the same career reality from different angles: the first is the universal ballpark identity, the second is the specific texture of the minor league stops (named cities, PCL/AA affiliations, 24-year career persistence). Two Practice Field/HIGH entries are consistent with prior multi-entry Practice Field patterns (Jackson, Keeler, Klein)."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Settled and died in Walnut Creek, CA.",
+      "note_extra": "Source labeled 'California' / affinity 'HIGH' — mapped to Community Events/HIGH as an active post-career community of settlement. Knight settled in Walnut Creek after his playing career and died there at 80 — a long, embedded post-baseball life in California. Community Events/HIGH as adopted lifelong community identity, consistent with Kell's Swifton/Arkansas mapping (born and died there) but as an adopted rather than native community. Third Community Events/HIGH in the set after Sain and Kell."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "New team / fresh start — Knight's best work came right after joining a new club",
+      "June magic — his .400 month in 1905 and .312 season in 1910 both featured hot Junes",
+      "Playing SS — his natural position, where his height gave him range advantages"
+    ],
+    "cold_triggers": [
+      "Being hit by pitches — Cy Young broke his hand, derailing his rookie season",
+      "Long seasons — Knight faded in the second half consistently",
+      "Expectations — after his hot starts, the pressure to maintain crushed him"
+    ],
+    "pressure_response": "UNTESTED. Knight never reached the postseason in 8 ML seasons. He did cover the 1915 World Series — as a journalist. In ILB: Knight is a complete unknown in October. He could be a hero or a ghost. Roll the dice."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Schoolboy Arrives",
+      "type": "Drama",
+      "text": "A 19-year-old high school kid debuts on Opening Day as an emergency replacement. He hits .400 in his first full month. The fans go wild. But can he sustain it? Roll a d6 each month: on 4+, he maintains. On 1-3, he fades.",
+      "origin": "Knight debuted on Opening Day 1905 at age 19, replacing injured Monte Cross. He hit .400 in June — then faded to .203 for the season."
+    },
+    {
+      "title": "Playing Under a Fake Name",
+      "type": "Action",
+      "text": "Your prospect plays amateur ball under an alias to protect his eligibility. He gains +1 surprise factor when he joins your team — opponents have no scouting data on him.",
+      "origin": "Knight played for the West Chester Brandywines as 'Ryan' while still a student at Central High. Harry Davis spotted him and told Mack."
+    },
+    {
+      "title": "Traded for a Legend",
+      "type": "Drama",
+      "text": "Your promising young player is traded for an aging Hall of Famer. The young player thrives briefly on the new team (+1 OVR for 20 games). The legend struggles in his new home.",
+      "origin": "In 1907, Knight was traded from the A's to Boston in exchange for Jimmy Collins — one of the greatest third basemen in history."
+    },
+    {
+      "title": "The One Great Year",
+      "type": "Game Action",
+      "text": "Your journeyman has the season of his life — .312 BA, leading the team in 7 categories, considered for MVP. He gains +3 OVR for the entire season. But next year, he returns to his baseline.",
+      "origin": "Knight hit .312 in 1910 (5th in AL), led the Highlanders in 7 offensive categories, and received MVP consideration. He hit .268 the next year and .200 after that."
+    },
+    {
+      "title": "The Dental Dropout",
+      "type": "Action",
+      "text": "Your player briefly enrolls in professional school during the offseason. He drops out to return to baseball. No stat change, but +1 intelligence from the experience.",
+      "origin": "Knight briefly attended the University of Pennsylvania Dental School in 1912. There's no record he ever finished."
+    },
+    {
+      "title": "Reporter in the Press Box",
+      "type": "Action",
+      "text": "Your retired player covers the World Series as a newspaper reporter. He gains insider knowledge: +1 scouting data for any team he covers.",
+      "origin": "After the 1915 minor league season, Knight picked up extra work covering the World Series for a Cleveland newspaper."
+    },
+    {
+      "title": "The Lifer",
+      "type": "Action",
+      "text": "Your player refuses to stop playing. He bounces through the minors until age 42: Minneapolis, Seattle, Oakland, Denver, Sacramento. Each stop adds +1 to his lifetime reputation.",
+      "origin": "Knight played professional baseball for 24 years, from 1905 to 1928, across 4 ML teams and at least 6 minor league cities."
+    },
+    {
+      "title": "Hit by the Best",
+      "type": "Drama",
+      "text": "Your young prospect is hit in the hand by a pitch from the greatest pitcher alive. He misses weeks. When he returns, he's never quite the same. -1 CON permanently against elite pitching.",
+      "origin": "Knight was hit in the hand by a Cy Young pitch in July 1905, derailing his spectacular rookie start. He was also hurt by Young earlier — Young had broken Monte Cross's wrist too."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Tall, lanky, youthful face — 6'2\" 180 lbs, the tallest SS of his time. Still looks like a kid even in his mid-20s. Open, eager expression. Clean-shaven, high cheekbones, slight smile. The look of a young man who doesn't quite know what he wants to be yet — ballplayer, dentist, journalist, golfer.",
+    "attire": "New York Highlanders 1910 road grays. The uniform fits loosely on his tall, thin frame — all arms and legs. At shortstop, in a fielding crouch that emphasizes his unusual height. Or in a batting stance, the bat looking small in his long arms.",
+    "mood": "Youthful energy with a hint of uncertainty. Not the confident authority of Davis or the quiet mastery of Tenney — this is the kid who hit .400 in June and didn't know what came next. There's something fleeting about Knight's card — you can feel the hot streak coming and going. A comet, not a sun.",
+    "style": "Lighter, slightly cooler sepia than the established stars — reflecting Knight's status as a journeyman rather than a cornerstone. Simpler tobacco-card border, less ornate. The Hilltop Park or Polo Grounds faintly in the background. Aged paper with light wear — this card hasn't been handled as much as the legends' cards, because fewer people collected it. The deep cut. The sleeper card.",
+    "reference": "Think of the T206 common — the card that's not worth much but tells a fascinating story. ILB sepia style at its most understated. Knight should look like the card you discover at the bottom of a box and think: 'Who was this guy?' Then you flip it over and fall in love with the story."
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "card_type": "player",
+  "name": "Chuck Klein",
+  "nickname": "The Hoosier Hammer",
+  "year": 1930,
+  "team": "Philadelphia Phillies",
+  "league": "National League",
+  "era": "1930s",
+  "ilb_team": "Crashers AL1930",
+  "position": "RF",
+  "bats": "L",
+  "throws": "R",
+  "height": "6'0\"",
+  "weight": "185 lbs",
+  "born": "October 7, 1904 — Indianapolis, Indiana (son of farmers Frank Klein and Margaret Vacker, German immigrant parents)",
+  "died": "March 28, 1958 — Indianapolis, Indiana (age 53, cerebral hemorrhage following years of alcoholism and CNS disease)",
+  "hof": "Inducted 1980 (Veterans Committee). NL MVP 1932. Triple Crown 1933. 4× NL HR leader. 2× All-Star. Richard Nixon named him to his all-time team. #92 on Sporting News 100 Greatest Players.",
+
+  "real_stats": {
+    "season": 1930,
+    "games": 156,
+    "at_bats": 648,
+    "batting_avg": ".386",
+    "hits": 250,
+    "doubles": 59,
+    "triples": 8,
+    "home_runs": 40,
+    "rbi": 170,
+    "runs": 158,
+    "stolen_bases": 4,
+    "walks": 54,
+    "strikeouts": 50,
+    "slg": ".687",
+    "obp": ".436",
+    "ops": "1.123",
+    "ops_plus": 157,
+    "total_bases": 445,
+    "xbh": 107,
+    "war": 7.1,
+    "outfield_assists": 44,
+    "career_avg": ".320",
+    "career_hr": 300,
+    "career_rbi": 1201,
+    "career_hits": 2076,
+    "career_war": 27.3
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "con": 5,
+    "pow": 4,
+    "spd": 1,
+    "def": 2,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": ".386 BA in 1930 — one of the highest averages of the 20th century. 250 hits. 59 doubles (NL record at the time). Five consecutive 200+ hit seasons (1929-33). Over 5 peak years: .359 BA average. OPS+ 157 in 1930 means he was 57% better than league average even after park adjustment. Hit safely in 135 of 156 games in 1930. Two separate 26-game hitting streaks. In one stretch, hit safely in 71 of 75 games (.425). Rating of 5.",
+    "pow": "40 HR, 170 RBI, 445 TB, 107 XBH, .687 SLG in 1930. 4× NL HR leader. 300 career HR. Triple Crown 1933. BUT: Baker Bowl's RF was 280 feet. He hit 164 of 300 career HR at home. Park-adjusted estimates suggest ~38 fewer career HR. Mel Ott hit 323 of 511 at the Polo Grounds (258 to RF). The Baker Bowl asterisk is real but overblown — Klein still hit .320 with power on the road. Rating of 4 — elite power, but the park bump prevents a 5.",
+    "spd": "4 SB in 1930. Led NL in SB in 1932 with 20 — the lowest total to ever lead the league. 79 career SB. Klein was the only post-1920 player to lead his league in both HR and SB in the same year (1932). Not fast, but a smart, aggressive baserunner who scored 158 runs. Rating of 1.",
+    "def": "44 outfield assists in 1930 — the all-time record for any outfielder in a single season, still unbroken. Klein mastered Baker Bowl's unique RF dimensions: 280 feet to the foul pole, 60-foot tin wall. He played extremely shallow, turning singles into outs at first base. He learned to play caroms off the wall like a hockey player. His defensive prowess was partially a product of the park (lots of balls hit to RF off bad Phillies pitching), but the skill to convert those opportunities was entirely his. Rating of 2.",
+    "clu": "Never won a pennant with the Phillies (last place most years). Appeared in the 1935 WS with the Cubs as a diminished player (.333, 1 HR in 6 games, but Cubs lost to Tigers). No signature October moments. The Phillies were 52-102 in his peak year (1930). Klein was the best player on the worst team. CLU 0."
+  },
+
+  "personality": {
+    "leadership_style": "The Quiet Star. Klein was not a firebrand or a clubhouse politician. He was a steel mill worker who played baseball because it was fun. 'One of the reasons I've been able to play baseball well is because it's fun for me. Many players find it work.' He led by consistent excellence, not personality. He was the only reason to attend a Phillies game for five straight years.",
+    "temperament": "Easygoing, blue-collar, unpretentious. Born to German immigrant farmers. Worked construction and steel mills before baseball. Built his 185-pound frame tossing 200-pound ingots. He thrived in the low-pressure atmosphere of Philadelphia's last-place Phillies — no expectations, no spotlight, just hit. When traded to Chicago, the pressure of being the 'next great slugger' crushed him.",
+    "work_ethic": "Conscientious worker and hustler. SABR describes him this way consistently. Klein was not gifted with blazing speed or intimidating size — he was a 6-foot, 185-pound left-handed hitter who maximized every dimension of Baker Bowl. He mastered the wall caroms. He learned to play shallow enough to throw out runners at first from right field. He studied pitchers. He ran hard. His work ethic was the foundation beneath the gaudy numbers.",
+    "lifestyle": "Tragic decline. After his peak years, Klein began drinking heavily. The pressure of the Cubs trade, injuries (recurring hamstring pulls), and the loss of Baker Bowl's comfort zone accelerated the decline. He ran a bar in Philadelphia's Kensington neighborhood after retirement. The drinking worsened. He developed a disease of the central nervous system that left him semi-invalid. He moved back to Indianapolis to live with relatives. He died at 53 of a cerebral hemorrhage. The HOF elected him 22 years after his death, following a letter-writing campaign by a schoolteacher and Klein's sister-in-law.",
+    "era_adaptability": "MEDIUM-HIGH. Klein's raw power and contact skills would translate to any era. His .386 BA in 1930 was inflated by the era (NL batted .303) and the park, but his OPS+ of 157 means he was genuinely elite after adjustments. His defensive skills — arm, positioning, wall play — would be valuable anywhere. His speed was average. The biggest question is whether his power numbers survive without Baker Bowl. Park-adjusted, he's still a .310/30 HR hitter with elite defense in RF.",
+    "clubhouse_impact": "WARM AND STEADY. Klein was beloved in Philadelphia. The fans adored him because he was the only bright spot on terrible teams. He thrived in the low-pressure Phillies environment. When traded to the Cubs, the pressure changed him — he admitted feeling intense stress to be Chicago's 'next great slugger.' He performed best when left alone to play. Not a leader, not a disruptor — a steady, reliable star who needed a comfortable environment.",
+    "dark_side": "Alcoholism and early death. Klein's drinking began in earnest in the mid-1930s, coinciding with his move to Chicago and the pressure that came with it. The injuries (hamstring pulls, charley horses) may have been exacerbated by drinking. After retirement, he ran a bar — the worst possible environment for an alcoholic. He became semi-invalid from a CNS disease (likely alcohol-related). He died at 53, alone with relatives in Indianapolis, far from Philadelphia where he'd been a god. The HOF campaign took 22 years and over 1,000 letters from a schoolteacher named Dutch Doyle and Klein's sister-in-law Virginia Torpey."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Baker Bowl Monster",
+      "desc": "+2 POW and +1 CON at Baker Bowl or any park with RF fence < 310 feet. Klein's numbers were inseparable from his home park. At standard parks: no bonus. The eternal asterisk."
+    },
+    {
+      "tag": "The Hoosier Hammer",
+      "desc": "Steel mill strength. +1 POW vs RHP. Klein built his frame tossing 200-lb ingots. The power was real — Baker Bowl just amplified it."
+    },
+    {
+      "tag": "Wall Master",
+      "desc": "+2 DEF when playing RF in any park with a wall (not open fence). Klein mastered caroms off Baker Bowl's 60-foot tin wall. He reads walls like no other outfielder."
+    },
+    {
+      "tag": "44 Assists",
+      "desc": "Klein can throw out runners at 1B from RF. Once per game, any single to right with a runner on first: 20% chance of a 9-3 putout. Unprecedented."
+    },
+    {
+      "tag": "Low-Pressure Player",
+      "desc": "+1 all stats on last-place teams. -1 all stats on pennant contenders. Klein thrived in Philadelphia's basement and wilted under Chicago's expectations."
+    },
+    {
+      "tag": "The Decline",
+      "desc": "Starting year 6, 15% chance per season of permanent -1 CON and -1 POW. Represents the injuries, drinking, and park changes that destroyed Klein's production after age 29."
+    },
+    {
+      "tag": "Four Home Runs",
+      "desc": "Once per career, Klein can hit 4 HR in a single game. 1% chance per game. If triggered: +5 team morale, permanent 'Legend' badge. Based on July 10, 1936 at Forbes Field."
+    },
+    {
+      "tag": "The 1,000 Letters",
+      "desc": "After retirement, if Klein is not inducted into HOF within 10 years, a letter-writing campaign begins. 5% chance per year of induction. Takes decades. The long road to Cooperstown."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "280 feet to RF. 60-foot tin wall. Klein hit .395 with 164 HR in 581 career games here. His paradise.",
+      "note_extra": "Source labeled 'Baker Bowl / Philadelphia' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH as home-stage-as-identity-monument. Baker Bowl is simultaneously Klein's primary performance stage and a public identity object inseparable from his legacy: the park amplified his numbers, shaped his defensive technique (wall mastery, shallow positioning), and is the permanent asterisk on his career. The distinction from a standard home ballpark (Practice Field/HIGH as professional performance workspace): Baker Bowl is constitutive of Klein's identity in the way Kiner's Korner is constitutive of Kiner's — it is not merely where he worked but what he was. Media/Spotlight/HIGH as identity-monument domain, consistent with Kiner's Korner mapping."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "44 assists in 1930. Mastered the wall. Played shallow enough to throw out runners at 1B. The position defined him.",
+      "note_extra": "Source labeled 'Right Field' / affinity 'HIGH' — mapped to Practice Field/HIGH as the primary defensive performance workspace. Klein's right field is a professional craft domain: the 44-assist record, the shallow positioning, the wall-carom mastery are all products of disciplined preparation and execution. Consistent with other position-as-craft mappings. Distinguished from Kelly's 'First Base' / IDENTITY: Klein's RF is where he performed his craft at maximum, not where his identity was constituted (Baker Bowl fills that role). Practice Field/HIGH for the position as performance domain."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": ".386 in 1930. 250 hits. 445 total bases. He lived in the box.",
+      "note_extra": "Source labeled 'Batter's Box' / affinity 'HIGH' — mapped to Practice Field/HIGH as the primary batting performance workspace. Standard batter's domain mapping. Two Practice Field/HIGH entries on this card (Right Field + Batter's Box), consistent with the multi-entry Practice Field pattern established by Jackson (LH Batter's Box + Left Field) and Keeler (Batting Cages + Clubhouse)."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Where he built his body. Tossing 200-lb ingots. The blue-collar foundation.",
+      "note_extra": "Source labeled 'Steel Mill / Construction Site' / affinity 'MEDIUM' — mapped to Community Events/MEDIUM as community-of-origin at medium affinity. Klein's blue-collar industrial origins are formative and present in his identity (cited in personality.work_ethic, chemistry trait 'The Hoosier Hammer', and art_direction.reference) but are pre-baseball context: he left the mill for baseball and did not return. The industrial workplace is more community-embedded than private (construction gangs, mill floors — collective labor) making Community Events a better fit than Library/Quiet Spot. MEDIUM encodes that the steel mill shaped him fundamentally without remaining an active domain. Consistent with the distinction between formative-but-left origins (MEDIUM) and active lifelong community identity (HIGH)."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "LOW",
+      "note": "Traded to Cubs for $65K. Pressure crushed him. .301 and .293. Never the same.",
+      "note_extra": "Source labeled 'Wrigley Field / Chicago' / affinity 'LOW' — mapped to Practice Field/LOW. First Practice Field/LOW in the set. Wrigley is a professional performance workspace (ballpark) where Klein's abilities deteriorated catastrophically under the pressure of being Chicago's 'next great slugger.' The LOW encodes a depleting professional environment: .301 and .293 in the first two seasons after the trade, never recovering his Philadelphia form. Prior ballpark mappings have been HIGH (home stages) or HIGH via Media/Spotlight (identity monuments). Practice Field/LOW is a new combination: the performance workspace as harm domain."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Ran a bar after retirement. The alcoholism accelerated here.",
+      "note_extra": "Source labeled 'Bar / Kensington, Philadelphia' / affinity 'LOW' — mapped to Hotel/Rest/LOW as a social-leisure space at low affinity due to alcoholism. Distinct from Keeler's bar/saloon → Hotel/Rest/LOW (a non-drinker's reluctant presence): Klein's bar is a harm domain he owned and was consumed by. The LOW is correct in both cases — the bar is a negative-register social-leisure space — but the mechanism differs: avoidance (Keeler) vs. destruction (Klein). First Hotel/Rest/LOW motivated by alcohol harm rather than personal abstention."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "CNS disease. Semi-invalid. Died at 53. The tragic ending.",
+      "note_extra": "Source labeled 'Hospital / Indianapolis' / affinity 'LOW' — mapped to Hotel/Rest/LOW as a medical recovery/decline space. Consistent with prior hospital → Hotel/Rest/LOW mappings (Joss, Huggins manager, Jennings manager, Kiner training room). Two Hotel/Rest/LOW entries on this card (Bar/Kensington + Hospital/Indianapolis) — first card in the set with two entries at the same node and same affinity level. Both are harm domains in Klein's late-life narrative: the bar as the site of alcoholism's acceleration, the hospital as the site of its consequence. Distinct source labels preserved in note_extra despite shared node/affinity."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Baker Bowl — the short porch, the tin wall, the caroms. His kingdom.",
+      "Low expectations — last-place Phillies, no pressure, just hit. Klein thrived in obscurity.",
+      "Hitting streaks — two 26-game streaks in 1930. Hit safely in 71 of 75 games at one point (.425).",
+      "Doubles barrage — 59 in 1930. When the HR aren't falling, the doubles never stop."
+    ],
+    "cold_triggers": [
+      "High-pressure environments — Cubs trade, pennant races, expectations. Klein withered.",
+      "Large ballparks — Wrigley, Shibe Park, Forbes Field. Without the short porch, the HR totals dropped.",
+      "Injuries — recurring hamstring pulls (charley horses) plagued him from 1934 onward.",
+      "Drinking — progressive alcoholism eroded his skills, health, and eventually his life."
+    ],
+    "pressure_response": "UNTESTED AT THE HIGHEST LEVEL. Klein never played a meaningful pennant race with the Phillies. His one World Series appearance (1935 Cubs) was as a diminished player — he hit .333 with 1 HR, decent numbers, but the Cubs lost in 6 games to Detroit. Klein's tragedy is that he was the best player on the worst team for five straight years. When he finally reached a good team (Cubs), he was no longer the best player. The Klein who hit .386 with 40 HR never saw October. The Klein who saw October hit .293 with 21 HR."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Year of the Hitter — 1930",
+      "type": "Game Action",
+      "text": "The entire National League bats .303. Six of eight teams hit over .300. Your right fielder hits .386 with 250 hits, 40 HR, 170 RBI, 158 runs, 59 doubles, 445 total bases, and 107 extra-base hits. His team goes 52-102 and finishes last. The greatest individual season on the worst team in the league.",
+      "origin": "1930: Klein's season is one of the 20 best offensive seasons since 1900. The Phillies' team BA was .315. Their pitching staff gave up a .346 opposing BA. They lost 102 games."
+    },
+    {
+      "title": "Forty-Four Assists",
+      "type": "Game Action",
+      "text": "Your right fielder sets the all-time record for outfield assists in a season. He throws out 44 runners — a record that still stands nearly a century later. He plays so shallow in right field that he routinely retires batters at first base on singles. The wall is 60 feet high behind him. He has memorized every carom.",
+      "origin": "1930: Klein's 44 outfield assists remain the all-time single-season record. Baker Bowl's RF was 280 feet. Klein played shallow and turned singles into outs at 1B."
+    },
+    {
+      "title": "Four Home Runs at Forbes Field",
+      "type": "Game Action",
+      "text": "Your slugger hits four home runs in a single game — not at his cozy home park, but at spacious Forbes Field in Pittsburgh. The fourth is a leadoff shot in the 10th inning that wins the game. He becomes the first NL player to do this in the modern era. Take THAT, Baker Bowl critics.",
+      "origin": "July 10, 1936: Klein hit 4 HR at Forbes Field vs. the Pirates, winning 9-6 in 10 innings. First NL player to do this in the modern era. Only the 4th player in MLB history."
+    },
+    {
+      "title": "The Steel Mill Body",
+      "type": "Action",
+      "text": "Before baseball, your player worked construction and then a steel mill, tossing 200-pound ingots. The manual labor built a compact, powerful frame that would produce 300 career home runs. +1 POW permanently. The foundation was forged in fire.",
+      "origin": "Klein worked on a construction gang and then at a steel mill after high school. He built his 185-lb frame through industrial labor before entering professional baseball."
+    },
+    {
+      "title": "Sold to Save the Franchise",
+      "type": "Drama",
+      "text": "Your team is bankrupt. The Great Depression has destroyed attendance. Your best player — your MVP, your Triple Crown winner — must be sold. The Cubs offer $65,000 and three players. You accept because the alternative is folding the franchise. Your star leaves. He is never the same.",
+      "origin": "November 1933: The Phillies traded Klein to the Cubs for $65,000 and 3 players. Attendance had dropped from 299,000 to 156,000. Owner Gerald Nugent was on the verge of bankruptcy."
+    },
+    {
+      "title": "The Baker Bowl Asterisk",
+      "type": "Drama",
+      "text": "Your player's numbers are extraordinary — but everyone whispers about the park. RF is 280 feet. The wall is tin. The pitching staff is terrible. How much of the greatness is real? He hit 164 of 300 career HR at home. But his OPS+ is still 137 after park adjustment. The debate never ends.",
+      "origin": "Klein's entire career is shadowed by Baker Bowl. Park-adjusted estimates reduce his HR total by ~38. But his road stats were still very good (.310+ BA, solid power). The debate delayed his HOF election by decades."
+    },
+    {
+      "title": "The Schoolteacher's Campaign",
+      "type": "Drama",
+      "text": "Twenty-two years after your player's death, a schoolteacher in Philadelphia begins writing letters. Over 1,000 of them. His students help. Your player's sister-in-law joins the fight. They write to the Veterans Committee. They write to sportswriters. Year after year. Finally, in 1980, the call comes. Your player is in the Hall of Fame. He never lived to see it.",
+      "origin": "Edward 'Dutch' Doyle, a Philadelphia schoolteacher, began a letter-writing campaign in 1969. With Klein's sister-in-law Virginia Torpey, they wrote 1,000+ letters. Klein was elected in 1980."
+    },
+    {
+      "title": "The Bar in Kensington",
+      "type": "Drama",
+      "text": "After retirement, your former star runs a bar in a middle-class neighborhood. The drinking that began during the pressure years accelerates. His health deteriorates. A central nervous system disease leaves him semi-invalid. He moves home to Indianapolis to live with relatives. He dies at 53. The Hall of Fame honors him 22 years too late.",
+      "origin": "Klein ran a bar in Kensington, Philadelphia after retirement. Alcoholism led to CNS disease. He died in Indianapolis on March 28, 1958, at age 53."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Compact, powerful, blue-collar. 6'0\" 185 lbs — not huge, but dense with steel mill muscle. German-American features. Honest, open face. Not intimidating — approachable. He looks like a guy who'd buy you a beer after the game. Which was, eventually, the problem.",
+    "attire": "Philadelphia Phillies 1930 home whites with the old 'P' on the chest. Baker Bowl's short RF wall and high tin fence should be visible behind him. The uniform should look crisp — Klein was a professional, not a slob. Number 1 on the jersey (he wore #1 during his peak years 1929-31).",
+    "mood": "Explosive contact. The swing — left-handed, compact, driving the ball into the tin wall or over it. Or: the throw from shallow right field, firing to first base on a single, the runner out by a step. This card should feel OFFENSIVE in both senses — an assault on the record book and a defensive weapon in RF. Baker Bowl should feel like Klein's personal cathedral.",
+    "style": "Depression-era Philadelphia. Faded brick, tin walls, empty stands. The Phillies drew 299,000 in 1930 and 156,000 by 1933. Klein was a god playing in a ghost town. The card should feel simultaneously triumphant (the numbers) and melancholy (the context). Gold and maroon Phillies palette.",
+    "reference": "The card of the man who had one of the 20 best offensive seasons in history — on the worst team in the league. The Hoosier Hammer who was forged in a steel mill and destroyed by a bottle. The HOF induction that required 1,000 letters and 22 years of waiting."
+  }
+}
