@@ -1,0 +1,224 @@
+{
+  "card_type": "player",
+  "name": "Carl Hubbell",
+  "nickname": "King Carl / The Meal Ticket",
+  "year": 1933,
+  "team": "New York Giants",
+  "league": "National League",
+  "era": "1930s",
+  "ilb_team": "Crashers AL1930",
+  "position": "SP",
+  "bats": "R",
+  "throws": "L",
+  "height": "6'0\"",
+  "weight": "170 lbs",
+  "born": "June 22, 1903 — Carthage, Missouri (grew up on farms near Meeker, Oklahoma; one of seven children, five baseball-playing brothers)",
+  "died": "November 21, 1988 — Scottsdale, Arizona (age 85, after car accident; buried in Meeker, OK)",
+  "hof": "Inducted 1947 (BBWAA, 87.0%). 2× NL MVP (1933, 1936). 9× All-Star. 253-154 career (.622). 2.98 career ERA. 1933 WS champion. #11 retired by Giants. 5× consecutive 20-win seasons (1933-37). 24 consecutive wins (MLB record). AP Athlete of the Year 1936.",
+
+  "real_stats": {
+    "season": 1933,
+    "games": 45,
+    "wins": 23,
+    "losses": 12,
+    "earned_run_avg": "1.66",
+    "innings": "308.2",
+    "complete_games": 22,
+    "shutouts": 10,
+    "strikeouts": 156,
+    "walks": 47,
+    "hits_allowed": 256,
+    "whip": "0.982",
+    "era_plus": 193,
+    "war": 9.0,
+    "saves": 5,
+    "career_wins": 253,
+    "career_losses": 154,
+    "career_era": "2.98",
+    "career_k": 1677,
+    "career_war": 65.2,
+    "scoreless_innings_streak": "45.1 (NL record until 1968)"
+  },
+
+  "ilb_stats": {
+    "ovr": 12,
+    "stf": 4,
+    "ctl": 3,
+    "sta": 4,
+    "def": 0,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "stf": "1.66 ERA, 193 ERA+, 0.982 WHIP in 1933. The screwball — a reverse curve that broke toward lefties and away from righties — was the most devastating pitch in the NL. In the 1934 ASG, he struck out 5 consecutive HOF hitters (Ruth, Gehrig, Foxx, Simmons, Cronin) on screwballs alone. 156 K in 308.2 IP isn't a huge K rate, but the screwball induced weak contact and groundballs. Bob Broeg: 'Awkwardly angular, gaunt, Lincolnesque.' The pitch, not the velocity. Rating of 4.",
+    "ctl": "47 BB in 308.2 IP = 1.4 BB/9 in 1933. Career 1.82 BB/9. 0.982 WHIP in 1933 (microscopic). Waite Hoyt: 'The source of his skill is his matchless control in using his curveball to set up his screwball. Emotions, if he has any, never affect him.' As a boy, he practiced throwing stones at barn door knotholes until he could hit ones 'no bigger than a dime.' Rating of 3.",
+    "sta": "308.2 IP in 1933. 22 CG. 10 SHO. Pitched an 18-inning CG shutout vs. the Cardinals (July 2, 1933 — he later called it the greatest game he ever pitched). 45.1 consecutive scoreless innings (NL record until Drysdale 1968). Led NL in IP and CG multiple times. 5 consecutive 20-win seasons. 'The Meal Ticket' — he was called this because the Giants counted on him for every big game. In 1934, he led NL in CG (25) and saves (8) the same year. Rating of 4.",
+    "def": "No particular fielding reputation. Standard pitcher defense. Rating of 0.",
+    "clu": "1933 WS: 2 CG wins — Game 1 (4-2) and Game 4 (11 innings, 2-1, the only Giants run came in the 11th). 4-2 with a 1.79 ERA in 6 career WS starts. 1934 ASG: 5 consecutive HOF K's — the most iconic single pitching performance in ASG history. 24 consecutive wins (1936-37, MLB record). He was at his absolute best when the stakes were highest. Rating of 3 — the maximum."
+  },
+
+  "personality": {
+    "leadership_style": "The Silent Ace. Hubbell led by example — by pitching 18 innings of shutout ball, by winning 24 straight, by striking out five Hall of Famers on screwballs they'd never seen. He didn't give speeches. He didn't demand attention. Waite Hoyt: 'Emotions, if he has any, never affect him.' He was the most un-emotional great pitcher in baseball history — a farm boy from Oklahoma who threw a pitch that bent the wrong way and bent his arm permanently.",
+    "temperament": "Stoic, calm, almost eerily composed. Hubbell showed no emotion on the mound — ever. He was described as 'Lincolnesque' in appearance and demeanor. Tall, gaunt, angular, with 'no hips, less derriere, and the longest shinbones in captivity.' He practiced throwing stones at barn door knotholes as a child until he could hit dime-sized targets. The precision became his personality. Nothing rattled him.",
+    "work_ethic": "Farm boy discipline. Grew up on Oklahoma farms. Five baseball-playing brothers. Father was a catcher for a local team. Carl learned the screwball from his brothers and refined it through years of practice. When the Tigers forbade him from throwing it, he went to the minors and nearly quit baseball. When McGraw freed him to throw it, he became the best pitcher in the NL. The lesson: trust the work.",
+    "lifestyle": "Simple, quiet, lifelong Giant. Married Lucille 'Sue' Harrington in 1930 — she died in 1967. Two children. After retiring in 1943, Giants owner Horace Stoneham immediately made him director of player development — he held the post for 35 years. He moved to New Jersey but stayed with the Giants through their move to San Francisco. He was on the Giants' payroll for the rest of his life. He died in 1988 in Scottsdale, Arizona, after a car accident — the same manner as his former teammates Mel Ott (1958) and Frankie Frisch (1973).",
+    "era_adaptability": "HIGH. The screwball (modern equivalent: the circle changeup) would devastate modern hitters just as it did in the 1930s. His elite control (1.4 BB/9) would play in any era. His ability to pitch 300+ innings would be limited by modern usage patterns, but his stuff and command would make him a Cy Young contender. Think a left-handed version of Greg Maddux — movement, control, and deception over velocity.",
+    "clubhouse_impact": "MASSIVE QUIET CONFIDENCE. The Meal Ticket. The team knew: when Hubbell pitched, they could win. He was the stopper, the ace, the security blanket. His calmness was contagious. He never panicked, so the team never panicked. He pitched 18 innings of shutout ball against the Cardinals and the team followed his lead. His very presence on the mound changed the psychology of the game.",
+    "dark_side": "The deformed arm. Years of throwing the screwball — which requires the wrist to snap inward unnaturally — permanently twisted Hubbell's left arm. His palm faced outward instead of inward when his arm hung at his side. The arm that made him King Carl also marked him for life. A SABR researcher (Warren Corbett) argued the deformity may have been pre-existing or caused by bone structure rather than the screwball itself, but the image persists: the man who bent his arm to bend the ball. Also: his post-1937 decline was steep — from 22-8 to 11-9 to 11-12. The arm gave everything and then had nothing left."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Screwball",
+      "desc": "Hubbell's signature pitch — a reverse curve that breaks toward lefties and away from righties. +2 STF vs. RHH (the pitch breaks away from them). Unfamiliar batters have 30% chance of automatic K on first encounter. The pitch nobody could prepare for."
+    },
+    {
+      "tag": "Five Consecutive Hall of Famers",
+      "desc": "Once per career in All-Star/exhibition play: Hubbell can strike out 5 consecutive HOF-caliber hitters. Ruth, Gehrig, Foxx, Simmons, Cronin — in order. The most iconic single pitching performance in ASG history."
+    },
+    {
+      "tag": "The Meal Ticket",
+      "desc": "+1 team morale when Hubbell starts. The team knows they can win. He pitched whenever the Giants needed a win — the stopper, the ace, the security blanket. In must-win games: +1 STF and +1 CTL."
+    },
+    {
+      "tag": "The Deformed Arm",
+      "desc": "Starting year 10, the screwball begins to take its toll. 15% chance per season of permanent -1 STF. His palm turns outward permanently. The price of the pitch that made him king."
+    },
+    {
+      "tag": "24 Consecutive Wins",
+      "desc": "If Hubbell wins 15+ in a row, he enters 'Streak Mode': +1 STF/CTL until the streak ends. MLB record 24 consecutive wins (1936-37). When he's rolling, he's untouchable."
+    },
+    {
+      "tag": "18-Inning Shutout",
+      "desc": "Once per season, in a critical game: 5% chance Hubbell pitches a CG shutout of 15+ innings. Based on July 2, 1933 — 18 IP, 0 ER vs. the Cardinals. 'The greatest game I ever pitched.'"
+    },
+    {
+      "tag": "The Knothole Thrower",
+      "desc": "As a boy, practiced throwing stones at barn door knotholes 'no bigger than a dime.' +1 CTL permanently. The control was built before baseball — it was built on an Oklahoma farm."
+    },
+    {
+      "tag": "McGraw's Faith",
+      "desc": "Ty Cobb forbade the screwball. McGraw freed it. When paired with a manager who trusts unconventional methods: +1 to all stats. When paired with a conservative manager: -1 STF (forbidden from throwing best pitch)."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "16 seasons. 253 wins. Home field for the 1934 ASG. #11 retired. On Giants payroll for life.",
+      "note_extra": "Source labeled 'Polo Grounds / New York' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH as the public performance arena and franchise identity stage. The Polo Grounds is Hubbell's primary public domain: the venue where the 1934 ASG five-K performance happened, where 253 wins accumulated, where #11 was retired. Distinct from Library/Quiet Spot because the Polo Grounds is the public-facing performance space, not a private workspace."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "253-154. 2.98 ERA. 1.82 BB/9. The screwball. The control. The composure.",
+      "note_extra": "Source labeled 'Pitcher's Mound' / affinity 'HIGH' — mapped to Practice Field/HIGH as on-field performance identity domain. Consistent with Hoyt's pitcher's mound mapping."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "9× All-Star. 5 consecutive HOF K's in 1934. Threw out first pitch at 1984 ASG (screwball, naturally).",
+      "note_extra": "Source labeled 'All-Star Game' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH as the midsummer public showcase event. Second Media/Spotlight HIGH. The 1934 ASG is Hubbell's most famous single performance — the five consecutive HOF strikeouts. The All-Star Game is the pinnacle of midseason public spotlight, distinct from the regular-season home ballpark."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "4-2, 1.79 ERA in 6 WS starts. 2 CG wins in 1933 WS. 11-inning CG win in Game 4.",
+      "note_extra": "Source labeled 'World Series' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH as the October championship stage. Third Media/Spotlight HIGH. Three Media/Spotlight HIGHs on this card: home ballpark, All-Star Game, World Series — the full ladder of public performance for a pitcher, all at maximum. Hubbell dominated each tier."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "HIGH",
+      "note": "Grew up here. Five baseball-playing brothers. Practiced on barn doors. Town sign: 'Home of Carl Hubbell.'",
+      "note_extra": "Source labeled 'Oklahoma Farm / Meeker' / affinity 'HIGH' — mapped to Library/Quiet Spot/HIGH as private origin and formative home domain. The barn door knothole practice is the defining private-space memory: the control was built in solitude on an Oklahoma farm before baseball. Consistent with Hoy's Ohio/Cincinnati and Herman's Glendale/CA origin mappings. The 'Home of Carl Hubbell' town sign marks the farm as commemorated publicly, but the affinity encodes the private-origin register."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "HIGH",
+      "note": "Director of player development for 35 years (1943-78). On payroll for rest of his life.",
+      "note_extra": "Source labeled 'Giants Front Office' / affinity 'HIGH' — mapped to Library/Quiet Spot/HIGH as post-career private organizational domain. Second Library/Quiet Spot HIGH. The farm director role for 35 years is a quiet institutional workspace: focused, non-public, organizational. Distinct from Media/Spotlight because Hubbell as farm director was not a public-facing figure. 'On Giants payroll for life' — the office as the space of lifelong belonging without performance. First front-office/organizational role encoded as Library/Quiet Spot in the set."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "LOW",
+      "note": "Cobb forbade the screwball. Tigers sold him to the minors. 'The best thing that ever happened to me.'",
+      "note_extra": "Source labeled 'Detroit Tigers Organization' / affinity 'LOW' — mapped to Community Events/LOW as an institutional domain defined by bad organizational fit and rejection. Consistent with Cooperstown/HOF LOW mappings for Herman and Hoy (institutional spaces where the player's relationship is exclusionary). Here the institution is the team that banned his defining pitch and released him. LOW not NONE because the rejection was historically generative — Hubbell described it as 'the best thing that ever happened to me,' making the Tigers' rejection a necessary precondition for his success with the Giants. First organizational-team rejection mapped to Community Events/LOW (prior LOW mappings were civic/HOF institutions)."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "The screwball — when it's working, nobody can touch it. RHH are helpless.",
+      "Win streaks — 24 consecutive wins. Once he starts rolling, the momentum compounds.",
+      "Big games — WS, ASG, pennant races. Hubbell elevated when stakes were highest.",
+      "Control days — 47 BB in 308.2 IP. When the control is sharp, he's unhittable."
+    ],
+    "cold_triggers": [
+      "Arm fatigue — after 300+ IP seasons, the arm starts to give. The screwball exacts its price.",
+      "Forbidden from throwing the screwball — without it, he's a mediocre pitcher (went 7-7 in minors without it).",
+      "Post-1937 decline — from 22-8 to 11-9 to 11-12. The arm had given everything.",
+      "Grief/distraction — wife Lucille's death in 1967 was devastating."
+    ],
+    "pressure_response": "THE ULTIMATE BIG-GAME PITCHER. 1933 WS: 2 CG wins including an 11-inning masterpiece. 4-2, 1.79 ERA in 6 career WS starts. 1934 ASG: struck out Ruth, Gehrig, Foxx, Simmons, Cronin consecutively — the single most iconic pitching performance in exhibition history. July 2, 1933: 18-inning CG shutout vs. the Cardinals in a pennant race. 45.1 consecutive scoreless innings. 24 consecutive wins. When the game was biggest, Hubbell was biggest. The Meal Ticket earned every meal."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Five Consecutive Hall of Famers",
+      "type": "Game Action",
+      "text": "The All-Star Game. Your home park. Two runners on, nobody out in the first inning. The three most feared hitters in baseball are coming up. Your pitcher throws screwball after screwball. Ruth: strikeout. Gehrig: strikeout. Foxx: strikeout. Into the second inning. Simmons: strikeout. Cronin: strikeout. Five Hall of Famers. Five screwballs. Five strikeouts. The park shakes on its foundations.",
+      "origin": "1934 ASG at the Polo Grounds: Hubbell struck out Ruth, Gehrig, Foxx, Simmons, and Cronin consecutively on screwballs. Dickey singled to break the streak."
+    },
+    {
+      "title": "The 18-Inning Shutout",
+      "type": "Game Action",
+      "text": "First game of a doubleheader. Pennant race. Your pitcher faces the hardest-hitting team in the league. He pitches 18 innings. He allows zero earned runs. He wins 1-0 on a walk-off single by the shortstop. He calls it the greatest game he ever pitched. The trainer immediately works on his arm with liniments to keep it from stiffening.",
+      "origin": "July 2, 1933: Hubbell pitched an 18-inning CG shutout vs. the Cardinals. Won 1-0. He later called it the greatest game he ever pitched."
+    },
+    {
+      "title": "Twenty-Four Consecutive Wins",
+      "type": "Game Action",
+      "text": "Your pitcher wins 16 straight to end the season. Then wins 8 straight to start the next. Twenty-four consecutive wins — a major league record. Every fifth day, the team knows they will win. He is the Meal Ticket. He is King Carl.",
+      "origin": "1936-37: Hubbell won 24 consecutive decisions (16 to close 1936, 8 to open 1937). MLB record."
+    },
+    {
+      "title": "The Screwball — and the Price",
+      "type": "Drama",
+      "text": "Your pitcher has the most devastating pitch in baseball. It breaks the wrong way — away from righties, into lefties. Nobody can hit it. But every throw twists his wrist inward, against nature. Over the years, his arm deforms. His palm turns outward when he hangs his arm at his side. The pitch that made him king also marked him for life.",
+      "origin": "Years of throwing the screwball permanently deformed Hubbell's left arm. His palm faced outward instead of inward at rest."
+    },
+    {
+      "title": "The Knothole and the Barn Door",
+      "type": "Action",
+      "text": "A farm boy in Oklahoma practices for hours, throwing stones at a barn door. His target: the knotholes. He throws until he can hit ones no bigger than a dime. Years later, he throws a baseball with the same precision — 47 walks in 308 innings, a WHIP under 1.000. The control was built before baseball.",
+      "origin": "Time magazine: Hubbell 'practiced for hours throwing stones at a barn door until he could unfailingly hit knotholes no bigger than a dime.'"
+    },
+    {
+      "title": "Cobb Said No — McGraw Said Yes",
+      "type": "Drama",
+      "text": "Your pitcher has a devastating pitch. The team's star player bans it — 'It'll ruin your arm.' The team releases him. He goes to the minors, mediocre without his pitch. He's about to quit baseball. Then a scout sees him. A different manager says yes. Christy Mathewson threw the same pitch. Come throw it for us. He wins 253 games.",
+      "origin": "Ty Cobb (as Tigers manager) forbade Hubbell from throwing the screwball. Detroit released him. McGraw, noting Mathewson threw a similar pitch, signed him. Hubbell: 'Being unloaded by the Tigers was the best thing that ever happened to me.'"
+    },
+    {
+      "title": "The 1933 World Series — Game 4",
+      "type": "Game Action",
+      "text": "Game 4 of the World Series. Your pitcher goes 11 innings. He allows 1 run — and it's unearned. He wins 2-1. The Giants take a 3-1 series lead and win the championship the next day. This is the game that makes the Meal Ticket.",
+      "origin": "1933 WS Game 4: Hubbell pitched 11 innings, allowing 1 unearned run. Giants won 2-1. They won the series in 5 games."
+    },
+    {
+      "title": "On the Payroll for Life",
+      "type": "Action",
+      "text": "Your pitcher retires. The owner doesn't let him leave. He becomes director of player development — for 35 years. He moves with the franchise across the country. He's still on the payroll when he dies. One team. One lifetime. One screwball.",
+      "origin": "Hubbell retired 1943. Stoneham immediately made him farm director — he held the post 35 years. On Giants payroll for life until death in 1988."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Tall, gaunt, angular, Lincolnesque. 6'0\" 170 lbs — all sinew and bone. Bob Broeg: 'Awkwardly angular, lean-visaged, almost Lincolnesque, with no hips, less derriere, and the longest shinbones in captivity.' The face should show utter calm — the face of a man who just struck out Babe Ruth and felt nothing.",
+    "attire": "New York Giants 1933 home whites. #11. The Polo Grounds' distinctive horseshoe behind him. The left arm should be subtly different — the palm turned slightly outward, the permanent mark of the screwball. The windup should be mid-delivery: the long body uncoiling, the left arm about to snap inward.",
+    "mood": "The Screwball. Frozen at the release point — the wrist snapping inward, the ball about to break the wrong way. Or: the calm after striking out Ruth, Gehrig, and Foxx — no celebration, no emotion, just the walk back to the rubber for Simmons. The card should feel impossibly calm for something so devastating.",
+    "style": "Polo Grounds grandeur meets Oklahoma farmland simplicity. The card should feel split: the New York sophistication of the Giants franchise on one side, the Oklahoma barn-door precision on the other. Warm golds and deep blues. The screwball's arc traced across the card like a signature.",
+    "reference": "The card of the man who bent his arm to bend the ball. King Carl. The Meal Ticket. 253 wins, a deformed arm, and the five most famous strikeouts in baseball history. The silent ace of the New York Giants — on the payroll from 1928 until he died in 1988. Sixty years. One pitch."
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "card_type": "player",
+  "name": "Johnny Sain",
+  "nickname": "Man of a Thousand Curves",
+  "year": 1948,
+  "team": "Boston Braves",
+  "era": "1940s",
+  "ilb_team": "Allies NL1940",
+  "position": "SP",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'2\"",
+  "weight": "185 lbs",
+  "born": "September 25, 1917 — Havana, AR",
+  "died": "November 7, 2006 — Downers Grove, IL",
+  "hof": "Not inducted (34% peak vote). 139-116, 3.49 ERA, 4× 20-win seasons, greatest pitching coach ever.",
+
+  "real_stats": {
+    "season": 1948,
+    "games": 43,
+    "wins": 24,
+    "losses": 15,
+    "earned_run_avg": "2.60",
+    "strikeouts": 137,
+    "walks": 83,
+    "innings_pitched": "314.2",
+    "complete_games": 28,
+    "whip": "1.11",
+    "war": 7.0,
+    "career_seasons": 11,
+    "career_wins": 139,
+    "career_losses": 116,
+    "career_earned_run_avg": "3.49",
+    "career_strikeouts": 910,
+    "career_cg": 140,
+    "career_shutouts": 16,
+    "no_hitters": 0,
+    "career_war": 28.5,
+    "ws_1948_era": "1.06",
+    "ws_1948_cg": 2,
+    "ws_1948_k": 9,
+    "ws_1948_bb": 0,
+    "notable": "4× 20-win seasons. 3× All-Star. Led NL in CG (28) and Sac Hits (1948). Career .245 BA with only 20 K in 774 AB — fewest K for any hitter with 500+ AB since 1910. Led NL pitchers in RBI 5×. First pitcher to face Jackie Robinson (April 15, 1947). Last to face Babe Ruth (1943 exhibition). 57.1% career CG rate."
+  },
+
+  "ilb_stats": {
+    "ovr": 7,
+    "stf": 3,
+    "ctl": 3,
+    "sta": 4,
+    "def": 1,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "stf": "2.60 ERA in 1948 — among the NL's best. From 1946-1948, Sain was arguably the top pitcher in the NL (65-41, 2.77 ERA). His weapon was the curveball — taught by his father, then refined through Navy flight training. His understanding of aerodynamics from piloting fighter planes gave him the nickname 'Man of a Thousand Curves.' He could throw the curve at multiple speeds, angles, and breaks. But K/9 of ~3.9 means no strikeout bonus — he was a contact-management pitcher. Rating of 3.",
+    "ctl": "BB/9 approximately 2.37 in 1948 (83 BB in 314.2 IP). Led NL with 24 CG, which requires consistent strike-throwing. WHIP of ~1.11 — very good but doesn't reach the 1.00 elite threshold. Sain's control was methodical: he worked the corners with curveball variations, changing speeds and angles to keep hitters off balance without walking them. Rating of 3.",
+    "sta": "314.2 IP in 1948 — over 300 innings. 28 complete games, leading the NL. In the final stretch of the 1948 pennant race, Sain pitched on two days' rest repeatedly, inspiring the famous poem 'Spahn and Sain and Pray for Rain.' Career 140 CG in 245 starts — a staggering 57.1% completion rate. He was an iron man. Rating of 4.",
+    "def": "Good fielding pitcher, nothing exceptional. But his bat was remarkable: .245 career average with only 20 strikeouts in 774 at-bats — the fewest K's for any hitter with 500+ AB since 1910. Led NL pitchers in RBI five times. Led the entire NL in sacrifice hits in 1948. The DEF rating for pitchers encompasses both fielding ability and bat contribution; Sain's extraordinary hitting for a pitcher earns the 1 above the 0 baseline. Rating of 1.",
+    "clu": "1948 World Series vs. Cleveland Indians: Game 1 — Sain threw a 4-hit shutout to beat Bob Feller 1-0. Game 4 — Sain threw a complete game 5-hitter but lost 2-1 in a heartbreaker. Series ERA: 1.06. Nine strikeouts, zero walks in two complete games. 'Magnificent in defeat,' wrote every sportswriter who saw it. He was also the first pitcher to face Jackie Robinson (April 15, 1947) and the last to face Babe Ruth (1943 exhibition). PS ERA < 2.00 → tier 2, +1 for WS hero performance = 3 (maximum)."
+  },
+
+  "personality": {
+    "leadership_style": "Quiet revolutionary. Sain didn't lead through charisma or intimidation — he led through knowledge. He understood pitching mechanics better than anyone in his era, partly from studying aerodynamics as a Navy pilot. His leadership was intellectual: he made pitchers smarter, more confident, and more independent. As a coach, this philosophy — 'mentor, don't dictate' — produced 16 twenty-game winners.",
+    "temperament": "Independent, stubborn, principled. Sain clashed with every manager he worked under as a coach because he put his pitchers' interests first. He told pitchers to 'climb those golden stairs' to demand higher salaries. He refused to make pitchers run sprints ('You don't run the damn ball across the plate'). He was fired repeatedly — and rehired repeatedly, because every pitching staff he touched improved immediately.",
+    "work_ethic": "Innovative and obsessive. Sain patented a pitching training device — a baseball on a wooden rod that could be spun to demonstrate pitch rotation. He studied physics, aerodynamics, and psychology to understand pitching. His work ethic was mental: he spent hours thinking about how to make a curveball break differently, how to communicate with pitchers, how to build confidence. He was a scientist of the mound.",
+    "lifestyle": "Born in Havana, Arkansas — rural, humble origins. Navy pilot during WWII, stationed at Chapel Hill with Ted Williams and Johnny Pesky. Married twice. After coaching, he retired to suburban Illinois. Quiet, bookish, more comfortable explaining spin rate than making small talk. A man ahead of his time.",
+    "era_adaptability": "VISIONARY. Sain's pitching philosophy — emphasize mechanics over conditioning, teach spin and movement over velocity, protect arms from overuse — anticipated modern pitching development by 50 years. His refusal to make pitchers run and his focus on spin mechanics would make him the most sought-after pitching coach in modern baseball. In ILB: Sain's coaching tree is his greatest legacy.",
+    "clubhouse_impact": "MENTOR. Jim Bouton called him 'the greatest pitching coach — ever. I admire him more than any man I've ever met. All players like him: white, black, conservative, liberal, loud, quiet, they all do.' His pitchers were fiercely loyal. Every staff he coached improved. But his independence created friction with managers and front offices — his pattern was: arrive, transform the staff, clash with management, get fired, repeat.",
+    "dark_side": "The swift decline. After his magnificent 1946-1948 run (65-41, 2.77 ERA), Sain collapsed: 37-44, 4.31 ERA from 1949-1951. A sore shoulder from experimenting with a screwball, combined with the brutal workload of 1948 (314+ IP, constant short-rest starts), broke his arm. He reinvented himself as a reliever with the Yankees, but his days as an ace were over by age 31. In ILB terms: Sain has a 'Burnout' trait — if he pitches 300+ IP in a season, there's a 40% chance of -2 STF the following year."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Spahn and Sain",
+      "desc": "+3 chemistry with Warren Spahn. Together they form baseball's most famous 1-2 rotation. When both start in the same series, team gains +2 momentum."
+    },
+    {
+      "tag": "Man of a Thousand Curves",
+      "desc": "Sain can throw 4 different curveball variations. Batters who have faced him before get NO familiarity bonus — each AB feels like facing a new pitcher."
+    },
+    {
+      "tag": "Navy Pilot",
+      "desc": "Aerodynamics knowledge from flight training. +1 STF bonus when developing new pitches. WWII veteran status grants immunity to pressure collapse."
+    },
+    {
+      "tag": "Pray for Rain",
+      "desc": "On short rest (2 days), Sain pitches at -1 STF but gains +1 CLU. He's built for desperation starts in pennant races."
+    },
+    {
+      "tag": "First to Face Jackie",
+      "desc": "Sain was the first MLB pitcher to face Jackie Robinson. No chemistry penalty with Black players. Historical significance: +1 legacy value."
+    },
+    {
+      "tag": "Last to Face the Babe",
+      "desc": "Sain pitched to Babe Ruth in a 1943 exhibition — the last organized baseball at-bat of Ruth's life. +1 historical legacy."
+    },
+    {
+      "tag": "Greatest Coach Ever",
+      "desc": "After retirement, Sain can serve as pitching coach. ALL pitchers on his staff gain +1 CTL development per season. He produces 20-game winners like clockwork."
+    },
+    {
+      "tag": "Climb Those Golden Stairs",
+      "desc": "Sain advises pitchers to demand higher salaries. +1 player morale but -1 relationship with front office. Creates tension with management."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "His laboratory. Every pitch is an experiment in aerodynamics.",
+      "note_extra": "Source labeled 'Pitcher's Mound' / affinity 'HIGH' — mapped to Practice Field/HIGH. Consistent with all prior pitcher mappings to Practice Field/HIGH."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Mentoring young pitchers, spinning baseballs on sticks, explaining physics.",
+      "note_extra": "Source labeled 'Clubhouse / Bullpen' / affinity 'HIGH' — mapped to Practice Field/HIGH as on-field/adjacent professional workspace with teaching function. Second Practice Field HIGH. The bullpen is the professional practice domain where Sain's mentoring identity was most fully expressed as both player and coach."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Havana, Arkansas boy. Quiet countryside. His retreat between seasons.",
+      "note_extra": "Source labeled 'Rural / Farm / Country' / affinity 'HIGH' — mapped to Community Events/HIGH as foundational community-identity domain. Consistent with Hughson's Ranch/Farm → Community Events/HIGH. Second rural/country → Community Events/HIGH mapping. Arkansas origins as the social-geographic embedded identity."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "MEDIUM",
+      "note": "Where he transformed pitching staffs and clashed with managers.",
+      "note_extra": "Source labeled 'Coaching Box / Dugout' / affinity 'MEDIUM' — mapped to Practice Field/MEDIUM as secondary professional on-field domain. First Practice Field/MEDIUM in the set. The coaching box is Sain's domain as a coach but carries ambivalence: it was the site of repeated institutional conflict with managers. The MEDIUM affinity encodes both genuine ownership of the space and its fraught relational history."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Navy pilot. Stationed with Ted Williams and Johnny Pesky.",
+      "note_extra": "Source labeled 'Military / Veterans Events' / affinity 'MEDIUM' — mapped to Community Events/MEDIUM as WWII service and veteran community-participation domain. First military/veterans events mapping in the set. Community Events is the correct node: veteran events are public collective gatherings (not private spaces), embedding Sain's service identity in a community context. Cross-card: Ted Williams (future) and Johnny Pesky (referenced in Hughson's 'Doerr & Pesky's Pick' trait) are both named in the lifestyle note."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "LOW",
+      "note": "'Climb those golden stairs' — but management didn't appreciate his advice.",
+      "note_extra": "Source labeled 'Front Office' / affinity 'LOW' — mapped to Library/Quiet Spot/LOW as private institutional power workspace with adversarial relationship. First Library/Quiet Spot/LOW in the set. The front office is analytically a private institutional space (Library/Quiet Spot node) but Sain's advocacy for player salaries made him persona non grata with ownership. LOW encodes a space he engaged with but had fundamentally hostile relationship with — not avoided (NONE), not indifferent, but genuinely contentious."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "LOW",
+      "note": "Private, cerebral. Preferred to let results speak.",
+      "note_extra": "Source labeled 'Media / Spotlight' / affinity 'LOW' — mapped to Media/Spotlight/LOW as public recognition domain with low personal affinity. First Media/Spotlight/LOW in the set. Sain was private and bookish; the public spotlight was not his natural domain. LOW encodes genuine aversion to self-promotion, consistent with 'Quiet, bookish, more comfortable explaining spin rate than making small talk.' Distinct from NONE (which would encode zero relationship): Sain had public presence through his record and coaching reputation, but LOW reflects his personal discomfort with the spotlight rather than its total absence."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Pennant race September starts — Sain pitched on 2 days' rest repeatedly in 1948",
+      "World Series games — 1.06 ERA in the 1948 Fall Classic, 9 K and 0 BB",
+      "Pairing with Spahn — the two aces fed off each other's excellence",
+      "Developing new curveball variations — each new break pattern boosted his confidence"
+    ],
+    "cold_triggers": [
+      "Overwork — 314+ IP in 1948 directly led to his shoulder breakdown in 1949",
+      "Experimenting with new pitches (screwball) — the 1949 screwball experiment destroyed his arm",
+      "Being traded — sold to the Yankees for $50K in 1951 after his decline"
+    ],
+    "pressure_response": "SUPREME. In the 1948 World Series, Sain was transcendent: 1.06 ERA across two complete games, 9 strikeouts, zero walks. He threw a 4-hit shutout to beat Bob Feller in Game 1 — arguably the finest individual WS pitching performance of the 1940s. Even in Game 4's heartbreaking 2-1 loss, he was magnificent, throwing a complete-game 5-hitter. SABR called him 'the top pitcher in the National League from 1946 to 1948.' When the Braves needed him most, he delivered. His only failure was his body giving out from the effort."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Spahn and Sain and Pray for Rain",
+      "type": "Game Action",
+      "text": "Your top two starters are so dominant that the rest of the rotation becomes irrelevant. For 12 games, only your #1 and #2 starters pitch, alternating on short rest. Each start is at -1 STF but +1 CLU. If both go 4-0 in this stretch, your team gains +5 momentum and the phrase enters baseball immortality.",
+      "origin": "September 1948: Spahn and Sain carried the Braves through the pennant stretch, pitching on short rest while Boston 'prayed for rain' to skip the other starters. The poem by Gerald V. Hern became one of baseball's most famous phrases."
+    },
+    {
+      "title": "The Shutout vs. Feller",
+      "type": "Game Action",
+      "text": "World Series Game 1: Your ace faces the opposing team's legendary ace. Your pitcher throws a 4-hit shutout in a 1-0 victory. The opposing ace (who may be considered the better pitcher) takes the loss. +3 team momentum and your pitcher's legacy permanently overtakes the rival's in WS lore.",
+      "origin": "1948 WS Game 1: Sain threw a 4-hit shutout to beat Bob Feller 1-0. Feller, considered the superior pitcher, allowed just 2 hits but lost on a controversial pickoff play. Sain outdueled a legend."
+    },
+    {
+      "title": "The Thousand Curves",
+      "type": "Action",
+      "text": "Your pitcher has mastered 4 variations of his primary breaking ball. Each at-bat, he can choose a different variation. Batters cannot build familiarity across the game. Effectively, your pitcher faces each hitter as if it's their first at-bat every time.",
+      "origin": "Sain's father taught him the curveball. Navy flight training taught him aerodynamics. He combined both to create an arsenal of curves that broke differently every time. The 'Man of a Thousand Curves' made each curveball unpredictable."
+    },
+    {
+      "title": "The Spinning Apple",
+      "type": "Action",
+      "text": "Your pitching coach invents a training device that demonstrates pitch rotation. All pitchers on the staff gain +1 to their understanding of spin mechanics, translating to +1 CTL development over the season. The device is patented and sold nationwide.",
+      "origin": "As Yankees pitching coach, Sain poked a broken car antenna through an apple and spun it, realizing he could teach pitch rotation this way. He patented a baseball version — one of the first spin-rate teaching tools in history."
+    },
+    {
+      "title": "Climb Those Golden Stairs",
+      "type": "Drama",
+      "text": "Your pitching coach advises all his pitchers to demand raises. The front office is furious. +2 player morale across the pitching staff. -3 relationship with ownership. 30% chance the coach is fired.",
+      "origin": "Sain openly encouraged pitchers to negotiate aggressively for higher salaries. Front offices hated it. Pitchers loved it. The pattern repeated at every stop of his coaching career."
+    },
+    {
+      "title": "The Burnout",
+      "type": "Drama",
+      "text": "Your ace, who pitched 300+ innings last season, reports to camp with a sore shoulder. He experiments with a new pitch to compensate. Roll: on 4+, the new pitch works and he reinvents himself. On 1-3, the experiment fails and he drops -2 STF permanently.",
+      "origin": "After his 314-inning 1948 season, Sain arrived in 1949 with a damaged shoulder. He experimented with a screwball that spring — it failed catastrophically, and he went 10-17 with a 4.81 ERA. His days as an ace were over at 31."
+    },
+    {
+      "title": "Traded for a Future Legend",
+      "type": "Drama",
+      "text": "Your fading ace is traded for cash and a young pitcher nobody's heard of. The young pitcher becomes a World Series hero within 5 years. Your former ace reinvents himself as a reliever. Both teams benefit, but in very different ways.",
+      "origin": "In 1951, the Braves traded Sain to the Yankees for $50,000 and Lew Burdette. Burdette became the 1957 WS MVP, throwing three complete games to beat the Yankees. Sain reinvented himself as a reliever, leading the AL in saves in 1954."
+    },
+    {
+      "title": "You Don't Run the Ball Across the Plate",
+      "type": "Drama",
+      "text": "Your pitching coach refuses to make pitchers run sprints. The manager demands compliance. Choose: side with the coach (pitchers gain +1 morale, manager loses trust) or side with the manager (coach quits, pitching staff drops -1 development). Either way, someone leaves.",
+      "origin": "Sain frequently told managers: 'You don't run the damn ball across the plate. If running did it, they'd look for pitchers on track teams.' He was fired repeatedly for this philosophy — and proved right every time."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Strong, handsome features with a square jaw and intelligent eyes. 6'2\" 185 lbs — lean, athletic build of a man who was also a Navy pilot. Arkansas country boy with a scientist's brain behind his eyes. Age 30 in 1948 — the peak of his powers, the last year before the burnout.",
+    "attire": "Boston Braves home whites, 1948 flannel. The distinctive windmill windup — one of the last pitchers to use it. Overhand delivery with the curveball just leaving his fingertips. Or: the post-delivery follow-through, looking to home plate with calm confidence.",
+    "mood": "Quiet intelligence and determination. Sain's portrait should convey the cerebral nature of his pitching — this is a man who studied aerodynamics to improve his curveball. Not menacing like Maglie, not fiery like Spahn. Calm, focused, analytical. The look of a man solving a physics problem 60 feet away.",
+    "style": "Warm sepia with Boston cream tones. Braves Field in the background, the expansive outfield. The card should feel like a late-1940s academic — clean, precise, slightly formal. 1948 Bowman card aesthetic in unified ILB portrait style.",
+    "reference": "The intellectual's pitcher card. Pair with Spahn's card for the most famous battery in baseball history. Sain's card should feel like the quieter, smarter half of the duo — the one who studied flight to understand curveballs."
+  }
+}

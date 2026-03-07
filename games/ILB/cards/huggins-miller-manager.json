@@ -1,0 +1,275 @@
+{
+  "card_type": "manager",
+  "name": "Miller Huggins",
+  "nickname": "The Mighty Mite",
+  "year": 1927,
+  "team": "New York Yankees",
+  "era": "1910s",
+  "ilb_team": "Gloves",
+  "archetype": "Tactical Purist",
+  "born": "March 27, 1878 — Cincinnati, OH",
+  "died": "September 25, 1929 — New York, NY (age 51)",
+  "hof": "Inducted 1964 (Veterans Committee). First Yankee honored with a monument at Yankee Stadium. Monument Park began with him.",
+  "height": "5'6\"",
+  "weight": "140 lbs",
+
+  "record": {
+    "career_wins": 1413,
+    "career_losses": 1134,
+    "win_pct": ".555",
+    "pennants": 6,
+    "world_series": 3,
+    "seasons_managed": 17,
+    "ejections": "Rare — schoolmaster composure, not theatrical rage",
+    "peak_team": "1927 New York Yankees ('Murderers' Row')",
+    "peak_record": "110-44 (.714), swept Pittsburgh in World Series",
+    "teams_managed": [
+      "St. Louis Cardinals (1913-17): 346-415",
+      "New York Yankees (1918-29): 1067-719"
+    ],
+    "notable": "Built the original Yankee dynasty. 6 AL pennants in 8 years (1921-23, 1926-28). Tamed Babe Ruth — fined him $5,000 (record) and won the power struggle. Adapted from deadball style to power baseball. Law degree, University of Cincinnati. 'The prototype for the modern manager.' Died at 51 from blood poisoning. First monument in Yankee Stadium.",
+    "hof_players_managed": [
+      "Babe Ruth",
+      "Lou Gehrig",
+      "Waite Hoyt",
+      "Herb Pennock",
+      "Earle Combs",
+      "Tony Lazzeri",
+      "Joe Sewell",
+      "Rogers Hornsby (Cardinals)"
+    ]
+  },
+
+  "ilb_ratings": {
+    "tac": 5,
+    "pit": 4,
+    "lin": 5,
+    "adp": 5,
+    "dis": 7,
+    "ego": 8,
+    "har": 7,
+    "int": 5,
+    "str": 8,
+    "flx": 7,
+    "ovr": 12
+  },
+
+  "rating_justification": {
+    "tac": "Maximum. 'Huggins was almost like a schoolmaster in the dugout. There was no goofing off. You watched the game, and you kept track not only of the score and the number of outs, but of the count on the batter. At any moment, Hug might ask you what the situation was.' He was decades ahead in understanding game situations. His willingness to abandon his own deadball philosophy for power baseball was intellectually courageous. Rating of 5.",
+    "pit": "Traded for Waite Hoyt and Herb Pennock from the Red Sox — both struggled in Boston, both became Hall of Famers in New York. He 'recruited consistent (as opposed to brilliant) pitchers' — understanding that with Murderers' Row, you didn't need aces. You needed reliability. That's advanced pitching management. Rating of 4.",
+    "lin": "Maximum. He built the most famous lineup in baseball history. Murderers' Row — Ruth, Gehrig, Meusel, Lazzeri, Combs — was assembled piece by piece by Huggins. He benched Wally Pipp for Lou Gehrig, beginning the greatest consecutive games streak in history. He put Ruth at cleanup and built the order around his power. The 1927 Yankees went 110-44. Rating of 5.",
+    "adp": "Maximum. This is what separates Huggins from other tacticians. His natural style was deadball — speed, bunts, hit-and-run, contact hitting. When Ruth arrived, Huggins recognized that the game had changed and he needed to change with it. He abandoned his own philosophy and built around power. That takes extraordinary intellectual honesty. Most managers would have tried to make Ruth bunt. Rating of 5.",
+    "dis": "High. The $5,000 fine on Ruth was the most any player had ever been fined. When Ruth raged, Huggins stood firm. Owner Ruppert backed him: 'The fine sticks and the suspension sticks for as long as Huggins wants.' Ruth never publicly questioned his manager again. Huggins disciplined through quiet authority: 'He may be fairly credited with saving Ruth's career when Ruth lost all self-discipline.' Rating of 7.",
+    "ego": "Elite. Managing Babe Ruth — the most famous, most talented, most undisciplined player in baseball history — is the ultimate ego management challenge. Ruth didn't respect Huggins initially: 'He did not respect Huggins due to his small stature, soft-spoken nature, and inability to fight.' Huggins won through patience, intelligence, and the $5,000 ultimatum. Rating of 8.",
+    "har": "Good. The clubhouse was fractious — Ruth and Gehrig didn't speak, players bickered, egos clashed. 'Huggins held the team together with diplomacy, a paternal caring for players with problems, and firm discipline with enough flexibility in it for his players' expansive personalities to be expressed.' Not perfect harmony, but functional. Rating of 7.",
+    "int": "Moderate. Huggins was 'introspective' — quiet, cerebral, sometimes melancholy. He suffered from neuritis and insomnia. He 'seriously debated walking away amidst increasing poor physical and mental health.' His intensity was internal — a slow burn, not an explosion. The schoolmaster's intensity: focused, precise, exhausting in a different way than Evers or Tebeau. Rating of 5.",
+    "str": "Elite. 'There never has been a better judge of raw baseball talent than Huggins.' He turned Red Sox castoffs (Hoyt, Pennock) into Hall of Famers. He nudged Ruppert to buy Ruth. He replaced Pipp with Gehrig. He developed Tony Lazzeri and Earle Combs. Opposing teams refused to trade with the Yankees because Huggins always came out ahead. Rating of 8.",
+    "flx": "High. Managed across two radically different eras (deadball → power), two cities (St. Louis → New York), and two types of teams (Cardinals rebuilders → Yankees dynasty). Adapted his style to each player — paternal with Gehrig, firm with Ruth, diplomatic with everyone else. Showed intellectual flexibility in abandoning his own philosophy. Rating of 7."
+  },
+
+  "personality": {
+    "leadership_style": "Intellectual patriarch. Huggins led through knowledge, preparation, and quiet authority. 'Almost like a schoolmaster in the dugout.' He didn't command respect through size or volume — he earned it through being smarter than everyone in the room. When that wasn't enough, he had the moral courage to back it up: the $5,000 fine on Ruth was the moment the tiny manager became the most powerful person on the team.",
+    "temperament": "Quiet, introspective, and melancholy. 'Some people think I'm a sour, morose crab,' Huggins admitted. But underneath the introversion was iron resolve. He suffered from insomnia and neuritis. He debated quitting multiple times. He nearly died of blood poisoning before finally dying of it. The exterior was calm; the interior was a war zone of pressure, doubt, and determination.",
+    "work_ethic": "Methodical and obsessive. Huggins studied law at the University of Cincinnati — the analytical mind was trained before baseball. As a player, he led the league in walks four times because he studied pitchers obsessively. As a manager, he tracked every count on every batter and quizzed his players constantly. The preparation was the product.",
+    "lifestyle": "Bachelor. Never married. Lived alone. His sister Myrtle was his closest companion and inherited his estate. He invested in real estate in St. Petersburg, Florida. He had few friends outside baseball and fewer interests. 'I could have never been happy as anything but a professional baseball player.' Baseball consumed him — and eventually, so did the stress of managing baseball's most famous team.",
+    "communication_style": "Sparse and precise. Huggins spoke when he had something to say and stayed silent otherwise. Bobby Shantz compared Mack's silence to Stengel's chatter — Huggins was closer to Mack's model. But when he spoke, it mattered. His pregame instructions were detailed and specific. His postgame assessments were cutting. The silence made the words heavier.",
+    "loyalty_expectations": "Mutual respect. Huggins didn't demand personal devotion — he demanded professional respect. When Ruth disrespected him, the fine was about respect, not discipline. When players gave effort, Huggins gave them patience and development. Gehrig: 'He was more like a father to me than anything else. The squarest shooter I ever knew in baseball.'",
+    "dark_side": "The toll of managing giants. Huggins was physically small, emotionally private, and chronically ill. Managing Babe Ruth — the most famous human being in America — while being dismissed by the press, undermined by co-owner Huston, and ignored by his own players broke him physically. He died at 51 from a skin infection that became sepsis — a body that had been running on empty for years. In ILB: Huggins carries 'Consumed by the Game' — his devotion is his genius and his destruction."
+  },
+
+  "playbook": {
+    "roster_philosophy": "Assemble the best talent possible, then build the system around what THEY do best — not what you wish they did. Huggins's greatest tactical decision was abandoning his own deadball philosophy when Ruth arrived. He didn't try to make Ruth fit his system; he remade his system to fit Ruth. That intellectual humility — building around your players' strengths rather than your own preferences — is the foundation of modern managing.",
+    "conflict_response": "RESOLVE THROUGH AUTHORITY. When Ruth challenged him, Huggins didn't back down, didn't escalate, and didn't compromise. He fined Ruth $5,000, suspended him, and waited. When Ruppert backed him, the crisis ended. Huggins resolved conflict through legitimate authority, applied precisely and without theatrics.",
+    "clique_strategy": "MANAGE AROUND THEM. Ruth and Gehrig didn't speak. Other players bickered. Huggins didn't try to force friendship — he demanded professional performance. The team functioned as a machine with interpersonal tensions walled off from on-field execution. You didn't have to like each other. You had to win.",
+    "player_types_that_thrive": [
+      "Talented players willing to submit to intellectual authority — Huggins was smarter than his players and expected them to accept it",
+      "Young, raw talent open to development — Huggins turned Gehrig from shy prospect to legend",
+      "Disciplined veterans who respect the game's fundamentals",
+      "Power hitters (post-Ruth) — Huggins adapted his entire philosophy to maximize power",
+      "Players who respond to paternal care — Gehrig called him 'more like a father'"
+    ],
+    "player_types_that_struggle": [
+      "Players who mistake quietness for weakness — Ruth initially did, and it took a $5,000 fine to correct",
+      "Undisciplined players who need constant supervision — Huggins expected professional adults",
+      "Players who need emotional fire from their manager — Huggins was cerebral, not volcanic",
+      "Those who resent intellectual authority — 'he was like a schoolmaster' isn't a compliment for everyone",
+      "Players who need to be the center of attention — there's only room for one Babe"
+    ],
+    "tolerance_thresholds": {
+      "max_ego_cluster": 3,
+      "max_volatility": "LOW — Huggins maintains a calm, studious atmosphere. High-volatility players disrupt the classroom.",
+      "discipline_floor": "HIGH — professional conduct is non-negotiable. Huggins will fine you the most money in baseball history if necessary.",
+      "star_exception": "Stars get patience and development, but they answer to the same authority. Ruth found out the hard way."
+    }
+  },
+
+  "chemistry_impact": {
+    "team_fit": {
+      "effect": "HIGH",
+      "desc": "+2 Team Fit when all starting positions are filled with players who've played 5+ games together. Huggins builds machines — the 1927 Yankees were a machine."
+    },
+    "volatility": {
+      "effect": "STRONGLY REDUCED",
+      "desc": "-2 Volatility for all players. The schoolmaster's calm radiates through the dugout. Even Ruth became more disciplined under Huggins."
+    },
+    "discipline": {
+      "effect": "STRONGLY INCREASED",
+      "desc": "+2 Discipline for all players. 'There was no goofing off. You watched the game.' The fine on Ruth established the standard for everyone."
+    },
+    "ego": {
+      "effect": "MANAGED",
+      "desc": "Ego penalties reduced by 2. Huggins handled Ruth, Gehrig, and a dugout full of Hall of Famers without ego disasters. The paternal authority works."
+    },
+    "work_habits": {
+      "effect": "STRONGLY INCREASED",
+      "desc": "+2 Work Habits. Huggins's law-school precision and constant quizzing made his teams the most prepared in baseball."
+    },
+    "adaptability": {
+      "effect": "HIGH",
+      "desc": "+2 Adaptability. Huggins proved that the greatest adaptation is abandoning your own philosophy when the evidence demands it."
+    }
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Mighty Mite",
+      "desc": "Huggins was 5'6\" 140 lbs managing 6'2\" 215 lb Ruth. Size is irrelevant when the mind is large enough. +1 Tactics regardless of opponent's physical stats."
+    },
+    {
+      "tag": "Murderers' Row",
+      "desc": "If your lineup includes 4+ players with OVR 8+, gain +2 Contact and +1 Power for the entire lineup. The most famous batting order in history."
+    },
+    {
+      "tag": "The $5,000 Fine",
+      "desc": "Once per series, Huggins can fine any player for insubordination. That player loses -1 to their highest stat for this game but gains +2 Discipline permanently. Authority has consequences."
+    },
+    {
+      "tag": "The Schoolmaster",
+      "desc": "Huggins quizzed his players on game situations. All players gain +1 Tactics. At any moment, Hug might ask you what the count is."
+    },
+    {
+      "tag": "Deadball to Power",
+      "desc": "Huggins abandoned his own philosophy to build around Ruth. If your team's strategy changes mid-season (shifting from speed to power or vice versa), all penalties are halved. Intellectual flexibility."
+    },
+    {
+      "tag": "Red Sox Pipeline",
+      "desc": "Huggins turned Red Sox castoffs into HOFers. When acquiring players from a rival team, those players gain +1 to their highest stat under Huggins. He sees what their old team couldn't."
+    },
+    {
+      "tag": "Consumed by the Game",
+      "desc": "Huggins's devotion killed him at 51. After 20 games, there's a 5% chance per game of a 'Health Crisis' event that reduces all ratings by 1 for 2 games. The body has limits the mind ignores."
+    },
+    {
+      "tag": "Monument Park",
+      "desc": "Huggins was the first monument in Yankee Stadium. If Huggins is removed from the game (health event or season end), all players gain +2 morale for 5 games. His legacy outlasts his presence."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Where Huggins sat like a schoolmaster, in suit and tie, tracking every pitch. The original Yankee Stadium was his classroom.",
+      "note_extra": "Source labeled 'Dugout / Yankee Stadium' / affinity 'HIGH' — mapped to Practice Field/HIGH as the primary on-field management workspace. Consistent with Harris and other manager dugout mappings to Practice Field/HIGH. The Yankee Stadium dugout is both the physical classroom and the public arena of managerial authority."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "HIGH",
+      "note": "Where Huggins won every deal. 'Opposing teams were hesitant to trade with the Yankees.' His talent evaluation was legendary.",
+      "note_extra": "Source labeled 'Front Office / Trade Meetings' / affinity 'HIGH' — mapped to Library/Quiet Spot/HIGH as private analytical professional domain. Consistent with Hubbell's Giants Front Office → Library/Quiet Spot/HIGH. The front office is the quiet institutional workspace where Huggins's intellectual dominance expressed itself most completely — away from the public eye."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Where Huggins invested in real estate and evaluated young players. The classroom before the season started.",
+      "note_extra": "Source labeled 'Spring Training / St. Petersburg' / affinity 'HIGH' — mapped to Practice Field/HIGH as pre-season evaluation and teaching environment. Second Practice Field HIGH. St. Petersburg functions as both a professional workspace (player evaluation) and a personal investment domain — Huggins owned real estate there."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "MEDIUM",
+      "note": "Law degree from University of Cincinnati. The analytical mind that built Murderers' Row was trained in a law school.",
+      "note_extra": "Source labeled 'University / Law Library' / affinity 'MEDIUM' — mapped to Library/Quiet Spot/MEDIUM as formative private intellectual origin domain. Consistent with player card background. The law school is the pre-baseball training ground for Huggins's analytical mind — present at medium attachment because it shaped him but is no longer his active domain."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "MEDIUM",
+      "note": "Born and buried in Cincinnati. Buried at Spring Grove Cemetery. The modest origins of the Mighty Mite.",
+      "note_extra": "Source labeled 'Cincinnati / Home' / affinity 'MEDIUM' — mapped to Library/Quiet Spot/MEDIUM as hometown origin domain. Consistent with Hoy's Ohio mapping (Library/Quiet Spot/HIGH) but rated MEDIUM here: Huggins left Cincinnati for his career and spent his professional life in St. Louis and New York. The hometown connection is biographical rather than deeply affective. Third Library/Quiet Spot MEDIUM on this card (University, Cincinnati, both Medium)."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Where Huggins died at 51 from blood poisoning. A boil on his face became sepsis. The game consumed him.",
+      "note_extra": "Source labeled 'Hospital / St. Vincent's' / affinity 'LOW' — mapped to Hotel/Rest/LOW as enclosed, private, involuntary bodily space. The hospital is the terminal form of the rest domain — an involuntary confinement at the end of life. First hospital mapping in the set. LOW encodes unavoidable terminal presence rather than voluntary absence."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Not Huggins's world. He was the schoolmaster, not the nightlife. Ruth's world, not his.",
+      "note_extra": "Source labeled 'Bar / Nightclub' / affinity 'LOW' — mapped to Hotel/Rest/LOW as social nightlife domain. Second Hotel/Rest LOW on this card. Consistent with the Hotel/Rest node as the itinerant social/rest domain of baseball life. Huggins's LOW here is voluntary absence: the bar was Ruth's world, not his — not avoidance from fear but incompatibility of temperament. Contrast with Hoyt's Hotel/Rest/COMPLEX (the bar was both pleasure and destruction) and Hornsby's Community Events/HIGH (the racetrack as ADDICTION). For Huggins the bar is simply not a meaningful space."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Dynasty years — when all the pieces fit, Huggins's teams were historically dominant (1927-28)",
+      "Player development paying off — watching Gehrig, Lazzeri, Combs emerge into stars",
+      "Winning the authority battle — after the Ruth fine, the team became a machine",
+      "World Series stage — 3 WS wins including two consecutive sweeps (1927, 1928)"
+    ],
+    "cold_triggers": [
+      "Being undermined by ownership (Huston) or press criticism — Huggins took it personally",
+      "Player insubordination — the Ruth conflicts before 1925 were existential threats",
+      "Health decline — neuritis, insomnia, and the blood poisoning that killed him",
+      "Being underestimated — 'in the past Huggins has not shone as a leader of men'"
+    ],
+    "pressure_response": "ELITE AFTER ESTABLISHING AUTHORITY. Huggins lost the 1921 and 1922 World Series to McGraw and was humiliated. But once he won the authority battle with Ruth (1925), he never lost another World Series — sweeping Pittsburgh (1927) and St. Louis (1928). In ILB: Huggins provides -1 Clutch in his first championship appearance. After that: +2 Clutch permanently. The schoolmaster learns from failure."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Murderers' Row",
+      "type": "Game Action",
+      "text": "Your lineup is the most fearsome in baseball history. If 4+ players in your lineup have OVR 8+, all players gain +2 Contact and +1 Power this game. Opposing pitchers have 15% chance of 'Intimidated' before first pitch.",
+      "origin": "The 1927 Yankees: Ruth (60 HR), Gehrig (175 RBI), Meusel, Lazzeri, Combs. They went 110-44 and swept the World Series. Many consider them the greatest team ever assembled."
+    },
+    {
+      "title": "The $5,000 Fine",
+      "type": "Action",
+      "text": "Your manager fines your best player for insubordination. That player loses -2 to their highest stat this game. But they gain +3 Discipline permanently. If owner backs the manager (coin flip): +2 Team Fit for all players. If owner sides with the player: -3 morale for all.",
+      "origin": "August 29, 1925: Huggins fined Ruth $5,000 — the largest fine in baseball history — for showing up late and hungover. Ruth exploded. Ruppert backed Huggins completely. Ruth never publicly questioned his manager again."
+    },
+    {
+      "title": "Deadball to Dynamite",
+      "type": "Action",
+      "text": "Your manager abandons his own philosophy to build around a generational talent. Choose one player — your entire team's strategy shifts to maximize that player's strengths. All players gain +1 to the stat that matches the chosen player's highest stat.",
+      "origin": "Huggins's natural style was deadball — speed, bunts, contact. When Ruth arrived, Huggins rebuilt the entire team around power. 'The acquisition of superstar slugger Ruth dictated a change of emphasis towards power and not giving away outs.'"
+    },
+    {
+      "title": "The Pipp-Gehrig Switch",
+      "type": "Trade",
+      "text": "Your manager benches a veteran for a young unknown. The veteran loses his roster spot. The rookie gains +2 to their highest stat permanently and begins a 'Streak' — gaining +1 to a random stat every 5 consecutive games played.",
+      "origin": "Huggins benched Wally Pipp and inserted Lou Gehrig at first base. Gehrig played 2,130 consecutive games — a record that stood for 56 years. Pipp never reclaimed his position."
+    },
+    {
+      "title": "The Red Sox Pipeline",
+      "type": "Trade",
+      "text": "Your manager acquires a struggling player from a rival team. That player gains +2 to their lowest stat immediately. 'He sees what their old team couldn't.'",
+      "origin": "Huggins traded for Waite Hoyt and Herb Pennock — both struggled in Boston, both became Hall of Famers in New York. He identified talent that other organizations had given up on."
+    },
+    {
+      "title": "Consumed by the Game",
+      "type": "Drama",
+      "text": "Your manager's health fails. He is removed from the game. All players weep openly. The team gains +3 morale for the next 5 games as they play for their fallen leader. 'I call him the squarest shooter I ever knew in baseball.'",
+      "origin": "Huggins died September 25, 1929, at age 51 from blood poisoning. The American League canceled its games. Yankees players wept openly. Gehrig: 'He was more like a father to me than anything else.' 10,000 mourners lined the streets."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Small, intense, scholarly. 5'6\" 140 lbs — the smallest Yankee manager. Sharp, intelligent eyes. A face that looks like it's solving a problem while everyone else is watching the game. Clean-shaven. Slightly drawn from chronic illness and insomnia. The face of a law professor who accidentally wandered into a dugout and turned out to be the smartest person in the building.",
+    "attire": "Yankees uniform, 1927 era — pinstripes. Unlike Mack's suit, Huggins wore the uniform, but it hung on his small frame. He's dwarfed by the dugout, by Yankee Stadium, by Ruth — and yet he's clearly in charge. Possibly holding a lineup card or scorebook. The image should emphasize the size contrast: the smallest man managing the biggest team.",
+    "mood": "Quiet mastery tinged with exhaustion. The look of a man who has figured out how to build the greatest team in baseball history and is paying for it with his health. There's triumph in the eyes and weariness in the jaw. He's not celebrating — he's calculating the next move while everyone else celebrates.",
+    "style": "Cool sepia with deep blue undertones — the Tactical Purist palette. Yankee Stadium's original facade suggested in the background, towering over the small figure. Border should feel precise and elegant — clean lines, geometric, institutional. Yankee pinstripe motifs. The card should feel like a blueprint for a dynasty — the architectural plans for Monument Park.",
+    "reference": "Where Selee's Tactical Purist card is the watch factory engineer, Huggins is the law school graduate who became a baseball architect. Both are quiet geniuses who build systems bigger than any individual. But Huggins had to manage Babe Ruth — the most ungovernable force in sports history — and he did it through sheer intellectual authority. The card should feel like David standing over Goliath — if David were a law professor with insomnia."
+  }
+}

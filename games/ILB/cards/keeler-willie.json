@@ -1,0 +1,225 @@
+{
+  "card_type": "player",
+  "name": "Willie Keeler",
+  "nickname": "Wee Willie",
+  "player_image": "https://raw.githubusercontent.com/thegfraction/projects/b9a611655116268b1910dda04fcb97fd0d03b2d1/games/ILB/images/keeler-willie.png",
+  "year": 1897,
+  "team": "Baltimore Orioles",
+  "era": "1890s",
+  "ilb_team": "Banners NL1890",
+  "position": "RF",
+  "bats": "L",
+  "throws": "L",
+  "height": "5'4\"",
+  "weight": "140 lbs",
+  "born": "March 3, 1872 — Brooklyn, NY",
+  "died": "January 1, 1923 — Brooklyn, NY",
+  "hof": "Class of 1939 (BBWAA, 75.5%)",
+
+  "real_stats": {
+    "season": 1897,
+    "games": 129,
+    "at_bats": 564,
+    "hits": 239,
+    "doubles": 27,
+    "triples": 19,
+    "home_runs": 0,
+    "rbi": 74,
+    "stolen_bases": 64,
+    "batting_avg": ".424",
+    "obp": ".464",
+    "slg": ".539",
+    "ops": "1.003",
+    "ops_plus": 168,
+    "war": 8.7,
+    "gold_gloves": 0,
+    "silver_sluggers": 0,
+    "all_star": 0,
+    "career_avg": ".341",
+    "career_hits": 2932,
+    "career_hr": 33,
+    "career_sb": 495,
+    "career_war": 54.3
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "con": 5,
+    "pow": 1,
+    "spd": 3,
+    "def": 0,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": ".424 BA in 1897 — the highest single-season average by a left-handed hitter in baseball history. Career .341 with 2,932 hits. 8 consecutive 200-hit seasons (record stood for 100+ years until Ichiro). Struck out only TWICE in 570 AB in 1899 — an AB/K ratio of 285, the single-season record. His skill at fouling off pitches literally caused the foul-bunt-strikeout rule to be invented. The ultimate contact hitter.",
+    "pow": "Zero home runs in 1897. 33 career HR, 30 of them inside-the-park. 193 of his 239 hits in 1897 were singles. Keeler had absolutely no power in the traditional sense — his .539 SLG came entirely from triples (19) and doubles (27). The +1 SLG bonus is generous but reflects his extra-base ability through speed, not muscle.",
+    "spd": "64 stolen bases in 1897. 495 career SB. 19 triples in his peak season. At 5'4\" 140 lbs, Keeler was a blur on the basepaths. His speed enabled the Baltimore Chop, the hit-and-run, and the bunt single. Maximum speed rating.",
+    "def": "Keeler was a competent right fielder but not an elite defender. John McGraw — his own teammate — needled him for defensive lapses, and the two once brawled naked in the Orioles' shower over it. No Gold Gloves existed, and his defensive reputation doesn't warrant a bonus.",
+    "clu": "Won 5 NL pennants (1894–96, 1899–1900). Hit .373 over 9 contending seasons. Won the Temple Cup in 1896. His 44-game hitting streak carried Baltimore through the 1897 season. Reliable and consistent in big moments, even if there was no modern postseason to test him."
+  },
+
+  "personality": {
+    "leadership_style": "Quiet, genteel, lead-by-craft. Keeler wasn't a shouter or a fighter — he was the polite professional on a team of brawlers. His leadership was in his consistency: 239 hits, every single day, never missing a beat. Teammates trusted him because he always delivered.",
+    "temperament": "Amiable, friendly, polite. The gentleman of the rough-and-tumble 1890s Orioles. Didn't drink, didn't swear. But he wasn't soft — he fought McGraw naked in the shower when pushed too far, and he perfected deceptive tactics like the Baltimore Chop. Polite doesn't mean pushover.",
+    "work_ethic": "Craftsman-level. Keeler didn't overpower anything — he outthought it. His custom 46-ounce bat was oversized for his tiny frame but gave him extraordinary control. He practiced bunting and place-hitting until he could put the ball anywhere on the field. His approach was surgical, not brute force.",
+    "lifestyle": "Brooklyn boy, working-class Irish roots. Father was a trolley switchman. Quit school young, played semi-pro ball, worked his way up. After retirement, invested wisely in mining and real estate — died wealthy. Simple, steady, no scandal.",
+    "era_adaptability": "VERY HIGH. Keeler's skill set — contact, speed, bunting, place-hitting — translates to any era. He's basically a 19th-century Ichiro Suzuki. His approach would work in the dead-ball era, the live-ball era, or the analytics era. The only thing that wouldn't translate is his complete lack of power.",
+    "clubhouse_impact": "POSITIVE-QUIET. Well-liked by everyone. Didn't cause drama, didn't demand the spotlight. The kind of player who makes a team better just by being reliable. On a team of Hall of Famers (McGraw, Jennings, Kelley, Robinson), Keeler was the one everyone got along with.",
+    "dark_side": "Almost none. Keeler was unusually clean for his era. The only blemish: his bunting technique was so exploitative that it literally changed the rules of baseball — foul bunts with two strikes became strikeouts because of him. In ILB terms: Keeler carries a 'Rule Exploiter' trait — he'll find every edge in the rules, and the rules might change because of him."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Hit 'Em Where They Ain't",
+      "desc": "Keeler's signature. +1 CON when facing a shift or unusual defensive alignment. He always finds the gap."
+    },
+    {
+      "tag": "Leadoff Spark",
+      "desc": "When batting first in the lineup, Keeler's OBP bonus gives the entire team +1 momentum for the first inning."
+    },
+    {
+      "tag": "Everyman",
+      "desc": "Compatible with players from all eras and backgrounds. No chemistry conflicts with anyone."
+    },
+    {
+      "tag": "Brooklyn Roots",
+      "desc": "Extra comfort in New York-area city squares. Born, lived, and died in Brooklyn."
+    },
+    {
+      "tag": "Rule Exploiter",
+      "desc": "Keeler finds loopholes. Once per game, he can attempt a 'Baltimore Chop' — an automatic infield single on a roll of 4+."
+    },
+    {
+      "tag": "Streaker",
+      "desc": "After 3 consecutive games with a hit, Keeler enters 'Streak Mode': +1 CON until the streak ends."
+    },
+    {
+      "tag": "Gentleman",
+      "desc": "Keeler never causes team chemistry problems. His presence prevents 1 negative clubhouse event per series."
+    },
+    {
+      "tag": "Ichiro's Ancestor",
+      "desc": "When paired with any Japanese-era or speed-first player, both gain +1 chemistry (spiritual connection across eras)."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Hours of bunting practice and place-hitting drills. Surgical precision requires repetition.",
+      "note_extra": "Source labeled 'Batting Cages / Practice Field' / affinity 'HIGH' — mapped to Practice Field/HIGH. Consistent with all prior batter position-domain mappings."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Comfortable, steady presence. Gets along with everyone — even the brawlers.",
+      "note_extra": "Source labeled 'Clubhouse / Locker Room' / affinity 'HIGH' — mapped to Practice Field/HIGH as the internal team professional workspace. Consistent with Sain's Clubhouse/Bullpen → Practice Field/HIGH. The clubhouse is the team's pre/post-game working environment, directly contiguous with the field — part of the Practice Field node's domain of team professional activity. Keeler's HIGH affinity encodes his ease and comfort within the team working space."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Popular with fans in Brooklyn. Approachable and friendly, but not a showman.",
+      "note_extra": "Source labeled 'Community Events' / affinity 'MEDIUM' — the only location in this card whose source label exactly matches the ILB node name. Mapped directly to Community Events/MEDIUM. Keeler was publicly liked and accessible to Brooklyn fans but did not seek or perform in the spotlight the way Kauff or Jackson did."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Social but didn't drink. Enjoyed company without excess.",
+      "note_extra": "Source labeled 'Restaurant / Pub' / affinity 'MEDIUM' — mapped to Hotel/Rest/MEDIUM as the social eating-and-leisure environment. Consistent with Johnson's Washington DC social world (Hotel/Rest/MEDIUM). Keeler was genuinely social — he participated in the communal eating and gathering spaces — but his abstinence from alcohol kept his engagement at MEDIUM rather than HIGH. The restaurant/pub as a social space distinct from the saloon-as-drinking-space is a meaningful difference that this card encodes through two separate Hotel/Rest entries at different levels."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "MEDIUM",
+      "note": "Smart investor post-career. Mining companies and real estate. Died wealthy.",
+      "note_extra": "Source labeled 'Financial Office / Bank' / affinity 'MEDIUM' — mapped to Library/Quiet Spot/MEDIUM as private institutional commercial workspace. Consistent with Kauff's Auto Dealership → Library/Quiet Spot/MEDIUM and Jennings's Law Office → Library/Quiet Spot/HIGH. The financial office is a private institutional setting for managing commercial affairs — the same node register as all prior off-field professional workspace mappings. MEDIUM because Keeler's investment activity was a background life-management domain, not a primary identity domain."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Didn't drink or swear. The Orioles' designated gentleman.",
+      "note_extra": "Source labeled 'Bar / Saloon' / affinity 'LOW' — mapped to Hotel/Rest/LOW as the drinking-focused social space that Keeler was present in by circumstance but had no affinity with. The 1890s Orioles were a hard-drinking, brawling team; abstinence was not the norm. Keeler's LOW encodes reluctant minimal presence — he was there because his teammates were there, not because he chose the environment. Distinct from the Restaurant/Pub → Hotel/Rest/MEDIUM entry: the distinction between a pub (eating and social company) and a saloon (drinking environment) is meaningful for a non-drinker. Two Hotel/Rest entries at different levels on this card is the first instance of that pattern in the set."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "NONE",
+      "note": "No association whatsoever.",
+      "note_extra": "Source labeled 'Gambling Hall' / affinity 'NONE' — mapped to Community Events/NONE. Consistent with Hughson's gambling hall → Community Events/NONE. The note 'no association whatsoever' is the most unambiguous NONE statement in the set. Two Community Events entries on this card: MEDIUM (Brooklyn fan engagement) and NONE (gambling halls). The contrast correctly encodes that Keeler was a community-engaged figure in some public domains (fan-facing) and completely absent in others (gambling culture)."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Hitting streaks — Keeler's 44-game streak shows he gets better the longer he plays",
+      "Playing for contending teams — 5 pennants in 9 years, all with high averages",
+      "Batting leadoff — his natural position, where he thrives",
+      "Facing overshifted defenses — he lives for the gap"
+    ],
+    "cold_triggers": [
+      "Losing teams — his production declined significantly with the non-contending Highlanders",
+      "Surly or hostile managers — he left the 1908 Highlanders mid-season because of Kid Elberfeld",
+      "Aging — his skills eroded fast after 35 as speed disappeared"
+    ],
+    "pressure_response": "RELIABLE. Keeler wasn't a clutch superstar — he was a clutch machine. He hit .373 over 9 contending seasons. He won pennants. He delivered every day. He wasn't flashy in October because there was barely an October in his era — but he was always there, always producing, always getting on base. In ILB: Keeler is the safest bet in your lineup. He won't win you the game with one swing, but he'll never lose it for you either."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Hit 'Em Where They Ain't",
+      "type": "Game Action",
+      "text": "Your leadoff hitter places the ball perfectly between fielders. Automatic single. If the defense was shifted, it becomes a double.",
+      "origin": "Keeler's immortal hitting philosophy, the most famous quote in baseball history: 'Keep your eye clear, and hit 'em where they ain't.'"
+    },
+    {
+      "title": "The Baltimore Chop",
+      "type": "Game Action",
+      "text": "Your batter chops the ball into the hard dirt in front of home plate. It bounces over the infielders' heads. Roll 5+ for an infield single. If your batter has SPD 2+, automatic hit.",
+      "origin": "Keeler perfected the Baltimore Chop with the 1890s Orioles — chopping the ball into the ground so hard it bounced over fielders, exploiting Baltimore's rock-hard infield dirt."
+    },
+    {
+      "title": "The 44-Game Streak",
+      "type": "Action",
+      "text": "Your highest-CON player enters a hitting streak. For every consecutive game with a hit, he gains +1 CON (cap at +3). If the streak reaches 10 games, team morale surges +2. If it ends, morale drops -1.",
+      "origin": "Keeler's 44-game hitting streak to start 1897 was the all-time record for 44 years — until Joe DiMaggio broke it in 1941. Pete Rose tied it in 1978."
+    },
+    {
+      "title": "The Foul Bunt Loophole",
+      "type": "Action",
+      "text": "Your batter fouls off pitch after pitch, exhausting the opposing pitcher. The pitcher loses -1 stamina. If the pitcher's stamina drops to 0, your batter draws a walk.",
+      "origin": "Keeler's ability to foul off any pitch by bunting was so dominant that baseball literally changed the rules because of him — making a foul bunt with two strikes a strikeout."
+    },
+    {
+      "title": "They Changed the Rules",
+      "type": "Drama",
+      "text": "Your player's signature technique is so effective that the league bans it. He loses his signature ability for the rest of the season but gains +2 IQ (he adapts) and +1 team reputation.",
+      "origin": "The foul-bunt strikeout rule was implemented directly because of Keeler's exploitative bunting technique. He adapted and kept hitting .300+ for years after."
+    },
+    {
+      "title": "Wee Willie's Big Bat",
+      "type": "Game Action",
+      "text": "Your smallest player wields an oversized bat. He gains +1 CON but -1 SPD for this game (the bat is heavy). If he gets 3+ hits, the penalty is waived for the rest of the series.",
+      "origin": "At 5'4\" 140 lbs, Keeler swung a 46-ounce bat — one of the heaviest in baseball history. It gave him extraordinary bat control despite his tiny frame."
+    },
+    {
+      "title": "Shower Brawl",
+      "type": "Drama",
+      "text": "Two teammates get into a fistfight in the clubhouse. Both lose -1 morale for 1 game. But if neither is benched, team chemistry actually increases +1 (they respect each other more).",
+      "origin": "Keeler and John McGraw brawled naked in the Orioles' shower room during the 1897 season after McGraw criticized Keeler's defense. Teammate Jack Doyle stood guard at the door."
+    },
+    {
+      "title": "The Gentleman's Game",
+      "type": "Action",
+      "text": "Your most polite player defuses a potential team conflict. Prevent 1 negative chemistry event. All players gain +1 morale for this game.",
+      "origin": "Keeler was universally described as genteel, friendly, and polite — the calm center of the rowdy, brawling Baltimore Orioles dynasty."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Small, compact face with bright, intelligent eyes. Clean-shaven with a slight, knowing smile — the look of a man who sees the gap before the pitcher releases the ball. Irish features, youthful even at 25. Tiny frame but confident posture.",
+    "attire": "Baltimore Orioles 1890s uniform — baggy wool flannel, high collar, 'O' or script lettering barely visible. Cap tilted slightly. The uniform hangs loose on his small frame. Oversized bat visible, resting on his shoulder or mid-bunt follow-through.",
+    "mood": "Playful confidence. Not menacing like Cobb or serene like Lajoie — clever. The smartest guy on the field who knows it. A slight smirk. The look of a man about to bunt his way to a .424 average.",
+    "style": "Warm golden sepia with softer tones than Cobb's card — less dust, more warmth. 1890s wooden grandstand background with bunting decorations. Ornate tobacco-card border. Aged paper with gentle foxing. The feeling of gaslight-era Brooklyn.",
+    "reference": "Think Old Judge cigarette card or N172 series — softer, more romantic than the T206 era. The ILB sepia style but pushed slightly warmer and more golden. Keeler should look like a character from a period drama, not a war movie."
+  }
+}

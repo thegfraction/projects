@@ -1,0 +1,219 @@
+{
+  "card_type": "player",
+  "name": "Walter Johnson",
+  "nickname": "The Big Train",
+  "player_image": "https://raw.githubusercontent.com/thegfraction/projects/b9a611655116268b1910dda04fcb97fd0d03b2d1/games/ILB/images/johnson-walter.png",
+  "year": 1913,
+  "team": "Washington Senators",
+  "era": "1910s",
+  "ilb_team": "Muggers 1910",
+  "position": "SP",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'1\"",
+  "weight": "200 lbs",
+  "born": "November 6, 1887 — Humboldt, KS",
+  "died": "December 10, 1946 — Washington, DC (age 59)",
+  "hof": "Inducted 1936 (Charter Class, 83.6%). One of the Five Immortals. The award for best strikeout pitcher should bear his name.",
+
+  "real_stats": {
+    "season": 1913,
+    "games": 48,
+    "wins": 36,
+    "losses": 7,
+    "earned_run_avg": "1.14",
+    "strikeouts": 243,
+    "walks": 38,
+    "innings_pitched": "346",
+    "complete_games": 29,
+    "shutouts": 11,
+    "whip": "0.87",
+    "ops_plus_against": "N/A",
+    "war": 15.1,
+    "career_wins": 417,
+    "career_losses": 279,
+    "career_earned_run_avg": "2.17",
+    "career_strikeouts": 3508,
+    "career_cg": 531,
+    "career_shutouts": 110,
+    "career_war": 165.6,
+    "no_hitters": 1,
+    "perfect_games": 0
+  },
+
+  "ilb_stats": {
+    "ovr": 13,
+    "stf": 5,
+    "ctl": 5,
+    "sta": 4,
+    "def": 1,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "stf": "1.14 ERA in 1913 — the 6th-lowest single-season ERA in modern history at the time he recorded it. Led the AL and won the Pitching Triple Crown. K/9 of 6.32 (243 K in 346 IP) — above the ≥6.0 bonus threshold, though already at 5 from the ERA tier so the bonus is capped. Opponents batted .187 with a .217 OBP (6th lowest all-time). 15.1 WAR — the best single-season total by any pitcher in the modern era. Johnson threw primarily one pitch — the sidearm fastball — but it was the most devastating single pitch in baseball history. Cobb: 'It hissed with danger and made me flinch.' This is a maximum 5.",
+    "ctl": "BB/9 of 0.99 in 1913 — only 38 walks in 346 innings. WHIP of 0.87 — comfortably under the ≤1.00 bonus threshold, though already at 5 from the BB/9 tier. Career BB/9 of 1.89 — extraordinary for any era. 110 career shutouts (all-time record) require sustained control over hundreds of innings. 38 career 1-0 wins (all-time record) — you don't win 38 games 1-0 without perfect command. Led AL in fewest BB/game multiple times. This is a maximum 5.",
+    "sta": "346 IP in 1913 → tier 4 (300-349), just short of the 350 threshold for tier 5. Young threw 371 in 1901; Johnson falls 4 IP short of matching that tier. However: 29 CG in 48 apps. Over 300 IP in 9 different seasons. Career 5,914+ IP. 531 CG in 666 starts (80% CG rate). Three consecutive CG shutouts over Labor Day weekend 1908. Two separate 40+ consecutive scoreless inning streaks — the only pitcher EVER. 55⅔ consecutive scoreless innings (AL record for 55 years). Johnson pitched until age 39 across 21 seasons. The durability is superhuman but the single-season IP falls in tier 4.",
+    "def": "Decent fielding pitcher. Once played center field in a farce game — Griffith's end-of-season tradition. Good hitter for a pitcher: .235 career BA, record .433 in 1925, 547 career hits (most by any full-time pitcher), 13 outfield appearances. But no league leads in fielding categories as a pitcher, no notable defensive reputation from the mound. Rating of 1.",
+    "clu": "1924 WS Game 7 is one of the most legendary moments in baseball history. After losing Games 1 (4-3 in 12 innings, 165 pitches) and 5 (6-2), manager Bucky Harris called Johnson from the bullpen in the 9th: 'You're the best we've got, Walter. We've got to win or lose with you.' Johnson pitched 4 scoreless innings and won in the 12th — Washington's only World Series championship. PS ERA in the clincher: 0.00. Also won the 1924 AL pennant in his 18th year. Lost the 1925 WS to Pittsburgh. PS ERA < 2.00 in the clincher → tier 2. WS clincher bonus → +1. Rating of 3 — maximum clutch."
+  },
+
+  "personality": {
+    "leadership_style": "Quiet, stoic, lead-by-overwhelming-dominance. Johnson led by being the most indispensable player in franchise history — he WAS the Washington Senators for 21 years. Shirley Povich: 'More than any other ballplayer, probably more than any other athlete, the symbol of gentlemanly conduct in the heat of battle.' His manager's instruction: 'You're the best we've got, Walter.' The leadership was in the arm and the character, not the voice.",
+    "temperament": "Gentle, humble, universally beloved. Johnson was afraid of hitting batters with his fastball — the most dangerous pitch in baseball — because he didn't want to hurt anyone. Cobb exploited this by crowding the plate, knowing Johnson would pitch away from him rather than risk injury. Married a congressman's daughter. Devoted father of six. Every opponent respected him. The most dangerous arm in baseball belonged to the kindest man.",
+    "work_ethic": "Relentless and loyal. 21 years for the Washington Senators — a franchise that finished in the second division more often than not. Johnson never demanded a trade. He pitched 531 complete games. He won 40% of his team's games in 1913. When the rest of the Senators were 54-57, Johnson was 36-7. The work was superhuman but the demeanor was effortless — a sidearm whip that generated unhittable velocity with deceptive ease.",
+    "lifestyle": "Kansas farm boy to Washington institution. Born in Humboldt, KS. Grew up in Olinda, CA. Played semi-pro ball in Idaho — discovered by a traveling cigar salesman who wrote the Senators a letter. Married Hazel Lee Roberts, daughter of Nevada's congressman — their romance was 'the talk of Washington society.' Chaplain of the U.S. Senate officiated. Six children, five surviving to adulthood. After playing: managed the Senators (1929-32) and Indians (1933-35). Died of a brain tumor at 59.",
+    "era_adaptability": "THE VELOCITY TRANSLATES. Johnson's sidearm fastball was estimated at 91-100+ mph. The sidearm delivery added horizontal deception that modern hitters rarely face from a starter. His control (0.99 BB/9 in 1913, 1.89 career) would be elite in any era. The limited repertoire (primarily fastball, occasional curve developed ~1913-14) would challenge him against modern lineups expecting variety. But Johnson in 2024 would be an elite power arm with pinpoint control — comparable to peak Mariano Rivera (one unhittable pitch, perfect location) or peak deGrom (overwhelming stuff, elite command).",
+    "clubhouse_impact": "THE FRANCHISE INCARNATE. Johnson WAS the Washington Senators. When the Senators finally won the 1924 pennant — Johnson's 18th year — the entire city celebrated not just the team but the man who had waited so long. His presence elevated the franchise from a punchline ('Washington: first in war, first in peace, last in the American League') to a champion. +3 franchise stability, +2 team morale, +1 attendance.",
+    "dark_side": "The terrible teams. Johnson's greatness is inseparable from the tragedy of pitching for the Senators. He went 13-25 in 1909 with a 2.22 ERA because his team was 42-110. He lost 27 games by 1-0. He suffered 65 shutout losses. His 417 wins could have been 500+ with average run support. He briefly considered jumping to the Federal League in 1915 — a momentary wavering. His managerial career (1929-35) was unsuccessful, suggesting the gentle temperament didn't translate to managing. And: the brain tumor that killed him at 59 robbed him of decades he deserved."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Big Train",
+      "desc": "Once Johnson reaches full velocity (after the 1st inning), his fastball becomes virtually unhittable. +1 STF after the opening frame. The train reaches full speed."
+    },
+    {
+      "tag": "The Fastest Alive",
+      "desc": "Johnson's fastball is the fastest pitch in baseball. Batters face -1 CON penalty facing Johnson for the first time in a game. Cobb: 'It hissed with danger.'"
+    },
+    {
+      "tag": "The Gentleman's Fastball",
+      "desc": "Johnson is afraid of hurting batters. He will never intentionally throw at a hitter. -1 intimidation. But: +2 sportsmanship. Smart hitters crowd the plate."
+    },
+    {
+      "tag": "Carrying the Load",
+      "desc": "Won 40% of his team's games in 1913. When team quality is low, Johnson gains +1 to all pitching stats. The worse the team, the harder he throws."
+    },
+    {
+      "tag": "110 Shutouts",
+      "desc": "ALL-TIME RECORD. When Johnson leads after 7 innings, 50% chance of a shutout. No other pitcher in ILB history approaches this rate."
+    },
+    {
+      "tag": "Farm Strong",
+      "desc": "Kansas-born, Idaho semi-pro. No fatigue penalties. Johnson can pitch on 2 days' rest with no degradation. Three CG shutouts in 4 days."
+    },
+    {
+      "tag": "Five Immortals",
+      "desc": "Charter HOF Class with Cobb, Ruth, Mathewson, Wagner. +2 franchise prestige. The name alone is a monument."
+    },
+    {
+      "tag": "Eighteen Years of Waiting",
+      "desc": "Johnson waited 18 years for a pennant. In his first WS or elimination game, +2 all stats from sheer emotion. The weight of two decades fuels the arm."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "531 CG in 666 starts. More complete games than most pitchers have starts. The mound belongs to Johnson.",
+      "note_extra": "Source labeled 'Pitcher's Mound' / affinity 'HIGH' — mapped to Practice Field/HIGH. Consistent with all prior pitcher mappings."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "21 years. 417 wins. The franchise incarnate. 'You're the best we've got, Walter.'",
+      "note_extra": "Source labeled 'Griffith Stadium / Washington' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH as 21-year permanent home performance stage. Consistent with all prior home ballpark mappings."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "14 career Opening Day assignments. The president threw the first pitch; Johnson threw the rest.",
+      "note_extra": "Source labeled 'Opening Day' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH as the annual ceremonial apex public stage. Opening Day with a presidential first pitch is the maximum public spotlight event in the Senators' calendar. Second Media/Spotlight/HIGH on this card — both Griffith Stadium (the permanent stage) and Opening Day (the recurring ceremonial peak) are correctly HIGH. Two entries at the same node+affinity is established precedent (Jackson also had two Practice Field/HIGH entries; Huggins player had three Media/Spotlight entries at different affinities). The distinction is preserved in the notes."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Kansas born, California raised, Idaho semi-pro. The arm was built in open country.",
+      "note_extra": "Source labeled 'Farm / Rural Area' / affinity 'MEDIUM' — mapped to Community Events/MEDIUM as rural/farm origin domain. Consistent with the rural/farm → Community Events mapping established with Hughson (HIGH) and Sain (HIGH). Johnson is MEDIUM rather than HIGH because rural origins are formative background rather than an active ongoing identity domain at the card year (1913, fully Washington-established by then). MEDIUM encodes genuine connection without primary active presence."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "MEDIUM",
+      "note": "Waited 18 years. Lost G1 and G5 in 1924. Then: 4 scoreless in G7 relief. Redemption.",
+      "note_extra": "Source labeled 'The World Series' / affinity 'MEDIUM' — mapped to Media/Spotlight/MEDIUM as the maximum public stage with a fraught but ultimately triumphant relationship. MEDIUM encodes the complexity: 18 years of absence, two losses in the 1924 WS before the Game 7 heroics, and the 1925 WS loss to Pittsburgh. Not LOW (the WS was his greatest professional moment), not HIGH (the path was agonizing), not COMPLICATED (the moral register is not in question, unlike Jackson). MEDIUM here is genuinely ambivalent — the WS was where he finally arrived, but not where he was comfortable arriving. Third Media/Spotlight entry on this card, third distinct affinity level: HIGH (home stage), HIGH (Opening Day), MEDIUM (World Series). Consistent with Huggins player's three Media/Spotlight entries at three levels."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Became a Washington institution. Married a congressman's daughter. But always a country boy at heart.",
+      "note_extra": "Source labeled 'City / Urban Areas' / affinity 'MEDIUM' — mapped to Hotel/Rest/MEDIUM as the adopted urban residential environment. First Hotel/Rest/MEDIUM in the set. Prior Hotel/Rest entries were all LOW (Hoyt's bar, Huggins manager's hospitals, Jennings's hospital). MEDIUM encodes genuine presence without primary identification: Washington was Johnson's stage and social world for 21 years, and he became genuinely embedded in its society (married a congressman's daughter, 'the talk of Washington society'). But 'always a country boy at heart' prevents HIGH. The urban city-as-residence domain is Hotel/Rest: it's the temporary or adopted living environment rather than a performance, institutional, or origin domain."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Early innings — once the Big Train reaches full speed, the fastball becomes unhittable",
+      "Scoreless streaks — 55⅔ consecutive scoreless innings; momentum compounds with each zero",
+      "Pennant races — 36-7 in 1913, won 40% of team's games; pressure increases his output",
+      "Emotional stakes — the 1924 WS Game 7, eighteen years of waiting; emotion fuels the arm"
+    ],
+    "cold_triggers": [
+      "Poor run support — 27 losses by 1-0; 65 shutout losses; perfection loses when the offense vanishes",
+      "Repeated exposure — hitters who see the fastball 3+ times per game can begin to adjust",
+      "Initial WS pressure — lost his first two WS starts before the Game 7 heroics; the adjustment takes time",
+      "Aging — velocity declined after 35; the sidearm delivery lost some deception late career"
+    ],
+    "pressure_response": "LEGENDARY — EVENTUALLY. The 1924 WS Game 7 is one of the most famous moments in baseball history. After losing Games 1 (12 innings, 165 pitches) and 5, manager Bucky Harris called Johnson from the bullpen in the 9th: 'You're the best we've got, Walter. We've got to win or lose with you.' Johnson pitched 4 scoreless innings. Washington won in the 12th. The only WS championship the city ever had. In ILB terms: Johnson may struggle in his first postseason start, but in elimination games, he transcends."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Thirty-Six and Seven",
+      "type": "Game Action",
+      "text": "Your ace goes 36-7 with a 1.14 ERA. He strikes out 243. He throws 11 shutouts. Opponents bat .187 against him. He pitches 55⅔ consecutive scoreless innings. His WAR is 15.1 — the best single season by any pitcher in the modern era. The rest of his team is 54-57. He carries them to second place on his back.",
+      "origin": "In 1913, Johnson went 36-7 with a 1.14 ERA, 243 K, and 15.1 WAR — the best single pitcher season in modern MLB history."
+    },
+    {
+      "title": "You're the Best We've Got, Walter",
+      "type": "Game Action",
+      "text": "Game 7 of the World Series. Your pitcher has lost Games 1 and 5. He has waited 18 years. His manager calls him from the bullpen: 'You're the best we've got, Walter. We've got to win or lose with you.' He pitches 4 scoreless innings. Your team wins in the 12th. The only championship this city will ever have.",
+      "origin": "1924 WS Game 7: After losing Games 1 and 5, Johnson pitched 4 scoreless relief innings and won in the 12th — Washington's only World Series championship."
+    },
+    {
+      "title": "One Hundred and Ten Shutouts",
+      "type": "Game Action",
+      "text": "Your pitcher records his 110th career shutout. No other pitcher in baseball history will come close. One hundred and ten times, he took the mound and allowed nothing. The record will never be broken.",
+      "origin": "Johnson's 110 career shutouts remain the all-time MLB record — unchallenged, unreachable."
+    },
+    {
+      "title": "Three Shutouts in Four Days",
+      "type": "Game Action",
+      "text": "Friday: complete-game shutout. Saturday: complete-game shutout. Sunday: rest (blue laws). Monday: a THIRD consecutive complete-game shutout. Three starts in four days. The same team each time.",
+      "origin": "Labor Day weekend 1908: Johnson threw 3 consecutive CG shutouts vs. the Highlanders over 4 days."
+    },
+    {
+      "title": "Twenty-Seven Losses by One-to-Nothing",
+      "type": "Drama",
+      "text": "Your pitcher loses 1-0. Again. His ERA is pristine. His team scores nothing. He has now lost 27 games by 1-0 — the most in history. He also has 38 wins by 1-0 — also the most ever. He is the greatest pitcher alive, and his team cannot score.",
+      "origin": "Johnson lost 27 games by 1-0 (most ever) and won 38 by 1-0 (also most ever). He suffered 65 shutout losses in his career."
+    },
+    {
+      "title": "The Fastball That Hissed",
+      "type": "Game Action",
+      "text": "Ty Cobb steps to the plate — the most dangerous hitter alive. Your pitcher's sidearm fastball hisses past him. Cobb flinches. The greatest hitter in baseball flinched.",
+      "origin": "Ty Cobb on Johnson's fastball: 'It hissed with danger. It made me flinch.'"
+    },
+    {
+      "title": "The Gentleman Won't Throw Inside",
+      "type": "Drama",
+      "text": "Your pitcher has the fastest fastball in baseball. But he's afraid of hurting people. He refuses to throw inside. Cobb crowds the plate, knowing this. The deadliest weapon in baseball is wielded by the gentlest man. Your pitcher wins anyway.",
+      "origin": "Johnson was known for reluctance to pitch inside because he feared seriously injuring batters with his sidearm fastball."
+    },
+    {
+      "title": "The Five Immortals",
+      "type": "Drama",
+      "text": "The first Hall of Fame ballot. Five names: Cobb. Ruth. Wagner. Mathewson. Johnson. The foundation of baseball. Your pitcher stands among the gods.",
+      "origin": "1936: Johnson was one of the first five players elected to the Baseball Hall of Fame — 'The Five Immortals.'"
+    }
+  ],
+
+  "art_direction": {
+    "face": "Tall, gentle, powerful. 6'1\" 200 lbs — large for his era, with notably LONG ARMS that generated the sidearm whip. The face should be gentle and kind — soft features, warm eyes, the look of a man afraid of hurting people with his fastball. Not fierce like Cobb, not calculating like Collins — NOBLE. Midwestern features — Kansas heartland. But the body radiates enormous power. The gentleness is in the face; the danger is in the arm.",
+    "attire": "Washington Senators 1913 whites, wool flannel. The sidearm delivery — arm dropped below shoulder, sweeping forward in a whipping arc. Long arm fully extended, body torquing, front leg planted. Ball visible as a blur — a suggestion of speed. Or: standing tall on the mound, ball in glove, staring in with quiet determination. 21 years of this.",
+    "mood": "Thunder and grace. The overwhelming power of the fastest fastball alive combined with the gentle humility of the man who threw it. Enormous force in perfect control: 3,508 strikeouts thrown with 1.89 BB/9 precision.",
+    "style": "Rich sepia with deep NAVY BLUE and LIGHTNING WHITE undertones — the navy of the Senators' trim, the white-hot flash of the fastest pitch in baseball. The first pitcher palette in the Muggers. Dark blue depth with brilliant white streaks. STORM: thunder and lightning.",
+    "reference": "The sidearm delivery mid-motion — arm whipping, ball a white streak. Or: the 1924 WS Game 7 walk to the mound — 18 years on his shoulders. Or: the 55⅔ scoreless streak — an endless scoreboard of zeros. The card should feel like standing too close to a locomotive: beautiful, terrifying, inevitable."
+  }
+}

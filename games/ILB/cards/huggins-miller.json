@@ -1,0 +1,207 @@
+{
+  "card_type": "player",
+  "name": "Miller Huggins",
+  "nickname": "Mighty Mite",
+  "player_image": "https://raw.githubusercontent.com/thegfraction/projects/b9a611655116268b1910dda04fcb97fd0d03b2d1/games/ILB/images/huggins-miller.png",
+  "year": 1912,
+  "team": "St. Louis Cardinals",
+  "era": "1910s",
+  "ilb_team": "Muggers 1910",
+  "position": "2B",
+  "bats": "S",
+  "throws": "R",
+  "height": "5'5\"",
+  "weight": "140 lbs",
+  "born": "March 27, 1878 — Cincinnati, OH",
+  "died": "September 25, 1929 — New York, NY (age 50)",
+  "hof": "Inducted 1964 (Veterans Committee) — as Manager. 6 pennants, 3 World Series titles with Yankees. First monument in Yankee Stadium (1932), before Ruth and Gehrig. Never elected as player.",
+
+  "real_stats": {
+    "season": 1912,
+    "batting_avg": ".304",
+    "obp": ".422",
+    "slg": ".357",
+    "stolen_bases": 35,
+    "walks": 83,
+    "runs": 82,
+    "hits": 132,
+    "home_runs": 0,
+    "career_avg": ".265",
+    "career_obp": ".382",
+    "career_bb": 1002,
+    "career_sb": 324,
+    "career_hr": "9 (all inside-the-park)",
+    "nl_bb_leader": "4×",
+    "career_war": "not recorded",
+    "notable": "Set MLB record: 6 PA, 0 AB (4 BB, 2 SF) on June 1, 1910. Set NL CS record: 36 CS in 1914. Handled record 19 chances in a game. Hidden ball trick at least 8 times."
+  },
+
+  "ilb_stats": {
+    "ovr": 6,
+    "con": 2,
+    "pow": 0,
+    "spd": 2,
+    "def": 2,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": ".304 BA in 1912 (only year over .300). Career .265 — well below the .280 tier 2 threshold. NOT a contact hitter. A WALK hitter: 1,002 career BB, led NL 4×. .382 career OBP, .402 with Cardinals. But in ILB, CON measures batting average, not OBP. The bat was patient, not productive. Rating of 2.",
+    "pow": "9 career HR — ALL inside-the-park. .357 career SLG (peak). Zero extra-base power. 5'5\" 140 lbs. The smallest player on the roster with essentially no power at all. Rating of 0 — the only POW 0 position player on the Muggers alongside Cravath's SPD 0.",
+    "spd": "324 career SB. 41 SB (1906). 35 SB (1912). Regular 30+ SB seasons. 'Rabbit' — fast in the field and on the bases. BUT: set NL caught stealing record in 1914 (36 CS vs. 32 SB). Fast but reckless. Rating of 2.",
+    "def": "'Like a flea skating around on a greasy skillet.' 'Rabbit,' 'Mighty Mite,' 'Little Everywhere.' Led NL in putouts, assists, double plays, fielding % once each. Hidden ball trick at least 8 times. Record 19 chances in a game. Once froze baseballs in a freezer to deaden them. Creative, scrappy, excellent. Rating of 2.",
+    "clu": "NEVER played in a World Series. Cardinals never won an NL pennant during Huggins' playing career. Zero October data. Rating of 0."
+  },
+
+  "personality": {
+    "leadership_style": "THE STRATEGIST. Huggins didn't overpower — he couldn't, at 5'5\" and 140 lbs. He outTHOUGHT. Law degree. Hidden ball trick 8 times. Froze baseballs. Handled 19 chances in a game. Spent three years training himself to switch-hit for the extra step to first base. Everything was calculated, every edge was exploited. Billy Evans: 'one of the greatest managers I have ever met.' The player who became the manager was already managing from second base.",
+    "temperament": "GRIM, CEREBRAL, RELENTLESS. The papers mocked his size. He ignored them. Reporters predicted his firing. He outlasted them. He played under the alias 'Proctor' to hide from his strict Methodist father. He chose baseball over law because it paid more, but he never stopped thinking like a lawyer — every game was a case, every play was evidence, every edge was an argument to be won.",
+    "work_ethic": "THREE YEARS TO LEARN TO SWITCH-HIT. Huggins spent three grueling years training himself to hit left-handed for the extra step to first base. That's not talent — that's obsession. He built upper-body strength despite being 140 lbs. He coaxed 1,002 walks from pitchers who could have overpowered him. He pulled the hidden ball trick 8 times. He froze baseballs. Every weapon was improvised because his body gave him nothing.",
+    "lifestyle": "THE LAW STUDENT IN CLEATS. University of Cincinnati law degree. Professor: William Howard Taft (future President). Chose baseball over law. Never married. Private, austere, cerebral. Played semi-pro under alias 'Proctor.' After playing career: managed Cardinals, then Yankees. Built Murderers' Row. Suspended Babe Ruth. Got the first monument in Yankee Stadium. Died of erysipelas at 50, still managing. The monument in center field came before Ruth's, before Gehrig's.",
+    "clubhouse_impact": "THE MIND. +3 strategy (the smartest player on the field). +2 defensive creativity (hidden ball trick, frozen baseballs). +1 walk discipline (teaches teammates patience). -1 physical intimidation (5'5\" 140 lbs — nobody feared him physically). The player whose value was entirely in his brain.",
+    "dark_side": "The SMALLEST Mugger by far. Cravath had SPD 0 — Huggins has POW 0. Two zeros on opposite ends: the slugger who couldn't run, the speedster who couldn't slug. But Huggins' future is the biggest of any Mugger: 6 pennants, 3 World Series, Murderers' Row, the Babe Ruth suspension, the first Yankee monument. As a PLAYER, he's OVR 6. As a MIND, he's Mythic. The card captures the player. The legend is what comes after."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Mighty Mite",
+      "desc": "5'5\" 140 lbs. The smallest player on the Muggers by far. +2 underdog energy. -1 physical presence. Every advantage had to be earned by intellect."
+    },
+    {
+      "tag": "The Hidden Ball Trick",
+      "desc": "Pulled it off at least 8 times. +2 deception. +1 defensive IQ. The trick requires timing, acting, and the willingness to look foolish if it fails."
+    },
+    {
+      "tag": "1,002 Walks",
+      "desc": "Led NL in walks 4×. Career 1,002 BB. .382 OBP with a .265 average. +2 plate discipline. The man who made pitchers throw strikes to a 5'5\" target."
+    },
+    {
+      "tag": "The Frozen Baseballs",
+      "desc": "Stored baseballs in a freezer to deaden them. Admitted it to Ford Frick years later. +2 gamesmanship. -1 ethics. The mind that would later manage Ruth."
+    },
+    {
+      "tag": "The Law Degree",
+      "desc": "University of Cincinnati. Professor: William Howard Taft (future President). +2 intellect. +1 argument construction. Every at-bat was a cross-examination of the pitcher."
+    },
+    {
+      "tag": "Hornsby's Teacher",
+      "desc": "Coached young Rogers Hornsby's batting stance with the Cardinals. Hornsby replaced him at 2B in 1917 and went on to hit .358 for his career. +3 legacy. The teacher who created his own replacement — and made him the greatest right-handed hitter ever."
+    },
+    {
+      "tag": "The Switch-Hitter's Sacrifice",
+      "desc": "Spent 3 years training to hit left-handed for the extra step to first. +1 dedication. +1 SPD from left side. The work that invisible talent requires."
+    },
+    {
+      "tag": "The Future Dynasty",
+      "desc": "THIS card is the player. The FUTURE is the manager: 6 pennants, 3 WS titles, Murderers' Row, suspended Ruth, first Yankee monument. +5 legacy. The OVR 6 player who became the Mythic manager."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "1910-16. Best seasons. .402 OBP. Player-manager 1913-17.",
+      "note_extra": "Source labeled 'Robison Field / St. Louis' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH as primary professional public performance domain. Robison Field is the Cardinals' home park during Huggins' best years as player and player-manager. The public arena where his playing identity was established."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "'Flea on a greasy skillet.' Hidden ball trick. Record chances.",
+      "note_extra": "Source labeled 'Second Base' / affinity 'HIGH' — mapped to Practice Field/HIGH as on-field defensive identity domain. Consistent with all prior infield position mappings (Billy Herman 2B, Doyle 2B, etc.)."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "COMPLEX",
+      "note": ".265 career BA but .382 OBP. Walked more than he hit.",
+      "note_extra": "Source labeled 'The Batter's Box' / affinity 'COMPLEX' — mapped to Practice Field/COMPLEX. Second COMPLEX affinity in the set (first was Hoyt's Bar/Nightlife → Hotel/Rest/COMPLEX). The batter's box is COMPLEX for Huggins because it is simultaneously a domain of strength and genuine weakness: .265 BA (below average) but .382 OBP (elite). He extracted extraordinary value from a space where he was conventionally mediocre. The JSX renderer displays COMPLEX in sepia — a neutral, neither-positive-nor-negative register. Distinct from Hoyt's COMPLEX (bidirectional risk/reward from alcohol) because Huggins' batter's box complexity is structural rather than behavioral: the space itself produces split outcomes based on the metric used to evaluate it."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "NONE",
+      "note": "Never played in one. Zero October experience as a player.",
+      "note_extra": "Source labeled 'The World Series' / affinity 'NONE' — mapped to Media/Spotlight/NONE. Second NONE in the set (first was Babe Herman's Hall of Fame/Cooperstown → Community Events/NONE). The World Series is mapped to Media/Spotlight as the maximum public spotlight event. NONE here encodes not institutional rejection (Herman's HOF NONE) but literal absence — Huggins never arrived. The space has no experiential content for the player version of Huggins. The distinction is meaningful: Herman was evaluated and excluded; Huggins simply never reached the stage. Both are NONE but register different kinds of zero relationship."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "MYTHIC",
+      "note": "First monument in center field. Before Ruth. Before Gehrig.",
+      "note_extra": "Source labeled 'Yankee Stadium (Future)' / affinity 'MYTHIC' — mapped to Media/Spotlight/MYTHIC. MYTHIC is a new affinity tier introduced on this card. The JSX renders it in gold (the highest-status color). MYTHIC encodes a space that belongs to a future, not-yet-manifest identity — a domain of prophetic belonging rather than current experience. The Yankee Stadium monument (1932) is MYTHIC because it represents Huggins' fullest self, which had not yet been realized at the time of this 1912 player card. Distinct from LATE CAREER (Hoyt's AA meeting — a space that eventually arrived through transformation) because MYTHIC is not a temporal phase but a destiny that exceeds the current card's scope entirely. The note 'This hasn't happened yet. But it will.' is encoded in the action card 'The Monument (Future).' First affinity encoding a prophetic future rather than any past or present relationship."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Walk streaks — when Huggins is patient and pitchers fear the zone, his OBP climbs above .400; the plate discipline elevates",
+      "Hidden ball trick — when Huggins successfully deceives a runner, +2 team morale, opponent alertness drops",
+      "Defensive excellence — when covering ground, turning DPs, handling 15+ chances; 'Little Everywhere' activated",
+      "Strategic insight — when player-managing, Huggins' decisions are precise; the law degree applies to baseball"
+    ],
+    "cold_triggers": [
+      "Power vacuum — 0 HR most seasons; when the team needs a big hit, Huggins walks or singles; never the clutch blow",
+      "Caught stealing — set NL record with 36 CS in 1914; aggressive baserunning backfires; -1 SPD",
+      "Size mismatch — in collisions (Konetchy/Evans incident), Huggins loses; 140 lbs vs. the dead-ball era",
+      "No October stage — never reached a World Series as a player; the ultimate opportunity never arrived"
+    ],
+    "pressure_response": "UNKNOWN. Miller Huggins never played in a World Series. The Cardinals never won a pennant during his playing career (1904-16). There is zero October data. As a MANAGER, he was excellent in October (3 WS titles). But this card reflects the player, and the player never got there. CLU 0 by absence."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Hidden Ball Trick",
+      "type": "Game Action",
+      "text": "The runner takes his lead off second. Your second baseman still has the ball. The runner doesn't know. One step, two steps — tag. Out. The eighth time he's done this. +2 deception. +1 IQ. -1 opponent trust. The 5'5\" man who outthinks everyone on the field.",
+      "origin": "Huggins pulled the hidden ball trick at least 8 times in his career."
+    },
+    {
+      "title": "The Frozen Baseballs",
+      "type": "Drama",
+      "text": "Your second baseman has stored the game balls in a freezer. Deadened them. The opposing batters can't drive the ball. Your infielder handles a record 19 chances. Years later, he admits it to a journalist and smiles. +2 gamesmanship. -1 sportsmanship. The brain beats the body.",
+      "origin": "Huggins admitted to Ford Frick he once froze baseballs. Handled 19 chances that game."
+    },
+    {
+      "title": "1,002 Walks",
+      "type": "Game Action",
+      "text": "Ball four. Again. Your 5'5\" leadoff man trots to first for the 1,002nd time in his career. He led the league in walks four times. He hit .265 but reached base at .382. The zone is small. His patience is enormous. +2 OBP. +0 POW. The most disciplined eye in the dead-ball era.",
+      "origin": "Huggins drew 1,002 career walks, leading the NL 4 times."
+    },
+    {
+      "title": "Six Plate Appearances, Zero At-Bats",
+      "type": "Game Action",
+      "text": "Your leadoff man goes to the plate six times. He never swings. Four walks. Two sacrifice flies. Zero official at-bats. An MLB record. The pitcher never found the zone. Your second baseman never needed it. +3 patience. +0 swing.",
+      "origin": "June 1, 1910: Huggins set an MLB record with 6 PA and 0 AB (4 BB, 2 SF)."
+    },
+    {
+      "title": "Three Years to Switch-Hit",
+      "type": "Drama",
+      "text": "Your second baseman spends three years — three grueling off-seasons — teaching himself to hit left-handed. For one reason: the extra step to first base. One step faster. Three years of work. +1 SPD from left side. +2 dedication. The sacrifice invisible talent requires.",
+      "origin": "Huggins spent three years training to become a switch-hitter for the extra step to first."
+    },
+    {
+      "title": "Teaching Hornsby",
+      "type": "Drama",
+      "text": "Your player-manager takes a 19-year-old Texan and corrects his batting stance. The kid cost $600. The kid will hit .358 for his career. The kid will replace your second baseman at the position in 1917. +3 legacy. +1 mentorship. You taught the greatest right-handed hitter ever how to stand.",
+      "origin": "Huggins coached young Rogers Hornsby's batting stance. Hornsby succeeded him at 2B."
+    },
+    {
+      "title": "The Collision",
+      "type": "Drama",
+      "text": "Pop fly. Your 140-lb second baseman converges with your 195-lb first baseman and 175-lb right fielder. Three bodies collide. Your second baseman goes down. From the ground, injured, he holds up the ball as if he caught it. The umpire calls the batter out. Two weeks on the injured list. Worth it. +1 determination. -1 body.",
+      "origin": "Huggins collided with Konetchy (195 lbs) and Evans (175 lbs). Held up ball from ground. Umpire believed him."
+    },
+    {
+      "title": "The Monument (Future)",
+      "type": "Drama",
+      "text": "This hasn't happened yet. But it will. Your 5'5\" second baseman will manage the New York Yankees. He will build Murderers' Row. He will suspend Babe Ruth. He will win 6 pennants and 3 World Series. He will die at 50, still in the dugout. And the first monument in Yankee Stadium — before Ruth, before Gehrig — will be his. +5 future. The OVR 6 player who built a dynasty.",
+      "origin": "Huggins managed Yankees 1918-29: 6 pennants, 3 WS titles. First Yankee monument (1932)."
+    }
+  ],
+
+  "art_direction": {
+    "face": "TINY, FIERCE, CEREBRAL, WEATHERED. 5'5\" 140 lbs — the SMALLEST player in the Muggers collection by far. The face should be SHARP and INTENSE — angular features, lean jaw, sunken cheeks, the face of a man who weighs 140 lbs and takes on 200-lb baserunners. Deep-set, CALCULATING eyes — the eyes of a law student, a hidden ball trick artist, a man who froze baseballs. The expression: GRIM DETERMINATION. Not cheerful (that's Doyle). Not volatile (that's Zimmerman). FOCUSED. The face of a brain in a body too small for baseball, making it work anyway.",
+    "attire": "St. Louis Cardinals 1912 whites — 'STL' insignia, flat cap that looks slightly too large on his small frame. THE POSE: in the field at second base, low to the ground, glove ready — 'like a flea skating around on a greasy skillet.' The smallness should be VISIBLE and EMPHASIZED — the figure should look compact, coiled, and disproportionately quick for the era. Or: in the batter's box, crouched switch-hitter stance, making the strike zone impossibly small. The bat should look normal-sized — which means it looks LARGE in Huggins' small hands.",
+    "mood": "CEREBRAL AND DETERMINED. The card should feel like INTELLIGENCE OVERCOMING LIMITATION. Not the joy of Doyle or the chaos of Zimmerman. The QUIET FEROCITY of a 140-lb man who earned a law degree, chose baseball, and outthought every opponent he couldn't outmuscle.",
+    "style": "Sepia-toned with CINCINNATI BRICK and CARDINAL RED-BROWN — the muted red of Cincinnati brick buildings (his hometown, his university) and the subtle red-brown of Cardinals flannel. The palette should feel MODEST and EFFICIENT — no gold, no fire, no flash. The color of a small man who doesn't waste anything. The most UNDERSTATED palette in the Muggers collection.",
+    "reference": "The tiny fierce face. The crouched stance. The oversized cap. The card should feel SMALL AND MIGHTY — the most physically modest card that radiates the most intellectual power. The viewer should sense that this OVR 6 card contains a future dynasty."
+  }
+}

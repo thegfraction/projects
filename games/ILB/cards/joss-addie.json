@@ -1,0 +1,224 @@
+{
+  "card_type": "player",
+  "name": "Addie Joss",
+  "nickname": "The Human Hairpin",
+  "player_image": "https://raw.githubusercontent.com/thegfraction/projects/b9a611655116268b1910dda04fcb97fd0d03b2d1/games/ILB/images/joss-addie.png",
+  "year": 1908,
+  "team": "Cleveland Naps",
+  "era": "1900s",
+  "ilb_team": "Banners AL1900",
+  "position": "SP",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'3\"",
+  "weight": "185 lbs",
+  "born": "April 12, 1880 — Woodland, WI",
+  "died": "April 14, 1911 — Toledo, OH (age 31). Two days after his birthday. Tubercular meningitis.",
+  "hof": "Inducted 1978 (Veterans Committee). Only player to have the 10-year minimum rule waived. Lowest career WHIP in MLB history (0.968).",
+
+  "real_stats": {
+    "season": 1908,
+    "games": 42,
+    "wins": 24,
+    "losses": 11,
+    "earned_run_avg": "1.16",
+    "strikeouts": 130,
+    "walks": 30,
+    "innings_pitched": "325.0",
+    "complete_games": 29,
+    "shutouts": 9,
+    "whip": "0.806",
+    "war": 10.0,
+    "career_wins": 160,
+    "career_losses": 97,
+    "career_earned_run_avg": "1.89",
+    "career_strikeouts": 920,
+    "career_cg": 234,
+    "career_shutouts": 45,
+    "career_whip": "0.968",
+    "career_war": 44.4,
+    "no_hitters": 2,
+    "perfect_games": 1
+  },
+
+  "ilb_stats": {
+    "ovr": 11,
+    "stf": 5,
+    "ctl": 5,
+    "sta": 4,
+    "def": 1,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "stf": "1.16 ERA in 1908 — the 9th lowest single-season ERA in MLB history. Career 1.89 ERA — 2nd lowest ever behind Walsh. Joss was not a strikeout pitcher (K/9 of 3.60). His dominance came from the corkscrew delivery — he turned his back to the batter, hid the ball completely, then delivered from a sidearm/three-quarter slot. Bobby Wallace: 'Out of nowhere, the ball was hopping across the plate.' Baseball Magazine: 'Having it on the batter almost before the latter got sight of it.' His 1908 ERA of 1.16 earns the maximum 5.",
+    "ctl": "BB/9 of 0.83 in 1908 — only 30 walks in 325 innings. Career WHIP of 0.968 — the lowest in MLB history. Career BB/9 of 1.43. Perfect game thrown on just 74 pitches — meaning nearly every pitch was a strike or resulted in weak contact. This is the most precise pitcher in the entire ILB collection. Even Cy Young (0.90 BB/9) walks more batters. Maximum 5.",
+    "sta": "325 IP in 1908. 29 complete games. 234 career CG in only 9 seasons. But Joss was physically fragile — malaria in 1904, arm trouble and fatigue in 1909-10, fainting spells in 1911, dead at 31 from tubercular meningitis. His body couldn't sustain what his arm could do. Rating 4 — high innings but flagged for fragility.",
+    "def": "Joss handled 10 assists in his second no-hitter (1910) — an all-time record for pitchers in a no-hitter. Good fielding pitcher, especially for his tall frame (6'3\"). Rating 1.",
+    "clu": "October 2, 1908: Three teams separated by 1.5 games with 3 games left. Joss vs. Walsh — two future Hall of Famers. Walsh struck out 15 and allowed 4 hits. Joss was perfect — 74 pitches, 27 up, 27 down. The New York Times called it 'the most astonishing clutch job baseball has had.' Joss never reached the WS (Cleveland finished 0.5 GB), but this single game is the most clutch pitching performance in dead-ball history. Maximum 3."
+  },
+
+  "personality": {
+    "leadership_style": "The Quiet Professional. Joss led by example and by intelligence. He was college-educated (St. Mary's, University of Wisconsin), a working sportswriter, an inventor, and the most respected man in the Cleveland clubhouse. Napoleon Lajoie — his manager — called him 'one of the best pitchers and men that has ever been identified with the game.' Cy Young: 'He was a great man. I feel sure he never made an enemy.'",
+    "temperament": "Calm, intellectual, universally beloved. Joss was the opposite of Waddell in every way — where Rube was chaos, Addie was order. He was scholarly, articulate, and self-possessed. He wrote for the Cleveland Press and Toledo News-Bee with such quality that the editorial board said he 'would have adorned any profession.' He designed an electronic scoreboard (the Joss Indicator). He was as comfortable at a typewriter as on a mound.",
+    "work_ethic": "PRECISE AND METHODICAL. Joss approached pitching like an engineering problem. 74 pitches for a perfect game — that's not just talent, it's efficiency designed by intellect. He studied hitters, planned his sequences, and wasted nothing. His offseason was spent writing, inventing, and preparing. No wasted motion, no wasted pitch, no wasted day.",
+    "lifestyle": "College-educated Midwesterner. Born in Wisconsin, educated at St. Mary's and University of Wisconsin. Married Lillian Shinivar in 1902 — they had two children, Norman and Ruth. Joss was a family man and community pillar. He was a sportswriter whose columns were so popular they increased newspaper circulation. He covered the World Series for multiple papers (1907-09). The Cleveland Press introduced him: 'Of all the baseball players in the land, Addie Joss is far and away the best qualified for this work.'",
+    "era_adaptability": "VERY HIGH. Joss's skill set — deception, pinpoint control, pitch efficiency — translates perfectly to the modern game. He's a Greg Maddux prototype, decades before Maddux. 74 pitches for a perfect game. In today's analytics-driven environment, Joss would be valued enormously. His health wouldn't survive a modern workload either, but his talent would be recognized immediately.",
+    "clubhouse_impact": "BELOVED. When Joss died, Cleveland's Opening Day was postponed for his funeral — one of the largest in Toledo history. Billy Sunday (ex-player turned evangelist) preached the service. The American League's best players organized a benefit game — Cobb, Speaker, Collins, Crawford, Walter Johnson — the first proto-All-Star Game. It raised nearly $13,000 for Lillian and the children. No dead-ball player was more universally mourned.",
+    "dark_side": "The body. Joss's body was always failing him. Malaria in 1904. Arm trouble. Fatigue that benched him for September 1909. Fainting spells in 1911. He fainted while talking to a friend before an exhibition game in Chattanooga — and never recovered. Dead at 31, two days after his birthday. His career was only 9 seasons — the HOF had to waive its 10-year rule to induct him. In ILB terms: Joss carries a 'Glass Genius' trait — he is perfect when healthy, but his body is a ticking clock. Every season might be his last."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Seventy-Four Pitches",
+      "desc": "Perfect game on 74 pitches in a pennant race. When facing an elite opposing pitcher, Joss gains +2 to all stats. The bigger the moment, the fewer pitches he needs."
+    },
+    {
+      "tag": "Lowest WHIP Ever",
+      "desc": "Career 0.968 WHIP — lowest in MLB history. Baserunners simply don't happen. Opposing OBP reduced by -1 permanently."
+    },
+    {
+      "tag": "The Corkscrew",
+      "desc": "Joss's delivery turned his back to the batter, hiding the ball until the last instant. Opposing hitters suffer -1 CON on first at-bat each game (unfamiliarity penalty)."
+    },
+    {
+      "tag": "Scholar-Pitcher",
+      "desc": "College-educated sportswriter and inventor. +1 team intelligence. Joss reads opposing lineups and provides scouting reports: all teammates gain +1 vs. opponents Joss has faced."
+    },
+    {
+      "tag": "The Joss Indicator",
+      "desc": "Invented an electronic scoreboard for League Park. +1 home field advantage permanently."
+    },
+    {
+      "tag": "Glass Genius",
+      "desc": "CRITICAL FLAW: Before each season, roll for health. 20% chance Joss misses significant time. After season 7, the percentage rises to 40%. After season 9, Joss retires or dies."
+    },
+    {
+      "tag": "The First All-Star Game",
+      "desc": "When Joss's career ends, the league's greatest players assemble to honor him. +5 franchise reputation. A benefit game raises funds for his family."
+    },
+    {
+      "tag": "Lajoie's Ace",
+      "desc": "+2 chemistry with Napoleon Lajoie (his manager). Lajoie trusted Joss above all others. 'One of the best pitchers and men ever identified with the game.'"
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "74 pitches for perfection. The mound was his laboratory.",
+      "note_extra": "Source labeled 'Pitcher's Mound' / affinity 'HIGH' — mapped to Practice Field/HIGH. Consistent with all prior pitcher mappings."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "HIGH",
+      "note": "Worked as sportswriter for Cleveland Press and Toledo News-Bee. Covered World Series.",
+      "note_extra": "Source labeled 'Press Box / Newsroom' / affinity 'HIGH' — mapped to Library/Quiet Spot/HIGH as intellectual private professional workspace. The newsroom/press box is where the journalist produces work, not where the subject performs. It is a private analytical production environment — the same node register as university, library, law office, and front office. Distinct from Media/Spotlight (the public performance stage being covered): Joss the sportswriter was in the production room, not on the stage. First newsroom mapping in the set."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "HIGH",
+      "note": "Attended St. Mary's and University of Wisconsin. Scholarly temperament.",
+      "note_extra": "Source labeled 'University / Library' / affinity 'HIGH' — mapped to Library/Quiet Spot/HIGH. Consistent with all prior university/library mappings."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "HIGH",
+      "note": "Designed the Joss Indicator electronic scoreboard. Engineering mindset.",
+      "note_extra": "Source labeled 'Workshop / Inventor's Bench' / affinity 'HIGH' — mapped to Library/Quiet Spot/HIGH as private intellectual creative workspace. The inventor's bench is the domain of applied analytical production — the same register as the university and newsroom. First workshop/inventor's bench mapping in the set. Consistent with the Library/Quiet Spot node as the encompassing domain for all private intellectual production environments."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "HIGH",
+      "note": "Married Lillian. Two children. Family man and community pillar.",
+      "note_extra": "Source labeled 'Home / Family' / affinity 'HIGH' — mapped to Library/Quiet Spot/HIGH as private domestic retreat. Consistent with prior home/family → Library/Quiet Spot mappings. Joss's home was a private sphere of intellectual and emotional grounding — aligned with the quiet, stable, non-public character of the Library/Quiet Spot node."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "Played entire career for Cleveland. His scoreboard was installed here.",
+      "note_extra": "Source labeled 'League Park, Cleveland' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH as permanent home performance stage. Consistent with all prior home ballpark mappings to Media/Spotlight/HIGH. The additional note that his Joss Indicator scoreboard was installed at League Park gives this location dual resonance: both his primary professional performance stage and the site of his most visible invention."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Malaria, fatigue, fainting, meningitis. His body was always the enemy.",
+      "note_extra": "Source labeled 'Hospital / Sickbed' / affinity 'LOW' — mapped to Hotel/Rest/LOW as involuntary bodily confinement domain. Consistent with all prior hospital mappings (Huggins manager, Jennings manager). The sickbed is the most extreme form of the rest/confinement node — the place where Joss's body exacted its toll, culminating in his death at 31."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Pennant races — Joss's perfect game came with 3 games left and 1.5 games separating 3 teams",
+      "Facing elite pitchers — Joss vs. Walsh produced the greatest pitching duel in history",
+      "High-efficiency days — when Joss needs fewer than 80 pitches, he's nearly unhittable",
+      "Intellectual preparation — Joss scouted opponents meticulously through his sportswriting"
+    ],
+    "cold_triggers": [
+      "Health episodes — malaria, arm trouble, fatigue, fainting spells",
+      "Late-season exhaustion — benched for September 1909",
+      "The body's betrayal — every cold trigger is physical, never mental"
+    ],
+    "pressure_response": "THE HIGHEST IN THE SET. 74 pitches. Perfect game. Pennant race. Against Ed Walsh. There is no greater clutch pitching performance in dead-ball history — and arguably in all of baseball history. Arthur Daley (NYT): 'The most astonishing clutch job baseball has had.' The tragedy is that Joss never got to pitch in a World Series despite this moment. He finished 0.5 games back. In ILB: Joss is the ultimate Game 7 starter — if he's healthy."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Seventy-Four",
+      "type": "Game Action",
+      "text": "Your pitcher throws a perfect game on 74 pitches — in a pennant race, against a future Hall of Famer who strikes out 15 and allows only 4 hits. A mouse in the grandstand would have sounded like a shovel on concrete. Your pitcher gains the 'Perfection Under Pressure' trait permanently.",
+      "origin": "October 2, 1908. Joss vs. Walsh. Naps vs. White Sox. 3 teams separated by 1.5 games. Joss: 27 up, 27 down, 74 pitches. Walsh: 4-hitter, 15 K, 1 unearned run allowed. Final: 1-0 Cleveland."
+    },
+    {
+      "title": "The Corkscrew",
+      "type": "Game Action",
+      "text": "Your pitcher uses a delivery that turns his back entirely to the batter, hiding the ball until the last instant. First-time opponents suffer -2 CON. Scouting reports help, but the delivery remains deceptive even when expected.",
+      "origin": "Joss's corkscrew delivery was unique — he turned his back to the batter completely, then delivered from a sidearm angle. Bobby Wallace: 'Out of nowhere, the ball was hopping across the plate.'"
+    },
+    {
+      "title": "The Scholar's Column",
+      "type": "Action",
+      "text": "Your pitcher writes a newspaper column analyzing the upcoming series. His scouting insights are so detailed that all teammates gain +1 vs. the next opponent. The column increases the newspaper's circulation by 15%.",
+      "origin": "Joss wrote for the Cleveland Press and Toledo News-Bee. He covered the World Series. The Press said he was 'far and away the best qualified' sportswriter among players."
+    },
+    {
+      "title": "The Joss Indicator",
+      "type": "Action",
+      "text": "Your pitcher-inventor designs an electronic scoreboard for the home ballpark. +1 home field advantage permanently. The device tracks balls, strikes, and lineups — decades ahead of its time.",
+      "origin": "Joss designed and marketed an electronic scoreboard (the Joss Indicator) to Cleveland management. It was installed at League Park for the 1909 season."
+    },
+    {
+      "title": "Half a Game Back",
+      "type": "Drama",
+      "text": "Your pitcher has the best season of his life — 1.16 ERA, perfect game, 24 wins. Your team finishes 0.5 games behind the pennant winner. The closest you'll ever come. Your pitcher never reaches the World Series.",
+      "origin": "In 1908, Joss went 24-11 with a 1.16 ERA and pitched a perfect game. The Naps finished 0.5 games behind Detroit. Joss never reached the postseason."
+    },
+    {
+      "title": "The Fainting",
+      "type": "Drama",
+      "text": "Before an exhibition game, your pitcher faints while talking to a friend. He never recovers. The diagnosis is fatal. He dies two days after his 31st birthday. Opening Day is postponed for his funeral.",
+      "origin": "On April 3, 1911, Joss fainted in Chattanooga. He was diagnosed with tubercular meningitis. He died April 14, 1911 — two days after his birthday, on what would have been Opening Day."
+    },
+    {
+      "title": "The First All-Star Game",
+      "type": "Drama",
+      "text": "The league's greatest players assemble to honor your fallen pitcher. Cobb, Speaker, Collins, Crawford, Walter Johnson — all in one lineup. They play against your team. 15,000 attend. $13,000 is raised for your pitcher's widow and children. This game will become a tradition.",
+      "origin": "On July 24, 1911, an all-star team played the Naps at League Park to benefit Lillian Joss and her two children. The game raised $12,914 and is considered the first proto-All-Star Game."
+    },
+    {
+      "title": "The Rule Waived",
+      "type": "Drama",
+      "text": "Your pitcher played only 9 seasons. The Hall of Fame requires 10. But his career was so extraordinary — and his death so unjust — that the committee waives the rule. He is inducted. The only player this exception has been made for.",
+      "origin": "In 1978, the Veterans Committee waived the 10-year minimum and inducted Joss into the Hall of Fame — the only player in history to receive this exception."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Tall, lean, angular — 6'3\" 185 lbs, the 'Human Hairpin.' Long face, intelligent eyes, calm expression. Not intimidating — thoughtful. The face of a scholar who happens to throw a baseball with impossible precision. Clean-shaven, neat. There's a serenity here that's almost unsettling — this man knows exactly what he's doing and exactly how little time he has.",
+    "attire": "Cleveland Naps 1908 home whites. The distinctive corkscrew delivery captured mid-motion — his back turned to the batter, the ball hidden behind his body. The moment just before the release — the batter can't see anything yet. The delivery should feel like a magic trick: the ball is about to appear from nowhere. 6'3\" frame coiled like a spring.",
+    "mood": "Quiet precision meeting tragic inevitability. Not chaotic like Waddell or doomed like Walsh — Joss is serene. He knows exactly what he's doing. But there's a shadow over the image — the knowledge that this perfection has an expiration date. The mood is a watch that keeps perfect time but is running down. Beautiful and heartbreaking.",
+    "style": "Clean, pale sepia — the lightest pitcher card in the set, reflecting Joss's precision and clarity. Almost clinical. The background suggests League Park's expanded grandstands and the glow of his electronic scoreboard invention. Thin, elegant border — fitting for the Human Hairpin. The paper is pristine, carefully preserved — this is the card you protected because it felt precious.",
+    "reference": "This is the T206 that makes you hold your breath. ILB sepia at its most refined and most fragile. Where Walsh is the card of the coal mine and Waddell is the card of the circus, Joss is the card of the library — perfect, quiet, and gone too soon. The most elegant card in the entire collection."
+  }
+}

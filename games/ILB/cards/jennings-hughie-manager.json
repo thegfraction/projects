@@ -1,0 +1,277 @@
+{
+  "card_type": "manager",
+  "name": "Hughie Jennings",
+  "nickname": "Ee-Yah",
+  "year": 1907,
+  "team": "Detroit Tigers",
+  "era": "1910s",
+  "ilb_team": "Gloves",
+  "archetype": "Authoritarian",
+  "born": "April 2, 1869 — Pittston, PA",
+  "died": "February 1, 1928 — Scranton, PA (age 58)",
+  "hof": "Inducted 1945 (Veterans Committee). As player AND manager. Connie Mack named him one of the three greatest managers in history.",
+  "height": "5'8\"",
+  "weight": "165 lbs",
+
+  "record": {
+    "career_wins": 1184,
+    "career_losses": 995,
+    "win_pct": ".543",
+    "pennants": 3,
+    "world_series": 0,
+    "seasons_managed": 14,
+    "ejections": "Multiple — suspended for taunting opponents with a tin whistle (1907)",
+    "peak_team": "1907-1909 Detroit Tigers",
+    "peak_record": "3 consecutive AL pennants (1907, 1908, 1909)",
+    "first_division": "10 first-division finishes in 14 seasons",
+    "notable": "Managed Ty Cobb for 14 years. 'Ee-Yah!' battle cry adopted by U.S. Marines in WWI. Cornell Law School graduate. Coal breaker boy at age 12. HBP record: 287 career, 51 in single season (1896). Nervous breakdown in 1925.",
+    "key_players_managed": [
+      "Ty Cobb",
+      "Sam Crawford",
+      "Harry Heilmann",
+      "Hooks Dauss",
+      "Donie Bush",
+      "Bobby Veach"
+    ],
+    "playing_career": ".311 career BA, 3 NL pennants with Baltimore Orioles (1894-96). Hit .401 in 1896."
+  },
+
+  "ilb_ratings": {
+    "tac": 4,
+    "pit": 3,
+    "lin": 3,
+    "adp": 3,
+    "dis": 8,
+    "ego": 7,
+    "har": 5,
+    "int": 9,
+    "str": 6,
+    "flx": 5,
+    "ovr": 9
+  },
+
+  "rating_justification": {
+    "tac": "Creative and unorthodox. Bill James identified Jennings as one of the first to platoon players, beginning with catchers in the 1907 World Series. Used rubber snakes and jack-in-the-boxes to distract Rube Waddell. Brought dogs into the dugout to throw Waddell off. Suspended for using a tin whistle as a noisemaker. Innovative, theatrical, effective — but not a systematic tactician. Rating of 4.",
+    "pit": "Managed decent pitching staffs — Hooks Dauss, Ed Summers, George Mullin. But 'his handling of pitchers sometimes drew criticism.' Lost 3 World Series partly because opposing pitching (Cubs, Pirates) was better managed. Competent, not elite. Rating of 3.",
+    "lin": "The lineup was Ty Cobb, and then everyone else. Jennings told Cobb: 'Do what you think is best and I'll back you up.' When your best player sets his own rules, lineup construction is reactive, not proactive. Had Sam Crawford, Harry Heilmann, Bobby Veach — good hitters arranged around the Cobb orbit. Rating of 3.",
+    "adp": "Won 3 straight pennants (1907-09) but never won another in 11 more years. The Tigers finished second twice but mostly drifted. Jennings couldn't rebuild or reinvent after the early magic faded. However, managing Ty Cobb for 14 years without being murdered is its own form of adaptation. Rating of 3.",
+    "dis": "Selective authoritarianism. Jennings enforced discipline on the rest of the team while giving Cobb complete freedom. 'There isn't anything about baseball I can teach you. Do as you please.' This worked for Cobb (12 batting titles) but caused resentment from teammates who were held to different standards. A brilliant but uneven disciplinarian. Rating of 8.",
+    "ego": "Managing Ty Cobb for 14 years may be the greatest ego-management feat in baseball history. Cobb was violent, paranoid, racist, brilliant, and uncontrollable. Jennings's solution: let Cobb be Cobb, support him publicly, and manage everyone else around him. It worked — until it didn't. The 1912 player strike (Cobb assaulted a fan, was suspended, and the entire team walked out in solidarity) showed the limits. Rating of 7.",
+    "har": "Mixed. Jennings's cheerful energy and 'Ee-Yah!' enthusiasm were infectious — umpire Tim Hurst called his smile 'the grin that echoed.' But 'his favoritism toward Cobb was a frequent cause of discord on the club.' Harmony was high in the coaching box and low in the clubhouse. Rating of 5.",
+    "int": "Near-maximum. The most theatrically intense manager of his era. 'Ee-Yah!' shouts, grass-plucking, one-legged jigs, tin whistles, rubber snakes, dogs in the dugout. His war cry was adopted by U.S. Marines in WWI — they went into battle shouting 'Ee-yah-yip!' Not volcanic anger like McGraw or Tebeau — pure kinetic enthusiasm. Rating of 9.",
+    "str": "Good. 10 first-division finishes in 14 seasons with Detroit. But 0-3 in World Series (lost to Cubs twice, Pirates once). The strategic ceiling was clear — he could build a contender but couldn't overcome elite competition. Part of this was talent (the Cubs had Tinker-Evers-Chance), part was management. Rating of 6.",
+    "flx": "Moderate. Adapted from 1890s Orioles brawler (hit by pitch 287 times, played dirty) to dignified but colorful AL manager. Got a Cornell law degree while playing. But his late Detroit years showed stagnation — same approach, diminishing returns. The nervous breakdown in 1925 suggests the strain was cumulative. Rating of 5."
+  },
+
+  "personality": {
+    "leadership_style": "Enthusiastic authoritarian with a star exception. Jennings ran the team with high energy and firm expectations — except for Cobb, who was given total freedom. This 'dual standard' system worked brilliantly for the star but created resentment among role players. He led through infectious enthusiasm, not fear. The 'Ee-Yah!' wasn't intimidation — it was joy. But joy with an iron fist underneath.",
+    "temperament": "Ebullient and theatrical on the surface, damaged underneath. 'A boyish, infectious smile on his freckled, red-headed Irish face.' Umpire Tim Hurst called it 'the grin that echoed.' But this was a man who worked in coal breakers at 12, was hit by pitches 287 times, suffered brain damage from an Amos Rusie fastball to the temple, dove into an empty swimming pool, and had a nervous breakdown in 1925. The cheerfulness was real — and it was also armor.",
+    "work_ethic": "Ferocious. Went from coal breaker boy at 12 to Cornell Law School. Passed the bar exam while managing a baseball team. Practiced law in the offseason while managing the Tigers. 'Behind the antics was a great coaching mind.' — SABR. The showmanship was surface; the preparation was obsessive.",
+    "lifestyle": "Coal country origins. 9th of 12 children in a miner's family in Pittston, PA. Dropped out of school at 12 to work as a breaker boy for 90 cents a day. Attended St. Bonaventure with McGraw. Got into Cornell Law School. Passed the Maryland bar. Practiced law in Scranton during offseasons. Irish Catholic. The most improbable intellectual in baseball — a coal miner's son with a law degree who managed baseball's most volatile player.",
+    "communication_style": "Theatrical and constant. The 'Ee-Yah!' was communication — encouragement, energy, psychological warfare. He invented 'Attaboy' ('That's the boy'). But his most important communication was private — telling Cobb 'do as you please and I'll back you up.' Publicly: showman. Privately: strategic diplomat.",
+    "loyalty_expectations": "Deep personal loyalty, tested by Cobb. In 1912, when Cobb assaulted a fan and was suspended, the entire Tigers team went on strike in solidarity. Jennings had to field a team of amateurs (lost 24-2). He stood by Cobb through everything — and Cobb's teammates eventually followed. But the loyalty was strained by the double standard.",
+    "dark_side": "The breakdown. After leaving Detroit, Jennings served as a coach under McGraw with the Giants. In 1925, he suffered a nervous breakdown that ended his baseball career. He died in 1928 at 58. The brain damage from Rusie's fastball in 1897, the empty pool dive, the 287 hit-by-pitches, 14 years of managing Cobb — it all accumulated. In ILB: Jennings carries 'The Toll' — his intensity is magnificent but it breaks him eventually."
+  },
+
+  "playbook": {
+    "roster_philosophy": "Build around a generational talent and keep everyone else in line. Jennings's approach was pragmatic: if you have Ty Cobb, you let Cobb be Cobb and construct the rest of the team to support him. Sam Crawford was the veteran anchor, the pitching staff was reliable, and the role players knew their place. The system was Cobb-centric — which meant it was brilliant when Cobb was great and helpless when Cobb wasn't enough.",
+    "conflict_response": "ABSORB. Jennings didn't suppress conflict like McGraw or escalate it like Tebeau — he absorbed it. When Cobb assaulted a fan, Jennings absorbed the fallout. When the team went on strike, Jennings absorbed the embarrassment. When the favoritism caused resentment, Jennings absorbed the complaints with his infectious smile. The shock absorber between Cobb and the world.",
+    "clique_strategy": "TOLERATE — ONE STAR EXCEPTION. The team had one untouchable (Cobb) and everyone else. This created a natural two-tier system: Cobb's tier and everyone else's tier. Jennings tolerated this because Cobb was worth it. But the resentment was real and chronic.",
+    "player_types_that_thrive": [
+      "Generational talents who need freedom — Jennings won't cage a genius",
+      "Cheerful, energetic players who feed off the manager's enthusiasm",
+      "Tough, hard-nosed players from working-class backgrounds — coal country mentality",
+      "Players willing to accept a secondary role behind a dominant star",
+      "Psychologically resilient players — this clubhouse has turbulence"
+    ],
+    "player_types_that_struggle": [
+      "Players who demand equal treatment — Cobb gets different rules",
+      "Sensitive personalities who can't handle the Cobb-adjacent chaos",
+      "Stars who need to be THE star — there's only room for one Cobb",
+      "Players who need tactical structure — the system revolves around one player, not a plan",
+      "Players who need calm — Jennings's energy is constant and sometimes exhausting"
+    ],
+    "tolerance_thresholds": {
+      "max_ego_cluster": 2,
+      "max_volatility": "HIGH for the star, MODERATE for everyone else",
+      "discipline_floor": "HIGH for role players, NONE for the star. Dual standard is the system.",
+      "star_exception": "Absolute. One player gets total freedom. Everyone else gets firm discipline. This is the Jennings Paradox."
+    }
+  },
+
+  "chemistry_impact": {
+    "team_fit": {
+      "effect": "POLARIZED",
+      "desc": "Jennings creates a two-tier system. +2 Team Fit if the team has exactly ONE star (OVR 10+). -1 Team Fit if the team has 2+ stars competing for the spotlight."
+    },
+    "volatility": {
+      "effect": "INCREASED FOR STAR",
+      "desc": "The star player gains +2 Volatility (more extreme performances). All other players gain -1 Volatility (stabilized by the manager's enthusiasm)."
+    },
+    "discipline": {
+      "effect": "SPLIT",
+      "desc": "Star player: -3 Discipline (total freedom). All other players: +2 Discipline. The dual standard is the operating system."
+    },
+    "ego": {
+      "effect": "ABSORBED",
+      "desc": "Jennings absorbs ego conflicts rather than resolving them. Ego penalties are reduced by 1 across the board. But if the star leaves, +3 Ego for all remaining players (the lid comes off)."
+    },
+    "work_habits": {
+      "effect": "INCREASED",
+      "desc": "Jennings's coal-miner work ethic and constant energy inspire effort. +1 Work Habits for all players. The man never stopped working — neither can you."
+    },
+    "adaptability": {
+      "effect": "MODERATE",
+      "desc": "Jennings adapted from 1890s brawler to 1910s manager. +1 Adaptability for players transitioning between eras or roles."
+    }
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Ee-Yah!",
+      "desc": "Jennings's war cry echoes through the stadium. +1 Intensity for all players on offense. Opposing pitchers have a 10% chance of 'Rattled' status from the constant noise."
+    },
+    {
+      "tag": "The Cobb Whisperer",
+      "desc": "Jennings managed Ty Cobb for 14 years. If your team has a player with Ego > 8 and OVR > 10, that player gains +2 to their highest stat. Everyone else loses -1 Harmony."
+    },
+    {
+      "tag": "Coal Breaker Boy",
+      "desc": "Jennings worked the mines at 12. Players from working-class or tough backgrounds gain +1 Contact and +1 Clutch under Jennings. Grit recognizes grit."
+    },
+    {
+      "tag": "Cornell Law",
+      "desc": "Jennings is the smartest manager in the room — literally a lawyer. +1 to all tactical decisions involving rules disputes. Jennings knows the rulebook better than the umpires."
+    },
+    {
+      "tag": "Tin Whistle",
+      "desc": "Jennings was suspended for using a tin whistle in the coaching box. Once per game, Jennings can use a 'Noisemaker' to distract the opposing pitcher: -1 Control for one at-bat."
+    },
+    {
+      "tag": "The Grin That Echoed",
+      "desc": "Jennings's smile was infectious. +1 morale for all players after any victory. The joy is real — even when the wins stop coming."
+    },
+    {
+      "tag": "Rubber Snakes",
+      "desc": "Jennings used rubber snakes and jack-in-the-boxes to distract Rube Waddell. Once per series, Jennings can reduce an opposing player's highest stat by 1 for one game through psychological warfare."
+    },
+    {
+      "tag": "The Toll",
+      "desc": "287 hit-by-pitches. Brain damage. Empty pool dive. Nervous breakdown. After 20 games, all of Jennings's bonuses are reduced by 1. The body and mind have limits."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Jennings's stage. The 'Ee-Yah!' shouts, grass-plucking, one-legged jigs. Where he performed his greatest role.",
+      "note_extra": "Source labeled 'Third Base Coaching Box' / affinity 'HIGH' — mapped to Practice Field/HIGH as the on-field management workspace. First explicit third-base-coaching-box mapping in the set. The coaching box is the manager's on-field performance domain — the practical workspace where Jennings's theatrical intensity was fully expressed."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "Detroit fans shouted 'Ee-Yah!' when Jennings appeared. The crowd was part of the show.",
+      "note_extra": "Source labeled 'Home Ballpark / Bennett Park' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH as the primary public performance stage. Consistent with all prior home ballpark mappings to Media/Spotlight/HIGH."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "HIGH",
+      "note": "Practiced law in Scranton during offseasons. Cornell Law. The coal miner's son who became a lawyer.",
+      "note_extra": "Source labeled 'Law Office / Courtroom' / affinity 'HIGH' — mapped to Library/Quiet Spot/HIGH as active private professional analytical domain. Contrast with Huggins manager's University/Law Library → Library/Quiet Spot/MEDIUM (formative training only); Jennings rates this HIGH because law practice was an ongoing active career, not merely formative. The law office is a genuine primary private domain alongside baseball."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "MEDIUM",
+      "note": "9th of 12 children. Breaker boy at 12. The roots that made him indestructible — until they didn't.",
+      "note_extra": "Source labeled 'Coal Country / Pittston, PA' / affinity 'MEDIUM' — mapped to Library/Quiet Spot/MEDIUM as hometown/origins private biographical domain. Consistent with Huggins manager's Cincinnati/Home → Library/Quiet Spot/MEDIUM. The coal country is the origin domain — formative but not actively inhabited during the career."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "MEDIUM",
+      "note": "Attended St. Bonaventure with McGraw. Irish Catholic. Faith and friendship forged in school.",
+      "note_extra": "Source labeled 'Church / St. Bonaventure' / affinity 'MEDIUM' — mapped to Library/Quiet Spot/MEDIUM as faith and educational formation domain. Consistent with the school/education → Library/Quiet Spot pattern across the set. St. Bonaventure is simultaneously a religious institution and the place where Jennings's friendship with McGraw (completed card) was established. Cross-card: McGraw and Jennings were college classmates and later connected through the Baltimore Orioles and Jennings's final coaching years under McGraw with the Giants."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Brain damage from Rusie's pitch. Nervous breakdown in 1925. The places where the toll was paid.",
+      "note_extra": "Source labeled 'Hospital / Sanatorium' / affinity 'LOW' — mapped to Hotel/Rest/LOW as involuntary enclosed bodily confinement domain. Consistent with Huggins manager's Hospital/St. Vincent's → Hotel/Rest/LOW. The sanatorium is the terminal form of the rest node — the place where accumulated damage is paid. The note 'The Toll' chemistry trait encodes the same accumulation."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "LOW",
+      "note": "Jennings taunted from the coaching box, not face-to-face. His warfare was theatrical, not physical.",
+      "note_extra": "Source labeled 'Opponent's Dugout' / affinity 'LOW' — mapped to Practice Field/LOW as the opposing professional on-field workspace. First Practice Field/LOW in the set. The opponent's dugout is a professional baseball space (Practice Field node) but Jennings had low relationship with it: his psychological warfare was deployed theatrically from the coaching box at a distance, not through direct dugout confrontation. LOW encodes voluntary distance rather than incompatibility or institutional exclusion."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "New challenge / fresh start — took a last-place team to 3 straight pennants in year one",
+      "Generational talent emerging — Cobb's arrival energized everything Jennings did",
+      "Crowd energy — Jennings fed off the fans and the fans fed off him",
+      "Rivalry games — the theatrical warfare was at its best against strong opponents"
+    ],
+    "cold_triggers": [
+      "World Series losses — 0-3 in the Fall Classic broke something in the team's confidence",
+      "Aging roster — after 1909, the magic faded and Jennings couldn't find it again",
+      "Internal discord from Cobb favoritism — the dual standard eroded trust over time",
+      "Physical/mental toll — the accumulation of injuries and stress led to breakdown"
+    ],
+    "pressure_response": "MAGNIFICENT IN THE REGULAR SEASON, DISAPPOINTING IN OCTOBER. Three straight pennants — that's extraordinary regular-season pressure management. But 0-3 in World Series (0-12 in WS games over 3 years) suggests the theatrical intensity didn't translate to the ultimate stage. In ILB: Jennings provides +2 Intensity during regular-season play, but -1 Clutch in championship games. His teams peak too early. The show is amazing; the finale falls flat."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Ee-Yah!",
+      "type": "Game Action",
+      "text": "Your manager erupts from the coaching box with his trademark war cry. All offensive players gain +1 Contact this game. Opposing pitcher has 15% chance of 'Rattled' (-1 Control). But there's a 10% chance the umpire ejects your manager for excessive noise.",
+      "origin": "Jennings's 'Ee-Yah!' became so famous that Detroit fans shouted it in unison, U.S. Marines adopted it as a battle cry in WWI, and it was parodied in vaudeville. He was suspended for using a tin whistle variation in 1907."
+    },
+    {
+      "title": "Let Cobb Be Cobb",
+      "type": "Action",
+      "text": "Your manager gives your best player total freedom. Choose your highest-OVR player — they gain +2 to their highest stat permanently. But all other players lose -1 Harmony. 'Do what you think is best and I'll back you up.'",
+      "origin": "Jennings told Ty Cobb: 'There isn't anything about baseball I can teach you. Do as you please. Use your own judgment. I'll back you up.' Cobb won 12 batting titles in 13 years under Jennings."
+    },
+    {
+      "title": "The Rubber Snake Gambit",
+      "type": "Game Action",
+      "text": "Your manager deploys psychological warfare against an opposing star. Choose one opposing player — they lose -2 to their highest stat for this game. 'Hey, Rube, look at this!'",
+      "origin": "Jennings bought rubber snakes and jack-in-the-boxes to distract the eccentric Rube Waddell. He even brought dogs into the dugout because Waddell loved animals. (It didn't always work — Waddell won 7-1 with the dogs present.)"
+    },
+    {
+      "title": "The Player Strike",
+      "type": "Drama",
+      "text": "Your star player assaults an opponent/fan and is suspended. The rest of your team goes on strike in solidarity. You must field a team of amateurs for one game (all stats become 3). If you survive, +3 Team Fit permanently. The gang sticks together.",
+      "origin": "In 1912, Cobb attacked a fan in the stands who had been heckling him. When Cobb was suspended, the entire Tigers team went on strike. Jennings had to field amateurs and lost to the A's 24-2."
+    },
+    {
+      "title": "Breaker Boy to Pennant",
+      "type": "Action",
+      "text": "Your manager's working-class roots inspire the team. All players with 'Grit' or 'Working-Class' traits gain +1 to their lowest stat permanently. The man who broke coal at 12 doesn't break under pressure.",
+      "origin": "Jennings was the 9th of 12 children in a coal mining family. He was a breaker boy at age 12, earning 90 cents a day. He went from the mines to Cornell Law School to the Hall of Fame."
+    },
+    {
+      "title": "The Nervous Breakdown",
+      "type": "Drama",
+      "text": "After years of intensity, your manager's health collapses. He is removed from the game for 3 games. When he returns, all Intensity bonuses are permanently reduced by 2. But all players gain +1 Loyalty — they saw what this cost him.",
+      "origin": "In 1925, while coaching under McGraw with the Giants, Jennings suffered a nervous breakdown. 287 hit-by-pitches, brain damage from Rusie's fastball, a dive into an empty pool, and 14 years of managing Cobb had taken their toll."
+    },
+    {
+      "title": "Three Pennants and No Crown",
+      "type": "Drama",
+      "text": "Your team wins 3 consecutive pennants but loses the championship each time. After the 3rd loss, all players lose -1 Clutch permanently. But +2 Intensity — the hunger to finally win becomes unbearable.",
+      "origin": "Jennings's Tigers won the AL pennant in 1907, 1908, and 1909. They lost the World Series each time — to the Cubs (twice) and the Pirates. They never returned to the Fall Classic under Jennings."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Red-headed Irish face with freckles and an infectious, boyish grin. 5'8\" 165 lbs — compact and wiry. The face is open, joyful, alive — umpire Tim Hurst called it 'the grin that echoed.' But look closer: there are scars, the signs of 287 hit-by-pitches, and something haunted behind the bright eyes. A man who smiled to survive.",
+    "attire": "Detroit Tigers uniform, 1907 era. In the iconic coaching box pose: arms spread wide, fists balled, right leg raised high, mouth open mid-'Ee-Yah!' Grass stains on the knees from plucking grass bare. Possibly holding a tin whistle or rubber snake in one hand. Pure kinetic energy frozen in a portrait.",
+    "mood": "Exuberant intensity. The card should radiate energy — you should almost hear the 'Ee-Yah!' when you look at it. But there should be a shadow behind the brightness. The toll is visible if you look for it. Joy and damage coexisting in one frame.",
+    "style": "Warm sepia with bright orange-red highlights — the Authoritarian palette shifted toward Jennings's fiery hair and energetic personality. Bennett Park in Detroit suggested in the background, with a crowd visible, mouths open shouting 'Ee-Yah!' Border should feel dynamic — slightly tilted, as if vibrating with energy. Tiger stripe motifs in the corner details.",
+    "reference": "Where McGraw's authoritarian card is Napoleon — cold, absolute power — Jennings's authoritarian card is a carnival barker who happens to be a genius. The energy is the authority. The card should feel like a firecracker: bright, loud, thrilling, and slightly dangerous. A T206 card that's been through a championship parade and a coal mine."
+  }
+}

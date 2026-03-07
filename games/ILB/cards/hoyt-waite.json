@@ -1,0 +1,231 @@
+{
+  "card_type": "player",
+  "name": "Waite Hoyt",
+  "nickname": "Schoolboy",
+  "year": 1927,
+  "team": "New York Yankees",
+  "league": "American League",
+  "era": "1920s",
+  "ilb_team": "Bashers NL1920",
+  "position": "SP",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'11\"",
+  "weight": "180 lbs",
+  "born": "September 9, 1899 — Brooklyn, NY (Flatbush)",
+  "died": "August 25, 1984 — Cincinnati, OH (age 84)",
+  "hof": "Class of 1969 (Veterans Committee). Never exceeded 20% on BBWAA ballot. 16 ballots without election.",
+
+  "real_stats": {
+    "season": 1927,
+    "wins": 22,
+    "losses": 7,
+    "earned_run_avg": "2.63",
+    "games": 36,
+    "games_started": 32,
+    "complete_games": 23,
+    "shutouts": 3,
+    "innings_pitched": "256.1",
+    "strikeouts": 86,
+    "walks": 54,
+    "whip": "1.155",
+    "win_pct": ".759",
+    "k_per_9": "3.0",
+    "bb_per_9": "1.90",
+    "war": 5.8,
+    "career_wins": 237,
+    "career_losses": 182,
+    "career_era": "3.59",
+    "career_ip": "3,762.1",
+    "career_k": 1206,
+    "career_cg": 226,
+    "career_sho": 26,
+    "career_war": 25.6,
+    "ws_record": "6-4",
+    "ws_era": "1.83",
+    "ws_ip": "83.2",
+    "ws_appearances": 12
+  },
+
+  "ilb_stats": {
+    "ovr": 7,
+    "stf": 2,
+    "ctl": 3,
+    "sta": 3,
+    "def": 0,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "stf": "ERA 2.63 in 1927 (led AL) places him in tier 2 (2.50-2.99). However, K/9 of only 3.0 is far below the 6.0 bonus threshold. Hoyt was 'deceptively hard' — he compared his velocity to Tom Seaver's — but said 'I never struck anybody out.' He threw a fastball, palm ball, curveball (which he admitted 'wasn't too good'), and later a slider. He relied on control, guile, and movement rather than raw dominance. Rating of 2.",
+    "ctl": "BB/9 of 1.90 in 1927 — among the five lowest in the AL. Career BB/9 of 2.4. WHIP of 1.155 in 1927. Hoyt rarely walked anyone and lived on pinpoint location. He appeared 'almost casual on the mound, never creating the impression that he was bearing down.' That ease came from command. Rating of 3 (maximum).",
+    "sta": "256.1 IP in 1927 with 23 complete games (3rd in AL). Career total: 3,762.1 IP, 226 CG in 21 seasons. Averaged 253 IP/year over his 8-year Yankee peak (1921-28). Also worked extensively out of the bullpen — he started ~30 games/year and relieved in another dozen. A true workhorse. 250-299 IP → tier 3. Rating of 3.",
+    "def": "Career fielding percentage of .966, which was 9 points above league average for pitchers. Good but not extraordinary. No Gold Gloves (pre-award era). No notable defensive reputation. Rating of 0.",
+    "clu": "One of the greatest postseason pitchers in pre-modern history. WS career: 6-4, 1.83 ERA, 83.2 IP, 12 games. In the 1921 WS: pitched 27 innings without allowing a single earned run (still went 2-1 because the Giants scored unearned runs). At retirement, held the record for most WS wins (6) and appearances (12). Called a 'money pitcher' by The Sporting News. In 1928 WS: 2 complete-game wins over the Cardinals. Rating of 3 (maximum)."
+  },
+
+  "personality": {
+    "leadership_style": "The Aristocrat. Sportswriter Will Wedge dubbed Hoyt 'the Aristocrat of Baseball' — he carried himself with a performer's poise and a Brooklyn intellectual's wit. Not a rah-rah leader but a commanding presence who demanded professionalism. He absorbed Miller Huggins' philosophy that the bench was for baseball talk only. His leadership came through eloquence and example, not volume.",
+    "temperament": "Complex and contradictory. Hot-headed in his youth — sportswriter Joe Vila said he suffered from 'overconfidence' and 'swollen pride' and needed to 'control his temper.' But by 1927, after a 'personal inventory,' he'd matured into an unflappable mound presence. Off the field, he was restless, mercurial — a funeral director by day, a vaudeville performer by night, an alcoholic who bottomed out in a Cincinnati bar before becoming one of the first public members of Alcoholics Anonymous.",
+    "work_ethic": "Relentless self-improver. Signed at 15, the youngest player ever to sign a pro contract at the time. Took beatings in the minors where players cleared rocks from fields and locker rooms lacked showers. His 1927 breakthrough came after a deliberate 'personal inventory' — he accepted advice from Huggins and rededicated himself. Played semi-pro basketball in the offseason to stay fit. Continued pitching effectively until age 38.",
+    "lifestyle": "The most fascinating figure on the Bashers roster. A true Renaissance man of the Roaring Twenties. Vaudeville performer alongside Jack Benny, Jimmy Durante, George Burns, and Mae West. Funeral director ('The Merry Mortician') who once left a corpse in his car trunk while pitching at Yankee Stadium. Accomplished oil painter. Published author. Radio broadcaster for 24 years. Drank champagne with Al Capone. Went to a drag show with J. Edgar Hoover. One locker room brawl with Babe Ruth. Married three times.",
+    "era_adaptability": "HIGH. Hoyt's elite control, deceptive velocity, and ability to pitch in any role (starter, reliever, swingman) would translate well to any era. His K/9 would be a problem in modern baseball, but his BB/9 would be elite. He'd profile as a crafty, contact-management pitcher — a Kyle Hendricks or Dallas Keuchel type. His postseason poise would be invaluable.",
+    "clubhouse_impact": "THE STORYTELLER. Hoyt was baseball's greatest raconteur. When he became the Reds' broadcaster, 'audiences would pray for rain so that Hoyt could tell baseball stories' (Red Barber). He called games exclusively in the past tense because 'as I speak to you, what happened a moment ago is gone.' When Babe Ruth died in 1948, Hoyt spoke impromptu about his friend for two hours on the air. He was the beating heart of the clubhouse — wit, warmth, and whiskey.",
+    "dark_side": "Alcoholism. Hoyt was a severe alcoholic for much of his career and post-career life. He bottomed out in a seedy Cincinnati bar before joining Alcoholics Anonymous — becoming one of the first professional athletes to speak publicly about addiction. At Old-Timers' Day in 1978, he said wistfully that he 'would have won 300 games' if not for alcohol. In ILB terms: Hoyt carries a 'Bottle' trait — he can lose games, relationships, and even his career to drinking unless actively managed."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Aristocrat",
+      "desc": "Dubbed 'Aristocrat of Baseball.' Hoyt elevates the culture of any team. +1 team discipline. -1 chemistry with low-effort teammates."
+    },
+    {
+      "tag": "Schoolboy",
+      "desc": "Signed pro at 15 — the youngest ever at the time. Hoyt adapts quickly to any new situation. Halved adjustment period when traded."
+    },
+    {
+      "tag": "The Merry Mortician",
+      "desc": "Works as a funeral director in the offseason. Immune to intimidation and death threats. +1 composure in hostile environments."
+    },
+    {
+      "tag": "Vaudeville Star",
+      "desc": "Performs with Jack Benny and Mae West. +2 popularity, +1 media handling. Opponents underestimate him as a showman."
+    },
+    {
+      "tag": "The Bottle",
+      "desc": "Alcoholism. Random chance each season of a performance collapse. If triggered, -2 to all stats for 4 weeks. Can be cured by 'Recovery' event card."
+    },
+    {
+      "tag": "Murderers' Row",
+      "desc": "Thrives behind elite offense. +1 to all stats when team scores 5+ runs per game average. 'The secret was to get a job with the Yankees and joyride along on their home runs.'"
+    },
+    {
+      "tag": "The Storyteller",
+      "desc": "Baseball's greatest raconteur. Rain delays and travel days become +1 team morale events. Can convert any teammate's -1 morale to neutral with a story."
+    },
+    {
+      "tag": "Money Pitcher",
+      "desc": "WS ERA 1.83 across 83.2 IP. In elimination/postseason games, +1 STF and +1 CTL. The bigger the stage, the better he pitches."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Appeared 'almost casual on the mound.' His workplace. His stage. 674 career games.",
+      "note_extra": "Source labeled 'Pitcher's Mound' / affinity 'HIGH' — mapped to Practice Field/HIGH as primary on-field performance identity domain. First pitcher card in the set; the mound as Practice Field is the pitcher's equivalent of the batter's box."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "Performed with the biggest names of the 1920s. His baritone voice and timing were professional-grade.",
+      "note_extra": "Source labeled 'Vaudeville Stage / Theater' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH as public performance domain with audience. The vaudeville stage and baseball stadium share the same node: public performance under spotlight."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "24-year career as Reds broadcaster. Called games in past tense. Released two albums of baseball stories.",
+      "note_extra": "Source labeled 'Radio Booth / Media' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH as second post-career public performance domain. Second Media/Spotlight HIGH on this card: vaudeville stage + radio booth, both public-performing spaces with audiences. Double Media/Spotlight HIGH is consistent with Hoyt's identity as performer-in-multiple-registers."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "COMPLEX",
+      "note": "Drank champagne with Al Capone. Loved nightlife. But also where he bottomed out. High reward, high risk.",
+      "note_extra": "Source labeled 'Bar / Nightlife' / affinity 'COMPLEX' — mapped to Hotel/Rest/COMPLEX. The bar/nightlife space is within the Hotel/Rest node's itinerant social domain. COMPLEX is a new affinity tier encoding genuine bidirectional ambivalence: not low preference (LOW), not compulsion (ADDICTION), but genuinely both the best and worst space depending on state. The JSX renders COMPLEX in warmRed (danger/warning). Distinct from Hornsby's racetrack (ADDICTION — compulsive, unidirectional negative) because Hoyt's bar life included genuine pleasure and social vitality alongside the destructive alcoholism."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "MEDIUM",
+      "note": "Apprenticed with his father-in-law. Comfortable with death. Once drove a corpse to Yankee Stadium.",
+      "note_extra": "Source labeled 'Funeral Parlor' / affinity 'MEDIUM' — mapped to Library/Quiet Spot/MEDIUM as private, enclosed, quiet professional workspace. The funeral home is solitary, contemplative, and detached from the public performance world — all Library/Quiet Spot characteristics at moderate attachment."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "MEDIUM",
+      "note": "Accomplished oil painter in retirement. A genuine creative soul.",
+      "note_extra": "Source labeled 'Art Studio' / affinity 'MEDIUM' — mapped to Library/Quiet Spot/MEDIUM as private creative workspace. Second Library/Quiet Spot MEDIUM: the art studio and funeral parlor share the node as private, solitary, focused domains at moderate attachment. Double Library/Quiet Spot MEDIUM on this card."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "LATE CAREER",
+      "note": "Among the first athletes in Alcoholics Anonymous. Sober for his last 45 years. Found peace.",
+      "note_extra": "Source labeled 'Church / AA Meeting' / affinity 'LATE CAREER' — mapped to Library/Quiet Spot/LATE CAREER. The AA meeting and church are private/semi-private spaces of reflection, community, and recovery — Library/Quiet Spot is the correct node. LATE CAREER is a new temporal affinity label: the space became meaningful only in the final 45 years of Hoyt's life, after his recovery. The JSX renders LATE CAREER in coldBlue (calm/resolved). Distinct from HOME(Post-Career) [Heilmann — active post-career public domain] and RETIREMENT [Hargrave — private post-career employment]: LATE CAREER encodes a temporal phase defined by transformation and resolution rather than activity or rest. Third Library/Quiet Spot entry on this card (funeral parlor MEDIUM, art studio MEDIUM, AA meeting LATE CAREER)."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Postseason games — 1.83 career WS ERA, better as stakes rise",
+      "Pitching behind elite offense — 'joyride along on their home runs'",
+      "After personal reckoning — his 1927 'personal inventory' led to his best season",
+      "Big-city spotlight — Brooklyn kid who thrived in New York"
+    ],
+    "cold_triggers": [
+      "Alcohol-fueled spirals — performance collapses when drinking is active",
+      "Ego conflicts with management — clashed with Huggins, McGraw before maturing",
+      "Teams that don't score — his modest stuff gets exposed without run support",
+      "Post-trade decline — went 80-84 after leaving the Yankees"
+    ],
+    "pressure_response": "ELITE IN OCTOBER, FRAGILE IN LIFE. Hoyt's postseason record is extraordinary: 1.83 ERA across 83.2 WS innings, including 27 scoreless innings in the 1921 WS. He held the record for most WS wins (6) and appearances (12) when he retired. The Sporting News called him a 'money pitcher.' But his life off the mound was chaos — vaudeville, funerals, alcoholism, three marriages. In ILB: Hoyt's pressure rating is split. On the mound in October, he's maximum clutch. Off the field, he's a liability unless the team actively manages his darker impulses."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Body in the Trunk",
+      "type": "Drama",
+      "text": "Your pitcher has a side job as a funeral director. On game day, he realizes he forgot to deliver a body — it's still in his car at the stadium. He pitches distracted (-1 CTL for innings 4-6) until a teammate ices the situation. After the game, he drives the body home. No harm done — this time.",
+      "origin": "Hoyt left a corpse in the trunk of his car at Yankee Stadium while pitching an afternoon game. Myles Thomas and the ballboys packed 20 lbs of ice around the body. Hoyt drove it back to New Rochelle after the game."
+    },
+    {
+      "title": "The Personal Inventory",
+      "type": "Action",
+      "text": "A struggling veteran pitcher conducts a 'personal inventory' — accepting coaching advice he'd previously refused. If his ego is checked, +1 to CTL and STF for the rest of the season. If his ego remains unchecked, no change.",
+      "origin": "Before the 1927 season, Hoyt described conducting a 'personal inventory' of his behavior, finally accepting advice from Miller Huggins. The result was his career year: 22-7, 2.63 ERA, AL leader in wins, ERA, and winning percentage."
+    },
+    {
+      "title": "Two Hours for a Friend",
+      "type": "Drama",
+      "text": "A beloved legend dies during the season. Your broadcaster (or player) speaks for two hours on live radio without notes, eulogizing their friend. +3 team morale, +2 fan loyalty. But the speaker is emotionally devastated: -1 to all stats for 2 weeks.",
+      "origin": "On August 16, 1948, Babe Ruth died. After the Reds game that night, Hoyt spoke impromptu about his friend for two hours on the radio. It became one of the most famous broadcasts in baseball history."
+    },
+    {
+      "title": "The Schoolboy Contract",
+      "type": "Action",
+      "text": "A 15-year-old phenom is available to sign. He's raw but electric. If you sign him, he needs 3 seasons of development before becoming useful. But if you don't, he'll sign with your rival and become a Hall of Famer.",
+      "origin": "Hoyt signed with the Giants at 15 years old (with a $5 bonus), becoming the youngest player ever to sign a professional contract at the time. He debuted in the majors at 18."
+    },
+    {
+      "title": "Scared to Death",
+      "type": "Game Action",
+      "text": "Your team's legendary lineup takes batting practice before a World Series game. The opposing team watches in stunned silence. -2 to the opponent's batting confidence for Games 1-2 of the series.",
+      "origin": "Hoyt: 'We took the winner's share of the 1927 World Series by practically scaring the opposition to death.' The Pirates watched the Yankees take BP and reportedly lost their nerve before a pitch was thrown. The Yankees swept 4-0."
+    },
+    {
+      "title": "The Merry Mortician's Night Out",
+      "type": "Drama",
+      "text": "Your pitcher works a funeral by day and performs vaudeville by night. He arrives at the stadium exhausted but energized by the crowd. Roll: 60% chance of +1 STF (adrenaline), 40% chance of -1 STA (fatigue).",
+      "origin": "Hoyt was dubbed 'The Merry Mortician' by sportswriter John Kieran. By day he ran his father-in-law's funeral home; by night he performed vaudeville alongside Jimmy Durante, Jack Benny, and Mae West."
+    },
+    {
+      "title": "27 Scoreless Innings",
+      "type": "Game Action",
+      "text": "Your pitcher throws 27 innings in the World Series without allowing a single earned run. Incredibly, he goes only 2-1 because his defense commits errors behind him. +3 reputation for clutch pitching, but your pitcher gains the 'Cursed by Errors' trait — defensive mistakes haunt him in October.",
+      "origin": "In the 1921 World Series against the Giants, Hoyt pitched 27 innings without allowing an earned run but went only 2-1. The Giants won Game 8 (best-of-9 format) on an error, 1-0."
+    },
+    {
+      "title": "The Bottle Breaks",
+      "type": "Drama",
+      "text": "Your star player's alcoholism reaches a crisis point. He bottoms out in a bar. Two paths: (A) He enters recovery — loses 1 full season but gains 'Sober' trait (+1 to all stats permanently, +2 clubhouse). (B) He refuses help — 25% chance of career collapse each remaining season.",
+      "origin": "Hoyt was a severe alcoholic who bottomed out in a Cincinnati bar. He joined Alcoholics Anonymous and was sober for 45 years. At Old-Timers' Day 1978, he said he 'would have won 300 games' if not for alcohol."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Handsome, sharp-featured Brooklyn kid. 5'11\" 180 lbs — athletic, lean build. Dark hair, piercing intelligent eyes. By 1927 (age 27), he radiates confidence — the calm, almost casual poise that observers described. A slight smirk that says he knows something you don't. The face of a vaudevillian who happens to be the ace of the greatest team ever assembled.",
+    "attire": "New York Yankees 1927 road grays with the interlocking 'NY' on the chest. Classic pinstriped flannel (if home whites). Cap pulled slightly back. Mid-delivery — the smooth, effortless motion that hid his deceptive velocity. No number (pre-numbering; he'd later be the first Yankee to wear #12 in 1929).",
+    "mood": "Elegant nonchalance. The 'Aristocrat of Baseball.' He should look like he's barely trying — that was his whole thing on the mound. A performer's confidence, like a jazz musician who makes the difficult look easy. Cool, assured, with a hint of mischief.",
+    "style": "Rich sepia with golden-hour light. Yankee Stadium in the background — the original facade, the 1920s cathedral. The card should feel glamorous and urbane — this is Roaring Twenties New York, prohibition champagne and vaudeville spotlights. More Great Gatsby than dusty diamond.",
+    "reference": "Think 1920s Art Deco elegance. The portrait should capture Hoyt's paradox: a Brooklyn funeral director who performed with Mae West and pitched scoreless innings in the World Series. He's the most colorful character on a team of legends — and the card should reflect that complexity."
+  }
+}
