@@ -1,0 +1,214 @@
+{
+  "card_type": "player",
+  "name": "Carl Mays",
+  "nickname": "Sub",
+  "year": 1921,
+  "team": "New York Yankees",
+  "era": "1920s",
+  "ilb_team": "Bashers AL1920",
+  "position": "SP",
+  "bats": "L",
+  "throws": "R",
+  "height": "5'11\"",
+  "weight": "195 lbs",
+  "born": "November 12, 1891 — Liberty, Kentucky",
+  "died": "April 4, 1971 — El Cajon, California (age 79)",
+  "hof": "NOT INDUCTED. 207-126, .623 W%, 2.92 ERA, 29 shutouts, 5× 20-win seasons, 4 WS champion teams. Bill James: 'Perhaps the only pitcher from his era to be fully qualified for the Hall of Fame but not to have been voted in.' The Chapman incident, personality, and 1921 WS fix rumors kept him out. The door to Cooperstown was closed by a pitch.",
+
+  "real_stats": {
+    "season": 1921,
+    "wins": 27,
+    "losses": 9,
+    "era": "3.05",
+    "games": 49,
+    "games_started": 38,
+    "complete_games": 30,
+    "shutouts": 7,
+    "innings_pitched": "336.2",
+    "strikeouts": 70,
+    "walks": 76,
+    "war": 7.6,
+    "win_pct": ".750",
+    "season_1920": "26-11, 2.65 ERA, 26 CG, 312 IP — the season Chapman died",
+    "career_wins": 207,
+    "career_losses": 126,
+    "career_era": "2.92",
+    "career_cg": 231,
+    "career_shutouts": 29,
+    "career_ip": "3,021.1",
+    "career_win_pct": ".623",
+    "ws_record": "3 W, 4 L (pitched in 3 WS)",
+    "twenty_win_seasons": 5,
+    "batting_avg": ".268 (career, as pitcher)"
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "stf": 4,
+    "ctl": 2,
+    "sta": 4,
+    "def": 1,
+    "clu": 1
+  },
+
+  "stat_justification": {
+    "stf": "Carl Mays threw with a submarine delivery so pronounced that he sometimes scraped his knuckles on the mound. Baseball Magazine (1918): 'He shoots the ball in at the batter at such unexpected angles that his delivery is hard to find.' The ball sailed and dipped unpredictably. Ty Cobb: 'He was a submariner with a delivery that started around his knees, resulting in curious breaks of the ball and a tendency for it to sail toward a batter's skull.' He was not a strikeout pitcher (70 K in 336 IP), but the movement was devastating — batters couldn't track the ball. He led the AL in HBP in 1917 because the pitch moved so much. On August 16, 1920, the ball moved into Ray Chapman's temple. Chapman never moved. He probably never saw it. Rating of 4.",
+    "ctl": "Mays walked 76 batters in 336.2 IP in 1921 — a BB/9 of 2.03, which is respectable but not elite. His submarine delivery was inherently unpredictable — the ball sailed inside frequently. He led the AL in hit batsmen in 1917 and was known throughout his career as a pitcher who threw inside aggressively. The question with Mays was never whether he could throw strikes — he could — but whether the pitch would stay where he intended. The submarine had a mind of its own. Rating of 2.",
+    "sta": "336.2 innings pitched in 1921 — led the AL. 30 complete games — led the AL. 49 games pitched — led the AL. Career: 3,021.1 IP, 231 CG. On August 30, 1918, he threw two complete game victories on the same day against the Philadelphia Athletics (12-0 and 4-1) — the only Red Sox pitcher to ever accomplish this. He was a workhorse who could pitch every day if needed. Rating of 4.",
+    "def": "Mays was described as 'an exceptional fielder' and was used as a pinch-hitter throughout his career, posting a .268 batting average — extraordinary for a pitcher. He was a complete baseball player whose value extended beyond pitching. Rating of 1.",
+    "clu": "Mays was on four World Series champion teams (1915, 1916, 1918 Red Sox; 1923 Yankees). He was the first Yankee pitcher to start a World Series game — and he threw a shutout (Game 1, 1921 WS vs Giants). In the 1916 WS, he recorded a save by getting the final out with the bases loaded and the tying run on third. But his overall WS record is 3-4, and persistent (unproven) rumors that he threw games in the 1921 WS have shadowed his October legacy. Rating of 1."
+  },
+
+  "personality": {
+    "leadership_style": "ANTI-LEADERSHIP. Mays was the opposite of a clubhouse leader. He yelled at teammates who made errors. He fought them physically. He walked off the mound mid-game when he felt the Red Sox weren't trying, refused to return, and demanded a trade. He was not a leader — he was a force that teammates endured because he won 27 games a year. His 'leadership' was the leadership of a weapon: you don't follow it, you aim it and get out of the way.",
+    "temperament": "HOSTILE ISOLATION. F.C. Lane: 'A strange, cynical figure who aroused more ill will, more positive resentment than any other ballplayer on record.' Teammate Bob Shawkey, decades later: 'A stinker.' Mays had no friends in baseball. His father, a Methodist minister, died when Carl was 12. He 'internalized his grief, settling into a surly persona with few if any close friends.' This was a man built from loss and hardened by it — not sealed like Rice, but ARMORED. The armor repelled everyone.",
+    "work_ethic": "RELENTLESS. Whatever else Mays was, he was not lazy. 27 wins. 336 innings. 30 complete games. Two complete game victories in one day. He worked harder than almost anyone on any staff. The work was the only thing no one could criticize. 'I have long since ceased to care what most people think about me. I have a few good friends I can depend on and that is all I need and all I want. In the meantime, I have a wife and a family to support.'",
+    "lifestyle": "Minister's son from Kentucky to Oklahoma to Portland to New York to exile. Mays's life followed the arc of a man who was never welcome anywhere for long. Red Sox — walked off, forced a trade. Yankees — won 27 games, then the Chapman death, then the fix rumors. Reds, Giants — diminished roles. After baseball, he scouted for the Cleveland Indians — Chapman's team. He worked with kids, teaching them 'safety in baseball.' He returned to rural Oregon each offseason with hip waders stuffed with baseballs for local children. There was gentleness somewhere inside the armor.",
+    "era_adaptability": "HIGH. The submarine delivery would be devastating in modern baseball — there are very few true submariners, and the unfamiliarity factor alone would make Mays effective. His durability (336 IP) would obviously not translate to modern usage patterns, but his pitch characteristics — extreme movement, deception, ground balls — are exactly what modern teams value. He'd be a high-leverage reliever or a quirky starter who limited damage through movement.",
+    "clubhouse_impact": "NEGATIVE. Mays made teams worse in chemistry while making them better in the standings. He won games and lost friends. In ILB, Mays provides -2 to team morale while providing +2 to team wins. The tradeoff is the entire card: do you want to win, or do you want to be happy? Mays forces the question.",
+    "dark_side": "AUGUST 16, 1920. There is no avoiding it. Carl Mays threw the pitch that killed Ray Chapman — the only on-field death in MLB history. The pitch was a submarine fastball that sailed inside on a dark, overcast afternoon. Chapman never moved. The sound was so loud Mays thought it hit the bat. He fielded the ball and threw to first. Chapman died the next morning. Mays claimed the ball was wet and scuffed. He said he never intended to hit Chapman. Most witnesses believe Chapman simply never saw the ball. Mays: 'It was the most regrettable incident of my career, and I would give anything if I could undo what has happened.' He returned to the mound seven days later and threw a shutout. He won 27 games the next year. He was never forgiven. In ILB: 'The Death Pitch' — this is not a chemistry trait. It is a PERMANENT CONDITION. When Mays pitches, there is a non-zero chance of catastrophic HBP. The card carries weight that no other card carries. It is the heaviest card in ILB."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Submarine",
+      "desc": "Delivery so low his knuckles scraped the mound. 'Like a cross between an octopus and a bowler.' In ILB, Mays's pitches have +2 to movement but -1 to control. The ball dips and sails in ways other pitches don't. The unpredictability is the weapon and the danger."
+    },
+    {
+      "tag": "The Death Pitch",
+      "desc": "August 16, 1920: The pitch that killed Ray Chapman. In ILB, when Mays pitches inside, there is a small but real chance of catastrophic HBP. Roll d100 on every HBP: on 1, the batter is out for the season. This mechanic exists to honor the weight of what happened. It cannot be removed."
+    },
+    {
+      "tag": "Chapman's Shadow",
+      "desc": "The death follows Mays everywhere. In ILB, opposing batters who face Mays have +1 to fear-based K rate BUT -1 to comfort at the plate. Mays is more effective AND more dangerous simultaneously. Teams must decide if the wins are worth the risk."
+    },
+    {
+      "tag": "The Exile",
+      "desc": "HOF-caliber stats. No plaque. .623 W%, 207 W, 2.92 ERA, 5× 20-win seasons. In ILB, Mays's OVR cannot exceed 8 despite stat-qualifying for 9+. The exile is permanent. The door is closed."
+    },
+    {
+      "tag": "The Walkoff",
+      "desc": "In 1919, Mays walked off the mound mid-game with the Red Sox, refused to return, and demanded a trade. In ILB, if team morale drops below threshold, Mays may refuse to pitch (d6: on 1, he walks off). He can only be returned to the rotation through a trade or managerial confrontation."
+    },
+    {
+      "tag": "Coveleski's Opponent",
+      "desc": "August 16, 1920: Mays vs Coveleski. Both 18-8/18-9. The two best pitchers in the AL. The game in which Chapman died. In ILB, when Mays and Coveleski are matched against each other, the game carries +3 narrative weight. Something will happen. Something always happens."
+    },
+    {
+      "tag": "Four Rings, No Plaque",
+      "desc": "WS champion with 1915, 1916, 1918 Red Sox and 1923 Yankees. First Yankee to start a WS game (shutout). But 3-4 WS record and fix rumors. In ILB, Mays's WS ring count is highest in the Bashers but his reputation is lowest."
+    },
+    {
+      "tag": "The Minister's Son",
+      "desc": "Father was a Methodist minister who died when Carl was 12. 'Internalized his grief.' After baseball, Mays taught kids pitching and safety. Returned to Oregon with baseballs for children. In ILB, post-career Mays provides +1 to youth development. There was gentleness inside the armor."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Media/Spotlight",
+      "affinity": "MAXIMUM / HAUNTED",
+      "note": "Where he won 27 games in 1921. Where Chapman died on August 16, 1920. The best and worst moments of his career happened in the same building.",
+      "note_extra": "Source labeled 'The Polo Grounds, New York' / affinity 'MAXIMUM / HAUNTED' — mapped to Media/Spotlight as the home ballpark identity-stage domain. In 1921 the Yankees still shared the Polo Grounds as their home field (Yankee Stadium did not open until 1923), making this Mays's actual home stage. The compound affinity MAXIMUM / HAUNTED is the first in the set to hold two irreconcilable valences simultaneously: MAXIMUM encodes the peak craft actualization (27 wins, first Yankee WS starter) while HAUNTED encodes the permanent moral wound (Chapman's death, August 16, 1920) in the same physical space. Preserved exactly from source. Distinct from MIXED (Lindstrom — contradictory World Series outcomes) because MAXIMUM/HAUNTED encodes not contradictory results but co-present peak-achievement and irreversible trauma occupying the same location."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "MAXIMUM",
+      "note": "3,021 career IP. 231 CG. The mound was the only place Mays was fully himself — submarine delivery, knuckles on the dirt, ball sailing unpredictably toward the plate.",
+      "note_extra": "Source labeled 'The Mound' / affinity 'MAXIMUM' — mapped to Practice Field as the pitcher's primary craft-identity domain. The Mound as the totalized self-domain: 'the only place Mays was fully himself.' Second MAXIMUM affinity in the set; first for a pitcher (Magee's Batter's Box was SUPREME, the position-player equivalent of the same register). MAXIMUM and SUPREME occupy the same conceptual tier — absolute peak of craft identity — expressed in position-specific language. The mound as the single domain where Mays's entire armored, hostile, relentless identity collapsed into pure function."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "COMPLICATED",
+      "note": "Where he became a star (1915-1919). Where he walked off the mound and demanded a trade. Where he threw two CG victories in one day.",
+      "note_extra": "Source labeled 'Fenway Park, Boston' / affinity 'COMPLICATED' — mapped to Media/Spotlight as the second ballpark domain. COMPLICATED is a new affinity in the set. Distinct from MIXED (contradictory outcomes in a single event — Lindstrom's World Series), COMPLICATED encodes a relationship to a place that is genuinely ambivalent across time: the site of star-making (1915-1919 ace, two CG in one day), also the site of the defining rupture (the walkoff, the forced trade). Neither positive nor negative, but both simultaneously and unresolvably. COMPLICATED is a personality-relationship affinity — the place holds Mays's full contradictory self without resolving the contradiction. Two Media/Spotlight entries on this card (MAXIMUM/HAUNTED at the Polo Grounds and COMPLICATED at Fenway) — first card with two ballpark entries at entirely non-standard affinities."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Where he learned to play baseball after his father died. Where a cousin taught him the game. Museum exhibit in his honor at The Chisholm.",
+      "note_extra": "Source labeled 'Kingfisher, Oklahoma' / affinity 'ORIGIN' — mapped to Community Events as the hometown-formative community domain. ORIGIN as a preferred_locations affinity is new to the set; it appeared previously only as an action_card type (Leever's 'Origin' action type). As an affinity, ORIGIN marks the foundational moment of the player's baseball genesis: father dead at 12, cousin teaching the game, the poverty and loss that built the armor. Stronger than Community Events/MEDIUM (background origin community) — ORIGIN encodes the specific causal event (father's death, cousin's teaching) rather than mere hometown rootedness. The Chisholm museum exhibit grounds this as an ongoing community recognition even in death."
+    },
+    {
+      "location": "Cooperstown (Absent)",
+      "affinity": "EXILE",
+      "note": "He never went. .623 W%, 207 wins, 2.92 ERA. The door is closed. 'I have long since ceased to care what most people think about me.'",
+      "note_extra": "Source labeled 'Cooperstown (Absent)' / affinity 'EXILE' — preserved as a named abstract institutional domain consistent with the set's pattern of encoding World Series / October / Postseason as non-ILB-node abstract locations. Cooperstown (Absent) is the first institutional-exclusion abstract domain in the set — an achievement-institution that should have included this player and permanently did not. The parenthetical '(Absent)' in the source label is itself a structural statement: the absence is part of the name. EXILE is the strongest negative institutional affinity in the set — stronger than ABSENT (proximate deprivation of a specific opportunity), stronger than DENIED (active withdrawal of a specific promise). EXILE is permanent, structural, and irrevocable. The 'Ceased to care' quote in the note encodes Mays's own response to the EXILE: not grief, not anger, but armor."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "The submarine working — when the ball is dipping and sailing, Mays is untouchable. 27 wins in a season.",
+      "Hostility — Mays pitched better when he was angry, which was most of the time.",
+      "Isolation — he performed best when he didn't care what anyone thought. Which was always.",
+      "Proving them wrong — every year after 1920 was a year of proving the world wrong. He won 100 more games after Chapman."
+    ],
+    "cold_triggers": [
+      "Teammates failing — Mays's breaking point was always teammates' errors. He'd rage, then collapse.",
+      "The fix suspicion — the shadow of the 1921 WS rumors undercut his October credibility.",
+      "Sympathy-seeking — Mays was at his worst when he tried to explain himself. His words always made things worse.",
+      "Late career decline — after leaving the Yankees, his effectiveness dropped sharply. The exile was physical too."
+    ],
+    "pressure_response": "COMPLICATED AND CONTRADICTORY. Mays threw a WS shutout (Game 1, 1921) and went 3-4 overall in the WS. He won 27 games in the year after killing a man. He returned to the mound seven days after Chapman's death and threw a shutout. He performed under pressure — but the pressure itself was always moral, not athletic. The question with Mays was never 'can he pitch?' It was 'should he?' CLU = 1 reflects the ambiguity."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "August Sixteenth",
+      "type": "Tragedy / Core Event",
+      "text": "August 16, 1920. Dark, overcast afternoon. The Polo Grounds. Your pitcher is Carl Mays, 18-8. The opposing pitcher is Stan Coveleski, 18-9. Two of the best in the American League. Ray Chapman leads off the fifth inning. Your pitcher delivers a submarine fastball, rising inside. The sound is so loud your pitcher thinks it hit the bat. He fields the ball and throws to first. Chapman is bleeding from his left ear. The umpire screams for a doctor. Chapman dies the next morning. He is the only player in Major League Baseball history to die from an on-field injury. Your pitcher claims the ball was wet and scuffed. Most witnesses say Chapman never moved. He never saw the ball. Your pitcher will win 100 more games after this day. He will never be forgiven.",
+      "origin": "The death of Ray Chapman, August 16, 1920. Mays vs Coveleski. Chapman died the following morning at St. Lawrence Hospital."
+    },
+    {
+      "title": "The Submarine",
+      "type": "Mechanic",
+      "text": "'He shoots the ball in at the batter at such unexpected angles that his delivery is hard to find, generally, until along about 5 o'clock, when the hitters get accustomed to it — and when the game is about over.' Your pitcher throws from so low that his knuckles scrape the dirt on the mound. He looks like a cross between an octopus and a bowler. The ball rises from below the batter's knees and dips unpredictably as it crosses the plate. Nobody can read it. Nobody can dodge it. Nobody can hit it. Sometimes nobody can survive it.",
+      "origin": "Baseball Magazine (1918) description of Mays's submarine delivery."
+    },
+    {
+      "title": "Twenty-Seven",
+      "type": "Season Arc",
+      "text": "The year after he killed a man, your pitcher wins twenty-seven games. He leads the American League in wins, innings pitched, games pitched, and winning percentage. He is the ace of the New York Yankees. He starts Game 1 of the World Series — the first Yankee pitcher to start a World Series game — and throws a shutout. He is the best pitcher in the league. Nobody wants to be in the same room with him.",
+      "origin": "1921: Mays went 27-9, led AL in W/IP/G/W%. First Yankee WS starter — threw a shutout in Game 1 vs Giants."
+    },
+    {
+      "title": "The Walkoff",
+      "type": "Character",
+      "text": "1919. Your pitcher is 5-11 with the Boston Red Sox. He believes his teammates are not trying. He walks off the mound in the middle of a game. He leaves the ballpark. He refuses to return. He demands to be traded. The Red Sox trade him to the New York Yankees. He goes 9-3 the rest of the season. He goes 26-11 the next year. He goes 27-9 the year after that. He was right about the Red Sox. He was wrong about everything else.",
+      "origin": "Mays's walkoff in 1919 — left the Red Sox mid-game, refused to return, forced trade to Yankees."
+    },
+    {
+      "title": "The Minister's Son",
+      "type": "Origin",
+      "text": "Your pitcher's father was a Methodist minister in Liberty, Kentucky. He died when your pitcher was twelve. Your pitcher internalized the grief. He settled into a surly persona with few if any close friends. He carried the loss into every clubhouse, every mound, every confrontation. The father who preached forgiveness raised a son the world would never forgive.",
+      "origin": "Mays's father, William Henry Mays, was a Methodist minister. He died when Carl was 12. The family moved to Oklahoma."
+    },
+    {
+      "title": "The Scar",
+      "type": "Rivalry",
+      "text": "Ty Cobb and your pitcher have a running battle. Your pitcher throws inside. Cobb charges the mound. Cobb spikes your pitcher badly — the wound requires many stitches. For the rest of his life, your pitcher shows off the scar, almost as a badge of honor. Perhaps to prove he could take as good as he could give. 'I will say that Carl Mays and I never got along,' Cobb says later. 'I dodged a lot of them from him which gave me dark suspicions.'",
+      "origin": "Cobb's spiking of Mays during their feud. Mays showed the scar for the rest of his life."
+    },
+    {
+      "title": "The Baseballs in the Waders",
+      "type": "Legacy / Redemption",
+      "text": "After baseball, your pitcher returns to rural Oregon each offseason with his hip waders stuffed with baseballs. The baseballs find their way into the hands of children. He works with kids. He teaches them pitching. He teaches them safety. 'I love working with kids, especially the pitchers. I try to teach them everything. But the big thing I do is teach them safety in baseball.' The man who threw the pitch that killed a man spends his remaining years teaching children how to be safe on a baseball field.",
+      "origin": "Mays's post-career work with youth baseball. He returned to Oregon with baseballs for local children and coached kids, emphasizing safety."
+    },
+    {
+      "title": "Ceased to Care",
+      "type": "Character / Epitaph",
+      "text": "'I have long since ceased to care what most people think about me. I have a few good friends I can depend on and that is all I need and all I want. In the meantime, I have a wife and a family to support.' Your pitcher said this after Chapman died. He meant it. He won 100 more games. He was never inducted into the Hall of Fame. He died in 1971. He is buried in Portland, Oregon. The world still has opinions about Carl Mays. Carl Mays ceased to care.",
+      "origin": "Mays's statement to the press after Chapman's death. He was 28 years old."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'11\" 195 lbs — solid, thick, not tall. A HARD face. Not cruel — CLOSED. Dark eyes that give nothing away. A jaw set against the world. This is the face of a man who was disliked by everyone and stopped caring decades ago. The face should suggest someone who has been judged and has judged back. There is no warmth in this face. There might be sorrow, deeply buried, but if it's there, it's armored over.",
+    "attire": "New York Yankees 1921 pinstripes. In the submarine delivery — arm sweeping up from below the knees, knuckles grazing the dirt, ball leaving the hand at an impossible angle. The body should be contorted, unnatural, serpentine. This is not a normal pitching motion. This is something alien. Or: on the mound, standing, staring at the batter with no expression. The uniform should be clean — Mays was a professional. The dirt is on his knuckles, not his clothes.",
+    "mood": "DARK WEIGHT. This is the heaviest card in ILB. Not sad like Rice. Not worried like Coveleski. HEAVY — the weight of having killed a man with a baseball and continuing to pitch for eleven more years. The mood is the moment after the crack of the ball against the skull — the silence before anyone understands what has happened. The mood is a man who threw a shutout seven days later. The mood is armor.",
+    "style": "Full color — Bashers era — but DARKEST in the set. Darker than Coveleski's coal. Deep blacks, charcoal, storm-gray. The ONLY card where the background suggests threat — not violence, but CONSEQUENCE. The Polo Grounds on an overcast afternoon. The light should be failing — late afternoon, dark clouds, the ball impossible to see. The border should be BLACK — pure, unrelieved, the color of the headline the next morning. This is not a card you display with pride. This is a card you hold with both hands because of the weight.",
+    "reference": "Ruth is the solar system. Gehrig is the axis. Coveleski is the mineshaft. Rice is the sealed envelope. Mays is THE BLACK PITCH — the darkest object in the Bashers constellation. The one that carries the most gravity. The one that changes everything it touches. Chapman is in the Muggers set. Sewell replaced Chapman and is in the Bashers. Burns gave Sewell the bat. Coveleski was pitching for Cleveland that day. Mays is the event that connects them all — the pitch that killed a man and birthed a decade. The card should feel like holding something that could break."
+  }
+}

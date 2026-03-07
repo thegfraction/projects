@@ -1,0 +1,229 @@
+{
+  "card_type": "player",
+  "name": "Christy Mathewson",
+  "nickname": "Big Six",
+  "year": 1905,
+  "team": "New York Giants",
+  "era": "1900s",
+  "ilb_team": "Banners NL1900",
+  "position": "SP",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'1\"",
+  "weight": "195 lbs",
+  "born": "August 12, 1880 — Factoryville, PA",
+  "died": "October 7, 1925 — Saranac Lake, NY (age 45, tuberculosis from WWI poison gas)",
+  "hof": "Inducted 1936 (1st ballot, 90.7%). One of the original five HOF members alongside Cobb, Ruth, Wagner, Johnson.",
+  "player_image": "https://raw.githubusercontent.com/thegfraction/projects/b9a611655116268b1910dda04fcb97fd0d03b2d1/games/ILB/images/mathewson-christy.png",
+
+  "real_stats": {
+    "season": 1905,
+    "games": 43,
+    "wins": 31,
+    "losses": 9,
+    "era": "1.28",
+    "innings": "338.2",
+    "strikeouts": 206,
+    "walks": 64,
+    "complete_games": 32,
+    "shutouts": 8,
+    "whip": "0.93",
+    "era_plus": 233,
+    "war": 11.7,
+    "career_wins": 373,
+    "career_losses": 188,
+    "career_era": "2.13",
+    "career_strikeouts": 2507,
+    "career_cg": 435,
+    "career_shutouts": 79,
+    "career_war": 97.3,
+    "no_hitters": 2,
+    "perfect_games": 0,
+    "ws_1905_ip": "27.0",
+    "ws_1905_era": "0.00",
+    "ws_1905_so": 18,
+    "ws_1905_bb": 1
+  },
+
+  "ilb_stats": {
+    "ovr": 13,
+    "stf": 5,
+    "ctl": 4,
+    "sta": 4,
+    "def": 1,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "stf": "1.28 ERA in 1905 → tier 5 (<1.50). ERA+ 233 — the highest of his career. K/9 was ~5.47 (under 6.0, no K bonus). But Mathewson's stuff transcended strikeouts: the fadeaway (screwball) was unhittable, he threw 2 no-hitters, and in 1908 he went 37-11 with 259 K and 1.43 ERA. Roger Bresnahan called him 'the greatest pitcher of all time.' Maximum stuff.",
+    "ctl": "BB/9 of 1.70 in 1905 → tier 3 (1.5-1.99). WHIP 0.93 → WHIP bonus (+1) = 4. In the 1905 WS: 27 IP, 1 walk, 18 K. Career: 2,507 K to 848 BB (2.96 K/BB). Johnny Evers: 'He could pitch into a tin cup.' A Giants catcher said you could 'catch Matty in a rocking chair.' Elite but not quite Young's sub-1.0 BB/9 level. Rating of 4.",
+    "sta": "338.2 IP in 1905 → tier 4 (300-349). 32 CG in 37 starts. Pitched 390.2 IP in 1908 (34 CG in 44 starts). Pitched 3 CG shutouts in 6 days in the 1905 WS, the last on one day's rest. Career 4,788 IP, 79 shutouts, 12 consecutive 20-win seasons. Rating of 4 in the snapshot year (would be 5 in 1908).",
+    "def": "Good fielding pitcher — Mathewson was athletic (played college football at Bucknell, pro football with Pittsburgh Stars). Decent hitter (.215 career, .281 in the WS). Not an elite defensive pitcher by reputation. Rating of 1.",
+    "clu": "1905 WS: 3 CG shutouts in 6 days. 27 IP, 0 R, 14 H, 1 BB, 18 K. 0.00 ERA. ESPN named it the greatest playoff performance of all time. PS ERA < 2.00 = 2. WS clincher/hero performance = +1. Maximum clutch rating of 3. The only blemish: the 1912 WS Game 8 Snodgrass Muff loss."
+  },
+
+  "personality": {
+    "leadership_style": "Lead by moral example and competitive excellence. Mathewson was the anti-McGraw — quiet, dignified, college-educated, and utterly dominant. He didn't need to scream or fight. He led by being the best, the smartest, and the most professional man on the field. His teammates followed because he made winning look like a gentleman's pursuit.",
+    "temperament": "Serene intensity. Called 'the Christian Gentleman' — he refused to pitch on Sundays, turned down a saloon endorsement at his mother's request, and was the first sports hero whose appeal crossed all social, economic, and cultural boundaries. But beneath the gentility was a ferocious competitor: 37 wins in 1908, 3 shutouts in 6 days, 25 war-duels with Three Finger Brown.",
+    "work_ethic": "Cerebral mastery. Mathewson studied batters obsessively. Honus Wagner: 'Mathewson knew more in five minutes about batters than the modern pitcher does in a whole season.' He didn't overpower through brute force — he dismantled lineups through intelligence, sequencing, and the unhittable fadeaway. A checkers champion who approached pitching like a chess match.",
+    "lifestyle": "College-educated Bucknell man in an era of roughnecks. Married Jane Stoughton; the Mathewsons and McGraws shared an apartment in New York. Endorsed Arrow shirt collars and athletic equipment — but refused the saloon deal. Played football at Bucknell and professionally (Pittsburgh Stars, 1902). The most marketable athlete in America before Babe Ruth. His mother wanted him to be a preacher.",
+    "era_adaptability": "TRANSCENDENT. Mathewson's approach — pinpoint control, pitch sequencing, studying hitters, the screwball — is exactly how modern elite pitchers work. Greg Maddux was essentially a Mathewson descendant. In any era, this man dominates. The only question is workload — 390 innings wouldn't happen today, but the intelligence and repertoire translate perfectly.",
+    "clubhouse_impact": "The moral center of the Giants. McGraw was the fire; Mathewson was the ice. Together they created modern baseball. McGraw treated Christy 'like the son he never had.' Players revered him — not feared him. He elevated the profession's reputation. Baseball became respectable partly because Mathewson existed.",
+    "dark_side": "The war killed him. Mathewson enlisted in WWI in 1918 and was accidentally exposed to poison gas during training. The lung damage gave him tuberculosis. He spent his final years wasting away at a sanitarium in Saranac Lake, NY, serving as Boston Braves president by correspondence. He died on October 7, 1925 — during the 1925 World Series. Game 3 was delayed and flags flew at half-staff. He was 45. Also: the Snodgrass Muff in the 1912 WS haunted him — the one great failure. And his son Christopher Jr. later struggled with mental illness, a quiet family tragedy. The diphtheria bout of 1906 nearly killed him before the war ever could."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Christian Gentleman",
+      "desc": "Moral exemplar. All teammates gain +1 discipline while Mathewson is on the roster. No ejections for your team in games he starts."
+    },
+    {
+      "tag": "The Fadeaway",
+      "desc": "Signature screwball. First batter of each inning faces -2 CON. The pitch breaks opposite to everything they've ever seen."
+    },
+    {
+      "tag": "Battery Bond (Bresnahan)",
+      "desc": "With his preferred catcher (Bresnahan), Mathewson gains +1 CTL and +1 CLU. The battery is a single organism."
+    },
+    {
+      "tag": "McGraw's Son",
+      "desc": "Perfect synergy with a fiery manager. If paired with a McGraw-type, Mathewson gains +1 STF in big games. Fire and ice."
+    },
+    {
+      "tag": "College Man",
+      "desc": "Bucknell-educated in an era of roughnecks. +1 to team reputation. Endorsement deals generate extra franchise revenue."
+    },
+    {
+      "tag": "Sunday Rest",
+      "desc": "Will not pitch on Sundays. If scheduled on a rest day, must be skipped. But gains +1 STA for any start with full rest."
+    },
+    {
+      "tag": "Iron Arm",
+      "desc": "Can pitch on one day's rest with no penalty — as he did for the 3rd WS shutout in 1905. Other pitchers lose 2 STF on short rest."
+    },
+    {
+      "tag": "Poison Gas",
+      "desc": "After military service or age 38, Mathewson's stats decline by 2 per season. Tuberculosis is merciless. The clock ticks."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "HIGH",
+      "note": "Checkers champion, cerebral strategist. Studied batters, read voraciously. The thinking man's retreat.",
+      "note_extra": "Source labeled 'Library / Quiet Spot' / affinity 'HIGH' — direct canonical ILB node name, no remapping needed. Mathewson was a checkers champion who approached pitching like a chess match — Honus Wagner's quote about him knowing more about batters in five minutes than a modern pitcher in a whole season captures the domain precisely. Consistent with the set's pattern of analytical/intellectual private workspace → Library/Quiet Spot/HIGH."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "The Christian Gentleman. Refused to pitch on Sundays. His mother wanted him to be a preacher.",
+      "note_extra": "Source labeled 'Church' / affinity 'HIGH' — mapped to Community Events/HIGH as the communal religious/moral community domain. Church is definitional to Mathewson's identity: the Sunday rest principle was a non-negotiable career constraint, his public persona as 'The Christian Gentleman' was built on this moral foundation, and his mother's preacher aspiration shaped his entire public presentation. First 'Church' alone (without secondary pairing) → Community Events/HIGH mapping in the set. Marquard had 'Church / Community' → Community Events/LOW (negative/fractured domestic domain); Mathewson's is HIGH because the church-moral domain was the affirmative core of his identity, not a damaged one. Tenth Community Events/HIGH in the set."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "His cathedral. 4,788 career IP. 79 shutouts. More dominance per inning than almost any pitcher in history.",
+      "note_extra": "Source labeled 'Pitcher's Mound' / affinity 'HIGH' — mapped to Practice Field/HIGH as the primary position-craft domain. Standard pitcher's mound → Practice Field/HIGH mapping. The 'cathedral' framing in the source note is the most elevated position-as-sacred-space characterization in the set — the mound as the domain where Mathewson's entire being was most fully expressed."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "Disciplined rest between starts. The arm was a national treasure and he treated it as such.",
+      "note_extra": "Source labeled 'Hotel / Rest' / affinity 'HIGH' — direct canonical ILB node name, no remapping needed. Hotel/Rest/HIGH encodes disciplined rest as an active, intentional practice — the arm as a national treasure requiring preservation. This is the rest-as-discipline/preservation register of Hotel/Rest/HIGH, distinct from Lazzeri's health-management/privacy HIGH. Second Hotel/Rest/HIGH in the set, first for a pitcher."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "MEDIUM",
+      "note": "Most famous athlete in America. Arrow collars, endorsements. But reticent, not performative.",
+      "note_extra": "Source labeled 'Media / Spotlight' / affinity 'MEDIUM' — direct ILB node with canonical affinity. Second Media/Spotlight/MEDIUM (Marquard was first). Mathewson's MEDIUM encodes the specific register of the most-famous-yet-reticent athlete: the Arrow collar endorsements and national celebrity existed, but Mathewson never sought the spotlight the way Marquard did — the fame exceeded his appetite for it. Both Media/Spotlight/MEDIUM entries share the qualified-engagement pattern: present, willing, but not performative."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Shared an apartment with the McGraws. Social in small, civilized settings.",
+      "note_extra": "Source labeled 'Restaurant / Social' / affinity 'MEDIUM' — mapped to Community Events/MEDIUM as the secondary social/dining community domain. The apartment-with-McGraws arrangement and civilized small-group social settings encode a background communal affinity: present but not identity-defining. First Restaurant/Social → Community Events/MEDIUM mapping in the set. Distinct from Lazzeri's 'Italian Neighborhood/Restaurant' → Community Events/HIGH (immigrant community identity at maximum)."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Refused the saloon endorsement at his mother's request. Not a teetotaler, but the opposite of a carouser.",
+      "note_extra": "Source labeled 'Bar / Nightlife' / affinity 'LOW' — mapped to Hotel/Rest/LOW as the nightlife-avoidance register. Third Hotel/Rest/LOW in the set (Lazzeri: medically prescribed bar avoidance; Manush: no-association; Mathewson: principled-maternal avoidance). Mathewson's LOW is the most specific: not a blanket teetotaler position but a particular moral/familial constraint — he turned down the saloon endorsement at his mother's request. Two Hotel/Rest entries on this card (Hotel/Rest/HIGH for disciplined rest and Hotel/Rest/LOW for bar avoidance) — consistent with the Lazzeri pattern (Hotel/Rest at three affinities) but here spanning HIGH and LOW only."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "October baseball — 3 WS shutouts in 6 days, .281 WS BA as a hitter, ESPN's greatest playoff performance",
+      "Rivalry duels — 25 legendary matchups with Three Finger Brown, 24 consecutive wins vs. Cardinals (1904-08)",
+      "Big-game starts — led NL in wins 4×, ERA 5×, strikeouts 5×. Rose to every occasion.",
+      "Battery harmony — with Bresnahan catching, Mathewson was nearly unhittable (1905 WS: 0.00 ERA, 1 BB in 27 IP)"
+    ],
+    "cold_triggers": [
+      "The Snodgrass Muff — 1912 WS Game 8: Fred Snodgrass dropped a fly ball, costing the Giants the Series. Mathewson was pitching.",
+      "Physical illness — diphtheria in 1906 wrecked his season (2.97 ERA, uncharacteristic). Pain in left side from 1914 onward.",
+      "Poison gas — WWI training accident destroyed his lungs. Tuberculosis consumed him. Died during the 1925 World Series.",
+      "Merkle's Boner (1908) — Mathewson won 37 games but the Giants lost the pennant because Merkle didn't touch second. Evers beat him."
+    ],
+    "pressure_response": "THE MOST DOMINANT POSTSEASON PITCHER IN BASEBALL HISTORY. Three complete-game shutouts in six days: 27 innings, 0 runs, 14 hits, 1 walk, 18 strikeouts. ESPN named it the greatest playoff performance of all time. Connie Mack: 'It was wonderful to watch him pitch — when he wasn't pitching against you.' The Buffalo Enquirer during the 1905 WS: 'As cool as the proverbial cucumber.' The only crack: the 1912 WS, when Snodgrass's error undid a masterful performance. Even gods have one mortal wound."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Three Shutouts in Six Days",
+      "type": "Game Action",
+      "text": "Your ace pitcher starts three games in a single postseason series. He throws a complete-game shutout in each one: 27 IP, 0 R, 1 BB, 18 K. The opposing offense is annihilated. This card cannot be countered — it is the greatest pitching performance in postseason history.",
+      "origin": "1905 World Series: Mathewson pitched 3 CG shutouts in 6 days to clinch the Giants' first championship over the A's. ESPN named it the greatest playoff performance of all time. 27 IP, 0 R, 14 H, 1 BB, 18 K."
+    },
+    {
+      "title": "The Fadeaway",
+      "type": "Game Action",
+      "text": "Your pitcher throws a screwball that breaks opposite to every other pitch the batter has seen. The next 3 batters each face -2 CON. If all 3 strike out, your pitcher gains +1 STF for the rest of the game.",
+      "origin": "Mathewson's signature fadeaway (screwball), possibly learned from Dave Williams in 1898 (some credit Rube Foster). The pitch baffled dead-ball hitters and was the foundation of his dominance."
+    },
+    {
+      "title": "Pitch Into a Tin Cup",
+      "type": "Game Action",
+      "text": "Your pitcher's control is so precise that for this game, no walks are issued. Every pitch hits its target. Batters can only reach base on hits or errors. WHIP drops by 0.30 for the game.",
+      "origin": "Johnny Evers: 'He could pitch into a tin cup.' A Giants catcher: 'You could catch Matty in a rocking chair.' In the 1905 WS, he walked 1 batter in 27 innings."
+    },
+    {
+      "title": "The Gentleman's Duel",
+      "type": "Game Action",
+      "text": "Your ace and the opposing ace lock into a classic pitcher's duel. Both pitchers gain +2 STF and +2 CTL. The game becomes a 1-0 affair decided by a single moment of brilliance — or a single error.",
+      "origin": "Mathewson's 25 legendary duels with Three Finger Brown — each one a masterclass. Brown won 13, Mathewson 11, with 1 no-decision. The rivalry defined dead-ball pitching."
+    },
+    {
+      "title": "The Snodgrass Muff",
+      "type": "Drama",
+      "text": "Your fielder drops a routine fly ball in a crucial World Series moment. The opposing team scores the winning run. Your ace, who was dominant, takes the loss. Team morale drops by 3. But the pitcher gains permanent +1 CLU from the fire of injustice.",
+      "origin": "1912 World Series Game 8: Fred Snodgrass dropped a fly ball in the 10th inning, leading to the Giants' loss to the Red Sox. Mathewson was pitching brilliantly. One of baseball's most infamous errors."
+    },
+    {
+      "title": "Poison Gas",
+      "type": "Drama",
+      "text": "Your star player enlists during wartime and is accidentally exposed to chemical weapons during training. He returns alive but permanently damaged. All stats decline by 2 per season until retirement or death. The clock is merciless.",
+      "origin": "Mathewson enlisted in WWI in 1918 and was exposed to poison gas during training. The lung damage caused tuberculosis. He died at 45 in a Saranac Lake sanitarium — during the 1925 World Series. Flags flew at half-staff."
+    },
+    {
+      "title": "Master of Them All",
+      "type": "Action",
+      "text": "Your pitcher wins the pitching Triple Crown: most wins, lowest ERA, most strikeouts. For the rest of the season, he gains +1 to all stats. His HOF plaque will read the truth: he was master of them all.",
+      "origin": "Mathewson won the Triple Crown twice (1905: 31 W, 1.28 ERA, 206 K; 1908: 37 W, 1.43 ERA, 259 K). His HOF plaque: 'Greatest of all the great pitchers in the 20th century's first quarter. Matty was master of them all.'"
+    },
+    {
+      "title": "Died During the World Series",
+      "type": "Drama",
+      "text": "Your greatest pitcher passes away during the Fall Classic. The game is delayed. Flags fly at half-staff across the nation. Every pitcher who follows him is measured against his ghost. He gains the 'Eternal' trait — his legacy can never be diminished.",
+      "origin": "Mathewson died October 7, 1925, during Game 3 of the 1925 World Series between Pittsburgh and Washington. The game was delayed. Flags flew at half-staff. He was 45 years old."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Tall, handsome, clean-cut college man. 6'1\" 195 lbs — broad-shouldered but elegant, not brutish. High forehead, clear intelligent eyes, strong jaw, composed expression. The face of a man who could pitch three shutouts in six days without breaking a sweat. Called 'the handsomest man in baseball.' No scowl, no fury — just serene, total confidence.",
+    "attire": "New York Giants uniform circa 1905 — white wool jersey with 'NY' interlocking monogram, possibly the all-black World Series uniforms McGraw ordered. Baggy flannel pants, flat cap. Mid-windup or post-delivery follow-through, the classic high-kick pitching motion of the dead-ball era. No number.",
+    "mood": "Olympian calm. The Polo Grounds behind him, packed crowd in soft focus. No desperation, no strain — just the serene focus of a man who has already decided what pitch he'll throw and where it will go. The composure that made Connie Mack marvel. Slightly ethereal — this card should feel like a portrait of perfection.",
+    "style": "Sepia-toned with cooler, more silvery highlights than the other Banners cards — Mathewson is moonlight where Chance is sunshine and Evers is fire, and Young is deep earth tones. Dead-ball era photographic grain. Slightly more luminous and elevated than other cards — this is not a mortal, this is the Polo Grounds deity.",
+    "reference": "Think the classic high-kick windup, leg raised, arm cocked, about to deliver the fadeaway. Or: the composed post-game portrait, looking directly at the camera with those clear eyes. Cabinet card composition, the mound as altar. The card should rival the Cy Young card in weight and significance — these are the two anchor pitchers of the Banners era."
+  }
+}

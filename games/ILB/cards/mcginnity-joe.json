@@ -1,0 +1,226 @@
+{
+  "card_type": "player",
+  "name": "Joe McGinnity",
+  "nickname": "Iron Man",
+  "year": 1904,
+  "team": "New York Giants",
+  "era": "1900s",
+  "ilb_team": "Banners NL1900",
+  "position": "SP",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'11\"",
+  "weight": "206 lbs",
+  "born": "March 20, 1871 — Cornwall, IL",
+  "died": "November 14, 1929 — Brooklyn, NY (age 58, bladder cancer). Last words before surgery: 'It's the ninth inning, and I guess they're going to get me out.'",
+  "hof": "Inducted 1946 (Veterans Committee). 246 MLB wins, ~478 total professional wins. Pitched until age 54.",
+  "player_image": "https://raw.githubusercontent.com/thegfraction/projects/b9a611655116268b1910dda04fcb97fd0d03b2d1/games/ILB/images/mcginnity-joe.png",
+
+  "real_stats": {
+    "season": 1904,
+    "games": 51,
+    "wins": 35,
+    "losses": 8,
+    "era": "1.61",
+    "innings": "408.0",
+    "strikeouts": 144,
+    "walks": 86,
+    "complete_games": 38,
+    "shutouts": 9,
+    "whip": "0.963",
+    "saves": 5,
+    "war": 11.6,
+    "career_wins": 246,
+    "career_losses": 142,
+    "career_era": "2.66",
+    "career_strikeouts": 1068,
+    "career_cg": 314,
+    "career_shutouts": 32,
+    "career_war": 52.5,
+    "career_ip": "3441.1",
+    "ws_1905_ip": "17.0",
+    "ws_1905_era": "0.00"
+  },
+
+  "ilb_stats": {
+    "ovr": 11,
+    "stf": 4,
+    "ctl": 4,
+    "sta": 5,
+    "def": 1,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "stf": "1.61 ERA in 1904 → tier 4 (1.50-1.99). K/9 was only ~3.18 — no K bonus. McGinnity was NOT a power pitcher. He relied on 'Old Sal' — a baffling rising curveball thrown with a submarine delivery — plus a sinker thrown overhand. Two radically different motions. McGraw said this may have lessened arm strain. The deception was the weapon, not velocity. Rating: 4.",
+    "ctl": "BB/9 ~1.90 in 1904 → tier 3 (1.5-1.99). WHIP 0.963 → ≤1.00 bonus (+1) = 4. McGinnity pitched 408 innings and walked only 86 batters. His command of the submarine curve was superb — batters swung at pitches they couldn't touch. Rating: 4.",
+    "sta": "408 IP in 1904 → tier 5 (350+). 38 CG in 51 games. In August 1903, McGinnity won BOTH games of a doubleheader three times in one month (Aug 1, Aug 8, Aug 31) — a record that will never be broken. He pitched 434 IP in 1903. Averaged 344 IP per season across his career. Pitched professionally until age 54. The Iron Man nickname was literal — he worked in an iron foundry in the offseason. Maximum stamina: 5.",
+    "def": "Decent fielding pitcher. Not known for elite defense. Rating: 1.",
+    "clu": "1905 WS: 17 IP, 0 ER — 0.00 ERA. Helped the Giants win the championship alongside Mathewson's 3 shutouts. PS ERA < 2.00 = 2. WS champion = +1. Maximum clutch: 3."
+  },
+
+  "personality": {
+    "leadership_style": "Lead by relentless example and mentorship. McGinnity didn't just dominate — he built others up. He taught Mathewson the sinker, showed him how to scout hitters, and gave him tips on fielding. Previous Giants management had been trying to convert Mathewson into a first baseman. McGinnity helped save the greatest pitching career in NL history. That's leadership.",
+    "temperament": "Fiery, combative, tireless. A man who worked in an iron foundry by winter and pitched 400+ innings by summer. He personally poured iron into the molds for Birmingham's Vulcan statue. When facing surgery for bladder cancer: 'It's the ninth inning, and I guess they're going to get me out.' He faced death the way he faced doubleheaders — head on.",
+    "work_ethic": "THE DEFINITION OF WORKHORSE. Won both games of a doubleheader three times in one month. Pitched 434 innings in 1903. Averaged 344 IP per season. Pitched professionally until age 54, winning ~478 career games including minors. The iron foundry wasn't a metaphor — it was conditioning. His arm was made of the same stuff they poured at the plant.",
+    "lifestyle": "Working-class Irish-American. Father Peter emigrated from Dublin, worked in coal mines. Joe worked iron foundries in the offseason. Married Mary — she died in the middle of a managing stint, and he left the team. Spent his last years living with his daughter Marguerite in a small Brooklyn house near Ebbets Field. After baseball, he bought the Newark Indians for $30,000. Kept pitching in the minors because he couldn't stop.",
+    "era_adaptability": "COMPLEX. McGinnity's submarine/sidearm delivery and sinker-curve combo would be unusual but potentially effective in any era — modern pitchers like Brad Ziegler and Chad Bradford used similar approaches. His stamina stats would be meaningless in a modern 5-day rotation, but his deception and movement would play. The issue: his K rate was below average even for his time. He'd need a great defense behind him.",
+    "clubhouse_impact": "MENTOR AND WARRIOR. McGinnity was the veteran who steadied McGraw's Giants and developed Mathewson. He was the co-ace, not the diva. His willingness to pitch doubleheaders, take the ball every other day, and do whatever the team needed made him the ultimate clubhouse asset. In ILB: +2 team morale from sheer reliability.",
+    "dark_side": "The body and the endings. Mary McGinnity died while he was managing, and Iron Man left the team to grieve. He spent his last years in a small Brooklyn house, walking distance from Ebbets Field but worlds away from the glory. Bladder cancer took him at 58. He joked his way into the operating room and died three months later. The iron foundry gave him his name, and time melted him like the metal he once poured."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Iron Man",
+      "desc": "Named for the foundry, lived as the name implied. McGinnity can pitch on 0 days' rest with no penalty. He is immune to fatigue. The arm is industrial."
+    },
+    {
+      "tag": "Old Sal",
+      "desc": "His signature rising curveball, thrown submarine. First batter of each inning faces -1 CON from the unfamiliar delivery angle."
+    },
+    {
+      "tag": "Doubleheader King",
+      "desc": "Won both games of a DH 3× in one month. McGinnity can start both games of a doubleheader with no stat penalty. This card is unique in ILB."
+    },
+    {
+      "tag": "Mathewson's Mentor",
+      "desc": "Taught Christy the sinker, saved his career from conversion to 1B. When paired with Mathewson, both gain +1 STF from shared knowledge."
+    },
+    {
+      "tag": "McGraw's Soldier",
+      "desc": "Followed McGraw from Baltimore to Brooklyn to the Giants. Perfect manager-pitcher synergy. +1 to all stats when managed by an aggressive, fiery manager."
+    },
+    {
+      "tag": "The Foundry",
+      "desc": "Offseason iron foundry work = unlimited conditioning. +1 STA permanently. Other pitchers lose stamina over a season; McGinnity gains it."
+    },
+    {
+      "tag": "Pitched Till 54",
+      "desc": "~478 professional wins including minors. McGinnity's career never truly ends — even after 'retirement,' he can return at reduced stats."
+    },
+    {
+      "tag": "Ninth Inning",
+      "desc": "'It's the ninth inning, and I guess they're going to get me out.' When facing elimination or career-ending moments, +2 CLU for one final performance."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "3,441 career MLB IP. ~7,000+ professional IP including minors. More time on the mound than almost any human.",
+      "note_extra": "Source labeled 'Pitcher's Mound' / affinity 'HIGH' — mapped to Practice Field/HIGH as the primary pitcher craft-identity domain. Standard pitcher's mound → Practice Field/HIGH mapping. McGinnity's 3,441 MLB IP and an estimated 7,000+ professional innings across a career that stretched to age 54 make the mound the defining craft domain of his existence."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Worked in iron foundries every offseason. Personally poured iron for Birmingham's Vulcan statue. The foundry made the man.",
+      "note_extra": "Source labeled 'Iron Foundry / Factory' / affinity 'HIGH' — mapped to Practice Field/HIGH as the offseason conditioning and craft-preparation domain. The iron foundry is not a community-social space but a physical labor domain that is causally constitutive of McGinnity's pitching identity: the 'Iron Man' nickname came from the foundry first, the pitching second. McGraw theorized that McGinnity's dual-motion delivery reduced arm strain; the foundry conditioning made that arm possible. Two Practice Field/HIGH entries on this card (Pitcher's Mound + Iron Foundry) — the dual craft identity of the Iron Man. The foundry and the mound are parallel craft domains: winter iron, summer pitching. First industrial-labor space → Practice Field/HIGH mapping in the set (prior Practice Field entries were position-specific or athletic in character)."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "The veteran mentor. Taught Mathewson, steadied McGraw's clubhouse. The reliable presence every team needs.",
+      "note_extra": "Source labeled 'Clubhouse / Locker Room' / affinity 'HIGH' — mapped to Community Events/HIGH as the team-community mentorship domain. McGinnity was the veteran co-ace who taught Mathewson the sinker, saved him from conversion to first base, and steadied the clubhouse through sheer reliability. The Clubhouse → Community Events/HIGH mapping is consistent with McCarthy's clubhouse enforcement HIGH; McGinnity's register is mentorship-and-reliability rather than command-and-compliance. Twelfth Community Events/HIGH in the set."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "MEDIUM",
+      "note": "Bought the Newark Indians. Pitched in the minors until 54. Managed everywhere. The minors were his second home.",
+      "note_extra": "Source labeled 'Minor League Park' / affinity 'MEDIUM' — mapped to Media/Spotlight/MEDIUM as the secondary performance-stage domain. McGinnity's minor league relationship was post-peak: he bought the Newark Indians, kept pitching there until age 54, managed multiple clubs. The minor league park is a diminished but genuine stage where his competitive identity continued after the major league spotlight faded. Distinct from McCarthy's 'Minor Leagues' → Practice Field/MEDIUM (pre-peak developmental apprenticeship); McGinnity's is post-peak continuation pitching. Media/Spotlight/MEDIUM encodes the secondary-stage register of a performer who refused to leave the arena."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Irish-Catholic. Devastated by wife Mary's death. Lived with daughter Marguerite in Brooklyn.",
+      "note_extra": "Source labeled 'Church / Family' / affinity 'MEDIUM' — mapped to Community Events/MEDIUM as the communal religious-and-family domain. The compound label (Church + Family) encodes the Irish-Catholic identity and the domestic attachments (wife Mary, daughter Marguerite) as a unified community domain. MEDIUM rather than HIGH: sincere and important but secondary to the dominant craft and labor identity. Mary's death mid-managing-stint — and McGinnity's leaving the team to grieve — makes this a tender rather than triumphant community domain. Two Community Events entries (HIGH at the clubhouse mentorship domain + MEDIUM at the church-family domain)."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Working-class, but not a carouser. Too busy pitching and pouring iron.",
+      "note_extra": "Source labeled 'Bar / Saloon' / affinity 'LOW' — mapped to Hotel/Rest/LOW as the nightlife-avoidance domain. Standard nightlife-avoidance → Hotel/Rest/LOW mapping. McGinnity's LOW encodes not moral principle (Mathewson) or medical necessity (Lazzeri) but simple occupational displacement: a man who pitches 400 innings and pours iron in the offseason has no capacity for carousing. Fifth Hotel/Rest/LOW in the set."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Bladder cancer, surgery, death at 58. 'It's the ninth inning.' The iron man rusted.",
+      "note_extra": "Source labeled 'Hospital' / affinity 'LOW' — mapped to Hotel/Rest/LOW as the terminal-medical domain. The hospital as the space of bodily decline and death rather than nightlife avoidance — a new register for Hotel/Rest/LOW. Mack had 'Hospital/Late Years' → Hotel/Rest/LOW (prolonged medical decline in old age); McGinnity's is acute and terminal (surgery and death at 58, bladder cancer). The 'It's the ninth inning' quote — which is also his final words in the `died` field and the basis for the 'Ninth Inning' chemistry trait and action card — makes the Hospital LOW a narratively weighted entry rather than a mere background avoidance. Two Hotel/Rest/LOW entries on this card (Bar/Saloon + Hospital) — first card with two Hotel/Rest/LOW entries. The two LOWs encode categorically different registers: voluntary avoidance (bar) and involuntary terminal occupation (hospital), showing the full range of what LOW can contain."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Doubleheaders — won both games 3× in August 1903. The more he pitches, the stronger he gets.",
+      "Pennant races — opened 1904 with a 14-game winning streak, ended winning 12 of last 13. Rose in September.",
+      "Pairing with Mathewson — from 1903-08, either McGinnity or Mathewson led the NL in wins every year",
+      "McGraw managing — perfect synergy with an aggressive, demanding manager who understood his iron arm"
+    ],
+    "cold_triggers": [
+      "Wife's death — Mary McGinnity died mid-season while he was managing. He left the team. Grief breaks even iron.",
+      "Aging — 18-18 in 1907, waivers in 1908. The body declined even if the spirit didn't.",
+      "Low strikeouts — K/9 was always below average. If the defense behind him fails, the results follow.",
+      "Contract disputes — held out after 1904 when ownership wouldn't let him play winter ball."
+    ],
+    "pressure_response": "SUPERB. McGinnity's 1905 World Series: 17 IP, 0 ER, 0.00 ERA. He and Mathewson combined for a shutout-dominated WS victory that established the Giants as champions. In 1904, he opened with a 14-game winning streak and ended winning 12 of 13. His August 1903 doubleheader month — 3 complete DH sweeps — is the greatest sustained pitching performance in baseball history. The Iron Man didn't bend under pressure. He bent the game to his will."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Three Doubleheader Sweeps in One Month",
+      "type": "Game Action",
+      "text": "Your pitcher starts both games of a doubleheader — and wins both. Complete games in each. He does this again the next week. And again the week after that. Three times in one month. The opposing lineup is demoralized. This card can only be played by a pitcher with STA 5.",
+      "origin": "August 1903: McGinnity won both games of a doubleheader on Aug 1, Aug 8, and Aug 31 — all complete games, all in the same month. A record that will never be broken."
+    },
+    {
+      "title": "Old Sal",
+      "type": "Game Action",
+      "text": "Your pitcher throws a rising curveball from a submarine delivery that batters have never seen. For 3 innings, all opposing batters face -2 CON. The pitch comes from below and breaks upward — the opposite of everything they expect.",
+      "origin": "McGinnity's signature pitch 'Old Sal' — a rising curveball thrown sidearm/submarine. Combined with his overhand sinker, batters faced two radically different deliveries from the same pitcher."
+    },
+    {
+      "title": "The Mentor's Gift",
+      "type": "Action",
+      "text": "Your veteran pitcher takes a struggling young pitcher under his wing. He teaches him a new pitch, shows him how to scout hitters, and saves his career. The young pitcher gains +2 STF and +1 CTL permanently. Your veteran gains +3 legacy.",
+      "origin": "McGinnity taught Mathewson the sinker, showed him scouting methods, and modeled pacing. Previous Giants management had tried to convert Mathewson to first base. McGinnity saved the greatest pitching career in NL history."
+    },
+    {
+      "title": "The Iron Foundry",
+      "type": "Action",
+      "text": "Your pitcher spends the offseason working in an industrial foundry, pouring molten iron. He arrives at spring training with arms of steel. +1 STA permanently. Other pitchers who skip offseason conditioning lose 1 STA.",
+      "origin": "McGinnity worked in iron foundries every offseason. He personally poured iron for Birmingham's Vulcan statue in 1904. The nickname 'Iron Man' came from the foundry, not (originally) from his pitching."
+    },
+    {
+      "title": "Fourteen Straight",
+      "type": "Game Action",
+      "text": "Your pitcher opens the season with a 14-game winning streak. The team clinches the pennant with 16 games remaining. Your pitcher finishes 35-8 with a 1.61 ERA. He leads the league in wins, ERA, shutouts, saves, and innings. For this season, he is untouchable.",
+      "origin": "1904: McGinnity opened with a 14-game winning streak and finished 35-8, 1.61 ERA, 408 IP, 9 SHO, 5 SV. The Giants clinched with 16 games left. One of the greatest pitching seasons ever."
+    },
+    {
+      "title": "Pitched Until Fifty-Four",
+      "type": "Drama",
+      "text": "Your aging pitcher refuses to retire. He buys a minor league team and keeps pitching — 40, 45, 50, 54 years old. His professional win total reaches nearly 500. The game cannot make him stop. Only death can.",
+      "origin": "McGinnity pitched professionally until 1925 at age 54. Including minors, he won approximately 478 games. He managed and owned teams too. Baseball was not his job — it was his oxygen."
+    },
+    {
+      "title": "The Ninth Inning",
+      "type": "Drama",
+      "text": "Your aging legend faces career-ending surgery. As he enters the operating room, he jokes: 'It's the ninth inning, and I guess they're going to get me out.' He gains the 'Final Pitch' trait — +3 CLU for one last performance. Then the iron man rests.",
+      "origin": "1929: Diagnosed with bladder cancer, McGinnity joked before surgery: 'It's the ninth inning, and I guess they're going to get me out.' He died November 14, 1929, at 58."
+    },
+    {
+      "title": "Two Motions, One Arm",
+      "type": "Game Action",
+      "text": "Your pitcher alternates between submarine and overhand delivery within the same game. Batters cannot time either. All opposing hitters face -1 CON for the entire game. McGraw theorized this is why his arm lasted so long.",
+      "origin": "McGinnity threw 'Old Sal' (submarine rising curve) and a sinker (overhand). McGraw: 'The use of two radically different pitching motions may have lessened the strain on his arm and contributed to making him so durable.'"
+    }
+  ],
+
+  "art_direction": {
+    "face": "Big, powerful, Irish-American working man. 5'11\" 206 lbs — one of the biggest men in the majors at the time. Broad shoulders, thick arms forged in an iron foundry. Strong jaw, determined eyes, the face of a man who pours molten metal by winter and pitches 400 innings by summer. Not elegant like Mathewson — rugged, industrial, relentless.",
+    "attire": "New York Giants uniform circa 1904 — white wool jersey with 'NY' interlocking monogram, baggy flannel pants, flat cap. Mid-delivery from the submarine angle — arm coming up from below, the unorthodox motion that baffled dead-ball hitters. Or: the overhand windup for the sinker, showing the dual-motion style. No number.",
+    "mood": "Relentless power. Not serene like Mathewson — grinding, implacable, the look of a man in his 51st game of the season who's about to pitch his 38th complete game. Sweat on the brow, iron in the eyes. The Polo Grounds behind him, late afternoon, the shadows lengthening on a doubleheader day.",
+    "style": "Sepia-toned with darker, smokier, more industrial undertones than other Banners cards — McGinnity is forge-fire where Mathewson is moonlight. Iron-brown and furnace-orange highlights. The card should feel like it was pulled from a foundry floor, still warm. Dead-ball era grit at maximum.",
+    "reference": "Think the submarine delivery — arm sweeping upward from below the knees, ball released at an impossible angle. Or: the muscular frame on the mound, massive shoulders, cap pulled low, ready to pitch his second complete game of the day. The card that embodies endurance itself."
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "card_type": "manager",
+  "name": "John McGraw",
+  "nickname": "Little Napoleon",
+  "year": 1905,
+  "team": "New York Giants",
+  "era": "1900s",
+  "ilb_team": "Banners",
+  "archetype": "Authoritarian",
+  "born": "April 7, 1873 — Truxton, NY",
+  "died": "February 25, 1934 — New Rochelle, NY (age 60)",
+  "hof": "Inducted 1937 (Centennial Committee). Plaque reads: 'greatest assessor of baseball talent.'",
+  "height": "5'7\"",
+  "weight": "155 lbs",
+
+  "record": {
+    "career_wins": 2763,
+    "career_losses": 1948,
+    "win_pct": ".586",
+    "pennants": 10,
+    "world_series": 3,
+    "seasons_managed": 33,
+    "ejections": 131,
+    "peak_team": "1905 New York Giants",
+    "peak_record": "105-48",
+    "consecutive_pennants": "4 (1921-1924)",
+    "games_over_500": 815,
+    "first_or_second": "21 of 29 full seasons",
+    "notable": "Most NL wins all-time. 815 games over .500 — more than any manager in history."
+  },
+
+  "ilb_ratings": {
+    "tac": 5,
+    "pit": 4,
+    "lin": 5,
+    "adp": 3,
+    "dis": 10,
+    "ego": 3,
+    "har": 4,
+    "int": 9,
+    "str": 9,
+    "flx": 3,
+    "ovr": 12
+  },
+
+  "rating_justification": {
+    "tac": "Pioneered inside baseball: hit-and-run, squeeze play, Baltimore chop. Called every pitch from the bench. Signals to fielders, batters, runners unprecedented in complexity. 'On this team, with first base occupied, it is almost mandatory that my batter hit to right field.'",
+    "pit": "Managed Christy Mathewson to three shutouts in the 1905 World Series. Innovated relief pitching with Doc Crandall. George Ferguson became first reliever with 20+ appearances under McGraw (1906). But McGraw's ego sometimes overrode pitcher management.",
+    "lin": "First systematic platooner in baseball history. Created the pinch-hitter as a tactical role (Sammy Strang, 1904). Casey Stengel learned platooning by watching McGraw from the bench. Rebuilt rosters ruthlessly — released 9 players on Day 1 with the Giants.",
+    "adp": "Adapted from dead-ball to live-ball era, shifting from stolen bases to power. 'Despite his personal dislike of the home run, McGraw adapted.' But adaptation was grudging — he signaled every pitch into his final season. Players in 1932 resented that he still called every pitch.",
+    "dis": "Maximum. Imposed curfews, reviewed meals, controlled lifestyle on and off field. 'I permit no deviation from instructions.' Fined Irish Meusel $100 for hitting a two-run HR when told to bunt. 131 career ejections — held the record until Bobby Cox broke it in 2007.",
+    "ego": "Low tolerance for ego. Called Larry Doyle — his own team captain — 'the miserable yellow thing' in front of the team. Stars either submitted completely or were traded. But paradoxically generous after blunders — raised salaries for Merkle and Snodgrass after their infamous errors.",
+    "har": "Complex. 'He could be gracious and generous when he wanted to be.' Gave money to players, took on reclamation projects. Best friend was the saintly Christy Mathewson. But also 'foul-mouthed and mean-spirited.' Jekyll and Hyde personality. His players 'suffered his tyranny as the price of victory, proud to be Giants.'",
+    "int": "Maximum. Team described as 'most belligerent in America.' McGraw 'swaggered through every city in the league, battling opposing teams, managers, owners, umpires, and league officials.' Dodged rocks and bottles leaving enemy ballparks. Put 'Champions of the World' on jerseys in 1906.",
+    "str": "Elite talent evaluator. 'Greatest assessor of baseball talent' (HOF plaque). Sharp eye for talent others missed. Got useful work from 'drinkers and neurotics other clubs had given up on.' Built 10 pennant-winning teams from 1904-1924 through constant roster turnover and reclamation projects.",
+    "flx": "Low. Controlled everything. Called every pitch into his 30th season as manager. By 1932, players were 'hostile to McGraw, resentful that he insisted on calling every pitch and, off the field, controlling their lifestyle.' His inflexibility ultimately drove his retirement."
+  },
+
+  "personality": {
+    "leadership_style": "Absolute autocrat. Called every pitch, moved every fielder, sent every runner, guided every hitter. 'On this team, with first base occupied it is almost mandatory that my batter hit to right field. I permit no deviation from instructions.' Compared by historians to Bobby Knight — found players who fit his system, not superstars who demanded their own. Casey Stengel learned his entire managerial philosophy sitting on McGraw's bench.",
+    "temperament": "Volcanic. 'A male version of the whore with a heart of gold — a tough, flinty so-and-so who was field-smart, a man's man.' — Frank Deford. Arrogant, abrasive, pugnacious. But also generous, loyal to old friends, and capable of great tenderness. Gave jobs to former players. Raised salaries after humiliating errors. A true paradox.",
+    "work_ethic": "Obsessive. Lived and breathed baseball 24/7. Studied opponents relentlessly. Personally scouted talent through a network of contacts across the bush leagues. 'He lived to teach young men how to play baseball.' — Bill James. But also loved the horses, the stage, cigars, and whiskey.",
+    "lifestyle": "Broadway celebrity. Owned a poolroom with gambler Arnold Rothstein. Ventured into vaudeville for 15 weeks in 1912 (appearing with 'Odiva the Goldfish Lady'). Owned a share of a Cuban racetrack and casino with Giants owner Stoneham. Part-owner of the Giants from 1919. The most famous manager in New York City — which in 1905 meant the most famous manager in America.",
+    "communication_style": "Brutal directness. 'Look at him, the miserable yellow thing, the captain of my ball club.' Public tongue-lashings were standard. But also gave private counsel. Burleigh Grimes: 'I learned more in one season under McGraw than in all the years before or since.' He taught constantly between the abuse.",
+    "loyalty_expectations": "Total submission. You followed orders or you were gone. But if you submitted, McGraw was fiercely loyal. He gave jobs to old Oriole and Giant players like Dan Brouthers, Amos Rusie, and Mickey Welch. Larry Doyle, despite being humiliated publicly, was 'distraught' when finally traded.",
+    "dark_side": "The gambling connections. The association with Arnold Rothstein (later the financial backer of the 1919 Black Sox fix). The decline — by the late 1920s, McGraw became 'increasingly erratic and harder to deal with,' haunted by the deaths of Mathewson, McGinnity, and Ross Youngs. The man who controlled everything couldn't control time."
+  },
+
+  "playbook": {
+    "roster_philosophy": "Find players who fit the system, not superstars who demand exceptions. McGraw won 10 pennants with players like Fred Merkle, Fred Snodgrass, and Ross Youngs — not with transcendent stars (Mathewson excepted). He traded daringly and took reclamation projects other clubs abandoned. His teams were constructed, not collected.",
+    "conflict_response": "SUPPRESS. McGraw did not mediate conflicts — he ended them through authority. Players who challenged him were traded or released. He released 9 players on his first day with the Giants. The clubhouse was quiet because McGraw's word was law, not because everyone got along.",
+    "clique_strategy": "PREVENT. McGraw wanted one clique: his. Any factional behavior was crushed. Players organized around McGraw's authority, not around each other. This prevented internal politics but also prevented organic team bonding.",
+    "player_types_that_thrive": [
+      "Disciplined professionals who follow orders without question",
+      "Reclamation projects and 'drinkers and neurotics' — McGraw could salvage broken talent",
+      "Young players with no ego — McGraw was a master teacher of raw talent",
+      "Grinders and role players who accepted their place in the hierarchy",
+      "Players motivated by winning above all else"
+    ],
+    "player_types_that_struggle": [
+      "High-ego stars who demand autonomy (Edd Roush: 'I couldn't have been happier when he traded me')",
+      "Free spirits who resist lifestyle control (curfews, meal reviews, pitch-calling)",
+      "Players who need emotional support — McGraw's encouragement came through abuse",
+      "Veterans set in their ways who won't adapt to McGraw's system",
+      "Sensitive personalities — the public humiliation was real and constant"
+    ],
+    "tolerance_thresholds": {
+      "max_ego_cluster": 2,
+      "max_volatility": "LOW — McGraw himself provided all the volatility the team needed",
+      "discipline_floor": "HIGH — any player below the discipline floor is released immediately",
+      "star_exception": "Mathewson was the only player McGraw treated as an equal. All others submitted."
+    }
+  },
+
+  "chemistry_impact": {
+    "team_fit": {
+      "effect": "MEDIUM",
+      "desc": "McGraw forces fit through authority, not consensus. Players conform or leave. High baseline but brittle — if authority cracks, fit collapses."
+    },
+    "volatility": {
+      "effect": "STRONGLY REDUCED",
+      "desc": "McGraw is the only source of volatility allowed. Player volatility is suppressed through fear and discipline. But the manager himself creates organizational volatility."
+    },
+    "discipline": {
+      "effect": "STRONGLY INCREASED",
+      "desc": "Maximum discipline enforcement. Curfews, meal reviews, pitch-calling, lifestyle control. The most disciplined teams in baseball history."
+    },
+    "ego": {
+      "effect": "LOW TOLERANCE",
+      "desc": "Stars submit or are traded. Only Mathewson was exempt. High-ego clusters will fracture under McGraw — max 2 high-ego players before penalties."
+    },
+    "work_habits": {
+      "effect": "INCREASED",
+      "desc": "McGraw demanded preparation and effort. 'He lived to teach young men how to play baseball.' Players improved under him — Grimes learned more in one season than all prior years."
+    },
+    "adaptability": {
+      "effect": "LOW",
+      "desc": "McGraw does not adapt to players — players adapt to McGraw. Era-foreign players struggle. The system is rigid by design. Strength becomes weakness in his final years."
+    }
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Little Napoleon",
+      "desc": "Absolute authority. All team decisions flow through McGraw. Suppresses player autonomy but creates tactical clarity. +2 Discipline, -1 Adaptability for all players."
+    },
+    {
+      "tag": "The Teacher",
+      "desc": "Master developer of raw talent. Young players (age < 25) gain +1 to any stat after 5 games under McGraw. 'He lived to teach young men how to play baseball.'"
+    },
+    {
+      "tag": "Reclamation Artist",
+      "desc": "Can extract value from 'broken' players other managers discarded. Players with negative chemistry traits have those penalties reduced by 1 under McGraw."
+    },
+    {
+      "tag": "Broadway King",
+      "desc": "McGraw's celebrity attracts media attention. +1 Publicity in New York. But also attracts gamblers and scandal — 10% chance of 'Gambling Connection' drama event per series."
+    },
+    {
+      "tag": "Iron Fist",
+      "desc": "Players cannot refuse lineup decisions or role assignments. Eliminates 'Role Rejection' events. But players with Ego > 7 have -2 morale permanently."
+    },
+    {
+      "tag": "Umpire Baiter",
+      "desc": "131 career ejections. McGraw gets ejected from 15% of games. When ejected, team loses tactical bonuses for the remainder of the game."
+    },
+    {
+      "tag": "Ghost of Mathewson",
+      "desc": "McGraw's best friend Christy Mathewson died in 1925. After 1925, McGraw's effectiveness declines. -1 to all clubhouse ratings in late-career scenarios."
+    },
+    {
+      "tag": "Champion's Swagger",
+      "desc": "McGraw put 'World's Champions' on his team's jerseys. After any series win, +1 Intensity for next series. After a loss, -1 Harmony as McGraw's rage spills over."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "McGraw's kingdom. Managed here for 30 years. The most feared venue in the NL.",
+      "note_extra": "Source labeled 'Polo Grounds / Home Ballpark' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH as the home ballpark command domain. Standard home-stage → Media/Spotlight/HIGH for a manager. McGraw's 30-year tenure at the Polo Grounds makes this his definitive stage; no other manager in the set held a single home venue for longer."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "Owned a poolroom with Arnold Rothstein. Loved whiskey and cigars. Broadway nightlife regular.",
+      "note_extra": "Source labeled 'Bar / Saloon' / affinity 'HIGH' — mapped to Hotel/Rest/HIGH as the nightlife-engagement domain. First Hotel/Rest/HIGH in the set. All prior Hotel/Rest entries were MEDIUM (rest/retreat) or LOW (avoidance). McGraw's bar/saloon HIGH is the mirror inversion of every prior LOW: where Mathewson, Lazzeri, Manush, McCarthy, and McGinnity all register LOW for the same domain type (bar/saloon/nightlife), McGraw registers HIGH through enthusiastic engagement and ownership. The Rothstein poolroom co-ownership makes this not casual enjoyment but institutional vice — a social domain McGraw commanded as deliberately as the Polo Grounds."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Owned share of Cuban racetrack and casino. Deep gambling connections. His fatal flaw.",
+      "note_extra": "Source labeled 'Gambling Hall / Racetrack' / affinity 'HIGH' — mapped to Community Events/HIGH as the vice-social institutional domain. The gambling hall and racetrack are pleasure-and-institution social spaces where McGraw was not a visitor but an owner and participant. The 'dark side' of his Community Events HIGH: where the Clubhouse/HIGH encoded mentorship and team-building for McGinnity and McCarthy, McGraw's HIGH encodes vice-pleasure and gambling ownership. Distinct from the Rothstein poolroom (Hotel/Rest/HIGH — nightlife-social) in character: this is the institutional gambling domain (track, casino, hall) where money, ownership, and scandal converged. First gambling-specific Community Events/HIGH in the set."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "MEDIUM",
+      "note": "Ventured into vaudeville for 15 weeks in 1912. Celebrity in New York's entertainment world.",
+      "note_extra": "Source labeled 'Theater / Vaudeville' / affinity 'MEDIUM' — mapped to Media/Spotlight/MEDIUM as the secondary spotlight domain. McGraw's 15-week vaudeville appearance in 1912 (with 'Odiva the Goldfish Lady') and celebrity status in New York entertainment are genuine but secondary spotlight engagements — the theater as an extension of his fame, not the source of it. MEDIUM encodes the peripheral-but-real spotlight registration. Two Media/Spotlight entries on this card (HIGH at the Polo Grounds + MEDIUM at the theater). First manager with two Media/Spotlight entries."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Conducted team meetings, reviewed meals, enforced curfews. The hotel was an extension of his authority.",
+      "note_extra": "Source labeled 'Hotel / Private Suite' / affinity 'MEDIUM' — mapped to Hotel/Rest/MEDIUM as the authority-in-transit domain. McGraw's hotel suite is not a rest space or a social-luxury space but a command center away from the ballpark: he reviewed players' meals, enforced curfews, conducted team meetings from the suite. MEDIUM rather than HIGH because the hotel was an extension of the dugout, not a domain McGraw sought for its own sake. Two Hotel/Rest entries on this card (HIGH at the bar/saloon nightlife domain + MEDIUM at the hotel command-authority domain) — first manager with two Hotel/Rest entries at different affinities encoding opposite registers: voluntary pleasure (HIGH) and imposed authority (MEDIUM)."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "'He lived to teach young men how to play baseball.' Spring training in Marlin, TX was his classroom.",
+      "note_extra": "Source labeled 'Practice Field' / affinity 'HIGH' — mapped to Practice Field/HIGH as the teaching-and-craft domain. McGraw's spring training in Marlin, TX was where his system was installed and his talent development philosophy enacted. The Practice Field is the manager's craft laboratory — consistent with McCarthy's Front Office/Library/Quiet Spot/HIGH (the analytical craft space) but here explicitly pedagogical: McGraw drilled the fundamentals, taught inside baseball, and built his rosters from raw material into precision instruments. Standard Practice Field/HIGH for the set's most accomplished teacher-tactician."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "LOW",
+      "note": "Irish Catholic background but not publicly devout. Too busy winning.",
+      "note_extra": "Source labeled 'Church / Community' / affinity 'LOW' — mapped to Community Events/LOW as the weak-affiliation domain. McGraw's Irish Catholic background is genuine but entirely subordinated to baseball and Broadway celebrity. 'Too busy winning' as the note encodes the LOW precisely: not hostility to the community domain but indifference through total occupation elsewhere. First Community Events/LOW in the set. Two Community Events entries on this card (HIGH at the gambling hall + LOW at the church/community) — the juxtaposition of these two entries at opposite affinities encodes the McGraw moral paradox: the vice-social domain at HIGH, the religious-community domain at LOW."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Pennant race pressure — McGraw's teams finished first or second 21 of 29 seasons",
+      "Rivalry games — McGraw 'swaggered through every city, battling everyone'",
+      "After a loss — rage fueled relentless tactical adjustments",
+      "Young talent emerging — 'He lived to teach young men how to play baseball'"
+    ],
+    "cold_triggers": [
+      "Death of close associates — Mathewson, McGinnity, Ross Youngs devastated him",
+      "World Series losses — lost 6 of 9 Fall Classics despite 10 pennants",
+      "Health decline — plagued by illness in final years, managed from clubhouse",
+      "Player rebellion — by 1932, players 'hostile' to his pitch-calling and lifestyle control"
+    ],
+    "pressure_response": "PARADOXICAL. McGraw won 10 pennants but lost 6 of 9 World Series. His regular-season dominance was unmatched, but in the ultimate pressure of the Fall Classic, his rigidity sometimes became a liability. The 1905 WS (3 Mathewson shutouts) was his masterpiece. The 1921-22 WS wins over the Yankees were personal triumphs. But losses to the Athletics, Red Sox, and Senators haunt his legacy. In ILB: McGraw is elite in regular-season management but carries a 'WS Curse' — 40% chance of tactical bonus reduction in championship series."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "I Permit No Deviation",
+      "type": "Game Action",
+      "text": "Your manager calls every pitch, every play, every move. Your team gains +2 Tactics this game but any player with Ego > 6 has -1 Contact from frustration. If a player hits a home run against orders, they are fined and benched next game.",
+      "origin": "McGraw fined Sammy Strang $25 for hitting a home run when told to bunt: 'I permit no deviation from instructions.' He also fined Irish Meusel $100 for the same offense."
+    },
+    {
+      "title": "Release the Bums",
+      "type": "Trade",
+      "text": "Your manager releases up to 3 players rated (+5) or below in a single move. 'When I got to New York, the first thing I did was release nine players.' Draw 2 Free Agent Cards. Team Discipline +2 next series.",
+      "origin": "McGraw's first act as Giants manager in 1902 was releasing 9 of 17 players, despite the owner's protests. He rebuilt the team from scratch and went from last place to pennant contender in one year."
+    },
+    {
+      "title": "The Rothstein Connection",
+      "type": "Drama",
+      "text": "Your manager's gambling connections surface in the press. If team overall is 85+, it's a minor scandal (no effect). If below 85, a player with the lowest Discipline is implicated — suspended 3 games and -2 Team Fit.",
+      "origin": "McGraw co-owned a poolroom with Arnold Rothstein, who later bankrolled the 1919 Black Sox fix. McGraw also owned a share of a Cuban racetrack and casino with Giants owner Stoneham."
+    },
+    {
+      "title": "The Reclamation Project",
+      "type": "Action",
+      "text": "Your manager signs a discarded player that everyone else gave up on. Choose any released/free agent player rated (+5) or below. That player gains +1 to their highest stat permanently. 'He got useful work from drinkers and neurotics other clubs had given up on.'",
+      "origin": "McGraw took on reclamation projects like Turkey Mike Donlin, Bugs Raymond, and Hal Chase — salvaging careers other managers couldn't handle."
+    },
+    {
+      "title": "Champions of the World",
+      "type": "Action",
+      "text": "After winning a series, your manager puts 'WORLD'S CHAMPIONS' on the team's jerseys. +2 Intensity for next series. But opposing teams are now enraged — they gain +1 Clutch against you for the rest of the game.",
+      "origin": "In 1906, McGraw arrogantly had 'Champions of the World' emblazoned across the Giants' jerseys. The team became the most hated — and feared — in baseball."
+    },
+    {
+      "title": "Little Napoleon Gets Tossed",
+      "type": "Game Action",
+      "text": "Your manager is ejected after a violent argument with the umpire. For the rest of this game, all tactical bonuses are removed. But your team's Intensity goes up +1 as players rally around the outrage.",
+      "origin": "McGraw was ejected 131 times — the all-time record until Bobby Cox surpassed him in 2007. He 'abused umpires' and 'was the most notorious baiter of umpires from the moment he became a player.'"
+    },
+    {
+      "title": "Proud to Be a Giant",
+      "type": "Action",
+      "text": "Your manager's intensity creates a team identity so strong that players would rather suffer his tyranny than play elsewhere. All players with 3+ games under this manager gain +1 Team Fit permanently. 'His players suffered his tyranny as the price of victory, proud to be Giants.'",
+      "origin": "Larry Doyle famously said 'It's great to be young and a Giant' despite McGraw's public humiliation of him. When traded, Doyle was distraught. Burleigh Grimes said he 'learned more in one season under McGraw than in all the years before — or since.'"
+    }
+  ],
+
+  "art_direction": {
+    "face": "Small, pugnacious Irish face. 5'7\" 155 lbs — small even for his era. Sharp, aggressive eyes. Square jaw set in permanent combative scowl. Dark hair, clean-shaven in his prime. The look of a man who fights for everything and expects you to do the same.",
+    "attire": "New York Giants manager's suit, 1905 era. Dark wool suit with vest and watch chain — McGraw managed in street clothes, not a uniform, as was common for the era. Bowler hat or bareheaded. Standing with arms crossed in the dugout, jaw thrust forward, surveying his kingdom.",
+    "mood": "Commanding fury. Not calm, not serene — coiled intensity. The look of a man who has just called your pitch from 90 feet away and dares you to deviate. Napoleon surveying Austerlitz. The smartest, angriest man in the ballpark.",
+    "style": "Rich, dark sepia with aggressive warm tones. Heavier shadows than player cards — this is a card about power, not beauty. The Polo Grounds in the background, packed crowd visible. Ornate border with interlocking 'NY' motif. Gold leaf accents. The card should feel like authority incarnate.",
+    "reference": "This is the first manager card in ILB. It should feel weighty — like holding a piece of baseball's DNA. McGraw IS the archetype of the American sports manager. The card should evoke a T206 tobacco card but with the presence of a portrait of a general. Dark. Powerful. Unforgettable."
+  }
+}
