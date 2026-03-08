@@ -1,0 +1,220 @@
+{
+  "card_type": "player",
+  "name": "Van Lingle Mungo",
+  "nickname": "The Name That Became a Song",
+  "year": 1936,
+  "team": "Brooklyn Dodgers",
+  "league": "National League",
+  "era": "1930s",
+  "ilb_team": "Crashers AL1930",
+  "position": "SP",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'2\"",
+  "weight": "185 lbs",
+  "born": "June 8, 1911 — Pageland, South Carolina (mother's maiden name 'Lingle' became his middle name; drew scouts at age 15 with blazing fastball)",
+  "died": "February 12, 1985 — Pageland, South Carolina (age 73, heart attack; returned home after retirement, never left)",
+  "hof": "Not inducted. 120-115 (.511), 3.47 ERA, 1,242 K, 2,113 IP. 5× All-Star (1933-34, 1936-37, 1944). Led NL in K (238 in 1936). Led NL in K/9 three consecutive years (1935-37). The only quality pitcher on some very bad Dodgers teams. Dave Frishberg wrote a jazz song called 'Van Lingle Mungo' in 1969 — the name was too perfect not to sing.",
+
+  "real_stats": {
+    "season": 1936,
+    "wins": 18,
+    "losses": 14,
+    "era": "3.35",
+    "games": 37,
+    "games_started": 35,
+    "complete_games": 22,
+    "shutouts": 1,
+    "saves": 1,
+    "innings_pitched": "311.1",
+    "hits_allowed": 290,
+    "walks": 118,
+    "strikeouts": 238,
+    "whip": "1.311",
+    "win_pct": ".563",
+    "era_plus": 119,
+    "war": 5.9,
+    "career_wins": 120,
+    "career_losses": 115,
+    "career_era": "3.47",
+    "career_k": 1242,
+    "career_war": 23.9,
+    "career_ip": 2113
+  },
+
+  "ilb_stats": {
+    "ovr": 7,
+    "stf": 4,
+    "ctl": 0,
+    "sta": 3,
+    "def": 0,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "stf": "238 K in 1936 — led NL. Led NL in K/9 for three consecutive years (1935-37). 1,242 career K. Blazing fastball that inspired his name being given to Tommy Lasorda as a nickname. Every manager who had him — Casey Stengel, Max Carey, Leo Durocher — believed he'd be a star. 'Known for a great fastball.' The stuff was undeniably elite. Rating of 4.",
+    "ctl": "118 BB in 311.1 IP (3.4 BB/9) in 1936. Led the NL in walks in 1932, 1934, AND 1936. 1.311 WHIP. The 'erratic fastball' description is universal. He threw hard but wild. Career 3.47 ERA despite elite stuff because the walks killed him. Rating of 0 — maximum wildness.",
+    "sta": "311.1 IP in 1936. 22 CG. Averaged 250+ IP from 1932-36 before the arm injury. He threw hard and he threw a lot — until his arm couldn't take it anymore. After 1937, won only 13 games over the next 6 years. Rating of 3.",
+    "def": ".960 fielding percentage — league average. No particular defensive reputation. Rating of 0.",
+    "clu": "Never appeared in a World Series. The Dodgers were terrible throughout his prime (1932-37). When Brooklyn finally won the pennant in 1941, Mungo pitched only 2 games and was sent to Montreal. He never got the October stage. Rating of 0."
+  },
+
+  "personality": {
+    "leadership_style": "The Lone Gunslinger. Mungo was the only quality pitcher on some of the worst teams in the NL. He'd average 16 wins a year from 1932-36 on teams that finished in the second division. Every season, he'd promise to win 20 games. Every season, the Dodgers would fail around him. The annual announcement became part of baseball's language: Brooklyn would solemnly declare that Mungo 'will win 20 games for us next season.' It was becoming 'part of the language, like the Gettysburg Address.' He was a one-man staff on a team that didn't deserve him.",
+    "temperament": "Volcanic. Erratic. Self-destructive. Magnificent. Mungo 'probably paid more in fines than any player of his era.' He punched a woman's husband in Havana, got attacked with a machete, and had to be smuggled out of Cuba in a laundry cart to a seaplane. When outfielder Tom Winsett botched a fly ball that cost him a win, Mungo destroyed the clubhouse and sent his wife a telegram: 'Pack up your bags and come to Brooklyn, honey. If Winsett can play in the big leagues, it's a cinch you can, too.' Leo Durocher said he 'sounded like Edgar Bergen doing Mortimer Snerd from the bottom of a well.' He fought with teammates, managers, opponents, and umpires — often all in the same week.",
+    "work_ethic": "Raw, untamed talent. Scout found him at 15 with a blazing fastball. He went from Pageland, South Carolina to the big leagues at 20. His debut: 9-inning shutout, 12 K, 3 hits against the Braves. He wore Dazzy Vance's shoes that day because he'd split the sole of his own. He stepped into Vance's shoes 'literally as well as figuratively' — the new ace of Brooklyn. But unlike Vance, nobody could teach Mungo control. The talent was God-given. The wildness was, too.",
+    "lifestyle": "Small-town South Carolina boy who never left. Born in Pageland. Died in Pageland. After retirement, he purchased and operated a movie theater called the Ball Theatre. He built a balcony to accommodate Black patrons who had previously been denied access — a quietly progressive act in Jim Crow South Carolina. He lived simply, ran his theater, and was surprised when Dave Frishberg wrote a jazz song around his name in 1969. The name was too musical to resist.",
+    "era_adaptability": "MODERATE-HIGH. The fastball velocity and strikeout rate would absolutely translate to modern baseball. Led the NL in K/9 for three straight years — that's a modern metric king. But the walks (118 in 311 IP) would terrify modern analytics departments. He'd be a high-K, high-BB flamethrower — think a 1930s version of Nolan Ryan with less longevity and more fistfights. Modern pitch design might have turned his fastball into something unhittable. Or modern media might have gotten him suspended.",
+    "clubhouse_impact": "COMBUSTIBLE. Mungo was beloved by fans and feared by teammates. He destroyed clubhouses. He sent insulting telegrams. He got into fights in Havana. He was fined constantly. But he was also the only reason anyone came to Ebbets Field during the worst Dodgers years. Without Mungo, Brooklyn had nothing. He was simultaneously the team's greatest asset and its most dangerous liability.",
+    "dark_side": "The arm injury. After the 1937 season — when he was still only 26 — Mungo's arm gave out. He'd thrown 311 IP in 1936 and continued to throw hard through '37. The arm simply couldn't sustain the workload and the velocity. After arm surgery in 1940, he switched from fastball to finesse and hung on for a few more years, but the electric version of Mungo was gone. Before the injury: 107-84 from 1932-37 with multiple All-Star appearances. After: 13-31 in 7 diminished years. Like Dean, a career cut in half by overuse. Unlike Dean, no World Series ring to show for it."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Erratic Fastball",
+      "desc": "+2 STF permanently from raw velocity. But CTL stays at 0 — he led the NL in walks 3 times. The fastball is unhittable when it's in the zone. It's just rarely in the zone."
+    },
+    {
+      "tag": "Havana Laundry Cart Escape",
+      "desc": "Once per career, Mungo gets into a fight in a foreign country and must be smuggled out in a laundry cart to a seaplane. -$200 fine, -1 discipline, +5 entertainment, +3 legend."
+    },
+    {
+      "tag": "The Winsett Telegram",
+      "desc": "When a teammate commits a critical error behind Mungo: 50% chance Mungo destroys the clubhouse and sends his wife a telegram insulting the teammate. -1 team morale, +2 entertainment."
+    },
+    {
+      "tag": "Twenty Wins Next Year",
+      "desc": "Every offseason, Brooklyn announces Mungo will win 20 games. He never does. +1 hope in spring, -1 hope in September. The annual tradition is 'part of the language, like the Gettysburg Address.'"
+    },
+    {
+      "tag": "Dazzy Vance's Shoes",
+      "desc": "Mungo wore Vance's shoes in his debut (split his own sole). He stepped into the ace role 'literally and figuratively.' When inheriting a franchise legacy: +1 STF for first season."
+    },
+    {
+      "tag": "The Most Fined Player",
+      "desc": "Mungo paid more fines than any player of his era. -$50-200 per incident. Incidents occur at a rate of ~5 per season. The fines never change his behavior."
+    },
+    {
+      "tag": "One-Man Staff",
+      "desc": "When Mungo is the only quality SP on the roster: +1 STF and +1 STA (he rises to the occasion). But -1 W because the team behind him can't hit or field."
+    },
+    {
+      "tag": "The Song",
+      "desc": "In 1969, jazz musician Dave Frishberg writes a song called 'Van Lingle Mungo' because the name is too perfect not to sing. +10 post-career fame. The name outlasts the career."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "11 years. The only quality arm. The fans loved him even when the team was terrible.",
+      "note_extra": "Source labeled 'Ebbets Field / Brooklyn' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH as the career home stage. Mungo was the sole reason fans came to Ebbets Field during the worst Dodgers years of the 1930s. The home ballpark as the domain of loyal recognition: not championship glory but the particular fame of being beloved on a bad team."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "238 K in 1936. Led NL in K/9 three straight years. When the fastball works, nobody touches it.",
+      "note_extra": "Source labeled 'The Mound — Strikeout Zone' / affinity 'HIGH' — mapped to Practice Field/HIGH as the strikeout craft domain. The qualifier 'Strikeout Zone' distinguishes this from a generic pitcher's mound entry: Mungo's mound domain is specifically the zone of dominance when the fastball finds the plate. Second Pitcher's Mound at Practice Field/HIGH in the set (McGinnity's Iron Foundry/HIGH encoded labor-analogy; Mungo's encodes pure velocity craft). STF 4 with CTL 0 — the HIGH affinity belongs entirely to the stuff, not the control."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Born here. Died here. Ran the Ball Theatre. Built a balcony for desegregation. Never left.",
+      "note_extra": "Source labeled 'Pageland, South Carolina' / affinity 'HIGH' — mapped to Community Events/HIGH as the born-died-served hometown. Third born-and-died-in-the-same-town entry in the set (Mize's Demorest/HIGH was second; McGinnity's Iron Foundry hometown was the first pattern). Mungo's Pageland is marked by the Ball Theatre desegregation — the community-events dimension is not merely residential but activist. The man who brawled in Havana quietly built a balcony for Black patrons in Jim Crow South Carolina."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Where he destroyed equipment and sent telegrams after errors. The clubhouse feared him.",
+      "note_extra": "Source labeled 'The Clubhouse (post-loss)' / affinity 'MEDIUM' — mapped to Hotel/Rest/MEDIUM as the post-game behavioral domain. The post-loss clubhouse as a recurring site of elevated intensity: equipment destruction after errors, the Winsett telegram dispatched from within these walls. MEDIUM rather than HIGH because the clubhouse is a place of habitual volatility rather than craft mastery or comfort — it's the domain where Mungo's temperament overflowed its banks on a regular but not constant basis. Hotel/Rest encodes the between-performance social/domestic space where behavior was unregulated."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Punched a husband. Attacked with a machete. Escaped in a laundry cart to a seaplane. Never going back.",
+      "note_extra": "Source labeled 'Havana, Cuba' / affinity 'LOW' — mapped to Hotel/Rest/LOW as a foreign social domain of catastrophe. First international travel location at LOW in the set. The Havana incident is the set's most baroque Hotel/Rest/LOW: the encounter with the husband, the machete, the laundry cart, the seaplane. The LOW encodes aversion earned through lived catastrophe — 'never going back.' Havana is the farthest extreme of the Hotel/Rest domain's LOW register, adding a fifth distinct LOW moral register to the taxonomy: McInnis nightlife-avoidance, McKechnie directional-comedic, McGinnity/Medwick occupational-displacement, terminal medical — and now Mungo's international-combat-and-flight."
+    },
+    {
+      "location": "Postseason",
+      "affinity": "NONE",
+      "note": "Never appeared. The Dodgers were terrible. The stage he deserved was the stage he never got.",
+      "note_extra": "Source labeled 'October / Postseason' / affinity 'NONE' — first 'NONE' affinity in the set. Structurally distinct from LOW (which encodes aversion, negative experience, or diminishment) — NONE encodes absolute absence: the domain never existed for this player. The UI code handles NONE with the same warmRed styling as LOW, but the semantic distinction is critical. Mungo's CLU 0 and NONE postseason affinity are the same fact expressed twice: no postseason experience, no postseason stage, no World Series — ever. The pressure_response field encodes this with unusual directness: 'UNKNOWN — HE NEVER GOT THE CHANCE.'"
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Strikeout streaks — when the fastball is humming, he K's everyone. 238 K in 1936.",
+      "Anger — after a teammate's error, Mungo gets furious and throws even harder.",
+      "Early season — he always starts strong. The '20 wins' promise fuels April confidence.",
+      "Debut energy — his first game was a 12-K shutout. When facing a new opponent, +1 STF."
+    ],
+    "cold_triggers": [
+      "Walks — 118 BB in 1936. When the control goes, everything goes. The plate disappears.",
+      "Teammate errors — Winsett moments. Mungo loses focus and loses composure.",
+      "Arm fatigue — after 250+ IP, the velocity drops and the arm starts to fail.",
+      "Off-field chaos — Havana. Fines. Suspensions. The distractions pile up."
+    ],
+    "pressure_response": "UNKNOWN — HE NEVER GOT THE CHANCE. Mungo never pitched in a World Series. The Dodgers were terrible throughout his prime. When Brooklyn finally won the 1941 pennant, Mungo pitched only 2 games and was sent to the minors. The most tantalizing what-if in 1930s baseball: what would Van Lingle Mungo have done in October? We'll never know. The fastball that struck out 238 in a season never got to hum under the World Series lights."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Name That Became a Song",
+      "type": "Drama",
+      "text": "Your pitcher retires. Twenty-four years later, a jazz musician writes a song. The song is nothing but baseball players' names — but the title, the chorus, the hook, is your pitcher's name. Because the name is too perfect. Van Lingle Mungo. It sounds like music already. The song becomes a classic. The name outlasts the career.",
+      "origin": "1969: Dave Frishberg wrote 'Van Lingle Mungo,' a jazz song composed entirely of baseball player names. The song is now a classic."
+    },
+    {
+      "title": "The Havana Laundry Cart",
+      "type": "Drama",
+      "text": "Your pitcher is in Havana during spring training. He gets involved with a woman. The woman's husband appears. Your pitcher punches the husband in the eye. The husband attacks with a butcher knife. A team executive smuggles your pitcher into a laundry cart, wheels him to a wharf, and loads him onto a seaplane. He escapes Cuba in a laundry basket. He is fined $200.",
+      "origin": "Mungo's infamous Havana incident — punched a husband, fled a machete, escaped in a laundry cart to a seaplane."
+    },
+    {
+      "title": "If Winsett Can Play in the Big Leagues",
+      "type": "Action",
+      "text": "Your pitcher is protecting a slim lead. Your outfielder drops a routine fly ball. The lead is gone. Your pitcher retreats to the clubhouse, destroys everything he can destroy, and throws into the field what he cannot destroy. Then he sends his wife a telegram: 'Pack up your bags and come to Brooklyn, honey. If Winsett can play in the big leagues, it's a cinch you can, too.'",
+      "origin": "After Tom Winsett botched a fly ball, Mungo destroyed the clubhouse and sent his wife the famous telegram."
+    },
+    {
+      "title": "Twenty Wins Next Year",
+      "type": "Action",
+      "text": "Every December, your team solemnly announces that your star pitcher 'will win 20 games next season.' He never does. But the announcement keeps coming. Year after year. It becomes tradition. It becomes ritual. It becomes 'part of the language, like the Gettysburg Address.'",
+      "origin": "Brooklyn's annual declaration that Mungo would win 20 games became a national joke. He never did."
+    },
+    {
+      "title": "Dazzy Vance's Shoes",
+      "type": "Action",
+      "text": "Your rookie pitcher splits the sole of his shoe before his debut. The only pair that fits belongs to the aging ace — the legend whose job your rookie is about to take. Your rookie wears the legend's shoes. He throws a 9-inning shutout with 12 strikeouts. He steps into the ace role literally and figuratively.",
+      "origin": "Mungo wore Dazzy Vance's shoes in his MLB debut — a 12-K shutout of the Braves."
+    },
+    {
+      "title": "238 Strikeouts on a Last-Place Team",
+      "type": "Game Action",
+      "text": "Your pitcher leads the National League in strikeouts — 238 of them. He also leads the league in walks. He throws 311 innings. His team finishes in the second division. He makes the All-Star team. He is magnificent and cursed in equal measure.",
+      "origin": "1936: Mungo led NL in K (238) and BB (118) while pitching 311 IP for a bad Dodgers team."
+    },
+    {
+      "title": "The Ball Theatre",
+      "type": "Drama",
+      "text": "Your retired pitcher goes home to small-town South Carolina. He buys a movie theater called the Ball Theatre. In Jim Crow country, he builds a balcony so Black patrons can finally watch movies — they'd been denied access before. The man who punched husbands in Havana and destroyed clubhouses in Brooklyn quietly desegregates entertainment in Pageland.",
+      "origin": "After retirement, Mungo operated the Ball Theatre in Pageland, SC, and built a balcony to accommodate Black patrons previously denied access."
+    },
+    {
+      "title": "The Arm That Gave Out",
+      "type": "Drama",
+      "text": "Your ace is 26 years old. He's thrown 311 innings. He's thrown harder than almost anyone in the league for five straight years. His arm finally breaks. After surgery, he switches from fastball to finesse. Before: 107-84, 5× All-Star. After: 13-31 in 7 diminished years. The fastest arm in the NL is gone at 26.",
+      "origin": "Mungo's arm gave out after 1937. After surgery in 1940, he switched styles but was never the same."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Young, intense, Southern. 6'2\" 185 lbs — lean, athletic, wound tight. The face should show volatility — this is the man who punched husbands, destroyed clubhouses, and threw 238 strikeouts. Not calm. Not composed. Coiled, about to explode. The fastball is in the eyes before it's in the hand.",
+    "attire": "Brooklyn Dodgers 1936 road grays. Ebbets Field behind him — or better, the empty stands of a bad Dodgers team. The delivery — high leg kick, fastball about to be uncorked. Maybe a laundry cart visible in the corner, a subtle Havana easter egg.",
+    "mood": "Electricity and frustration. The card should feel like a thunderstorm — all that power with nowhere to go. The Dodgers are losing. The fastball is blazing. The walks are piling up. The telegram is being written. Everything about Mungo is excess — too much velocity, too much temper, too much talent for too little team.",
+    "style": "1930s Brooklyn — Ebbets Field brick, Flatbush Avenue grit. But also Pageland, South Carolina — the Ball Theatre, the quiet retirement, the small-town decency beneath the big-league chaos. The card should have two layers: the volcano on the mound and the man who desegregated his movie theater.",
+    "reference": "The card of the name that became a jazz song. The man who escaped Havana in a laundry cart. The man who telegrammed his wife about Tom Winsett. The man who led the league in strikeouts and walks in the same year. The man who was promised to win 20 games every year and never did. The man who opened a movie theater and quietly integrated it. Van Lingle Mungo — the most beautiful name in baseball history, attached to the most chaotic career."
+  }
+}

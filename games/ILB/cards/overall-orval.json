@@ -1,0 +1,182 @@
+{
+  "card_type": "player",
+  "name": "Orval Overall",
+  "nickname": "The Money Pitcher",
+  "year": 1909,
+  "team": "Chicago Cubs",
+  "era": "1910s",
+  "ilb_team": "Muggers 1910",
+  "position": "SP",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'2\"",
+  "weight": "214 lbs",
+  "born": "February 2, 1881 — Farmersville, CA",
+  "died": "July 14, 1947 — Fresno, CA (age 66)",
+  "hof": "Not inducted. 108-71, 2.23 career ERA (#8 all-time). Two World Series championships (1907, 1908). Retired at 32 due to arm injury — only 7 MLB seasons. Short peak excluded him from HOF consideration.",
+
+  "real_stats": {
+    "season": 1909,
+    "wins": 20,
+    "losses": 11,
+    "era": "1.42",
+    "shutouts": 9,
+    "strikeouts": 205,
+    "innings_pitched": "249",
+    "whip": "0.96",
+    "k_per_9": "7.4",
+    "walks": 80,
+    "career_wins": 108,
+    "career_losses": 71,
+    "career_era": "2.23",
+    "career_era_rank": "8th all-time",
+    "career_strikeouts": 935,
+    "career_shutouts": 30,
+    "ws_record": "3-1",
+    "ws_era": "1.58",
+    "ws_titles": 2
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "stf": 3,
+    "ctl": 2,
+    "sta": 2,
+    "def": 1,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "stf": "Curveball specialist — 'wide, sweeping overhand swing, releasing over the side of the index finger.' Led NL in K (205, 1909). 935 career K. Johnny Evers devoted a section of 'Touching Second' to describing Overall's curve mechanics. Not pure velocity — deception and movement. Rating of 3.",
+    "ctl": "1.42 ERA in 1909. 2.23 career ERA (#8 all-time). Only 9 HR allowed in 923 IP (1907-10). BUT: 147 BB as a rookie, 80 BB in 1909. Control improved dramatically after Cincinnati but never truly elite. Rating of 2.",
+    "sta": "318 IP rookie year (overworked in Cincinnati). Thrived with reduced workload in Chicago — 268 IP (1907), 249 IP (1909). BUT: arm 'went' in 1911 at age 30. Only 7 MLB seasons. Attempted comeback 1913, retired at 32. Fragile arm despite massive frame. Rating of 2.",
+    "def": "No particular fielding distinctions noted. Rating of 1.",
+    "clu": "3-1, 1.58 ERA in World Series. 2× champion (1907, 1908). Clinched 1908 WS with CG 3-hit shutout — the last Cubs championship for 108 years. Struck out 4 batters in one WS inning (first pitcher ever in postseason, not matched until 2013). Held Ty Cobb to .125 BA. 'Money pitcher' — pitched Opening Day 1906-10. Rating of 3."
+  },
+
+  "personality": {
+    "leadership_style": "THE ACE. 'Money pitcher' — Opening Day starter five consecutive years. Usually pitched the first game of each series. Frank Chance trusted Overall for the biggest moments. Not a rah-rah leader but a presence: 6'2\" 214 lbs, the biggest man on the pitching staff, with the sharpest curve.",
+    "temperament": "CALIFORNIA COOL. UC Berkeley educated. Football All-American. Sigma Nu fraternity. Co-owned a gold mine with Mordecai Brown. This is not a scrappy dead-ball grinder — this is an ATHLETE-INTELLECTUAL from the California sunshine who happened to throw one of the best curveballs in baseball history. Confident bordering on entitled. Held out in spring training. Remained in California when he didn't feel like playing.",
+    "work_ethic": "BRILLIANT BUT FRAGILE. When healthy: 23-7, 1.68 ERA. 20-11, 1.42 ERA. When overworked (Cincinnati): diminished. When the arm went (1911): retired rather than grind through mediocrity. This is the Thoroughbred, not the Clydesdale. The talent was immense. The durability was not.",
+    "dark_side": "The arm that broke. Overall was overworked in Cincinnati (400 IP in 1.5 seasons). Chance reduced his workload and got brilliance. But the damage was done. Playing semipro in 1911, 'he felt something go.' The 1913 comeback (4-5, 3.31) proved the arm was gone. He retired at 32 as a wealthy man — gold mine, citrus farm, brewery job. Ran for Congress 1918 (lost). The pitcher who walked away because he could afford to. The opposite of Alexander, who pitched until he had nothing left. Overall left while he still had everything else."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Money Pitcher",
+      "desc": "Opening Day starter 5 consecutive years. First game of each series. 3-1, 1.58 ERA in WS. +3 CLU. The man Chance called for when it mattered."
+    },
+    {
+      "tag": "The 1908 Clincher",
+      "desc": "Game 5, 1908 WS: CG 3-hit shutout. Cubs win championship. Last Cubs title for 108 years. 4 K in one WS inning — first in postseason history. +4 historical significance."
+    },
+    {
+      "tag": "The Sweeping Curve",
+      "desc": "Johnny Evers: 'wide, sweeping overhand swing, releasing the ball over the side of the index finger.' The curve that made him. +3 STF."
+    },
+    {
+      "tag": "Brown's Mining Partner",
+      "desc": "Co-owned a gold mine with Mordecai Brown. Stayed in California to work the mine during holdouts. If both on roster: +1 synergy. Two aces digging gold together."
+    },
+    {
+      "tag": "The Cal Man",
+      "desc": "UC Berkeley. Football All-American. Team captain. First Cal player to reach MLB. Sigma Nu. +2 education. The most athletic pedigree on the Muggers pitching staff."
+    },
+    {
+      "tag": "The Fragile Arm",
+      "desc": "Overworked in Cincinnati (400 IP in 1.5 seasons). Arm 'went' in 1911. Only 7 MLB seasons despite elite talent. -2 STA. -1 longevity. The career that should have been longer."
+    },
+    {
+      "tag": "The Wealthy Retiree",
+      "desc": "Gold mine. Citrus farm. Brewery company. Inherited father's estate. Ran for Congress. Retired at 32 because he could afford to. +2 post-career, -1 competitive fire."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Born in Farmersville, died in Fresno. Gold mine, citrus farm — he came from California sunshine and returned to it.",
+      "note_extra": "Source: personality.temperament ('California sunshine'), art.style ('came from sunshine and returned to it'), chemistry_traits.The Wealthy Retiree (gold mine, citrus farm, post-career enterprises). The California homeland encodes both origin and destination — Overall's civic and economic life was rooted in the Central Valley throughout his career. The gold mine and citrus farm are Community Events enterprises: commercial-civic activities grounded in a specific landscape. Fifth born-and-returned hometown at Community Events/HIGH (Musial/Donora, Newhouser/Detroit, O'Doul/San Francisco, Ott/Gretna, Overall/Central Valley California). Overall's is the most economically specific: the gold mine and citrus farm are named enterprises, not merely residential permanence."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "3-1, 1.58 ERA in World Series. Clinched 1908. 4 K in one WS inning. CLU 3 — maximum clutch.",
+      "note_extra": "Source: justification.clu, chemistry_traits.The Money Pitcher, chemistry_traits.The 1908 Clincher, action_card_seeds.The 1908 Clincher. The mound as the clutch-performance craft domain — same mapping as prior pitcher Practice Field/HIGH entries (McGinnity, Mungo, Newhouser). Overall's register is specifically the WS mound: his regular-season stats (STF 3, CTL 2) are moderate, but his WS mound stats (1.58 ERA, 4 K in one inning, CG clincher) are elite. The Practice Field/HIGH encodes the performance-level gap between regular season and October — Overall's mound was at its highest in the biggest moments."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Co-owned a gold mine with Mordecai Brown. Stayed in California during holdouts to work the mine.",
+      "note_extra": "Source: chemistry_traits.Brown's Mining Partner, personality.temperament ('co-owned a gold mine with Mordecai Brown'). The gold mine as a named civic-commercial enterprise with a specific partner. This is a distinct Community Events/HIGH from the general California homeland entry above — the gold mine is a shared enterprise with a future card subject (Mordecai Brown), not merely a residential domain. The holdout narrative (remaining in California to work the mine) encodes this HIGH as an active competing priority against baseball, not a passive identity. Two Community Events/HIGH entries on one card both grounded in California, but one is homestead (Farmersville/Fresno) and one is enterprise (the gold mine with Brown)."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "2× WS champion. Opening Day ace 1906-10. Clinched the last Cubs championship for 108 years.",
+      "note_extra": "Source: chemistry_traits.The Money Pitcher, chemistry_traits.The 1908 Clincher, justification.clu. The franchise stage as Media/Spotlight/HIGH: five consecutive Opening Day starts, the two WS championships, and the 1908 clincher as a historically defined franchise moment. The '108 years' framing encodes the Media/Spotlight dimension — the 1908 championship is still the defining reference point for the Cubs franchise in 2026, making Overall's Media/Spotlight/HIGH one of the most historically durable in the set."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Held out in spring training. Remained in California when he didn't feel like playing.",
+      "note_extra": "Source: personality.temperament ('Held out in spring training. Remained in California when he didn't feel like playing.'). The spring training / team-reporting domain as Hotel/Rest/LOW. First Hotel/Rest/LOW for professional disengagement — not social aversion (Musial, Newhouser), not catastrophe (Mungo), not fatal transit (Ott), not career injury (Medwick), but a principled preference to stay home rather than fulfill contractual obligations on the team's schedule. Ninth Hotel/Rest/LOW register: wealthy non-compliance. The LOW encodes Overall's California Cool temperament applied to the baseball calendar — the gold mine and citrus farm were more compelling than spring training in February. The chemistry_trait 'The Wealthy Retiree' (-1 competitive fire) is the mechanical expression."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "October — 3-1, 1.58 ERA in WS. Game 1 of each series. CLU 3 activates under maximum pressure.",
+      "Opening Day — named starter 1906-10. Early-season presence at peak performance.",
+      "California weather — warm conditions match his natural environment and peak physical state.",
+      "Paired with Mordecai Brown — the 'Gold Mine' synergy activates when both are on the roster."
+    ],
+    "cold_triggers": [
+      "Arm workload — every 250+ IP season raises injury risk. The Cincinnati overwork (318 IP as rookie) never fully healed.",
+      "Spring training friction — holdout history. Motivation uncertainty before the season begins.",
+      "Semipro settings — arm finally gave out in a semipro game in Stockton, 1911. Diminished conditions accelerate decline.",
+      "Late career (post-1910) — rapid deterioration after the arm went. The comeback 1913 was a ghost of the 1909 peak."
+    ],
+    "pressure_response": "MAXIMUM CLUTCH. Overall's regular-season profile (STF 3, CTL 2) understates his October value. In the World Series he was 3-1, 1.58 ERA, threw a clinching CG shutout, and struck out 4 batters in one inning — the first pitcher ever to do so in postseason play. Frank Chance called him for the biggest games. CLU 3 is the maximum for pitchers. But the arm's fragility (STA 2) means maximum pressure over an extended series accelerates the injury risk. Overall delivers — once. Get the ring before the arm breaks."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The 1908 Clincher",
+      "type": "Game Action",
+      "text": "World Series Game 5. Your pitcher takes the mound for the clinching game. He throws a complete game, 3-hit shutout. In the first inning, he strikes out FOUR batters — the first pitcher ever to do this in a postseason game. Ty Cobb hits .125 against him in the Series. The Cubs are champions. They will not win again for 108 years. +4 CLU. +3 historical significance. The last pitch of the Cubs' golden age.",
+      "origin": "Oct 14, 1908: Overall CG shutout, 4 K in one inning, clinched WS."
+    },
+    {
+      "title": "1.42 ERA, 9 Shutouts, 205 K",
+      "type": "Game Action",
+      "text": "Your pitcher finishes 1909 leading the NL in shutouts (9) and strikeouts (205) with a 1.42 ERA. 'He might have won the Cy Young except Young was still an active player.' +3 STF. +2 dominance. The best season by a pitcher who didn't win 25 games.",
+      "origin": "1909: 20-11, 1.42 ERA, led NL in SHO and K."
+    },
+    {
+      "title": "The Curve That Evers Wrote About",
+      "type": "Game Action",
+      "text": "Your pitcher's curveball is so distinctive that his own teammate writes a technical description of it in a book. 'Wide, sweeping overhand swing, releasing the ball over the side of the index finger as his hand turns downward.' The curve darts. Hitters wave. +2 STF. The pitch that made the money pitcher.",
+      "origin": "Johnny Evers described Overall's curve in 'Touching Second.'"
+    },
+    {
+      "title": "The Arm Goes",
+      "type": "Drama",
+      "text": "1911. Your pitcher is playing semipro ball in Stockton, staying in shape at the gold mine. He throws a pitch. He feels something go. He believes the arm will never be the same. He is right. The arm that threw 1.42 ERA and 9 shutouts is done. -3 STA. -2 career. The fragile arm that carried the Cubs dynasty.",
+      "origin": "1911: Overall felt something go in his arm pitching semipro."
+    },
+    {
+      "title": "The Wealthy Walk-Away",
+      "type": "Drama",
+      "text": "Your pitcher retires at 32. He owns a gold mine. He runs a citrus farm. He works for a brewery. He runs for Congress. He is wealthy. He doesn't need baseball. Alexander pitches until 63 and dies in a boardinghouse. Your pitcher leaves while he still has everything else. +2 wisdom. -1 legend. The pitcher who chose life over legacy.",
+      "origin": "Overall retired wealthy — gold mine, citrus farm, brewery, Congressional run."
+    }
+  ],
+
+  "art_direction": {
+    "face": "BIG, CONFIDENT, CALIFORNIAN, ATHLETIC. 6'2\" 214 lbs — the LARGEST pitcher on the Muggers, bigger even than Johnson (6'1\" 199). The face should radiate CALIFORNIA CONFIDENCE — tanned, strong-featured, the look of a man who was a football All-American AND a baseball ace. Not the weathered face of a midwestern grinder — the HEALTHY, POWERFUL face of a California athlete-intellectual. Expression: COMPOSED AUTHORITY. The calm of a money pitcher who knows he'll be on the mound for the biggest game.",
+    "mood": "GOLDEN AND POWERFUL. The card should feel like CALIFORNIA SUNSHINE applied to dead-ball baseball. Where Alexander is Nebraska wheat and battlefield gray, Overall is CALIFORNIA GOLD and CUBS BLUE. Warm, confident, athletic.",
+    "style": "Sepia-toned with CALIFORNIA GOLD and CUBS DYNASTY BLUE — the warm gold of Central Valley sunshine (Farmersville, Visalia) and the blue of the Cubs dynasty era. The WARMEST pitcher palette in the collection. The color of a man who came from sunshine and returned to it."
+  }
+}

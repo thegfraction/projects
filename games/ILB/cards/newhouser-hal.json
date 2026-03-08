@@ -1,0 +1,222 @@
+{
+  "card_type": "player",
+  "name": "Hal Newhouser",
+  "nickname": "Prince Hal",
+  "year": 1945,
+  "team": "Detroit Tigers",
+  "era": "1940s",
+  "ilb_team": "Allies AL1940",
+  "position": "SP",
+  "bats": "L",
+  "throws": "L",
+  "height": "6'2\"",
+  "weight": "180 lbs",
+  "born": "May 20, 1921 — Detroit, MI",
+  "died": "November 10, 1998 — Southfield, MI (age 77)",
+  "hof": "Inducted 1992 (Veterans Committee). #16 retired by Detroit. Only pitcher with back-to-back MVPs.",
+
+  "real_stats": {
+    "season": 1945,
+    "games": 40,
+    "wins": 25,
+    "losses": 9,
+    "era": "1.81",
+    "innings": "313.1",
+    "strikeouts": 212,
+    "walks": 110,
+    "complete_games": 29,
+    "shutouts": 8,
+    "whip": "1.02",
+    "war": 10.5,
+    "career_wins": 207,
+    "career_losses": 150,
+    "career_era": "3.06",
+    "career_strikeouts": 1796,
+    "career_cg": 212,
+    "career_shutouts": 33,
+    "career_war": 63.0,
+    "no_hitters": 0,
+    "perfect_games": 0
+  },
+
+  "ilb_stats": {
+    "ovr": 10,
+    "stf": 5,
+    "ctl": 0,
+    "sta": 4,
+    "def": 1,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "stf": "1.81 ERA in 1945 — led the AL. Pitching Triple Crown (W/ERA/K). K/9 of 6.09 was elite for the era, triggering the +1 bonus. Birdie Tebbetts said his overhand curve was 'the best pitch I've ever seen' and 'nobody has got a hit off it yet.' His fastball was compared to Lefty Grove's — 'does things as it flutters across the letters on a batter's shirt.' Proved it wasn't just wartime: went 26-9 with 1.94 ERA and 275 K in 1946 when stars returned. Maximum stuff rating.",
+    "ctl": "BB/9 of 3.16 in 1945 — 110 walks in 313 innings. Newhouser had a wild streak throughout his career. His early years were marked by walking more batters than he struck out (1941-42). Even in his peak, he walked 100+ batters every year. WHIP 1.02 narrowly misses the bonus threshold. His control was his Achilles heel — he was a power pitcher who overwhelmed hitters, not a precision artist. Rating of 0.",
+    "sta": "313.1 IP in 1945, 312.1 IP in 1944. 29 complete games. Averaged 295 IP/year from 1944-49. This workload eventually destroyed his arm — by 1950 his shoulder was gone. But at peak, Newhouser was an absolute workhorse. Rating of 4.",
+    "def": "Led AL pitchers in both assists (52) and putouts (23) in 1947. Good athletic pitcher who fielded his position well. Not an elite defensive pitcher but above average. Pre-Gold Glove equivalent: ~1-2 GG. Rating of 1.",
+    "clu": "1945 World Series: 2-1 record. Won Game 5 (CG, 8-4) and Game 7 (CG, 9-3, 10 K). But was shelled in Game 1 — 7 earned runs in less than 3 innings, 9-0 loss. Overall 22 K in 20.2 WS IP but 6.10 ERA. The Game 7 win on two days rest is a genuine hero moment. Rating of 2 — redeemed himself spectacularly but the Game 1 debacle prevents maximum clutch."
+  },
+
+  "personality": {
+    "leadership_style": "Fiery, intense, demanding. Newhouser was not easy to be around on game day. He expected perfection from himself and his teammates. He would openly berate fielders who made errors behind him. Manager Steve O'Neill called him a 'problem child' early in his career — brilliant but volatile. As he matured, the intensity became more focused, but it never disappeared. He drove himself harder than anyone.",
+    "temperament": "Volcanic competitor beneath a princely exterior. The nickname 'Prince Hal' came from his regal bearing and good looks, but underneath was a furnace of competitive rage. He later admitted he 'tried hard' to win the second MVP because he knew how rare it was for a pitcher. When O'Neill sent him to the bullpen early in 1944 and said it was his 'last chance,' Newhouser responded with a 12-inning complete game shutout. He channeled fury into performance.",
+    "work_ethic": "Extraordinary self-improvement arc. Newhouser was wild and erratic in his early years (34-52 record in first 5 seasons). He spent the 1943-44 offseason completely retooling his delivery with catcher Paul Richards. The transformation was immediate — he went from 8-17 to 29-9 in one year. He studied hitters obsessively: 'I pitched against the pitcher, not against the hitters. The vast percentage of the time the ball was in my hand, everything was in my favor.'",
+    "lifestyle": "Detroit native, Detroit lifer. Born and raised in the city, signed with his hometown team at 17. Married young, raised a family in the Detroit suburbs. After playing, became a bank vice president at Community National Bank of Pontiac. Also worked as a scout — for the Orioles, he signed Dean Chance. For the Astros, he insisted they draft Derek Jeter out of high school (they didn't). Clean-living, professional, upwardly mobile.",
+    "era_adaptability": "HIGH. Newhouser's stuff — blazing fastball, devastating overhand curve, excellent changeup — would translate to any era. His K/9 of 6.09 was elite for the 1940s. His control issues (3.16 BB/9) would be concerning but manageable in modern baseball. The biggest question is whether his arm, which broke down by age 29 from 300+ IP workloads, would survive a modern pitch-count regimen. With modern training, Newhouser might have had 5 more elite years.",
+    "clubhouse_impact": "POLARIZING. Newhouser's intensity alienated some teammates — he could be brutal when fielders made mistakes behind him. But they also knew he was the horse that carried them to championships. He was close friends with Hank Greenberg, who later gave him a second life with the Indians in 1954. His relationship with catcher Paul Richards was transformative — Richards essentially rebuilt Newhouser's career. Intense, demanding, but respected.",
+    "dark_side": "The wartime asterisk that haunted him to his grave. Newhouser's greatest seasons came when many stars were in the military, and he was classified 4-F (ineligible) due to a leaky heart valve. He tried to enlist but was rejected. Critics used this against him for decades, and it kept him out of the Hall of Fame until the Veterans Committee elected him in 1992 — 17 years after his last ballot appearance. He proved his quality in 1946 (26-9, 1.94 ERA with stars back), but the asterisk persisted. In ILB terms: Newhouser carries a 'Wartime Asterisk' trait — his stats are questioned by rivals, costing him legacy points."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Prince Hal",
+      "desc": "Regal bearing on the mound. Intimidation factor: opposing batters face -1 confidence when Newhouser is announced as starter."
+    },
+    {
+      "tag": "Hurricane Hal",
+      "desc": "Blazing fastball, devastating curve. When STF is at max, strikeout rate increases by 15%. But walks increase too."
+    },
+    {
+      "tag": "Back-to-Back MVP",
+      "desc": "Only pitcher with consecutive MVPs. +2 prestige rating. Opponents respect him but rivals resent the wartime context."
+    },
+    {
+      "tag": "4-F Firebrand",
+      "desc": "Rejected from military service due to heart condition. Carries shame and critics' scorn. -1 legacy vs. returning veterans."
+    },
+    {
+      "tag": "Retooled Delivery",
+      "desc": "Completely rebuilt his mechanics with Paul Richards. If paired with an elite catcher, +1 CTL."
+    },
+    {
+      "tag": "Hometown Hero",
+      "desc": "Born in Detroit, signed at 17, spent career as a Tiger. +2 chemistry at home park. Cannot be traded without fan revolt."
+    },
+    {
+      "tag": "Arm Burnout",
+      "desc": "300+ IP workloads destroyed his shoulder by age 29. After age 28, 15% chance per season of permanent -1 STF."
+    },
+    {
+      "tag": "Jeter Scouter",
+      "desc": "As a scout for the Astros, insisted they draft Derek Jeter. They didn't listen. Newhouser has an eye for talent — +1 to prospect evaluation."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "His kingdom. 2,993 career innings. Most dominant AL pitcher of the 1940s.",
+      "note_extra": "Source labeled 'Pitcher's Mound' / affinity 'HIGH' — mapped to Practice Field/HIGH as the pitcher's craft domain. Third Pitcher's Mound at Practice Field/HIGH in the set (McGinnity: labor-iron analogy, Mungo: strikeout-velocity craft, Newhouser: dominance-kingdom). Newhouser's register is sovereignty: 'His kingdom' — the mound as a domain of absolute control, counterintuitively, for a pitcher with CTL 0. The kingdom is of raw power, not precision."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "Intense pregame preparation. Studied hitters obsessively. Demanded perfection.",
+      "note_extra": "Source labeled 'Clubhouse / Locker Room' / affinity 'HIGH' — mapped to Hotel/Rest/HIGH as the between-performance preparatory domain. Fourth Hotel/Rest/HIGH register in the set: vice-social (McGraw), pastoral care (McKechnie), joy-distribution (Musial), predatory preparation (Newhouser). Where Musial's clubhouse HIGH encoded warmth and spontaneous morale, Newhouser's encodes obsessive hitter study and demanded perfection. The same physical space — the locker room — functions as a theater of opposite emotional atmospheres for these two contemporary cards."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Detroit native, lifetime resident. Family man, stable home life.",
+      "note_extra": "Source labeled 'Home / Detroit Suburbs' / affinity 'HIGH' — mapped to Community Events/HIGH as the born-and-stayed hometown domain. Same structural pattern as Musial's Donora/HIGH (Community Events/HIGH for hometown where player was born, lived, and remained). Newhouser's Detroit specificity adds the dimension of being signed at 17 by the hometown team — the Community Events/HIGH encodes not just residential permanence but civic identity with the franchise."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Became VP at Community National Bank after retirement. Professional, upwardly mobile.",
+      "note_extra": "Source labeled 'Bank / Office' / affinity 'MEDIUM' — mapped to Community Events/MEDIUM as the civic-professional post-career domain. The bank vice presidency is a Community Events role: civic institution, public-facing professional presence in the Pontiac community. MEDIUM encodes genuine engagement — a real career, not a ceremonial title — but not the primary-identity HIGH of the hometown or the mound."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "MEDIUM",
+      "note": "Post-career scout for Orioles and Astros. Signed Dean Chance, spotted Derek Jeter.",
+      "note_extra": "Source labeled 'Scouting Trip' / affinity 'MEDIUM' — mapped to Practice Field/MEDIUM as the post-career talent-evaluation domain. Scouting is the continuation of the player's analytical relationship with baseball craft — seeing who has the tools, evaluating pitching mechanics and bat speed. First Practice Field/MEDIUM for a post-career scouting role in the set. The Jeter story (urged Houston to draft him; they declined; Yankees took him 6th overall) encodes this domain as the source of Newhouser's most famous post-career moment. MEDIUM because scouting is meaningful but not identity-defining at the level of the mound itself."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Not a partier. Too focused on preparation and recovery.",
+      "note_extra": "Source labeled 'Bar / Nightlife' / affinity 'LOW' — mapped to Hotel/Rest/LOW as a principled professional-focus absence. Seventh Hotel/Rest/LOW register: McInnis (nightlife avoidance), McKechnie (directional comedy), McGinnity (terminal medical), Medwick (career-theft), Mungo (international catastrophe), Musial (domestic commitment), Newhouser (performance preparation). Newhouser's LOW is motivated by preparation rather than morality or family — bars were incompatible with his obsessive hitter study and recovery regimen. The note 'Too focused on preparation and recovery' encodes the performance-first logic that excluded nightlife from his domain map."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "NONE",
+      "note": "No association. Clean-living professional.",
+      "note_extra": "Source labeled 'Gambling Hall' / affinity 'NONE' — mapped to Hotel/Rest/NONE as a categorical exclusion domain. Second NONE affinity in the set (Mungo's was Postseason/NONE). The two NONE registers are structurally distinct: Mungo's NONE encoded a domain that never existed for him (no postseason reached); Newhouser's NONE encodes a domain he never entered (no gambling association, no social vice proximity). The gambling hall as a social domain carries historical weight for baseball players — the Black Sox scandal, Pete Rose, the 1919 shadow over the game. Newhouser's NONE is a clean absence from that domain entirely."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Pennant races — Newhouser dominated down the stretch in 1944 and 1945.",
+      "'Last chance' pressure — when told it's do-or-die, he responds with shutouts.",
+      "Sunday matchups vs. Feller — rotation rearranged for ace-vs-ace, Newhouser thrived.",
+      "Second-half surges — in 1946, won 20 of his first 22 decisions."
+    ],
+    "cold_triggers": [
+      "World Series Game 1s — shelled in the 1945 opener (7 R in <3 IP).",
+      "Physical ailments — back spasms in late 1945, shoulder breakdown from 1950 onward.",
+      "Bullpen assignments — Newhouser was a starter who wilted as a reliever (except 1954 Cleveland)."
+    ],
+    "pressure_response": "REDEMPTIVE. Newhouser's pattern is clear: he sometimes fails spectacularly under initial pressure (Game 1, 1945 WS), but then comes back with overwhelming force (Game 5 and Game 7 CG wins). He pitched Game 7 on two days rest with a bad back. He threw a CG shutout after being told he was about to be demoted. In ILB terms: Newhouser has a 30% chance of collapse in his first elimination appearance, but if he survives, he locks in at +2 STF for the remainder of the series."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Ten Minutes Too Late",
+      "type": "Drama",
+      "text": "Your star prospect has just signed with a team for a $500 bonus. Ten minutes later, a rival scout arrives with $15,000 and a new car. The deal is done. The prospect gave $400 to his parents. The rival scout is crushed. This signing changes franchise history.",
+      "origin": "Newhouser signed with the Tigers for $500. Ten minutes later, Indians scout Cy Slapnicka arrived with $15,000 and a car. Too late. Newhouser gave $400 to his parents."
+    },
+    {
+      "title": "The Retooled Delivery",
+      "type": "Action",
+      "text": "Your wild young pitcher is 34-52 through 5 seasons. His catcher takes him aside and completely rebuilds his mechanics over one offseason. Next year: 29-9, MVP. The transformation is instantaneous and shocking.",
+      "origin": "Catcher Paul Richards worked with Newhouser over the 1943-44 offseason to rebuild his delivery. He went from 8-17 in 1943 to 29-9 in 1944 — the greatest single-season turnaround for a pitcher."
+    },
+    {
+      "title": "Back-to-Back MVP",
+      "type": "Action",
+      "text": "Your ace wins the MVP award. Everyone says it was a fluke, that the competition was weak. So he wins it again the next year. He's the only pitcher in history to do it. The critics still aren't satisfied.",
+      "origin": "Newhouser won the AL MVP in both 1944 (29-9, 2.22) and 1945 (25-9, 1.81). He remains the only pitcher with consecutive MVPs. Critics cited wartime rosters."
+    },
+    {
+      "title": "Game 7 on Two Days Rest",
+      "type": "Game Action",
+      "text": "Your ace was shelled in Game 1. The series is tied 3-3. He takes the mound for Game 7 on two days rest with a bad back. His team gives him 5 runs in the first inning. He scatters 10 hits and strikes out 10 for a complete game victory. Redemption.",
+      "origin": "1945 World Series Game 7. Newhouser, shelled 9-0 in Game 1, came back on two days rest. The Tigers scored 5 in the first on Paul Richards's bases-clearing double. Newhouser went the distance: 9-3, 10 K."
+    },
+    {
+      "title": "The $500,000 Temptation",
+      "type": "Drama",
+      "text": "A foreign league offers your ace $500,000 — a fortune — to jump his contract and pitch overseas for three years. He's tempted but fears a lifetime ban if the league folds. He stays for $10,000 and a promise of a future raise.",
+      "origin": "Mexican League president Jorge Pasquel offered Newhouser $200,000/year for 3 years plus a $300,000 signing bonus. Newhouser stayed with Detroit for $10,000."
+    },
+    {
+      "title": "The 4-F Classification",
+      "type": "Drama",
+      "text": "Your star player tries to enlist in the military but is rejected due to a medical condition. He's devastated. He plays through the war years and dominates — but critics call him a 'wartime pitcher' forever. The asterisk never goes away.",
+      "origin": "Newhouser was classified 4-F due to a congenital leaky heart valve. He tried to enlist but was rejected. His wartime dominance was forever questioned."
+    },
+    {
+      "title": "Draft the Kid from Kalamazoo",
+      "type": "Action",
+      "text": "Your retired-player-turned-scout insists your team draft a high school shortstop. Management ignores him and picks someone else. The shortstop becomes a Hall of Famer for another team. Your scout was right all along.",
+      "origin": "As an Astros scout, Newhouser urged the team to draft Derek Jeter. Houston passed. The Yankees took Jeter 6th overall. Newhouser was vindicated."
+    },
+    {
+      "title": "The Veteran's Committee",
+      "type": "Drama",
+      "text": "Your retired player misses the Hall of Fame on every ballot for 15 years, maxing out at 42.8% of the vote. Decades later, a special committee finally inducts him. He's 71 years old. He cries at the podium. The asterisk is lifted, sort of.",
+      "origin": "Newhouser fell off the BBWAA ballot in 1975 at 42.8%. The Veterans Committee inducted him in 1992 alongside Tom Seaver and Rollie Fingers."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Tall, handsome, athletic at 6'2\" 180 lbs. 'Prince Hal' was movie-star good-looking — blond, curly-haired, strong jaw, piercing eyes. The regal bearing that earned the nickname. But look closer and you see the intensity in the eyes — this is a man who pitched with a bad back on two days rest because losing was not an option.",
+    "attire": "Detroit Tigers home whites, 1945 style. Number 16. Classic wartime-era wool flannel, old English D on the cap. Left-handed pitcher's follow-through — the long left arm extended, the body torqued toward first base. High-kick delivery, leg up.",
+    "mood": "Controlled fury. The moment of release — the fastball leaving his hand, the curve breaking downward. Not smiling. The 'Hurricane Hal' side, not the 'Prince Hal' side. Eyes locked on the target. Absolute competitive fire channeled through perfect mechanics.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Briggs Stadium (Tiger Stadium) in the wartime background — afternoon light, shadows falling across the mound. The card should feel powerful and slightly threatening — this is the most dominant pitcher of his decade.",
+    "reference": "Think wartime baseball at its peak — the dominant left-hander in full delivery, the crowd rising, the stadium electric. Newhouser was the biggest name in baseball from 1944-46. The card should convey that magnitude, with a hint of the controversy that would follow."
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "card_type": "player",
+  "name": "Rube Marquard",
+  "nickname": "The $11,000 Beauty",
+  "year": 1912,
+  "team": "New York Giants",
+  "era": "1910s",
+  "ilb_team": "Muggers AL1910",
+  "position": "SP",
+  "bats": "R",
+  "throws": "L",
+  "height": "6'3\"",
+  "weight": "180 lbs",
+  "born": "October 9, 1886 — Cleveland, OH",
+  "died": "June 1, 1980 — Baltimore, MD (age 93)",
+  "hof": "Inducted 1971 (Veterans Committee). Often called the weakest HOF pitcher — Bill James: 'probably the worst starting pitcher in the Hall of Fame.' But The Glory of Their Times made him immortal.",
+
+  "real_stats": {
+    "season": 1912,
+    "games": 43,
+    "wins": 26,
+    "losses": 11,
+    "era": "2.57",
+    "innings": "294.2",
+    "strikeouts": 175,
+    "walks": 80,
+    "complete_games": 22,
+    "shutouts": 2,
+    "whip": "1.06",
+    "war": 5.8,
+    "winning_streak": 19,
+    "career_wins": 201,
+    "career_losses": 177,
+    "career_era": "3.08",
+    "career_strikeouts": 1593,
+    "career_shutouts": 30,
+    "career_war": 32.4,
+    "no_hitters": 1,
+    "pennants": 5
+  },
+
+  "ilb_stats": {
+    "ovr": 7,
+    "stf": 2,
+    "ctl": 2,
+    "sta": 3,
+    "def": 0,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "stf": "2.57 ERA in 1912 — good but not elite even for the Deadball Era. His 1916 ERA of 1.58 was far better, but that was a Brooklyn season, not his peak fame year. K/9 of 5.35 in 1912 (175 K in 294.2 IP). Led NL with 237 K in 1911. Marquard was a deceptive lefty who relied on changing speeds — 'Any hitter can hit a fast one. But not many can hit slow ones.' His stuff was about trickery, not velocity. Rating of 2.",
+    "ctl": "BB/9 of 2.45 in 1912 (80 BB in 294.2 IP). WHIP 1.06. Decent control but nothing special — Marquard was not a pinpoint pitcher. His walk rates fluctuated significantly year to year. Rating of 2.",
+    "sta": "294.2 IP in 1912 with 22 complete games. In 1911-13 he averaged ~289 IP per season. He was a workhorse during his prime but not an ironman like Cy Young or Joe Wood. Rating of 3.",
+    "def": "No notable fielding achievements. Average pitcher defensively. Rating of 0.",
+    "clu": "Won both his starts in the 1912 World Series, allowing only 1 earned run in both complete games, defeating Boston's Buck O'Brien twice. Made 5 World Series appearances in his career (1911, 1912, 1913, 1916, 1920). The 19-game winning streak itself was the ultimate sustained clutch performance — a 1.63 ERA during the streak. Rating of 2."
+  },
+
+  "personality": {
+    "leadership_style": "Broadway showman. Marquard was the first baseball player to fully cross into entertainment — starring in silent films, performing vaudeville acts with his wife, and dazzling audiences both on the mound and on stage. He led through star power and charisma, not discipline. He clashed with McGraw and lived in Mathewson's shadow, which drove him to seek fame elsewhere.",
+    "temperament": "Charming, somewhat unreliable, a natural performer. Marquard lied freely about his age (shaved 3 years), his name (claimed it was 'LeMarquis'), and various life events. His chapter in Glory of Their Times was later found to contain significant fabrications. He was a storyteller, a mythmaker, a man who understood that the legend matters more than the truth.",
+    "work_ethic": "Streaky. When Marquard was on, he was unstoppable — 19 straight wins, 73 wins in 3 years. When he was off, he was truly terrible — 12-22 in 1914, and 128-149 outside his 1911-13 prime. He was either the best pitcher in baseball or a below-.500 journeyman. There was no in-between.",
+    "lifestyle": "Pure Broadway. Married vaudeville star Blossom Seeley in a scandalous affair (she was married to someone else). They performed 'The Marquard Glide' dance together, did a skit called 'The Suffragette Pitcher' where Rube pitched in a dress for an all-girl team, and starred in the silent film '19 Straight.' After baseball: worked as a betting window teller at Narragansett Park racetrack. Arrested for ticket scalping during the 1920 World Series. Married three times. Never drank alcohol or smoked.",
+    "era_adaptability": "LIMITED. Marquard's stats outside his 3-year peak are mediocre — career 3.08 ERA, 201-177. Modern analytics would expose his flaws. His HOF case is built almost entirely on narrative: the winning streak, the vaudeville career, the Glory of Their Times interview. In ILB, Marquard works as a mid-rotation starter who occasionally catches fire and becomes unhittable for stretches.",
+    "clubhouse_impact": "ENTERTAINING but conflicted. Marquard clashed with McGraw and lived in Christy Mathewson's shadow. He was the second-best pitcher on a team with Matty, and he knew it. But he was beloved by fans and teammates for his humor and showmanship. The clubhouse was more fun with Marquard around, even if the wins weren't always there.",
+    "dark_side": "The fabrication. Marquard built his legacy on stories that weren't true — he lied about his age, his background, key events in his career. His Glory of Their Times chapter, which essentially got him into the Hall of Fame, was later found to be riddled with inaccuracies. He was arrested for ticket scalping during the 1920 World Series — selling box seats for a massive markup. His father disowned him for playing baseball and wouldn't cross the street to watch him pitch. And his career stats (201-177, 3.08 ERA) make him legitimately the weakest pitcher in Cooperstown. In ILB: Marquard carries a 'Mythmaker' trait — his reputation always exceeds his stats, for better and worse."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Nineteen Straight",
+      "desc": "The modern record for consecutive wins. When Marquard starts a winning streak of 3+, his STF increases by +1 for each additional win. The pressure builds with each game."
+    },
+    {
+      "tag": "$11,000 Beauty",
+      "desc": "Purchased for a record price, Marquard initially flopped (5-13 in 1909). -2 team confidence when expectations exceed performance. But when he finally delivers: +3 vindication bonus."
+    },
+    {
+      "tag": "Broadway Lefty",
+      "desc": "Marquard is a performer on and off the field. +1 morale in New York / entertainment cities. He brings showmanship to every start — the crowd is always bigger when Rube pitches."
+    },
+    {
+      "tag": "Matty's Shadow",
+      "desc": "Marquard played behind Christy Mathewson. When paired with a higher-OVR pitcher, Marquard gets -1 from resentment but +1 from competition. Net effect: neutral, but volatile."
+    },
+    {
+      "tag": "Mythmaker",
+      "desc": "Marquard's reputation always exceeds his stats. In ILB, his OVR appears as 9 on his card but plays as 7. Opponents over-prepare for him, giving him a slight deception advantage."
+    },
+    {
+      "tag": "The Suffragette Pitcher",
+      "desc": "Marquard once pitched in a dress for laughs. He'll do anything for entertainment. +1 to team morale in any off-field event. -1 to dignity, if that's a stat."
+    },
+    {
+      "tag": "Scalper",
+      "desc": "Arrested for ticket scalping during the 1920 WS. Marquard always knows how to make a buck on the side. +1 income in any scenario, but risk of embarrassment."
+    },
+    {
+      "tag": "Streaky Southpaw",
+      "desc": "Outside 1911-13, Marquard was 128-149. He's either dominant or terrible. Each month, roll d6: 1-2 = cold (ERA 4.00+), 3-4 = average, 5-6 = on fire (ERA sub-2.00)."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "Married a vaudeville star. Performed onstage. Made silent films. The stage was his second career.",
+      "note_extra": "Source labeled 'Broadway / Theater' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH as the entertainment-stage identity domain. Marquard was the first baseball player to fully cross into the entertainment industry: silent films ('Rube Marquard Wins,' '19 Straight'), vaudeville performances with Blossom Seeley ('The Marquard Glide,' 'The Suffragette Pitcher'), and stage appearances. The Broadway theater is literally a media/spotlight domain. First non-ballpark venue → Media/Spotlight/HIGH mapping in the set: prior Media/Spotlight/HIGH entries encoded home ballparks as identity stages; this is the first where the entertainment/theatrical stage is itself the primary domain."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "His fame was born here. 19 straight wins in 1912 made him 'The Rube Marquard Steam Roller Company.'",
+      "note_extra": "Source labeled 'Polo Grounds / Ballpark' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH as the home ballpark identity stage. Standard mapping. The Polo Grounds was where the 19-game streak unfolded and where Marquard became a national figure. Two Media/Spotlight entries at HIGH on this card (Broadway/Theater and Polo Grounds) — first card with two Media/Spotlight/HIGH entries. Both are authentic performance stages: the theatrical and the athletic."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Marquard lived large during his peak years — Broadway lifestyle, famous wife, celebrity status.",
+      "note_extra": "Source labeled 'Hotel / Luxury' / affinity 'MEDIUM' — mapped to Hotel/Rest/MEDIUM. First Hotel/Rest/MEDIUM in the set. Prior Hotel/Rest entries have been HIGH (Lazzeri: health-management privacy), LOW (Lazzeri: bar/nightlife avoidance; Manush: bar/nightlife no-association), or NONE (Lazzeri: gambling hall categorical exclusion). MEDIUM encodes a present but not defining relationship with the luxury hotel domain — Marquard lived the Broadway lifestyle during his peak (1911-13) but it was a status accessory to his performance identity, not a primary sanctuary."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Worked as a betting window teller at Narragansett Park after baseball. The track was his retirement home.",
+      "note_extra": "Source labeled 'Racetrack' / affinity 'MEDIUM' — mapped to Community Events/MEDIUM as the post-career leisure/gambling community domain. The Narragansett Park racetrack as a social community space where Marquard spent his retirement years (working the betting window) maps to the Community Events domain rather than Hotel/Rest. Consistent with the set's pattern of encoding social-community recreational spaces at MEDIUM. First explicit racetrack → Community Events/MEDIUM mapping."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "LOW",
+      "note": "His father disowned him. Never drank or smoked, but never settled down — married three times.",
+      "note_extra": "Source labeled 'Church / Home' / affinity 'LOW' — mapped to Community Events/LOW as the domestic/religious community domain at a low-engagement or avoidance register. Marquard's LOW encodes the fractured family domain: his father disowned him for playing baseball and would not attend his games (later reconciled at a Brooklyn game); he married three times and never settled into a conventional home life. Community Events/LOW is the first LOW for this node in the set — prior Community Events entries have all been HIGH or MEDIUM. The LOW here is not pure avoidance but a damaged, fragmented relationship with the community/home domain."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "MEDIUM",
+      "note": "A born storyteller, even if the stories weren't always true. Marquard gave great copy.",
+      "note_extra": "Source labeled 'Press Conference' / affinity 'MEDIUM' — mapped to Media/Spotlight/MEDIUM. First Media/Spotlight/MEDIUM in the set. Prior Media/Spotlight entries by affinity: HIGH (multiple ballparks, now also Broadway/Theater), LOW (Manush: overshadowed and overlooked), NONE (Lazzeri: active press-room aversion). MEDIUM encodes Marquard's relationship with the press as engaged but qualified: he was a willing, entertaining interview subject who told great stories — but the stories were fabrications, and his media presence was always in service of self-mythology rather than genuine star identity. The press conference was a tool for Marquard, not a stage. Three Media/Spotlight entries on this card (HIGH/HIGH/MEDIUM) — first card with three Media/Spotlight entries, and the widest within-node spread for a non-HIGH/LOW pair."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Winning streaks — Marquard's confidence builds exponentially with consecutive wins. After 5+ wins, he's nearly unhittable.",
+      "Big city atmosphere — New York, Broadway, bright lights. Marquard thrived on attention.",
+      "World Series stage — 2 CG wins in 1912 WS. Marquard elevated for the biggest audiences.",
+      "Competition with Mathewson — trying to match Matty pushed Marquard to his peak."
+    ],
+    "cold_triggers": [
+      "Losing streaks — after the 19-game streak broke, Marquard went 7-10. When confidence breaks, it shatters.",
+      "Small markets — Marquard wilted with Boston (25-39). He needed the big stage.",
+      "Managerial conflict — McGraw's discipline clashed with Marquard's showmanship.",
+      "Aging — by 1914 (age 28), Marquard was already 12-22. His prime was shockingly brief."
+    ],
+    "pressure_response": "BIPOLAR. Marquard in his prime (1911-13) was one of the most clutch pitchers in baseball — 19 consecutive wins, 73-28 over three years, 2 WS wins with 1 ER in complete games. But Marquard outside his prime was a below-.500 pitcher who went 12-22 in 1914 and never again dominated. In ILB: Marquard is the ultimate feast-or-famine pitcher. When he's hot, ride him until the streak breaks. When he's cold, bench him immediately — there is no 'warming up.' He's either on fire or he's done."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Nineteen Straight",
+      "type": "Game Action",
+      "text": "Your starting pitcher opens the season with a record-tying 19 consecutive victories. His ERA during the streak is 1.63. The city calls him a 'Steam Roller Company.' He makes a movie. He performs on Broadway. He is invincible. Roll d20: on 1, the streak ends on game 20. On 2-20, add another win.",
+      "origin": "Marquard won 19 straight decisions from Opening Day to July 8, 1912 — tying Tim Keefe's record. Under modern rules, it would have been 20. The streak ended with a 7-2 loss to the Cubs."
+    },
+    {
+      "title": "The $11,000 Lemon",
+      "type": "Drama",
+      "text": "Your franchise purchases a pitcher for a record sum. The newspapers call him 'The $11,000 Beauty.' He goes 5-13 in his first full season. The fans call him 'The $11,000 Lemon.' He's booed at home. The investment looks catastrophic. But give him two more years...",
+      "origin": "The Giants paid a record $11,000 for Marquard in 1908. He went 5-13 in 1909 and 4-4 in 1910. The press mocked him mercilessly. Then he won 73 games in three years."
+    },
+    {
+      "title": "The Marquard Glide",
+      "type": "Action",
+      "text": "Your star pitcher marries a vaudeville actress and they perform a dance called 'The Marquard Glide.' They star in a skit called 'The Suffragette Pitcher' where he pitches in a dress. The fans love it. The manager is furious. Morale: +2 fans, -1 management.",
+      "origin": "Marquard married Blossom Seeley and they performed 'Breaking the Record' and 'The Suffragette Pitcher' on Broadway. Marquard also starred in the silent film '19 Straight.'"
+    },
+    {
+      "title": "Scalped at the World Series",
+      "type": "Drama",
+      "text": "Your veteran pitcher is arrested at the World Series for scalping tickets — selling box seats at a 600% markup. He's found guilty and fined $4.50. The embarrassment is worse than the fine.",
+      "origin": "During the 1920 World Series in Cleveland, Marquard was arrested for selling eight box seats for $350 (original cost: $52.80). He was fined $1 plus $3.50 in court costs."
+    },
+    {
+      "title": "My Father Wouldn't Cross the Street",
+      "type": "Drama",
+      "text": "Your pitcher's father, an engineer, told his son that if he played baseball he could never come home. Years later, the father shows up at a game. The pitcher says: 'My father wouldn't go across the street to see me.' But it is his father. And he is proud.",
+      "origin": "Fred Marquard disowned Rube for playing baseball. Years later, he appeared at a Brooklyn game. Rube was stunned. They reconciled."
+    },
+    {
+      "title": "The Glory of Their Times",
+      "type": "Action",
+      "text": "Decades after retirement, a writer interviews your aging pitcher for a book about the old days. The pitcher tells magnificent stories — most of them embellished or false. The book becomes a classic. The stories get the pitcher into the Hall of Fame. The truth doesn't matter. The legend does.",
+      "origin": "Marquard's chapter in Ritter's The Glory of Their Times (1966) was the first and most prominent. It was later found to contain significant fabrications. But it got him elected to the Hall of Fame in 1971."
+    },
+    {
+      "title": "Nineteen Straight — The Movie",
+      "type": "Action",
+      "text": "Your pitcher makes a silent film about his winning streak. He stars alongside a famous actress. The film is about a pitcher coerced by gamblers into throwing a game — he refuses, gets kidnapped, and is saved by his girlfriend just in time to win. Life imitating art, or art imitating life?",
+      "origin": "Marquard starred in 'Rube Marquard Wins' (1912), a silent film about a pitcher who refuses to throw a game for gamblers — ironic given the era's gambling scandals."
+    },
+    {
+      "title": "The No-Hitter Nobody Remembers",
+      "type": "Game Action",
+      "text": "Your pitcher throws a no-hitter in his first start of the season. It's a masterpiece. Nobody remembers it because everything else in his career is louder.",
+      "origin": "Marquard threw a no-hitter against Brooklyn on April 15, 1915 — his first start of the season. It's one of the least-discussed no-hitters in history."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Tall, gangly, 6'3\" 180 lbs — lean southpaw build with long arms and big hands. Open, friendly face with a showman's grin. The look of a man who just finished a vaudeville performance and is heading to the mound. Reddish-brown hair, clean-shaven, wide eyes that convey both confidence and mischief.",
+    "attire": "New York Giants 1912 home whites — the pennant-winning year. Classic Deadball Era pitching pose: tall lefty mid-windup, long limbs unfurling, deceptive delivery. Or in his famous Broadway persona: suit and bowtie, performing the Marquard Glide with an invisible partner.",
+    "mood": "Showmanship and spectacle. Marquard should radiate the energy of a man who lives for applause — whether from 30,000 at the Polo Grounds or 300 in a vaudeville theater. But beneath the performance, a hint of fragility — the knowledge that the show can't last, that the streak will break, that the curtain will fall.",
+    "style": "Sepia-toned with warm golden highlights and a theatrical quality — slightly brighter and more dramatic than other Muggers cards, as if lit by stage footlights. The Polo Grounds in the background should feel like a Broadway theater. The gold border should gleam like a marquee.",
+    "reference": "If Wood is lightning, Chapman is a candle, Chase is a stolen jewel, and Kauff is a firecracker, then Marquard is a spotlight. Brilliant, focused, dramatic, and pointed directly at himself. The ILB Marquard card should feel like a playbill from 1912 — the star attraction, the main event, the one night you can't miss."
+  }
+}

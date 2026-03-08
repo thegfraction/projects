@@ -1,0 +1,124 @@
+{
+  "card_type": "player",
+  "name": "Fred Merkle",
+  "nickname": "Bonehead",
+  "year": 1912,
+  "team": "New York Giants",
+  "era": "1910s",
+  "ilb_team": "Muggers 1910",
+  "position": "1B",
+
+  "real_stats": {
+    "season": 1912,
+    "batting_avg": ".309",
+    "obp": ".373",
+    "slg": ".432",
+    "home_runs": 11,
+    "rbi": 84,
+    "stolen_bases": 40,
+    "runs": 82,
+    "doubles": 26,
+    "career_avg": ".273",
+    "career_hits": 1580,
+    "career_hr": 61,
+    "career_rbi": 740,
+    "career_sb": 272,
+    "ws_appearances": 5,
+    "ws_wins": 0,
+    "seasons": 16
+  },
+
+  "ilb_stats": {
+    "ovr": 6,
+    "con": 2,
+    "pow": 1,
+    "spd": 2,
+    "def": 1,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": ".309 BA in 1912. Career .273. Twice top 10 in NL batting. Solid for dead-ball 1B but never elite contact. Rating of 2.",
+    "pow": "11 HR peak (1912). 61 career HR. Gap power but low HR even for dead-ball 1B. Rating of 1.",
+    "spd": "272 career SB. 49 SB in 1911 (4th NL). Exceptional for a first baseman. Rating of 2.",
+    "def": "Led NL in errors 3 straight years but high assists. More range than reliability. Rating of 1.",
+    "clu": "FIVE World Series. FIVE losses. 1908 boner cost pennant. 1912 WS foul popup. Most cursed October player. Rating of 0."
+  },
+
+  "personality": {
+    "leadership_style": "THE SECRET STRATEGIST. McGraw called him 'shrewd, aggressive.' 'The only player who McGraw would consult on matters of strategy.' The man nicknamed 'Bonehead' was the brain behind McGraw's throne.",
+    "temperament": "STOIC, BITTER, PRIVATE. After 1908, hit .191 in 1909 under the weight. Avoided reporters. Avoided baseball after retirement. 1950 old-timers' game: standing ovation. 42 years later. The wound never healed.",
+    "work_ethic": "Debuted at 18. Called 'Bonehead' at 19. Hit .191 at 20. By 21 was the Giants' regular 1B. Played 16 seasons. Five World Series. Kept playing despite being the most publicly humiliated player in the game.",
+    "dark_side": "THREE October disasters. 1908: The boner (age 19). 1912 WS G8: Drove in go-ahead run, then Mathewson called for Meyers instead of Merkle on Speaker's foul popup. Ball dropped. Giants lost. 1918: Cubs lost WS. Five Series, five losses. McGraw knew Merkle was brilliant. The game knew him only as a bonehead. The standing ovation in 1950 was 42 years too late."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Merkle's Boner",
+      "desc": "Sept 23, 1908: failed to touch 2B. Giants lost pennant. Most famous baserunning mistake in history. -5 legacy."
+    },
+    {
+      "tag": "Five October Losses",
+      "desc": "1911-13, 1916, 1918 WS. ALL losses. Never won. Most cursed October player."
+    },
+    {
+      "tag": "McGraw's Strategist",
+      "desc": "'Only player McGraw consulted on strategy.' +3 intelligence. +2 irony."
+    },
+    {
+      "tag": "The Speaker Popup",
+      "desc": "1912 WS G8: Mathewson called for Meyers instead of Merkle on Speaker's foul popup. Ball dropped. Giants lost."
+    },
+    {
+      "tag": "The Standing Ovation",
+      "desc": "1950: 42 years after boner. Old-timers' game. Standing ovation. +2 redemption."
+    },
+    {
+      "tag": "The Speedy First Baseman",
+      "desc": "49 SB in 1911. 272 career. Exceptional for 1B."
+    },
+    {
+      "tag": "Doyle's Teammate",
+      "desc": "Played with Larry Doyle on 1911-13 Giants. Both in 1912 WS collapse."
+    }
+  ],
+
+  "action_card_seeds": [
+    {
+      "title": "Merkle's Boner",
+      "type": "Drama",
+      "text": "Sept 23, 1908. Your 19-year-old 1B doesn't touch 2B. Evers gets the ball. O'Day calls him out. Pennant lost. 'Bonehead' forever.",
+      "origin": "1908 baserunning mistake cost Giants the pennant."
+    },
+    {
+      "title": "The Foul Popup",
+      "type": "Drama",
+      "text": "1912 WS G8, 10th inning. Your 1B drove in the go-ahead run. Speaker hits foul popup near 1B. Mathewson calls for the catcher. Ball drops. Speaker singles. Giants lose.",
+      "origin": "Mathewson called for Meyers instead of Merkle."
+    },
+    {
+      "title": "Five Series, Five Losses",
+      "type": "Drama",
+      "text": "1911, 1912, 1913, 1916, 1918. Five chances. Five losses. Three teams. Same result.",
+      "origin": "Merkle lost all 5 World Series he appeared in."
+    },
+    {
+      "title": "McGraw's Brain",
+      "type": "Game Action",
+      "text": "McGraw consults his 1B on strategy. 'The only player he'd ask.' The 'Bonehead' is the smartest man in the room.",
+      "origin": "Teammates called Merkle one of smartest players they knew."
+    },
+    {
+      "title": "The Standing Ovation",
+      "type": "Drama",
+      "text": "1950. 42 years after the boner. Merkle walks onto the Polo Grounds. The crowd stands. They don't stop.",
+      "origin": "1950 old-timers' game standing ovation."
+    }
+  ],
+
+  "art_direction": {
+    "face": "TALL, HAUNTED, INTELLIGENT, BURDENED. 6'1\" 190 lbs. Handsome but weighed down. Eyes: intelligent AND wounded. The 'Bonehead' was the brain. Expression: RESIGNATION.",
+    "mood": "HAUNTED COMPETENCE. Skill carrying a curse. The viewer should feel empathy first.",
+    "style": "Polo Grounds Shadow and October Gray. Golden hour past — the light has moved, shadows arrived. Most SYMPATHETIC palette."
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "card_type": "player",
+  "name": "Johnny Mize",
+  "nickname": "The Big Cat / Big Jawn",
+  "year": 1947,
+  "team": "New York Giants",
+  "era": "1940s",
+  "ilb_team": "Allies AL1940",
+  "position": "1B",
+  "bats": "L",
+  "throws": "R",
+  "height": "6'2\"",
+  "weight": "215 lbs",
+  "born": "January 7, 1913 — Demorest, GA",
+  "died": "June 2, 1993 — Demorest, GA (age 80)",
+  "hof": "HOF 1981 (Veterans Committee). 10× All-Star. 5× WS Champion. 4× NL HR Leader. 1952 WS MVP.",
+
+  "real_stats": {
+    "season": 1947,
+    "games": 154,
+    "at_bats": 586,
+    "hits": 177,
+    "doubles": 26,
+    "triples": 2,
+    "home_runs": 51,
+    "rbi": 138,
+    "runs": 137,
+    "stolen_bases": 2,
+    "walks": 74,
+    "strikeouts": 42,
+    "batting_avg": ".302",
+    "obp": ".384",
+    "slg": ".614",
+    "ops": ".998",
+    "ops_plus": 168,
+    "war": 6.5,
+    "career_avg": ".312",
+    "career_hits": 2011,
+    "career_hr": 359,
+    "career_rbi": 1337,
+    "career_runs": 1118,
+    "career_slg": ".562",
+    "career_obp": ".397",
+    "career_war": 70.7,
+    "career_k": 524,
+    "career_bb": 856
+  },
+
+  "ilb_stats": {
+    "ovr": 10,
+    "con": 5,
+    "pow": 5,
+    "spd": 0,
+    "def": 1,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": "Mize hit .302 in 1947 while slugging 51 home runs — and struck out only 42 times. He is the ONLY player in MLB history to hit 50+ HR and strike out fewer than 50 times in the same season. Career: .312 BA, 856 BB vs. 524 K — a 1.63 BB/K ratio for a power hitter. OPS+ 168 easily earns the bonus. Musial said he never saw a pitcher knock Mize down: 'He'd lean back on his left foot, let the pitch go by, then lean back in — graceful as a big cat.' Maximum contact.",
+    "pow": "51 HR in 1947, tied with Kiner for the NL lead. 4× NL HR leader. 43 HR in 1940 (Cards record for 60 years). Career 359 HR in only ~6,400 AB — #6 all-time at retirement, ahead of DiMaggio. Six career 3-HR games (MLB record until Sosa). SLG .614 in 1947, .562 career. Maximum power.",
+    "spd": "2 SB in 1947. Mize was 6'2\" 215 lbs — a big man who relied on power, not legs. He had 2 triples in 1947, down from 16 in 1938 when he was younger. By his Giants years, speed was negligible. Rating of 0.",
+    "def": "Mize earned 'The Big Cat' nickname specifically for his defensive grace at first base. Musial's quote about his cat-like reflexes is the defining image. .992 career fielding percentage. Led NL 1B in putouts twice, fielding percentage once. He was NOT a defensive liability — he was smooth and reliable. Pre-GG equivalent: 2 GG. Rating of 1.",
+    "clu": "World Series: .286 BA with 3 HR and 9 RBI in 18 games across 5 consecutive championships (1949-53). The crown jewel: 1952 WS MVP — Mize hit 3 HR in just 5 games vs. the Dodgers at age 39, as a part-time player. That's a genuine hero moment. He also went 2-for-2 with 2 RBI in the 1949 WS. Rating of 2 — solid October plus the '52 MVP."
+  },
+
+  "personality": {
+    "leadership_style": "Quiet dominance. Mize wasn't a rah-rah leader — he led by being unmovable at the plate. He never stepped out of the batter's box between pitches. He never showed fear when brushed back. He never chased bad pitches. His leadership was existential: I am here, I am not moving, and I am going to hit your best pitch over the fence. Teammates drew confidence from his unshakeable presence.",
+    "temperament": "Irascible on the field, affable off it. Ralph Kiner described Mize as 'kind of an irascible guy' on the field but 'a very affable guy and a great storyteller' off it. Mize was focused, intense, and not particularly friendly to opponents during games. But in the clubhouse and in retirement, he was warm, funny, and beloved. The duality defined him.",
+    "work_ethic": "Self-made through injury. Mize nearly quit baseball twice — torn hip muscles in both legs sent him home to Georgia as a minor leaguer. Successful surgery on both hips saved his career. He then spent SIX years in the minors (hitting .337+) waiting behind Ripper Collins. Most players would have given up. Mize waited, healed, and became a Hall of Famer. In 1940, he ordered 43 new bats at spring training. He hit 43 home runs that year.",
+    "lifestyle": "Demorest, Georgia — born and buried. Small-town Georgia boy who played in New York's biggest stadiums. Cousin of Ty Cobb. Second cousin married to Babe Ruth's second wife. After baseball: ran a liquor store and orange grove in Florida, then returned to Demorest. Was the first player to smear mud under his eyes to reduce glare — a practice now universal.",
+    "era_adaptability": "EXTREMELY HIGH. Mize's combination of power, contact, and plate discipline is timeless. A .312/.397/.562 career line with only 524 K in ~7,400 PA would make him elite in any era. His 51 HR / 42 K season is the kind of stat line that defies modern understanding. He'd be a perennial MVP candidate today. The DH role would extend his career by years.",
+    "clubhouse_impact": "RESPECTED VETERAN. Mize was a quiet force — not the life of the party, but the anchor of the lineup. On the Yankees dynasty teams (1949-53), he was the veteran who provided crucial pinch-hitting and part-time power. Stengel used him perfectly. In ILB terms: Mize is a +1 chemistry card for experienced rosters. He doesn't lift morale through personality — he lifts it through production.",
+    "dark_side": "The overlooked giant. Mize was overshadowed his entire career: by Medwick on the Cardinals, by Musial who replaced him, by Williams and DiMaggio in the AL, by Kiner in the NL home run race. He never won an MVP despite finishing 2nd twice. He waited 28 years for the Hall of Fame — the BBWAA never gave him more than 43% of the vote. His career numbers were compromised by 3 years of WWII service and 6 years stuck in the minors. Mize's tragedy is that he was a top-10 hitter of his era who was always standing next to someone more famous."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Big Cat",
+      "desc": "Grace at first base. Musial: 'He'd lean back like a cat.' +1 DEF and poise. Never rattled by brushback pitches."
+    },
+    {
+      "tag": "51 HR / 42 K",
+      "desc": "The most impossible stat line in baseball history. Only player to hit 50+ HR and K fewer than 50 times. -1 to opposing pitcher's CLU: they can't make him miss."
+    },
+    {
+      "tag": "Five Straight Rings",
+      "desc": "WS champion 1949-53 with the Yankees. +1 team championship aura when on a dynasty roster."
+    },
+    {
+      "tag": "1952 WS MVP",
+      "desc": "3 HR in 5 games at age 39 as a part-timer. Clutch incarnate. +1 CLU in the World Series."
+    },
+    {
+      "tag": "Overlooked Giant",
+      "desc": "Overshadowed by every contemporary: Williams, DiMaggio, Musial, Kiner. -1 to individual awards. +1 to quiet motivation."
+    },
+    {
+      "tag": "Six Three-Homer Games",
+      "desc": "MLB record for 3-HR games until Sosa. When Mize goes deep twice, 30% chance of a third."
+    },
+    {
+      "tag": "Mud Under the Eyes",
+      "desc": "Invented the eye-black tradition. +1 to daytime game performance. Pioneer of competitive innovation."
+    },
+    {
+      "tag": "Cobb's Cousin",
+      "desc": "Related to Ty Cobb by blood, to Babe Ruth by marriage. Baseball royalty by DNA. +1 intimidation factor."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Never stepped out between pitches. 51 HR / 42 K. The batter's box was his throne.",
+      "note_extra": "Source labeled 'Batter's Box' / affinity 'HIGH' — mapped to Practice Field/HIGH as the batting craft domain. Third Batter's Box entry in the set (McInnis: 'Batter's Box (RH)'/HIGH, Medwick: 'Batter's Box'/HIGH, Mize: 'Batter's Box'/HIGH). Each encodes a distinct relationship to the same physical zone: McInnis's was handedness-specific mastery, Medwick's was aggressive violence against all pitching, Mize's is absolute stillness and discipline — the man who never stepped out between pitches. The batting craft domain receives its third distinct identity mapping."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "The Big Cat. Graceful, smooth, .992 fielding. Earned the nickname for defensive poise.",
+      "note_extra": "Source labeled 'First Base' / affinity 'HIGH' — mapped to Practice Field/HIGH as the defensive position craft domain. Third first-base Practice Field/HIGH in the set (McInnis and Kuhel preceded). All three are 1B cards at HIGH, but each earned the HIGH through different defensive profiles: McInnis through lockdown reliability (DEF 3), Kuhel through range and intelligence, Mize through The Big Cat feline grace (.992 FLD%, pre-GG ~2 GG) despite only a DEF 1 rating — the nickname was earned at this position."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "Short right-field porch. Lefty pull power. 157 HR as a Giant.",
+      "note_extra": "Source labeled 'Polo Grounds (Giants)' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH as the first career home stage. The Polo Grounds' 257-foot right-field porch was the architectural amplifier of Mize's left-handed pull power."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "5 WS rings. 1952 MVP. The stadium where he became a legend at age 39.",
+      "note_extra": "Source labeled 'Yankee Stadium' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH as the second career home stage. First card in the set with two distinct ballparks both at Media/Spotlight/HIGH. Prior cards with two ballpark entries placed them at opposite polarities (Medwick: Sportsman's Park/HIGH + Ebbets Field/LOW). Mize's dual HIGH encodes two genuinely peak domains — the Giants home where his offensive prime occurred, and the Yankees home where his postseason legacy was built at ages 36-40."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Born and buried there. Small-town roots never left him.",
+      "note_extra": "Source labeled 'Demorest, Georgia' / affinity 'HIGH' — mapped to Community Events/HIGH as the origin hometown at deep-root intensity. Mize's Demorest is HIGH rather than HOME (unlike McInnis's Gloucester/HOME) — the full-intensity community anchor of birthplace and burial place in the same small Georgia town. 'Born and buried there' is the most absolute hometown expression in the set."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Kiner: 'A great storyteller.' Off-field warmth contrasted with on-field intensity.",
+      "note_extra": "Source labeled 'Clubhouse Storytelling' / affinity 'MEDIUM' — mapped to Community Events/MEDIUM as a social-activity domain. First non-physical location in Community Events that encodes a habitual social practice (storytelling) rather than a place. Kiner's testimony establishes this as a real domain: the clubhouse as a storytelling venue where Mize's off-field persona (affable, warm, funny) was expressed. MEDIUM encodes genuine presence without primary-identity intensity."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "LOW",
+      "note": "Never won MVP despite 2 runner-up finishes. Waited 28 years for HOF. Awards eluded him.",
+      "note_extra": "Source labeled 'Awards Ceremonies' / affinity 'LOW' — mapped to Media/Spotlight/LOW as an institutional-event domain. Second Media/Spotlight/LOW in the set (Medwick's Ebbets Field was first). Structurally different: Medwick's LOW encoded a specific place where career injury occurred; Mize's LOW encodes an event category — the awards ceremony as the recurring site of institutional failure. Two runner-up MVP finishes, 28 years waiting for the BBWAA HOF, never more than 43% of the vote. Media/Spotlight as the locus of recognition that systematically withheld itself from the overlooked giant."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Multi-HR games — 6 career 3-HR games (MLB record). When Mize goes deep, more follow.",
+      "Polo Grounds / short porches — lefty pull power exploits friendly dimensions.",
+      "October — .286 WS BA, 1952 WS MVP. Mize elevated in the biggest moments.",
+      "Pinch-hitting — .292 career pinch-hitter. Came off the bench and delivered."
+    ],
+    "cold_triggers": [
+      "Injuries — torn hips, broken hands, broken toes. Mize's body betrayed him repeatedly.",
+      "Being overshadowed — when a more famous teammate gets the attention, Mize's motivation could dip.",
+      "Fastball up and in — though he handled brushbacks with grace, elite high heat could neutralize his stance."
+    ],
+    "pressure_response": "LATE-CAREER CLUTCH SPECIALIST. Mize's most remarkable trait is that he IMPROVED under October pressure as he aged. His regular-season peak was with the Cardinals/Giants (ages 23-34), but his postseason career was entirely with the Yankees (ages 36-40). By then he was a part-time player — and he won 5 WS rings and a WS MVP. The 1952 performance (3 HR in 5 games at age 39) is one of the great postseason stories. In ILB terms: Mize gets +1 CLU for every year over age 35. The Big Cat aged like fine wine."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "51 Home Runs, 42 Strikeouts",
+      "type": "Game Action",
+      "text": "Your slugger hits 51 home runs in a season. He strikes out only 42 times. No player has ever done this before. No player will ever do it again. The combination of power and contact defies comprehension. He ties for the league HR lead while making pitchers look helpless.",
+      "origin": "1947. Mize hit 51 HR and struck out just 42 times — the only player in MLB history to achieve 50+ HR / sub-50 K in the same season. He tied Ralph Kiner for the NL lead."
+    },
+    {
+      "title": "The Big Cat Leans Back",
+      "type": "Action",
+      "text": "A pitcher fires a fastball at your slugger's head. He doesn't flinch, doesn't duck. He simply leans back on his left foot, bends his body like a reed, lets the pitch whisper past, then leans back into the box and resumes his stance. Graceful as a cat. The pitcher is the one who's rattled now.",
+      "origin": "Musial on Mize: 'Did you ever see a pitcher knock him down? He'd lean back on his left foot, bend his body back, let the pitch go by. Then lean back into the batter's box — as graceful as a big cat.'"
+    },
+    {
+      "title": "WS MVP at 39",
+      "type": "Game Action",
+      "text": "Your aging slugger is a part-timer now — a pinch-hitter, a platoon bat. But in the World Series, he hits 3 home runs in 5 games. He wins the MVP award at age 39. The Big Cat has one last roar.",
+      "origin": "1952 World Series. Mize, 39, hit 3 HR in 5 games vs. the Dodgers as a part-time player, winning WS MVP. He was the oldest WS MVP of the era."
+    },
+    {
+      "title": "Traded to Make Room for the Kid",
+      "type": "Drama",
+      "text": "Your franchise's GM trades the star first baseman after a .317 season. The reason? A 21-year-old outfielder needs a spot. The first baseman becomes a Hall of Famer. So does the 21-year-old. The GM was right — and the first baseman never forgave him.",
+      "origin": "Branch Rickey traded Mize after 1941 (.317, .535 SLG) to open a roster spot for Stan Musial. Both became HOFers. Mize resented the trade for years."
+    },
+    {
+      "title": "The Double Hip Surgery",
+      "type": "Drama",
+      "text": "Your prospect tears a muscle in one hip. Then the other. He goes home to Georgia, ready to quit baseball forever. The team sends him to a surgeon. Both hips are repaired. He returns, waits six years in the minors, and becomes a Hall of Fame first baseman.",
+      "origin": "Mize tore hip muscles in both legs as a minor leaguer. Surgery saved his career. He spent 6 years in the minors hitting .337+ before finally getting his chance at age 23."
+    },
+    {
+      "title": "43 Bats, 43 Home Runs",
+      "type": "Action",
+      "text": "Your slugger orders 43 new bats at spring training — more than anyone has ever requested. He hits exactly 43 home runs that season. One bat, one homer. The coincidence becomes legend.",
+      "origin": "Mize ordered 43 bats before the 1940 season. He hit exactly 43 home runs, setting the Cardinals record. He later joked: 'I wonder what would have happened if I'd started with 61 bats.'"
+    },
+    {
+      "title": "Mud Under the Eyes",
+      "type": "Action",
+      "text": "The afternoon sun creates a blinding glare on the field. Your first baseman smears mud under his eyes. His teammates stare, then follow suit. Seventy years later, every player in every sport will do this.",
+      "origin": "Mize was the first baseball player to smear mud under his eyes to reduce sun glare — a practice now universal across all outdoor sports."
+    },
+    {
+      "title": "Never Stepping Out",
+      "type": "Action",
+      "text": "Your slugger steps into the batter's box. He does not step out between pitches. Not once. Not ever. While other hitters adjust their gloves, tap their cleats, call timeout — your man stands in the box, still as stone, waiting. The pitcher must pitch to a man who will not move.",
+      "origin": "Mize never stepped out of the batter's box between pitches throughout his entire career. His stillness and focus were legendary, unnerving pitchers who wanted to disrupt his timing."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'2\" 215 lbs, big and solid. A large man with surprising grace. Strong features, Georgia-bred, quiet intensity in the eyes. Not movie-star handsome like Kiner — more like a Georgia oak tree: rooted, immovable, powerful. The face of a man who will not step out of the batter's box.",
+    "attire": "New York Giants home whites, 1947 style. Left-handed batter in his signature stance — still, planted, bat cocked, eyes locked on the pitcher. The Big Cat waiting to strike. Or: at first base, positioned with that feline grace Musial described.",
+    "mood": "Unshakeable focus. The man who hit 51 HR and struck out only 42 times. No wasted movement, no unnecessary drama. The card should radiate quiet, absolute mastery — the feeling that this man sees every pitch, understands every situation, and will not be fooled.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. The Polo Grounds — that strange horseshoe park with the 257-foot right-field porch where Mize's lefty pull power was devastating. Afternoon sun, mud under the eyes.",
+    "reference": "Think of the overlooked master. Mize was comparable to DiMaggio, Williams, and Musial statistically — but was always standing next to someone more famous. The card should convey a man who doesn't need fame to know his worth. The Big Cat doesn't announce himself — he simply destroys baseballs."
+  }
+}

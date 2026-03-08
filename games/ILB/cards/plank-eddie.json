@@ -1,0 +1,212 @@
+{
+  "card_type": "player",
+  "name": "Eddie Plank",
+  "nickname": "Gettysburg Eddie",
+  "year": 1912,
+  "team": "Philadelphia Athletics",
+  "era": "1910s",
+  "ilb_team": "Muggers 1910",
+  "position": "SP",
+  "bats": "L",
+  "throws": "L",
+  "height": "5'11\"",
+  "weight": "175 lbs",
+  "born": "August 31, 1875 — Gettysburg, PA",
+  "died": "February 24, 1926 — Gettysburg, PA (age 50)",
+  "hof": "Inducted 1946 (Veterans Committee, posthumous). First LHP to win 200 and 300 games. 3rd all-time LHP wins. 1st all-time LHP shutouts and CG. Eddie Collins: 'Not the fastest. Not the trickiest. Not the possessor of the most stuff. But just the greatest.'",
+  "player_image": "https://raw.githubusercontent.com/thegfraction/projects/b9a611655116268b1910dda04fcb97fd0d03b2d1/games/ILB/images/plank-eddie.png",
+
+  "real_stats": {
+    "season": 1912,
+    "games": 41,
+    "wins": 26,
+    "losses": 6,
+    "era": "2.22",
+    "innings": "259.1",
+    "strikeouts": 110,
+    "walks": 62,
+    "complete_games": 21,
+    "shutouts": 4,
+    "whip": "~1.08",
+    "war": "~7.5",
+    "career_wins": 326,
+    "career_losses": 194,
+    "career_era": "2.35",
+    "career_strikeouts": 2246,
+    "career_cg": 410,
+    "career_shutouts": 69,
+    "career_war": "~63.0",
+    "no_hitters": 0,
+    "perfect_games": 0
+  },
+
+  "ilb_stats": {
+    "ovr": 11,
+    "stf": 3,
+    "ctl": 3,
+    "sta": 4,
+    "def": 1,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "stf": "2.22 ERA in 1912 → tier 3 (2.00-2.49). His best ERA seasons: 2.10 (1911), 2.17 (1904), 2.22 (1912) — consistently in the 2.00-2.25 range but never breaking below 2.00 for the tier 4 threshold. K/9 approximately 4.2-4.5 throughout career — well below the ≥6.0 bonus. Plank was NOT a power pitcher. Eddie Collins: 'Not the fastest. Not the trickiest. Not the possessor of the most stuff. But just the greatest.' His weapon was the crossfire delivery — a 3/4 angle thrown across his body — combined with deception and command. Opponents couldn't time him. He was the dead-ball Greg Maddux: elite results through craft, not stuff. Rating of 3.",
+    "ctl": "BB/9 estimated ~1.7-2.0 in peak seasons → tier 3 (1.5-1.99). WHIP ~1.08 in 1912 — tantalizingly close to the ≤1.00 bonus but not quite there. Connie Mack: 'Master of the crossfire delivery and that was one of his big assets.' 'Pinpoint control.' Struck out roughly twice as many batters as he walked throughout his career. Sub-3.00 ERA in 13 of 17 seasons requires sustained command. But not at the Johnson (0.99 BB/9) or Young (0.90 BB/9) level. Rating of 3.",
+    "sta": "346⅔ IP in 1905 → tier 4 (300-349). 259 IP in 1912 (peak year used for card). Career: 4,495+ IP, 410 CG (1st all-time LHP), 69 shutouts (1st all-time LHP). 8× 20-win seasons across 17 years. Plank was an iron arm — not quite at the 350+ tier 5 level in any single season but extraordinarily durable across his career. He began his MLB career at 25 (straight from Gettysburg College, no minor leagues) and pitched until 42. Rating of 4.",
+    "def": "No notable defensive reputation from the mound. The crossfire delivery — throwing across his body at a 3/4 angle — may have complicated his fielding position after delivery. Standard pitcher defense. Rating of 1.",
+    "clu": "World Series ERA of 1.32 in 54⅔ innings — among the lowest all-time for pitchers with significant WS innings. Complete games in ALL 6 World Series starts. 3× WS champion (1910, 1911, 1913 — sat out 1910 WS injured). Won 1913 WS Game 5 to clinch the championship vs. Christy Mathewson, 3-1 — the decisive clincher. BUT: 2-5 career WS record due to historically bad run support. Losses: 3-0, 1-0, 4-3 (in relief), 3-0, 1-0. Plank pitched brilliantly and lost because his team scored nothing. Mack matched him against Mathewson — Hall of Famer vs. Hall of Famer — in every Giants series. PS ERA < 2.00 → tier 2. WS clincher bonus (1913 G5) → +1 = 3. Maximum clutch — the ERA proves it, the W-L record lies."
+  },
+
+  "personality": {
+    "leadership_style": "THE QUIET MENTOR. Plank was taciturn, reserved, and 'friendly by nature' — a rare combination. He took time to mentor rookie pitchers on the Athletics' staff, an unusual act in an era when veterans guarded their positions jealously. He befriended Louis Van Zelst, the team's hunchbacked mascot, when others wouldn't. His leadership was through example and kindness, not volume. Jack Coombs: 'I have always been thankful that I was thrown into such intimate contact with so inspiring a man.'",
+    "temperament": "STOIC AND DELIBERATE. Plank was notorious for being slow between pitches — 'elaborate rituals adjusting parts of his uniform, rubbing the ball, asking his catcher to repeat signs.' This drove opponents, umpires, and spectators crazy. It was not nervousness; it was method. The deliberateness was the weapon. 'Taciturn' was the word used most often. He studied the game, he studied hitters, he studied himself. The crossfire was an engineer's pitch thrown by a college man in a workingman's sport.",
+    "work_ethic": "PERPETUAL EXCELLENCE. Not a single dominant peak but 17 years of consistency. 8× 20-win seasons. Sub-3.00 ERA in 13 seasons. ERA never above 2.87 after age 27. He was never the best pitcher in the AL in any single year — Johnson, Coombs, Walsh, Wood always had one better season — but he was always in the top 4-5, and he was there EVERY year. The most consistent pitcher in AL history during the dead-ball era.",
+    "lifestyle": "GETTYSBURG. Born near Gettysburg, PA. Attended Gettysburg College. Never played in the minors — went straight from college to Connie Mack's Athletics at 25. After baseball: opened a Buick dealership in Gettysburg. Led tours of the Gettysburg battlefield. Married Anna Myers in 1915. One son (Eddie Jr.). Freemason. Farmer. A Gettysburg man from birth to death. Died of a stroke at 50 — too young, like Johnson, like too many of them. Buried in Evergreen Cemetery, Gettysburg, in the shadow of the battlefield.",
+    "era_adaptability": "EXCELLENT. Plank's skill set — deception, command, crossfire delivery, pitch sequencing, studying hitters — translates perfectly to modern baseball. He would be a left-handed crafty starter in the Maddux/Hendricks mold: low velocity, elite location, changes speeds, confuses timing. His deliberate pace between pitches would be controversial in the pitch-clock era but the results would silence critics. He'd eat innings, limit walks, and frustrate hitters who couldn't figure out why they kept popping up.",
+    "clubhouse_impact": "THE STEADYING PRESENCE. Plank was the reliable arm Connie Mack always knew he could count on. Not flashy like Waddell, not dominant like Bender, but always there, always effective, always professional. 'Connie Mack considered him his most reliable pitcher.' In ILB: +2 rotation stability. When Plank is on the staff, the pitching staff ERA drops and the manager sleeps better.",
+    "dark_side": "The eternal second banana. SABR: 'It was Eddie Plank's fate to be second banana.' He was never the best pitcher in the AL in any single season. Johnson always had the better year. Coombs, Walsh, Wood had their monster seasons. Plank just had 17 very good ones. His WS record (2-5) looks terrible despite a 1.32 ERA — the run support was criminal. He was matched against Mathewson by Mack, which meant he faced a HOFer while his teammates scored nothing. He died at 50 of a stroke — running his Buick shop and leading battlefield tours, gone before anyone fully appreciated him. The HOF election came 20 years after his death. He never knew."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Eternal Second Banana",
+      "desc": "Plank is never the ace on paper — someone always looks better on the stat sheet. But he wins more than all of them over time. -1 recognition. +1 to all pitching stats every 3rd consecutive season on roster."
+    },
+    {
+      "tag": "The Crossfire",
+      "desc": "Plank's 3/4 sidearm crossfire delivery baffles hitters. Left-handed batters face -1 CON. Right-handed batters who haven't faced him before also face -1 CON first time up."
+    },
+    {
+      "tag": "The Deliberate Pace",
+      "desc": "Plank is agonizingly slow between pitches. Opponents lose patience: -1 plate discipline after the 5th inning. But: umpires may squeeze the zone (-1 ball/strike luck)."
+    },
+    {
+      "tag": "Matched Against Greatness",
+      "desc": "Mack always sent Plank against the other team's ace. When facing an opponent's best pitcher, Plank gains +1 STF. The tougher the matchup, the better he pitches."
+    },
+    {
+      "tag": "The Mentor",
+      "desc": "Plank mentors rookie pitchers. Any young pitcher on the staff gains +1 CTL in their first 2 seasons when Plank is on the roster. He teaches what he knows."
+    },
+    {
+      "tag": "Gettysburg",
+      "desc": "Born, raised, and died in Gettysburg. +1 morale when playing in Pennsylvania. Plank leads battlefield tours in the offseason — +1 historical knowledge, +1 community."
+    },
+    {
+      "tag": "Three Hundred Twenty-Six",
+      "desc": "326 career wins — 1st LHP all-time until Spahn (1963). +2 franchise legacy. The number speaks louder than the man ever did."
+    },
+    {
+      "tag": "1.32 in October",
+      "desc": "WS ERA of 1.32 with a 2-5 record. Plank pitches brilliantly and his team doesn't score. +2 STF in WS. But: -2 run support luck. The greatest losing pitcher in WS history."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "410 career CG (1st LHP all-time). 69 shutouts (1st LHP all-time). The mound was his office for 17 years.",
+      "note_extra": "Source labeled 'Pitcher's Mound' / affinity 'HIGH' — mapped to Practice Field/HIGH as the pitching-craft domain. Fourth Pitcher's Mound / Practice Field/HIGH in the set (Mathewson, McGinnity, Phillippe, Plank). All four are dead-ball era SPs; all four are HOF-tier (Mathewson, McGinnity, Plank inducted; Phillippe not). Plank's is the most volume-weighted: 410 CG (LHP all-time record) and 69 shutouts (LHP all-time record) encode Practice Field/HIGH as total-innings-commitment rather than peak-performance mastery. The 'mound was his office' metaphor — unlike Phillippe's 'pulpit' — is professional and workmanlike, matching Plank's dead-ball craftsman identity."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "1901-14. The Athletics' ace for 14 years. Five pennants. Three championships. Connie Mack's most reliable arm.",
+      "note_extra": "Source labeled 'Shibe Park / Philadelphia' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH as the franchise-stage domain. Sixth franchise-stage Media/Spotlight/HIGH in the set (Phillippe/Exposition Park, Ott/Polo Grounds, Musial/Sportsman's, Pesky/Fenway, O'Doul/San Francisco). Plank's is the longest single-franchise tenure at this affinity: 14 consecutive seasons (1901-14), five pennants, three championships. The note's final phrase — 'Connie Mack's most reliable arm' — encodes the personality.clubhouse_impact and cross-card Mack relationship as the foundation of the franchise HIGH."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Born, educated, retired, buried. Gettysburg College. Buick dealership. Battlefield tours. Evergreen Cemetery.",
+      "note_extra": "Source labeled 'Gettysburg, PA' / affinity 'HIGH' — mapped to Community Events/HIGH as the hometown-origin domain. Seventh hometown Community Events/HIGH in the set. Plank's is the most total-lifecycle entry: 'Born, educated, retired, buried' encodes all four life stages within a single geographic domain. Prior hometown HIGHs span origin (Overall/Central Valley) or civic identity (O'Doul/San Francisco) or formation (Phillippe/Dakota Territory). Plank's Gettysburg HIGH spans everything simultaneously. The art_direction.style note — 'BATTLEFIELD GRAY — somber, enduring, monumental' — connects the hometown aesthetic to the card's entire visual palette, making Gettysburg not just a location but the defining color and mood of the card."
+    },
+    {
+      "location": "October/Postseason",
+      "affinity": "COMPLEX",
+      "note": "1.32 ERA in 54⅔ WS innings. 2-5 record. CG in all 6 starts. Matched against Mathewson. Brilliant and unlucky.",
+      "note_extra": "Source labeled 'The World Series' / affinity 'COMPLEX' — second COMPLEX affinity in the preferred_locations taxonomy. Prior COMPLEX entries: Irish Meusel's compound action card type labels (Identity/Temperament, Legacy/Record, etc.), which used COMPLEX as a compound-attribute marker. Plank's World Series COMPLEX is the first use of COMPLEX as a *domain-level simultaneous contradiction*: the same postseason domain produces both maximum mastery (1.32 ERA, CG in all 6 starts, 3× WS champion, 1913 clincher) and maximum misfortune (2-5 record, losses by 3-0, 1-0, 4-3, 3-0, 1-0, zero run support). The COMPLEX affinity cannot be resolved to HIGH (the record prevents it) or LOW (the ERA prevents it) — it is genuinely both. The chemistry_trait '1.32 in October' (+2 STF in WS, -2 run support luck) is the mechanical expression of this COMPLEX."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "LOW",
+      "note": "Plank was a starter. 410 career CG. He finished what he started. The bullpen was for other pitchers.",
+      "note_extra": "Source labeled 'The Bullpen' / affinity 'LOW' — first Bullpen/Practice Field domain at LOW affinity in the set. All prior Practice Field entries have been HIGH or MEDIUM; no pitcher in the set has had a Practice Field sub-domain at LOW. Plank's Bullpen/LOW encodes professional-identity rejection: the 410 CG record (LHP all-time) and the 'he finished what he started' note define Plank's identity as the polar opposite of the bullpen pitcher. This is a new taxonomy register: the LOW of self-definition through exclusion (I am not that). The Practice Field domain now spans three registers for pitchers: HIGH (the mound, craft mastery), MEDIUM (post-career craft continuation — Newhouser scouting), LOW (the bullpen, identity-incompatible domain)."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "The crossfire working — when Plank's delivery is deceiving hitters, the at-bats get shorter and the outs pile up.",
+      "Big-game matchups — when matched against the other team's ace, Plank elevates; the Mathewson effect.",
+      "Consistency streaks — Plank doesn't have dominant stretches, he has reliable ones; 8× 20-win seasons of quiet excellence.",
+      "Mentoring — when Plank has a young pitcher to teach, his own focus sharpens; the teacher learns by teaching."
+    ],
+    "cold_triggers": [
+      "Run support drought — 2-5 WS despite 1.32 ERA; when the offense disappears, Plank pitches 1-0 gems and loses them.",
+      "Being overlooked — 'always a second banana'; when recognition goes to teammates, morale can dip slightly.",
+      "Sore arm — missed the 1910 WS with a sore arm; overwork triggers decline that takes time to recover from.",
+      "Late-career decline — effective until 40+ but velocity/deception slowly erode; the crossfire loses its bite."
+    ],
+    "pressure_response": "MAGNIFICENT BUT UNLUCKY. Plank's 1.32 WS ERA in 54⅔ innings ranks among the best in history. He threw complete games in ALL SIX of his World Series starts. He won the 1913 WS clincher vs. Mathewson, 3-1. But his 2-5 WS record haunts him — the five losses came by scores of 3-0, 1-0, 4-3, 3-0, and 1-0. His teams scored a total of 4 runs in those 5 losses. In ILB: Plank in October is one of the best pitchers on the planet. But if your team can't score, Plank loses 1-0, and loses it beautifully."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "One-Point-Three-Two",
+      "type": "Game Action",
+      "text": "Your pitcher has a 1.32 ERA in the World Series. He has thrown complete games in all six of his starts. He has allowed almost nothing. His record is 2-5. His team cannot score. He is the greatest losing pitcher in World Series history. +5 STF. -5 run support. The number is perfect; the record is tragedy.",
+      "origin": "Plank's career WS ERA was 1.32 in 54⅔ innings with a 2-5 W-L record. Losses: 3-0, 1-0, 4-3, 3-0, 1-0."
+    },
+    {
+      "title": "The Clincher Against Mathewson",
+      "type": "Game Action",
+      "text": "Game 5 of the World Series. Your lefty against their righty. Plank vs. Mathewson. Hall of Famer vs. Hall of Famer. Your pitcher wins, 3-1. The championship is yours. He finally beat the Giant. +3 CLU. +2 rivalry. +1 vindication. The second banana takes the last bite.",
+      "origin": "1913 WS Game 5: Plank beat Mathewson 3-1 to clinch the championship for the A's. His only decisive WS duel victory vs. Mathewson."
+    },
+    {
+      "title": "Three Hundred Twenty-Six",
+      "type": "Game Action",
+      "text": "Your lefty wins his 326th game. No left-handed pitcher in history has won more. The record will stand until Warren Spahn breaks it in 1963 — 37 years from now. +5 all-time legacy. +3 LHP supremacy. The number outlives the man by a century.",
+      "origin": "Plank retired with 326 wins — the most by any left-handed pitcher until Spahn surpassed him. He still ranks 3rd all-time among LHP."
+    },
+    {
+      "title": "Gettysburg Eddie",
+      "type": "Drama",
+      "text": "Your pitcher came straight from Gettysburg College to the major leagues. No minor leagues. No apprenticeship. Age 25 — considered elderly for a rookie. He wins 17 games his first year. He will win 326 before he's done. After retirement, he leads tours of the battlefield where his town became immortal. +2 education. +1 hometown pride. The pitcher and the battlefield: both defined by what they endured.",
+      "origin": "Plank went directly from Gettysburg College to the Philadelphia Athletics in 1901. After retirement, he led tours of the Gettysburg battlefield."
+    },
+    {
+      "title": "The Crossfire Delivery",
+      "type": "Game Action",
+      "text": "Your pitcher's arm comes from a 3/4 angle, thrown across his body. The ball appears from behind his torso. Left-handed batters can't pick it up. Right-handed batters think it's coming at them, then it bites across the plate. Strike one. -1 CON to all batters for 3 innings until they adjust. The crossfire is disorienting.",
+      "origin": "Plank was famous for his crossfire delivery — 3/4 angle thrown across his body. Connie Mack: 'Master of the crossfire delivery.'"
+    },
+    {
+      "title": "The Deliberate Pace",
+      "type": "Drama",
+      "text": "Your pitcher adjusts his cap. Rubs the ball. Adjusts his sleeve. Looks at his catcher. Asks for the sign again. Steps off. Adjusts his cap again. The crowd groans. The batter fidgets. The umpire shifts his weight. Strike called. Your pitcher's pace is agonizing, maddening, and effective. -1 opponent patience. -1 umpire goodwill. +1 STF from the disruption.",
+      "origin": "Plank was notorious for slow delivery — 'elaborate rituals adjusting his uniform, rubbing the ball, asking the catcher to repeat signs' — that maddened everyone."
+    },
+    {
+      "title": "Not the Fastest, Not the Trickiest",
+      "type": "Drama",
+      "text": "'Not the fastest. Not the trickiest. And not the possessor of the most stuff. But just the greatest.' Your teammate — a Hall of Fame second baseman — has described your pitcher in the most backhanded and most honest compliment in baseball history. +2 legacy. +2 respect. -1 highlight reel. He's the greatest by being none of the bests.",
+      "origin": "Eddie Collins on Plank, 1943: 'Not the fastest. Not the trickiest, and not the possessor of the most stuff, but just the greatest.'"
+    },
+    {
+      "title": "Fifty Years in Gettysburg",
+      "type": "Drama",
+      "text": "Your pitcher was born near Gettysburg. He went to school in Gettysburg. He won 326 games and then came back to Gettysburg. He opened a car dealership. He led battlefield tours. He married a local girl. He had a son named Eddie Jr. He died of a stroke at fifty, in Gettysburg. He was buried in Evergreen Cemetery. The Hall of Fame called twenty years later. +3 hometown legacy. +0 personal knowledge of honor.",
+      "origin": "Plank was born, raised, retired, and died in Gettysburg, PA. HOF induction 1946 — 20 years after his death. He never knew."
+    }
+  ],
+
+  "art_direction": {
+    "face": "TACITURN, DELIBERATE, INTELLIGENT. 5'11\" 175 lbs — 'short and light, as pitchers go.' The face should be THIN AND THOUGHTFUL — high forehead, sharp features, the face of a man who studied the game and studied hitters. Not imposing physically. Pennsylvania Dutch features — Gettysburg farmland, hardworking stock. The eyes should be CALCULATING — not cold, but analytical. The look of a man counting the signs, adjusting his sleeve, thinking three pitches ahead. A college man's face in a workingman's sport. The expression: patient, ready, completely unhurried. He has all the time in the world.",
+    "attire": "Philadelphia Athletics 1912 whites — wool flannel with the Old English 'A', white cap with blue bill. THE POSE: the crossfire delivery — arm at 3/4 angle, throwing ACROSS his body, the ball emerging from behind his torso. The left arm extended but at an angle that looks wrong until you realize it's perfectly designed. The delivery should look DECEPTIVE — not powerful, not explosive, but confusing. The body is committed in a direction that doesn't match where the ball goes. Or: the deliberate pause — standing on the mound, ball in hand, looking in at the catcher, NOT pitching yet. Adjusting. Waiting. Thinking. The most patient man in baseball.",
+    "mood": "PATIENT MASTERY. Plank's card should feel like a chess move — deliberate, intelligent, unhurried, inevitable. Not the explosive force of Johnson's lightning. Not the farm-bred power of Young's cyclone. The quiet certainty of a man who wins 326 games by never being the best and always being great.",
+    "style": "Sepia-toned with BATTLEFIELD GRAY and GETTYSBURG STONE undertones — the gray of Civil War monuments, the stone of Evergreen Cemetery, the Pennsylvania earth of Adams County. Where Johnson is navy/lightning (storm) and Young is deep Ohio brown (authority), Plank is BATTLEFIELD GRAY — somber, enduring, monumental. The palette of a place where something important happened and where the memory outlasts the moment.",
+    "reference": "The crossfire delivery mid-release — the ball emerging from an impossible angle. Or: the deliberate pause on the mound, cap adjustment, sleeve adjustment, the crowd waiting. Or: Gettysburg itself — the battlefield, the cemetery, the quiet town where the greatest lefty of his era lived and died and was buried among the monuments. The card should feel like a monument: not dramatic, not exciting, but permanent."
+  }
+}

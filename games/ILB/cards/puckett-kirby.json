@@ -1,0 +1,224 @@
+{
+  "card_type": "player",
+  "name": "Kirby Puckett",
+  "nickname": "Puck",
+  "year": 1988,
+  "team": "Minnesota Twins",
+  "era": "1980s",
+  "ilb_team": "Domers AL1980",
+  "position": "CF",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'8\"",
+  "weight": "210 lbs",
+  "born": "March 14, 1960 — Chicago, IL",
+  "died": "March 6, 2006 — Phoenix, AZ",
+  "hof": "Class of 2001 (1st ballot, 82.1%)",
+
+  "real_stats": {
+    "season": 1988,
+    "games": 158,
+    "at_bats": 657,
+    "hits": 234,
+    "doubles": 42,
+    "triples": 5,
+    "home_runs": 24,
+    "rbi": 121,
+    "stolen_bases": 6,
+    "batting_avg": ".356",
+    "obp": ".375",
+    "slg": ".545",
+    "ops": ".920",
+    "ops_plus": 150,
+    "war": 7.5,
+    "gold_gloves": 6,
+    "silver_sluggers": 6,
+    "all_star": 10,
+    "career_avg": ".318",
+    "career_hits": 2304,
+    "career_hr": 207,
+    "career_sb": 134,
+    "career_war": 51.1
+  },
+
+  "ilb_stats": {
+    "ovr": 7,
+    "con": 5,
+    "pow": 2,
+    "spd": 1,
+    "def": 3,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "con": "Career .318 BA, highest RH batter since DiMaggio. Peak .356 in '88. Led AL in hits 3 times. 2,304 career hits in just 12 seasons. 192 hits/season average — highest ever.",
+    "pow": "24 HR peak, 207 career. First player to hit 30 HR after a 0-HR/500-AB season. Moderate power — he was a line-drive machine, not a slugger.",
+    "spd": "134 career SB, 48 SB in minors. Speed declined as weight increased. By 1988, only 6 SB. But Gold Glove range in CF compensates.",
+    "def": "6 Gold Gloves. Led AL CF in putouts routinely. Made one of the greatest World Series catches ever (Game 6, 1991 — leaping grab off plexiglas wall).",
+    "clu": "ALCS MVP 1991 (.429). Game 6 1991: triple, leaping catch, walk-off HR in 11th. .357 in 1987 WS. .309 career postseason. Maximum clutch rating."
+  },
+
+  "personality": {
+    "leadership_style": "Vocal, infectious, lead-by-example. First to arrive, loudest in the room. Famous catchphrase before every game: 'Jump on my back tonight, boys — I'm driving the bus.'",
+    "temperament": "Relentlessly upbeat. Described by Frank Thomas as someone who 'never had a bad day.' Known for needling teammates, coaches, and reporters in a way that made everyone smile. A uniter.",
+    "work_ethic": "Elite. Took hours of batting practice daily. Arrived before everyone. Maintained peak performance for 10+ consecutive All-Star seasons despite a body type that scouts doubted.",
+    "lifestyle": "Social, outgoing, community-oriented. Won the Branch Rickey Award for lifetime community service. Loved being around people. Knew every clubhouse attendant by name across the league.",
+    "era_adaptability": "HIGH. Grew up in Chicago's Robert Taylor Homes projects, worked a Ford assembly line before baseball. Adaptable to any environment. Would thrive in any era.",
+    "clubhouse_impact": "MAXIMUM. Teammates wore 'I Wanna Be Like Puck' t-shirts. Personally mentored Shane Mack and younger players. Made every clubhouse happier just by being in it.",
+    "dark_side": "Post-career revelations of marital infidelity and assault allegations tarnished his image. In ILB terms: this creates a hidden 'Volatility' trigger that can emerge under specific pressure conditions — adding realistic complexity to the card."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Clubhouse Spark",
+      "desc": "Boosts morale of entire team by +1 when in starting lineup."
+    },
+    {
+      "tag": "Mentor",
+      "desc": "Young players (age < 25) gain bonus chemistry when paired."
+    },
+    {
+      "tag": "Vocal Leader",
+      "desc": "Speaks up in crises — prevents morale collapse events."
+    },
+    {
+      "tag": "Everyman",
+      "desc": "Compatible with players from all eras and backgrounds."
+    },
+    {
+      "tag": "Clutch Gene",
+      "desc": "Performance rises in elimination games and late innings."
+    },
+    {
+      "tag": "Workhorse",
+      "desc": "Rarely injured, plays through pain. Low fatigue risk."
+    },
+    {
+      "tag": "Chicago Roots",
+      "desc": "Extra comfort in Chicago-era squares (1910s)."
+    },
+    {
+      "tag": "Hidden Edge",
+      "desc": "Under extreme pressure, personality can crack — rare negative event trigger."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Always the first to practice. Hours of BP.",
+      "note_extra": "Source labeled 'Batting Cages / Practice Field' / affinity 'HIGH' — source label fuses the Batting Cages (offensive-preparation sub-domain) and the broader Practice Field domain. Mapped to Practice Field/HIGH. Fifth Practice Field/HIGH in the set across multiple sub-domains: Mathewson (mound precision), McGinnity (iron-man volume), Phillippe (mound pulpit / control), Plank (17-year office), Puckett (daily batting ritual). Puckett's is the most explicitly offensive-preparation labeled in the set — 'Batting Cages' names the sub-domain as batting practice rather than pitching craft or fielding positioning. The personality.work_ethic field ('Took hours of batting practice daily. Arrived before everyone') confirms the daily-intensity-ritual basis of this HIGH."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Charity work, fan meetups, autograph sessions. Branch Rickey Award winner.",
+      "note_extra": "Source labeled 'Community Events' / affinity 'HIGH' — source label identical to domain mapping. The Branch Rickey Award (lifetime community service) is the formal institutional basis of this HIGH. Prior Community Events/HIGHs: homeland-origin (Phillippe/Dakota Territory, Overall/Central Valley, Plank/Gettysburg), civic-identity (O'Doul/San Francisco), multi-cultural-institution wandering (O'Doul/Museums/Zoos/Theaters). Puckett's is the first Community Events/HIGH in the set grounded in a formal community-service award and organized philanthropy rather than geographic origin or civic presence. The lifestyle note ('Won the Branch Rickey Award for lifetime community service. Loved being around people. Knew every clubhouse attendant by name across the league') provides the full scope."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "The 30 minutes before game time were his domain.",
+      "note_extra": "Source labeled 'Clubhouse / Locker Room' / affinity 'HIGH' — mapped to Hotel/Rest/HIGH as the team-institutional-social domain. Eighth Hotel/Rest/HIGH register in the set: vice-social (McGraw), pastoral care (McKechnie), joy-distribution (Musial), predatory preparation (Newhouser), proprietary home-base (O'Doul), communal-emotional-center (Pesky), kinetic-social-preparation (Reiser), and now pregame-domain-ownership (Puckett). Puckett's register is the most temporally specific: 'The 30 minutes before game time were his domain.' The pre-game ritual window — the 'Jump on my back' speech, the needling, the energy-setting, the morale establishment — was a specific recurring temporal performance that Puckett owned. The chemistry_trait 'Clubhouse Spark' (+1 team morale when in starting lineup) and the action card 'Jump On My Back Tonight' are the mechanical expressions of this 30-minute domain."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Social eater, enjoys team dinners.",
+      "note_extra": "Source labeled 'Restaurant / Steakhouse' / affinity 'MEDIUM' — same mapping as Pesky's Restaurant/Steakhouse MEDIUM and Reiser's team-dinner MEDIUM. Puckett's restaurant MEDIUM is socially horizontal: a team-dinner participant, not a civic-institution presence (O'Doul's restaurant) or a historically resonant integration dinner (Reiser's 1947 Dodgers). The lifestyle note ('Social, outgoing, community-oriented. Loved being around people') is the general-sociability basis of this MEDIUM."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Social drinker, not a problem — but the Hidden Edge trait can trigger here.",
+      "note_extra": "Source labeled 'Bar / Nightlife' / affinity 'MEDIUM' — first Bar/Nightlife preferred_location in the set at any affinity. Prior Hotel/Rest entries have been labeled Hotel/Rest directly, Clubhouse, or Restaurant/Steakhouse. Bar/Nightlife is a distinct social-recreational sub-domain. Puckett's Bar/Nightlife MEDIUM is the first preferred_location in the set where a specific chemistry trait is cross-referenced within the location note itself: 'the Hidden Edge trait can trigger here.' This creates a location-trait mechanical coupling — visiting this MEDIUM domain activates the probability of the 'Hidden Edge' negative event trigger. The personality.dark_side field ('post-career revelations of marital infidelity and assault allegations') is the biographical source that grounds the trigger in biographical fact rather than pure game mechanics."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Too much energy to sit still. Always moving.",
+      "note_extra": "Source labeled 'Hotel / Rest' / affinity 'LOW' — twelfth Hotel/Rest/LOW register in the set: neurological-incapacity (Reiser), and now kinetic-personality-incompatibility (Puckett). Puckett's is structurally similar to Reiser's ('Too wired to rest. Playing through concussion symptoms. Can't sit still') but motivationally different: where Reiser's inability to rest is a medical symptom (post-concussion neurological damage), Puckett's is a personality trait (relentless energy, extroversion, the need to be around people). 'Too much energy to sit still. Always moving.' The personality.temperament note ('Relentlessly upbeat') and the clubhouse_impact ('Made every clubhouse happier just by being in it') are the source of this LOW — the hotel room as the anti-Puckett environment."
+    },
+    {
+      "location": "Gambling Hall",
+      "affinity": "NONE",
+      "note": "No association.",
+      "note_extra": "Source labeled 'Gambling Hall' / affinity 'NONE' — fifth NONE in the set. Mungo: Postseason/NONE (absence-of-opportunity). Newhouser: Gambling Hall/NONE (principled competitive exclusion). Pesky: Gambling Hall/NONE (simple biographical void). Reiser: Gambling Hall/NONE (working-class void). Puckett: Gambling Hall/NONE (fifth register). No note elaboration beyond 'No association' — same void register as Pesky and Reiser. The Gambling Hall/NONE is a consistent signature of working-class players from non-gambling backgrounds (Pesky, Reiser, Puckett all share this void)."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Multi-hit games.",
+      "Postseason / elimination scenarios.",
+      "Team rallies from behind.",
+      "New teammates joining (mentoring activates)."
+    ],
+    "cold_triggers": [
+      "Extended losing streaks (rare — resilient personality resists cold).",
+      "Benchings or role changes (moved to RF late career — discomfort).",
+      "Isolation from team activities."
+    ],
+    "pressure_response": "ELITE. Puckett is one of the rare cards that gets BETTER under pressure. His clutch rating means he performs above his OVR in high-stakes situations. The 1991 World Series Game 6 is the archetype."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Jump On My Back Tonight",
+      "type": "Action",
+      "text": "Your CF gives a stirring pre-game speech. All players get +1 momentum for tonight's game.",
+      "origin": "Puckett's famous pre-game ritual before every game, immortalized in 1991 WS Game 6."
+    },
+    {
+      "title": "The Catch",
+      "type": "Game Action",
+      "text": "Your outfielder makes a spectacular leaping catch at the wall. Steal a base hit from the opponent. Momentum shifts to your team.",
+      "origin": "Puckett's iconic catch off Ron Gant, Game 6, 1991 World Series."
+    },
+    {
+      "title": "Four Hits on Debut Day",
+      "type": "Action",
+      "text": "A newly acquired player has an extraordinary first game. Sign any (+5) free agent — they immediately go Hot.",
+      "origin": "Puckett went 4-for-5 in his MLB debut, May 8, 1984."
+    },
+    {
+      "title": "From the Projects to the Penthouse",
+      "type": "Drama",
+      "text": "Your (+6 or higher) player reveals he grew up in poverty. Team chemistry increases if you give him the starting spot. Decrease if you bench him.",
+      "origin": "Puckett grew up in Chicago's Robert Taylor Homes, one of the nation's most notorious housing projects."
+    },
+    {
+      "title": "The Eyes Have It",
+      "type": "Drama",
+      "text": "Your star player wakes up with blurred vision. He can play through it for 2 games at -2 OVR, or sit out for 5 games. If he plays through: 50% chance career ends. If he sits: full recovery.",
+      "origin": "Puckett's sudden glaucoma diagnosis ended his career in 1996."
+    },
+    {
+      "title": "Everybody's Friend",
+      "type": "Action",
+      "text": "Your (+5 or higher) player knows every clubhouse attendant by name. Draw 1 free tip card revealing the opposing team's weakness.",
+      "origin": "Puckett was famous for knowing every clubhouse staffer's name across the league."
+    },
+    {
+      "title": "The Bus Driver",
+      "type": "Game Action",
+      "text": "In an elimination game, your highest-CON player takes over. He gets +2 to all stats for this game only.",
+      "origin": "Puckett's 'I'm driving the bus tonight' before Game 6, 1991."
+    },
+    {
+      "title": "Scandal in the Offseason",
+      "type": "Drama",
+      "text": "Reports surface about your (+7 or highest) player's personal life. Team chemistry drops by 2. Player sits for 1 game unless you discard a (+3) to manage the press.",
+      "origin": "Puckett's post-retirement personal controversies."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Round, warm face with an irrepressible grin. Short, stocky, barrel-chested build at 5'8\" 210 lbs. His body was famously described as 'fire hydrant-shaped.'",
+    "attire": "Minnesota Twins home whites, pinstripes, number 34. Classic late-1980s cap style.",
+    "mood": "Pure joy. Fist pump energy. The moment after a big hit — the Kirby smile.",
+    "style": "Sepia-toned with warm golden highlights. Metrodome crowd blurred behind him. Classic baseball card composition — shoulders up, slight turn, bat over shoulder or mid-swing follow-through.",
+    "reference": "Think 1988 Topps card energy but rendered in the unified ILB sepia portrait style."
+  }
+}

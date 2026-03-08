@@ -1,0 +1,234 @@
+{
+  "card_type": "player",
+  "name": "Joe Medwick",
+  "nickname": "Ducky / Muscles",
+  "year": 1937,
+  "team": "St. Louis Cardinals",
+  "league": "National League",
+  "era": "1930s",
+  "ilb_team": "Crashers AL1930",
+  "position": "LF",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'10\"",
+  "weight": "187 lbs",
+  "born": "November 24, 1911 — Carteret, New Jersey (son of Hungarian immigrants; 4-sport star in high school; Knute Rockne recruited him for Notre Dame football)",
+  "died": "March 21, 1975 — St. Petersburg, Florida (age 63, heart attack during spring training while working as Cardinals hitting instructor)",
+  "hof": "Inducted 1968 (BBWAA, 84.8%, final year of eligibility). 1937 NL Triple Crown + MVP. Last NL Triple Crown winner (still, as of 2026). 10× All-Star. .324 career BA. 2,471 hits. 540 career 2B. 1934 WS champion. Cardinals HOF inaugural class 2014.",
+
+  "real_stats": {
+    "season": 1937,
+    "games": 156,
+    "at_bats": 633,
+    "batting_avg": ".374",
+    "hits": 237,
+    "doubles": 56,
+    "triples": 10,
+    "home_runs": 31,
+    "rbi": 154,
+    "runs": 111,
+    "stolen_bases": 4,
+    "walks": 41,
+    "strikeouts": 50,
+    "slg": ".641",
+    "obp": ".414",
+    "ops": "1.056",
+    "ops_plus": 176,
+    "war": 8.4,
+    "career_avg": ".324",
+    "career_hr": 205,
+    "career_rbi": 1383,
+    "career_hits": 2471,
+    "career_war": 56.4,
+    "career_doubles": 540,
+    "career_xbh_seasons": "7 consecutive 40+ 2B seasons (MLB record)"
+  },
+
+  "ilb_stats": {
+    "ovr": 10,
+    "con": 5,
+    "pow": 3,
+    "spd": 1,
+    "def": 0,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": ".374 BA in 1937 — led NL (Triple Crown). 237 hits (led NL). 56 doubles. .324 career BA. 2,471 career hits. 540 career doubles (NL record 64 in 1936). 7 consecutive seasons of 40+ doubles (MLB record). Only 50 K in 633 AB — he had 'amazingly keen eyes' and could see the rotation of the pitch instantly. 10 consecutive seasons hitting .300+. Rating of 5 — supreme contact.",
+    "pow": "31 HR in 1937 (co-led NL — Triple Crown). 154 RBI (led NL). 205 career HR. .641 SLG in 1937. 97 XBH in 1937 (95 in 1936). He was primarily a doubles machine but had enough power for 30+ HR in his peak year. SLG bonus → POW 3.",
+    "spd": "4 SB in 1937. 10 triples. 'Ducky' — called this because of his waddle. He was not fast. But he was an aggressive baserunner who slid hard into every base (hence the 1934 WS incident). Triples bonus → SPD 1.",
+    "def": "Below average. Cardinals traded him partly because 'they felt he was losing some of the skills he displayed in his 1937 Triple Crown season' defensively. He was a bat-first LF. Rating of 0.",
+    "clu": ".379 BA in the 1934 WS — opened Game 1 with 4 straight hits including a HR. .324 BA in 12 career WS games. Ejected from Game 7 of 1934 WS for his own safety after Detroit fans pelted him with fruit following his hard slide into Marv Owen — the only player ever removed from a WS game for personal safety. But: .235 in the 1941 WS. Rating of 2 — the 1934 WS heroics earn it."
+  },
+
+  "personality": {
+    "leadership_style": "The Enforcer. Medwick didn't lead through inspiration or kindness. He led through sheer force of will, combativeness, and an absolute refusal to back down from anything or anyone. He fought opposing players. He fought teammates. He kicked Marv Owen with both spiked shoes while lying on the ground. He argued with Branch Rickey over his contract all season. He was 'competitive to the point of combativeness, and regarded by some as self-centered.' Dizzy Dean: 'Dawgonnit. That Medwick don't fight fair at all. You argue with him for a bit and then he beats you before you've even had a chance to speak your piece.'",
+    "temperament": "Hot-tempered, surly, aggressive, proud. Hungarian fire. 'Maybe it was the Hungarian in me. I hated to lose, I always wanted to win. Everything tasted better.' He swung at anything near the zone and hit it hard. He slid into every base with spikes high. An anonymous former teammate: 'When he dies, half the National League will go to his wake just to make sure that son-of-a-bitch is dead.' He was difficult, combative, and absolutely brilliant.",
+    "work_ethic": "Natural talent weaponized by aggression. Four-sport star at Carteret High School. Knute Rockne recruited him for Notre Dame football. He chose baseball because he hit .419 in the minors immediately. He had 'amazingly keen eyes' — he could see the rotation and gauge of a pitch instantly, identifying the type of pitch before it reached the plate. His powerful arm muscles 'whipped the bat around in a split second.' The combination of vision and violence made him unstoppable.",
+    "lifestyle": "Hungarian immigrant's son from industrial New Jersey. Born in Carteret, NJ — working-class, multicultural. Married twice. After playing: minor league manager (1949-52), batting instructor for Cardinals farm system until 1975. Died of a heart attack during spring training in St. Petersburg at age 63, still working for the Cardinals. When he met Pope Pius XII on a USO tour, the Pope asked his vocation. Medwick: 'Your Holiness, I'm Joe Medwick. I, too, used to be a Cardinal.'",
+    "era_adaptability": "HIGH. Medwick's bat-to-ball skills (.374 BA, 50 K in 633 AB), gap power (56 2B + 31 HR), and aggressive style would translate to any era. His defense would be a problem, but in the DH era he'd be a .320/30 HR hitter with elite doubles production. The temperament might cause clubhouse issues in the modern era of media scrutiny, but the bat would play everywhere. Think a right-handed, angrier version of David Ortiz.",
+    "clubhouse_impact": "COMPLEX AND VOLATILE. Medwick was respected for his bat and feared for his temper. He fought teammates and opponents alike. He was not popular — his HOF voting stalled for 20 years because of strained relationships with teammates and press. But the Gashouse Gang channeled his aggression into winning. On the right team, with the right manager (Frisch could handle him), Medwick's fury became fuel. On the wrong team, it became poison.",
+    "dark_side": "The beaning. June 18, 1940 — six days after being traded to the Dodgers. Former Cardinals teammate Bob Bowman hit Medwick in the head with a pitch. Medwick was hospitalized, and some believed the beaning was intentional (Bowman had argued with Medwick the night before at a hotel). Medwick was never the same hitter. Before the beaning: .331 career BA. After: .288. He played 8 more years but the power and the fearlessness were diminished. The Hungarian fire was doused by a fastball to the skull. His HOF election — on his final year of eligibility, after 20 years of waiting — prompted Medwick to say: 'This was the longest slump of my career. I had gone 0-for-20 before, but never 0-for-20 years.'"
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Triple Crown",
+      "desc": ".374 BA, 31 HR, 154 RBI in 1937 — the last NL Triple Crown. Also led NL in hits (237), runs (111), doubles (56), total bases, and SLG. When Medwick is the league's best hitter: +1 to all offensive stats."
+    },
+    {
+      "tag": "Hungarian Fire",
+      "desc": "+1 POW permanently from sheer aggression. But: 10% chance per game of a confrontation with a teammate, opponent, or umpire. If the confrontation escalates: ejection. If it doesn't: +1 intimidation factor."
+    },
+    {
+      "tag": "Ejected for His Own Safety",
+      "desc": "Once per career, in a blowout WS game: Medwick does something so aggressive that fans riot. The Commissioner ejects him for his personal safety. +3 legend, +2 entertainment, -0 statistical impact (the game was already won)."
+    },
+    {
+      "tag": "The Beaning",
+      "desc": "After a trade, 10% chance a former teammate beans Medwick. If triggered: -2 CON and -1 POW permanently. Career divides into Before (elite) and After (good). Based on Bob Bowman's 1940 pitch."
+    },
+    {
+      "tag": "Gashouse Gang Muscle",
+      "desc": "When 2+ Gashouse Gang members on roster: +1 POW to Medwick. He was the offensive engine of the most colorful team in history. Collins was the ringleader; Medwick was the weapon."
+    },
+    {
+      "tag": "Bad-Ball Hitter",
+      "desc": "Medwick swung at anything near the zone — and hit it. Immune to pitcher's attempts to nibble corners. Walks are rare (41 BB in 633 AB). But K are also rare (50 K). He simply hits everything."
+    },
+    {
+      "tag": "I Too Used to Be a Cardinal",
+      "desc": "When meeting authority figures or in formal situations: Medwick delivers a perfect one-liner. +1 charisma in off-field events. Based on his response to Pope Pius XII."
+    },
+    {
+      "tag": "0-for-20 Years",
+      "desc": "If not elected to HOF within 10 years of retirement: each subsequent year, Medwick's legacy score drops -1. But if elected in the final year: +5 legacy, +3 satisfaction. The longest slump of his career."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "9 seasons. .324 BA. Triple Crown. WS champion. The Gashouse Gang's left fielder.",
+      "note_extra": "Source labeled 'Sportsman's Park / St. Louis' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH as the home ballpark triumph domain. Nine seasons as the offensive engine of the Gashouse Gang. Standard home stage → Media/Spotlight/HIGH."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": ".374 in 1937. 237 hits. 56 doubles. He hit everything near the zone. The bat was a weapon.",
+      "note_extra": "Source labeled 'Batter's Box' / affinity 'HIGH' — mapped to Practice Field/HIGH as the batting craft domain. Second 'Batter's Box' entry in the set (McInnis's was 'Batter's Box (RH)' / HIGH). Medwick's is unqualified — the batting craft is total and unspecified by handedness, reflecting his indiscriminate violence against all pitching. The batter's box as the site of .374 BA, 237 hits, and 50 K in 633 AB."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Hard slides into every base. Kicked Marv Owen with spiked shoes. Caused a riot.",
+      "note_extra": "Source labeled 'Third Base (sliding into)' / affinity 'HIGH' — mapped to Practice Field/HIGH as an action-as-location domain. First location in the set named by an act rather than a place: 'Third Base (sliding into)' encodes not the position itself but the specific violent act performed there. The parenthetical '(sliding into)' is a new location-naming convention — a fielding position qualified by the physical act that defined Medwick's relationship to it. The 1934 WS Game 7 riot originated here. High affinity because this aggressive baserunning was central to Medwick's identity and competitive philosophy, not a failure state."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "MEDIUM",
+      "note": "Adequate defensively, never excelled. The bat carried him. DEF 0.",
+      "note_extra": "Source labeled 'Left Field' / affinity 'MEDIUM' — mapped to Practice Field/MEDIUM as the primary fielding-position domain for a player who occupied but did not excel at his position. First explicit Practice Field/MEDIUM for a primary defensive position of a position player who underperformed there. The MEDIUM affinity encodes adequate occupation without craft mastery — Medwick played left field competently enough to keep his job but was not a craftsman of the position. The Cardinals eventually traded him partly over defensive concerns. DEF 0 correlates directly with Practice Field/MEDIUM rather than HIGH."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Son of Hungarian immigrants. 4-sport star. Turned down Notre Dame football for baseball.",
+      "note_extra": "Source labeled 'Carteret, New Jersey' / affinity 'MEDIUM' — mapped to Community Events/MEDIUM as the origin-hometown domain at moderate intensity. Prior hometown entries used HOME (McInnis/Gloucester — simple, irreducible), HIGH (multiple), or MEDIUM (Mathewson's Restaurant/Social was MEDIUM). Medwick's Carteret origin is MEDIUM rather than HOME or HIGH: working-class immigrant community, meaningful as formative context but not the anchor of an adult identity he returned to. He left New Jersey and never settled back — unlike McInnis's Gloucester or McGinnity's Ironbound."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "'Your Holiness, I'm Joe Medwick. I, too, used to be a Cardinal.'",
+      "note_extra": "Source labeled 'The Vatican' / affinity 'MEDIUM' — mapped to Community Events/MEDIUM as the institutional-religious domain at incidental engagement. First religious institution at MEDIUM in the set (prior religious-institution entries: Mathewson church → Community Events/HIGH, practiced devotion; McGraw church → Community Events/LOW, weak affiliation; McKechnie choir → Community Events/HIGH, lifelong active participation). Medwick's Vatican entry is MEDIUM because his engagement with formal religion was neither the deep practice of Mathewson and McKechnie nor the weak affiliation of McGraw — it was a single perfect one-liner on a USO tour. The MEDIUM encodes institutional-religious as an incidental backdrop to the most celebrated quip in the set."
+    },
+    {
+      "location": "World Series",
+      "affinity": "LOW",
+      "note": "Pelted with fruit. Ejected by Commissioner Landis. The only player ever removed for personal safety.",
+      "note_extra": "Source labeled 'World Series Game 7 (Detroit)' / affinity 'LOW' — mapped to opportunity domain 'World Series' / affinity 'LOW'. First World Series LOW in the set (McInnis had World Series/HIGH; Martin had 1931 World Series/HIGH). The same domain as McInnis's entry but inverted: where McInnis's World Series/HIGH encoded the recurring stage of champion performance, Medwick's World Series/LOW encodes the specific catastrophic event that is the defining memory of his October. He performed brilliantly in 1934 (high individual stats) but the domain itself carries LOW because the event that defined him there was the ejection, the riot, and the shame — not the triumph."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "LOW",
+      "note": "Beaned by Bowman 6 days after trade. Never the same hitter. Before: .331. After: .288.",
+      "note_extra": "Source labeled 'Ebbets Field (post-trade)' / affinity 'LOW' — mapped to Media/Spotlight/LOW as the home ballpark of diminishment. First Media/Spotlight/LOW in the set. Where Sportsman's Park is Media/Spotlight/HIGH (career triumph), Ebbets Field post-trade is Media/Spotlight/LOW (career theft). The same domain node at opposite polarity on the same card — the most instructive inversion within a single card's preferred_locations. The LOW encodes not mere absence of warmth but the specific place where the prime was taken: the ballpark where Bob Bowman threw the pitch that divided Medwick's career into Before (.331) and After (.288)."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Aggression — when Medwick is angry, he hits harder. The Hungarian fire fuels the bat.",
+      "Doubles — 56 in 1937. 64 in 1936 (NL record). Line drives find gaps when he's locked in.",
+      "Gashouse Gang chemistry — Collins, Martin, Dean around him, the energy compounds.",
+      "Triple Crown pursuit — when leading in all 3 categories, +1 to all offensive stats from focus."
+    ],
+    "cold_triggers": [
+      "Post-beaning — after head injury, the fearlessness is gone. He flinches at inside pitches.",
+      "Contract disputes — haggled with Rickey all 1939 season. Distractions hurt production.",
+      "Clubhouse conflict — fights with teammates create -1 team chemistry.",
+      "Late career decline — after the Bowman beaning, the elite numbers never returned."
+    ],
+    "pressure_response": "FEROCIOUS IN OCTOBER. .379 BA in the 1934 WS — opened Game 1 with 4 straight hits including a HR. In Game 7, hit a triple and slid so hard into third that he started a riot. Ejected by Commissioner Landis for his own safety as fans pelted him with fruit — the only player ever removed from a WS game this way. When asked why fans threw garbage: 'I knew why they threw that garbage at me. What I don't understand is why they brought it to the park in the first place.' .324 BA in 12 career WS games. He was born for October violence."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Last National League Triple Crown",
+      "type": "Game Action",
+      "text": "Your left fielder leads the league in batting average (.374), home runs (31), and RBI (154). He also leads in hits (237), runs (111), doubles (56), total bases, and slugging. It's the most dominant offensive season in the National League since Rogers Hornsby. No NL player will do it again — not for 90+ years and counting.",
+      "origin": "1937: Medwick won the NL Triple Crown and MVP. He is still the last NL player to win the Triple Crown."
+    },
+    {
+      "title": "Ejected from the World Series for His Own Safety",
+      "type": "Drama",
+      "text": "Game 7 of the World Series. Your team leads 9-0. Your left fielder triples to right and slides hard into third base, kicking the third baseman with spiked shoes. When he takes the field, fans pelt him with apples, oranges, grapefruit, and ham hocks. The Commissioner orders him removed — for his own safety. He's the only player ever ejected this way. Your team wins 11-0.",
+      "origin": "1934 WS Game 7: Medwick's hard slide into Marv Owen caused Detroit fans to riot. Commissioner Landis ejected Medwick. Cardinals won 11-0."
+    },
+    {
+      "title": "Why They Brought It to the Ballpark",
+      "type": "Action",
+      "text": "After being pelted with fruit in a World Series game, your player is asked by reporters why the fans threw garbage at him. His response: 'I knew why they threw that garbage at me. What I don't understand is why they brought it to the park in the first place.'",
+      "origin": "Medwick's famous quote after being pelted by Detroit fans in Game 7 of the 1934 World Series."
+    },
+    {
+      "title": "The Beaning That Changed Everything",
+      "type": "Drama",
+      "text": "Six days after a trade, your star faces his former team. A former teammate throws a fastball at his head. He's hospitalized. Some believe it was intentional. Before the beaning: .331 career BA. After: .288. The fearlessness is gone. He flinches at inside pitches. The fire that made him great is dimmed by a ball to the skull.",
+      "origin": "June 18, 1940: Bob Bowman, a former Cardinals teammate, beaned Medwick 6 days after his trade to the Dodgers. Medwick was never the same hitter."
+    },
+    {
+      "title": "I, Too, Used to Be a Cardinal",
+      "type": "Action",
+      "text": "On a USO tour, your player meets the Pope. His Holiness asks his vocation. Your player — a Hungarian immigrant's son from New Jersey, a left fielder, a Triple Crown winner — replies: 'Your Holiness, I'm Joe Medwick. I, too, used to be a Cardinal.'",
+      "origin": "During a 1944 USO tour, Pope Pius XII asked Medwick his vocation. Medwick's response became one of baseball's most famous one-liners."
+    },
+    {
+      "title": "Sixty-Four Doubles",
+      "type": "Game Action",
+      "text": "Your left fielder hits 64 doubles in a season — a National League record that has stood for 90 years and counting. He follows it with 56 more the next year. Seven consecutive seasons of 40+ doubles — a Major League record. The gaps are his kingdom.",
+      "origin": "1936: Medwick's 64 doubles set the NL record (still standing). His 7 consecutive 40+ double seasons remain the MLB record."
+    },
+    {
+      "title": "0-for-20 Years",
+      "type": "Drama",
+      "text": "Your legend retires. He waits for the Hall of Fame. One year. Five years. Ten years. Fifteen. The writers won't vote for him — they remember the temper, the fights, the surly disposition. On his 20th and final year of eligibility, he finally gets the call. His response: 'This was the longest slump of my career. I had gone 0-for-20 before, but never 0-for-20 years.'",
+      "origin": "Medwick received 0 votes his first 7 years. He was elected in 1968 on his final ballot at 84.8%. His 'longest slump' quote is legendary."
+    },
+    {
+      "title": "Half the League at His Wake",
+      "type": "Drama",
+      "text": "Your player is so universally disliked by opponents and former teammates that an anonymous player says: 'When he dies, half the National League will go to his wake just to make sure that son-of-a-bitch is dead.' He dies at 63 of a heart attack during spring training, still working for the Cardinals. Still a Cardinal.",
+      "origin": "Anonymous former teammate's quote about Medwick. He died March 21, 1975, during spring training in St. Petersburg while working as a Cardinals hitting instructor."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Muscular, intense, dark features reflecting Hungarian heritage. 5'10\" 187 lbs — stocky, powerful. The face should show fury — the man who kicked Marv Owen with spiked shoes, who fought teammates and opponents alike. Not smiling. Not charming. Ready to hit something — a baseball, a third baseman, anyone who gets in the way.",
+    "attire": "St. Louis Cardinals 1937 home whites with the birds-on-the-bat. Sportsman's Park behind him. The bat should be mid-swing — violent, explosive, driving a line drive into the gap for another double. Maybe fruit scattered in the foreground — a subtle nod to the 1934 WS riot.",
+    "mood": "Violence at the plate. The swing is not elegant — it's an act of aggression. Medwick attacks the baseball. Every line drive is personal. The card should feel dangerous — the most dangerous hitter in the NL, the man who made the ball afraid. Or: the slide into third — spikes high, Owen on the ground, fruit raining down.",
+    "style": "Gashouse Gang grit meets Hungarian intensity. Hot, dusty, aggressive. Cardinals red as blood. The card should feel like a fight — because Medwick's entire career was a fight. Against pitchers, against teammates, against the HOF voters, against the beaning that stole his prime.",
+    "reference": "The card of the last NL Triple Crown winner. The man ejected from a World Series for his own safety. The man who told the Pope he, too, used to be a Cardinal. The man whose former teammate beaned him and stole his prime. The man who waited 20 years for the Hall of Fame. Ducky Medwick — half the league went to his wake to make sure he was dead."
+  }
+}

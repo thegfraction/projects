@@ -1,0 +1,228 @@
+{
+  "card_type": "player",
+  "name": "Mel Ott",
+  "nickname": "Master Melvin",
+  "year": 1929,
+  "team": "New York Giants",
+  "league": "National League",
+  "era": "1930s",
+  "ilb_team": "Crashers AL1930",
+  "position": "RF",
+  "bats": "L",
+  "throws": "R",
+  "height": "5'9\"",
+  "weight": "170 lbs",
+  "born": "March 2, 1909 — Gretna, Louisiana (father was oil refinery worker, former semipro ballplayer)",
+  "died": "November 21, 1958 — New Orleans, Louisiana (age 49, injuries from auto accident one week prior)",
+  "hof": "Inducted 1951 (BBWAA, 87.2%). 511 HR (NL record at retirement). 1933 WS champion. 12× All-Star. 6× NL HR leader. Giants retired #4. Mel Ott Award given annually to NL HR champion.",
+
+  "real_stats": {
+    "season": 1929,
+    "games": 150,
+    "at_bats": 545,
+    "batting_avg": ".328",
+    "hits": 179,
+    "doubles": 37,
+    "triples": 2,
+    "home_runs": 42,
+    "rbi": 151,
+    "runs": 138,
+    "stolen_bases": 6,
+    "walks": 113,
+    "strikeouts": 38,
+    "slg": ".635",
+    "obp": ".449",
+    "ops": "1.084",
+    "ops_plus": 170,
+    "war": 8.5,
+    "career_avg": ".304",
+    "career_hr": 511,
+    "career_rbi": 1860,
+    "career_hits": 2876,
+    "career_war": 107.8,
+    "career_walks": 1708,
+    "career_runs": 1859
+  },
+
+  "ilb_stats": {
+    "ovr": 11,
+    "con": 3,
+    "pow": 5,
+    "spd": 0,
+    "def": 2,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": ".328 BA in 1929. .304 career BA. 2,876 career hits. Hit .300+ in ten seasons, with a career high of .349 in 1930. But Ott's offensive value came primarily from power and walks, not pure contact. He walked 113 times in 1929 (led NL in walks 6 times, career 1,708 BB — NL record until Joe Morgan). His OBP (.449 in 1929) was elite, but his BA was 'merely' very good. Rating of 3 — excellent hitter, but not a .350+ contact machine.",
+    "pow": "42 HR in 1929 at age 20 — the most ever by a player 20 or younger (along with 151 RBI, also the record). 511 career HR — first NL player to reach 500. 6× NL HR leader. 8 seasons of 30+ HR. Led Giants in HR for 18 consecutive years (MLB record). .533 career SLG. The Polo Grounds' 257-foot RF line helped (323 of 511 HR at home), but he hit 22 road HR in 1929 — more than home. The power was real. Rating of 5.",
+    "spd": "6 SB in 1929. 56 career SB. Fred Lindstrom noted Ott's 'heavy legs.' A running coach was hired specifically to help the young Ott avoid leg injuries. He compensated with excellent judgment in the outfield but was never fast. Rating of 0.",
+    "def": "Premier defensive RF for most of his 22-year career. Averaged 17 outfield assists per 154-game season — elite. Five seasons with 20+ assists. Mastered the Polo Grounds' tricky RF wall caroms. Excellent right-handed throwing arm. 'Committed fewer than five errors seven different times.' Not fast, but positioned himself perfectly. Rating of 2.",
+    "clu": ".389 BA, 2 HR, 4 RBI in the 1933 WS — Giants won in 5 games over the Senators. Hit the game-winning HR in the 10th inning of Game 5 to clinch the championship. Led Giants to 3 NL pennants (1933, 1936, 1937). But lost the 1936 and 1937 WS to the Yankees. As player-manager (1942-48), never finished higher than 3rd. The 'nice guys finish last' reputation. Rating of 2 — the 1933 WS heroics earn it."
+  },
+
+  "personality": {
+    "leadership_style": "The Boy King. Ott arrived at 16 and never left. McGraw personally tutored him — batting, fielding, running — and forbade older players from 'corrupting' him. He was the Giants' star for 22 years, their manager for 7 more. He led through consistency, warmth, and quiet excellence. Leo Durocher: 'I never knew a baseball player who was so universally loved. Even when he was playing against the Dodgers at Ebbets Field, he would be cheered.' He was everyone's favorite — and that, according to Durocher, was the problem.",
+    "temperament": "Gentle, humble, universally beloved. Ott was the anti-McGraw: soft-spoken where McGraw was tyrannical, patient where McGraw was explosive, kind where McGraw was ruthless. He was beloved by teammates, opponents, fans, and even Brooklyn fans — the most hostile crowd in baseball. His decency was legendary. It was also, potentially, his managerial downfall.",
+    "work_ethic": "Prodigious natural talent refined by the greatest teacher. McGraw taught him everything. Ross Youngs taught him outfield play. Roger Bresnahan taught him throwing. A track coach taught him how to run. Ott absorbed it all and then performed at the highest level for 22 years. 511 HR don't happen by accident. He led the Giants in HR for 18 consecutive years — the longest such streak in MLB history.",
+    "lifestyle": "Louisiana boy, lifetime Giant. Born in Gretna, across the river from New Orleans. Father was an oil refinery worker. Married Mildred 'Mickey' Wattigny of New Orleans in October 1930 — they had two daughters. After managing the Giants (1942-48), he ran their farm system with Carl Hubbell, managed in the PCL, and became a radio broadcaster for the Detroit Tigers. Died at 49 from injuries in a car accident in Bay Saint Louis, Mississippi — transferred to a hospital in New Orleans, died a week later. Three Giants HOFers (Ott, Frisch, Hubbell) all died in auto-related circumstances.",
+    "era_adaptability": "HIGH. Ott's power (511 HR), plate discipline (1,708 BB), and defensive excellence would translate to any era. His unorthodox leg-kick batting stance might draw scrutiny from modern hitting coaches, but McGraw specifically protected it — 'I don't want anyone tinkering with that natural swing.' In modern baseball, Ott would be a .270/35 HR/100 BB right fielder with plus defense — a perennial All-Star. His lack of speed is the only limitation.",
+    "clubhouse_impact": "MAXIMUM POSITIVE. Ott was the single most beloved player in NL history during his era. Teammates adored him. Opponents respected him. Brooklyn fans — the toughest crowd in baseball — cheered him. He had zero enemies. Zero controversies. Zero scandals. This warmth made him a perfect clubhouse presence and a problematic manager — he couldn't discipline players he loved.",
+    "dark_side": "Nice guys finish last. Leo Durocher's famous (possibly paraphrased) line was aimed directly at Ott. As manager from 1942-48, Ott never finished higher than 3rd. He couldn't discipline his players. He couldn't make tough decisions. The war depleted his roster and the Mexican League poached his talent, but the fundamental problem was that Ott was too kind to manage effectively in a ruthless business. He was fired in 1948 and replaced by — who else — Durocher. The final indignity: the man who coined 'nice guys finish last' took Ott's job. Ott died at 49 in a car crash, still beloved, still gentle, still a Giant."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Leg Kick",
+      "desc": "Ott's unorthodox batting stance — crouching back, lifting the right foot high before swinging — generated improbable power from a 5'9\" frame. Cannot be modified by hitting coaches. Protected by McGraw's decree: 'I don't want anyone tinkering with that natural swing.'"
+    },
+    {
+      "tag": "McGraw's Protégé",
+      "desc": "When paired with a mentor/manager who personally trains Ott: +1 POW and +1 DEF. McGraw spent 3 years personally tutoring him. Without a mentor: Ott still performs, but the bond was foundational."
+    },
+    {
+      "tag": "Master Melvin",
+      "desc": "+1 team morale permanently. Ott was universally loved — by teammates, opponents, and opposing fans. No clubhouse negativity possible while Ott is on the roster."
+    },
+    {
+      "tag": "Polo Grounds Power",
+      "desc": "+2 POW at the Polo Grounds or any park with RF < 270 feet. Ott pulled everything toward the short RF porch (257 ft). At standard parks: no penalty, but no bonus. 323 of 511 career HR at home."
+    },
+    {
+      "tag": "Nice Guys Finish Last",
+      "desc": "If Ott becomes player-manager: +1 team morale, -1 team discipline. He cannot bench underperforming players. He cannot make enemies. His teams are happy but underachieving."
+    },
+    {
+      "tag": "Boy King",
+      "desc": "Debuted at 17. Full-time starter at 19. 42 HR at 20. Ott gets +1 to all stats for the first 3 seasons (youth bonus). After age 35: -1 POW per year (graceful decline)."
+    },
+    {
+      "tag": "Iron Giant",
+      "desc": "Ott played 22 years for one team. Led Giants in HR for 18 consecutive years (MLB record). +1 loyalty/franchise stability. He will never demand a trade. He will never leave."
+    },
+    {
+      "tag": "1933 World Series Hero",
+      "desc": "In the WS, Ott gets +1 CLU. .389 BA, 2 HR in the 1933 WS. Hit the walk-off HR in Game 5 to clinch. When it mattered most, the nice guy delivered."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "22 years. One team. 323 HR at home. The short RF porch was his personal playground. #4 retired.",
+      "note_extra": "Source labeled 'Polo Grounds / New York' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH as the career home stage with franchise-identity dimension. Same mapping as Musial's Sportsman's Park/Busch Stadium (22 seasons, one franchise, one city). Ott's Polo Grounds entry adds the park-specific dimension: the 257-foot RF line as an architectural feature that became part of his legend. The #4 retirement cements the franchise-identity HIGH."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Premier defensive RF. 17 assists per season average. Mastered the Polo Grounds' tricky wall. Excellent arm.",
+      "note_extra": "Source labeled 'Right Field' / affinity 'HIGH' — mapped to Practice Field/HIGH as the fielding craft domain. Direct inversion of O'Doul's 'Defensive Position' / Practice Field/LOW from the immediately preceding card. Both are outfielders; O'Doul has Practice Field/LOW (career -1.1 dWAR, famous incompetence), Ott has Practice Field/HIGH (17 assists/season, mastered wall caroms, excellent arm). These two cards in sequence establish both poles of the outfield defensive craft domain — the lowest and highest DEF scores (0 and 2) at the same field position, mapped to opposite Practice Field affinities."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "511 HR. 1,708 BB. The leg kick. McGraw: 'The most natural swing I've seen in years.'",
+      "note_extra": "Source labeled 'Batter's Box' / affinity 'HIGH' — mapped to Practice Field/HIGH as the batting craft domain. Fifth Batter's Box in the set (McInnis: handedness-specific mastery, Medwick: aggressive violence, Mize: absolute stillness, Musial: joy-as-home, Ott: improbable power from small frame). Ott's register is the protected natural stance — McGraw's decree 'I don't want anyone tinkering with that natural swing' encodes the HIGH as inviolable. The leg kick is the craft signature: the mechanism by which a 5'9\" 170-lb man generated 511 career home runs."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Born here. A park is named in his honor. Louisiana boy who became a New York legend.",
+      "note_extra": "Source labeled 'Gretna, Louisiana' / affinity 'HIGH' — mapped to Community Events/HIGH as the born-and-honored hometown. Fourth born-hometown Community Events/HIGH in the set (Musial/Donora, Newhouser/Detroit, O'Doul/San Francisco, Ott/Gretna). Each has a distinct local honor: Musial (bridge renamed), Newhouser (#16 retired by hometown team), O'Doul (restaurant and bridge named after him), Ott (a park named in his honor). Gretna is the smallest and least famous of the four hometowns — across the river from New Orleans, an oil-refinery-worker family, the origin of the most beloved Giant in franchise history."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Player-manager 1942-48. Never finished higher than 3rd. Too kind to manage effectively.",
+      "note_extra": "Source labeled 'Manager's Office' / affinity 'MEDIUM' — mapped to Hotel/Rest/MEDIUM as the between-performance professional-workplace domain. The manager's office is an off-field institutional space where authority is exercised (or failed to be exercised). MEDIUM encodes functional occupancy at diminished effectiveness — Ott held the role for seven years but never thrived in it. The 'nice guys finish last' dynamic makes the MEDIUM resonant: he was present, he tried, he couldn't deliver. The chemistry_trait 'Nice Guys Finish Last' and action card of the same name both encode the managerial MEDIUM as a specific gameplay mechanic (+1 morale, -1 discipline)."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "MEDIUM",
+      "note": "Detroit Tigers broadcaster 1956-58. His post-playing career.",
+      "note_extra": "Source labeled 'Broadcast Booth' / affinity 'MEDIUM' — mapped to Media/Spotlight/MEDIUM as a post-career public presence at moderate intensity. First broadcast booth location in the set. Prior Media/Spotlight entries were HIGH (playing-career stages) or LOW (injury/systematic exclusion). Ott's broadcast booth MEDIUM establishes the MEDIUM tier of the Media/Spotlight domain: genuine public presence in the media domain, professionally practiced, not career-defining. The Detroit Tigers broadcaster role (1956-58) is a continuation of the public persona after the playing career ended — a MEDIUM because it was Ott as a voice rather than Ott as a legend."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Died at 49 in a car accident. Three Giants HOFers (Ott, Frisch, Hubbell) all died in auto-related incidents.",
+      "note_extra": "Source labeled 'Highway / Automobile' / affinity 'LOW' — mapped to Hotel/Rest/LOW as a transit domain of fatal consequence. Eighth Hotel/Rest/LOW register and first fatal-transit LOW in the set. Prior Hotel/Rest/LOWs: nightlife avoidance (McInnis), directional comedy (McKechnie), terminal medical decline (McGinnity), career-theft injury (Medwick), international catastrophe (Mungo), principled domestic absence (Musial), performance-preparation exclusion (Newhouser). Ott's fatal-transit LOW is structurally distinct from all prior registers: it is not about social behavior, lifestyle choice, or injury — it is about a mode of death. The parenthetical about Frisch (1973) and Hubbell (1988) makes this the most multi-card-resonant LOW in the set, linking to completed card Frisch and future card Hubbell through a shared franchise-level pattern. The road that killed three Giants HOFers is the most narratively loaded LOW domain in the taxonomy."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Youth — 42 HR at age 20. The younger Ott is, the more dangerous he becomes.",
+      "Polo Grounds — 257 feet to RF. The leg kick pulls everything over the short porch.",
+      "Walking — 113 BB in 1929. Ott's plate discipline extended at-bats and exhausted pitchers.",
+      "October — .389 in the 1933 WS. Walk-off HR in Game 5. He rose to the moment."
+    ],
+    "cold_triggers": [
+      "Managerial burden — player-managing drained his batting production.",
+      "Road parks with deep RF — without the Polo Grounds' short porch, HR totals dropped.",
+      "Discipline situations — Ott couldn't bench friends, couldn't cut veterans, couldn't be tough.",
+      "Late career decline — post-1942, batting average and power gradually eroded."
+    ],
+    "pressure_response": "PROVEN IN OCTOBER. .389 BA, 2 HR, 4 RBI in the 1933 WS — the Giants' first championship in 11 years. Hit the walk-off HR in the 10th inning of Game 5 to clinch. Led Giants to 3 NL pennants (1933, 1936, 1937). Lost the 1936 and 1937 WS to the Yankees, but competed. The gentle man delivered when it mattered. Durocher could mock his kindness, but Ott had the WS ring — Durocher didn't get one until 1954, six years after replacing Ott."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Forty-Two Home Runs at Twenty Years Old",
+      "type": "Game Action",
+      "text": "Your outfielder is twenty years old. He hits 42 home runs and drives in 151 runs. No player that young has ever done this. He hits more home runs on the road (22) than at home (20), silencing the 'Polo Grounds product' critics before they even begin. The kid is real.",
+      "origin": "1929: Ott hit 42 HR and drove in 151 RBI at age 20 — both records for players 20 or younger that still stand. He hit 22 HR on the road vs. 20 at home."
+    },
+    {
+      "title": "The Leg Kick",
+      "type": "Action",
+      "text": "Your hitter has the most unorthodox swing in baseball. He crouches back in the box, lifts his right foot high off the ground as the pitcher winds up, then drops it and explodes into the ball. 5'9\", 170 pounds — and 511 career home runs. McGraw forbade anyone from changing it. 'I don't want anyone tinkering with that natural swing.'",
+      "origin": "Ott's signature leg kick generated power from a small frame. McGraw protected the swing from the moment he signed the 16-year-old. No one was allowed to alter it."
+    },
+    {
+      "title": "Walk-Off HR to Win the World Series",
+      "type": "Game Action",
+      "text": "Game 5 of the World Series. Tied in the 10th inning. Your right fielder launches a home run to win the championship — the first for your franchise in 11 years. He bats .389 for the Series. The nice guy delivers the biggest hit in franchise history.",
+      "origin": "1933 WS Game 5: Ott hit a 10th-inning HR off Washington's Jack Russell to give the Giants a 4-3 win and the championship — their first since 1922."
+    },
+    {
+      "title": "Nice Guys Finish Last",
+      "type": "Drama",
+      "text": "Your beloved player becomes manager. Everyone loves him. Nobody fears him. He can't bench veterans. He can't make enemies. He finishes 3rd, then 4th, then 5th. The rival manager — abrasive, ruthless, brilliant — says of your guy: 'Nice guys finish last.' Then the rival takes your job.",
+      "origin": "Durocher's famous (possibly paraphrased) line was aimed at Ott. Ott managed the Giants 1942-48 without success. Durocher replaced him mid-1948."
+    },
+    {
+      "title": "The Lumber Company Tryout",
+      "type": "Action",
+      "text": "Your future Hall of Famer is 16 years old. His local minor league team won't sign him because he's too small. He plays for a lumber company's semi-pro team instead. The company owner buys him a train ticket to New York. He walks into the greatest manager's office — and never leaves for 22 years.",
+      "origin": "1925: Ott, rejected by the New Orleans Pelicans for his size, played for Harry Williams' Patterson Grays. Williams bought Ott a train ticket to NY for a tryout with McGraw. Ott never played a game in the minors."
+    },
+    {
+      "title": "Eighteen Consecutive Years Leading the Team in Home Runs",
+      "type": "Game Action",
+      "text": "Your right fielder leads his team in home runs for 18 straight years. No one in baseball history has ever done this. Not Ruth. Not Aaron. Not Mays. He is the constant — the one thing that never changes on a franchise that wins pennants, loses stars, survives a war, and replaces managers. He is always there. He always hits.",
+      "origin": "Ott led the Giants in HR every year from 1928 to 1945 — 18 consecutive seasons. Still the MLB record. Foxx and Aaron each managed 11."
+    },
+    {
+      "title": "Cheered at Ebbets Field",
+      "type": "Action",
+      "text": "Your player is so universally beloved that even the opposing team's fans — the most hostile fans in baseball — cheer for him. Brooklyn fans, who hate every Giant, make an exception for one man. He is simply too good and too kind to boo.",
+      "origin": "Durocher: 'I never knew a baseball player who was so universally loved. Even when he was playing against the Dodgers at Ebbets Field, he would be cheered.'"
+    },
+    {
+      "title": "The Car Accident",
+      "type": "Drama",
+      "text": "Your legend — retired, broadcasting, still beloved — is driving through Mississippi. The car crashes. He's transferred to a hospital in his hometown. He dies a week later at 49. Three of his franchise's greatest players will all die in car-related incidents. The road takes what the diamond gave.",
+      "origin": "November 14, 1958: Ott was injured in a car accident in Bay Saint Louis, MS. He died November 21 in New Orleans at age 49. Frisch (1973) and Hubbell (1988) also died in auto-related circumstances."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Compact, boyish even in his prime, gentle eyes. 5'9\" 170 lbs — the smallest 500-HR hitter in history. The face should show warmth — the face that made Brooklyn fans cheer for a Giant. Not imposing. Not fierce. Kind. But with the focused determination of a man about to lift his right leg and drive a ball 400 feet.",
+    "attire": "New York Giants 1929 home whites with the classic 'NY' interlocked. Number 4. The Polo Grounds' distinctive horseshoe shape behind him, the absurdly short RF porch (257 feet) visible. The uniform should be clean, neat — Ott was meticulous. This is a young man's card: he's 20 years old.",
+    "mood": "The Leg Kick. Frozen at the apex — right foot high off the ground, bat cocked, eyes locked on the pitcher. The moment before the swing that generated 511 home runs from a 5'9\" frame. Or: the follow-through of the walk-off HR in Game 5 of the 1933 WS, arms raised, Polo Grounds erupting. The card should feel improbable — too small, too gentle, too kind — and yet undeniable.",
+    "style": "New York glamour meets Louisiana warmth. Art Deco Giants. The Polo Grounds at golden hour. The card should feel timeless — Ott played 22 years and the card should suggest all of them. Warm golds, Giants orange, deep blue sky. The most beloved card in the set.",
+    "reference": "The card of the nicest man in baseball who hit 511 home runs. The boy who showed up at 16 and stayed for 22 years. The protégé who became the legend. Master Melvin — the gentle Giant."
+  }
+}

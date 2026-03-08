@@ -1,0 +1,223 @@
+{
+  "card_type": "player",
+  "name": "Pete Reiser",
+  "nickname": "Pistol Pete",
+  "year": 1941,
+  "team": "Brooklyn Dodgers",
+  "era": "1940s",
+  "ilb_team": "Allies NL1940",
+  "position": "CF",
+  "bats": "L",
+  "throws": "R",
+  "height": "5'11\"",
+  "weight": "185 lbs",
+  "born": "March 17, 1919 — St. Louis, MO",
+  "died": "October 25, 1981 — Palm Springs, CA",
+  "hof": "Not inducted. .295 BA, 58 HR, 87 SB, 128 OPS+ in 10 injury-shortened seasons.",
+
+  "real_stats": {
+    "season": 1941,
+    "games": 137,
+    "at_bats": 536,
+    "hits": 184,
+    "doubles": 39,
+    "triples": 17,
+    "home_runs": 14,
+    "rbi": 76,
+    "stolen_bases": 14,
+    "batting_avg": ".343",
+    "obp": ".406",
+    "slg": ".558",
+    "ops": ".964",
+    "ops_plus": 169,
+    "war": 8.0,
+    "gold_gloves": 0,
+    "all_star": 3,
+    "career_avg": ".295",
+    "career_hits": 786,
+    "career_hr": 58,
+    "career_sb": 87,
+    "career_war": 24.1
+  },
+
+  "ilb_stats": {
+    "ovr": 7,
+    "con": 5,
+    "pow": 2,
+    "spd": 3,
+    "def": 2,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": "Won the 1941 NL batting title at age 22 with .343 — the youngest batting champ in NL history at that time. Led the league in doubles (39), triples (17), total bases (299), runs (117), slugging (.558), and OPS (.964). OPS+ of 169. In mid-1942, was hitting .380 before the wall crash that destroyed his career. Durocher compared him to Mays. Ted Williams didn't disagree. Maximum 5.",
+    "pow": "14 HR in 1941 — modest total, but 39 doubles and 17 triples show enormous extra-base power. SLG .558 earns the +1 bonus. Career 58 HR in only 861 games. For a 5'11\" switch-hitter, he had surprising pop. Red Smith wrote he was 'immeasurable.' Rating of 2.",
+    "spd": "Led the NL in stolen bases in 1946 with 34 — including a record 7 steals of home in a single season, a mark that still stands. He was universally considered the fastest player in baseball. Durocher said Mays was fast but Reiser was faster. Even after injuries, he stole bases at will. Rating of 3 (maximum).",
+    "def": "Extraordinary range in center field. Led NL CF in putouts and assists in 1941. Cannon arm — scouts briefly considered him for shortstop. His problem was that he was TOO good defensively — he chased everything, including balls headed for concrete walls. Pre-Gold Glove equivalent of 3-5 based on range and arm. Rating of 2.",
+    "clu": "1941 WS vs. Yankees: hit a double, triple, and home run but batted only .200 in 5 games as Brooklyn lost. 1947 WS: started 3 games but misplayed balls due to vertigo from previous wall crashes; became a bench player for the rest of the Series. Career postseason: .214 BA. No signature October moments. Rating of 0."
+  },
+
+  "personality": {
+    "leadership_style": "Lead by sheer intensity. Reiser played every game like it was his last — which, given his injury history, it often nearly was. He didn't give speeches; he sprinted to first on walks and dove headfirst into concrete walls. His teammates followed his energy or got out of the way.",
+    "temperament": "Fearless to the point of self-destruction. Reiser had no survival instinct on a baseball field. He literally could not stop himself from chasing fly balls into walls. When asked why he didn't pull up, he said: 'I can't. I see the ball and I go.' This wasn't recklessness — it was an inability to operate at anything less than maximum. Off the field, he was warm, funny, and loyal.",
+    "work_ethic": "Obsessive. Reiser was a natural right-hander who taught himself to hit left-handed to exploit his speed. After breaking his throwing arm, he taught himself to throw left-handed. After each wall crash and concussion, he returned too soon, playing through headaches, dizziness, and blurred vision. His work ethic was heroic and self-destructive in equal measure.",
+    "lifestyle": "Working-class St. Louis kid, one of twelve children. Married young, devoted family man. His wife Pat was his anchor. Roommates and best friends with Pee Wee Reese — served as best man at Reese's wedding. After baseball, owned a car dealership and worked as a carpenter. Never made big money from the game.",
+    "era_adaptability": "TRAGIC IRONY. In any modern era, padded walls and concussion protocols would have saved Reiser's career. He was literally born 30 years too early. His speed, switch-hitting, and defensive range would make him a superstar today. In fact, Ebbets Field installed padded outfield walls in 1948 BECAUSE of Reiser — but by then it was too late.",
+    "clubhouse_impact": "ELECTRIC. Reiser was the spark plug of the 1941 Dodgers — their first pennant winner in 21 years. His intensity was contagious. He and Jackie Robinson formed a daring stolen-base duo in 1947. Leo Durocher considered him the best player he ever managed. Teammates loved him because he gave everything.",
+    "dark_side": "The body count. Seven concussions. Carried off the field on a stretcher 11 times. Once given last rites at the stadium. A fractured skull in 1942. Paralyzed for ten days after a 1947 wall crash. Separated shoulders, broken ankles, bone chips. His daughter Sally had severe developmental problems. He died at 62 of respiratory illness — a life shortened by a career of self-inflicted trauma. In ILB terms: Reiser has a 'Glass Cannon' trait — maximum upside, maximum fragility. Every game carries injury risk."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Glass Cannon",
+      "desc": "After every game where Reiser makes a spectacular defensive play, roll for injury: 15% chance of missing 1-10 games. The better the play, the higher the risk."
+    },
+    {
+      "tag": "Fastest Alive",
+      "desc": "Reiser is the fastest player in any ILB set. +1 SPD bonus when stealing bases or scoring from first on a double. Can attempt steal of home once per series."
+    },
+    {
+      "tag": "Wall Crasher",
+      "desc": "In parks without padded walls (pre-1948), Reiser's injury risk doubles. In parks WITH padded walls, his DEF rating effectively becomes 3."
+    },
+    {
+      "tag": "Pistol Pete",
+      "desc": "Reiser's intensity is contagious. +1 team momentum when he makes the starting lineup. -2 team momentum when he's injured and removed."
+    },
+    {
+      "tag": "Pee Wee's Best Man",
+      "desc": "+2 chemistry with Pee Wee Reese. The roommates are inseparable. If both are in the lineup, each gets +1 morale."
+    },
+    {
+      "tag": "Jackie's Partner",
+      "desc": "+2 chemistry with Jackie Robinson. Together they form the most daring stolen-base duo in baseball. Combined steal attempts get +1 success bonus."
+    },
+    {
+      "tag": "Durocher's Favorite",
+      "desc": "+2 chemistry with Leo Durocher as manager. Durocher will never bench Reiser, even when injured — which is both a blessing and a curse."
+    },
+    {
+      "tag": "Smoky Joe Wood Syndrome",
+      "desc": "If Reiser plays a full season (130+ games) without major injury, he earns a +3 OVR bonus for that season. The card becomes a 10. But the odds are long."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "'Hit it to me, hit it to me.' He wanted the ball on every pitch.",
+      "note_extra": "Source labeled 'Center Field / Practice Field' / affinity 'HIGH' — source label fuses the playing position (Center Field) and the domain (Practice Field), making it the most position-explicit Practice Field/HIGH label in the set. Mapped to Practice Field/HIGH as the defensive craft domain at its most intense. Prior outfield Practice Field/HIGH entries: Ott (Right Field, premium arm and positioning craft), O'Doul (Batting Cage/Practice Field, teaching domain). Reiser's CF/Practice Field HIGH is the set's most psychologically absolute: 'Hit it to me, hit it to me' encodes an inability to not want the ball — the same competitive drive that sent him into walls. The chemistry_trait 'Glass Cannon' (injury risk after spectacular plays) is the mechanical consequence of this HIGH."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "Joking with Pee Wee, planning stolen-base plays, taping up another injury.",
+      "note_extra": "Source labeled 'Clubhouse / Locker Room' / affinity 'HIGH' — mapped to Hotel/Rest/HIGH as the team-social institutional domain. Seventh Hotel/Rest/HIGH register: vice-social (McGraw), pastoral care (McKechnie), joy-distribution (Musial), predatory preparation (Newhouser), proprietary home-base (O'Doul), communal-emotional-center (Pesky), and now kinetic-social-preparation (Reiser). Reiser's clubhouse is not quiet warmth (Pesky) or pastoral care (McKechnie) — it is active, conspiratorial, injury-managing preparation. The three items in the note — joking with Pee Wee, plotting steals, taping injuries — map three simultaneous registers: social bond, tactical preparation, and constant physical damage management."
+    },
+    {
+      "location": "Medical/Recovery",
+      "affinity": "HIGH",
+      "note": "The most frequent visitor in Dodgers history. 11 stretcher rides.",
+      "note_extra": "Source labeled 'Hospital / Trainer's Room' / affinity 'HIGH' — first Medical/Recovery domain entry in the set. No prior card has a preferred_location explicitly mapping to the medical-care domain at any affinity. Reiser's Hospital/HIGH is the set's most darkly ironic location entry: the domain of injury, surgery, stitches, last rites, and paralysis is a HIGH because Reiser occupied it more than any player in franchise history. The affinity is not aspirational (Reiser did not seek injury) but descriptive (this was his most-occupied non-ballpark space). The note '11 stretcher rides' encodes frequency rather than preference. The dark_side field's list of injuries (fractured skull, 7 concussions, paralysis, separated shoulders, bone chips) is the expanded catalogue of this HIGH's content."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Working-class kid who stayed connected to fans and family.",
+      "note_extra": "Source labeled 'Community Events' / affinity 'MEDIUM' — source label identical to domain mapping. The Community Events/MEDIUM encodes civic connection at moderate intensity: Reiser was not a public persona institution (O'Doul's restaurant, Pesky's 'Mr. Red Sox' campaign) but a genuine working-class presence. The personality.lifestyle note — one of twelve children, working-class St. Louis, car dealership and carpentry after baseball — establishes that Reiser's community connection was horizontal (peer-level, fan-level) rather than institutional (celebrity-level)."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Team dinners with Reese, Robinson, and the '47 Dodgers.",
+      "note_extra": "Source labeled 'Restaurant / Steakhouse' / affinity 'MEDIUM' — same mapping as Pesky's Restaurant/Steakhouse MEDIUM (the team-social dining domain). Reiser's restaurant MEDIUM has a specific team cluster: Reese, Robinson, and the 1947 Dodgers — the Jackie Robinson integration team. This MEDIUM carries more historical weight than Pesky's (Williams, Doerr, Dom DiMaggio), because the 1947 Dodgers' team dinner circle included the first integrated clubhouse in modern baseball. The chemistry_traits 'Pee Wee's Best Man' and 'Jackie's Partner' are the mechanical expressions of these dinner-table relationships."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Too wired to rest. Playing through concussion symptoms. Can't sit still.",
+      "note_extra": "Source labeled 'Hotel / Rest' / affinity 'LOW' — source label identical to domain mapping. Eleventh Hotel/Rest/LOW register: neurological-incapacity-for-rest. This is the first Hotel/Rest/LOW in the set where the player's inability to rest is a medical symptom rather than a lifestyle choice or social aversion. Prior LOWs: principled religious abstention (McInnis), directional comedy (McKechnie), terminal medical (McGinnity), career-theft injury (Medwick), international catastrophe (Mungo), principled domestic commitment (Musial), performance-preparation exclusion (Newhouser), fatal transit (Ott), wealthy non-compliance (Overall), time-competition nightlife avoidance (Pesky). Reiser's LOW is categorically distinct: it is not that he chose not to rest — it is that his nervous system and competitive pathology made rest physiologically impossible. 'Playing through concussion symptoms. Can't sit still.' The personality.temperament quote ('I can't. I see the ball and I go.') is the source of the Hotel/Rest/LOW as much as the medical catalogue."
+    },
+    {
+      "location": "Gambling Hall",
+      "affinity": "NONE",
+      "note": "No association.",
+      "note_extra": "Source labeled 'Gambling Hall' / affinity 'NONE' — fourth NONE in the set. Mungo: Postseason/NONE (absence-of-opportunity). Newhouser: Gambling Hall/NONE (principled competitive exclusion — declared absence-of-interest). Pesky: Gambling Hall/NONE (simple biographical void — 'No association whatsoever'). Reiser: Gambling Hall/NONE (same void register as Pesky — 'No association'). Two Gambling Hall/NONE cards in consecutive batch (Pesky and Reiser) with the same register: the domain simply never existed for working-class players defined entirely by their relationship to the game and their families. The Gambling Hall/NONE is becoming a quiet signature of the 1940s working-class player cohort."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Multi-hit games — Reiser was 19-for-21 in a road trip before the 1942 wall crash.",
+      "Stolen-base attempts — success fuels adrenaline, leading to more aggression.",
+      "Pennant races — Reiser was at his absolute best when Brooklyn needed him most.",
+      "Playing alongside Jackie Robinson — the duo's daring energized each other."
+    ],
+    "cold_triggers": [
+      "Wall crashes — each concussion reduces his performance ceiling permanently.",
+      "Post-injury return — dizziness, headaches, and vertigo linger for weeks.",
+      "Being held out of the lineup — Reiser's pride cannot accept being benched."
+    ],
+    "pressure_response": "RECKLESS BRILLIANCE. Reiser doesn't rise to the occasion — he explodes toward it at full speed, regardless of consequences. In 1942 he was hitting .380 in a pennant race when he ran face-first into a concrete wall chasing Enos Slaughter's fly ball. He retrieved the ball and threw it in before collapsing with a fractured skull. That's Reiser's pressure response: superhuman effort that destroys his own body. In ILB: Reiser is the ultimate high-risk play. When healthy, he's a top-5 player. But 'when healthy' is the operative phrase."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Into the Wall",
+      "type": "Game Action",
+      "text": "Your center fielder chases a fly ball at full speed toward the outfield wall. He catches it — but crashes into the concrete. Roll a d6: on 1-2, he's carried off on a stretcher (out 10-30 games). On 3-4, he returns next inning but at -3 OVR. On 5-6, he shakes it off. Either way, the out stands.",
+      "origin": "Reiser crashed into outfield walls repeatedly. The worst: July 19, 1942 in St. Louis, when he fractured his skull chasing Enos Slaughter's drive. He was hitting .380. He dropped to .310 and was never the same."
+    },
+    {
+      "title": "Seven Steals of Home",
+      "type": "Game Action",
+      "text": "Your fastest player attempts to steal home. This is the most audacious play in baseball. Roll: on 4+, he's safe and your team gains +3 momentum. On 1-3, he's out but earns a 'Fearless' bonus (+1 morale for trying).",
+      "origin": "In 1946, Reiser stole home seven times — an MLB record for a single season that has never been broken. He led the NL with 34 steals despite playing only 122 games."
+    },
+    {
+      "title": "Carried Off on a Stretcher",
+      "type": "Drama",
+      "text": "Your star player is carried off the field on a stretcher. The crowd goes silent. He's given last rites at the stadium. Your team's morale drops -3 immediately. But if he returns within 5 games, he gains the 'Invincible' trait and morale surges +5.",
+      "origin": "Reiser was carried off the field on a stretcher 11 times in his career. He was once given last rites in the clubhouse. He always came back — until he couldn't."
+    },
+    {
+      "title": "The Rickey-MacPhail Conspiracy",
+      "type": "Drama",
+      "text": "Two rival GMs make a secret deal to hide a top prospect in the minors. But the prospect is too talented to stay hidden. The manager threatens to quit if the prospect isn't promoted. Choose: break the deal and keep the star, or honor it and trade him.",
+      "origin": "Branch Rickey arranged for the Dodgers to sign Reiser and hide him in the minors, planning to trade him back to St. Louis. But Reiser was too good. Durocher forced MacPhail's hand, and Brooklyn kept him."
+    },
+    {
+      "title": "Best Man at the Wedding",
+      "type": "Action",
+      "text": "Your two best players are roommates and best friends. Their bond is unbreakable. +2 chemistry permanently. But if one is traded, the other's morale drops -3 for the rest of the season.",
+      "origin": "Reiser served as best man at Pee Wee Reese's wedding in spring 1942. They were roommates and inseparable throughout their Dodger years."
+    },
+    {
+      "title": "Padded Walls",
+      "type": "Action",
+      "text": "After your star outfielder's third wall crash, the team installs padded outfield walls. All future outfield injury risks are reduced by 50%. This is a permanent ballpark upgrade.",
+      "origin": "In 1948, Ebbets Field became the first ballpark to install padded outfield walls — directly because of Pete Reiser. Warning tracks followed. His career ended so that future players' careers could be saved."
+    },
+    {
+      "title": "What Could Have Been",
+      "type": "Drama",
+      "text": "At the end of a tragically shortened career, your player is honored in a book called 'The 100 Greatest Players of All Time' despite never making the Hall of Fame. His legacy is: the best player who could have been. +10 permanent legacy. Collectors pay triple for his card.",
+      "origin": "In 1981, Ritter and Honig included Reiser in 'The 100 Greatest Baseball Players of All Time,' inventing the 'Smoky Joe Wood Syndrome' to explain why a player with limited career stats could still be one of the greatest ever."
+    },
+    {
+      "title": "Throwing with the Other Arm",
+      "type": "Action",
+      "text": "Your injured player can't throw with his dominant arm. He teaches himself to throw with the other one. He returns to the lineup at -1 DEF but gains the 'Ambidextrous' trait permanently.",
+      "origin": "After fracturing his throwing arm, Reiser taught himself to throw left-handed. He was a natural right-hander who also hit left-handed. His ambidexterity allowed him to keep playing through injuries that would have ended anyone else's career."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Compact, handsome face with sharp features. 5'11\" 185 lbs — wiry, coiled, built like a compressed spring. Dark hair, intense eyes that telegraph pure determination. The face of a man who doesn't know how to slow down. Young — he was only 22 in 1941.",
+    "attire": "Brooklyn Dodgers road grays, 1941 flannel. Captured in full sprint — either chasing a fly ball toward the outfield wall or rounding third base with reckless abandon. Dirt on the uniform. A small tear in the sleeve. This card should look like it's been through a war.",
+    "mood": "Explosive intensity. Not anger — joy. The joy of a man who has found the only thing he was born to do and is doing it at the absolute limit of human capability. There should be a sense of danger in the portrait — something beautiful and breakable.",
+    "style": "Sepia-toned with kinetic energy. Ebbets Field in the background, the concrete outfield wall looming. Slightly more dynamic composition than other cards — Reiser's card should feel like it's in motion. Warm Brooklyn afternoon light with a hint of shadow from the wall.",
+    "reference": "This is the 'what if' card. The card collectors look at and feel a pang of loss. It should feel like a shooting star — brilliant, brief, and gone too soon. The most emotionally charged card in the Allies set."
+  }
+}

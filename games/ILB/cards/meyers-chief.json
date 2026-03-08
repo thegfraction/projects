@@ -1,0 +1,207 @@
+{
+  "card_type": "player",
+  "name": "Chief Meyers",
+  "real_name": "John Tortes Meyers",
+  "nickname": "Chief",
+  "year": 1912,
+  "team": "New York Giants",
+  "era": "1910s",
+  "ilb_team": "Muggers 1910",
+  "position": "C",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'11\"",
+  "weight": "194 lbs",
+  "born": "July 29, 1880 — Riverside, CA",
+  "died": "July 25, 1971 — San Bernardino, CA (age 90)",
+  "player_image": "https://raw.githubusercontent.com/thegfraction/projects/b9a611655116268b1910dda04fcb97fd0d03b2d1/games/ILB/images/meyers-chief.png",
+
+  "real_stats": {
+    "season": 1912,
+    "batting_avg": ".358",
+    "obp": ".441",
+    "slg": ".418",
+    "hits": 143,
+    "doubles": 16,
+    "triples": 6,
+    "home_runs": 6,
+    "rbi": 63,
+    "career_avg": ".291",
+    "career_obp": ".367",
+    "career_hits": 826,
+    "career_hr": 14,
+    "peak_avg": ".334 (1911-13)",
+    "ws_avg": ".357 (1912 WS)",
+    "ws_appearances": 4,
+    "seasons": 9
+  },
+
+  "ilb_stats": {
+    "ovr": 7,
+    "con": 4,
+    "pow": 1,
+    "spd": 0,
+    "def": 2,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": ".358 BA in 1912 → tier 4 (.340-.359). .441 OBP led the NL. Hit for the cycle. .334 BA across the 1911-13 three-pennant peak. Led Giants in batting three consecutive seasons. .291 career — outstanding for a catcher. 'Deepest student of batting on the team.' A reporter watched him correctly predict pitches thrown by opposing pitchers. Rating of 4.",
+    "pow": "6 HR peak (1912). Career SLG .378. 14 career HR. Gap power — doubles and triples — but minimal home run production even by dead-ball standards. Not a power hitter. Rating of 1.",
+    "spd": "'Big and strong, and like the majority of other catchers, wasn't blessed with speed.' 194 lbs behind the plate. Catcher. Slow. Rating of 0.",
+    "def": "Primary catcher for Christy Mathewson for 7 seasons — you don't catch the era's most sophisticated pitcher for 7 years without being excellent. 'Student of the game, predicting pitchers' pitches and location.' McGraw: 'You're the catcher for Mathewson.' Caught 100+ games in 6 consecutive seasons. Handled Mathewson, Marquard, Tesreau. The $17,000 battery. Rating of 2.",
+    "clu": ".357/.419/.429 in the 1912 WS — excellent. .300 in the 1911 WS. 4× WS participant (1911-13, 1916). But lost ALL FOUR World Series. The 1912 G8 foul popup — Mathewson called for Meyers instead of Merkle, Meyers couldn't reach it, Speaker got a second chance and singled to tie — haunts. But Meyers' individual October performance was strong. Rating of 2."
+  },
+
+  "personality": {
+    "leadership_style": "THE INTELLECTUAL. In an era when ballplayers drank, played cards, and fought, Meyers visited museums, discussed Plato, and studied opposing pitchers' tendencies. A reporter in 1909, before Meyers had even played a single MLB game: 'A strong love of justice, a lightning sense of humor, a fund of general information that runs from politics to Plato, a quick logical mind, and the self-contained, dignified poise that is the hallmark of good breeding — he is easily the most remarkable player in the big leagues.' He led by example and intelligence, not volume.",
+    "temperament": "DIGNIFIED, WITTY, PROUD. Unlike other Native American players who downplayed their heritage to avoid prejudice, Meyers remained openly proud of his Cahuilla identity throughout his career and life. He used wit to combat stereotypes — responding to racist coverage with humor and intelligence rather than anger. He endured Ring Lardner writing 'Big Chief Meyers, he break up big ball game with heap big triple' and chose to let his .358 batting average speak louder.",
+    "work_ethic": "THE DEEPEST STUDENT. 'Meyers has become the deepest student of batting on the team,' wrote the New York Times after watching him correctly predict pitches. He studied opposing pitchers, predicted locations, communicated strategy. Caught 100+ games in 6 consecutive seasons — an unusually heavy workload for a dead-ball era catcher. He didn't just catch Mathewson — he STUDIED with Mathewson. The battery was a seminar.",
+    "lifestyle": "THE SOPHISTICATE. On off-days: museums, historical monuments, college football practices. His teammates: cards, billiards, bars. Dartmouth-educated. Performed in vaudeville with Mathewson — a sketch called 'Curves' explaining the art of pitching and catching, touring for weeks. Roommate of Jim Thorpe in New York. Friends with Babe Ruth (they traded bats). After baseball: police chief for Mission Indian Agency. Became a Cahuilla tribal leader. Interviewed by Lawrence Ritter for 'The Glory of Their Times' in 1964 — one of the book's most memorable conversations.",
+    "clubhouse_impact": "THE BRIDGE. +2 intellectual bond (connected with educated players like Mathewson, formed the deepest pitcher-catcher relationship in the era). +1 cultural dignity (maintained Cahuilla identity with pride). +1 sportswriter relations (made interesting copy because he was interesting). -1 acceptance (faced persistent racism, the nickname 'Chief' itself was a stereotype). Meyers bridged worlds — Native and white, intellectual and physical, vaudeville and baseball.",
+    "dark_side": "Four World Series. Four losses. The 1912 G8 foul popup — Mathewson called for Meyers to catch it instead of Merkle, who was closer. Meyers couldn't reach it. Speaker singled. Giants lost the game, the Series, the championship. Mathewson 'called for the wrong man.' The indignity: not that Meyers failed, but that he was asked to do what someone else should have done. And the nickname — 'Chief' — applied to every Native American player of the era regardless of their actual heritage. Meyers bore it with dignity but the weight was real. After getting booed at a semi-pro game post-career, he quit baseball entirely and became a police chief on the reservation. The most intelligent man on the field, reduced to a stereotype by a nickname and a foul popup he was never supposed to catch."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Mathewson's Batterymate",
+      "desc": "Primary catcher for Christy Mathewson for 7 seasons. The deepest pitcher-catcher bond in dead-ball era. +3 synergy with elite pitchers. McGraw: 'You're the catcher for Mathewson.' When catching Mathewson: +1 DEF, +1 pitcher CLU."
+    },
+    {
+      "tag": "The Cahuilla Catcher",
+      "desc": "Santa Rosa Band of Cahuilla Tribe. Proudly maintained heritage. Became tribal leader after baseball. +2 identity. +1 cultural resilience. The most dignified player on the Muggers."
+    },
+    {
+      "tag": "Dartmouth Intellect",
+      "desc": "Dartmouth College educated. Discussed Plato. Visited museums on off-days. +2 intelligence. +1 pitch-calling. The catcher who studied the game like a professor studies a text."
+    },
+    {
+      "tag": "The Glory of Their Times",
+      "desc": "Interviewed by Lawrence Ritter, 1964. One of the most memorable voices in baseball's greatest oral history. +2 literary legacy. +1 immortality."
+    },
+    {
+      "tag": "'Curves' — The Vaudeville Battery",
+      "desc": "Performed sketch 'Curves' with Mathewson. Pitcher and catcher explaining their art on stage. Toured for weeks. +1 cultural crossover. +1 Mathewson bond."
+    },
+    {
+      "tag": "Called for the Wrong Man",
+      "desc": "1912 WS G8: Speaker's foul popup near 1B. Mathewson called for Meyers instead of Merkle. Meyers couldn't reach it. Speaker singled to tie. -1 CLU (not his fault). -1 fate. The most unjust moment in Muggers history."
+    },
+    {
+      "tag": "Four October Losses",
+      "desc": "4× WS (1911-13, 1916). Lost all four. Giants couldn't win October. Team failure, not individual. .357 in 1912 WS. But 0 titles."
+    },
+    {
+      "tag": "Thorpe's Roommate",
+      "desc": "Roomed with Jim Thorpe in New York. Two Native American athletes in the city. +1 solidarity. +1 connection to the greatest athlete of the era."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "1909-15. 3 pennants. Mathewson's catcher. Home of the Giants dynasty.",
+      "note_extra": "Source labeled 'Polo Grounds / New York' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH as the career-peak home stage."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "100+ games caught in 6 consecutive years. Mathewson's batterymate.",
+      "note_extra": "Source labeled 'Behind the Plate' / affinity 'HIGH' — mapped to Practice Field/HIGH as the primary craft domain. The catcher's position as the site of seven seasons studying Mathewson. First 'Behind the Plate' location entry in the set — the catching position as a named craft domain equivalent to 'Batter's Box' or 'Pitcher's Mound.'"
+    },
+    {
+      "location": "World Series",
+      "affinity": "COMPLEX",
+      "note": ".357 in 1912 WS. .300 in 1911. But 4 losses. The foul popup.",
+      "note_extra": "Source labeled 'The World Series' / affinity 'COMPLEX' — mapped to opportunity domain 'World Series' / affinity 'COMPLEX'. Second COMPLEX affinity in the set (Mays's Cooperstown was first). Meyers's COMPLEX encodes the structural tension between excellent individual October performance (.357, .300) and four consecutive team losses — including the 1912 G8 foul popup that defined his October legacy despite not being his fault. The COMPLEX affinity is more precise than LOW (which would encode failure) or HIGH (which would encode triumph) — it encodes both simultaneously, inseparably."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Off-day destination. Art museums in Boston. Monuments. Exhibits.",
+      "note_extra": "Source labeled 'Museums / Historical Sites' / affinity 'HIGH' — mapped to Community Events/HIGH as the intellectual-cultural enrichment domain. First museum-as-location entry in the set. The museum visits are documented in the New York Times profile and appear in chemistry_traits.Dartmouth Intellect and action_card_seeds.The Museum on the Off-Day. The off-day museum visit is the single most distinctive non-baseball behavior in the Muggers set."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Cahuilla homeland. Born. Returned. Tribal leader. Buried nearby.",
+      "note_extra": "Source labeled 'Riverside / Santa Rosa Reservation' / affinity 'HIGH' — mapped to Community Events/HIGH as the tribal-homeland domain. The Cahuilla homeland is a community anchor at the deepest level: birthplace, cultural identity, post-career leadership, and burial. Distinguished from the McInnis-type HOME (single irreducible origin) by its community-institutional dimension — Meyers did not merely return to Riverside, he governed the Santa Rosa Band as tribal leader. The HIGH affinity encodes active community engagement rather than passive origin attachment."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Catching Mathewson — the battery is a seminar; Meyers' intelligence elevates both pitcher and catcher",
+      "Studying opponents — when Meyers has read the opposing pitcher, he predicts pitches correctly; +1 CON",
+      "Pennant race intensity — led Giants in batting 3 consecutive championship seasons; pressure focused him",
+      "Cultural pride — when Meyers plays with dignity and identity intact, his composure steadies the team"
+    ],
+    "cold_triggers": [
+      "World Series loss — 4× WS, 0 titles; the team's October collapse weighs on every player",
+      "The foul popup memory — 'called for the wrong man'; the unjust moment that reduced him",
+      "Racial stereotyping — 'heap big triple' coverage; the nickname 'Chief'; the weight of being a symbol",
+      "Physical decline — after 1914, the workload of 100+ games caught per year caught up; batting dropped to .232"
+    ],
+    "pressure_response": "STRONG individually in October. .357 in the 1912 WS. .300 in 1911 WS. Started all 8 games of the 1912 Series. But the TEAM lost all four World Series Meyers appeared in. The 1912 foul popup was not his fault — Mathewson called for the wrong man. Meyers' individual October hitting was excellent. The team's October destiny was cursed. CLU 2 reflects the individual performance against the collective failure."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Deepest Student",
+      "type": "Game Action",
+      "text": "Your catcher watches the opposing pitcher in warm-ups. He predicts every pitch — type, location, sequence. His teammates stop doubting. The New York Times writes about it. 'Meyers has become the deepest student of batting on the team.' +2 pitch prediction. +1 CON. The catcher who reads the game like a book.",
+      "origin": "NYT reported Meyers correctly predicted Pirates pitcher Marty O'Toole's pitches from the bench."
+    },
+    {
+      "title": "Called for the Wrong Man",
+      "type": "Drama",
+      "text": "World Series Game 8. Bottom of the 10th. Giants lead 2-1, three outs from the championship. Speaker hits a foul popup near first base. Merkle is thirty feet away. Your pitcher calls for your CATCHER to take it. Your catcher sprints but can't reach it. The ball drops. Speaker singles to tie. Giants lose. Your catcher was called for the wrong man. -1 CLU. -1 justice. +1 resilience (he comes back next year).",
+      "origin": "1912 WS G8: Mathewson called for Meyers instead of Merkle on Speaker's foul popup."
+    },
+    {
+      "title": "The Vaudeville Battery",
+      "type": "Drama",
+      "text": "Your pitcher and catcher are on stage. Not a baseball stage — a theater stage. They perform a sketch called 'Curves.' Mathewson explains how to throw them. Meyers explains how to catch them. The audience laughs. The tour lasts weeks. +2 Mathewson bond. +1 cultural crossover. The battery that played in October and performed in November.",
+      "origin": "Meyers and Mathewson performed vaudeville sketch 'Curves,' touring for weeks."
+    },
+    {
+      "title": "The Museum on the Off-Day",
+      "type": "Drama",
+      "text": "Rain delay. Your teammates play cards and drink. Your catcher takes a trolley to the art museum. He spends hours with the paintings. A reporter follows him. The article describes a man who discusses 'politics to Plato' with 'a quick logical mind and dignified poise.' He returns to the clubhouse. He catches 143 games that year. +2 intellect. +1 dignity.",
+      "origin": "Meyers visited museums and historical sites on off-days. Teammates played cards."
+    },
+    {
+      "title": ".358 Behind the Plate",
+      "type": "Game Action",
+      "text": "Your catcher finishes the season at .358 — second in the National League, behind only the Triple Crown winner. He leads the league in on-base percentage at .441. He catches 126 games. He hit for the cycle in June. He finishes third in MVP voting. He is the best catcher in baseball and one of the best hitters at any position. +4 CON. +2 MVP contention. The man behind the plate who hits like the man at the plate.",
+      "origin": "1912: Meyers hit .358 with a league-leading .441 OBP. 3rd in MVP."
+    },
+    {
+      "title": "The Cahuilla Catcher",
+      "type": "Drama",
+      "text": "Your catcher is Cahuilla. Santa Rosa Band. Riverside, California. His mother is a basket maker. His father is a German-American Civil War veteran. He attended Dartmouth. He discusses Plato. He endures 'heap big' headlines with dignity. He will become a tribal leader after baseball. +2 identity. +1 resilience. The most remarkable player in the big leagues.",
+      "origin": "Meyers maintained Cahuilla identity proudly throughout career. Became tribal leader."
+    },
+    {
+      "title": "The Glory of Their Times",
+      "type": "Drama",
+      "text": "Fifty-two years after his last at-bat, your retired catcher sits with a man named Lawrence Ritter. He talks about Mathewson, McGraw, the Polo Grounds, the foul popup, the museums, the vaudeville sketch. The book becomes the greatest baseball oral history ever published. Your catcher's voice carries across decades. +3 immortality. +2 literary legacy. The man who was 'the most remarkable player in the big leagues' is remarkable still.",
+      "origin": "Meyers was interviewed by Lawrence Ritter for 'The Glory of Their Times' in 1964."
+    },
+    {
+      "title": "Thorpe's Roommate",
+      "type": "Drama",
+      "text": "Your catcher rooms with Jim Thorpe in New York City. Two Native Americans in the greatest city in the world. One is the greatest athlete alive. The other is the best catcher in the National League. They share an apartment, a heritage, a weight. +1 solidarity. +1 legend.",
+      "origin": "Meyers was Jim Thorpe's roommate in New York."
+    }
+  ],
+
+  "art_direction": {
+    "face": "DIGNIFIED, INTELLIGENT, STRONG, PROUD. 5'11\" 194 lbs — big, solid, the body of a catcher built for 100+ games per season. The face should be COMPOSED and PERCEPTIVE — not the laughing warmth of Doyle or the volatile menace of Zimmerman. A QUIET STRENGTH. Cahuilla heritage visible and honored — dark complexion, strong features, the face of a man whose mother was a Cahuilla basket maker and whose intellect ran from 'politics to Plato.' Deep, watchful eyes — these are the eyes that predicted opposing pitchers' pitches from the bench, that studied paintings in Boston art museums, that read Mathewson's signals for seven years. The expression: CALM INTELLIGENCE with a hint of WIT. 'A lightning sense of humor.' The dignity of a man who bore 'Chief' as a nickname while being the most sophisticated man in the room.",
+    "attire": "New York Giants 1912 whites — interlocking 'NY', flat cap. Catcher's equipment visible or suggested — chest protector, mask pushed up on forehead, mitt. THE POSE: in the crouch behind the plate, fingers down giving signals — the position from which he caught Mathewson for seven years. Or: the right-handed swing, compact and quick, the .358 hitter who led the NL in on-base percentage. The gear should look WORN — 100+ games per season in early equipment.",
+    "mood": "COMPOSED AND DIGNIFIED. The card should feel like INTELLIGENCE and HERITAGE combined — a man who is simultaneously a Cahuilla of the Santa Rosa Band, a Dartmouth student, a vaudeville performer, and the best catcher in the National League. Not the fireworks of Schulte or the chaos of Zimmerman. The QUIET AUTHORITY of the man who catches Christy Mathewson.",
+    "style": "Sepia-toned with CAHUILLA EARTH and POLO GROUNDS IVORY — the warm red-brown earth of the Southern California desert, the ivory of the Polo Grounds grandstand. Where Bender is earth red (Ojibwe, Chippewa), Meyers is CAHUILLA EARTH — the specific red-brown of Riverside, California, of the Santa Rosa Reservation, of the desert floor. The palette should feel GROUNDED and WARM — the color of land and heritage and the quiet authority of the earth itself.",
+    "reference": "The composed intelligent face. The catcher's crouch. Polo Grounds ivory. Cahuilla earth. The card should feel like the WISEST card in the Muggers collection — not the most powerful (Speaker) or the most talented (Jackson) or the most joyful (Doyle), but the most KNOWING. The catcher who studied paintings and predicted pitches and endured stereotypes and caught Christy Mathewson."
+  }
+}

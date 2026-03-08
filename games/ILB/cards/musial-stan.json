@@ -1,0 +1,227 @@
+{
+  "card_type": "player",
+  "name": "Stan Musial",
+  "nickname": "Stan the Man",
+  "year": 1948,
+  "team": "St. Louis Cardinals",
+  "era": "1940s",
+  "ilb_team": "Allies AL1940",
+  "position": "OF/1B",
+  "bats": "L",
+  "throws": "L",
+  "height": "6'0\"",
+  "weight": "175 lbs",
+  "born": "November 21, 1920 — Donora, PA",
+  "died": "January 19, 2013 — Ladue, MO (age 92)",
+  "hof": "HOF 1969 (first ballot, 93.2%). 3× MVP. 24× All-Star. 3× WS Champion. #6 retired. 128.3 career WAR.",
+
+  "real_stats": {
+    "season": 1948,
+    "games": 155,
+    "at_bats": 611,
+    "hits": 230,
+    "doubles": 46,
+    "triples": 18,
+    "home_runs": 39,
+    "rbi": 131,
+    "runs": 135,
+    "stolen_bases": 7,
+    "walks": 79,
+    "strikeouts": 34,
+    "batting_avg": ".376",
+    "obp": ".450",
+    "slg": ".702",
+    "ops": "1.152",
+    "ops_plus": 205,
+    "war": 11.0,
+    "total_bases": 429,
+    "career_avg": ".331",
+    "career_hits": 3630,
+    "career_hr": 475,
+    "career_rbi": 1951,
+    "career_runs": 1949,
+    "career_doubles": 725,
+    "career_war": 128.3
+  },
+
+  "ilb_stats": {
+    "ovr": 13,
+    "con": 5,
+    "pow": 4,
+    "spd": 1,
+    "def": 0,
+    "clu": 1
+  },
+
+  "stat_justification": {
+    "con": "Led the NL in BA 7 times. Career .331. In 1948: .376 with 230 hits, 46 doubles, 18 triples — leading the NL in all three. Struck out only 34 times in 611 AB — ratio of 18:1 AB/K. OPS+ of 205. Preacher Roe's method of pitching to Musial: 'Walk him on four pitches and pick him off first.' The most gifted pure hitter of his generation. Maximum contact.",
+    "pow": "39 HR in 1948 — one shy of the Triple Crown. .702 SLG, 429 total bases (NL record). Career 475 HR, 725 doubles (3rd all-time). 1,951 career RBI. This was power AND contact — Musial didn't sacrifice one for the other. The SLG bonus pushes him to 4. Rating of 4.",
+    "spd": "7 SB in 1948 — modest. But 18 triples (led NL) shows real speed. Musial had more career triples (177) than most power hitters dream of. He was a good runner, not a great one. His 'corkscrew' stance uncoiled into surprising burst. Rating of 1.",
+    "def": "Musial played outfield in his younger years and first base as he aged. He was an adequate fielder at both positions but never a defensive standout. No Gold Glove equivalent. His value was almost entirely offensive. Rating of 0.",
+    "clu": "World Series: .256 in 23 games across 4 Fall Classics. Won 3 rings (1942, 1944, 1946) but never appeared in the WS after age 26. His .304 in the 1944 WS was his best. No singular hero moment — Musial's October legacy is that he was there for the wins but didn't dominate. The Cardinals never made it back during his prime years. Rating of 1."
+  },
+
+  "personality": {
+    "leadership_style": "Lead by example, lead by joy. Musial was not a fire-breather or a strategist — he was a man who played the game with infectious happiness. Teammates loved him because he was genuinely good: good at baseball, good to people, good in the community. Branch Rickey: 'Here stands baseball's perfect knight.' He led by making everyone around him feel like the game was beautiful.",
+    "temperament": "Warm, humble, unshakably decent. Musial was universally loved — by teammates, opponents, fans, and writers. He had no enemies. He played the harmonica in the clubhouse. He signed every autograph. He remembered names. Ted Williams was his rival, but they were close friends. Musial embodied joy in competition. Bob Gibson said Musial could 'talk to a telephone pole and make it feel important.'",
+    "work_ethic": "The corkscrew. Musial developed his unique 'peek-a-boo' batting stance — a tightly coiled corkscrew that disguised his timing from pitchers. It looked unorthodox but generated incredible bat speed and plate coverage. He gripped the bat at the knob for extra leverage. He worked endlessly on his craft, arriving at his 1948 peak after offseason surgery cleared infections that had weakened him. 'I knew this would be it, my big year,' he said. He was right.",
+    "lifestyle": "Donora, Pennsylvania boy to St. Louis legend. Polish-American heritage (born Stanislaw Franciszek Musial). Married to Lillian 'Lil' Labash for 72 years until his death. Four children. After baseball: successful restaurateur (Stan Musial & Biggie's), civic leader, Presidential Medal of Freedom recipient (2011). Played harmonica at team functions. Named bridge, statue, and countless awards after him. Lived in St. Louis for the rest of his life.",
+    "era_adaptability": "EXTREMELY HIGH. Musial's numbers translate to any era. His .331/.417/.559 career line, 128.3 WAR, and 34 K in 611 AB would make him elite in any decade. His plate discipline is timeless. His power-contact combination is extraordinarily rare. Modern analytics would worship his OBP and walk-to-strikeout ratio. The corkscrew stance might look weird on video, but the results are beyond debate.",
+    "clubhouse_impact": "UNIVERSAL POSITIVE. There is no player in baseball history with fewer enemies than Stan Musial. He transcended team loyalty — Brooklyn fans gave him the 'Stan the Man' nickname as a compliment from the opposing stands. His teammates adored him. His opponents respected him. He was the anti-controversy: no scandals, no feuds, no dark chapters. In ILB terms: Musial is a +3 chemistry card for every teammate on the roster, with no negatives.",
+    "dark_side": "The missing Octobers. Musial won 3 World Series before age 26 but never appeared in another. The Cardinals of the late 1940s and 1950s couldn't get back. Musial's career postseason line (.256 in 23 games) is his only statistical weakness. He also missed the 1945 season to Navy service — his already staggering career numbers would have been even higher. In ILB terms: Musial's dark side isn't about character — it's about the October absence. The greatest hitter of his generation never got to prove it on the biggest stage during his peak."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Stan the Man",
+      "desc": "Even opposing fans respected him. Brooklyn gave him the nickname. +2 fan morale at ALL ballparks — home and away."
+    },
+    {
+      "tag": "The Corkscrew",
+      "desc": "Unique peek-a-boo batting stance. Impossible to scout because it disguises timing. -1 to opposing pitcher's STF when facing Musial."
+    },
+    {
+      "tag": "Perfect Knight",
+      "desc": "Branch Rickey's phrase. No enemies, no scandals, no dark chapters. +3 chemistry with all teammates. Zero negative chemistry events."
+    },
+    {
+      "tag": "Harmonica Man",
+      "desc": "Plays harmonica in the clubhouse. Lightens the mood after losses. Team recovers from cold streaks 1 game faster."
+    },
+    {
+      "tag": "1,815 / 1,815",
+      "desc": "Exactly 1,815 career hits at home AND on the road. Musial's consistency is supernatural. No home/away splits penalty."
+    },
+    {
+      "tag": "Polish Lightning",
+      "desc": "Donora, PA to St. Louis legend. Working-class Polish-American heritage. +1 chemistry with immigrant-background and blue-collar teammates."
+    },
+    {
+      "tag": "NL Rival to Williams",
+      "desc": "Musial and Ted Williams: the two greatest hitters of the 1940s-50s. When both are in the same game, both get +1 CON. Mutual respect amplifies performance."
+    },
+    {
+      "tag": "The Missing Octobers",
+      "desc": "Won 3 WS before 26 but never appeared again. If team misses playoffs, -1 morale to Musial. The absence haunts."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": ".376 in 1948. .331 career. 3,630 hits. 7 batting titles. This is home.",
+      "note_extra": "Source labeled 'Batter's Box' / affinity 'HIGH' — mapped to Practice Field/HIGH as the batting craft domain. Fourth Batter's Box entry in the set (McInnis: handedness-specific mastery, Medwick: aggressive violence, Mize: absolute stillness, Musial: pure joy-as-home). Each encodes a different relationship to the same physical zone. Musial's note uses 'This is home' — the most literal home-expression of the batter's box domain in the set. The 1,815/1,815 symmetry encoded in the craft domain: the batter's box felt the same everywhere because Musial brought the same presence everywhere."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "Harmonica, smiles, autographs. Universal beloved presence.",
+      "note_extra": "Source labeled 'Clubhouse / Locker Room' / affinity 'HIGH' — mapped to Hotel/Rest/HIGH as the between-performance social domain of joy-infusion. First Hotel/Rest/HIGH for a position player where the HIGH encodes active morale contribution rather than pastoral care (McKechnie's was managerial pastoral care; Musial's is spontaneous warmth). The harmonica, the autographs, the remembered names — Musial transformed the clubhouse from a resting space into a joy domain. The +3 chemistry card with zero negatives is the mechanical expression of this HIGH."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Successful restaurateur in St. Louis. Post-baseball life was as golden as the career.",
+      "note_extra": "Source labeled 'Stan & Biggie's Restaurant' / affinity 'HIGH' — mapped to Community Events/HIGH as the player-owned civic-commercial domain. First restaurant as a Community Events/HIGH location in the set. Prior food/social establishments were Hotel/Rest (McGraw's bar as a social domain of vice). Stan Musial & Biggie's is Community Events because it was a civic institution — a place where Musial's St. Louis identity was expressed publicly. The 'Post-baseball life was as golden as the career' note encodes the continuity of excellence from diamond to dining room."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "22 years, one franchise. 1,815 hits at home. St. Louis is Musial's city.",
+      "note_extra": "Source labeled 'Sportsman's Park / Busch Stadium' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH as the career home stage. 22 seasons, one franchise, one city. The home ballpark pair (Sportsman's Park through 1966, then Busch Stadium) encodes the full arc of the career. 1,815 home hits — exactly half his career total — give this domain its statistical signature."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "Brooklyn fans gave him the 'Stan the Man' nickname. He hit .443 vs. the Braves, .379 vs. the Reds.",
+      "note_extra": "Source labeled 'Ebbets Field (Away)' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH as an opposing ballpark at maximum positive affinity. First opponent's ballpark at HIGH in the set. Where Mize had two career home ballparks both at HIGH, Musial has one home ballpark (Sportsman's) and one enemy ballpark (Ebbets Field) both at HIGH — because the enemy named him. 'Stan the Man' was coined in Brooklyn, not St. Louis. The opposing fans' ballpark as a HIGH domain encodes the unique cross-team recognition that no other player in the set has received. The 'NL Rival' dimension of Musial's career: he dominated opponents so thoroughly they gave him a title."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Navy veteran, 1945. Presidential Medal of Freedom, 2011.",
+      "note_extra": "Source labeled 'USO / Military Functions' / affinity 'MEDIUM' — mapped to Community Events/MEDIUM as the civic-service domain at moderate intensity. Navy service (1945 season lost) and the 2011 Presidential Medal of Freedom bracket the career at either end. MEDIUM encodes genuine civic presence — meaningful, not primary-identity defining. The military functions represent the public-service dimension of Musial's off-field identity, distinct from the restaurant (commercial civic) and the ballpark (performance civic)."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Family man. Married 72 years. Not a nightlife player.",
+      "note_extra": "Source labeled 'Bar / Nightlife' / affinity 'LOW' — mapped to Hotel/Rest/LOW as a principled lifestyle-absence domain. Sixth Hotel/Rest/LOW register in the set: McInnis (nightlife avoidance), McKechnie (directional comedy), McGinnity (terminal medical decline), Medwick (career-theft injury), Mungo (international catastrophe), Musial (principled domestic absence). Musial's LOW is the most benign in the set — no incident, no aversion, simply the clean NOT of a man married for 72 years who had no interest in nightlife. The LOW encodes a genuine domain preference (NOT this) rather than a negative experience within the domain."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Any at-bat — Musial hit in 121 of 155 games in 1948. He was almost always hot.",
+      "Multi-hit games — four 5-hit games in 1948 alone. When rolling, Musial is unstoppable.",
+      "Road games — .415 BA on the road in 1948. Away crowds couldn't rattle him — they admired him.",
+      "vs. Left-handed pitching — .416 vs. LHP in 1948. No platoon weakness whatsoever."
+    ],
+    "cold_triggers": [
+      "World Series — .256 career. Musial's only consistent weakness. October didn't bring his best.",
+      "Extended team losing — Musial's Cardinals missed the WS from 1947-1963. Team futility frustrated him.",
+      "Physical ailments — low-grade infections hampered him before 1948 surgery. When unhealthy, production dips."
+    ],
+    "pressure_response": "SUPERNATURALLY CONSISTENT, OCTOBER-ORDINARY. Musial's regular season numbers are among the greatest in history. He hit .376 in 1948, .331 for his career, and struck out only 696 times in 10,972 at-bats. He was as close to automatic as a hitter can be. But his WS numbers (.256 in 23 games) are merely adequate. The Cardinals won 3 titles with a young Musial, then never got back. In ILB terms: Musial is +2 CON during the regular season, +0 in the World Series. His greatness is in the relentless daily dominance, not the singular October eruption."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "One Home Run from the Triple Crown",
+      "type": "Game Action",
+      "text": "Your star leads the league in batting average, hits, doubles, triples, RBIs, runs, total bases, OBP, and slugging. He's one home run short of leading in HRs too — one homer from the Triple Crown. A rained-out game cost him the chance. He wins his third MVP anyway.",
+      "origin": "1948. Musial led the NL in 9 categories. His 39 HR were one behind Kiner and Mize. A rained-out HR may have given him the Triple Crown. He won his 3rd MVP regardless."
+    },
+    {
+      "title": "The Corkscrew Stance",
+      "type": "Action",
+      "text": "Your hitter coils into a stance so unorthodox that no pitcher can read his timing. He peeks over his shoulder at the pitcher, body wound tight like a spring. When the pitch comes, the spring uncoils. The best pitcher in the opposing league says the only way to retire him is to walk him on four pitches and pick him off first.",
+      "origin": "Musial's unique peek-a-boo corkscrew stance disguised his timing perfectly. Preacher Roe's famous quote about walking him was only half-joking."
+    },
+    {
+      "title": "Stan the Man — Named by the Enemy",
+      "type": "Drama",
+      "text": "Your star visits the opposing team's ballpark. He destroys their pitching — again. As he walks to the plate, the opposing fans murmur in admiration, not anger: 'Here comes the Man.' The nickname sticks. Even the enemy loves him.",
+      "origin": "Brooklyn Dodgers fans at Ebbets Field coined 'Stan the Man' in the late 1940s as Musial destroyed their pitching year after year. It was a compliment from the opposing stands."
+    },
+    {
+      "title": "Five Home Runs in a Doubleheader",
+      "type": "Game Action",
+      "text": "Your slugger hits three home runs in the first game. Then two more in the second game. Five home runs in one afternoon. No player has ever done this before. It will be done only once more in the next 70 years.",
+      "origin": "May 2, 1954. Musial hit 3 HR in game one (off Antonelli and Hearn) and 2 in game two (off Wilhelm) vs. the Giants. First player ever with 5 HR in a doubleheader."
+    },
+    {
+      "title": "1,815 and 1,815",
+      "type": "Action",
+      "text": "Your star finishes his 22-year career with an extraordinary statistical curiosity: exactly the same number of hits at home as on the road. Not approximately — exactly. The universe of baseball aligned for him in a way that defies probability.",
+      "origin": "Musial's 3,630 career hits split exactly: 1,815 at home, 1,815 on the road. A statistical coincidence so perfect it seems designed."
+    },
+    {
+      "title": "The Harmonica in the Clubhouse",
+      "type": "Action",
+      "text": "Your team loses a tough game. The clubhouse is silent. Then your star pulls out a harmonica and starts playing. The mood shifts. Tension breaks. Tomorrow is a new game. He reminds everyone that baseball is supposed to be fun.",
+      "origin": "Musial was famous for playing harmonica in the Cardinals clubhouse. His joy was infectious and helped the team recover from losses."
+    },
+    {
+      "title": "The Perfect Knight",
+      "type": "Drama",
+      "text": "Your franchise's president surveys the game and announces: 'Here stands baseball's perfect knight.' No one argues. No one has ever argued. In a sport full of scandal, ego, and controversy, one player remained utterly spotless for 22 years.",
+      "origin": "Branch Rickey called Musial 'baseball's perfect knight.' In 22 seasons, Musial had no scandals, no feuds, no controversies. He was universally beloved."
+    },
+    {
+      "title": "The Bridge Over Donora",
+      "type": "Drama",
+      "text": "Your retired star's home state renames the bridge over the river from his hometown. The ceremony features the governor, dignitaries, and thousands of fans. The bridge carries his name forever — connecting two shores, like the man connected two worlds: small-town Pennsylvania and big-league St. Louis.",
+      "origin": "In 2013, Pennsylvania renamed the Donora-Monessen Bridge the 'Stan Musial Veterans Memorial Bridge.' Musial grew up in Donora — the bridge connects his hometown to the wider world."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'0\" 175 lbs, lean, athletic. Polish-American features — warm, genuine face, the easy smile that defined him. Not ruggedly handsome like a cowboy — approachable, kind, the face of a man who signed every autograph. The eyes radiate joy. This is a man who played 22 seasons and never had an enemy.",
+    "attire": "St. Louis Cardinals home whites, 1948 style. Number 6. 'Cardinals' script with the famous birds-on-bat. Left-handed batter in the corkscrew stance — body coiled, peeking over his right shoulder at the pitcher, bat cocked, spring about to uncoil.",
+    "mood": "Pure joy in excellence. The 1948 season — .376, 39 HR, 131 RBI, one HR from the Triple Crown. Musial isn't straining or grinding — he's smiling. The card should radiate the feeling that for Stan Musial, hitting a baseball was the most natural and pleasurable thing in the world.",
+    "style": "Sepia-toned with warm golden highlights, but with slightly MORE gold than other cards — this is a Mythic-tier card, and it should feel luminous. Sportsman's Park in the background, 1948 afternoon sun. The card should feel like watching something perfect.",
+    "reference": "Think of the all-time greats: Ruth, Williams, Mays, Aaron. Musial belongs in that tier. The card should convey not just statistical dominance but an ineffable quality of goodness — the man who was great AND decent, powerful AND gentle, dominant AND humble. Baseball's perfect knight."
+  }
+}

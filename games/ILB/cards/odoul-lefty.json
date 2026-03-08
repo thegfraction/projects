@@ -1,0 +1,229 @@
+{
+  "card_type": "player",
+  "name": "Lefty O'Doul",
+  "nickname": "The Man in the Green Suit",
+  "year": 1929,
+  "team": "Philadelphia Phillies",
+  "era": "1920s",
+  "ilb_team": "Bashers NL1920",
+  "position": "LF",
+  "bats": "L",
+  "throws": "L",
+  "height": "6'0\"",
+  "weight": "180 lbs",
+  "born": "March 4, 1897 — San Francisco, CA",
+  "died": "December 7, 1969 — San Francisco, CA (age 72)",
+  "hof": "NOT in Cooperstown. .349 career BA — highest for any eligible non-HOFer (exc. Shoeless Joe). Japanese Baseball HOF (2002, first American). Early Baseball Era Committee finalist 2022.",
+
+  "real_stats": {
+    "season": 1929,
+    "games": 154,
+    "at_bats": 638,
+    "hits": 254,
+    "doubles": 35,
+    "triples": 6,
+    "home_runs": 32,
+    "rbi": 122,
+    "runs": 152,
+    "stolen_bases": 2,
+    "strikeouts": 19,
+    "walks": 76,
+    "batting_avg": ".398",
+    "obp": ".465",
+    "slg": ".622",
+    "ops": "1.087",
+    "ops_plus": 161,
+    "war": 7.4,
+    "career_avg": ".349",
+    "career_hits": 1140,
+    "career_hr": 113,
+    "career_rbi": 542,
+    "career_sb": 36,
+    "career_ops_plus": 143,
+    "career_war": 25.8,
+    "career_games": 970,
+    "pitching_record": "Won 25 games in PCL (1921). Failed MLB pitcher before converting to OF at age 26."
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "con": 5,
+    "pow": 4,
+    "spd": 0,
+    "def": 0,
+    "clu": 1
+  },
+
+  "stat_justification": {
+    "con": "The .398 BA in 1929 is the closest anyone has come to .400 in the NL since Rogers Hornsby in 1924. His 254 hits STILL stand as the NL single-season record (tied by Bill Terry in 1930). He struck out only 19 times in 638 AB — less than 3% of his at-bats. Only Joe DiMaggio has matched fewer than 20 K with 30+ HR. Career .349 BA is 6th all-time. Ted Williams called him 'one of the greatest hitters ever' and said O'Doul was 'the first guy I ever asked for advice.' Rating of 5 (maximum).",
+    "pow": "32 HR in 1929 with a .622 SLG. Baker Bowl helped, but this was genuine power — he hit 113 career HR in only 3,264 AB. Career SLG .532 → ≥.500 bonus. At his peak, O'Doul combined elite contact with real power — a rare combination that puts him at 4. He's not a pure slugger like Ruth or Gehrig, but he's no slap hitter either.",
+    "spd": "2 SB in 1929. 36 career SB. He was a plodding left fielder by his peak years. In the PCL in 1927, he had a 30-30 season, so speed was there earlier — but by 1929, at age 32, it was gone. Rating of 0.",
+    "def": "Legendarily bad defender. Career -1.1 defensive WAR. John McGraw soured on him specifically because of his fielding. O'Doul's famous self-deprecating joke: someone forged his name on a bar tab. O'Doul paid the bill and told the bartender: 'Next time it happens, take him out back and have somebody hit a few balls to him. If he catches them, you know he's a phony.' Rating of 0.",
+    "clu": "Tiny postseason sample. One WS at-bat in the 1933 World Series — he pinch-hit with the bases loaded in Game 2 and singled in two runs, giving the Giants the lead in a game they won 6-1. The Giants won the Series in 5. He delivered in his one chance, but one AB can't justify more than CLU 1."
+  },
+
+  "personality": {
+    "leadership_style": "The Mayor. His Giants teammates nicknamed him 'The Mayor' because he seemed to have friends at every stop. O'Doul led through magnetism, warmth, and sheer force of personality. He was the guy who knew everyone — from presidents to bartenders, from Tokyo dignitaries to minor-league bus drivers. He turned down MLB managerial offers from the Yankees, Phillies, and Giants because he loved San Francisco too much to leave.",
+    "temperament": "Gregarious, curious, generous, endlessly social. 'I like people. People and cities,' he told the Brooklyn Daily Eagle. 'Some of the fellows get bored when it rains on the road, but I'm never at a loss for amusement. I go places — museums, theaters, zoos. I like to hang around the waterfronts watching the boats go out to sea.' A Revolutionary War buff who visited Paul Revere's house in Boston for fun. A citizen of the world who happened to be born in San Francisco.",
+    "work_ethic": "REINVENTION. O'Doul's career is the greatest reinvention story in baseball history. He was a failed MLB pitcher with a lame arm at age 26. Most men would have quit. Instead, he went to the PCL, taught himself to hit, and returned to the majors at 31 as one of the best hitters alive. He then became a legendary minor-league manager (2,094 wins), a hitting instructor who taught Ted Williams, Joe DiMaggio, Willie Mays, and Willie McCovey, and the father of Japanese baseball. The work ethic isn't flash — it's persistence across decades.",
+    "lifestyle": "San Francisco royalty. O'Doul was THE celebrity of the city for decades — restaurateur (Lefty O'Doul's on Geary Street, one of America's oldest sports bars), scratch golfer (played in the Bing Crosby Pro-Am, won twice), sharp dresser (always in green suits — hence 'The Man in the Green Suit'), and beloved public figure. He was a soft touch for anyone down on their luck: 'Why shouldn't I help the guy? He's in trouble.' He was superstitious: bean soup if he hit well, a Frankenstein practice bat called 'Miss Murphy' stitched together with nails and lead.",
+    "era_adaptability": "HIGH FOR OFFENSE, LOW FOR DEFENSE. O'Doul's bat would play in any era — .349/.413/.532 with 143 OPS+ and only 122 career strikeouts in 3,264 AB is absurdly elite contact. But his defense would be a severe liability in modern baseball. He'd be a DH in today's game, or a platoon LF on a team that can hide his glove. His real legacy — teaching hitting and spreading baseball internationally — transcends any era.",
+    "clubhouse_impact": "THE CONNECTOR. O'Doul didn't just play baseball — he connected people to baseball. He taught Ted Williams to hit. He mentored all three DiMaggio brothers. He taught Willie Mays and Willie McCovey. He introduced baseball to Japan and was greeted by a million people on the streets of Tokyo in 1949. General Douglas MacArthur personally asked O'Doul to bring baseball to postwar Japan as a tool of reconciliation. No other player in history has had a comparable impact on the global spread of the game.",
+    "dark_side": "The HOF Snub. Despite a .349 career BA (6th all-time), two batting titles, an NL hits record, revolutionizing baseball in Japan, mentoring a generation of Hall of Famers, and being elected to the Japanese HOF, O'Doul has never been inducted into Cooperstown. The reason: only 970 career games. His peak was too short (age 31-37 in the majors). In ILB terms: O'Doul carries a 'Short Peak' trait — he burns white-hot for 5-6 seasons, then his effectiveness drops sharply. You're renting, not buying."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Mayor",
+      "desc": "Friends at every stop. +1 chemistry with ALL teammates and +1 in every city. Immune to road penalties."
+    },
+    {
+      "tag": "Reinvention",
+      "desc": "Failed pitcher turned elite hitter. O'Doul can change positions mid-career. If he fails at one role, he can retrain for another with no penalty."
+    },
+    {
+      "tag": "Man in the Green Suit",
+      "desc": "Always wears green. Superstitious about bean soup and his Frankenstein bat 'Miss Murphy.' +1 when superstitions are honored, -1 if disrupted."
+    },
+    {
+      "tag": "Father of Japanese Baseball",
+      "desc": "Introduced baseball to Japan. +2 international reputation. Unlocks Japanese player pipeline for your franchise."
+    },
+    {
+      "tag": "The Hitting Teacher",
+      "desc": "Mentored Williams, DiMaggio, Mays, McCovey. +1 CON to any young hitter on the roster. O'Doul's teaching method: the rope drill."
+    },
+    {
+      "tag": "Baker Bowl Baby",
+      "desc": "Feasted in the NL's smallest park. +1 POW in small parks. -1 POW in cavernous parks (Forbes Field, Polo Grounds)."
+    },
+    {
+      "tag": "Short Peak",
+      "desc": "O'Doul didn't reach the majors as a hitter until 31. His elite window is 5-6 seasons. After that, rapid decline."
+    },
+    {
+      "tag": "Scratch Golfer",
+      "desc": "Played in the Bing Crosby Pro-Am, won twice. +1 offseason conditioning. Never misses spring training."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "Founded Lefty O'Doul's on Geary Street. One of America's oldest sports bars. His home base.",
+      "note_extra": "Source labeled 'His Restaurant / Bar' / affinity 'HIGH' — mapped to Hotel/Rest/HIGH as the proprietor's home-base social domain. Fifth Hotel/Rest/HIGH register in the set: vice-social (McGraw — bar owner as power domain), pastoral care (McKechnie), joy-distribution (Musial — clubhouse), predatory preparation (Newhouser — clubhouse), and now proprietary home-base (O'Doul — restaurant as personal identity institution). O'Doul's Geary Street restaurant has his name on the door and defines his civic identity; where McGraw used the bar domain for social control, O'Doul uses it as the anchor of a decades-long love affair with his city."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "'I like to hang around the waterfronts watching the boats go out to sea.'",
+      "note_extra": "Source labeled 'San Francisco Waterfront' / affinity 'HIGH' — mapped to Community Events/HIGH as a domain of intellectual-social wandering and civic absorption. First waterfront location in the set. The temperament quote encodes this directly: O'Doul walked waterfronts in every city he visited on the road, watching boats depart while teammates sat bored in hotel rooms. The waterfront HIGH encodes the personality dimension of a man constitutionally incapable of being bored — curious, mobile, always finding a new corner of the world to inhabit."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Loved the Met, the Bronx Zoo, Paul Revere's house. A genuine intellectual curiosity.",
+      "note_extra": "Source labeled 'Museums / Zoos / Theaters' / affinity 'HIGH' — mapped to Community Events/HIGH as the cultural-institution domain. First multi-cultural-institution location in the set. The personality.temperament quote is the source: museums, theaters, and zoos appear as a natural list of what O'Doul sought on the road. A Revolutionary War buff who visited Paul Revere's house in Boston specifically. This HIGH is the set's most explicitly intellectual Community Events entry — O'Doul was unusual among ballplayers of his era in seeking cultural enrichment in every city rather than retreating to familiar vices."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Scratch golfer. Played nearly every day. Insisted on a daily round clause in his managerial contract.",
+      "note_extra": "Source labeled 'Golf Course' / affinity 'HIGH' — mapped to Practice Field/HIGH as the athletic-discipline craft domain. First golf course as a preferred location in the set. The scratch golfer designation (played in the Bing Crosby Pro-Am, won twice) and the managerial-contract clause for a daily round establish golf as a genuine craft domain for O'Doul rather than a casual recreation. Practice Field/HIGH because the golf course was where O'Doul disciplined his body and maintained athletic conditioning outside baseball — the chemistry_trait 'Scratch Golfer' (+1 offseason conditioning, never misses spring training) is the mechanical expression."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "Greeted by a million people on Tokyo streets in 1949. Beloved figure. First American in Japanese HOF.",
+      "note_extra": "Source labeled 'Tokyo / Japan' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH as the international stage of maximum public recognition. First international location at HIGH in the set. Mungo's Havana was Hotel/Rest/LOW (international catastrophe at personal social scale); O'Doul's Tokyo is Media/Spotlight/HIGH at maximum public scale — a million-person street welcome, MacArthur's personal invitation, the Japanese Baseball HOF as the first American inductee. Tokyo is a Media/Spotlight domain rather than Community Events because the reception was a global stage event rather than a local civic act: flags, crowds, dignitaries, the formal occasion of a nation greeting a baseball ambassador."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "The greatest hitting teacher in baseball history. His students: Williams, DiMaggio, Mays, McCovey.",
+      "note_extra": "Source labeled 'Batting Cage / Practice Field' / affinity 'HIGH' — mapped to Practice Field/HIGH as the teaching dimension of the batting craft domain. The source label is the most explicit Practice Field reference in any preferred_location in the set — 'Batting Cage / Practice Field' — naming both the tool (batting cage) and the domain (practice field) directly. O'Doul's HIGH here is for the instructional role: the students listed (Williams, DiMaggio, Mays, McCovey) represent four future Hall of Famers, making this the most consequential single Practice Field/HIGH in the set by downstream impact. The chemistry_trait 'The Hitting Teacher' (+1 CON to any young hitter on the roster) is the mechanical expression."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "LOW",
+      "note": "Famously terrible fielder. 'If he catches them, you know he's a phony.'",
+      "note_extra": "Source labeled 'Defensive Position' / affinity 'LOW' — mapped to Practice Field/LOW as the fielding craft domain of documented failure. First Practice Field/LOW in the set. The Practice Field taxonomy now has three registers: HIGH (craft mastery — multiple entries), MEDIUM (post-career continuation — Newhouser scouting), and LOW (craft failure — O'Doul fielding). The LOW encodes the player's own acknowledged incompetence within the craft domain itself rather than an off-field or social failure. Career -1.1 dWAR. DEF 0. O'Doul embraced this failure with his self-deprecating joke about the forged bar tab: 'If he catches them, you know he's a phony.' The joke's humor depends on the absolute certainty that O'Doul cannot catch anything — making the Practice Field/LOW an identity-level rather than merely statistical designation."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Playing in small ballparks — Baker Bowl turned him into a monster (.398/.465/.622 in 1929).",
+      "Bean soup and Miss Murphy — when superstitions are intact, he's locked in.",
+      "Surrounded by great hitters — thrived alongside Chuck Klein (1929-30) and the Waners.",
+      "Teaching moments — O'Doul hit better when mentoring young teammates."
+    ],
+    "cold_triggers": [
+      "Cavernous outfields — his power diminished in big parks.",
+      "Defensive demands — any game where his fielding is exposed can spiral.",
+      "Aging legs — rapid decline after age 35, from .368 BA (1932) to .284 (1933).",
+      "Being traded / disrupted — the 1933 trade from Brooklyn to Giants shook him temporarily."
+    ],
+    "pressure_response": "UNKNOWN / LIMITED SAMPLE. O'Doul had exactly one World Series at-bat in his entire career — and he delivered a clutch 2-run single with the bases loaded in the 1933 WS. But one AB is not a body of evidence. In ILB: O'Doul is rated CLU 1 — he'll probably deliver in a big spot, but there's not enough data to be confident. His real value is in the regular season, where he was a .398 machine."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Failed Pitcher",
+      "type": "Drama",
+      "text": "Your young pitcher's arm gives out at age 26. His career appears over. But if you option him to the minors as a position player, there's a 30% chance he reinvents himself as an elite hitter and returns 4 years later with CON 5. If you release him, your rival gets a future batting champion.",
+      "origin": "O'Doul was a failed MLB pitcher (lame arm, age 26) who reinvented himself as a PCL outfielder. He returned to the majors at 31 and set the NL hits record. The greatest reinvention in baseball history."
+    },
+    {
+      "title": "254 Hits",
+      "type": "Game Action",
+      "text": "Your hitter breaks the league's single-season hits record. +3 reputation, MVP consideration. But the team still finishes last — the Phillies were 71-82 in 1929 despite O'Doul's .398. Individual greatness doesn't guarantee team success.",
+      "origin": "O'Doul's 254 hits in 1929 broke Rogers Hornsby's NL record and STILL stand as the NL single-season mark. The Phillies finished 5th. He lost MVP to Hornsby."
+    },
+    {
+      "title": "The Father of Japanese Baseball",
+      "type": "Action",
+      "text": "After the war, a general asks your retired player to bring baseball to a former enemy nation. If he accepts, he becomes an international icon (+5 legacy) and opens a pipeline of foreign talent for your franchise. He is greeted by a million people in the streets.",
+      "origin": "General MacArthur personally asked O'Doul to bring baseball to postwar Japan in 1949. O'Doul's Seals toured Japan; nearly a million people greeted him in Tokyo. American and Japanese flags flew side by side for the first time since WWII."
+    },
+    {
+      "title": "The Rope Drill",
+      "type": "Action",
+      "text": "Your hitting coach ties a rope around a young hitter's waist during batting practice. Every time the kid lunges, the coach yanks him into the dirt. After 2 weeks, the hitter gains +1 CON permanently (learns not to lunge).",
+      "origin": "O'Doul's famous teaching method. He used it on Dom DiMaggio and countless others. He'd show the hitter film of Joe DiMaggio's swing to prove the technique worked."
+    },
+    {
+      "title": "If He Catches Them, He's a Phony",
+      "type": "Drama",
+      "text": "Someone forges your player's name on a bar tab. Your player, unfazed, pays the bill and tells the bartender how to identify the fake: 'Have somebody hit a few balls to him. If he catches them, you know he's a phony.' +2 humor/popularity. But -1 defensive reputation.",
+      "origin": "O'Doul's legendary self-deprecating joke about his terrible defense. He knew he couldn't field and embraced it with charm."
+    },
+    {
+      "title": "Miss Murphy",
+      "type": "Action",
+      "text": "Your hitter's favorite bat cracks in half. Instead of discarding it, he hammers it together with nails and fills the holes with lead. The Frankenstein bat becomes a team talisman. +1 team morale as long as 'Miss Murphy' is in the dugout. If the bat is lost or destroyed, -2 morale.",
+      "origin": "O'Doul stitched together a broken bat with nails and lead, named it 'Miss Murphy' (after a hefty Dodgers fan), and used it as a warmup bat for years. The Giants kept it in the dugout long after he left."
+    },
+    {
+      "title": "19 Strikeouts",
+      "type": "Game Action",
+      "text": "Your hitter goes an entire season with fewer than 20 strikeouts while hitting 30+ home runs. This has only been done twice in MLB history. +2 to CON for the season. Opposing pitchers are demoralized — they can't miss his bat.",
+      "origin": "In 1929, O'Doul struck out only 19 times while hitting 32 home runs. Only Joe DiMaggio has matched fewer than 20 K with 30+ HR."
+    },
+    {
+      "title": "The Man in the Green Suit",
+      "type": "Drama",
+      "text": "Your player always wears a green suit. He becomes a city celebrity — restaurants, bridges, and parks are named after him. +3 popularity in his home city. But if he ever leaves, the city grieves and his replacement faces -2 fan hostility.",
+      "origin": "O'Doul was famous for his green suits and became the defining celebrity of San Francisco for decades. A bridge, a restaurant, and a ballpark gate all bear his name."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Handsome Irish-American with a warm, open face. 6'0\" 180 lbs — lean and athletic, not bulky. Age 32 in 1929, in his late-blooming prime. A wide, genuine smile — this is the most likable man in baseball. Bright, curious eyes. The face of a man who's friends with everyone in the room.",
+    "attire": "Philadelphia Phillies 1929 home whites. Classic baggy wool flannel. Bat on shoulder, left-handed batting stance — that smooth, effortless swing that made Ted Williams say 'Geez, does that guy look good!' The green suit could be suggested subtly — maybe a green pocket square or a hint of green in the portrait's color palette.",
+    "mood": "Joyful confidence. O'Doul radiates warmth and pleasure. He's a man who loves every aspect of what he does — hitting, people, cities, life. Not fierce, not intense — happy. The look of a guy who's about to buy you a drink and tell you a story. The most charming man in any room.",
+    "style": "Warm golden tones with a hint of San Francisco fog. Baker Bowl's tiny right field in the background, or perhaps the San Francisco waterfront. The card should feel cosmopolitan and warm — O'Doul was 'a citizen of the world at large.' Slightly more colorful than the sepia-heavy cards for other players.",
+    "reference": "The Natural is partly based on O'Doul (Roy Hobbs). The card should evoke that mythic quality — the failed pitcher who reinvented himself as a hitting god at 31. But unlike Hobbs, O'Doul was real, and his smile was genuine. Think less tragedy, more joy."
+  }
+}

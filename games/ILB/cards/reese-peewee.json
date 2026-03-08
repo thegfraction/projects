@@ -1,0 +1,226 @@
+{
+  "card_type": "player",
+  "name": "Pee Wee Reese",
+  "nickname": "The Little Colonel / The Captain",
+  "year": 1949,
+  "team": "Brooklyn Dodgers",
+  "era": "1940s",
+  "ilb_team": "Allies AL1940",
+  "position": "SS",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'10\"",
+  "weight": "160 lbs",
+  "born": "July 23, 1918 — Ekron, KY",
+  "died": "August 14, 1999 — Louisville, KY (age 81)",
+  "hof": "Inducted 1984 (Veterans Committee). 10× All-Star. 7 NL pennants. 1955 WS Champion. #1 retired by Dodgers.",
+
+  "real_stats": {
+    "season": 1949,
+    "games": 155,
+    "at_bats": 617,
+    "hits": 172,
+    "doubles": 27,
+    "triples": 3,
+    "home_runs": 16,
+    "rbi": 73,
+    "runs": 132,
+    "stolen_bases": 26,
+    "walks": 116,
+    "batting_avg": ".279",
+    "obp": ".391",
+    "slg": ".424",
+    "ops": ".815",
+    "ops_plus": 116,
+    "war": 6.7,
+    "career_avg": ".269",
+    "career_hits": 2170,
+    "career_hr": 126,
+    "career_rbi": 885,
+    "career_runs": 1338,
+    "career_sb": 232,
+    "career_bb": 1210,
+    "career_war": 66.4
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 3,
+    "pow": 1,
+    "spd": 2,
+    "def": 2,
+    "clu": 1
+  },
+
+  "stat_justification": {
+    "con": "Reese batted .279 in 1949 with a .391 OBP (116 walks). Career .269 BA is modest for a HOFer, but he walked 1,210 times — Dodgers all-time leader. His value was on-base ability, not batting average. He hit .300 only once (.309 in 1954 at age 36). OPS+ of 116 falls short of the 130 bonus threshold. Rating of 3 — dependable contact with plate discipline.",
+    "pow": "16 HR in 1949 was his career high. 126 career HR over 16 seasons. SLG .424 — no bonus. Reese was not a power hitter. He was a table-setter who occasionally surprised with pop. His 1,210 walks tell you his real offensive weapon: patience, not power. Rating of 1.",
+    "spd": "26 SB in 1949. Led NL with 30 SB in 1952. Career 232 SB. Reese was a legitimate baserunner — 35 steals in 36 attempts in his minor league peak. He went first-to-third routinely and was a smart, instinctive runner. Rating of 2.",
+    "def": "Reese led NL shortstops in putouts 4 times, double plays twice, fielding percentage once, assists once. Branch Rickey called him 'the heart and soul of the Dodgers.' Manager Leo Durocher gave up his own SS position after seeing Reese field one spring training: 'He'll do. I'll be the bench manager.' Robinson said Reese 'took charge out there in a way to help all of us.' Pre-Gold Glove equivalent: 4-5 GG. Rating of 2.",
+    "clu": "World Series: .272 BA in 44 games across 7 Fall Classics. Hit .316 in 1949 WS, .345 with 10 hits in 1952 WS. Won the 1955 WS — Brooklyn's only championship. But lost 6 World Series, mostly to the Yankees. Set a record for most losing WS appearances (6). Reese was consistently good but never had the singular October hero moment. Rating of 1 — solid, not spectacular."
+  },
+
+  "personality": {
+    "leadership_style": "The Captain — the quintessential leader by character. Branch Rickey named Reese team captain in 1949, telling him: 'You're not only the logical choice, you are the only possible choice.' Reese brought out the lineup card. He positioned outfielders. He cajoled pitchers. Robinson: 'When Pee Wee told us where to play or gave some of us the devil, somehow it was easy to take. He just has a way about him of saying the right thing.' Reese led by moral authority, not volume.",
+    "temperament": "Warm, steady, quietly courageous. The man who refused to sign the petition against Robinson — and then walked across the diamond to put his arm around him while Cincinnati fans hurled slurs. Reese grew up in segregated Louisville, Kentucky. He had every reason to follow Walker's lead. Instead, he chose decency. When asked if Robinson threatened his position, he said: 'If he's man enough to take my job, he deserves it.' This wasn't performative — it was instinctive.",
+    "work_ethic": "Self-made from nothing. Reese didn't play high school baseball until his senior year — he weighed 120 pounds. He worked splicing cables for the phone company and played church league ball. A Louisville Colonels owner spotted him and signed him for $200. He rebuilt himself from a 120-pound nobody into a Hall of Fame shortstop through sheer persistence and intelligence. His 1941 season (47 errors, .229 BA) would have broken most players — Reese came back to make 10 All-Star teams.",
+    "lifestyle": "Louisville, Kentucky — born, raised, buried. Married Dorothy 'Dottie' Walton during 1942 spring training (same day teammate Pete Reiser married). Two children: Barbara and Mark. After baseball, became a broadcaster (NBC Game of the Week with Dizzy Dean) then a sales representative for Hillerich & Bradsby — makers of Louisville Slugger bats. The Little Colonel returned to Louisville and remained there for life.",
+    "era_adaptability": "HIGH. Reese's game translates beautifully to any era. His plate discipline (1,210 career walks, .366 career OBP) is the currency of modern baseball. His speed and defense at shortstop would be valued in any decade. His lack of power would be a concern, but his leadership, OBP, and glove would make him a starting shortstop on any team. Most importantly: his moral courage is timeless.",
+    "clubhouse_impact": "THE HEART AND SOUL. This is not hyperbole — it's the exact phrase Rickey used. Reese was the glue that held together the most diverse, contentious, and talented roster in baseball history. He bridged Southern whites and Jackie Robinson. He bridged veterans and rookies. He bridged the pitching staff and the lineup. When Reese put his arm around Robinson, he didn't just change one team — he helped change America. In ILB terms: Reese is the ultimate +chemistry card for any roster.",
+    "dark_side": "Six World Series losses. Reese and Elston Howard share the record for most losing WS appearances (6 each). The 'Wait Till Next Year' Dodgers were Reese's Dodgers — and they lost to the Yankees in 1941, 1947, 1949, 1952, 1953, and 1956. The 1955 victory was real, but it was one ring against six heartbreaks. Reese also battled guilt about his own Southern upbringing — he knew the racism he'd grown up with was wrong, but acknowledging that meant confronting everything he'd been taught. In ILB terms: Reese carries a 'Wait Till Next Year' trait — +1 resilience after WS loss, but cumulative WS losses create a 'Hex' effect."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Captain",
+      "desc": "Team captain named by Rickey. Brings out the lineup card. Positions outfielders. +2 team chemistry for all teammates."
+    },
+    {
+      "tag": "The Arm Around Robinson",
+      "desc": "+3 chemistry with Black players. Cancels 'Wrong Side of History' penalties from other teammates. Walked across the diamond in Cincinnati while fans hurled slurs — one gesture changed everything."
+    },
+    {
+      "tag": "The Little Colonel",
+      "desc": "From Louisville's Colonels to Brooklyn's captain. Southern boy who chose decency over prejudice. +1 respect from all teammates regardless of background."
+    },
+    {
+      "tag": "If He Can Take My Job",
+      "desc": "'If he's man enough to take my job, he deserves it.' Reese accepts competition without ego. No jealousy penalties when roster changes occur."
+    },
+    {
+      "tag": "Wait Till Next Year",
+      "desc": "6 WS losses. +1 resilience after each WS defeat. But after 3+ WS losses, a 'Hex' aura settles on the team: -1 to WS clutch performance."
+    },
+    {
+      "tag": "Phone Company Grit",
+      "desc": "Cable splicer to HOFer. Reese started from absolute nothing — 120 lbs, no HS baseball, $200 bonus. +1 to overcoming adversity and rebuilding from slumps."
+    },
+    {
+      "tag": "Marble Champion",
+      "desc": "'Pee Wee' was his marble — the champion marble shooter from Ekron, Kentucky. +1 hand-eye coordination. Steady hands under pressure."
+    },
+    {
+      "tag": "Boys of Summer",
+      "desc": "Captain of the legendary 1950s Dodgers. When paired with Robinson, Campanella, Hodges, Snider, Furillo: +3 team synergy. The sum exceeds the parts."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Led NL SS in putouts 4×. Durocher gave up his position for Reese. Elite gloveman.",
+      "note_extra": "Source labeled 'Shortstop / Infield' / affinity 'HIGH' — mapped to Practice Field/HIGH as the defensive-craft domain. Sixth Practice Field/HIGH in the set. Reese's is the first labeled as an infield-fielding position rather than pitching mound or batting cage: 'Shortstop / Infield' specifies the defensive-preparation sub-domain explicitly. The Durocher story — 'He'll do. I'll be the bench manager' — is simultaneously encoded in this note and in action_card_seeds.'He'll Do — I'll Be the Bench Manager'. The stat_justification.def field (NL SS leader in putouts 4×, DP 2×, FLD% 1×, assists 1×) is the statistical foundation. Practice Field/HIGH now covers: mound craft (Mathewson, McGinnity, Phillippe, Plank), batting intensity (Puckett), and infield fielding (Reese)."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "The Captain. The heart and soul. The man who says the right thing.",
+      "note_extra": "Source labeled 'Clubhouse / Locker Room' / affinity 'HIGH' — mapped to Hotel/Rest/HIGH as the team-institutional-social domain. Ninth Hotel/Rest/HIGH register: vice-social (McGraw), pastoral care (McKechnie), joy-distribution (Musial), predatory preparation (Newhouser), proprietary home-base (O'Doul), communal-emotional-center (Pesky), kinetic-social-preparation (Reiser), pregame-domain-ownership (Puckett), and now moral-authority-center (Reese). Reese's clubhouse is defined by character rather than energy or personality: 'The man who says the right thing.' The chemistry_trait 'The Captain' (+2 team chemistry) and the personality.clubhouse_impact ('the heart and soul') are the foundations. This is the most morally weighted Hotel/Rest/HIGH in the set."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "35,000 fans sang Happy Birthday to him in 1955. $20,000 in gifts. Brooklyn's son.",
+      "note_extra": "Source labeled 'Ebbets Field' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH as the franchise-stage domain. Seventh franchise-stage Media/Spotlight/HIGH (following Phillippe/Exposition Park, Ott/Polo Grounds, Musial/Sportsman's, Pesky/Fenway, O'Doul/San Francisco, Plank/Shibe Park). Reese's is the most emotionally resonant: the specific event of 35,000 fans lighting candles and singing Happy Birthday by candlelight makes this HIGH the most communally-performed franchise love in the set. No prior franchise-stage HIGH is anchored to a single crowd event. The action card 'The Birthday at Ebbets Field' expands this moment into a full playable event: 'No other player has ever been loved like this by a single city.'"
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Born in Ekron, raised in Louisville, buried there. Louisville Slugger rep after baseball.",
+      "note_extra": "Source labeled 'Louisville / Home' / affinity 'HIGH' — mapped to Community Events/HIGH as the hometown-origin domain. Eighth hometown Community Events/HIGH in the set. Reese's is the most burial-complete: 'born, raised, buried' — the full lifecycle arc (matching Plank's Gettysburg arc). The post-career Louisville Slugger representative role — Hillerich & Bradsby — makes this HIGH the only hometown Community Events/HIGH where the player's post-career profession is also the hometown's most famous product. The nickname 'The Little Colonel' originated from the Louisville Colonels minor league team, making the hometown HIGH also the nickname's origin domain."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "MEDIUM",
+      "note": "NBC Game of the Week with Dizzy Dean. Natural communicator.",
+      "note_extra": "Source labeled 'Broadcasting Booth' / affinity 'MEDIUM' — second Broadcasting Booth Media/Spotlight/MEDIUM in the set (Ott was first with Detroit Tigers radio). Reese's is nationally scaled: NBC Game of the Week is a national broadcast partnership with Dizzy Dean, a much larger platform than Ott's local Detroit radio. Two broadcasting-booth MEDIUMs now establish the post-career-broadcaster register at MEDIUM intensity: both Ott and Reese were skilled communicators without becoming primary media identities. The 'natural communicator' note matches personality.leadership_style ('Reese led by moral authority, not volume') — he was effective in the booth for the same reason he was effective in the clubhouse."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Warm, personable, beloved. Used humor to ease tension — even with Robinson.",
+      "note_extra": "Source labeled 'Bar / Social Events' / affinity 'MEDIUM' — second Bar/Nightlife Hotel/Rest/MEDIUM in the set (Puckett was first). Reese's register is diplomacy-through-sociability rather than Puckett's pure extroversion. 'Used humor to ease tension — even with Robinson' encodes the Bar/Nightlife MEDIUM as a social-glue domain: Reese used informal social settings to ease the integration tensions of the 1947-55 Dodgers. The personality.temperament note ('warm, steady, quietly courageous') and the chemistry_trait 'The Little Colonel' (+1 respect from all teammates regardless of background) are the foundations. This is the most historically purposeful Bar/Nightlife MEDIUM in the set."
+    },
+    {
+      "location": "Gambling Hall",
+      "affinity": "NONE",
+      "note": "No association. Clean-living, steady.",
+      "note_extra": "Source labeled 'Gambling Hall' / affinity 'NONE' — sixth NONE in the set. Sixth Gambling Hall/NONE specifically. The working-class / church-league-background pattern continues: Pesky (New England working-class), Reiser (Chicago projects), Puckett (Chicago projects), Reese (Louisville phone-company cable splicer). All four share Gambling Hall/NONE as a biographical void rather than principled exclusion. 'Clean-living, steady' is the most character-descriptive NONE note in the set — where prior void entries said 'No association' or 'No association whatsoever,' Reese's adds the moral characterization that explains why."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Teammates under attack — Reese's leadership surges when someone on his team is being targeted.",
+      "Pennant race September — Reese played in 7 pennant-winning teams, thrived in stretch runs.",
+      "Table-setting role — when Reese walks, steals, and scores, the whole team catches fire.",
+      "Post-adversity comeback — Reese rebounded from 47-error 1941 to become a 10× All-Star."
+    ],
+    "cold_triggers": [
+      "World Series vs. Yankees — the Hex of 'Wait Till Next Year' loomed over every October.",
+      "Power drought — Reese could go cold at the plate when trying to drive the ball.",
+      "Late career decline — after 35, Reese's range and speed diminished notably."
+    ],
+    "pressure_response": "STEADY-HEROIC IN CHARACTER, SOLID IN STATS. Reese's October numbers (.272 in 44 WS games) are respectable but not legendary. His heroism was off the stat sheet — the arm around Robinson, the refused petition, the captaincy that held a dynasty together through 7 pennants. In 1955, when Brooklyn finally won it all, Reese fielded the final ground ball and threw to Hodges for the last out. The Captain finished it. In ILB terms: Reese gets +1 to ALL teammates' clutch ratings in October. His own CLU is modest, but he makes everyone around him better."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Arm Around the Shoulder",
+      "type": "Drama",
+      "text": "The crowd is hurling slurs at your Black teammate. Your captain — a Southerner, from segregated Kentucky — walks across the diamond, puts his arm around his teammate's shoulder, and stands there. The crowd goes quiet. One gesture changes everything.",
+      "origin": "Cincinnati, 1947. Pee Wee Reese walked over to Jackie Robinson during warmups as fans hurled racial abuse. He put his arm around Robinson and chatted. Rachel Robinson: 'It was a very supportive gesture, and very instinctive.'"
+    },
+    {
+      "title": "The Refused Petition",
+      "type": "Drama",
+      "text": "A petition circulates through the clubhouse: 'If you bring up the Black player, we won't play.' The other players assume the Southerner will sign first. Instead, he refuses. The petition dies. The Southerner becomes the Black player's closest friend.",
+      "origin": "1947. Dodgers players assumed Reese, from Louisville, would sign Walker's petition against Robinson. Reese refused. 'If he can take my job, he's entitled to it.' The petition collapsed without Reese's signature."
+    },
+    {
+      "title": "Wait Till Next Year",
+      "type": "Drama",
+      "text": "Your team loses the World Series. Again. Your captain has now lost six Fall Classics with the same franchise. Every year, the fans say the same thing: 'Wait till next year.' The captain never stops believing. And one year — finally — next year comes.",
+      "origin": "Reese lost the WS in 1941, '47, '49, '52, '53, and '56. In 1955, Brooklyn finally beat the Yankees. Reese fielded the final grounder and threw to Hodges. 'Next year' had arrived."
+    },
+    {
+      "title": "He'll Do — I'll Be the Bench Manager",
+      "type": "Drama",
+      "text": "Your player-manager is also the starting shortstop. He hits grounders to a 140-pound rookie all spring. After one session, he announces: 'He'll do. I'll be the bench manager.' The rookie takes his job. The manager never plays shortstop again.",
+      "origin": "Spring 1940. Leo Durocher, the Dodgers' player-manager and incumbent SS, hit grounders to Reese until exhausted. Durocher benched himself permanently. Reese was the Dodgers' shortstop for 16 years."
+    },
+    {
+      "title": "The $200 Bonus",
+      "type": "Drama",
+      "text": "A 120-pound phone company cable splicer plays church league baseball. His team plays a championship game at a minor league park. The owner spots him and signs him for $200. Twenty years later, the cable splicer is in the Hall of Fame.",
+      "origin": "Reese played church league ball in Louisville. His team's championship game was at the Colonels' park. Owner Cap Neal signed him for $200. Reese became a 10× All-Star and HOFer."
+    },
+    {
+      "title": "The Birthday at Ebbets Field",
+      "type": "Action",
+      "text": "It's your captain's birthday. The stadium lights go dark. Thirty-five thousand fans light candles and sing 'Happy Birthday.' The franchise showers him with $20,000 in gifts. No other player has ever been loved like this by a single city.",
+      "origin": "Pee Wee Reese's birthday, 1955, at Ebbets Field. 35,000 fans sang Happy Birthday by candlelight. $20,000 in gifts. Brooklyn's love for Reese was absolute."
+    },
+    {
+      "title": "The Final Ground Ball",
+      "type": "Game Action",
+      "text": "Your team has waited decades for this moment. The opposing batter hits a ground ball to your captain at shortstop. He fields it cleanly, throws to first. The out is recorded. The championship is won. The captain finished it.",
+      "origin": "1955 World Series, Game 7. Reese fielded the final ground ball and threw to Gil Hodges. Brooklyn won its only World Series. The Captain made the last play."
+    },
+    {
+      "title": "The Double Steal",
+      "type": "Game Action",
+      "text": "Your captain and his Black teammate — the same man he put his arm around five years ago — execute a double steal in the World Series. Both score on a passed ball. The partnership that changed America is still changing games.",
+      "origin": "1952 World Series, Game 3. Reese and Robinson pulled off a double steal. Both scored on a passed ball. The Reese-Robinson partnership was baseball's most important."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'10\" 160 lbs, compact and wiry. Baby-faced even in his thirties — the face that made Leo Durocher think he was sixteen. Warm eyes, open expression, the face of a man you'd trust instinctively. Not physically imposing — his authority came from character, not size. The Little Colonel.",
+    "attire": "Brooklyn Dodgers home whites, 1949 style. Number 1. Classic postwar flannel, 'Dodgers' script across the chest. Right-handed batter — compact, disciplined swing, more about getting on base than driving the ball. Or: fielding position at shortstop, glove down, ready.",
+    "mood": "Quiet moral courage. The moment at Cincinnati — Reese walking across the diamond toward Robinson, arm extending. Or: the moment at Ebbets Field — 35,000 candles lit in the dark, singing Happy Birthday to their captain. The card should radiate warmth, decency, and steadiness.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Ebbets Field — the intimate cathedral of Brooklyn baseball. The card should feel like the heartbeat of a team and a borough. Not flashy, not dominant — essential. The person without whom everything falls apart.",
+    "reference": "Think the moral center of baseball. Reese wasn't the best hitter, the best fielder, or the fastest runner on his team. He was the most important person in the clubhouse. The card should convey that intangible quality: the man who makes everyone around him better, braver, and more unified."
+  }
+}

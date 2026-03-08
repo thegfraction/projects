@@ -1,0 +1,209 @@
+{
+  "card_type": "player",
+  "name": "Sherry Magee",
+  "nickname": "The Psychopathic Slugger",
+  "year": 1910,
+  "team": "Philadelphia Phillies",
+  "era": "1910s",
+  "ilb_team": "Muggers 1910",
+  "position": "LF",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'11\"",
+  "weight": "179 lbs",
+  "born": "August 6, 1884 — Clarendon, PA",
+  "died": "March 13, 1929 — Philadelphia, PA (age 44)",
+  "hof": false,
+  "player_image": "https://raw.githubusercontent.com/thegfraction/projects/b9a611655116268b1910dda04fcb97fd0d03b2d1/games/ILB/images/magee-sherry.png",
+
+  "real_stats": {
+    "season": 1910,
+    "batting_avg": ".331",
+    "obp": ".445",
+    "slg": ".507",
+    "rbi": 123,
+    "runs": 110,
+    "doubles": 39,
+    "triples": 17,
+    "stolen_bases": 49,
+    "career_avg": ".291",
+    "career_hits": 2169,
+    "career_hr": 83,
+    "career_rbi": 1176,
+    "career_sb": 441,
+    "rbi_leader": "4×",
+    "steals_of_home": 23,
+    "seasons": 16,
+    "ws_1919": "2 PH ABs (1 hit) vs. Black Sox — fixed Series",
+    "note": "1910: Led NL in 7 major categories. Highest bWAR among NL position players. First Phillies batting champion of the 20th century."
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 3,
+    "pow": 2,
+    "spd": 2,
+    "def": 2,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": ".331 BA in 1910 (led NL, broke Wagner's batting title streak). .328 in 1907 (2nd to Wagner). .314 in 1914. .306 in 1912-13. Career .291. Five seasons over .300. The first Phillies batting champion of the 20th century. Rating of 3.",
+    "pow": "15 HR peak (1911). 83 career HR. .507 SLG (1910), .509 SLG (1914). 39 doubles and 17 triples in 1910. 127 career triples. 'A born dynamiter with the bat.' 'A genuine murderer of the pill.' Substantial gap power and triples power, but not pure HR power. Rating of 2.",
+    "spd": "441 career SB. 55 SB in 1906 (Phillies franchise record for 78 years until Juan Samuel 1984). 49 SB in 1910. 23 steals of home — stole home TWICE in one game (July 20, 1910 vs. Cubs). Aggressive, intelligent, fast. Rating of 2.",
+    "def": "'One of the finest defensive outfielders of his day.' Led NL outfielders in fielding %, putouts, assists, range factor, double plays across multiple seasons. Also played SS, 2B, CF, 1B capably when injuries hit the Phillies. 'In spite of constant shifting of position on a hopelessly demoralized team, he proved himself the most valuable batsman in the league.' Rating of 2.",
+    "clu": "NEVER played in a World Series with the Phillies. 11 years in Philadelphia — zero pennants. Traded to Boston after 1914. Phillies won the 1915 pennant WITHOUT him. 1919 WS with Reds vs. Black Sox: 2 pinch-hit appearances (1 hit) in a fixed Series. No meaningful October. Rating of 0."
+  },
+
+  "personality": {
+    "leadership_style": "THE ALPHA. Magee led by intensity, intimidation, and relentless production. He was the Phillies' best player for a decade and he KNEW it. Team captain. 'With characteristic immodesty, he even declared himself among the best shortstops in the business' after playing 39 games at short. He demanded excellence from teammates and berated those who fell short. 'On the ball field Magee is so fussy most of the time that people who do not know him naturally form the opinion that he is a born grouch.'",
+    "temperament": "VOLCANIC. The Finneran Incident defines him: called out on strikes, Magee turned to leave, then wheeled back and knocked the umpire unconscious with a single left hook. 'With blood spurting from his face, Finneran fell to the ground on his back.' SABR titled their article about him 'Psychopathic Slugger.' He fought with umpires constantly. He was suspended repeatedly. He chased teammates off the team — fans blamed him for driving center fielder Johnny Bates out of Philadelphia 'by continual crabbing.' But the rage was also the engine. The same intensity that knocked out Finneran drove 123 RBI and a batting title.",
+    "work_ethic": "FIVE TOOLS, FULL EFFORT. Hit for average, hit for power, ran the bases, played defense, threw. 'A five-tool player before the term existed.' Played through injuries: broken wrist and forearm (1912 preseason collision), outfield collision with Paskert, came back both times hitting .306. Played SS, 2B, CF, 1B, LF in 1914 — wherever the team needed him. The effort was never in question. The temperament was always in question.",
+    "lifestyle": "PRINCIPLED BUT DIFFICULT. At 34, Magee left the majors to play in the minors rather than play for owners he despised. Principle over money. Became an umpire in 1928 — the irony of the man who knocked out an umpire becoming one himself. Died of pneumonia at 44, one year into his umpiring career. Never made the Hall of Fame despite deserving numbers. 'One of the most underrated players in history.'",
+    "clubhouse_impact": "DIVISIVE. +3 offensive production (the best bat on the team for a decade). +2 defensive versatility (played 6 positions). -2 teammate relations (drove Bates off team, 'continual crabbing'). -1 suspension risk (Finneran incident cost the team 5 weeks of their best player). The clubhouse divided into those who respected the intensity and those who couldn't stand it. There was no middle ground with Magee.",
+    "dark_side": "The manager he never became. After 1914 — arguably his best all-around season — the Phillies promised Magee the manager job. Then gave it to Pat Moran. Magee was DEVASTATED. Demanded a trade. Was sent to Boston. The next year, the Phillies — HIS Phillies, the team he'd carried for 11 years — won their first pennant. Without him. With Alexander. The cruelest irony on the Muggers. And then: the 1919 World Series with the Reds — 2 pinch-hit ABs against the Black Sox in a fixed Series. His last games were a lie. Became an umpire. Died at 44. The rage that drove the talent was also the rage that cost him everything he wanted."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Five-Tool Slugger",
+      "desc": "Hit for average (.331 BA title), hit for power (.507 SLG), ran (441 SB), fielded (led NL multiple times), threw (strong arm). +3 versatility. The most complete offensive player on the Muggers below OVR 10."
+    },
+    {
+      "tag": "The Finneran Punch",
+      "desc": "July 10, 1911: knocked umpire Bill Finneran unconscious with a single left hook after a called third strike. Blood on the ground. 5-week suspension. -2 discipline. +1 infamy. The punch that defined his legacy more than the batting title."
+    },
+    {
+      "tag": "Psychopathic Slugger",
+      "desc": "SABR's title for him. The intensity that produced 123 RBI and a batting title also produced umpire assaults, teammate conflicts, and constant suspension risk. +2 intimidation. -2 volatility. The rage IS the engine."
+    },
+    {
+      "tag": "The Manager He Never Became",
+      "desc": "Promised the Phillies manager job after 1914. Passed over for Pat Moran. Phillies won 1915 pennant without him. -2 justice. -1 morale. The cruelest irony on the Muggers."
+    },
+    {
+      "tag": "23 Steals of Home",
+      "desc": "Stole home 23 times. Stole home TWICE in one game (July 20, 1910 vs. Cubs). +2 aggression. +1 SPD. The same recklessness that knocked out Finneran, applied to the basepaths."
+    },
+    {
+      "tag": "Alexander's Predecessor",
+      "desc": "Magee was the Phillies' only star before Alexander arrived. They overlapped 1911-14 at Baker Bowl. Magee hit; Alexander pitched. When Magee left, Alexander carried the team alone to the 1915 pennant."
+    },
+    {
+      "tag": "Bobby Veach's Twin",
+      "desc": "B-Ref most similar player: Bobby Veach (Muggers OVR 9). Both left fielders, both underrated, both five-tool, both overlooked by HOF. If both on roster: +1 recognition of the forgotten."
+    },
+    {
+      "tag": "The Umpire's Revenge",
+      "desc": "Became an NL umpire in 1928 after his playing career. The man who knocked out an umpire BECAME one. Died of pneumonia after one year on the job. Age 44."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "1904-14. 11 years. .299 BA. 387 SB (franchise record). His ballpark.",
+      "note_extra": "Source labeled 'Baker Bowl / Philadelphia' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH as the home professional identity stage. 11 seasons, franchise stolen base record, the stage where Magee's entire identity as the Phillies' best player was constituted. Baker Bowl named explicitly — second Baker Bowl entry in the set (first was Klein's card). Consistent with the established home-ballpark-as-identity-stage → Media/Spotlight/HIGH mapping."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Primary position. Led NL outfielders in multiple defensive categories.",
+      "note_extra": "Source labeled 'Left Field' / affinity 'HIGH' — mapped to Practice Field/HIGH as the primary defensive position-as-craft domain. Consistent with the established position → Practice Field/HIGH pattern. Left field as the domain where Magee led NL outfielders in fielding %, putouts, assists, range factor, and double plays across multiple seasons."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "SUPREME",
+      "note": ".331 batting title. 123 RBI. 7 categories led. 'A born dynamiter.'",
+      "note_extra": "Source labeled 'The Batter's Box' / affinity 'SUPREME' — mapped to Practice Field/SUPREME. First 'SUPREME' affinity in the set. The batter's box is Magee's absolute peak performance domain: .331 BA title, .507 SLG, .445 OBP, 123 RBI, 7 NL categories led in 1910. SUPREME is distinct from HIGH: where HIGH encodes strong craft identity, SUPREME encodes the maximum concentration of a player's entire competitive existence. Magee's identity was most fully expressed in the batter's box — it was where the rage became art. Two Practice Field entries on this card (Left Field at HIGH and The Batter's Box at SUPREME) — first card with two Practice Field entries at different affinities. The HIGH/SUPREME split correctly captures the asymmetry: elite defensive craft (HIGH) versus absolute offensive peak (SUPREME)."
+    },
+    {
+      "location": "World Series",
+      "affinity": "ABSENT",
+      "note": "Never reached WS with Phillies. 2 PH ABs in the fixed 1919 WS.",
+      "note_extra": "Source labeled 'The World Series' / affinity 'ABSENT' — preserved as abstract opportunity domain consistent with the established opportunity-domain location pattern. Sixth opportunity-domain entry in the set (Kiner: Postseason/NONE; Kuhel: World Series/LOW; Lange: October-Postseason/LOW; Leever: October-World Series/LOW; Lindstrom: World Series/MIXED). ABSENT is a new affinity value distinct from NONE, LOW, and MIXED. ABSENT encodes categorical non-participation more actively than NONE: Kiner's NONE was structural (the team never contended), Magee's ABSENT is proximately cruel (the team won the pennant the year after he left, and his only WS ABs were in a fixed series). ABSENT is not mere exclusion but active absence — the domain that should have been his and never was."
+    },
+    {
+      "location": "Library/Quiet Spot",
+      "affinity": "DENIED",
+      "note": "Promised the job. Passed over. Traded. Phillies won without him.",
+      "note_extra": "Source labeled 'The Manager's Office' / affinity 'DENIED' — mapped to Library/Quiet Spot/DENIED. Second manager's office entry in the set (Lindstrom had Library/Quiet Spot/LOW for the same denied-manager aspiration). DENIED is stronger and more specific than LOW: Lindstrom's LOW encoded a residual pull toward a domain that was denied; Magee's DENIED encodes the active, named withdrawal of a specific promise — the job was committed and then taken away. DENIED is a new affinity type distinct from all prior entries. Library/Quiet Spot as the private institutional authority domain is consistent: the manager's office is the private executive/analytical workspace where roster and game decisions are made."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Rage channeled — when Magee's fury is directed at the ball rather than umpires, he's the best hitter in the NL; 7 categories led",
+      "RBI machine — 4× NL RBI leader; when runners are on base, Magee's intensity focuses into production",
+      "Five-tool engagement — when all tools are working — hitting, running, fielding, throwing, power — Magee is the best player on the field",
+      "Steals of home — 23 career, twice in one game; when Magee reads the pitcher, the aggression becomes art"
+    ],
+    "cold_triggers": [
+      "Suspension — the Finneran incident cost 5 weeks; 20% chance per season of umpire confrontation leading to suspension",
+      "Teammate conflict — 'continual crabbing' drives teammates away; -1 clubhouse morale",
+      "The manager snub — after 1914, the betrayal poisons his attitude; -2 commitment to the Phillies",
+      "Post-trade decline — after leaving Philadelphia, Magee's production drops; the intensity needs the home crowd"
+    ],
+    "pressure_response": "ABSENT. Magee never played in a meaningful World Series. His 11 years with the Phillies produced zero pennants. The 1919 WS (2 pinch-hit ABs vs. Black Sox in a fixed Series) is not a real October test. The team won the pennant the year AFTER he left. CLU 0 by the cruelest absence."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Seven Categories Led",
+      "type": "Game Action",
+      "text": "Your left fielder finishes the season leading the National League in batting average, RBI, runs, total bases, OBP, slugging, and OPS. Seven categories. 154 games played. .331/.445/.507. He is the best hitter in the league and everyone knows it. +4 dominance. The most complete offensive season by any Mugger at OVR 8.",
+      "origin": "1910: Magee led the NL in 7 major categories. Highest bWAR among NL position players."
+    },
+    {
+      "title": "The Finneran Punch",
+      "type": "Drama",
+      "text": "Called third strike. Your left fielder turns away in disgust. Throws his bat in the air. The umpire ejects him. Your left fielder wheels back. A quick left just above the jaw. The umpire falls unconscious, blood spurting from his face. Field umpire and manager rush in. Suspended five weeks. The Phillies go 13-16 without him and tumble to fourth place. -2 discipline. -1 team. +1 legend. The punch heard round the league.",
+      "origin": "July 10, 1911: Magee knocked umpire Bill Finneran unconscious with a single punch."
+    },
+    {
+      "title": "Two Steals of Home in One Game",
+      "type": "Game Action",
+      "text": "Your left fielder steals home. Then he steals home AGAIN. In the same game. Against the Cubs. July 20, 1910. An NL record. The same aggression that drives 49 stolen bases and 123 RBI and a batting title. +2 SPD. +2 audacity. The baserunner who treats home plate as a suggestion.",
+      "origin": "July 20, 1910: Magee stole home twice in one game vs. Cubs (NL record)."
+    },
+    {
+      "title": "The Manager's Betrayal",
+      "type": "Drama",
+      "text": "Your left fielder just finished the best all-around season of his career: .314 BA, led NL in hits, doubles, RBI, slugging. Played SIX positions. Captain of the team. He was promised the manager's job. The Phillies give it to someone else. The next year — without your left fielder — the Phillies win their first pennant. -3 justice. -2 morale. The cruelest irony: everything he built, someone else finishes.",
+      "origin": "After 1914, Phillies gave manager job to Pat Moran. Traded Magee. Won 1915 pennant."
+    },
+    {
+      "title": "Five Tools, Dead-Ball Era",
+      "type": "Game Action",
+      "text": "Your left fielder hits .331. Slugs .507. Steals 49 bases. Leads outfielders in fielding. Throws out runners from left field. In an era when 'small ball' is gospel, your left fielder does EVERYTHING. 'To my mind, Sherwood Magee is one of the best all-around players the game has ever seen.' +3 versatility. +2 historical significance. The five-tool player before the term existed.",
+      "origin": "Contemporary: 'Probably the best all-around ball player in the NL.' SABR: 'Five-tool player.'"
+    },
+    {
+      "title": "Playing Six Positions",
+      "type": "Game Action",
+      "text": "Your team is demoralized. Injuries everywhere. Your left fielder plays short, second base, center field, first base, AND left field in one season. 'In spite of the constant shifting of position on a hopelessly demoralized team, he proved himself the most valuable batsman in the league.' +2 versatility. +1 leadership. The one player who couldn't be broken.",
+      "origin": "1914: Magee played LF, SS, 2B, CF, 1B due to Phillies injuries. Led NL in 4 categories."
+    },
+    {
+      "title": "The Fixed Series",
+      "type": "Drama",
+      "text": "Your left fielder's last games in the major leagues are 2 pinch-hit at-bats in the 1919 World Series. He manages a single. The Series is fixed — the Black Sox are throwing games. His entire October career is 2 at-bats in a lie. +0 CLU. -1 dignity. The wrong goodbye.",
+      "origin": "1919 WS: Magee had 2 PH ABs for Reds vs. Black Sox in the fixed Series."
+    },
+    {
+      "title": "The Umpire Becomes the Umpire",
+      "type": "Drama",
+      "text": "Your retired outfielder — the man who knocked out umpire Bill Finneran with a single punch — becomes a National League umpire in 1928. The irony is perfect. One year later he is dead of pneumonia. He is 44. He never made the Hall of Fame. +2 irony. -2 mortality.",
+      "origin": "Magee became an NL umpire in 1928. Died of pneumonia 1929 at age 44."
+    }
+  ],
+
+  "art_direction": {
+    "face": "INTENSE, VOLATILE, POWERFUL, HANDSOME-DANGEROUS. 5'11\" 179 lbs — solid, athletic, the body of a genuine five-tool player. The face should radiate CONTROLLED FURY — not Zimmerman's unfocused menace but DIRECTED AGGRESSION. Strong jaw, hard eyes, a mouth set in what's either determination or the beginning of a snarl. This is the face of a man who knocked an umpire unconscious with one punch and hit .331 in the same era. Dark, intense eyes that CHALLENGE the viewer. The look of a man who was called 'the best all-around player in the NL' and believed it absolutely. Not a psychopath's blank stare — more a PREDATOR'S focus.",
+    "attire": "Philadelphia Phillies 1910 whites — block 'P' on cap, cream flannel. THE POSE: the right-handed swing at full extension — VIOLENT and BEAUTIFUL. The swing of a .331 hitter who also slugged .507. Or: sliding into home, stealing it for the 23rd time, with the same aggression he brought to Finneran's jaw. Or: in left field, poised, athletic, the outfielder who led the NL in multiple defensive categories. The body language should communicate COILED ENERGY — always ready to hit, run, field, or fight.",
+    "mood": "INTENSE AND DANGEROUS. The card should feel like CONTROLLED VIOLENCE applied to baseball. Not the joy of Doyle. Not the intellectual composure of Meyers. Not the grim endurance of Alexander. FURY as a tool. The energy of a man who could do everything on a baseball field and was angry about everything off it.",
+    "style": "Sepia-toned with BAKER BOWL RED-BROWN and CLARENDON IRON — the dusty red-brown of Baker Bowl's infield dirt and the dark iron-gray of Pennsylvania mill country. Where Cravath at Baker Bowl was SUNBAKED RED (exploiting the park), Magee at Baker Bowl is IRON AND DIRT — the five-tool player grinding through the same park by force rather than trick. The palette should feel HARD and PHYSICAL — no gold, no warmth. The color of a man who worked.",
+    "reference": "The intense face. The violent swing. Baker Bowl dirt. Pennsylvania iron. The card should feel like the most PHYSICALLY DANGEROUS card in the Muggers collection — not the most powerful (that's Jackson or Speaker) but the most VOLATILE. The viewer should feel that this card might punch them."
+  }
+}
