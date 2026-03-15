@@ -1,0 +1,207 @@
+{
+  "card_type": "player",
+  "name": "Al Rosen",
+  "nickname": "Flip / The Hebrew Hammer",
+  "year": 1953,
+  "team": "Cleveland Indians",
+  "league": "American League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "3B",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'10\"",
+  "weight": "180 lbs",
+  "born": "February 29, 1924 — Spartanburg, SC",
+  "died": "March 13, 2015 — Rancho Mirage, CA",
+  "hof": "Not inducted",
+
+  "real_stats": {
+    "season": 1953,
+    "games": 155,
+    "at_bats": 599,
+    "hits": 201,
+    "doubles": 27,
+    "triples": 5,
+    "home_runs": 43,
+    "rbi": 145,
+    "stolen_bases": 8,
+    "runs": 115,
+    "batting_avg": ".336",
+    "obp": ".422",
+    "slg": ".613",
+    "ops": "1.034",
+    "ops_plus": 160,
+    "war": 8.8,
+    "all_star": 4,
+    "gold_gloves": 0,
+    "awards": "AL MVP 1953 — unanimous, first unanimous MVP since Hank Greenberg (1935). Led AL in HR (43), RBI (145), runs (115), SLG (.613), total bases (367). Missed Triple Crown by .0011 BA (Mickey Vernon hit .337). Bill James, New Historical Baseball Abstract (2001): greatest season ever by a third baseman. AL HR leader 1950 and 1953; AL RBI leader 1952 and 1953. 4x All-Star. ASG MVP 1954 (2 HR, 5 RBI on a broken finger).",
+    "world_series": "1948 WS champion (reserve — 5 games, 1 AB). 1954 WS: 3-for-12, Cleveland swept in 4 by New York Giants.",
+    "career_avg": ".285",
+    "career_hits": 1063,
+    "career_hr": 192,
+    "career_war": 44.8,
+    "career_rbi": 717,
+    "career_notes": "10 seasons, one team (Cleveland Indians). 4x All-Star. AL MVP 1953 (unanimous). Never won Gold Glove (pre-GG era for peak years). 100+ RBI in 5 consecutive seasons (1950-1954). First rookie in AL history to lead the league in home runs (37 in 1950). Retired at 32 following Greenberg's second consecutive salary cut. Career WAR severely depressed by 4 years of WWII naval service (missed ages 18-22 prime development). Best range factor of all AL 3B in 1953 (3.32); led AL in assists (338) and DP (38) at 3B that year. Only person in baseball history to win both the player MVP award and the Executive of the Year award. Born February 29 — leap day. Navigated an assault boat at the Battle of Okinawa."
+  },
+
+  "ilb_stats": {
+    "ovr": 10,
+    "con": 5,
+    "pow": 5,
+    "spd": 1,
+    "def": 2,
+    "clu": 1
+  },
+
+  "stat_justification": {
+    "con": ".336 BA (1953) clears the .330+ = 5 threshold. OPS+ 160 clears the ≥130 bonus. CON 5 maximum. Bill James called 1953 the greatest season ever by a third baseman — the contact component is fully validated by the batting average, the 201 hits, and the near-Triple Crown on the final at-bat. First 3B in the set with CON 5.",
+    "pow": "43 HR (1953) clears the 40-49 = 4 tier. SLG .613 clears the ≥.500 bonus (+1). POW = 5 maximum. First 3B in the set with POW 5. Prior POW 5 cards: Wilson (1930 CF), Mantle (1956 CF). Rosen joins them as the third position player at POW 5 — and the first corner infielder. 'No man had as much power as Mickey Mantle' — but Rosen's 1953 SLG .613 on 43 HR at 3B is the most dominant single-season power number at that position in the set.",
+    "spd": "Approximately 8 SB in 1953 (6-15 range = 1). Career 39 SB. No significant speed reputation. SPD 1 by formula.",
+    "def": "Pre-Gold Glove era (GG introduced 1957). Historical reputation rule applied. Best range factor of all AL 3B in 1953 (3.32); led AL in assists (338) and DP (38). SABR: 'gave you the hard tag in the field' (Casey Stengel). No Gold Glove won, but the 1953 defensive metrics are the best at the position in the AL. DEF 2 — first 3B in the set with DEF 2. The broken finger in 1955 (forced position switch to 1B) and the chronic back injury mark this as peak-year DEF only.",
+    "clu": "1948 WS (reserve, 1 AB — effectively no WS contribution as a player). 1954 WS: 3-for-12 as Cleveland was swept. No postseason hero moment. CLU 1 is base-level. However: 1954 ASG MVP on a broken finger (2 HR, 5 RBI) earns the base CLU 1. The CLU is not 0 because of the ASG performance and the famous Yom Kippur game that was rained out — a moment that became part of Jewish baseball mythology. But the WS record (4-for-17 combined across two appearances) does not merit elevation above 1."
+  },
+
+  "personality": {
+    "leadership_style": "Confrontational dignity. Rosen led by refusing to yield — on the field, in the dugout, or in the batter's box. When opponents hurled antisemitic slurs, he walked to their dugout and asked whoever said it to step forward. He never complained to management. He never asked anyone to fight his battles. He simply made it clear that the cost of insulting him was a physical confrontation he was entirely prepared to have. An amateur boxer with a broken nose from the ring. 'There's a time you let it be known that enough is enough. You flatten them.'",
+    "temperament": "Controlled intensity. The product of a childhood built on obstacles — father gone before memory, asthma, poverty, a high school football coach who questioned why a Jewish kid would play football. Every obstacle became fuel. 'I always felt that I want to conduct myself that, if I were walking down the street, one Jew could look at another Jew and say, He's a mensch.' That was not a casual aspiration. It was a daily operational standard.",
+    "work_ethic": "The Sammy Snead axiom: give up golf, work on your legs. After a disappointing 1951, Rosen went to South America to reset his mind, then returned to the Miami minor-league park to train rather than play golf. Heeded Snead's advice. Came back in 1952 with 105 RBI and a .302 average. Came back in 1953 with the greatest third baseman season in baseball history. The 1953 season was built, deliberately, in the offseason. Not natural talent alone — constructed preparation.",
+    "lifestyle": "Naval officer who navigated an assault boat at Okinawa. Amateur boxer. Stockbroker for 17 years after retirement. Baseball executive who built the 1989 NL champion San Francisco Giants from a 100-loss franchise. A man who described himself as 'one tough Jew' and meant it as a program, not a boast.",
+    "era_adaptability": "HIGH. A 5'10\" right-handed pull hitter with CON 5 / POW 5 at 3B adapts to any era. The boxers's body — compact, explosive. The missed Triple Crown by .0011 is the most precise near-miss in baseball history. The broken finger at the 1954 ASG didn't stop the 2 HR and 5 RBI. Rosen played through injuries the way he played through antisemitic slurs — by continuing.",
+    "lifestyle_extra": "The Hank Greenberg paradox defines the arc of Rosen's career more than any individual statistic. Greenberg was his hero growing up. Greenberg was the first Hebrew Hammer, and Rosen inherited the nickname from him in the minors. Greenberg was his GM. Greenberg cut his salary after 1954 (from $42,500 to $37,500) despite 5 consecutive 100+ RBI seasons. Greenberg cut it again after 1956. 'Greenberg and I were not friendly.' The idol who ended the career. The predecessor who gave him a name and then took away his livelihood. The Greenberg paradox is the most complex relationship between a player and a predecessor/superior in the set.",
+    "dark_side": "Pride as limitation. Rosen retired at 32 because his pride would not allow him to perform below his own standard. He could have played several more seasons — the league minimum would have been available. He chose to leave rather than diminish. The injuries (broken finger, chronic back from a car accident) accelerated the decision, but the core was pride. 'His pride would not let him go on playing and turn in what he considered sub-par performances.' The career WAR of 44.8 is the WAR of someone who played 10 seasons. The projection for a full career from age 18 (without WWII service) runs to 70+ WAR. Pride, war, and Greenberg's salary cuts are the three edges of the Rosen triangle."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "One Tough Jew",
+      "desc": "Rosen's self-description. A rallying identity. In ILB, when Rosen is in the lineup, all Jewish players on the team receive +1 CLU. The identity is contagious and intentional."
+    },
+    {
+      "tag": "Step Forward",
+      "desc": "Once per season, when an opponent triggers an antisemitic event, Rosen may walk to the opposing dugout and challenge. Successful: opponent ejected, +2 team morale. Failed: Rosen ejected, opponent stays."
+    },
+    {
+      "tag": "The Missed Bag",
+      "desc": "In 1953, Rosen missed first base on what would have been the Triple Crown hit. He told his manager not to protest. 'I was out, Al. I missed the bag.' In ILB: once per career, Rosen may decline to contest an official ruling that costs him a statistical title. If activated: permanent CLU +1 (the integrity becomes legend)."
+    },
+    {
+      "tag": "Greenberg's Salary",
+      "desc": "Hank Greenberg was both Rosen's hero and his GM. When Greenberg appears in the same ILB front office, Rosen's salary negotiation rolls at disadvantage. Final outcome: either +2 OVR (defiance season) or retirement (if rolled twice)."
+    },
+    {
+      "tag": "The Broken Finger",
+      "desc": "In the 1954 All-Star Game, Rosen hit 2 HR and drove in 5 runs on a broken finger. In ILB: Rosen's POW does not decrease from injury rolls unless the injury is to his hands. If it is — he plays through it anyway, at -1 CON but full POW."
+    },
+    {
+      "tag": "Doby's Neighbor",
+      "desc": "Rosen and Larry Doby were teammates on the 1948-1956 Cleveland Indians. Both Dreamers 1950 cards. When both are in the same lineup, +1 DEF for all infielders — the chemistry of a dynasty team that won 111 games in 1954."
+    },
+    {
+      "tag": "The Mensch Standard",
+      "desc": "'I always felt that I want to conduct myself that, if I were walking down the street, one Jew could look at another Jew and say, He's a mensch.' In ILB: Rosen's chemistry bonus to young players is the highest of any Dreamers 1950 position player. His standard is visible and it is high."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "The Sammy Snead axiom. Give up golf. Work on your legs. The Miami minor-league park in the offseason before 1953. The deliberate construction of the greatest 3B season in baseball history.",
+      "note_extra": "Source labeled 'Miami Minor League Park / Snead / Offseason 1952-53' / affinity 'HIGH' — fifteenth Practice Field/HIGH in the set. Rosen's is the most economically specific in the set: a documented conversation with a famous golfer (Sammy Snead told him 'You don't see me swinging a baseball bat'), a documented decision (give up golf, work out at the minor-league park instead), and a documented result (the 1953 season). The SABR BioProject records the Snead conversation explicitly. The Practice Field/HIGH is unusual in this set because it is the site of a negative decision — the refusal to play golf — rather than a positive training regimen. Rosen did not add something in this location; he removed something. The 1953 season is what remained after the removal. The chemistry_trait 'The Mensch Standard' cross-references the disciplined self-construction this HIGH encodes."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "The Jewish community of Cleveland and Miami. 'I always felt that I want to conduct myself that, if I were walking down the street, one Jew could look at another Jew and say, He's a mensch.'",
+      "note_extra": "Source labeled 'Jewish Community / Cleveland / Miami / Identity' / affinity 'HIGH' — sixth Community Events/HIGH in the set. Rosen's is the most explicitly identity-bound Community Events HIGH in the set. Where prior Community Events entries encoded civic spaces (Yankee Stadium, Braves Field bleachers, Shibe Park wall) or historical events (Okinawa, the 1947 Comiskey integration), Rosen's encodes a community of people rather than a place. The Cleveland Jewish community, the Miami Jewish community where he grew up, and the national Jewish sports audience he represented simultaneously. The documentary 'Jews and Baseball: An American Love Story' (2010) features Rosen as a central figure specifically because of this community relationship. The quote — 'He's a mensch' — is the card's emotional core. It is not a boast. It is a standard that was externally imposed and internally accepted. The chemistry_trait 'One Tough Jew' is the aggressive face of this HIGH; the 'Mensch Standard' trait is the dignified face."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Spartanburg, SC / Miami, FL. Father deserted the family before memory. Mother encouraged outdoor play for the asthma. The working-class immigrant Jewish family that built the Hebrew Hammer.",
+      "note_extra": "Source labeled 'Spartanburg / Miami / Father Gone / Mother / Asthma' / affinity 'ORIGIN' — ninth standalone ORIGIN in the set. Rosen's is the only ORIGIN in the set anchored in a parental absence rather than a parental presence. Where Mantle's ORIGIN is defined by Mutt's overwhelming presence (named him, trained him, designed him as a switch hitter), Rosen's is defined by his father's departure — Rosen barely knew him. The mother is the figure: she encouraged outdoor play to combat the childhood asthma; the outdoor play led to baseball; the baseball led to everything. The grandfather had emigrated from Poland. The immigrant Jewish family in the American South is the specific sociological origin of the Hebrew Hammer — not a baseball-coaching father but an asthmatic Miami childhood and a mother who sent him outside. The Community Events domain is used rather than Hotel/Rest because the ORIGIN encompasses the broader social and communal context of Spartanburg/Miami rather than a single domestic space. The 'Doby's Neighbor' chemistry_trait is the adult team-ORIGIN cross-reference — both Rosen and Doby were Cleveland dynasty players, and their Dreamers 1950 pairing is the adult expression of what their respective origins built."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "The Cleveland Indians dynasty clubhouse of 1948-1954. Doby, Lemon, Wynn, Garcia, Avila. The team that won 111 games in 1954. The dynasty that was Rosen's professional home.",
+      "note_extra": "Source labeled 'Cleveland Clubhouse / Dynasty / 111 Wins' / affinity 'HIGH' — eighteenth Hotel/Rest/HIGH in the set. Rosen's is the second Dreamers 1950 clubhouse HIGH (after Doby's implicit team connection, encoded differently in Doby's DAMNED entry). The Cleveland Indians of 1948-1954 won one World Series (1948), set the AL wins record (111 in 1954), and produced four Hall of Famers plus Rosen's near-legendary 1953 season. The clubhouse/dynasty HIGH encodes the genuine camaraderie of a team that believed it was the best in baseball — and for one season was. The 'Doby's Neighbor' chemistry_trait is the mechanical cross-field expression."
+    },
+    {
+      "location": "Medical/Recovery",
+      "affinity": "COMPLEX",
+      "note": "The broken finger played through (1954 ASG — 2 HR, 5 RBI anyway). The back injury from a rear-end car crash. The broken nose from amateur boxing. The forced position switch to first base in 1955. The body that ended the career at 32.",
+      "note_extra": "Source labeled 'Broken Finger / Back / Boxing Nose / Position Switch / Retirement at 32' / affinity 'COMPLEX' — fifth COMPLEX in the set (after Brecheen/spinal, Kaline/foot-collarbone-arm, Rizzuto/anxiety, Gordon/integration-pressure). Rosen's COMPLEX is the most physically concentrated in the set — every injury is a direct consequence of Rosen's refusal to accommodate the injury. He played through the 1954 ASG broken finger and hit 2 home runs. He broke his nose multiple times in the boxing ring. He was forced to switch positions when the broken finger and back injury in 1955 made third base untenable. He retired at 32 rather than play a diminished version of himself. The COMPLEX affinity encodes not just the injuries but the relationship between Rosen's physical toughness and his physical vulnerability — a boxer's body that was also a brittle body, and the pride that refused to acknowledge the difference until it was too late. The chemistry_trait 'The Broken Finger' is the mechanical cross-field expression. The dark_side note on pride-as-limitation is the biographical expression."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Antisemitic provocation — counterintuitively activates peak performance; historical record shows Rosen played harder when challenged on identity.",
+      "All-Star Games — ASG MVP 1954 on a broken finger; 5 RBI matching Ted Williams's record. ASG settings generate POW bonus.",
+      "Stretch run of pennant races — 1953 batting title fight, 1954 pennant push; Rosen's peak performances were in meaningful late-season context.",
+      "Physical adversity — 'The Broken Finger' trait: POW does not degrade from hand injuries. Rosen hits through pain."
+    ],
+    "cold_triggers": [
+      "Greenberg front office events — 'Greenberg's Salary' trait activates; negotiation rolls at disadvantage.",
+      "World Series — 4-for-17 combined in two WS appearances; CLU 1 reflects this ceiling. October did not amplify Rosen.",
+      "Career tail — 1955-1956 injury decline; the body gave out before the pride did.",
+      "Position switch — forced from 3B to 1B in 1955; DEF drops when position is not 3B."
+    ],
+    "pressure_response": "Rosen's pressure response is the most morally legible in the set. Under statistical pressure (batting title fight, 1953 final at-bat), he performed at the level of the moment — 201 hits, a .336 average built over 155 games. And then on the last at-bat, he missed the bag, told his manager he was out, and declined to protest. Under social pressure (antisemitism, salary cuts, skepticism), he either confronted it physically or absorbed it with dignity. The pressure response is not explosive (Mantle) or sublimated (Doby) but direct: here is what I will do, here is what I will accept, here is the line."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "I Was Out, Al. I Missed the Bag.",
+      "type": "Drama",
+      "text": "In the last at-bat of the season, your third baseman beats out what would have been the Triple Crown hit. The umpire calls him out. After the game, your manager considers protesting. Your third baseman tells him not to. 'I was out, Al. I missed the bag.' The batting title goes to the other team. The MVP vote is unanimous — every first-place vote. The Triple Crown is gone. The integrity remains. Forty years later, the umpire confirms: he missed the bag.",
+      "origin": "October 4, 1953 — final day of the AL season. Rosen's last at-bat. Umpire Hank Soar called him out. Rosen told manager Al Lopez not to protest. Mickey Vernon won the batting title at .337 to Rosen's .336. The MVP vote was unanimous. Soar later confirmed: Rosen had missed first base."
+    },
+    {
+      "title": "The Hebrew Hammer",
+      "type": "Action",
+      "text": "A reporter asks your third baseman if he wishes his name sounded less Jewish. He says he wishes it sounded more Jewish. Something like Rosenstein. A TV host writes that your third baseman must be Catholic because of how he marks the dirt at home plate. Your third baseman says it is an X, not a cross, and he wishes his name were more Jewish so no one would make that mistake again. His name is what it is. He is what he is.",
+      "origin": "Al Rosen publicly stated he wished his name were more Jewish — suggesting Rosenstein or Rosenthal — so he would not be mistaken for Catholic. When Ed Sullivan wrote that Rosen was Catholic based on his pre-at-bat dirt mark, Rosen corrected him and reiterated his Jewish identity. The nickname 'Hebrew Hammer' was bestowed on him in the minor leagues and he embraced it as his own."
+    },
+    {
+      "title": "Step Forward",
+      "type": "Action",
+      "text": "During a game, someone in the opposing dugout calls your third baseman a Jew bastard. Your third baseman calls time. He walks from his position at third base to the opposing dugout. He asks whoever said it to step forward and identify himself. No one steps forward. The game resumes. Your third baseman goes back to third base.",
+      "origin": "Documented incident: a Chicago White Sox player called Rosen a 'Jew bastard.' Rosen walked to the White Sox dugout and challenged the player to step forward. The player backed down. Jewish pitcher Saul Rogovin witnessed and remembered the event."
+    },
+    {
+      "title": "The Yom Kippur Rain",
+      "type": "Drama",
+      "text": "Your third baseman is fighting for the batting title. The game falls on Yom Kippur. He has consulted his rabbi — Rabbi Abba Hillel Silver — and decided: he will not play. He does not play. The game is rained out. He calls it divine, and benign, intervention. The batting title is still decided on the last day of the season. He still misses it. The rain did not save him. The rain only confirmed something.",
+      "origin": "1953 season. Rosen consulted Rabbi Abba Hillel Silver of Cleveland, who advised on Rosh Hashanah vs. Yom Kippur observance. Rosen sat out a game on Yom Kippur during the batting title race. The game was rained out. Rosen described it as 'divine, and benign, intervention.'"
+    },
+    {
+      "title": "Greenberg's Salary Cut",
+      "type": "Drama",
+      "text": "Your third baseman's hero is now his general manager. His hero gave him his nickname in the minor leagues. His hero won the same MVP award he won. His hero is cutting his salary. For the second time. After five consecutive seasons with 100 or more RBIs. After the greatest third baseman season in baseball history. Your third baseman calls it quits. He is 32. 'Greenberg and I were not friendly.'",
+      "origin": "After the 1956 season, Indians GM Hank Greenberg told Rosen he was cutting his salary by another $5,000 (already cut from $42,500 to $37,500 after 1954). Rosen — whose hero growing up was Greenberg — retired rather than accept the cut. He was 32. The SABR BioProject notes Greenberg was tougher on Rosen, a fellow Jew, than on any other Indians player."
+    },
+    {
+      "title": "The Broken Finger All-Star Game",
+      "type": "Game Action",
+      "text": "Your third baseman has a broken finger. The All-Star Game starts anyway. He hits two home runs. He drives in five runs — tying a record set by Ted Williams five years earlier. He is named the game's Most Valuable Player. The broken finger is in the box score as an asterisk that is not there. The five RBI are. The two home runs are.",
+      "origin": "1954 All-Star Game. Rosen played with a broken finger, hit 2 HR, and drove in 5 runs — tying Ted Williams's ASG RBI record set in 1946. He was named ASG MVP. The broken finger had been suffered earlier in the season when the Indians forced him to make practice throws at first base."
+    },
+    {
+      "title": "One Tough Jew",
+      "type": "Legacy",
+      "text": "Your third baseman describes himself in three words. They become the way others describe him. They become the way his teammates describe themselves when they want to say something true and hard. 'One tough Jew.' It is not a boast. It is a standard. It is the thing you have to be when your father left before memory, when your high school coach asked why a Jewish kid plays football, when the opposing dugout calls you what it calls you, when your hero cuts your salary twice. One tough Jew. That's the whole card.",
+      "origin": "Al Rosen's self-description, quoted in SABR and widely reproduced. Used in the documentary 'Jews and Baseball: An American Love Story' (2010). The SABR BioProject concludes: 'He indeed was one tough Jew, as Rosen once said of himself, and was a ballplayer and person that all could admire.'"
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'10\", 180 lbs — the boxer's build. Compact, powerful, built for contact rather than length. The broken nose from the ring. The jaw set in the way that people's jaws are set when they have decided something and are not going to un-decide it. The face of a man who has been asked why a Jewish kid plays baseball and has answered the question several thousand times, mostly with the bat, and is not tired of answering it.",
+    "attire": "Cleveland Indians home white with the navy block-letter C. Number 7 (shared with Mantle in the Dreamers 1950 pantheon — different franchises, same number, different weight). The batting stance: right-handed, loaded, compact. The ball already past the third baseman's range because Rosen had the best range factor in the AL.",
+    "mood": "Controlled readiness. Not Mantle's explosive joy. Not Doby's hard-won dignity. Rosen's mood is the mood of a man who has already decided that whatever comes next, he is going to be a mensch about it. The 1953 season is behind him; the last at-bat of the 1953 season is behind him; the umpire's call is behind him; he told Lopez not to protest and he was right. The face knows all of this.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Cleveland's old Municipal Stadium visible faintly behind him — the vast outfield, the lake wind. The third-base foul line in the foreground.",
+    "reference": "The line from SABR is the art direction: 'Physical and mental toughness served Rosen well through all his many life challenges: desertion by his father as a toddler, asthma as a youngster, racial taunts for his Jewish background, skepticism about his baseball abilities.' This is not a tragic card. It is a card about a man who did not let any of that stop him, and the one time something stopped him it was his own integrity — he missed the bag, he told his manager, he walked away. One tough Jew."
+  }
+}

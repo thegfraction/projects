@@ -1,0 +1,207 @@
+{
+  "card_type": "player",
+  "name": "Pete Runnels",
+  "nickname": "Little Pete",
+  "year": 1962,
+  "team": "Boston Red Sox",
+  "league": "American League",
+  "era": "1960s",
+  "ilb_team": "Dreamers 1950",
+  "position": "2B",
+  "position_note": "Played 644 games at 1B, 642 at 2B, 463 at SS, 49 at 3B across career. 2B is the ILB primary slot for the 1962 card year. Ultimate utility infielder — the bat always preceded the position.",
+  "bats": "L",
+  "throws": "R",
+  "height": "6'0\"",
+  "weight": "170 lbs",
+  "born": "January 28, 1928 — Lufkin, TX",
+  "died": "May 20, 1991 — Pasadena, TX",
+  "hof": "Not inducted. Never received a single HOF vote.",
+
+  "real_stats": {
+    "season": 1962,
+    "games": 152,
+    "at_bats": 562,
+    "hits": 183,
+    "doubles": 33,
+    "triples": 5,
+    "home_runs": 10,
+    "rbi": 60,
+    "stolen_bases": 3,
+    "runs": 80,
+    "batting_avg": ".326",
+    "obp": ".408",
+    "slg": ".456",
+    "ops": ".864",
+    "ops_plus": 150,
+    "war": 4.8,
+    "all_star": 3,
+    "gold_gloves": 0,
+    "awards": "AL Batting Title 1962 (.326 — outdueled Mickey Mantle). AL Batting Title 1960 (.320 — 35 RBI, AL record-low RBI for a batting champion; 2 HR, tied with Ty Cobb/Tris Speaker for fewest HR by an AL batting champion in the live-ball era). Near-miss 1958 AL Batting Title (.322 — lost to Ted Williams .328 on final day). 3x AL All-Star (1959, 1960, 1962). Comeback Player of the Year 1958. Led AL 2B in fielding % (.986) in 1960. Led AL 1B in fielding % (.993) in 1961. Career 1.35 walk-to-strikeout ratio (844 walks, 627 strikeouts). 9 hits in a doubleheader August 30, 1960 (tied ML record).",
+    "world_series": "None. Zero career postseason appearances.",
+    "career_avg": ".291",
+    "career_hits": 1854,
+    "career_hr": 49,
+    "career_war": 22.6,
+    "career_rbi": 630,
+    "career_notes": "14 seasons (1951-1964). Washington Senators (1951-1957), Boston Red Sox (1958-1962), Houston Colt .45s (1963-1964). Career OPS+ 109. Career OBP .375. 6x .300 hitter. In 5 Boston seasons never hit below .314. Career 1.35 walk-to-strikeout ratio. Led AL shortstops in putouts (1952), AL 2B in fielding % (1960), AL 1B in fielding % (1961). 1952: 0-for-10 stolen base attempts — ML record for most failed steal attempts in a season without a success. 1960: .320 batting title, 35 RBI (AL record-low RBI for batting champion), 2 HR. Never received a single Hall of Fame vote. Inducted Boston Red Sox Hall of Fame 2004, Texas Sports Hall of Fame 1982. Interim manager, Red Sox 1966 (16 games). Died of stroke complications, 1991, age 63."
+  },
+
+  "ilb_stats": {
+    "ovr": 7,
+    "con": 5,
+    "pow": 1,
+    "spd": 0,
+    "def": 2,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": ".326 BA (1962) is in the .300-.329 = 4 band. OPS+ 150 clears the ≥130 bonus → CON 5. The contact depth: career 1.35 walk-to-strikeout ratio across 14 seasons; never hit below .314 in five Boston seasons; batted .300+ six times overall. The Green Monster tutored by Ted Williams: 'just slap the ball into the holes.' CON 5 reflects both the 1962 batting title and the structural nature of Runnels's contact — a man who turned a .230 season into back-to-back batting titles by learning to spray line drives to all fields.",
+    "pow": "10 HR (1962). SLG .456 — below the ≥.500 bonus threshold. 10-19 HR = 1 band. POW 1. Career high 10 HR (1962). The 1960 batting title: 2 HR, 35 RBI — AL record-low RBI for a batting champion. POW 1 is the first single-digit POW above 0 in the set. The 1962 season's 10 HR makes Runnels slightly less power-absent than Fain or Kuenn, but the SLG .456 and the record-low 1960 production define the profile: a man who won batting titles without power and who the AL record books remember for the absence of run production.",
+    "spd": "3 SB (1962). Career 37 SB in 88 attempts — a 42% success rate, among the worst in the set. The 1952 season: 0-for-10 stolen base attempts, the ML record for most failed steal attempts without a single success. SPD 0. Runnels's SPD 0 is the most historically documented SPD 0 in the set: he holds a record for running that involves exclusively failing to get to base.",
+    "def": "Played all four infield positions at major league level. Led AL in fielding % at two different positions (2B in 1960, 1B in 1961). No Gold Gloves. Range deteriorated severely in later career. DEF 2 — the fielding percentage mastery and multi-position adaptability justify solid DEF, but the declining range and the fact that teams 'tried to hide him here and there, anything to get his stick in the lineup' (BR Bullpen) caps at 2. The defensive value was real early; it became positional flexibility late.",
+    "clu": "Zero postseason appearances across 14 seasons. Washington Senators (perennial 7th-8th place), Boston Red Sox (competitive but never pennant in Runnels's years), Houston expansion team. CLU 0 — third consecutive CLU 0 among Dreamers 1950 batting champions (Fain, Kuenn, Runnels). Three AL batting titles between the three players, zero World Series."
+  },
+
+  "personality": {
+    "leadership_style": "Invisible excellence. Bob Addie of the Washington Post: 'one of the most obscure batting champions baseball has ever had.' Runnels was the player who was always in the lineup, always batting .300, always somewhere between first and second in the batting order, and never the name anyone said first. On losing teams his whole career, he led by continuing to be excellent when no one was watching.",
+    "temperament": "Internally disciplined to a degree that bordered on the philosophical. When Tony Kubek robbed him of an extra-base hit in a slump, Runnels returned to the dugout and poured a full bucket of ice water over his own head. He did not break equipment. He did not yell at teammates. He absorbed his frustration into himself, literally — and then sat down and got back to work. 'I had a way of letting off steam without venting my frustrations on others,' he explained, as if this were straightforward.",
+    "work_ethic": "Self-remade. Traded from Washington after a .230 season in 1957 — the Senators likely thought his best years were behind him at 29. Arrived in Boston, fell under the influence of Ted Williams, learned to slap line drives into the holes and work the Green Monster. Went from .230 to .322 in one year. Won two batting titles in four years. The Comeback Player of the Year 1958 was not a lucky bounce; it was a man who took a lesson from the greatest hitter alive and applied it until it became permanent.",
+    "lifestyle": "Lufkin, Texas — logging country, 120 miles northeast of Houston. Football town where 'we used to have trouble rounding up nine guys to play on a team.' Marine Corps after high school. One semester at Rice. Met Betty Ruth Hinton at Chickasha, Oklahoma, in 1949 — Class D ball, the lowest rung, the year he batted .372. Married October 29, 1949. They were together until his death. After baseball: sporting goods store in Pasadena, Texas. Co-founded Camp Champions in Marble Falls, Texas — still operating. Died on a golf course, of a stroke, in 1991. The most Texas ending in the set.",
+    "era_adaptability": "HIGH for contact. The .375 career OBP and the 1.35 walk-to-strikeout ratio translate directly to any era. The POW 1 is increasingly penalized in the modern game, but a left-handed spray hitter with elite contact discipline who can play four infield positions is always useful. The Green Monster instruction (slap the ball into the holes) is a specific adaptation, but the underlying plate discipline is not park-dependent.",
+    "dark_side": "The ulcers. He won the 1960 batting title on a strict diet for the final month of the season because his stomach couldn't handle normal food. 'I was the sickest of all time,' he said of his own batting championship. The body was always slightly in revolt against the discipline required to hit .320 in the American League on a team going nowhere. The obscurity is not a dark side — it is simply the structural condition of being excellent on losing teams for a decade and a half. He never received a single Hall of Fame vote."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Ice Water",
+      "desc": "Runnels's frustration response: absorbed entirely inward. In ILB, when Runnels makes an out in a high-leverage situation, the next at-bat receives no morale penalty. The frustration goes into the bucket, not into the next plate appearance."
+    },
+    {
+      "tag": "Williams's Student",
+      "desc": "Ted Williams personally tutored Runnels at Fenway: 'just slap the ball into the holes.' When Williams is on the same team or in the same dugout, Runnels's CON receives a +1 passive bonus. When Williams is the opposing team's instructor/mentor figure, the bonus is removed and the competition is its own reward."
+    },
+    {
+      "tag": "The Obscure Champion",
+      "desc": "Runnels won two batting titles and never received a single Hall of Fame vote. In ILB, his individual stats do not generate legacy bonuses — his OVR is what it is, accurately, and does not inflate from reputation. The obscurity is the card."
+    },
+    {
+      "tag": "0-for-10",
+      "desc": "The 1952 ML record: 10 stolen base attempts, 0 successes. In ILB, Runnels's SPD 0 is historically documented rather than merely statistical. The base-stealing mechanic is locked — Runnels does not attempt stolen bases."
+    },
+    {
+      "tag": "Four Positions",
+      "desc": "Played 1B, 2B, SS, and 3B at major league level. In ILB, Runnels can fill any infield position at DEF 2. He costs one roster slot and fills four. The bat is the constant; the position is wherever the team needs him."
+    },
+    {
+      "tag": "Fenway's Line Drive",
+      "desc": "Williams's instruction applied to Fenway's left field wall: spray the ball to all fields, use the angles. CON 5 activates at +1 when Runnels plays at Fenway Park (or equivalent Green Monster parks). The wall is part of the swing mechanics."
+    },
+    {
+      "tag": "The Stomach Ulcers",
+      "desc": "Won the 1960 batting title on a strict diet for the final month of the season, described himself as 'the sickest of all time' during a championship run. In ILB, once every other season, a Stomach Event roll: no stat reduction, but Runnels's narrative arc includes the physical cost of the excellence."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Ted Williams at Fenway Park, 1958. 'Just slap the ball into the holes.' The single instruction that turned a .230 player into a two-time batting champion.",
+      "note_extra": "Source labeled 'Ted Williams / Fenway / 1958 / Slap Into the Holes' / affinity 'HIGH' — nineteenth Practice Field/HIGH in the set. Runnels's is the most specifically mentor-attributed Practice Field HIGH in the set, more so even than Berra's 'He Is Learning Me His Experience' entry. Williams did not give a philosophy; he gave a specific tactical instruction applicable to a specific ballpark (Fenway, the Green Monster, the left-field angles). Runnels arrived in Boston in January 1958 after the Senators traded him following his .230 season. Williams and others on the Red Sox advised him to use the park — spray line drives rather than pull — and by September Runnels was challenging for the batting title at .322. Williams lost the title race by six points. The SABR BioProject: 'He learned how to slice line drives off the Green Monster in Fenway Park.' The chemistry_trait 'Williams's Student' is the mechanical cross-field expression. This Practice Field HIGH is the hinge of the entire Runnels narrative: before it, he is a .270 infielder traded from a losing team; after it, he is a two-time batting champion."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Lufkin, Texas. The logging town where 'we used to have trouble rounding up nine guys to play on a team.' The Marine Corps. One semester at Rice. Chickasha, Oklahoma, and Betty Ruth Hinton.",
+      "note_extra": "Source labeled 'Lufkin / Marines / Rice / Chickasha / Betty Ruth' / affinity 'ORIGIN' — thirteenth standalone ORIGIN in the set. Runnels's is the most itinerant pre-professional origin in the set — it begins in a logging town where baseball was hard to organize, passes through the Marine Corps (1945-1948), a brief collegiate stint (Rice, one semester), and arrives at Class D ball in Chickasha, Oklahoma, where Runnels batted .372, led the Sooner State League in hits, and met his wife. The SABR BioProject notes that his career direction changed when he was pressed into duty as a last-minute fill-in on his older brother's sandlot team and got a base hit. That hit — a sandlot fill-in at-bat in Lufkin, Texas — is the structural beginning of two batting titles and 1,854 major league hits. The Community Events domain is used because the ORIGIN encompasses the full sociological context of the East Texas logging culture, not just a single domestic space. The 'Fenway's Line Drive' chemistry_trait is the adult transformation of the Lufkin contact approach."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "Fenway Park clubhouse, 1958-1962. Ted Williams. The most productive five seasons of a career that had been written off. The Boston Red Sox as the context where obscure excellence could briefly become visible.",
+      "note_extra": "Source labeled 'Boston Clubhouse / Williams / 1958-1962' / affinity 'HIGH' — twentieth Hotel/Rest/HIGH in the set. Runnels's is the most productivity-concentrated clubhouse HIGH in the set — five seasons, never below .314, two batting titles, the best run of his career entirely attributable to the context he found himself in. The BR Bullpen: 'One of the few things for Red Sox Nation to cheer for in the early 1960s, sweet-swinging Pete...' The Red Sox of 1958-1962 were a competitive but not championship team — they provided the right level of external expectation (better than the Senators) and the right instructional environment (Williams) without the championship pressure that would have exposed the CLU 0 profile. Runnels thrived in this specific window and declined the moment he left it (1963: .253 in Houston). The Hotel/Rest HIGH reflects the clubhouse warmth and the Williams mentorship that made the excellence possible."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "SACRED",
+      "note": "Griffith Stadium / Washington Senators era. Seven seasons on a losing team in baseball's most politically visible city, invisible to everyone. The Wall of Fame that wasn't there when he played.",
+      "note_extra": "Source labeled 'Griffith Stadium / Washington Senators / Seven Seasons / Obscurity' / affinity 'SACRED' — eleventh SACRED in the set. Runnels's is the most elegiac SACRED in the set — encoded not for a specific honor but for the absence of one. He spent seven seasons in Washington (1951-1957) on perpetual also-ran teams in a city that cared more about politics than baseball. His best Washington season was .310 with 76 RBI in 1956 — excellent numbers on a team going nowhere, in a city with plummeting attendance, playing in Griffith Stadium's vast outfield that suppressed offense. The SACRED is Griffith Stadium as the space where Runnels's early excellence accumulated without recognition — where the .372 minor league hitter became a genuine major leaguer while the city watched the Senators lose and the franchise slowly prepared to move to Minnesota. The Community Events domain reflects the civic/institutional dimension: Griffith Stadium was a Washington institution even as the Senators were failing. The contrast with the Boston SACRED (Fenway, where his excellence was finally seen) is deliberate."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "COMPLEX",
+      "note": "The stomach ulcers. 'I was the sickest of all time.' Won the 1960 batting title on a strict diet for the final month of the season. The body in revolt against the discipline required to hit .320.",
+      "note_extra": "Source labeled 'Stomach Ulcers / 1960 Batting Title / Strict Diet' / affinity 'COMPLEX' — eighth COMPLEX in the set. Runnels's is the most understated COMPLEX in the set — he described his own batting championship campaign as the sickest performance in batting champion history, matter-of-factly, as if this were unremarkable. His direct quote: 'I was the lightest champion since Billy Goodman eleven years before, and I must have been the sickest of all time. I had stomach ulcers and was on a strict diet the last month of the season.' The COMPLEX encodes both the physical condition (ulcers, strict diet, weight loss) and the performance context (batting title despite physical depletion). Unlike Rosen's broken finger or Kuenn's prosthetic leg, Runnels's COMPLEX is invisible — a digestive condition that nobody knew about during the batting race, only disclosed after the fact. The 'The Stomach Ulcers' chemistry_trait is the mechanical cross-field expression."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Green Monster situations — CON 5 + 'Fenway's Line Drive' trait activates in left-field-gap opportunities; Williams's instruction is most active at Fenway.",
+      "Batting title races — the 1958, 1960, and 1962 late-season pressure produced his three best stretches. The competitive context of a close batting race is a documented hot trigger.",
+      "Williams's presence — the mentor effect: CON bonus when Williams is in the dugout, coaching, or competing in the same batting race.",
+      "Contact opportunities with runners on base — despite CLU 0, Runnels was a situational contact hitter; the 9-for-11 doubleheader (August 30, 1960) is the archetypal hot performance."
+    ],
+    "cold_triggers": [
+      "October (permanent) — CLU 0 irrevocable. Three consecutive Dreamers 1950 batting champions at CLU 0.",
+      "Post-Boston context — the 1963 (.253 in Houston) and 1964 seasons demonstrate that the Fenway/Williams context was load-bearing. Outside it, the contact degraded.",
+      "Base-stealing situations — SPD 0, documented 0-for-10 failure record. The 'base running opportunity' is a cold trigger for Runnels: he attempts it, he gets caught.",
+      "The Stomach Ulcer roll — once every two seasons, physical depletion event. No stat reduction, but narrative cost."
+    ],
+    "pressure_response": "Quiet and sustainable. Runnels did not produce explosive pressure moments — he produced relentless contact under adverse conditions. Won a batting title with stomach ulcers on a strict diet. Came back from .230 to .322 in one year under a new instructor. Made 9 hits in a doubleheader on an afternoon in August when nothing important was at stake. The pressure response is not the clutch home run but the 3-for-4 when the team is 10 games out of first and nobody is watching. It is the most obscure form of excellence in the set."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "I Was Thinking I Hope He Wins",
+      "type": "Drama",
+      "text": "Your hitter is chasing the batting title. His teacher, who taught him how to hit in this ballpark, is also chasing the batting title. On the final day of the season, your hitter goes hitless. His teacher goes 2-for-4. His teacher wins the batting title. Later, your hitter says: 'I enjoyed Williams's 1958 catching me on the final day more than the later titles of 1960 and 1962 because of the great competition. Wasn't he capable!' His teacher had said, before the final day: 'I was thinking in my heart, I hope Pete Runnels wins. I'm not going to give it to him, but I hope he wins it. He's never won a batting championship, and I've won five.'",
+      "origin": "September 28, 1958 — final day of the AL season. Williams went 2-for-4 to finish .328; Runnels went hitless to finish .322. Williams won his sixth batting title. Both quotes are documented: Williams's pre-game remarks and Runnels's post-career reflection."
+    },
+    {
+      "title": "The Ice Water",
+      "type": "Drama",
+      "text": "Your infielder is in a slump. He comes to bat with two runners on base. He hits a sharp ground ball up the middle. The opposing shortstop dives, catches it, and throws to first. Your infielder is out. He walks back to the dugout. He does not take out his frustration on a water cooler, his bat, or a teammate. He picks up the bucket of ice water sitting near the bench and pours it over his own head. He sits down. He waits for his next at-bat.",
+      "origin": "Documented in the SABR BioProject. The opposing shortstop is Tony Kubek. Runnels was with the Senators at the time. His exact words: 'He didn't take out his frustration on a water cooler, his bat or another player. Instead, he picked up the water bucket full of ice water and poured it over his own head, as usual internalizing his frustration.'"
+    },
+    {
+      "title": "0-for-10",
+      "type": "Drama",
+      "text": "In 1952, your shortstop attempts to steal a base ten times. He is caught ten times. This sets the Major League record for most failed steal attempts in a season without a single success. This record still stands. Your shortstop does not attempt to steal a base the following season. He has learned something, though what exactly is unclear.",
+      "origin": "1952 season. Runnels went 0-for-10 in stolen base attempts, setting the ML record that still stands. He finished his career 37-for-88 (42% success rate). The stolen base record is documented in the Baseball Almanac."
+    },
+    {
+      "title": "The Sickest Champion",
+      "type": "Drama",
+      "text": "Your first baseman wins the American League batting title with a .320 average. He drives in 35 runs — the fewest by a batting champion in American League history. He hits two home runs — tied for the fewest in the live-ball era. He has stomach ulcers. He has been on a strict diet for the final month of the season. After the season, he says: 'I was the lightest champion since Billy Goodman eleven years before, and I must have been the sickest of all time.' This is the batting championship.",
+      "origin": "1960 season. Runnels won the AL batting title at .320 with 35 RBI (AL record-low) and 2 HR (tied with Cobb/Speaker). His self-description of the stomach ulcer condition was given in a post-career interview."
+    },
+    {
+      "title": "Slap It Into the Holes",
+      "type": "Action",
+      "text": "In January 1958, your infielder is traded from a seventh-place team to a second-place team. He arrives in spring training with a .230 batting average from the previous season. The greatest hitter alive takes him aside and tells him: slap the ball into the holes. Use the angles. Hit to all fields. Your infielder listens. He hits .322 that year. He wins the batting title in 1960. He wins the batting title in 1962. He loses the 1958 batting title to the man who taught him. He says: 'Wasn't he capable!'",
+      "origin": "Winter 1957-58, Fenway Park spring training. Ted Williams's instruction to Runnels — documented in the SABR BioProject and multiple biographical sources — transformed his career from a declining utility infielder into a two-time batting champion. The Runnels quote ('Wasn't he capable!') is from a post-career reflection on losing the 1958 title to Williams."
+    },
+    {
+      "title": "Nine Hits",
+      "type": "Game Action",
+      "text": "August 30, 1960. Your first baseman plays in a doubleheader. In game one, he goes 6-for-7, including a game-winning RBI double in the 15th inning. In game two, he goes 3-for-4. Nine hits in one day. He ties the Major League record for hits in a doubleheader. The Red Sox are not in a pennant race. It is August. Nobody will remember this as one of the great days in American League history. Pete Runnels goes 9-for-11 anyway.",
+      "origin": "August 30, 1960. Runnels went 6-for-7 in game one (including the game-winning extra-inning double) and 3-for-4 in game two against the Tigers, tying the ML record for hits in a doubleheader. Baseball Almanac documents this as one of only four AL players to tie the record."
+    },
+    {
+      "title": "The Most Obscure Champion",
+      "type": "Legacy",
+      "text": "Your player wins two American League batting titles. He comes within six points of a third. He plays fourteen seasons. He has 1,854 hits. He has a .375 career on-base percentage. He receives zero Hall of Fame votes. Bob Addie of the Washington Post calls him 'one of the most obscure batting champions baseball has ever had.' He opens a sporting goods store in Pasadena, Texas. He co-founds a camp in Marble Falls. He dies on a golf course. He is inducted into the Boston Red Sox Hall of Fame twenty-three years after his death. This is what obscure excellence looks like at the end.",
+      "origin": "Runnels's career summary and posthumous recognition. He received zero HOF votes. He was inducted into the Boston Red Sox Hall of Fame in 2004 and the Texas Sports Hall of Fame in 1982. He died May 20, 1991. He had opened a sporting goods store in Pasadena, TX and co-founded Camp Champions in Marble Falls, TX — still operating."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'0\", 170 lbs — lean in the way that a man who won a batting title on stomach ulcers and a strict diet is lean. The left-handed hitter's face: slightly turned toward the third baseman, the weight already shifting, the swing designed to put the ball where the fielders are not. In 1962 he is 34 years old and has won two batting titles and outdueled Mickey Mantle and lost to Ted Williams on the final day of the season and poured ice water on his own head in a dugout and the face knows all of this and finds it normal.",
+    "attire": "Boston Red Sox home whites. The lean 170-pound frame that Casey Stengel said had no weakness at the plate that he'd ever noticed, in a uniform that belonged to the team that finally let him be what he was. Left-handed batting stance, level and compact.",
+    "mood": "Patient competence. The Runnels mood is the mood of a man who has been excellent in obscurity for so long that the obscurity has become part of the excellence. He will go 9-for-11 in a doubleheader in August on a team going nowhere. He will win the batting title with stomach ulcers. He will lose the title to his teacher on the final day and call it the most enjoyable competition of his career. The face shows all of this without expression.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Fenway Park in the background, the Green Monster just visible — the specific wall that Williams told him to use, the wall against which two batting titles were built.",
+    "reference": "The SABR BioProject quote is the art direction: 'James Edward Pete Runnels occupies a place in Washington Senator and Boston Red Sox history as a stalwart, versatile infielder who learned how to hit from possibly the greatest hitter of all time. He parlayed his tutelage from none other than Ted Williams into two American League batting championships and lost a third title on the last day of the 1958 season to his former teacher.' The portrait should show the student who learned perfectly and then spent the rest of his career being excellent in venues no one was watching."
+  }
+}

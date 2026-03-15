@@ -1,0 +1,207 @@
+{
+  "card_type": "player",
+  "name": "Yogi Berra",
+  "nickname": "Yogi",
+  "year": 1954,
+  "team": "New York Yankees",
+  "league": "American League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "C",
+  "bats": "L",
+  "throws": "R",
+  "height": "5'8\"",
+  "weight": "185 lbs",
+  "born": "May 12, 1925 — St. Louis, MO (The Hill)",
+  "died": "September 22, 2015 — West Caldwell, NJ",
+  "hof": "Class of 1972 (BBWAA, second ballot, 85.6%)",
+
+  "real_stats": {
+    "season": 1954,
+    "games": 151,
+    "at_bats": 584,
+    "hits": 179,
+    "doubles": 28,
+    "triples": 6,
+    "home_runs": 22,
+    "rbi": 125,
+    "stolen_bases": 0,
+    "runs": 88,
+    "batting_avg": ".307",
+    "obp": ".367",
+    "slg": ".488",
+    "ops": ".855",
+    "ops_plus": 140,
+    "war": 6.7,
+    "all_star": 18,
+    "gold_gloves": 1,
+    "awards": "AL MVP 1954 (second of three; also 1951, 1955). Never finished lower than 4th in MVP voting from 1950–1957. Led AL catchers in HR and RBI in each of 9 consecutive seasons (1949–1957). Led Yankees in RBI for 7 consecutive seasons (1949–1955). 18x All-Star. 1x Gold Glove (1958, first year GG existed). First pinch-hit HR in World Series history (1947).",
+    "world_series": "14 WS appearances, 10 championships — the most of any player in baseball history. All-time WS records: hits (71), plate appearances (295). Career WS: .274 BA, 12 HR, 39 RBI, 41 runs in 75 games. Caught Don Larsen's perfect game (1956 WS Game 5) — the only perfect game in postseason history. Batted .429 in the 1953 WS (6-game Yankees win). First pinch-hit HR in WS history (1947, Game 3 vs. Dodgers).",
+    "career_avg": ".285",
+    "career_hits": 2150,
+    "career_hr": 358,
+    "career_war": 59.5,
+    "career_rbi": 1430,
+    "career_notes": "19 seasons, primarily New York Yankees (1946–1963), 1 game with Mets (1965). 3x AL MVP (1951, 1954, 1955). 18x All-Star. 1x Gold Glove. 10 WS championships as player. Caught at least 100 games in 10 seasons. Career walks exceeded strikeouts in 7 seasons — the signature of the bad-ball contact hitter. Most consecutive errorless games by a catcher (148 — since broken). Most consecutive chances handled (950 — since broken). Led AL catchers in games caught 8 times. Purple Heart recipient (WWII). Appeared as player, coach, or manager in 21 World Series, winning 13. Only the second manager to win pennants in both AL and NL (1964 Yankees, 1973 Mets). Career OPS+ 125 across 19 seasons at the most physically demanding position in the game."
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 5,
+    "pow": 2,
+    "spd": 0,
+    "def": 3,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "con": ".307 BA (1954) is in the .300-.329 = 4 band. OPS+ 140 clears the ≥130 bonus → CON 5. The contact profile: Berra walked more than he struck out in multiple seasons; he made contact on pitches outside the strike zone that professional hitters are supposed to take; he had over 2,150 career hits from the catcher's crouch. The CON 5 bonus reflects not just the 1954 average but the structural nature of his contact. He was a bad-ball hitter who was impossible to neutralize because the strike zone that applied to every other hitter did not apply to him.",
+    "pow": "22 HR (1954) is in the 20-29 = 2 band. SLG .488 falls just short of the ≥.500 bonus. POW 2 reflects the 1954 season accurately. His career HR peak was 30 (1952, 1956). The 1954 card prioritizes the MVP season at .307/125 RBI over a higher HR year. Berra's offensive value was CON-RBI-CLU, not POW-driven.",
+    "spd": "Zero stolen bases in 1954; career 30 SB across 19 seasons at catcher. The slowest position player in the set by formula. SPD 0 — first in the set for a position player with CON 5. The complete opposite of the Mantle speed profile on the same Dreamers 1950 team.",
+    "def": "Pre-Gold Glove era for the card year (GG introduced 1957; Berra won in 1958). Historical reputation rule applied. Record for most consecutive errorless games by a catcher (148) and most consecutive chances handled (950) at the time of retirement. Led AL catchers in games caught 8 times, putouts 8 times, double plays 6 times. Caught Don Larsen's perfect game — the defining defensive act in WS history. DEF 3 — first catcher in the set at DEF 3. The catching intelligence was also psychological: Bill Dickey taught him to chatter constantly with opposing batters to disrupt their concentration; Berra became the most effective psychological defensive weapon behind the plate.",
+    "clu": "14 WS appearances, 10 championships. All-time WS records: hits (71), plate appearances (295). 12 WS HR, 39 WS RBI in 75 games. First pinch-hit HR in WS history. Caught the only perfect game in WS history. Batted .429 in the 1953 WS. Never stopped insisting Jackie Robinson was out at home in the 1955 WS. 'He'd fall in a sewer and come up with a gold watch' — Casey Stengel. CLU 3 (maximum). Berra and Mantle are the bookends of the Yankees dynasty: Mantle has the all-time WS HR/RBI/runs records; Berra has the all-time WS hits/PA records and the 10 championships. CLU 3 on both cards reflects a shared dynasty from different angles."
+  },
+
+  "personality": {
+    "leadership_style": "Unconscious genius. Berra led not through authority or charisma in the conventional sense but through the sheer weight of his success and the warmth of his presence. Casey Stengel built the Yankees dynasty around a 5'8\" catcher from The Hill who left school after the eighth grade and talked to opposing batters to disrupt their concentration. The Yogiisms — 'It ain't over till it's over,' 'When you come to a fork in the road, take it' — were laughed at as malapropisms. They were also simply true. He led by being the gravitational center of winning.",
+    "temperament": "Cheerful, stubborn, and possessed of the most principled sense of personal dignity in the set. He refused to return to Yankee Stadium for 14 years because Steinbrenner broke a promise and sent someone else to deliver the bad news. He still insists Jackie Robinson was out at home in the 1955 WS — still signs photos 'He was out.' The cheerfulness and the stubbornness are the same thing: Yogi had decided what was right and no amount of argument would change it.",
+    "work_ethic": "Bill Dickey took Berra's raw catching talent and built it into something systematic. 'He is learning me his experience,' Berra said of Dickey. The malapropism contained the truth: Berra absorbed the experience and made it his own. His catching intelligence — calling pitches, positioning fielders, managing pitcher psychology — was as sophisticated as any in the game. The apparent simplicity of the Yogiisms disguised a deeply intuitive baseball mind.",
+    "lifestyle": "The Hill, St. Louis. The tight-knit Italian immigrant neighborhood where Pietro Berra had come from Malvaglio, near Milan, through Ellis Island, and built a family. Joe Garagiola across the street. St. Ambrose Catholic Church. The community that produced both the work ethic and the accent and the syntax that the press mocked and the country eventually loved. He married Carmen Short of Salem, Missouri, in 1949 and they were together until her death in 2014, 65 years.",
+    "era_adaptability": "MAXIMUM. A left-handed contact catcher with elite defensive instincts who makes contact on pitches outside the zone and delivers in October every time adapts to every era. The bad-ball hitting would be even more valuable in the modern era where pitchers are trained to work the edges — Berra attacked edges. The catching intelligence is timeless.",
+    "clubhouse_impact": "The sun around which the Yankees laughed. Where Mantle was the physical sun — the talent everyone orbited — Berra was the warmth. The Yogiisms created a culture of relaxed confidence that the Yankees dynasty ran on. 'If the world were perfect, it wouldn't be.' The catcher who made pitchers better by catching them, batters worse by talking to them, and teammates looser by being himself.",
+    "dark_side": "The 14-year Steinbrenner estrangement is not a dark side — it is a principled stand. The dark side, if there is one, is the question of what Berra might have been acknowledged as if the Yogiisms had not become the dominant story. He is remembered as the funny catcher. He was also the best catcher of his era by most measures, a D-Day veteran, and a three-time MVP who never finished below fourth in voting for eight consecutive years. The comedy obscured the greatness. He is the most underrated player in the Hall of Fame, which is saying something given that he is universally beloved."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "It Ain't Over",
+      "desc": "Once per game in ILB, Berra may activate a 'Rally' when trailing by 1-3 runs in the 7th inning or later. Named for the Yogiism. Mechanically, it is simply that Berra's presence extends the competitive window."
+    },
+    {
+      "tag": "The Perfect Game",
+      "desc": "When Berra catches a game where the starting pitcher has a no-hitter through 6 innings, +1 to pitcher's CTL for the remainder of the game. References his 1956 WS Game 5 — the only perfect game in postseason history."
+    },
+    {
+      "tag": "He Was Out",
+      "desc": "Berra still insists Robinson was safe on the 1955 WS Game 1 stolen home. In ILB, when Berra is behind the plate, all close tag plays at home are contested. He never concedes the call."
+    },
+    {
+      "tag": "Bad Ball",
+      "desc": "Berra's strike zone was his own. In ILB, pitchers cannot work around him effectively — any pitch within 6 inches of the zone is hittable for Berra at full CON. The cardinal rule of pitching (work the edges) does not apply."
+    },
+    {
+      "tag": "He Is Learning Me His Experience",
+      "desc": "When Bill Dickey is in the same organization (coach or scout), Berra's DEF increases by +1. Cross-card chemical bond with the predecessor who made Berra the catcher he became."
+    },
+    {
+      "tag": "Mantle's Backstop",
+      "desc": "When Berra and Mantle are in the same lineup (both Dreamers 1950), the Yankees dynasty chemistry is active: CLU +1 for both players in WS scenarios. The two bookends of the dynasty."
+    },
+    {
+      "tag": "The Steinbrenner Principle",
+      "desc": "If a manager fires Berra without a personal conversation, Berra refuses to return to that organization until a personal in-person apology is delivered. Permanent institutional loyalty trait: he will not be managed by proxies."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Community Events",
+      "affinity": "SACRED",
+      "note": "Yankee Stadium — Monument Park, the number 8 plaque. The third Yankee Stadium SACRED in the set (after Gehrig's farewell, Mantle's center field). Berra's is the smallest: a plaque citing 'It ain't over till it's over.' The catcher who made the dynasty run.",
+      "note_extra": "Source labeled 'Yankee Stadium / Monument Park / No. 8' / affinity 'SACRED' — eighth SACRED in the set and the third Yankee Stadium SACRED. The progression of Yankee Stadium SACREDs tells the dynasty's whole story: Gehrig (the farewell speech, 1939 — the foundation), Mantle (the 18-season occupation of center field, the DiMaggio inheritance), and now Berra (the backstop, the 10 championships, the plaque that quotes a Yogiism). Berra's SACRED is the most intimate of the three — the smallest object (a plaque on a wall) encoding the largest number of championships (10). The Museum documents the plaque's citation: 'A legendary Yankee.' The number 8 was jointly retired for Berra and Bill Dickey — the only jointly retired number in Yankees history. Two catchers, two eras, one number. The 'He Is Learning Me His Experience' chemistry_trait connects Dickey's instruction to Berra's execution. The SACRED domain is Community Events because Yankee Stadium as Monument Park is explicitly a civic memorial space rather than a workplace — the plaque is a permanent public commemoration."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "The Hill, St. Louis. Pietro Berra's journey from Malvaglio through Ellis Island to The Hill. Joe Garagiola across the street. St. Ambrose Catholic Church. The immigrant community that built the Yankee dynasty's backbone.",
+      "note_extra": "Source labeled 'The Hill / St. Louis / Pietro / Italian Community' / affinity 'HIGH' — nineteenth Hotel/Rest/HIGH in the set. Berra's is the most explicitly communal HOME domain in the set. The Hill was not just a neighborhood — it was a complete social world built by Italian immigrants who recreated the community structures of northern Italy in a Missouri industrial city. Pietro arrived alone in 1909, worked to establish himself, then brought his wife and children from Italy. The Museum's biography: 'Like many other immigrant neighborhoods in the United States, The Hill was a tight-knit community where neighbors knew neighbors.' Berra described it as 'an ideal place to grow up.' Joe Garagiola, who lived across the street and was offered the larger Cardinals signing bonus, became a lifelong friend. The Hotel/Rest domain is used rather than Community Events because The Hill was primarily a domestic/residential space rather than a public civic one — it was the neighborhood, the home, the block, the church, not a stadium or event. The ORIGIN uses Community Events because the immigrant origin story is the broader sociological context; the HOME HIGH encodes the specific daily warmth."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Spartanburg, SC / St. Louis, The Hill. Pietro Berra from Malvaglio, Italy. Ellis Island 1909. The Italian immigrant family that produced the Yankees catcher who caught the only perfect game in postseason history.",
+      "note_extra": "Source labeled 'Malvaglio / Ellis Island / St. Louis / The Hill / Pietro' / affinity 'ORIGIN' — tenth standalone ORIGIN in the set. Berra's is the only ORIGIN in the set that begins in Italy and crosses an ocean. Rosen's ORIGIN begins in Spartanburg, SC with a grandfather from Poland; Berra's begins in Malvaglio, a northern Italian town near Milan, with a father who came through Ellis Island alone in 1909. Pietro Berra did not know what baseball was. He came to work. The son he raised in the immigrant community he built in St. Louis became the player who won more World Series than anyone in baseball history and whose words entered the permanent American language. The Community Events domain is used because the ORIGIN encompasses the complete immigration narrative — the Atlantic crossing, Ellis Island, the relocation to St. Louis — rather than a single domestic space. The 'Yogiism' action card is the cultural endpoint of this ORIGIN."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Bill Dickey teaching Berra how to catch. 'He is learning me his experience.' The construction of the greatest defensive catcher of the 1950s from a raw, erratic backstop who played mostly outfield in his first three seasons.",
+      "note_extra": "Source labeled 'Bill Dickey / Catching Instruction / 1949' / affinity 'HIGH' — sixteenth Practice Field/HIGH in the set. Berra's is the most mentor-specific in the set — not a facility or a regimen but a relationship. Casey Stengel arrived in 1949 and immediately assigned Bill Dickey to work with Berra on his catching. The SABR BioProject: 'Dickey also helped him improve his ability to call the right pitches for his pitchers and taught him to chatter constantly with opposing batters, which often disrupted their concentration.' The malapropism — 'He is learning me his experience' — is the most famous sentence ever uttered about baseball instruction. It contains the whole truth: Berra did not just receive Dickey's knowledge; he transformed it into something that was uniquely his own. The chemistry_trait 'He Is Learning Me His Experience' encodes the mechanical cross-field bond. By 1950 Berra was the best catcher in the AL. By 1954 he was the AL MVP."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HAUNTED",
+      "note": "Omaha Beach, June 6, 1944. A six-man rocket boat 36 feet long. Machine guns and rockets fired at the German defenses. Ten days on the water before returning to the USS Bayfield.",
+      "note_extra": "Source labeled 'D-Day / Normandy / Omaha Beach / 1944' / affinity 'HAUNTED' — sixth HAUNTED in the set (after Holmes/Jury Box, Cooper/Elbow, Blackwell/Nuremberg, Doby/Comiskey 1947, Mantle/Lenox Hill). Berra's is the first HAUNTED for a combat site in the set. Rosen's Okinawa service is encoded as ORIGIN-adjacent (the Navy service is part of his biographical context); Berra's D-Day is a HAUNTED because the specific event — June 6, 1944, Omaha Beach — was one of the most historically consequential days of the 20th century, and the 19-year-old Italian-American from The Hill who was on that rocket boat never talked about it much. The HAUNTED affinity encodes the reverb — the thing that stays with you that you don't discuss. Berra was shot at Marseille and received a Purple Heart. He spent 10 days on a 36-foot boat off the Normandy coast. He was 19. He came home and became Yogi Berra. The Community Events domain is used because D-Day is a historically public event with lasting civic significance — it is not a private hotel room or a medical space but one of the defining public events of the century that a private person happened to be part of."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "World Series — 14 appearances, 10 championships, all-time hits (71) and PA (295) records; CLU 3 maximum activates immediately.",
+      "Late-game pressure — 'He batted well under pressure and was at his best late in the game when runners were on base.' The bad-ball hitter is hardest to neutralize when the game is on the line.",
+      "Catching a hot pitcher — DEF 3 means Berra maximizes every pitcher's performance; when the pitcher is on, Berra makes them better.",
+      "The Hill connection — Italian community events and fan warmth generate team-wide morale bonus."
+    ],
+    "cold_triggers": [
+      "Institutional betrayal — The Steinbrenner Principle: if management breaks a promise, Berra's engagement drops to minimum until a personal apology is delivered.",
+      "The Robinson dispute — the 1955 WS stolen home remains contested; in Dodgers-Yankees scenarios, Berra's cold trigger is any close play at the plate.",
+      "Aging catcher body — by 1960-63, catching 150 games is no longer possible; OVR declines as position switches to outfield.",
+      "Mocked intelligence — early career press ridicule for appearance and speech was a genuine cold trigger; the Yogiisms were initially received as evidence of stupidity."
+    ],
+    "pressure_response": "The definitive pressure response in the set. 14 World Series, 10 championships. .274 BA in 75 WS games with 12 HR and 39 RBI. Berra's WS batting average is higher than his career regular-season average. He was better in October than in April. 'He'd fall in a sewer and come up with a gold watch.' — Casey Stengel. Where Mantle's pressure response is explosive and binary (tape-measure HR or strikeout), Berra's is steady and cumulative: hit after hit after hit after hit, .307 with 125 RBI in 1954, .429 in the 1953 WS, and 10 championships. The most reliable October player in baseball history."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "He Was Out",
+      "type": "Drama",
+      "text": "In the first game of the World Series, the opposing team's player steals home. The umpire calls him safe. Your catcher argues vociferously, jumping up and down. He is overruled. Your team loses the game. Your catcher never stops arguing. Sixty years later, he still signs photographs of the play with the words: 'He was out.' The umpire is gone. The player who stole home is in the Hall of Fame. Your catcher is also in the Hall of Fame. He was out.",
+      "origin": "1955 World Series, Game 1. Jackie Robinson stole home against the Yankees with Berra behind the plate. Umpire Bill Summers called Robinson safe. Berra argued the call for the rest of his life and signed photographs of the play 'He was out.' Robinson was safe; Berra insisted otherwise until his death."
+    },
+    {
+      "title": "The Perfect Game",
+      "type": "Game Action",
+      "text": "In the fifth game of the World Series, your catcher calls every pitch of the only perfect game ever thrown in postseason history. Twenty-seven batters. No hits, no walks, no errors. Your catcher runs to the pitcher on the last strike and leaps into his arms. The photograph of this moment becomes one of the most famous in sports history. Your catcher called every pitch.",
+      "origin": "1956 World Series, Game 5. Don Larsen's perfect game — the only perfect game in postseason history. Berra called all 97 pitches. He caught the final out and leaped into Larsen's arms. The photograph is iconic. Larsen threw the game; Berra caught it."
+    },
+    {
+      "title": "He Is Learning Me His Experience",
+      "type": "Drama",
+      "text": "Your catcher is raw. He plays mostly outfield his first three seasons because his catching is erratic. His manager assigns the greatest catcher of the previous generation to teach him. 'He is learning me his experience,' your catcher explains to reporters. They laugh. Two years later your catcher wins the MVP award. The sentence was true. The experience was learned.",
+      "origin": "1949. Casey Stengel assigned Bill Dickey to work with Berra on his catching mechanics and pitch-calling. Berra described the instruction: 'He is learning me his experience.' The reporters wrote it as evidence of Berra's verbal confusion. By 1951 he was the AL MVP."
+    },
+    {
+      "title": "Omaha Beach",
+      "type": "Drama",
+      "text": "June 6, 1944. Your catcher is 19 years old. He is on a six-man rocket boat thirty-six feet long, firing machine guns and launching rockets at the German fortifications on a French beach. He will spend ten days on the boat before returning to his ship. He will be shot at Marseille. He will receive a Purple Heart. He will return to America, play 19 seasons, catch the only perfect game in World Series history, win 10 championships, and become famous for a series of ungrammatical sayings that contain more wisdom than most planned speeches. He never talked about the boat much.",
+      "origin": "June 6, 1944. Berra served as a gunner's mate on a Navy rocket boat during the Normandy landings, firing at German defenses on Omaha Beach. He spent 10 days on the boat. He was later shot and wounded at Marseille and received a Purple Heart. He was honorably discharged in 1946 and went on to play for the Yankees that fall."
+    },
+    {
+      "title": "The Steinbrenner Principle",
+      "type": "Drama",
+      "text": "Your manager is fired sixteen games into the season by an owner who promised he would not be fired. The owner sends someone else to deliver the news. Your manager does not enter the owner's stadium for the next fourteen years. When the owner finally comes to your manager's house in New Jersey to apologize in person, your manager accepts. The principle is simple: if you break a promise to me, you come to me. Not through an intermediary. Personally.",
+      "origin": "1985. Steinbrenner fired Berra 16 games into the season despite promising not to. He sent Clyde King to deliver the news rather than doing it himself. Berra refused to enter Yankee Stadium until 1999, when Steinbrenner traveled to Berra's home in Montclair, NJ to apologize in person. 'Yogi Berra Day' was held at Yankee Stadium on July 18, 1999, the same day David Cone threw a perfect game."
+    },
+    {
+      "title": "Yogi Berra Day",
+      "type": "Legacy",
+      "text": "On the day your organization finally welcomes your catcher back after a fourteen-year estrangement, one of your pitchers throws a perfect game. Your catcher is in the stands. The pitcher is on the mound. The last time your catcher was involved in a perfect game, he was behind the plate. Today he is watching. It is the most fitting welcome in baseball history. 'It's like déjà vu all over again.'",
+      "origin": "July 18, 1999. Yogi Berra Day at Yankee Stadium, marking his reconciliation with the organization after the Steinbrenner feud. David Cone threw a perfect game that afternoon. Berra was present. He had caught Don Larsen's perfect game in the 1956 WS Game 5. The symmetry was widely noted."
+    },
+    {
+      "title": "It Ain't Over",
+      "type": "Legacy",
+      "text": "Your manager says it in 1973 when his team is in last place in August and wins the pennant anyway. The statement is mathematically true. The statement becomes one of the most quoted sentences in American life. Later, your manager says: 'I didn't really say everything I said.' That is also true.",
+      "origin": "Berra as Mets manager in 1973, when the team was in last place in late August. His famous Yogiism 'It ain't over till it's over' reportedly originated during that season. The Mets won the NL pennant. 'I didn't really say everything I said' is one of Berra's most famous meta-Yogiisms — a comment on the phenomenon of his own attributed quotations."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'8\", 185 lbs — the body that Collier's magazine said 'only an anthropologist could love.' Short, squat, built like a vault rather than a monument. The face that launched a thousand Yogiisms and caught the only perfect game in postseason history. In 1954 he is 29 years old and has already won two MVP awards and seven World Series championships. The face knows this and is not impressed by it. He is simply there, present, ready to call the next pitch.",
+    "attire": "New York Yankees home pinstripes, number 8, catcher's equipment either partially on or resting at his feet. The left-handed batter's stance — compact, level, the swing that made contact on balls outside the strike zone because the zone that applied to everyone else did not apply to Berra.",
+    "mood": "Alert cheerfulness. The most deceptive mood in the set: Berra looked relaxed because he was relaxed, and he was relaxed because he knew exactly what he was doing. The Yogiisms were not confusion — they were compression. The face behind the mask of the only catcher to catch a perfect game in October, who was also the only person in the stadium who had been on a rocket boat at Omaha Beach ten years earlier.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Yankee Stadium in the background — the center field monuments visible behind him. The Hill of St. Louis is encoded in the face but the Stadium is the context.",
+    "reference": "The Yogi Berra Museum's description is the art direction: 'He was a child of Italian immigrants, a World War II Navy gunner who served at D-Day, a record-holding athlete, a Major League coach and manager, a husband and father, an engaged community member, a friend to many and, famously, a one-of-a-kind master with language who uttered some of the most frequently recalled sayings in American life.' The card should show all of this in the face of a 29-year-old catcher who is already winning his second MVP and does not think this is unusual."
+  }
+}

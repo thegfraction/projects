@@ -1,0 +1,206 @@
+{
+  "card_type": "player",
+  "name": "Ferris Fain",
+  "nickname": "Cocky / Burrhead / Fearless Ferris",
+  "year": 1951,
+  "team": "Philadelphia Athletics",
+  "league": "American League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "1B",
+  "bats": "L",
+  "throws": "L",
+  "height": "5'11\"",
+  "weight": "180 lbs",
+  "born": "March 29, 1921 — San Antonio, TX",
+  "died": "October 18, 2001 — Georgetown, CA",
+  "hof": "Not inducted",
+
+  "real_stats": {
+    "season": 1951,
+    "games": 117,
+    "at_bats": 425,
+    "hits": 146,
+    "doubles": 30,
+    "triples": 4,
+    "home_runs": 6,
+    "rbi": 57,
+    "stolen_bases": 8,
+    "runs": 83,
+    "batting_avg": ".344",
+    "obp": ".451",
+    "slg": ".471",
+    "ops": ".921",
+    "ops_plus": 160,
+    "war": 7.0,
+    "all_star": 5,
+    "gold_gloves": 0,
+    "awards": "AL Batting Title 1951 (.344) and 1952 (.327) — consecutive. The Sporting News Outstanding Player of the Year 1951. 5x AL All-Star (1950-1954). First AL player in history to be traded as reigning batting champion (after 1952 season). Career OBP .424 — 13th highest in MLB history. Only player in MLB history to win a batting title and have a higher ratio of walks to hits than Ted Williams. Fourth-best strikeout-to-walk ratio in ML history (behind Joe Sewell, Mickey Cochrane, Tommy Holmes). Led AL in OBP (1951, 1952) and doubles (1952, 43).",
+    "world_series": "None. Career: zero postseason appearances.",
+    "career_avg": ".290",
+    "career_hits": 1139,
+    "career_hr": 48,
+    "career_war": 27.4,
+    "career_rbi": 570,
+    "career_notes": "9 seasons (1947-1955), Philadelphia Athletics (1947-1952), Chicago White Sox (1953-1954), Detroit Tigers / Cleveland Indians (1955). 904 career walks vs. 261 career strikeouts. OBP of .400 or better in every season he played at least 70 games (failed only once, .399 in 1954 partial season). Set ML record for DP by a first baseman (194 in 1949) — part of the A's team record of 217 DP that year. Led AL 1B in assists multiple times. Widely regarded as the best defensive first baseman of his era. Career ended by knee injuries at 34. Traded after 1952 — first time in AL history a reigning batting champion was traded. Grew up in Oakland; played for SF Seals PCL; WWII Army service (Hickam Field, Hawaii — teammates included DiMaggio, Red Ruffing, Joe Gordon). Sentenced to 18 months for marijuana possession/sale in the 1980s. Died of leukemia and diabetes, 2001."
+  },
+
+  "ilb_stats": {
+    "ovr": 7,
+    "con": 5,
+    "pow": 0,
+    "spd": 1,
+    "def": 3,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": ".344 BA (1951) clears the .330+ = 5 band. OPS+ 160 clears the ≥130 bonus — already at 5. CON 5 is unambiguous. The contact depth: 904 career walks vs. 261 career strikeouts. Bill James: 'the only player in major league history who (a) won a batting title, and (b) had a higher ratio of walks to hits than Ted Williams.' The fourth-best strikeout/walk ratio in ML history. The 1951 batting title was won on a broken foot — he played 117 games instead of a full season and still led the league at .344. CON 5 represents not just the batting average but the structural nature of Fain's contact: he made contact on pitches he chose to swing at and did not swing at pitches he didn't choose. The discipline was as fundamental as the bat speed.",
+    "pow": "6 HR (1951). SLG .471 — under the .500 bonus threshold. POW formula: 0-9 HR = 0. POW 0 is accurate for the 1951 season and for Fain's career profile (48 HR in 9 seasons; career SLG .396). The first batting champion in the set with POW 0. The first 1B in the set with POW 0. The CON 5 / POW 0 combination at 1B is unique in the set — the antithesis of Rosen's CON 5 / POW 5 at 3B and the structural embodiment of Fain's value: he reached base at a .451 clip and hit the ball into gaps, not over fences.",
+    "spd": "Approximately 8 SB (1951). 6-15 range = SPD 1. Career 46 SB — modest but not zero. The aggressive baserunning was expressed through first base defense (charging bunts, taking extra bases on throws) rather than stolen base attempts.",
+    "def": "Pre-Gold Glove era (GG introduced 1957; Fain retired 1955). Historical reputation rule applied. Set ML record for DP by a first baseman (194, 1949). Led AL 1B in assists multiple times. White Sox GM Frank Lane on acquiring Fain: 'the finest defensive infield in baseball.' White Sox manager Paul Richards: 'the best all-around first baseman in the league.' Famous for charging bunts to the third-base line — a play other 1B would not attempt. The errors were a byproduct of aggression: he attempted plays that other first basemen would not, and he sometimes failed. DEF 3 — first 1B in the set at DEF 3. The defensive reputation is unanimous among contemporaries.",
+    "clu": "Zero World Series appearances across a 9-season career with four different teams. No postseason. No documented late-season hero moments. CLU 0 — first batting champion in the set with CLU 0. The combination of CON 5 / CLU 0 is the Fain paradox: the most precise contact/OBP first baseman in the set, completely absent from October. The .290 career average on losing Philadelphia Athletics teams for six seasons before the 1952 trade encoded his relationship to the postseason: he never got there."
+  },
+
+  "personality": {
+    "leadership_style": "Combustible captain. Named team captain of the Athletics in 1951 — the year he won his first batting title. The designation was accurate and ironic simultaneously: Fain led by intensity, example, and the constant threat of violence. 'If I'm not going well, I can't joke about it. I want to win whether I'm playing baseball or pinochle. I don't know how to play any other way than all-out, and if I get red-necked at times, I can't help it.' The temper was not performance. It was constitution.",
+    "temperament": "Explosive and unmanageable on both sides of his best qualities. The same aggression that made him charge third-base-line bunts and throw to impossible bases also put him in bar fights where he broke his own fingers and hid the injury from his manager. 'He wanted to fight someone all the time,' said Gus Zernial. 'He was fiery in the clubhouse and on the field, and if there was a fight, he was in the middle of it.' The drinking was episodic, not constant — but episodic meant entire seasons derailed. The A's traded the reigning batting champion because they were tired of him. This had never happened before in AL history.",
+    "work_ethic": "Ferocious, when channeled. In 1952, having broken his finger in a tavern fight, he played through the injury while telling his manager it was a car door. He won the batting title anyway — .327, second consecutive, despite the injury. The preparation was genuine: he worked on his legs in the offseason, took his plate discipline seriously as a craft, and led the PCL in walks (129) the year he returned from WWII service before the A's drafted him. The discipline at the plate was the work of a professional who understood that walks were as valuable as hits.",
+    "lifestyle": "The most complicated biographical origin in the Dreamers set. His father Oscar was a jockey — the #2 jockey in the nation in 1913, second place in the 1912 Kentucky Derby on a 20-1 shot named Duval. Too big to ride after a few years, Oscar switched to prize fighting. The parents split when Ferris was young; Oscar died in 1934 when Ferris was 13, largely a stranger. His mother did domestic work to survive. Ferris went to Oakland, became student body president at Roosevelt High School, signed with the San Francisco Seals at 18, and became the best defensive first baseman of his era — a man who liked to fight, chose baseball over professional boxing because the pay was steadier, and continued fighting in barrooms, bathrooms, bullpens, and dugouts his entire career. In retirement: grew marijuana commercially, was arrested, served 18 months, told a reporter in 1994 that he 'knew how to grow the stuff' and was 'as adept at it as I was in playing baseball.'",
+    "era_adaptability": "HIGH for contact/OBP. Fain's .424 career OBP translates directly to any era — the walk rate and contact approach are era-neutral. The power deficit (POW 0) would be maximally penalized in the home-run era. But in a dead-ball or contact-dominant context, Fain is the most efficient on-base machine at 1B in the set.",
+    "dark_side": "The drinking. The bar fights that cost him fingers, games, and eventually his career trajectory. The 1953 season torpedoed by a brawl in a Maryland café with White Sox fans that resulted in criminal charges and a $35,000 contract season that produced .256 and a 6th-place finish. The marijuana farming and 18-month prison sentence in the 1980s. The reclusive final years with his second wife in Georgetown, California. 'If I had behaved more,' Fain admitted, 'I probably would have realized my dream of becoming a manager.' The drinking and the temper and the precise contact hitter are all the same man. They cannot be separated. The same aggression that made him charge bunts also put him in those bars."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Cocky",
+      "desc": "Fain's nickname was earned. In ILB, Fain's CON does not degrade from trash talk, brushback pitches, or intimidation attempts. The aggression that would cold-trigger other players is neutral or positive for Fain."
+    },
+    {
+      "tag": "The Broken Finger Story",
+      "desc": "In 1952 Fain won the batting title with a broken finger he hid from his manager — the official story was a car door. In ILB, once per season Fain may play through a hand/finger injury at full CON, suppressing the injury report. The deception bonus."
+    },
+    {
+      "tag": "Charge the Bunt",
+      "desc": "Fain's signature defensive play: charging third-base-line bunts and throwing to first, second, or third. In ILB, DEF 3 triggers an extra double-play attempt once per game on bunt situations. Other first basemen do not attempt this play."
+    },
+    {
+      "tag": "Better Than Williams",
+      "desc": "The only batting champion in ML history with a higher ratio of walks to hits than Ted Williams. In ILB, when facing Ted Williams on the opposing team, Fain receives a CON +1 — the competitive recognition that he belongs in the same conversation, which he does not otherwise receive."
+    },
+    {
+      "tag": "No October",
+      "desc": "Zero World Series. Zero postseason in 9 seasons. In ILB, Fain's CLU 0 is permanent and irrevocable. No scenario activates a postseason performance bonus. He simply was never there."
+    },
+    {
+      "tag": "The Barroom Constitution",
+      "desc": "Fain missed games due to injuries from bar fights — hidden from management and scored as other causes. In ILB, once per season a 'Barroom Event' roll may occur: success = no effect; failure = -1 game absence, hand injury possible."
+    },
+    {
+      "tag": "Connie Mack's Last",
+      "desc": "Fain was one of the last stars of the Connie Mack Philadelphia Athletics era. In ILB, when playing for a struggling franchise, Fain's individual stats do not degrade from team context — he batted .344 on a team that went 70-84."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "The PCL Seals years under Lefty O'Doul. The plate discipline craft — 136 walks in a season, the walk-to-hit ratio that exceeded Ted Williams. The first baseman's fielding aggression, developed over years before the majors.",
+      "note_extra": "Source labeled 'San Francisco Seals / Lefty O'Doul / Plate Discipline' / affinity 'HIGH' — seventeenth Practice Field/HIGH in the set. Fain's is the most geographically specific PCL origin in the set. Lefty O'Doul was the Seals manager from 1935-1951 and was one of the great hitting instructors of the era. Fain spent 1939-1942 and 1946 under O'Doul at Seals Stadium — six seasons before his major league debut. The plate discipline that produced a .451 OBP in 1951 was built in those years: Fain led the PCL in walks (129) in his return season after WWII service (1946). The Practice Field/HIGH is unusual in this set because it encodes a pre-major-league formation period rather than an in-season or offseason regimen. Fain's craft was constructed at Seals Stadium before anyone in Philadelphia knew his name. The 'Charge the Bunt' chemistry_trait is the defensive expression; the 'Better Than Williams' trait is the plate-discipline expression."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "San Antonio / Oakland. Oscar Fain: Kentucky Derby jockey turned prize fighter, dead at 43 when Ferris was 13. The absent father. Ada Fain, domestic maid. The working-class origin of a batting champion.",
+      "note_extra": "Source labeled 'San Antonio / Oakland / Oscar / Ada / Father Dead at 43' / affinity 'ORIGIN' — eleventh standalone ORIGIN in the set. Fain's is the most violently layered origin in the set. Oscar Fain rode a 20-1 shot named Duval to second place in the 1912 Kentucky Derby — the #2 jockey in the nation in 1913. Too big to ride horses after a few years, Oscar switched to prize fighting. He died in 1934 when Ferris was 13 — an essentially absent figure who nonetheless shaped the son completely: Fain himself 'wanted to be a jockey, but as he outgrew that, he also switched to fighting. He liked to fight and he was good.' The fighting, the jockeying for position, the aggression channeled into competition — these are all Oscar's inheritance. The Community Events domain is used rather than Hotel/Rest because the ORIGIN spans San Antonio and Oakland and encompasses the public history of Oscar's Kentucky Derby career, not just a domestic space. Bill James's description is the clearest statement of the inheritance: 'Fain's father was a top-notch jockey... Later, when he grew too big to ride horses, he switched to prize fighting. His parents split up when he was young. Ferris went with his mother, and his father died in 1934... At first he also wanted to be a jockey, but as he outgrew that, he also switched to fighting. He liked to fight, and he was good, but the pay was steadier playing baseball, so he drifted into baseball, although he continued to fight regularly in barrooms, bathrooms, bullpens and dugouts.'"
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "DAMNED",
+      "note": "The bars. The fights. The broken fingers hidden from management. The brawl in the Maryland café that destroyed the 1953 season. The drinking that made teammates say 'he was his own worst enemy.' The marijuana farming and the 18-month sentence.",
+      "note_extra": "Source labeled 'Bar Fights / Broken Fingers / Maryland Brawl / Marijuana' / affinity 'DAMNED' — fourth DAMNED in the set (after Cooper/Bar-Nightlife, Blackwell/Medical, Doby/Hotel-segregation). Fain's is the most continuous DAMNED in the set — not a single catastrophic event but a lifestyle pattern that ran from his PCL days through his career and into retirement. The SABR BioProject documents the 1952 batting title won on a broken finger from a tavern fight ('I missed the SOB and hit the bar instead'). The 1953 season destroyed by a brawl in a Maryland café resulting in criminal charges. The A's traded their reigning batting champion — the first time in AL history — because they were 'weary of his misbehavior.' The Hotel/Rest domain encompasses both the nightlife bars (the fights) and the domestic aftermath (the marijuana farm, the reclusive retirement). The chemistry_trait 'The Barroom Constitution' is the mechanical cross-field expression. Unlike Cooper's DAMNED (which was documented alcoholism with a tragic arc), Fain's DAMNED is more structural — the violence and the drinking were never fully separated from the play; they were the same temperament, applied in different contexts."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "SACRED",
+      "note": "Shibe Park / Connie Mack Stadium, Philadelphia. The last great Athletics star before the franchise left for Kansas City. The plaque on the Wall of Fame. Fain's name on the plinth of the Connie Mack statue.",
+      "note_extra": "Source labeled 'Shibe Park / Philadelphia Athletics / Connie Mack / Wall of Fame' / affinity 'SACRED' — ninth SACRED in the set. Fain's is the only SACRED in the set that belongs to a franchise that no longer exists in the city where it was earned. The Philadelphia Athletics left for Kansas City after 1954 — one year after Fain was traded. His plaque on the Wall of Fame at Veterans Stadium was later moved to the Philadelphia Athletics Historical Society, then to Spike's Trophies when the society closed. The name is inscribed on the plinth of the Connie Mack statue, moved from Connie Mack Stadium to Citizens Bank Park in 2004. The SACRED encodes the specific civic relationship between Fain and Philadelphia: he was the last batting champion the Athletics produced before they left, the last link in a chain that included Lajoie, Simmons, and Foxx. The SACRED is elegiac — it honors a franchise ghost. Valo (Allies AL1940) had the Shibe Park RF wall SACRED (fifth SACRED in the set). Fain's Shibe Park SACRED is later and more institutional — the Wall of Fame plaque, the franchise departure, the Connie Mack statue plinth."
+    },
+    {
+      "location": "Medical/Recovery",
+      "affinity": "COMPLEX",
+      "note": "The knees that ended the career at 34. The broken foot that limited the 1951 batting title season to 117 games. The broken finger in the 1952 tavern fight, hidden from management. The bar fight injuries that cost him games.",
+      "note_extra": "Source labeled 'Knees / Broken Foot / Broken Finger / Bar Injuries' / affinity 'COMPLEX' — sixth COMPLEX in the set. Fain's is the most self-inflicted COMPLEX in the set — unlike Brecheen's suitcase, Kaline's deformed foot, or Rosen's car accident, Fain's medical history is entangled with his DAMNED affinity. The broken finger in 1952 was from a bar fight, not a fielding play. Some of the games he missed were from bar-fight injuries filed under other causes. The knees that ended the career at 34 may have been accelerated by the lifestyle — the drinking, the fighting, the years on hard PCL and AL infield surfaces. The COMPLEX encodes the medical dimension that sits between the DAMNED (behavioral) and the pure injury (structural): Fain's body broke down because of who he was, not despite it. The chemistry_trait 'The Broken Finger Story' is the cross-field mechanical expression."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Personal insult or challenge — the competitive aggression activates maximum contact; being doubted or disrespected historically produced peak performance.",
+      "Plate discipline situations — full counts, two-out walks, RBI opportunities with runners on base; the contact craft amplifies under tactical pressure.",
+      "Defensive confrontations — charging bunt plays, aggressive throws, contested DP attempts; DEF 3 activates most fully in aggressive situations.",
+      "Connie Mack Stadium — SACRED domain; Fain played best at home, where the plaque eventually went."
+    ],
+    "cold_triggers": [
+      "Barroom Event roll — once per season, the lifestyle catches up. Injury, absence, or reduced attentiveness.",
+      "October (permanent) — CLU 0 is irrevocable. The Philadelphia Athletics of Fain's era were not pennant contenders. He never got there.",
+      "Managerial friction — Fain chafed under authority. The drinking and the temper made 'overdrink and wouldn't be attentive on the field' a known quantity for every manager he played for.",
+      "Post-1952 career arc — the Maryland café brawl, the knee injuries, the White Sox disappointment. The sharp decline from OVR 7 levels after the card year."
+    ],
+    "pressure_response": "Binary. When the pressure was competitive — a batting title race on a broken foot, a career-defining season on a team going 70-84 — Fain performed at his highest level. The isolation from external support (no dynasty, no pennant race, no October) seemed to make the individual performance sharper. He batted .344 in 1951 on a team that won 70 games. He batted .327 in 1952 on a broken finger. When the pressure was social — a fight in a bar, a confrontation in a café — the response was also full commitment. The problem was that both forms of pressure got the same response. There was no scale."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Car Door Story",
+      "type": "Drama",
+      "text": "Your first baseman breaks his finger. The official story, which he tells his manager, is that he caught it in a car door. The actual story, which he tells reporters years later, is that he took a swing at some guy in a tavern fight, missed the man, and hit the bar instead. He played through the injury. He won the batting title. He was .327. Years later: 'I missed the SOB and hit the bar instead.'",
+      "origin": "1952 season. Fain broke his finger in a bar fight late in the season while in a close batting title race with Dale Mitchell. He told manager Jimmie Dykes it was a car door injury. He played through it and won the batting title at .327."
+    },
+    {
+      "title": "Better Than Williams",
+      "type": "Legacy",
+      "text": "Bill James writes: your first baseman is the only player in major league history who (a) won a batting title, and (b) had a higher ratio of walks to hits than Ted Williams. Your first baseman hit six home runs the year he won the batting title. Your first baseman has POW 0. He has a .424 career on-base percentage. He is 13th on the all-time OBP list. He is not in the Hall of Fame.",
+      "origin": "Bill James, The New Bill James Historical Abstract, 2003, page 454: 'Ferris Fain is the only player in major league history who (a) won a batting title, and (b) had a higher ratio of walks to hits than Ted Williams.' Career OBP .424, 13th all-time."
+    },
+    {
+      "title": "Duval",
+      "type": "Origin",
+      "text": "In 1912, a jockey named Oscar Fain rode a 20-1 shot named Duval to second place in the Kentucky Derby. Oscar was the second-best jockey in the nation in 1913. He grew too big to ride horses. He switched to prize fighting. He and his wife split up. He died in 1934, a stranger to his thirteen-year-old son. His son grew up to be the best defensive first baseman of the 1950s and a two-time batting champion. His son also switched to fighting when other options ran out. He was good at it too.",
+      "origin": "Documented biographical origin. Oscar Fain rode Duval to second place in the 1912 Kentucky Derby. Oscar died in 1934. Ferris was raised by his mother, Ada, a domestic maid, in Oakland. The Bill James entry makes the father-son parallel explicit."
+    },
+    {
+      "title": "The Maryland Café",
+      "type": "Drama",
+      "text": "In 1953, your first baseman brawls with several fans of his own team in a café in Maryland. He has the highest contract in White Sox history. There is a Sport magazine cover with him on it asking 'A Pennant for Chicago?' He is charged in connection with the fight. He plays 128 games. He hits .256. The pennant does not come to Chicago.",
+      "origin": "1953 season. Fain was involved in a brawl at a Maryland café with White Sox fans early in the season. He was charged in connection with the fight. His performance collapsed from his back-to-back batting title level to .256, and the White Sox pennant hopes were not fulfilled."
+    },
+    {
+      "title": "The First Traded Batting Champion",
+      "type": "Legacy",
+      "text": "After the 1952 season, the Athletics trade their reigning batting champion. It is the first time in American League history this has happened. The Athletics say they want more power — the first baseman they receive in return has hit 71 home runs in his previous three seasons. The batting champion they traded hit six home runs combined in his two batting title years. This is true. The Athletics are also tired of his behavior. This is also true. Both things are true.",
+      "origin": "January 1953. The Philadelphia Athletics traded Fain — the reigning AL batting champion — to the Chicago White Sox for Eddie Robinson, Ed McGhee, and Joe DeMaestri. It was the first time in AL history a reigning batting champion had been traded. The publicly stated reason was the desire for home run power; the unstated reason was Fain's conduct."
+    },
+    {
+      "title": "Adept at It",
+      "type": "Legacy",
+      "text": "In a 1994 interview, your first baseman explains his retirement business: 'I knew how to grow the stuff. I was as adept at it as I was in playing baseball.' He had been sentenced to eighteen months. He is talking about marijuana farming. He grew up in Oakland. He played nine seasons. He batted .290. He has a .424 career on-base percentage. He is 13th on the all-time list. He is not in the Hall of Fame.",
+      "origin": "Fain was charged with possession with intent to sell marijuana and sentenced to 18 months. In a 1994 interview with The Sacramento Bee, he stated: 'I knew how to grow the stuff. I was as adept at it as I was in playing baseball.'"
+    },
+    {
+      "title": "Charge the Bunt",
+      "type": "Game Action",
+      "text": "The bunt goes down the third-base line. Your first baseman charges. Other first basemen do not charge this play. Your first baseman fields the bunt barehanded near the third base line, turns, and throws. The play is completed. In 1949, his team set the all-time record for double plays in a season. He started 194 of them. This is what he does instead of hitting home runs.",
+      "origin": "Fain's signature defensive play — charging third-base-line bunts — was documented by contemporaries as the play that defined his defensive reputation. In 1949 the Athletics set the ML record with 217 DP; Fain started 194 of them as the first baseman."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'11\", 180 lbs — the compact, stocky body of a man who also considered professional boxing and chose baseball because the pay was steadier, though not by much in terms of physical risk. In 1951 he is 30 years old, at his absolute peak, named team captain of a team going 70-84. The face of someone who has decided something and will not be talked out of it. Possibly the face of someone who has recently been in a bar fight, or is about to be.",
+    "attire": "Philadelphia Athletics home whites — the old block-A, the pre-Kansas City uniform. Left-handed batting stance, the contact hitter's approach: level swing, designed for line drives and gaps, not for fences. The first baseman's glove in the off hand, ready to charge a bunt that no other first baseman would attempt.",
+    "mood": "Competitive hostility in its productive form. In 1951, Fain is winning the batting title on a team losing 84 games, on a broken foot, against opposition that includes Ted Williams and Joe DiMaggio and Yogi Berra. He does not find this unjust. He finds it correct. The mood is: whatever comes next, I will be ready for it, and I will probably be angry about it.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Shibe Park / Connie Mack Stadium faintly visible in the background — the home of the franchise he was the last great star of, before they left for Kansas City.",
+    "reference": "Bill James's description is the art direction: 'He liked to fight, and he was good, but the pay was steadier playing baseball, so he drifted into baseball, although he continued to fight regularly in barrooms, bathrooms, bullpens and dugouts.' The portrait should show a man who chose baseball over boxing by a narrow margin, and who never fully committed to the choice."
+  }
+}

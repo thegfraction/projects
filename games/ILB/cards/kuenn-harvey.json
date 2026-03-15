@@ -1,0 +1,207 @@
+{
+  "card_type": "player",
+  "name": "Harvey Kuenn",
+  "nickname": "Slug",
+  "year": 1959,
+  "team": "Detroit Tigers",
+  "league": "American League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "OF",
+  "position_note": "Shortstop 1953-1957; moved to outfield 1958. Card year is OF. Career identity and ILB origin at SS — the bat always preceded the glove.",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'2\"",
+  "weight": "190 lbs",
+  "born": "December 4, 1930 — West Allis, WI",
+  "died": "February 28, 1988 — Peoria, AZ",
+  "hof": "Not inducted",
+
+  "real_stats": {
+    "season": 1959,
+    "games": 139,
+    "at_bats": 561,
+    "hits": 198,
+    "doubles": 42,
+    "triples": 7,
+    "home_runs": 9,
+    "rbi": 71,
+    "stolen_bases": 9,
+    "runs": 99,
+    "batting_avg": ".353",
+    "obp": ".394",
+    "slg": ".458",
+    "ops": ".852",
+    "ops_plus": 141,
+    "war": 5.5,
+    "all_star": 10,
+    "gold_gloves": 0,
+    "awards": "AL Batting Title 1959 (.353 — 27 points clear of teammate Kaline). AL Rookie of the Year 1953 (23 of 24 votes — first ROY winner with 200+ hits; ML rookie record 167 singles, ML rookie record 679 at-bats). Led AL in hits 1953 (209), 1954 (201), 1956 (196), 1959 (198). Led AL in doubles 1956, 1959 (42). 10x AL All-Star (1953-1959 consecutive, 2x in 1959 and 1960). Career at-bats per strikeout ratio: 17.1 — among the best in AL history. The Sporting News Rookie of the Year 1953. AP AL Manager of the Year 1982.",
+    "world_series": "None as player. Zero career postseason appearances as player. As manager: led 1982 Milwaukee Brewers to AL pennant and WS (lost to Cardinals in 7 games).",
+    "career_avg": ".303",
+    "career_hits": 2092,
+    "career_hr": 87,
+    "career_war": 25.8,
+    "career_rbi": 671,
+    "career_notes": "15 seasons (1952-1966). Detroit Tigers (1952-1959), Cleveland Indians (1960), San Francisco Giants (1961-1965), Chicago Cubs / Philadelphia Phillies (1965-1966). 10x AL All-Star. Career OPS+ 108. Career OBP .357. Struck out 13 times in 656 at-bats (1954). Finished career with 2,092 hits and .303 BA. Traded for Rocky Colavito after 1959 — first time in AL history the batting champion was traded for the home run champion (Fain/1952 was a batting-champion trade; the Kuenn/Colavito straight-up exchange is structurally unique). Made the final out in Sandy Koufax's 1963 no-hitter (groundout back to Koufax) and Koufax's 1965 perfect game (strikeout) — only player to make the final out in two different Koufax no-hitters. AL Players Association rep; member of the four-man committee that hired Marvin Miller in 1965. Open-heart surgery 1976; kidney surgery 1979; right leg amputated below knee 1980. Managed 1982 Milwaukee Brewers (Harvey's Wallbangers) to only WS in franchise history. Died February 28, 1988, aged 57."
+  },
+
+  "ilb_stats": {
+    "ovr": 7,
+    "con": 5,
+    "pow": 0,
+    "spd": 1,
+    "def": 2,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": ".353 BA (1959) clears the .330+ = 5 band. OPS+ 141 clears the ≥130 bonus — already at 5. The contact depth: career 17.1 AB/strikeout ratio among the best in AL history; 13 strikeouts in 656 at-bats in 1954 (second-best AB/K ratio in the AL that year). Casey Stengel: 'The guy can hurt you a million ways. He has no weakness at the plate that I have ever noticed.' CON 5 reflects both the 1959 batting title and the structural nature of his contact across a decade.",
+    "pow": "9 HR (1959). SLG .458 — below the ≥.500 bonus threshold. POW formula: 0-9 HR = 0. POW 0 is the most precise encoding of what the Colavito trade said in plain English: Detroit manager Dykes — 'It was a deal in which we had to trade consistency for power.' Kuenn's value was CON/contact/OBP, not power. Career high was 12 HR (1956). Second consecutive batting champion in the set with POW 0 (after Fain). Two batting titles, zero home run seasons at the 10+ threshold.",
+    "spd": "Approximately 9 SB (1959). 6-15 range = SPD 1. Contemporary scouts rated him 'above-average speed.' His SS range before the position switch was genuine. But the stolen base totals in the late-1950s context (dead-ball-era strategies still dominant) keep the formula output at SPD 1.",
+    "def": "1959 card year: outfield. Pre-Gold Glove for his SS years (GG 1957; he switched in 1958). As OF in 1959 he was rated 'excellent fielder' with good range. No GG won at OF. DEF 2 — solid, above-average, the former shortstop's range still present in the outfield. Not the elite DEF 3 of Doby/Kaline/Mantle but clearly above the DEF 1 floor. The SS origin is the defensive identity — a man who played shortstop by hitting better than anyone and defended by being faster than expected.",
+    "clu": "Zero postseason appearances as a player. 9 seasons with Detroit (never a pennant contender during his tenure), then Cleveland, then the Giants, Cubs, and Phillies. CLU 0 — no October, no late-game hero moments, no WS at-bats. The 1982 WS was as manager, not player. Second consecutive CLU 0 on the Dreamers 1950 roster after Fain."
+  },
+
+  "personality": {
+    "leadership_style": "Easy authority. He called everyone 'Slug.' He kept a six-inch chaw of tobacco jammed in his jaw. He drank beer at a level his teammates found impressive. He led the 1982 Brewers by removing pressure — by telling them to relax and play, by not imposing the anxious urgency that had defined the Buck Rodgers tenure. The team went 72-43 under him. His managerial philosophy was: let the players play. It worked until it didn't (1983 fifth place), but the 1982 pennant was real.",
+    "temperament": "Low-key and durable. The same temperament that produced .306/.306/.332/.353/.308 seasons without a 20-HR year also managed a team through a heart-attack-inducing pennant race on a prosthetic leg without appearing to sweat. He was booed by Cleveland fans in 1960 because he was the man they got instead of Rocky Colavito. He hit .308. He was not the problem.",
+    "work_ethic": "Constructed from the Milwaukee south side outward. Baseball from sunup to sundown as a child — when it rained, he threw the ball against the basement wall. His first signing bonus money went to buying his parents a house. The University of Wisconsin batting average was .382. The ML debut batting average was .325. The batting average never went below .277 until his knees gave out. The consistency was not luck; it was the product of a man who had been building this specific skill since childhood.",
+    "lifestyle": "Milwaukee, always. Born in West Allis, raised on the south side, attended Lutheran High School (53-yard field goal in football, tied for 8th-longest in Wisconsin prep history). University of Wisconsin. Married a former Miss Wisconsin. During off-seasons: worked at a West Allis bank. After retirement: ten o'clock sports anchor at WVTV Milwaukee. His second wife Audrey's family tavern, Cesar's Inn, was the gathering place for the 1982 Brewers. Bob Uecker was his best man. He never left Milwaukee except to play baseball, and he always came back.",
+    "era_adaptability": "MAXIMUM for contact. The .303 lifetime average, the 17.1 AB/K ratio, the lead-off or lineup-filler role in any era — Kuenn's contact profile translates cleanly. The POW 0 is more penalized in the modern power era but his OBP profile (.394 in 1959) and the contact-to-strikeout discipline adapt.",
+    "dark_side": "The body's systematic betrayal. Open-heart surgery in 1976 at 45. Kidney ailment 1979. Right leg amputated below the knee in February 1980 from a blood clot that cut off circulation. He returned to coaching six months later with a prosthetic leg. Managed the 1982 Brewers on that prosthetic leg through one of the great late-season pennant races in AL history. Died at 57 of heart disease and diabetes — not old enough. The physical destruction that shadowed his low-key persona was the story that went untold in the easy-going Slug narrative."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Consistency for Power",
+      "desc": "The trade definition. Traded for Rocky Colavito after the 1959 batting title: batting average for home runs. In ILB, Kuenn's OVR does not degrade when playing on a power-hitting team — he provides CON 5 in a POW lineup without conflict."
+    },
+    {
+      "tag": "Slug",
+      "desc": "Called everyone 'Slug.' In ILB, Kuenn generates a passive +1 team morale bonus when batting .300 or above — the consistency itself is the leadership."
+    },
+    {
+      "tag": "Harvey's Wallbangers",
+      "desc": "As a manager in ILB, Kuenn's passive ability activates: a team with 3+ players at POW 3 or above gets +1 CLU when managed by Kuenn. The wallbanging is the team's gift; the relaxed atmosphere is his."
+    },
+    {
+      "tag": "Koufax's Final Out",
+      "desc": "Made the final out in both Koufax's 1963 no-hitter and 1965 perfect game. In ILB, when facing a pitcher with 6+ innings of no-hit ball, Kuenn's at-bat is designated the 'Final Out Risk' — highest CON available, but the historical pattern is encoded."
+    },
+    {
+      "tag": "The Prosthetic Leg",
+      "desc": "Returned to coaching and managing six months after a below-knee amputation. In ILB, Kuenn's coaching/managing effectiveness is not degraded by any medical event after retirement. The medical cascade is post-career and does not affect the card's active stats."
+    },
+    {
+      "tag": "Kaline's Neighbor",
+      "desc": "Both Kuenn and Kaline were Detroit Tigers in the 1950s — the batting-title pairing. Kuenn won in 1959; Kaline won in 1955. When both are on the Dreamers 1950 lineup, +1 CON for both players — the Tigers contact tandem."
+    },
+    {
+      "tag": "Marvin Miller's Committee",
+      "desc": "Kuenn was on the four-man players association committee that hired Marvin Miller in 1965. In ILB, players union chemistry: Kuenn generates +1 morale for any card tagged as a player rep or union activist."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Community Events",
+      "affinity": "SACRED",
+      "note": "Milwaukee. The south side. County Stadium / American Family Field Walk of Fame. The Milwaukee Brewers Wall of Honor. The hometown boy who came back and took them to the only World Series in franchise history.",
+      "note_extra": "Source labeled 'Milwaukee / County Stadium / Walk of Fame / Wall of Honor' / affinity 'SACRED' — tenth SACRED in the set. Kuenn's is the most geographically complete SACRED in the set — the only player whose SACRED encompasses both his birthplace and the franchise he managed to its only World Series. He was born in West Allis, raised in Milwaukee, attended school in Milwaukee, worked at a Milwaukee bank in the offseason, worked as a Milwaukee TV sports anchor after retirement, and managed the Milwaukee Brewers on a prosthetic leg to the 1982 AL pennant. The SACRED encodes both the player identity (Walk of Fame) and the managerial legacy (Wall of Honor). Where most SACREDs in the set encode a specific space (Yankee Stadium, Shibe Park, Tiger Stadium via Kaline), Kuenn's encodes a city — the full Milwaukee arc from the south side kid throwing balls in the basement to the gimpy blue-collar darling managing the Wallbangers. The chemistry_trait 'Harvey's Wallbangers' is the mechanical cross-field expression."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "The basement wall. Baseball from sunup to sundown. The University of Wisconsin shortstop who batted .436 and .382. The career that was built before anyone in Detroit knew the name.",
+      "note_extra": "Source labeled 'Milwaukee / Basement / Wisconsin / Contact Craft' / affinity 'HIGH' — eighteenth Practice Field/HIGH in the set. Kuenn's is the most domestic and pre-professional Practice Field HIGH in the set. The SABR BioProject: 'He played baseball from sunup to sundown. When it rained, he would take a ball to the basement and throw it around down there.' This is the earliest documented contact formation in the set — a child in a Milwaukee basement throwing a ball against a wall while it rained outside, building the reflexes that would produce a .353 batting title at 28. The Wisconsin career (.436 batting average, first-team All-American) is the Practice Field's formal institutional phase. The chemistry_trait 'Slug' (CON 5 expressed as passive team morale via consistency) is the adult expression."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "West Allis / Milwaukee south side / Lutheran High School. Harvey Sr. and Dorothy Kuenn. The 53-yard field goal. The Highway Beer Depot baseball team. The signing bonus that bought his parents a house.",
+      "note_extra": "Source labeled 'West Allis / Milwaukee South Side / Harvey Sr / Dorothy / Signing Bonus' / affinity 'ORIGIN' — twelfth standalone ORIGIN in the set. Kuenn's is the most specifically working-class Milwaukee origin in the set. The SABR BioProject describes the Belich brothers (Emil was a scout for the Phillies and Braves; 'Tex' ran the Highway Beer Depot team) as influential figures in Kuenn's development — a baseball infrastructure of working-class Milwaukee men who coached and mentored young talent through local amateur leagues. The signing bonus going directly to buy his parents a house is the defining ORIGIN gesture: the first money in his professional career went back to where he came from. The Community Events domain is used because the Milwaukee south side is a specific civic and communal space — not just a family home but a network of schools, teams, mentors, and neighborhoods that formed the player. The SACRED (Milwaukee/Walk of Fame) is the destination endpoint; the ORIGIN is the departure point."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "COMPLEX",
+      "note": "The body's systematic betrayal. Open-heart surgery 1976. Kidney ailment 1979. Right leg amputated below the knee 1980. Managed the 1982 pennant race on a prosthetic. Died at 57.",
+      "note_extra": "Source labeled 'Heart / Kidney / Amputation / Prosthetic / 1980-1988' / affinity 'COMPLEX' — seventh COMPLEX in the set. Kuenn's is the most temporally extended COMPLEX — beginning in 1976 (twelve years before his death) and running continuously through his managing career and final years. The Medical/Recovery domain is replaced here by Hotel/Rest because the medical events were predominantly experienced in hospital recovery spaces and domestic settings rather than team medical facilities. The specific moment — six months after the amputation, back on the coaching staff with a prosthetic leg — is the COMPLEX's pivot: the body failed, the adaptation succeeded, and the 1982 pennant was managed from that adaptation. The chemistry_trait 'The Prosthetic Leg' encodes the mechanical boundary: post-career medical cascade does not affect active card stats. The COMPLEX is biographical, not mechanical."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "CODA",
+      "note": "The final out in Sandy Koufax's 1963 no-hitter and 1965 perfect game. The only player to be the final out in two different Koufax no-hitters. The career did not end; it became a recurring footnote to someone else's greatness.",
+      "note_extra": "Source labeled 'Koufax / 1963 No-Hitter / 1965 Perfect Game / Final Out' / affinity 'CODA' — first CODA affinity for a non-pitcher in the set (the prior CODA was Brecheen's coaching legacy; this is a position player's career resonating through someone else's historical record). Kuenn made the final out in Koufax's May 11, 1963 no-hitter (groundout back to Koufax) and Koufax's September 9, 1965 perfect game (strikeout — the final out of what is widely considered the greatest individual pitching performance in baseball history). The CODA encodes not a loss or a failure but a structural recurrence: Kuenn is the player who was there, twice, at the end of Koufax's most historic moments, without being the story. The CODA is the shape of a career that outlasted its peak years and became a supporting character in someone else's narrative. The chemistry_trait 'Koufax's Final Out' is the mechanical cross-field expression."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Consistent situations — no slump lasts; .277 in 1957 was the career floor and he rebounded to .319 the following year. CON 5 is structurally resistant to extended cold streaks.",
+      "Hit-to-all-fields opportunities — the Kuenn profile is designed for contact, not gaps; pitchers who try to work one zone find that zone is not available.",
+      "Detroit's contact lineup — Kaline's Neighbor trait: the Tigers batting-title tandem activates when Kuenn and Kaline are in the same lineup.",
+      "Milwaukee home games — SACRED domain; the hometown boy in front of his people."
+    ],
+    "cold_triggers": [
+      "October (permanent) — CLU 0 is irrevocable. Zero postseason as a player. The second consecutive CLU 0 on the Dreamers 1950 roster.",
+      "The Colavito shadow — in Cleveland (1960 season), Kuenn was booed by fans who blamed him for Colavito's departure. Attendance drops, crowd hostility, institutional rejection as cold triggers.",
+      "Koufax's Final Out — the recurring historical pattern encodes a specific cold trigger: final outs in elite pitching performances.",
+      "Career arc after 1959 — traded, booed, gradually declining from the batting-title level; the Giants and Cubs and Phillies years are OVR-degraded relative to the Detroit peak."
+    ],
+    "pressure_response": "Steady without being spectacular. The contact hitter under pressure is the hitter who trusts his approach when the approach is the whole game: put the ball in play, get on base, let the lineup work. Kuenn's .353 in 1959 was built on 198 hits and 42 doubles — relentless line-drive contact, not explosive clutch moments. The pressure response under the 1982 pennant race was identical: his team played the way he managed, which was calmly and with power not his own. The Wallbangers hit the home runs. Kuenn provided the atmosphere."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Consistency for Power",
+      "type": "Legacy",
+      "text": "On Easter Sunday, April 17, 1960, two players are told they have been traded for each other. One led the American League in batting average. The other led the American League in home runs. The Detroit manager explains: 'It was a deal in which we had to trade consistency for power.' Both players are All-Stars. Both players are popular with their fans. One fan base hangs their general manager in effigy. The other is merely disappointed. Both teams are trying to solve the same problem with different math.",
+      "origin": "April 17, 1960. Detroit traded Harvey Kuenn (1959 AL batting champion, .353) to Cleveland for Rocky Colavito (1959 AL co-home run champion, 42 HR). Cleveland GM Frank Lane was hanged in effigy by Cleveland fans outraged at the loss of Colavito. The trade is often called 'the curse of Rocky Colavito' in Cleveland history."
+    },
+    {
+      "title": "Koufax's Final Out, 1963",
+      "type": "Game Action",
+      "text": "In the ninth inning of a no-hitter, your outfielder comes to the plate as the final out. He hits a groundball back to the pitcher. The pitcher fields it and throws to first. The no-hitter is complete. Your outfielder is the final out. He has been here before. He will be here again.",
+      "origin": "May 11, 1963. Sandy Koufax's no-hitter against the San Francisco Giants. Harvey Kuenn made the final out — a groundball back to Koufax. Two years later, September 9, 1965, Kuenn made the final out of Koufax's perfect game (strikeout). He is the only player to be the final out in two different Koufax no-hitters."
+    },
+    {
+      "title": "Koufax's Final Out, 1965",
+      "type": "Game Action",
+      "text": "In the ninth inning of a perfect game, your outfielder comes to the plate as the final out. He strikes out. The perfect game is complete. The catcher runs to the pitcher. There is a photograph. Your outfielder is not in it. He was the final out. He had been the final out before. He was the final out in two different perfect or no-hit games pitched by the same pitcher. No other player has done this. It is not a distinction anyone chooses.",
+      "origin": "September 9, 1965. Sandy Koufax's perfect game against the Chicago Cubs. Harvey Kuenn was pinch-hitting and struck out to end the game. Koufax said he had 'the best stuff I've ever had' that night. Kuenn was the final out."
+    },
+    {
+      "title": "The Bonus House",
+      "type": "Origin",
+      "text": "Your shortstop signs for $55,000 in 1952, after his junior year at the University of Wisconsin. He is 21 years old. It is the largest amateur signing bonus in Detroit Tigers history at that time. He uses some of it to buy his parents a house. He grew up on the south side of Milwaukee. He came home with the money and he bought them a house.",
+      "origin": "Documented. When Kuenn signed with Detroit in 1952, one of his first actions with his $55,000 bonus was to buy his parents a new home in Milwaukee. Sourced in Vintage Detroit and multiple biographical accounts."
+    },
+    {
+      "title": "Harvey's Wallbangers",
+      "type": "Legacy",
+      "text": "June 1982. Your manager takes over a team in fifth place, 7.5 games back. The team has Robin Yount, Paul Molitor, Cecil Cooper, and Gorman Thomas. The manager tells them to relax. He has a prosthetic leg. He calls everyone Slug. The team goes 72-43. They win the division on the last day of the season over Baltimore. They come back from 2-0 in the ALCS and beat California. They lose the World Series in seven. The team names themselves 'Harvey's Wallbangers.' The manager is the wallbangers' name. The players are the wallbangers.",
+      "origin": "1982 season. Kuenn took over the Brewers from Buck Rodgers on June 2. The team's power-hitting style and Kuenn's relaxed approach produced the nickname 'Harvey's Wallbangers.' The 1982 Brewers reached the WS with Robin Yount (AL MVP), Paul Molitor, Cecil Cooper, and Gorman Thomas. They lost to the Cardinals in 7. Kuenn managed on a prosthetic leg following his 1980 amputation."
+    },
+    {
+      "title": "The Basement Ball",
+      "type": "Origin",
+      "text": "When it rains, your shortstop goes to the basement and throws a baseball against the wall. He is eight years old. He is nine years old. He is ten years old. He does this until it stops raining. He does this until he can hit .436 at the University of Wisconsin. He does this until he can hit .353 in the American League. He does this until he becomes the kind of hitter who has no weakness at the plate that anyone has ever noticed. The basement is still there. He is not.",
+      "origin": "SABR BioProject: 'He played baseball from sunup to sundown. When it rained, he would take a ball to the basement and throw it around down there.' Kuenn died in 1988 at 57. The childhood home is in Milwaukee's south side."
+    },
+    {
+      "title": "Marvin Miller's Committee",
+      "type": "Legacy",
+      "text": "In 1965, four players are selected to interview candidates for the position of executive director of the Major League Baseball Players Association. Your outfielder is one of them. They hire Marvin Miller. This is the single most consequential hiring decision players have made in the history of their sport. Your outfielder hit .303 for fifteen seasons. He called everyone Slug. He was also, apparently, good at hiring.",
+      "origin": "Harvey Kuenn was a member of the four-man player committee — along with Robin Roberts, Jim Bunning, and Bob Friend — that interviewed and hired Marvin Miller as executive director of the MLBPA in 1965. Miller transformed the MLBPA into the most powerful union in professional sports."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'2\", 190 lbs — the big Wisconsin frame, the six-inch chaw of tobacco in the upper jaw (always), the face of a man who has just gotten a hit and considers this normal. In 1959 he is 28 years old, winning his only batting title, about to be traded for a player who hits home runs. He does not yet know this. The face does not know what is coming in April. It just knows it's September and he's batting .353.",
+    "attire": "Detroit Tigers road gray — the olde English D, the number 25. The right-handed batting stance: upright, level, the swing designed to hit the ball where it is pitched rather than where he wishes it were. The line-drive contact hitter who led the AL in hits four times and never hit more than 12 home runs in a season.",
+    "mood": "Undemonstrative competence. The Kuenn mood is the mood of a man who was born to do exactly this and knows it and does not find it surprising. He will call you Slug. He will get a hit. He will call you Slug again. In 1982 he will manage your team to the World Series on a prosthetic leg and tell the players to relax.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Briggs Stadium / Tiger Stadium faintly visible behind him — the Detroit home he would leave after 1959 in exchange for a man who hit home runs. The south side of Milwaukee is encoded in the posture, not the background.",
+    "reference": "The Vintage Detroit description is the art direction: 'Rangy, soft-spoken, and full of simple good cheer, Kuenn was popular with fans, teammates, and sportswriters. He called everyone Slug, kept a six-inch chaw of tobacco jammed into the upper recesses of his jaw, and drank beer at a championship level. Never one to forget his working-class roots, as a rookie Harvey used a chunk of his bonus money to buy his parents a new house.' The portrait should show a man made entirely of working-class Milwaukee pride and baseball talent, who managed to keep both until the end."
+  }
+}
