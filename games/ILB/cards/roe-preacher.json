@@ -1,0 +1,225 @@
+{
+  "card_type": "player",
+  "name": "Preacher Roe",
+  "nickname": "The Preacher",
+  "year": 1951,
+  "team": "Brooklyn Dodgers",
+  "era": "1950s",
+  "ilb_team": "Dreamers NL1950",
+  "position": "SP",
+  "bats": "L",
+  "throws": "L",
+  "height": "6'2\"",
+  "weight": "170 lbs",
+  "born": "February 26, 1916 — Ash Flat, AR",
+  "died": "November 9, 2008 — West Plains, MO",
+  "hof": "Not inducted (0.8% peak vote). 127-84, 3.43 ERA, .880 W% in 1951 (NL record for 20-game winner). Boy of Summer.",
+
+  "real_stats": {
+    "season": {
+      "year": 1951,
+      "games": 36,
+      "w": 22,
+      "l": 3,
+      "era": "3.04",
+      "k": 133,
+      "bb": 63,
+      "ip": "257.2",
+      "cg": 16,
+      "whip": "1.10",
+      "war": 5.1
+    },
+    "career": {
+      "seasons": 12,
+      "w": 127,
+      "l": 84,
+      "era": "3.43",
+      "k": 956,
+      "cg": 101,
+      "sho": 17,
+      "no_hit": 0,
+      "war": 29.7
+    }
+  },
+
+  "ilb_stats": {
+    "ovr": 7,
+    "stf": 2,
+    "ctl": 3,
+    "sta": 3,
+    "def": 1,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "stf": "3.04 ERA in 1951 — very good but not elite. Roe reinvented himself after a fractured skull destroyed his fastball in 1945. He went from a power pitcher (148 K, led NL in 1945) to a control artist who relied on the spitball, change-of-speed, and deception. Willie Mays: 'He had two fastball speeds — slow, and slower.' Sal Maglie confirmed his fastball 'really wasn't fast at all' but that it surprised batters after a string of off-speed pitches. His ERA+ in 1951 was ~122. K/9 ~4.6 → no bonus. Rating of 2.",
+    "ctl": "BB/9 approximately 2.20 in 1951 (63 BB in 257.2 IP). Led the NL in fewest BB/9 in 1948 and had the league's best K/BB ratio in 1949 (2.5:1). Roe's self-described pitch repertoire: 'My three pitches are my change, my change off my change, and my change off my change off my change.' He could paint corners with four different speeds of the same pitch. Carl Erskine: 'The Preach was a master of his craft. He was a smart control pitcher with a phenomenal sense of timing.' Rating of 3.",
+    "sta": "257.2 IP in 1951 — career high. 16 complete games. Career 101 CG in 261 starts. Despite weighing only 170 lbs on a 6'2\" frame, Roe was remarkably durable across his Dodger years. The spitball extended his career by reducing stress on his arm — it was essentially a 'trick' pitch that required finesse rather than effort. Rating of 3.",
+    "def": "Led NL pitchers in fielding percentage four times (1945, 1948, 1952, 1953). Very reliable defensive pitcher who fielded his position cleanly. Not flashy, but fundamentally sound. Rating of 1.",
+    "clu": "Postseason record: 2-1, 2.54 ERA, 28.1 IP, 3 complete games. In the 1949 World Series Game 2, Roe threw a 6-hit, complete-game shutout against the Yankees to win 1-0 — the Dodgers' only win in the series. He pitched the entire game with a broken finger after Johnny Lindell's line drive tore off half his nail in the 4th inning. The team doctor drilled a hole in the nail and bandaged it. Roe pitched 5 more innings with a throbbing, broken finger. Branch Rickey hugged him afterward and said: 'That boy is an artist — a supreme artist.' Also won Game 3 of the 1952 WS. PS ERA 2.00-4.00 → tier 1, +1 for broken-finger heroism = 2."
+  },
+
+  "personality": {
+    "leadership_style": "Trickster sage. Roe led through wit, intelligence, and deception — on the mound and off it. He played the hillbilly bumpkin for New York sportswriters, spinning yarns in a backcountry drawl, but he had a college degree in education and taught high school math. He led the Dodgers pitching staff with savvy, not charisma — the quiet con artist who always had another trick up his sleeve.",
+    "temperament": "Easy-going, funny, sly. Roe was everyone's favorite teammate — a natural storyteller and clubhouse character. Roger Kahn immortalized him in 'The Boys of Summer' as one of Brooklyn's most colorful figures. But beneath the humor was a fierce competitor who pitched through a broken finger in the World Series and threw an illegal pitch for years without getting caught. He was the fox in farmer's clothing.",
+    "work_ethic": "Self-reinvention. When a fractured skull destroyed his fastball after 1945, Roe didn't quit — he learned the spitball from an old catcher and rebuilt his career around deception. In 1946-47 with the Pirates, he was 7-23 with a 5.19 ERA. By 1949 with the Dodgers, he was 15-6 with a 2.79 ERA. He went from a washed-up power pitcher to one of the NL's best craftsmen through sheer intelligence and willingness to cheat.",
+    "lifestyle": "Country doctor's son from Ash Flat, Arkansas. Attended Harding College on a baseball scholarship, married childhood sweetheart Mozee. Taught high school math and coached basketball in the offseason. After baseball, he opened 'Preacher Roe's Super Market' in West Plains, Missouri. Used his $5,000 signing bonus to buy uniforms for the Harding College baseball team. Quietly philanthropic — helped a local town fund their ballpark lights. A genuine Arkansas gentleman.",
+    "era_adaptability": "LOW-MODERATE. Roe's success depended on two things that modern baseball has eliminated: the spitball and the tolerance for slow pitching. In today's game, he'd be caught on camera immediately and suspended. His K/9 of ~4.6 wouldn't survive modern hitters. However, his philosophy of changing speeds and disrupting timing is timeless — Greg Maddux essentially refined what Roe practiced. In ILB: Roe is a high-risk, high-reward pitcher whose effectiveness depends on whether the spitball is legal in that era.",
+    "clubhouse_impact": "BELOVED. Roe was a 'Boy of Summer' — one of the most beloved figures on the most beloved team in Brooklyn history. Jackie Robinson, Pee Wee Reese, Duke Snider, Roy Campanella, Gil Hodges, Carl Erskine — Roe was part of this legendary fraternity. He was one of the earliest Dodgers to accept Robinson without reservation: 'They got as much right to play as anyone else.' His wit and warmth made him the clubhouse glue.",
+    "dark_side": "The spitball confession. After retirement, Roe published an article in Sports Illustrated (1955) titled 'The Outlawed Spitball Was My Money Pitch,' openly admitting he'd thrown the illegal pitch throughout his career. Hitters had complained for years, but Roe was never caught. The admission was a scandal — and a relief. In ILB terms: Roe has a 'Spitball' trait that gives +1 STF but carries a 10% per-game chance of being caught. If caught, he's suspended for 5 games and his team loses -3 reputation. If he also uses a 'fake spitball' (same motion, dry ball), batters take -1 CON anyway from the psychological effect."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Spitball",
+      "desc": "Roe's illegal wet pitch gives +1 STF. But 10% chance per game of being caught by the umpire → 5-game suspension and -3 team reputation. 'Clean livin' and the spitball.'"
+    },
+    {
+      "tag": "Fake Spitball",
+      "desc": "When Roe goes through his spitball motion but throws a dry ball, opposing batters take -1 CON from the psychological deception. Works even when he's NOT throwing the actual spitter."
+    },
+    {
+      "tag": "Boys of Summer",
+      "desc": "+2 chemistry with all Dodgers teammates (Robinson, Reese, Snider, Campanella, Hodges, Erskine, Cox). The Brooklyn brotherhood was unbreakable."
+    },
+    {
+      "tag": "Hillbilly Act",
+      "desc": "Roe plays the country bumpkin for the press. Media scrutiny is redirected away from the team. -2 media pressure on the clubhouse while Roe is on the roster."
+    },
+    {
+      "tag": "Math Teacher",
+      "desc": "Roe taught high school math in the offseason. He calculates pitch sequencing with mathematical precision. Against batters he's faced 3+ times, Roe gains +1 CTL from pattern analysis."
+    },
+    {
+      "tag": "Fractured Skull Survivor",
+      "desc": "After surviving a fractured skull in a basketball refereeing brawl, Roe lost his fastball but gained the 'Reinvention' trait. Any pitcher who suffers a career-altering injury can roll for Reinvention: on 4+, they develop a new pitch category."
+    },
+    {
+      "tag": "Broken Finger Warrior",
+      "desc": "Roe pitched 5 innings of a WS shutout with a broken finger. In October, Roe ignores the first injury event — he pitches through it at full effectiveness."
+    },
+    {
+      "tag": "Preacher's Super Market",
+      "desc": "After retirement, Roe opens a grocery store. +1 community reputation. He spots a teenage Bill Virdon playing center field and recommends him to scouts."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "The con artist's stage. Slow, slower, and slowest — but always in control.",
+      "note_extra": "Source labeled 'Pitcher's Mound' / affinity 'HIGH' — mapped to Practice Field/HIGH as the mound-craft domain. Sixth mound-craft Practice Field/HIGH in the set (Mathewson, McGinnity, Phillippe, Plank, Reulbach, Reynolds, Roe). Roe's register is the first defined by deception rather than velocity or volume: 'the con artist's stage.' The chemistry_traits 'The Spitball' and 'Fake Spitball' are the mechanical expressions of this stage-performance framing."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "Spinning yarns, telling jokes, keeping the Boys of Summer loose and laughing.",
+      "note_extra": "Source labeled 'Clubhouse / Locker Room' / affinity 'HIGH' — mapped to Hotel/Rest/HIGH as the communal-gathering domain. Twelfth Hotel/Rest/HIGH in the set. Roe's is the most explicitly comedic register: 'spinning yarns, telling jokes.' The chemistry_trait 'Boys of Summer' (+2 chemistry with all named Dodgers teammates) and personality.clubhouse_impact ('BELOVED') are the cross-field expressions. Roger Kahn's book 'The Boys of Summer' is the literary source for Roe's clubhouse characterization."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Ash Flat, Arkansas. Country doctor's son. West Plains, Missouri grocery store.",
+      "note_extra": "Source labeled 'Rural / Farm / Country' / affinity 'HIGH' — mapped to Community Events/HIGH as the rural-origin domain. Third rural-origin Community Events/HIGH in the set (Manush had Rural/Outdoors HIGH; Reynolds had Texas Farm HIGH). Roe's spans two geographies: birthplace (Ash Flat, AR) and post-career home (West Plains, MO). The grocery store (Preacher Roe's Super Market) is the most commercially specific post-career institution in any Community Events/HIGH in the set. The chemistry_trait 'Preacher's Super Market' (+1 community reputation, scout discovery of Bill Virdon) is the mechanical expression."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "MEDIUM",
+      "note": "Taught high school math. Coached basketball. Education degree from Harding College.",
+      "note_extra": "Source labeled 'Classroom / Teaching' / affinity 'MEDIUM' — mapped to Practice Field/MEDIUM as the intellectual-craft subdomain for an active secondary career. Second teaching preferred_location in the set (Reulbach's University was HIGH for intellectual-formation; Roe's is MEDIUM for an active offseason second career). The chemistry_trait 'Math Teacher' (+1 CTL against batters faced 3+ times) and personality.leadership_style ('college degree in education and taught high school math') are the cross-field expressions."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Fundraising games to build ballpark lights. Preacher Roe Park in Salem, AR.",
+      "note_extra": "Source labeled 'Community Events' / affinity 'MEDIUM' — preserved directly as Community Events/MEDIUM. First card where a named park bears the player's name (Preacher Roe Park in Salem, AR) in a preferred_location note. The philanthropy note (fundraising for ballpark lights) connects to the personality.lifestyle 'quietly philanthropic' characterization."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "MEDIUM",
+      "note": "Performed the hillbilly act for sportswriters — but was secretly the smartest guy in the room.",
+      "note_extra": "Source labeled 'Media / Spotlight' / affinity 'MEDIUM' — second Media/Spotlight/MEDIUM in the set (prior: Medwick's MEDIUM before the suspension event). Roe's is the most self-aware MEDIUM in the domain: the media relationship is active performance and deception, not natural comfort. The chemistry_trait 'Hillbilly Act' (-2 media pressure on clubhouse) is the mechanical expression of the MEDIUM as managed rather than authentic engagement."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Family man. Country boy. Home with Mozee.",
+      "note_extra": "Source labeled 'Bar / Nightlife' / affinity 'LOW' — mapped to Hotel/Rest/LOW as the kinetic-personality-incompatibility domain (the bar represents urban social life antithetical to Roe's rural family identity). Second Bar/Nightlife-sourced Hotel/Rest/LOW in the set (Reynolds was first with professional abstinence). Roe's is rural-family-identity incompatibility: 'Home with Mozee' — his wife's name is the entire note's emotional grounding. The most domestic LOW in the set."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Winning streaks — won first 10 decisions in 1951, then another 10 in a row later",
+      "Pitching for the Dodgers — 93-37 (.715) in Brooklyn vs. 34-47 everywhere else",
+      "World Series starts — 2.54 ERA, 3 CG, pitched through a broken finger",
+      "Outthinking hitters — the longer Roe faces a lineup, the better he gets"
+    ],
+    "cold_triggers": [
+      "Playing for bad teams — 7-23, 5.19 ERA with the terrible Pirates (1946-47)",
+      "Physical injury — fractured skull after 1945 destroyed his fastball permanently",
+      "Being exposed — if batters stop chasing his off-speed and sit on the spitter, he's vulnerable"
+    ],
+    "pressure_response": "GUTSY. Roe's defining moment came in Game 2 of the 1949 World Series. Throwing a 6-hit shutout against the Yankees, he took a line drive off his glove hand in the 4th inning that broke his finger and tore off half the nail. The doctor drilled a hole in the nail to relieve swelling, bandaged it, and Roe pitched 5 more innings with a throbbing broken finger. He won 1-0 — the Dodgers' only victory in the series. Branch Rickey called him 'a supreme artist.' His WS record of 2-1 with a 2.54 ERA, all in complete games, shows a pitcher who elevated when it mattered most. He wasn't flashy — he was gutsy."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Outlawed Spitball Was My Money Pitch",
+      "type": "Action",
+      "text": "Your pitcher secretly throws an illegal pitch — the spitball. He gains +1 STF for his career. But after retirement, he publishes a confession in a national magazine. The baseball world is scandalized. Historical legacy: +2 (for honesty) and -1 (for cheating). Opposing teams say: 'We knew it all along.'",
+      "origin": "After retiring in 1954, Roe confessed in Sports Illustrated (1955) that the spitball was his primary weapon throughout his Dodger career. Hitters had complained for years. The article was titled 'The Outlawed Spitball Was My Money Pitch.' He opened with: 'When asked to explain my longevity, I replied — clean livin' and the spitball.'"
+    },
+    {
+      "title": "The Broken Finger Shutout",
+      "type": "Game Action",
+      "text": "World Series game. Your pitcher takes a line drive off his glove hand in the 4th inning, breaking his finger. The doctor drills a hole in the nail and bandages it. Your pitcher has a choice: leave the game, or pitch 5 more innings with a broken finger. If he stays: roll 4+ for a complete-game shutout and +5 team legacy. On 1-3: he gives up 3 runs and takes the loss.",
+      "origin": "1949 WS Game 2: Johnny Lindell's line drive broke Roe's finger in the 4th. The doctor drilled and bandaged it. Roe pitched 5 more innings, won 1-0 on a CG shutout. Rickey: 'That boy is an artist — a supreme artist.'"
+    },
+    {
+      "title": "Slow, and Slower",
+      "type": "Action",
+      "text": "Your pitcher's three pitches are: 'my change, my change off my change, and my change off my change off my change.' Each pitch is 3-5 mph slower than the last. After 3 innings of this, opposing batters are so off-balance that your pitcher's mediocre fastball looks like 100 mph. +2 STF for innings 4-9.",
+      "origin": "Roe's famous self-description of his repertoire. Sal Maglie confirmed his fastball 'really wasn't fast at all' but it worked because of the speed differential. Willie Mays said he had 'two speeds: slow, and slower.'"
+    },
+    {
+      "title": "A Pitcher Should Pay to Pitch for the Dodgers",
+      "type": "Drama",
+      "text": "Your struggling pitcher is traded from the worst team in the league to the best. His ERA drops by 2.50. His wins double. The fielders behind him catch everything. He declares: 'A pitcher should pay to pitch for this team. On my old team, the shortstop and second baseman were like goalposts.'",
+      "origin": "Traded from Pittsburgh (7-23, 5.19 ERA in 1946-47) to Brooklyn, Roe became a star: 93-37, sub-3.00 ERA. His comparison of the Dodgers' and Pirates' infield defense became one of baseball's most famous quotes."
+    },
+    {
+      "title": "The Bumpkin and the Math Teacher",
+      "type": "Drama",
+      "text": "Your player cultivates a 'simple country boy' persona for the media, complete with backcountry drawl and folksy stories. But he secretly has a college degree and teaches mathematics in the offseason. The deception keeps media attention away from his illegal pitch. +2 media misdirection.",
+      "origin": "New York sportswriters presented Roe as a hillbilly bumpkin. He played along perfectly. But he had a degree from Harding College and taught high school math. Roger Kahn saw through it: Roe was one of the smartest men on the team."
+    },
+    {
+      "title": "The Fractured Skull",
+      "type": "Drama",
+      "text": "Your ace pitcher, during the offseason, suffers a fractured skull in a brawl while coaching basketball. His fastball is permanently destroyed. He must reinvent himself or retire. Roll: on 3+, he discovers a new pitch (spitball, changeup, or cutter) and rebuilds his career. On 1-2, he never recovers.",
+      "origin": "After the 1945 season (14-13, 148 K led NL), Roe suffered a fractured skull in a fight with a basketball referee. His fastball never returned. He learned the spitball and rebuilt his entire career around deception."
+    },
+    {
+      "title": "Dixie Walker's Seat",
+      "type": "Drama",
+      "text": "Your team trades a popular but racist player for a journeyman pitcher and a shell-shocked infielder. The racist player demanded the trade because he refused to play with a Black teammate. The journeyman pitcher turns out to be an ace. The infielder, recovering from PTSD, becomes the best defensive third baseman in the league. The racist player fades into obscurity.",
+      "origin": "Dixie Walker demanded a trade from Brooklyn because he wouldn't play with Jackie Robinson. The Dodgers got Preacher Roe and Billy Cox (who had severe PTSD from WWII combat). Roe: Rickey got 'an infielder who'd been shook real bad and a skinny pitcher with a busted head.' Both became stars."
+    },
+    {
+      "title": "22 and 3",
+      "type": "Game Action",
+      "text": "Your pitcher starts the season 10-0. He wins another 10 in a row later. He finishes 22-3 with the best winning percentage for a 20-game winner in league history. But his team blows a 13-game lead in August and loses the pennant in a tiebreaker. The greatest individual season becomes the most heartbreaking team collapse.",
+      "origin": "Roe's 1951 season: 22-3, .880 W% (still NL record). But the Dodgers blew a 13½-game August lead and lost to the Giants on Bobby Thomson's Shot Heard 'Round the World. Roe's masterpiece was consumed by catastrophe."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Lean, angular face with sharp features and a sly, knowing grin. 6'2\" 170 lbs — bony, wiry, all limbs and angles. The face of a man who looks like a country preacher but thinks like a mathematician. Mischievous eyes under a Brooklyn Dodgers cap. Light stubble. Age 35 in 1951 — the late-career craftsman at his absolute peak.",
+    "attire": "Brooklyn Dodgers road grays, 1951 flannel, number 28. Left-handed delivery — the high leg kick and the signature motion where he reaches up to touch his cap (loading the spitball). Or: the sly grin after getting a strikeout on a pitch that may or may not have been wet. Ebbets Field in the background.",
+    "mood": "Sly intelligence and quiet confidence. The portrait should radiate the 'trickster' energy — this is a man who fooled batters, umpires, and sportswriters for years. Not menacing, not intimidating — amused. The look of a con artist who knows something you don't.",
+    "style": "Warm sepia with Brooklyn blue accents. Ebbets Field's distinctive facade and Abe Stark 'Hit Sign, Win Suit' advertisement visible in the background. 1951 Bowman card aesthetic in unified ILB portrait style. The card should feel like a secret being shared.",
+    "reference": "The 'trickster' card of the Dreamers set. Pair with Maglie for the ultimate 'honest menace vs. dishonest charm' contrast. Roe and Maglie were rivals who defined 1950s NL pitching from opposite sides — the Brooklyn fox and the Polo Grounds wolf."
+  }
+}

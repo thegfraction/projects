@@ -1,0 +1,102 @@
+{
+  "card_type": "player",
+  "name": "Jesse Tannehill",
+  "nickname": "Tanny / The Hitting Pitcher",
+  "year": 1904,
+  "team": "Boston Americans",
+  "era": "1910s",
+  "ilb_team": "Muggers 1910",
+  "position": "SP",
+  "bats": "S",
+  "throws": "L",
+  "height": "5'8\"",
+  "weight": "150 lbs",
+  "born": "July 14, 1874 — Dayton, KY",
+  "died": "September 22, 1956 — Dayton, KY (age 82)",
+  "real_stats": {
+    "season": 1904,
+    "wins_losses": "21-11",
+    "era": "2.04",
+    "innings_pitched": "282",
+    "strikeouts": 116,
+    "walks": 57,
+    "complete_games": 28,
+    "shutouts": 4,
+    "no_hitter": 1,
+    "career_wins_losses": "197-117",
+    "career_era": "2.79",
+    "career_strikeouts": 940,
+    "career_ip": "2,759",
+    "career_batting_avg": ".255",
+    "outfield_games": 87,
+    "era_leader": "1× NL (1901)",
+    "seasons": 15
+  },
+  "ilb_stats": {
+    "ovr": 7,
+    "stf": 2,
+    "ctl": 3,
+    "sta": 3,
+    "def": 1,
+    "clu": 1
+  },
+  "stat_justification": {
+    "stf": "NOT a strikeout pitcher — 940 K in 2,759 IP (~3.1 K/9). 'Agonizingly slow curveball.' Relied on movement, deception, and location, not velocity. Made hitters hit the ball to fielders. Rating of 2.",
+    "ctl": "'Razor-sharp control.' Top 5 in BB/9 every year from 1897 to 1904 — eight consecutive seasons. 118 K / 36 BB in 1901 (3.3 K/BB ratio, elite for the era). 'Opted to let his defense make plays behind him.' Control was the foundation of everything. Rating of 3.",
+    "sta": "326.2 IP in 1898. 300+ IP multiple seasons. 2,759 career IP. Durable left arm through peak years. Part of 1904 Boston staff that set AL record for CG (148). Rating of 3.",
+    "def": "Good fielding pitcher. Also played 87 games in the outfield due to his hitting — but that's batting value, not pitching defense. Rating of 1.",
+    "clu": "Led NL in ERA 1901 (Pirates won pennant, no WS that year). Part of 1904 Boston Americans AL pennant (no WS played — Giants refused). No-hitter Aug 17, 1904. Not on a WS roster. 22-9 in 1905 as only Boston starter with winning record. Steady but no October stage. Rating of 1."
+  },
+  "personality": {
+    "leadership_style": "THE UNFLAPPABLE CRAFTSMAN. 'I think Tannehill the greatest of living pitchers for the good reason that he was never rattled in his life. No matter how hard his delivery may be, he never loses his head.' The calm lefty who relied on brains, location, and an agonizingly slow curveball. Not a power pitcher — a THINKER. Not a leader by charisma — a leader by example.",
+    "temperament": "SUPERSTITIOUS AND SOCIAL. Wouldn't shave on days he pitched. Former saloon owner. The juxtaposition captures the man: one foot in ritual, one foot in the barroom. A convivial, superstitious, crafty left-hander who made 197 wins look easy from 5'8\" 150 lbs.",
+    "work_ethic": "THE DUAL THREAT. .255 career BA as a pitcher. 87 games in the outfield. 57 pinch-hit appearances. Switch-hitter. Stole home as a pitcher. Led NL starting pitchers with .340 BA in 1900. This was not a pitcher who stood in the box and waited for three strikes — this was an ATHLETE who happened to pitch. The extra effort was always there.",
+    "dark_side": "The no-hitter against his brother. August 17, 1904: Tannehill threw a no-hitter against the Chicago White Sox. His younger brother Lee was the White Sox infielder — went 0-for-3. A brother no-hitting a brother. The third no-hitter in American League history. Also: the salary dispute with Barney Dreyfuss that sent him from the pennant-winning Pirates to the fledgling AL. The money fight that changed his career trajectory — from NL ERA champion to AL journeyman to no-hit artist. And the 1903 WS: Boston won the first World Series, but Tannehill was with the Highlanders. Traded to Boston AFTER the championship. Always arriving a season late."
+  },
+  "chemistry_traits": [
+    { "tag": "The Hitting Pitcher", "desc": ".255 career BA. 87 OF games. 57 PH appearances. Switch-hitter. .340 BA in 1900. Stole home. 'One of the best-hitting pitchers of all time.' +3 dual-threat. Unique on the Muggers." },
+    { "tag": "The Agonizing Curve", "desc": "'Agonizingly slow curveball.' Not fast — SLOW. The curve that made hitters wait, then break. +2 deception. The opposite of Johnson's fastball or Bender's speed." },
+    { "tag": "Razor-Sharp Control", "desc": "Top 5 in BB/9 eight consecutive years (1897-1904). 118 K / 36 BB in 1901. +3 CTL. 'Let his defense make plays behind him.'" },
+    { "tag": "The Brother No-Hitter", "desc": "Aug 17, 1904: no-hit the White Sox. Brother Lee went 0-for-3 for Chicago. 3rd no-hitter in AL history. +2 drama. +1 family." },
+    { "tag": "The Saloon Owner", "desc": "Owned a saloon. Superstitious — wouldn't shave on pitching days. +1 character. The barkeeper-pitcher who believed in ritual." },
+    { "tag": "Never Rattled", "desc": "'Never rattled in his life.' 'Can take punishment and pull himself together at a critical moment.' +2 composure. The tiny lefty who never panicked." },
+    { "tag": "The Salary Jumper", "desc": "Salary dispute with Dreyfuss → jumped to AL Highlanders. Missed 1903 WS (Boston won without him). Traded to Boston → won 1904 pennant. Always a step behind the championship." }
+  ],
+  "action_card_seeds": [
+    {
+      "title": "The Brother No-Hitter",
+      "type": "Game Action",
+      "text": "August 17, 1904. Your left-hander takes the mound against the Chicago White Sox. His younger brother Lee is playing infield for Chicago. Nine innings. No hits. Brother Lee goes 0-for-3. The third no-hitter in American League history. A brother no-hitting a brother. +3 STF. +2 drama. The family story that became baseball history.",
+      "origin": "Aug 17, 1904: Tannehill no-hit White Sox. Brother Lee went 0-for-3."
+    },
+    {
+      "title": "The Agonizing Curve",
+      "type": "Game Action",
+      "text": "Your pitcher throws the curveball. It leaves his hand. It hangs. It floats. It breaks. Agonizingly slow. The hitter swings early. Or swings late. Or doesn't swing at all. 'Agonizingly slow curveball and razor-sharp control.' +2 STF. The pitch that won 197 games without velocity.",
+      "origin": "SABR: 'Agonizingly slow curveball and razor-sharp control.'"
+    },
+    {
+      "title": ".340 as a Pitcher",
+      "type": "Game Action",
+      "text": "Your pitcher steps to the plate. He switch-hits. In 1900, he bats .340 — leading all NL starting pitchers. He plays 87 career games in the outfield because he's too good with the bat to sit. He steals home. He pinch-hits 57 times. +3 batting. +1 versatility. The best-hitting pitcher on the Muggers.",
+      "origin": "1900: .340 BA (led NL starting pitchers). 87 career OF games."
+    },
+    {
+      "title": "197 Wins from 5'8\" 150 Pounds",
+      "type": "Game Action",
+      "text": "Your pitcher is 5'8\" and 150 pounds. He is the smallest pitcher on the Muggers staff. He wins 197 games with a 2.79 ERA over 15 seasons. He does it with control, deception, and an agonizingly slow curveball that makes bigger men look foolish. +2 longevity. +2 craft. Size is not the variable.",
+      "origin": "Career: 197-117, 2.79 ERA, 2,759 IP. 5'8\" 150 lbs."
+    },
+    {
+      "title": "The Salary Jump",
+      "type": "Drama",
+      "text": "Your pitcher disputes his salary with Barney Dreyfuss. He jumps to the American League. The Pirates win the 1903 pennant without him. Boston wins the first World Series without him. He's traded to Boston AFTER the championship. The next year he throws a no-hitter and wins 21 games. Always a season behind the trophy. -1 timing. +1 resilience.",
+      "origin": "Tannehill jumped from Pirates to AL over salary. Missed 1903 WS."
+    }
+  ],
+  "art_direction": {
+    "face": "SMALL, CRAFTY, UNFLAPPABLE, CONVIVIAL. 5'8\" 150 lbs — the smallest pitcher on the Muggers, tied with Huggins for smallest Mugger overall. Black hair. The face should be CALM and SHREWD — not the fierce intensity of Magee or the volcanic energy of Camnitz. QUIET INTELLIGENCE. The face of a man who owned a saloon, wouldn't shave on pitching days, and never panicked. A faint knowing smile — the craftsman who knows his curveball will break. Expression: COMPOSED CONFIDENCE from a small frame.",
+    "mood": "CRAFTY AND WARM. The card should feel like INTELLIGENCE APPLIED TO PITCHING — not the raw power of Johnson or the sweeping curve of Overall, but the soft mastery of a man who won 197 games with deception and location. The warmest pitcher card after Overall.",
+    "style": "Sepia-toned with KENTUCKY AMBER and BOSTON BRICK — the warm amber of Kentucky bourbon country (Dayton, KY, saloon owner) and the red-brown brick of Boston's Back Bay. Warm palette. The color of a slow curveball on a warm afternoon."
+  }
+}

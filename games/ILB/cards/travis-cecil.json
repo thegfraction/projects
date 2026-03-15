@@ -1,0 +1,183 @@
+{
+  "card_type": "player",
+  "name": "Cecil Travis",
+  "nickname": "The Georgia Peach II",
+  "year": 1941,
+  "team": "Washington Senators",
+  "era": "1940s",
+  "ilb_team": "Allies AL1940",
+  "position": "SS",
+  "bats": "L",
+  "throws": "R",
+  "height": "6'1\"",
+  "weight": "185 lbs",
+  "born": "August 8, 1913 — Riverdale, GA",
+  "died": "December 16, 2006 — Riverdale, GA",
+  "hof": "Not inducted. .314 career BA (AL record for SS), 3× All-Star, 1,544 hits. Bill James' #1 war-casualty HOF case.",
+  "real_stats": {
+    "season": 1941,
+    "games": 152,
+    "at_bats": 607,
+    "hits": 218,
+    "doubles": 39,
+    "triples": 19,
+    "home_runs": 7,
+    "rbi": 101,
+    "stolen_bases": 3,
+    "batting_avg": ".359",
+    "obp": ".408",
+    "slg": ".520",
+    "ops": ".932",
+    "ops_plus": 150,
+    "war": 5.6,
+    "all_star": 3,
+    "career_avg": ".314",
+    "career_hits": 1544,
+    "career_hr": 27,
+    "career_sb": 23,
+    "career_war": 22.8
+  },
+  "ilb_stats": {
+    "ovr": 7,
+    "con": 5,
+    "pow": 1,
+    "spd": 0,
+    "def": 1,
+    "clu": 1
+  },
+  "stat_justification": {
+    "con": "Hit .359 in 1941, second only to Ted Williams' .406. Led both leagues with 218 hits. Pre-war career average of .327 — hit .300+ in 8 of 9 full seasons. OPS+ 150 in peak year. Third-highest career BA among all AL shortstops in history (.314), behind only Wagner and Vaughan. Ted Williams said: 'In 1941, Cecil Travis was just as good as either of us.' Maximum contact.",
+    "pow": "7 HR in 1941 — his career high. Only 27 career HR in 12 seasons. However, SLG .520 in 1941 meets the .500 bonus threshold, driven by 39 doubles and 19 triples (316 total bases). POW 0 (HR tier) + 1 (SLG bonus) = 1. Travis was a gap hitter with extra-base pop, not a home run hitter.",
+    "spd": "Only 3 SB in 1941 and 23 career. Travis was never a speed player — his 19 triples in 1941 came from gap power and hustle, not raw speed. After the war, frostbitten feet eliminated whatever speed he had. No CF/SS Gold Glove bonus (pre-GG era, and his defense was good but not premium range). SPD 0.",
+    "def": "Named best all-around shortstop by The Sporting News before WWII. Led AL in double plays at 3B in 1935. Described as a 'steady fielder' — reliable, not flashy. Bill James rated him as roughly average defensively at SS. Equivalent to 1-2 Gold Gloves. DEF 1.",
+    "clu": "Never played in the World Series — Senators were perennial losers. However, his take-out slide at second base in the 1941 All-Star Game prevented a double play and kept the rally alive, enabling Ted Williams' legendary walk-off home run. A team-first play on the biggest stage. Regular-season batting race competitor (.359 in the Williams/.406 year). CLU 1."
+  },
+  "personality": {
+    "leadership_style": "Silent, dutiful, lead-by-performance. Travis never spoke up, never campaigned for himself, never complained. When asked if the war cost him the Hall of Fame, he said: 'I was a good player, but I wasn't a great one.' His leadership was pure example — show up, hit .300, go home to the farm.",
+    "temperament": "Humble, stoic, profoundly modest. Umpires named him their favorite player. Teammates loved him. He refused to cooperate with his own biographer out of a distaste for publicity. When honored with 'Cecil Travis Night' at Griffith Stadium, General Eisenhower attended. Travis accepted a 1,500-pound Hereford bull and a DeSoto automobile with the same quiet grace.",
+    "work_ethic": "Self-made hitter. Early career: opposite-field slapper. By 1941: complete hitter with pull power. He experimented in spring training with heavier bats, different grips, and a deeper stance. Transformed himself from a singles hitter to a .359/19-triple machine. The swing transformation was his own project.",
+    "lifestyle": "Georgia farm boy, born and died in Riverdale. Youngest of ten children on a 200-acre farm. Declined a Georgia Tech scholarship for a baseball training school. After retirement, scouted for the Senators until 1956, then returned to his family farm to raise livestock. Lived quietly in Riverdale until age 93.",
+    "era_adaptability": "MODERATE. Travis's batting skill would translate to any era — .327 pre-war is .327 anywhere. But his lack of power and speed limit his value in modern baseball economics. He'd be a high-AVG, high-OBP contact shortstop — think John Olerud at short (per Ted Williams' own comparison). His defense was solid but not premium.",
+    "clubhouse_impact": "QUIET-RESPECTED. Travis was universally liked but not a vocal presence. He was teammates with Mickey Vernon and Buddy Myer on the Senators. His modest, workmanlike approach made him the anti-celebrity — a man who simply played baseball extremely well and never asked for recognition.",
+    "dark_side": "The frozen feet. Travis served in the 76th Infantry Division and fought in the Battle of the Bulge. Crouched in a frozen foxhole, he suffered severe frostbite that nearly required amputation. Doctors saved his feet, but the damage was permanent — destroyed his balance at the plate and his mobility afield. He returned to baseball at 31 but hit only .241/.252/.216 in his final three seasons. The war didn't just interrupt his career — it destroyed it. In ILB terms: Travis carries a 'Frostbite' trait. If he is drafted into a war event, there is a high probability he returns permanently diminished."
+  },
+  "chemistry_traits": [
+    { "tag": "Pure Hitter", "desc": ".327 pre-war average. Hits to all fields. +1 CON in any matchup where opponent pitcher has CTL ≤ 2." },
+    { "tag": "Battle of the Bulge", "desc": "Bronze Star recipient. WWII combat veteran. +2 chemistry with other war veterans. Immune to intimidation events." },
+    { "tag": "Frostbite", "desc": "If drafted into a war/hardship event, 60% chance of permanent -2 to SPD and -1 to CON upon return. This is Travis's defining tragedy." },
+    { "tag": "Georgia Farm Boy", "desc": "Born and died in Riverdale, GA. +1 comfort in rural/Southern era squares. Uncomfortable in big-city nightlife." },
+    { "tag": "Umpire's Favorite", "desc": "Named favorite player by AL umpires. Close calls at the plate go his way. -1 to opponent's challenge attempts." },
+    { "tag": "Forgotten All-Star", "desc": "Despite elite stats, Travis generates zero media attention. -2 fame modifier, but teammates gain +1 morale from his quiet consistency." },
+    { "tag": "Five Hits on Debut", "desc": "Went 5-for-5 in his first MLB game. When Travis joins a new team, he goes Hot for his first 3 games." },
+    { "tag": "Vernon's Mentor", "desc": "Mickey Vernon studied Travis's all-fields hitting technique. +2 chemistry when paired with Vernon on same roster." }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Born on 200-acre farm in Riverdale, GA. Returned to raise livestock after retirement. Died there at 93.",
+      "note_extra": "Source label: 'Farm / Rural Area'. Mapped to Community Events — hometown/farm/personal life domain. The farm is Travis's origin, post-career home, and literal final resting place (born and died in Riverdale). The schema lists 'farms, ranches' under the Community Events domain. HIGH affinity is unambiguous — the farm is his identity, not merely a preference. Cross-fields to Georgia Farm Boy chemistry trait and lifestyle personality key."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Self-taught swing transformation. Experimented constantly with bat weight, grip, and stance.",
+      "note_extra": "Source label: 'Batting Cages / Practice Field'. Direct canonical mapping to Practice Field — batting cage/craft domain. Travis's swing transformation (opposite-field slapper to .359/19-triple machine) was entirely self-directed through practice; this location is the site of his most significant development. Cross-fields to work_ethic personality key and Pure Hitter chemistry trait."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Quiet presence. Respected by all. Never the loudest voice.",
+      "note_extra": "Source label: 'Clubhouse / Locker Room'. Direct canonical mapping to Hotel/Rest — clubhouse/locker room subdomain. MEDIUM affinity is consistent with Travis's quiet-respected clubhouse persona — valued but not dominant. Cross-fields to clubhouse_impact personality key ('universally liked but not a vocal presence')."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Conservative, modest lifestyle. Happy with solitude.",
+      "note_extra": "Source label: 'Hotel / Rest'. Unusual case: the source label directly names the canonical domain ('Hotel / Rest' → Hotel/Rest), the only instance in the set where the source label is essentially identical to the canonical domain name. Mapped to Hotel/Rest — general rest/accommodation domain. MEDIUM affinity reflects Travis's contented, uncomplicated private life away from the field. Second Hotel/Rest entry for Travis. Cross-fields to lifestyle personality key."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Humble Georgia values. Modest, faith-oriented.",
+      "note_extra": "Source label: 'Church / Community'. Mapped to Community Events — community/personal life domain. Church and community participation map to Community Events (community gatherings, personal/hometown life). MEDIUM affinity reflects genuine but quiet faith and community ties. Second Community Events entry for Travis. Cross-fields to temperament personality key ('humble Georgia values') and Georgia Farm Boy chemistry trait."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Not a nightlife person. Farm boy sensibilities.",
+      "note_extra": "Source label: 'Bar / Nightlife'. Direct canonical mapping to Hotel/Rest — bar/nightlife subdomain. LOW affinity is consistent and expected for a player of Travis's profile. Third Hotel/Rest entry; the LOW bar/nightlife contrasts with the MEDIUM hotel/rest and clubhouse entries, encoding the distinction between shared team spaces (tolerated) and entertainment venues (avoided). Cross-fields to Georgia Farm Boy chemistry trait ('Uncomfortable in big-city nightlife')."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "NONE",
+      "note": "Refused to cooperate with his own biographer. Actively avoided publicity.",
+      "note_extra": "Source label: 'Media / Spotlight'. Direct canonical mapping to Media/Spotlight — press/publicity domain. NONE affinity is the third NONE in the set (after Mungo and Thomson/Cooperstown, Batches 29/36); this is the first NONE on Media/Spotlight specifically, and the first NONE that is active avoidance-by-choice rather than absence (Mungo) or institutional exclusion (Thomson/Cooperstown). Travis's NONE is agentive: he declined his own biographer. Cross-fields to Forgotten All-Star chemistry trait ('-2 fame modifier') and temperament personality key. The 'Media / Spotlight' source label also closely matches the canonical domain name, similar to the Hotel/Rest case above."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "Batting streaks — 24-game hitting streak in 1941, coinciding with DiMaggio's 56-game run",
+      "Spring training breakthroughs — reinvented his swing before 1941 with new grip and stance",
+      "All-Star selections — elevated play in showcase moments (1941 ASG slide)",
+      "Return to Griffith Stadium — always hit well at home in DC"
+    ],
+    "cold_triggers": [
+      "Physical injury — the frostbite destroyed his career; any leg/foot injury triggers cold streak",
+      "Losing teams — Senators were chronic losers; extended losing erodes quiet players first",
+      "Post-war adjustment — the gap between peak performance and diminished return is enormous"
+    ],
+    "pressure_response": "QUIETLY EXCELLENT. Travis was not a dramatic clutch performer — he was a relentless, consistent hitter who elevated in big moments without fanfare. His take-out slide in the 1941 All-Star Game — sacrificing his body to prevent a double play, keeping the rally alive for Williams' walk-off homer — is the perfect Travis moment: selfless, effective, completely uncredited. He was the teammate who made everyone else's highlights possible. In ILB: Travis performs at his OVR in all situations, with a slight bonus in team-play scenarios where another player can capitalize."
+  },
+  "action_card_seeds": [
+    {
+      "title": "Five Hits on Debut Day",
+      "type": "Game Action",
+      "text": "Your newly called-up player goes 5-for-5 in his first MLB game. He immediately goes Hot and gains +1 reputation. Only the second player in history to accomplish this feat.",
+      "origin": "Travis went 5-for-5 in his first major league game on May 16, 1933 — only the second player to do so, after Fred Clarke in 1894."
+    },
+    {
+      "title": "The Frozen Foxhole",
+      "type": "Drama",
+      "text": "Your player is drafted into military service and sent to a winter combat zone. Roll a d6: on 1-3, he suffers permanent frostbite (-2 SPD, -1 CON permanently). On 4-5, he returns shaken but intact (-1 CON for one season). On 6, he returns stronger (+1 CLU permanently, immune to cold triggers).",
+      "origin": "Travis served in the 76th Infantry Division during the Battle of the Bulge. Severe frostbite nearly cost him his feet. Doctors operated to prevent amputation, but the permanent damage destroyed his batting balance and fielding mobility."
+    },
+    {
+      "title": "The Invisible 24-Game Streak",
+      "type": "Game Action",
+      "text": "Your player goes on a 24-game hitting streak — but nobody notices because a teammate or rival is doing something even more spectacular. Your player gains +1 CON for the streak's duration but +0 fame.",
+      "origin": "Travis's 24-game hitting streak in 1941 went largely unreported because it coincided with Joe DiMaggio's 56-game streak."
+    },
+    {
+      "title": "The Take-Out Slide",
+      "type": "Game Action",
+      "text": "In a crucial late-inning situation, your infielder makes a hard take-out slide at second base to break up a double play. The rally continues. Your next batter gets +2 to his at-bat. Your slider takes 1 fatigue.",
+      "origin": "In the 1941 All-Star Game, Travis's take-out slide at second base in the 9th inning prevented a double play and kept the rally alive, enabling Ted Williams' legendary game-winning home run."
+    },
+    {
+      "title": "The Hereford Bull",
+      "type": "Drama",
+      "text": "Your retiring veteran is honored with a special night at the ballpark. A general attends the ceremony. Your player receives a 1,500-pound bull and a new car. Team morale +2 for the remainder of the season.",
+      "origin": "On August 15, 1947, the Senators held 'Cecil Travis Night' at Griffith Stadium. General Eisenhower attended. Travis received a DeSoto automobile and a 1,500-pound Hereford bull, among other gifts."
+    },
+    {
+      "title": "'I Was a Good Player, Not a Great One'",
+      "type": "Drama",
+      "text": "Your veteran player, passed over for the Hall of Fame, refuses to campaign for himself. He accepts his fate with quiet dignity. Team chemistry +1 (teammates inspired by humility). Your player's fame stays at 0, but his legacy modifier increases by +3.",
+      "origin": "Travis said of his Hall of Fame chances: 'I was a good player, but I wasn't a great one.' He never bemoaned the lost years, saying: 'We had a job to do, an obligation, and we did it. I was hardly the only one.'"
+    },
+    {
+      "title": "The Third Man of 1941",
+      "type": "Action",
+      "text": "In a historic season where two superstars dominate the headlines (a hitting streak and a batting average chase), your player quietly leads the league in hits. He finishes third in the conversation despite being second in the standings. Draw 1 bonus card — it's always useful, never flashy.",
+      "origin": "In 1941 — the year of Williams' .406 and DiMaggio's 56-game streak — it was Cecil Travis who led the American League in hits with 218. Williams himself said: 'In 1941, Cecil Travis was just as good as either of us.'"
+    }
+  ],
+  "art_direction": {
+    "face": "Lean, angular Southern face. 6'1\" 185 lbs — tall and rangy for a shortstop. Strong jaw, quiet eyes, the look of a Georgia farmer who happens to play baseball. Left-handed batter's stance. Clean-shaven, modest expression. No flash.",
+    "attire": "Washington Senators home whites, early 1940s vintage. Classic baggy wool flannel, high stirrups. Left-handed batting stance — the sweet, balanced swing Ted Williams compared to John Olerud's. Or fielding position at shortstop, glove ready, knees bent.",
+    "mood": "Stoic resolve. Not sad, not joyful — steady. The expression of a man who hit .359 in the same season as Williams' .406 and got no headlines for it. Quiet dignity. The faintest suggestion of something lost — the shadow of what the war would take from him.",
+    "style": "Sepia-toned with slightly cooler undertones than the Vernon card — a hint of winter in the warmth, foreshadowing the Bulge. Griffith Stadium in soft focus behind him. The portrait should feel like a photograph found in an old Army footlocker — precious, faded, almost forgotten.",
+    "reference": "Think 1941 Play Ball card aesthetic. The card should evoke the tragedy of potential unfulfilled — the most heartbreaking card in the Allies set. A man frozen in his prime, literally and figuratively."
+  }
+}

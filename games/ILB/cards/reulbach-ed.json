@@ -1,0 +1,232 @@
+{
+  "card_type": "player",
+  "name": "Ed Reulbach",
+  "nickname": "Big Ed",
+  "year": 1906,
+  "team": "Chicago Cubs",
+  "era": "1900s",
+  "ilb_team": "Banners NL1900",
+  "position": "SP",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'0\"",
+  "weight": "190 lbs",
+  "born": "December 1, 1882 — Detroit, MI",
+  "died": "July 17, 1961 — Glens Falls, NY (age 78, died the same day as Ty Cobb)",
+  "hof": "Never received a single HOF vote, despite Bill James HOF Monitor score of 101 (likely inductee level). Stats comparable to Sandy Koufax per SABR. Johnny Evers: 'Always five years ahead of his time in baseball thought.'",
+  "player_image": "https://raw.githubusercontent.com/thegfraction/projects/b9a611655116268b1910dda04fcb97fd0d03b2d1/games/ILB/images/reulbach-ed.png",
+
+  "real_stats": {
+    "season": 1906,
+    "games": 33,
+    "wins": 19,
+    "losses": 4,
+    "era": "1.65",
+    "innings": "218.0",
+    "strikeouts": 93,
+    "walks": 72,
+    "complete_games": 20,
+    "shutouts": 6,
+    "whip": "0.977",
+    "saves": 0,
+    "war": 5.3,
+    "h_per_9": "5.33",
+    "season_1908_w": 24,
+    "season_1908_l": 7,
+    "season_1908_era": "2.03",
+    "career_wins": 182,
+    "career_losses": 106,
+    "career_era": "2.28",
+    "career_strikeouts": 1137,
+    "career_cg": 201,
+    "career_shutouts": 40,
+    "career_war": 36.1,
+    "career_ip": "2632.1",
+    "career_era_plus": 123,
+    "ws_record": "2-0",
+    "ws_era": "3.03",
+    "ws_games": 7
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "stf": 4,
+    "ctl": 3,
+    "sta": 3,
+    "def": 1,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "stf": "1.65 ERA in 1906 → tier 4 (1.50-1.99). The truly historic number: 5.33 H/9 in 1906 — the lowest by any pitcher in the modern era until 1968. In 12 starts that year he allowed 5 hits or fewer. Not a strikeout pitcher (K/9 ~3.8, no K bonus), but batters simply could not get hits off him. Extreme movement and deception rather than velocity. Rating: 4.",
+    "ctl": "The contradiction. His WHIP was elite (0.977 in 1906 — ≤1.00 bonus applies), but the 1908 Reach Guide called him 'extremely wild and unreliable.' BB/9 was around 2.5-3.0 in most seasons — not terrible but not elite. He'd pitch masterfully for stretches, then walk the park. The wildness was intermittent, not chronic. Composite: tier 1 base (BB/9 ~2.97) + WHIP bonus (+1) + upward adjustment for peak seasons = 3.",
+    "sta": "218 IP in 1906 (only 33 games) → tier 2. But in 1908: ~297 IP → tier 3. Pitched a 20-inning CG win vs. Philadelphia in 1905. Pitched two CG shutouts (18 IP total) in one doubleheader in 1908. The stamina was real — it just came in bursts rather than McGinnity-style marathon seasons. Composite: 3.",
+    "def": "No notable defensive reputation. Rating: 1.",
+    "clu": "WS record 2-0, ERA 3.03 in 7 games (5 starts) across 4 World Series (1906-10). Threw a one-hitter in Game 2 of the 1906 WS against the White Sox. Won Game 3 of the 1907 WS (CG, 5-1 vs. Tigers). September 26, 1908: pitched two CG shutouts in one doubleheader against Brooklyn during the tightest pennant race in history — 18 IP, 4 H, 0 R — three days after the Merkle game. PS ERA 3.03 → tier 1 (2.00-4.00). + WS wins and pennant-race heroics = +1. Rating: 2."
+  },
+
+  "personality": {
+    "leadership_style": "Cerebral, quiet, ahead of his time. Johnny Evers — not a man who gave easy compliments — said Reulbach was 'always five years ahead of his time in baseball thought.' He was the intellectual of the staff: Notre Dame student, medical school enrollee, a thinker on the mound. He studied hitters before film rooms existed. He didn't lead by yelling — he led by knowing more than everyone else.",
+    "temperament": "Gentleman athlete. 'One of the finest, clean-cut gentlemen who ever wore a big league uniform.' Catholic, educated, married a Vermont girl he met while pitching under an alias in an outlaw league. No fights, no scandals, no bench-clearing brawls. The anti-McGinnity. Where Iron Man was forge-fire, Reulbach was library quiet.",
+    "work_ethic": "Perfectionist and experimenter. His 5.33 H/9 in 1906 wasn't luck — it was mechanical precision. He worked on pitch sequencing and hitter-specific approaches decades before those concepts had names. The 20-inning CG win as a rookie showed he could grind. The two DH shutouts showed he could dominate. The wildness showed he was still human.",
+    "lifestyle": "Educated, Catholic, family man. Notre Dame, University of Vermont medical school. Married Nellie Whelan of Montpelier, VT — met her while pitching under the alias 'Sheldon' for the Montpelier-Barre Hyphens. After baseball: post-playing years described by SABR as 'not happy ones.' Died the same day as Ty Cobb — even in death, overshadowed by a bigger name.",
+    "era_adaptability": "VERY STRONG. Reulbach's approach — extreme hit suppression through movement and sequencing rather than velocity — is the modern pitching ideal. His 5.33 H/9 in 1906 would be elite in any era. The wildness would be a problem in a modern pitch-count world, but his stuff would play. He's the dead-ball era's proto-analytics pitcher.",
+    "clubhouse_impact": "RESPECTED BUT OVERSHADOWED. On a Cubs staff with Mordecai Brown, Orval Overall, Jack Pfiester, and Carl Lundgren, Reulbach was never the ace despite being arguably the most talented. He was the #2 or #3 who would have been the #1 on most other teams. In ILB: +1 team depth (he doesn't demand the spotlight, but he delivers when it matters).",
+    "dark_side": "The forgetting and the unhappiness. Ed Reulbach never received a single Hall of Fame vote — not one — despite a HOF Monitor score of 101, stats comparable to Sandy Koufax, and achievements no one else has matched (two DH shutouts). He was overshadowed by Brown on his own staff, by Mathewson in his own league, by Walsh in his own city. His post-baseball years were unhappy. He died the same day as Ty Cobb — July 17, 1961 — and even his death notice was buried under Cobb's obituary. The ultimate forgotten man."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Only One",
+      "desc": "Only pitcher in MLB history to throw two complete-game shutouts in a doubleheader. This card is unique. When Reulbach pitches a shutout, 30% chance the next game is also a shutout."
+    },
+    {
+      "tag": "Hit Suppressor",
+      "desc": "5.33 H/9 in 1906 — lowest until 1968. Opposing batters' CON reduced by 1 when facing Reulbach. They simply cannot find the ball."
+    },
+    {
+      "tag": "Five Years Ahead",
+      "desc": "Evers: 'Always five years ahead of his time in baseball thought.' Reulbach gains +1 STF when facing any batter for the second time in a game. He adjusts faster than they do."
+    },
+    {
+      "tag": "The Gentleman Pitcher",
+      "desc": "Clean-cut, Catholic, educated. +1 team chemistry. No off-field incidents, no morale penalties, no drama. The anti-controversy."
+    },
+    {
+      "tag": "Overshadowed",
+      "desc": "Never the acknowledged ace despite elite stats. When Reulbach is on a roster with a higher-OVR pitcher, he receives no media attention but gains +1 focus (less pressure)."
+    },
+    {
+      "tag": "Alias Sheldon",
+      "desc": "Pitched under a fake name in an outlaw league to be near his future wife. If his cover is blown, -1 reputation. If it holds, +1 romance bonus."
+    },
+    {
+      "tag": "Brown's Shadow",
+      "desc": "Mordecai Brown was the ace; Reulbach was the silent equal. When paired with another elite pitcher, both gain +1 STA from shared workload."
+    },
+    {
+      "tag": "Died with Cobb",
+      "desc": "Died July 17, 1961 — the same day as Ty Cobb. Even in death, overshadowed. +2 irony to legacy. -2 visibility."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "2,632 career IP. ERA under 2.00 in 4 of first 5 seasons. The mound is where he was most alive.",
+      "note_extra": "Source labeled 'Pitcher's Mound' / affinity 'HIGH' — mapped to Practice Field/HIGH as the pitching-craft domain. Seventh Practice Field/HIGH in the set. Reulbach joins the Banners NL1900 staff trio (Mathewson, McGinnity, Phillippe) and Plank at Practice Field/HIGH for the mound sub-domain, plus Puckett (batting cages) and Reese (infield/SS). Reulbach's is the hit-suppression register: '2,632 career IP. ERA under 2.00 in 4 of first 5 seasons.' The stat_justification.stf note ('extreme movement and deception rather than velocity') and the chemistry_trait 'Hit Suppressor' (opposing CON -1) are the mechanical expressions of this mound-based HIGH."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "'Five years ahead of his time.' Studied hitters before anyone else thought to. The proto-analytics mind.",
+      "note_extra": "Source labeled 'Clubhouse / Film Room' / affinity 'HIGH' — first Film Room sub-domain in the set. The source label explicitly adds 'Film Room' to the Clubhouse domain, encoding Reulbach's intellectual preparation (studying hitters, sequencing pitches) as a craft domain. Mapped to Practice Field/HIGH as the intellectual-preparation sub-domain — parallel to the mound HIGH but distinct in mechanism. The personality.leadership_style note ('He studied hitters before film rooms existed') and chemistry_trait 'Five Years Ahead' (+1 STF when facing a batter a second time) are the foundations. This is the first Practice Field/HIGH in the set explicitly grounded in cognitive/analytical craft rather than physical skill domain. Practice Field domain now spans: mound craft (pitchers), batting intensity (Puckett), infield fielding (Reese), and hitter-study/analytics (Reulbach)."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Notre Dame. University of Vermont medical school. An intellectual ballplayer before the concept existed.",
+      "note_extra": "Source labeled 'University / College' / affinity 'HIGH' — first academic-institution preferred_location in the set. No prior card has a university or college as a named domain. Mapped to Community Events/HIGH as an intellectual-formation space. Prior Community Events/HIGHs were geographic-origin (Phillippe/Dakota Territory, Overall/Central Valley, Plank/Gettysburg, Reese/Louisville) or civic-philanthropy (Puckett/Branch Rickey Award) or multi-institution (O'Doul/museums/zoos/theaters). Reulbach's is the first formally educational HIGH: Notre Dame and University of Vermont medical school as character-forming institutional domains. The personality.era_adaptability note ('dead-ball era's proto-analytics pitcher') and personality.leadership_style ('the intellectual of the staff') establish the academic domain as the origin of his cognitive baseball philosophy."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Roman Catholic. Buried at Immaculate Conception Cemetery. Faith was foundational.",
+      "note_extra": "Source labeled 'Church / Catholic Parish' / affinity 'MEDIUM' — first religious-institution preferred_location in the set. No prior card has a church or parish as a named domain. Mapped to Hotel/Rest/MEDIUM as a spiritual-community domain at moderate intensity — adjacent to the team-social Hotel/Rest MEDIUMs (restaurants, bar/social) but distinct in its institutional character. The source notes burial at Immaculate Conception Cemetery, making the religious-institution domain the last spatial context Reulbach occupied. The chemistry_trait 'The Gentleman Pitcher' (+1 team chemistry, no off-field incidents) is the behavioral expression of the faith MEDIUM. McInnis's Sunday-worship Hotel/Rest/LOW was the prior religious-behavioral entry — a lower-intensity observance avoidance. Reulbach's Church/MEDIUM is the first affirmative religious-institution domain entry in the set."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Met wife Nellie while pitching in Vermont. Medical school at UVM. A northeast romantic.",
+      "note_extra": "Source labeled 'Vermont / New England' / affinity 'MEDIUM' — mapped to Community Events/MEDIUM as a geographic-romantic-formation domain. Distinct from the university HIGH (institutional formation) and the hometown HIGHs (birth-to-death geography). Reulbach's Vermont MEDIUM is defined by two parallel tracks: the medical school at UVM (intellectual) and the alias-Sheldon romance (personal). The action card 'Pitching Under an Alias' expands the romance track into a d6-roll event. This is the first Community Events/MEDIUM whose content is defined by a romantic encounter in a specific region rather than civic connection or team dining."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "LOW",
+      "note": "Never received a single vote. The HOF is a place that excluded him entirely. Painful absence.",
+      "note_extra": "Source labeled 'Hall of Fame / Recognition' / affinity 'LOW' — second HOF-absence LOW in the set (Phillippe was first with Cooperstown/LOW). Reulbach's is more absolute: zero votes ever, versus Phillippe's 'still outside' (implying some degree of recognition-without-induction). The HOF Monitor score of 101 ('likely inductee level') paired with zero actual votes makes this the most mathematically stark HOF LOW in the set. Mapped to Media/Spotlight/LOW as institutional-recognition withheld. Two HOF-absence LOWs now coexist: Phillippe (categorically excluded despite clear historical case) and Reulbach (categorically excluded and completely forgotten — zero votes in all Hall elections)."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "LOW",
+      "note": "Overshadowed by Brown, Mathewson, Walsh. Died the same day as Cobb. Even this card risks forgetting him.",
+      "note_extra": "Source labeled 'Shadows / Anonymity' / affinity 'LOW' — first Shadows/Anonymity as a named domain in the set. Mapped to Media/Spotlight/LOW as absence-of-spotlight rather than harmful-spotlight or institutional-exclusion. The note's final clause — 'Even this card risks forgetting him' — is the most self-referential preferred_location note in the entire set: the ILB card production process itself is part of the risk of erasure. Three distinct Media/Spotlight/LOW registers in the set: harmful institutional event (Medwick's beaning/ejection), institutional exclusion (Phillippe and Reulbach/HOF), and structural invisibility (Reulbach/Shadows). Reulbach is the only card in the set with two Media/Spotlight/LOWs — the HOF exclusion and the general anonymity are distinct enough to warrant separate entries."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Low-hit games — pitched 12 games of 5 hits or fewer in 1906. When he's on, no one touches him.",
+      "Doubleheaders — two CG shutouts in one day. When asked to pitch twice, he gets better, not worse.",
+      "Pennant races — the DH shutouts came during the 1908 pennant race, 3 days after the Merkle game. He rises when the stakes peak.",
+      "World Series — one-hitter in 1906 WS, CG win in 1907 WS. 2-0 career WS record."
+    ],
+    "cold_triggers": [
+      "Wildness — 'extremely wild and unreliable' per the 1908 Reach Guide. Walks can pile up without warning.",
+      "Being overshadowed — when not the acknowledged ace, motivation can fluctuate. The talent is undeniable but the recognition never comes.",
+      "Injuries / decline — ERA ballooned after 1909, Cubs practically gave him away in 1913.",
+      "Post-baseball malaise — SABR: 'post-baseball years weren't happy ones.' The intellectual pitcher without a purpose after baseball."
+    ],
+    "pressure_response": "BRILLIANT IN BURSTS. Reulbach's greatest moments were explosions of dominance in pressure situations: the one-hitter in the 1906 WS, the CG win in the 1907 WS, and above all the two DH shutouts during the 1908 pennant race — 18 IP, 4 H, 0 R, three days after the Merkle game. But his overall WS ERA was 3.03, suggesting he wasn't always at his peak under pressure. The pattern: when Reulbach decided to dominate, no one could touch him. When he didn't, the walks came. In ILB: high ceiling, moderate floor."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Two Shutouts in One Day",
+      "type": "Game Action",
+      "text": "Your pitcher throws two complete-game shutouts in a single doubleheader. 18 innings, 4 hits, 0 runs. No other pitcher in history has ever done this. Your team gains +3 momentum. The opposing lineup is psychologically destroyed for the remainder of the series. This card can only be played during a pennant race.",
+      "origin": "September 26, 1908: Reulbach shut out Brooklyn 5-0 (one-hitter) and 3-0 (three-hitter) in both games of a doubleheader. 18 IP, 4 H, 0 R. No other pitcher has ever matched this feat."
+    },
+    {
+      "title": "The Ghost Hit Rate",
+      "type": "Game Action",
+      "text": "Your pitcher allows only 5.33 hits per 9 innings for the entire season — the lowest mark by any pitcher until 1968. Batters simply cannot find the ball. For 3 consecutive starts, opposing hitters face -2 CON.",
+      "origin": "1906: Reulbach allowed 5.33 H/9, the lowest in modern MLB history until the Year of the Pitcher (1968). In 12 starts he allowed 5 hits or fewer."
+    },
+    {
+      "title": "The One-Hitter in October",
+      "type": "Game Action",
+      "text": "Your pitcher throws a one-hitter in the World Series. Only one batter reaches safely on a hit. The opposing team is held to a single run or none. Your pitcher gains the 'October Ghost' trait for the remainder of the postseason.",
+      "origin": "1906 World Series, Game 2: Reulbach threw a one-hitter against the Chicago White Sox, the only time a Cubs pitcher dominated in that upset series."
+    },
+    {
+      "title": "Twenty Innings, One Win",
+      "type": "Game Action",
+      "text": "Your rookie pitcher throws a 20-inning complete game and wins. The opposing pitcher also goes the distance. Both pitchers gain +1 STA permanently and the 'Iron Will' trait. The game becomes legendary.",
+      "origin": "August 24, 1905: Reulbach, a 22-year-old rookie, went the full 20 innings to defeat Tully Sparks and the Phillies, 2-1. One of the longest CG wins in NL history."
+    },
+    {
+      "title": "Five Years Ahead of His Time",
+      "type": "Action",
+      "text": "Your pitcher studies the opposing lineup with unprecedented rigor — noting tendencies, pitch preferences, situational weaknesses. He gains +1 STF and +1 CTL for his next 3 starts against this team. In the dead-ball era, this is revolutionary.",
+      "origin": "Johnny Evers: 'Reulbach was always five years ahead of his time in baseball thought.' He studied hitters before scouting reports, film rooms, or analytics existed."
+    },
+    {
+      "title": "Pitching Under an Alias",
+      "type": "Drama",
+      "text": "Your college pitcher needs money and proximity to his sweetheart. He joins an outlaw league under a fake name — 'Sheldon.' If discovered, he loses eligibility. If he stays hidden, he meets the love of his life. Roll a d6: 1-2, discovered (scandal); 3-6, hidden (romance + baseball).",
+      "origin": "Reulbach pitched as 'Sheldon' for the Montpelier-Barre Hyphens in Vermont's outlaw Northern League. There he met Nellie Whelan, his future wife."
+    },
+    {
+      "title": "Zero Votes",
+      "type": "Drama",
+      "text": "Your retired legend — 182 wins, 2.28 ERA, achievements no one else has ever matched — receives zero Hall of Fame votes. Not one. The committee forgets him entirely. He watches contemporaries get inducted while he is erased. -3 legacy. The record stands. The man does not.",
+      "origin": "Ed Reulbach never received a single Hall of Fame vote, despite a Bill James HOF Monitor score of 101 and stats comparable to Sandy Koufax. He was perpetually overshadowed."
+    },
+    {
+      "title": "Died the Same Day as Cobb",
+      "type": "Drama",
+      "text": "Your forgotten player dies on the same day as the most famous player in baseball history. His obituary is buried beneath the other man's. Even in death, he is the shadow. +5 irony. The universe has a cruel sense of humor.",
+      "origin": "Ed Reulbach died July 17, 1961 — the exact same day as Ty Cobb. Reulbach's death was a footnote in Cobb's obituary coverage."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Tall, clean-cut, educated gentleman athlete. 6'0\" 190 lbs — lean and precise, the body of a thinker-pitcher. Intelligent eyes, clean jaw, the face of a man who went to Notre Dame and medical school. Not rugged like McGinnity or ethereal like Mathewson — quiet confidence, the look of someone who knows more than he says.",
+    "attire": "Chicago Cubs uniform circa 1906 — white wool jersey with 'CUBS' or 'C' insignia, baggy flannel pants, flat cap. Classic overhand delivery at the release point — arm extended, body coiled, the precise mechanics of a pitcher who suppresses hits through movement and sequencing rather than velocity. Or: walking off the mound after the second shutout of the day, cap slightly askew, having pitched 18 innings. No number.",
+    "mood": "Quiet mastery. The feeling of dominance without spectacle — Reulbach's card should feel like finding an unrecognized masterpiece in an attic. No fire, no drama — just a man throwing 18 innings of shutout ball and then going home. The West Side Grounds behind him, September twilight of the 1908 pennant race.",
+    "style": "Sepia-toned with cooler, more muted undertones than the McGinnity or Mathewson cards — Reulbach is in the shadows by design. Where McGinnity is forge-fire and Mathewson is moonlight, Reulbach is dusk. Quieter, more subtle, a card that rewards close inspection. The palette should suggest something half-forgotten being brought back to light.",
+    "reference": "Think the classic delivery at the release point — precise, mechanical, economical. No showmanship, no high kick — just the ball leaving the hand with invisible movement. Or: the pitcher walking off the mound after his second shutout of the day, alone, unremarked upon, while the pennant race rages around him. The forgotten ace, rediscovered."
+  }
+}

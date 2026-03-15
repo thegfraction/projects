@@ -1,0 +1,194 @@
+{
+  "card_type": "player",
+  "name": "Red Schoendienst",
+  "nickname": "Red",
+  "year": 1953,
+  "team": "St. Louis Cardinals",
+  "era": "1940s",
+  "ilb_team": "Allies AL1940",
+  "position": "2B",
+  "bats": "S",
+  "throws": "R",
+  "height": "6'0\"",
+  "weight": "170 lbs",
+  "born": "February 2, 1923 — Germantown, IL",
+  "died": "June 6, 2018 — Town and Country, MO (age 95)",
+  "hof": "HOF 1989 (Veterans Committee). 10× All-Star. 2× WS Champion (1946, 1957). #2 retired by Cardinals.",
+  "real_stats": {
+    "season": 1953,
+    "games": 145,
+    "at_bats": 567,
+    "hits": 193,
+    "doubles": 35,
+    "triples": 3,
+    "home_runs": 15,
+    "rbi": 79,
+    "runs": 107,
+    "stolen_bases": 1,
+    "walks": 53,
+    "strikeouts": 27,
+    "batting_avg": ".342",
+    "obp": ".393",
+    "slg": ".474",
+    "ops": ".867",
+    "ops_plus": 130,
+    "war": 5.5,
+    "career_avg": ".289",
+    "career_hits": 2449,
+    "career_hr": 84,
+    "career_rbi": 773,
+    "career_runs": 1223,
+    "career_2b": 427,
+    "career_sb": 89,
+    "career_war": 42.6
+  },
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 5,
+    "pow": 1,
+    "spd": 0,
+    "def": 3,
+    "clu": 2
+  },
+  "stat_justification": {
+    "con": "Schoendienst batted .342 in 1953 — second in the NL by .002 to Furillo. He struck out only 27 times in 567 AB. He was a switch-hitter who became ambidextrous by necessity: an Army eye injury made it impossible to read breaking balls from one side, so he taught himself to hit from both sides. Career .289 with 2,449 hits. Seven times over .300. Rating of 5.",
+    "pow": "15 HR in 1953 (career high). 84 career HR in 19 seasons. This was a contact hitter, not a power threat. SLG .474 doesn't clear the .500 bonus. His 427 career doubles show he hit the gaps, but homers were rare. The 1950 All-Star walk-off HR was his first career homer batting right-handed. Rating of 1.",
+    "spd": "1 SB in 1953. He led the NL with 26 SB as a rookie in 1945, but by his peak years the speed was gone. 89 career SB shows he had legs early, but in 1953 he was a 30-year-old contact man, not a basestealer. Rating of 0.",
+    "def": "THE defining defensive second baseman of his era. Led NL 2B in fielding percentage 7 times. Led in range factor 5 times. Handled 320 consecutive chances without an error in 1950. Set NL record with .9934 fielding average in 1956 (stood for 30 years until Sandberg). Alvin Dark: 'The finest second baseman in the game.' Pre-GG equivalent: 6-7 Gold Gloves. Rating of 3 — maximum defense.",
+    "clu": "World Series: .233 in 7 games (1946), .267 in 7 games (1957). Won both. Mixed October bat. But the 1950 All-Star Game: Schoendienst hit a walk-off HR in the 14th inning — his first career homer batting right-handed. It won the game for the NL. That's a genuine hero moment. His 1957 performance (3rd in MVP, drove Braves to pennant) adds context. Rating of 2."
+  },
+  "personality": {
+    "leadership_style": "The quiet constant. Schoendienst wasn't loud or flashy — he was always there. 74 consecutive years in a major-league uniform (player, coach, manager, special assistant). He led by showing up, by being prepared, by fielding every ground ball cleanly. His managing style reflected his playing style: steady, trusting, no drama. Cepeda said: 'He treats us like men.'",
+    "temperament": "Gentle, patient, resilient. Schoendienst survived an eye injury from Army bazookas, tuberculosis that took part of his lung, and being told he'd never play again — and he came back every time. He was compared to Huckleberry Finn by Bob Broeg: a small-town Illinois kid who just wanted to play baseball and go fishing. No ego, no controversy, no enemies.",
+    "work_ethic": "Self-made through necessity. Mother made baseballs from sawdust. Used corncobs and hickory nuts as balls, dried wood as bats. Signed for $75/month after an open tryout with 400 others. Became a switch-hitter because an Army eye injury forced him to learn a new skill. Hit .337 in the minors, won IL MVP, made the Cardinals — and never left. When TB took his lung, he came back and hit .300.",
+    "lifestyle": "Germantown, Illinois to St. Louis immortality. Married Mary Eileen O'Reilly for 53 years. Never left the Cardinals organization — 67 of 76 years in baseball with St. Louis. Wore #2 (retired). The most St. Louis Cardinal who ever lived. Bob Broeg compared him to Huck Finn — the barefoot Illinois kid who became a Hall of Famer.",
+    "era_adaptability": "HIGH FOR DEFENSE AND CONTACT. Schoendienst's defensive metrics translate to any era — he'd be a Gold Glove winner today. His switch-hitting contact approach (.289 career, 2,449 H) has value everywhere. But .474 SLG and 84 career HR would be a concern in modern power-driven baseball. He'd be a Ben Zobrist type: elite defense, solid bat, switch-hitter, leader.",
+    "clubhouse_impact": "THE SOUL OF ST. LOUIS. Schoendienst and Musial were inseparable — they were the Cardinals for 20 years. When Schoendienst was traded to the Giants in 1956, Musial said it was like losing a brother. When Red returned in 1961, the band was back together. As manager, he won the 1967 WS with a diverse roster (Gibson, Brock, Cepeda, Flood) — earning universal respect. In ILB terms: Schoendienst is +2 chemistry with ANY Cardinals player, +1 with any teammate.",
+    "dark_side": "The tuberculosis. In 1958-59, Schoendienst was diagnosed with TB and had part of his lung removed. He was told he'd never play again. He missed almost two full seasons. The disease nearly killed him — and when he came back, he was never the same player. His peak was stolen. Without TB, his career numbers would be substantially higher: more hits, more All-Star selections, possibly a BBWAA HOF election instead of waiting until 1989 (Veterans Committee). TB is Schoendienst's tragedy — the thing that kept him from being recognized as the truly elite player he was."
+  },
+  "chemistry_traits": [
+    { "tag": "The Finest 2B in the Game", "desc": "7× fielding leader, 5× range factor leader, 320 errorless chances. Maximum defense at second base. +1 to any pitcher's effectiveness when Schoendienst is behind him." },
+    { "tag": "Musial's Partner", "desc": "Schoendienst and Musial were inseparable for 20 years. If both on roster: +2 mutual chemistry. Musial called trading Red 'like losing a brother.'" },
+    { "tag": "Sawdust Baseball", "desc": "Mother made baseballs from sawdust. Used corncobs as balls, dried wood as bats. Poverty forged resourcefulness. +1 to adaptation in adverse conditions." },
+    { "tag": "Switch-Hitter by Necessity", "desc": "Army eye injury forced him to learn to bat from the opposite side. Became elite from both sides. +1 versatility. Cannot be platooned against." },
+    { "tag": "Tuberculosis Survivor", "desc": "Lost part of a lung. Told he'd never play again. Came back and hit .300. +2 resilience. -1 stamina (lung capacity reduced)." },
+    { "tag": "74 Years in Uniform", "desc": "Player, coach, manager, special assistant — 74 consecutive years in a MLB uniform. +1 institutional knowledge. +1 longevity." },
+    { "tag": "All-Star Walk-Off", "desc": "14th-inning walk-off HR in the 1950 All-Star Game — his first HR batting right-handed. +1 CLU in exhibition/All-Star events." },
+    { "tag": "320 Consecutive Chances", "desc": "Handled 320 straight fielding chances without an error in 1950. In ILB: when Schoendienst has no errors in current game, DEF bonus increases with each inning." }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "MAXIMUM",
+      "note": "7× NL fielding leader. 5× range factor leader. .983 career. NL record .9934 in 1956. THE position.",
+      "note_extra": "Source label: 'Second Base'. Maps to Practice Field (fielding position / craft domain). MAXIMUM affinity. First MAXIMUM for an infield defensive position — analogous to catcher's 'Behind the Plate' and pitcher's 'Pitcher's Mound' but for second base specifically. Cross-references DEF 3 and 'The Finest 2B in the Game' chemistry trait."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Switch-hitter. .342 in 1953. 27 K in 567 AB. Contact artisan from either side.",
+      "note_extra": "Source label: 'Batter's Box (Both Sides)'. Maps to Practice Field (batting cage / craft domain). HIGH affinity. Same '(Both Sides)' qualifier as Schang's entry — second switch-hitter batting location in the set."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "67 years with the Cardinals. Home. The most Cardinal who ever lived.",
+      "note_extra": "Source label: 'Sportsman's Park / Busch Stadium'. Maps to Community Events (home ballpark). HIGH affinity. 67 of 76 years in baseball spent with St. Louis."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Manager 12 years. Coach for decades. 74 years in uniform. The dugout was his second home.",
+      "note_extra": "Source label: 'Dugout / Coaching Box'. Maps to Practice Field (coaching / classroom craft domain). HIGH affinity. Same mapping as Maglie's 'Coaching / Mentoring' entry. Schoendienst's 74-year career in uniform makes this the longest-tenured coaching location in the set."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Sawdust baseballs. Corncob balls. $75/month. Where Red was made.",
+      "note_extra": "Source label: 'Germantown, Illinois'. Maps to Community Events (hometown / origin venue). HIGH affinity. Cross-references 'Sawdust Baseball' chemistry trait and origin story action cards."
+    },
+    {
+      "location": "Medical/Recovery",
+      "affinity": "MEDIUM",
+      "note": "TB took his lung. Eye injury from bazookas. Broken body, unbroken will.",
+      "note_extra": "Source label: 'Hospital / Recovery'. Maps to Medical/Recovery. MEDIUM affinity. First Medical/Recovery location at MEDIUM in the set — most Medical/Recovery entries have been at LOW or implied. Schoendienst's TB and Army injuries make this a substantial location, not just an incidental one."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "LOW",
+      "note": "84 career HR. This was not a power hitter. The gaps, not the fences.",
+      "note_extra": "Source label: 'Power Alleys'. Maps to Practice Field (batting power domain). LOW affinity. First explicitly negative-capability location in the set — a location entry that documents a weakness rather than a strength. The LOW affinity at a Practice Field subdomain is mechanically unusual."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "Defensive flow — when Schoendienst makes consecutive clean plays, his DEF compounds. The 320-chance streak mentality",
+      "Paired with Musial — both Cardinals on the same roster: +2 mutual chemistry activates",
+      "Contact streaks — Schoendienst hit .342 in 1953 with only 27 K. When he's locked in, pitchers can't miss bats",
+      "Adversity — Red thrived when told he couldn't. Eye injury? Became switch-hitter. TB? Came back and hit .300"
+    ],
+    "cold_triggers": [
+      "Tuberculosis relapse — stamina reduced. Long games, hot weather, sustained effort can trigger fatigue",
+      "Power situations — with runners in scoring position needing a HR, Schoendienst is limited (15 HR peak)",
+      "Trade/displacement — being traded from the Cardinals devastated him. Away from St. Louis, motivation dips"
+    ],
+    "pressure_response": "STEADY UNDER PRESSURE, NOT EXPLOSIVE. Schoendienst was not a dramatic clutch performer — he was a consistent one. His WS batting (.233, .267) was adequate, not electric. But his defensive reliability under pressure was elite: he never made the error that lost the game. The 1950 All-Star walk-off was his one explosive moment. In ILB terms: Schoendienst's CLU manifests through defense, not offense — he won't hit the game-winning homer, but he'll make the game-saving play."
+  },
+  "action_card_seeds": [
+    {
+      "title": "Sawdust Baseballs",
+      "type": "Drama",
+      "text": "A boy's mother makes baseballs from sawdust. They last a few pitches before disintegrating. The boys use corncobs, hickory nuts, and rocks when the sawdust runs out. Dried wood serves as bats. Thirty years later, the boy is in the Hall of Fame.",
+      "origin": "Red's mother Mary made baseballs from sawdust for her sons and their friends in Germantown, IL. The family also used corncobs and rocks as balls and dried wood as bats."
+    },
+    {
+      "title": "The Bazooka Eye",
+      "type": "Drama",
+      "text": "Your second baseman returns from war with damaged eyes — he can no longer read breaking balls from his natural batting side. So he teaches himself to hit from the other side too. He becomes one of the best switch-hitters in baseball. Adversity didn't diminish him — it doubled him.",
+      "origin": "Schoendienst sustained eye damage while firing bazookas in the Army. He couldn't track breaking balls batting right-handed, so he became a switch-hitter. His 1950 All-Star walk-off HR came batting right-handed — the side he learned by necessity."
+    },
+    {
+      "title": "320 Without an Error",
+      "type": "Game Action",
+      "text": "Your second baseman handles his 100th consecutive chance without an error. Then his 200th. Then his 300th. The streak reaches 320. Every ground ball, every relay, every double-play pivot — clean. The record stands as testament to hands that never fail.",
+      "origin": "In 1950, Schoendienst handled 320 consecutive fielding chances without an error, a remarkable streak for a second baseman."
+    },
+    {
+      "title": "Walk-Off in the 14th",
+      "type": "Game Action",
+      "text": "The All-Star Game goes to extra innings. 14 innings played. Both leagues exhausted. Your switch-hitter — batting from his weaker side — launches a home run to end it. It's his first career homer from that side. The National League wins on the strength of a man who learned to hit that way because war broke his eyes.",
+      "origin": "1950 All-Star Game. Schoendienst hit a walk-off HR in the 14th inning — his first career homer batting right-handed — to win the game for the National League."
+    },
+    {
+      "title": "Part of a Lung",
+      "type": "Drama",
+      "text": "Your second baseman is diagnosed with tuberculosis. Doctors remove part of his lung. They tell him he will never play baseball again. He returns next season. He hits .300. He plays three more years. He manages for twelve more. He wears the uniform for 74 consecutive years.",
+      "origin": "Diagnosed with TB in 1958-59, Schoendienst underwent partial pneumonectomy. He returned in 1960, hit .300 in 1961 and 1962, then managed the Cardinals to the 1967 WS title."
+    },
+    {
+      "title": "Like Losing a Brother",
+      "type": "Drama",
+      "text": "Your team trades its second baseman — the franchise icon's best friend and partner of eleven years. The icon says it feels 'like losing a brother.' Five years later, the second baseman comes home. They play their final seasons together. They retire together. They remain inseparable until death.",
+      "origin": "When the Cardinals traded Schoendienst to the Giants in 1956, Musial was devastated. Red returned in 1961; both retired after 1963. Their friendship lasted a lifetime."
+    },
+    {
+      "title": "The $75-a-Month Tryout",
+      "type": "Drama",
+      "text": "Four hundred hopefuls show up for an open tryout. The scout doesn't sign the red-haired kid. Then changes his mind, drives to the kid's small town, and offers $75 a month. The kid accepts. He plays for 19 years, manages for 14 more, coaches for decades, and wears the uniform for 74 consecutive years.",
+      "origin": "Schoendienst attended a 1942 Cardinals open tryout with 400 others. He wasn't signed initially — scout Joe Mathes later drove to Germantown and signed him for $75/month."
+    },
+    {
+      "title": "Seven Decades in the Same Uniform",
+      "type": "Drama",
+      "text": "Your second baseman plays for 19 years. Manages for 14 years. Coaches for decades more. When he finally stops wearing the uniform, he has done so for 74 consecutive years — longer than most human lifespans. The number on his back is retired. The organization is his family. He IS the franchise.",
+      "origin": "Schoendienst wore a Cardinals uniform for 74 consecutive years (1945-2018), spanning parts of 8 decades. He served 67 of his 76 years in baseball with St. Louis. #2 was retired in 1996."
+    }
+  ],
+  "art_direction": {
+    "face": "6'0\" 170 lbs, lean and wiry. Red hair (the source of his nickname). Freckled, sun-weathered, Illinois farm kid face. The look of a man who was compared to Huckleberry Finn — resourceful, cheerful, humble. Eyes that survived bazooka damage and still tracked breaking balls from both sides.",
+    "attire": "St. Louis Cardinals home whites, early 1950s style. Switch-hitter in a balanced, compact stance. Or: at second base, mid-double-play pivot, the relay throw flowing from glove to hand to first base with mechanical precision. The cleanest hands in baseball.",
+    "mood": "Quiet reliability. Schoendienst was not dramatic or explosive — he was the man who never made the error, never struck out, never caused a problem. The card should radiate dependability and craftmanship. Like a perfectly made tool — nothing wasted, everything functional, built to last 74 years.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Sportsman's Park — the old Cardinals home. Midwestern light, Illinois farmland somewhere in the background of his soul. The card should feel lived-in, warm, and permanent — like a man who wore the same uniform for seven decades.",
+    "reference": "Think of the ultimate franchise man. Schoendienst IS the Cardinals the way no other player is any other franchise. 74 years. His card should feel like an institution — not a single moment, but an entire lifetime devoted to one place, one position, one organization. The anti-Thomson: not one legendary swing, but ten thousand perfectly fielded ground balls."
+  }
+}

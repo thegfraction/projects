@@ -1,0 +1,195 @@
+{
+  "card_type": "player",
+  "name": "Edd Roush",
+  "nickname": "The Alley Cat",
+  "year": 1923,
+  "team": "Cincinnati Reds",
+  "era": "1920s",
+  "ilb_team": "Bashers AL1920",
+  "position": "CF",
+  "bats": "L",
+  "throws": "L",
+  "height": "5'11\"",
+  "weight": "170 lbs",
+  "born": "May 8, 1893 — Oakland City, Indiana. Twin brother Fred. 'Edd' not short for Edward. 'J' not short for anything. Parents named twins Edd and Fred — simple and lyrical.",
+  "died": "March 21, 1988 — Bradenton, Florida (age 94). Died just before a spring training game at McKechnie Field — named for his dear friend Bill McKechnie. Last surviving Federal League participant. Last surviving 1919 World Series participant. Lived to 94, longer than any other Basher.",
+  "hof": "INDUCTED 1962 — Veterans Committee (with McKechnie, Jackie Robinson, Bob Feller). 1969: voted greatest player in Cincinnati Reds history. Joe Morgan: 'the best of us all.' Threw out last ball at Crosley Field (1970). Career 40.3 WAR with Reds alone. Legitimate HOFer — .323 lifetime, 2× batting champion, elite defense, 1919 WS champion.",
+
+  "real_stats": {
+    "season": 1923,
+    "batting_avg": ".351",
+    "obp": ".394",
+    "slg": ".490",
+    "ops": ".884",
+    "hits": 183,
+    "doubles": 41,
+    "triples": 18,
+    "home_runs": 6,
+    "rbi": 88,
+    "runs": 88,
+    "stolen_bases": 14,
+    "strikeouts": "~20 (est.)",
+    "walks": 39,
+    "games": 138,
+    "war": "~5.4",
+    "note": "LED NL IN DOUBLES (41). .351 BA (2nd NL behind Hornsby .384). 18 triples (6th NL). Fractured rib Aug-Sep but finished strong.",
+    "career_batting_avg": ".323",
+    "career_hits": 2376,
+    "career_hr": 68,
+    "career_rbi": "~981",
+    "career_slg": ".446",
+    "career_triples": 182,
+    "career_doubles": "339 (by some counts)",
+    "career_sb": 268,
+    "career_games": "~1,967",
+    "career_seasons": "18 (1913-1931, sat out 1930)",
+    "ws_championship": "1 (1919 — 'the Reds would have won either way')",
+    "batting_titles": "2 (1917: .341, 1919: .321)",
+    "bat_weight": "48 ounces — heaviest bat used in baseball history",
+    "bat_claim": "Never broke a bat in his big league career",
+    "inside_park_hr": 30,
+    "max_strikeouts": "Never more than 25 K in any season. Career: 260 K in 7,363 AB",
+    "reds_record": "1917-1926 with CIN: .339 BA, never below .323. Greatest Red before Big Red Machine.",
+    "holdouts": "Held out 1921, 1922 (most of season), 1923, 1927-1928, 1930 (entire year)"
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 4,
+    "pow": 2,
+    "spd": 3,
+    "def": 3,
+    "clu": 1
+  },
+
+  "stat_justification": {
+    "con": "Roush hit .351 in 1923 (2nd NL behind Hornsby) and led the NL with 41 doubles. His career: .323 BA with 2,376 hits. In 10 full seasons with Cincinnati (1917-1926), he never batted below .323. He won batting titles in 1917 (.341) and 1919 (.321). His career-high was .352 in 1921. He never struck out more than 25 times in any season (career: 260 K in 7,363 AB). He used a 48-ounce bat — the heaviest in baseball history — and claimed he never broke one. Pete Alexander called him and Ross Youngs the 'trickiest, smartest' batters he ever faced. Roush used an unusual technique, moving his feet after the pitcher released the ball to place-hit to all fields. Rating of 4.",
+    "pow": "Roush hit 6 HR in 1923 — he was not a home run hitter. Career: only 68 HR. However, he led the NL with 41 doubles (1923) and 21 triples (1924), with 182 career triples and 30 inside-the-park home runs. The power was genuine but it was GAP power — line drives into alleys, not over fences. The 48-ounce bat was designed for contact and line drives, not moonshots. Rating of 2.",
+    "spd": "Roush stole 14 bases in 1923. Career: 268 SB. His 182 career triples are extraordinary — you need elite speed to hit that many triples. He had 30 inside-the-park home runs. He was described as 'fleet-footed' throughout his career. The speed was a genuine weapon that powered his triples, his defense, and his baserunning. Rating of 3.",
+    "def": "This is the crown jewel. Heinie Groh: 'Eddie used to take care of the whole outfield, not just center field. He was far and away the best outfielder I ever saw.' John McGraw: 'That Hoosier moves with the regal indifference of an alley cat.' Roush set a ML record for outfielders with 6 straight putouts. He led NL CF in putouts (1920), fielding % (1919, 1921, 1925). He was 'renowned as having the best arm of any outfielder in his era.' He instructed teammates where to play — when pitcher-turned-outfielder Bressler played beside him in 1919, Bressler said: 'We're right in front of every line drive. What I can't understand is why we have to move around so much.' Born left-handed, learned to throw right when lefty gloves were scarce, injured his shoulder, went BACK to throwing left-handed — and still had the best arm. Rating of 3 (maximum).",
+    "clu": "Roush won the 1919 World Series with the Reds — the series forever shadowed by the Black Sox scandal. He hit .214 in the Series (6-for-28) with 7 RBI and 2 SB. He insisted until his dying day at 94 that the Reds would have won regardless of the fix. But he never appeared in another World Series. One ring, one October, one asterisk. Rating of 1."
+  },
+
+  "personality": {
+    "leadership_style": "THE INDIVIDUAL. Roush was 'the great individualist in the game' (Pat Moran). He didn't follow orders. When McGraw repositioned him, the batter hit a triple through the vacated spot. McGraw learned: 'Eddie, the next time I signal you to move, don't budge.' Roush led by KNOWING MORE THAN HIS MANAGERS. He positioned teammates. He instructed outfielders. He saw the game better than anyone on the field, including the man in the dugout.",
+    "temperament": "CANTANKEROUS AND PROUD. 'A proud and stubborn man' — the defining description. He hated spring training, never attended if he could avoid it, hunted quail in Indiana until a week before opening day, and STILL hit .351. He held out almost every year. He sat out ALL of 1930 over salary. He fell asleep in the outfield during an argument and got ejected. He was 'the best silence keeper in baseball.' He said what he wanted, closed his mouth, and waited. No gabbing. No explaining. The alley cat doesn't negotiate. The alley cat sits.",
+    "work_ethic": "NATURAL GENIUS, NO TRAINING REQUIRED. Pat Moran: 'All that fellow has to do is wash his hands, adjust his cap and he's in shape to hit.' Roush never needed spring training. He hunted and farmed all winter, arrived at the last possible moment, and produced at an elite level immediately. The body was always ready because the body was always WORKING — on the farm, in the field, hunting quail. Just not at a baseball facility.",
+    "lifestyle": "INDIANA FARMER. Oakland City, Indiana. Will Roush was a dairy farmer. Edd hunted quail and rabbits. He married Essie, had daughter Mary, and lived on the family land. After baseball: returned to the farm. Built a winter house in Bradenton, Florida. Saved his money from all those holdouts and was financially comfortable in retirement. No bartending, no security guard work, no debt. The alley cat planned ahead.",
+    "era_adaptability": "MODERATE-HIGH. The .323 career BA and elite defense would translate. The 48-ounce bat would be unthinkable today, but the plate discipline (≤25 K/season) and place-hitting ability would be extraordinary in any era. The speed (268 SB, 182 3B) would play. The defense would play. The holdouts? He'd be a free agent nightmare.",
+    "clubhouse_impact": "COMPLICATED. Roush was respected but not necessarily loved. He fought with McGraw constantly ('If you made a bad play he'd cuss you out, yell at you, call you all sorts of names. That didn't go with me.'). He was fiercely independent, frequently absent for holdouts, and didn't suffer fools. But he was NOT disliked — he was simply HIS OWN MAN. In ILB: Roush provides +1 to team defense (the alley cat positions everyone) but -1 to manager relations.",
+    "tragic_element": "THE ASTERISK AND THE SILENCE. Edd Roush won the 1919 World Series — the only championship of his career. It is forever shadowed by the Black Sox scandal. For 69 years, until his death at 94, Roush insisted the Reds were the better team and would have won regardless. Nobody listened. The greatest Red of them all had his greatest moment stolen — not by the Black Sox, but by HISTORY'S REFUSAL TO CREDIT THE REDS. He died at McKechnie Field in Bradenton, just before a spring training game, at the field named for his best friend. He was 94. He was still insisting."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The 48-Ounce Bat",
+      "desc": "Heaviest bat in baseball history. Never broke it. In ILB, Roush's 48-oz bat provides +1 CON (the heavy bat controls the ball) but -1 POW (the bat is for placement, not distance). The bat is a tool, not a weapon."
+    },
+    {
+      "tag": "The Holdout",
+      "desc": "Held out almost every year. Sat out ALL of 1930. In ILB, Roush has a 30% chance of starting each season late. When he returns, he hits .385 for the rest of the year. The holdout is the STRATEGY, not the flaw."
+    },
+    {
+      "tag": "The Alley Cat",
+      "desc": "'That Hoosier moves with the regal indifference of an alley cat' (McGraw). In ILB, Roush has +2 DEF range and CANNOT be repositioned by his manager. He positions HIMSELF. If the manager tries to move him: the batter hits a triple through the vacated spot."
+    },
+    {
+      "tag": "Fell Asleep in the Outfield",
+      "desc": "June 8, 1920: during a lengthy argument, Roush fell asleep in center field. Ejected for delay of game. In ILB, once per season: d20. On 1: Roush falls asleep during a delay and is ejected. On 2-20: nothing happens. The cat naps."
+    },
+    {
+      "tag": "The Best Silence Keeper",
+      "desc": "'He is the best silence keeper in baseball. Just says real early what he wants and then closes up.' In ILB, Roush is IMMUNE to media pressure, contract disputes, and verbal intimidation. The silence is power."
+    },
+    {
+      "tag": "The 1919 Asterisk",
+      "desc": "Won the World Series that the Black Sox threw. In ILB, Roush's championship ring is PERMANENTLY CONTESTED. Opponents may challenge the ring's legitimacy. Roush always responds: 'We would have won anyway.'"
+    },
+    {
+      "tag": "The Hall of Fame Trade",
+      "desc": "Traded with Christy Mathewson and Bill McKechnie to Cincinnati (1916). Three future HOFers in one deal. In ILB, when Roush is traded, he brings +1 legacy value to the acquiring team."
+    },
+    {
+      "tag": "The Quail Hunter",
+      "desc": "Hunted quail and rabbits in Oakland City, Indiana until a week before opening day. Never needed spring training. In ILB, Roush does NOT require spring conditioning. He arrives ready. The farm is the training ground."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Media/Spotlight",
+      "affinity": "MAXIMUM / HOME",
+      "note": "1917-1926. Ten full seasons, never below .323. 'Roush Day' in 1926. Threw out last ball at Crosley Field (1970). The greatest Red.",
+      "note_extra": "Source labeled 'Redland Field / Crosley Field, Cincinnati' / affinity 'MAXIMUM / HOME' — second slash-compound affinity in the set (Rice's 'ORIGIN / WOUND' was first). The MAXIMUM / HOME compound encodes simultaneous peak-performance and home-identity at the same location. Roush's 10 full Cincinnati seasons (.339 average, never below .323) are the statistically densest franchise attachment in the set's preferred_location taxonomy. The 'Roush Day' in 1926 and the final ball at Crosley Field in 1970 bookend 44 years of institutional identification. Mapped to Media/Spotlight as the franchise-identity-stage domain at its highest compound register."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "IDENTITY",
+      "note": "Not just center field — 'the whole outfield.' He positioned everyone. The alley cat owned the grass.",
+      "note_extra": "Source labeled 'Center Field' / affinity 'IDENTITY' — first single-word domain-identity affinity in the set. 'IDENTITY' collapses the location/affinity distinction entirely: Center Field is not a place Roush goes to perform — it is what Roush IS. The chemistry_trait 'The Alley Cat' (+2 DEF range, cannot be repositioned by manager) is the mechanical expression. The note 'not just center field — the whole outfield' encodes the DEF 3 qualifier: Roush's IDENTITY domain is larger than the position itself. Mapped to Practice Field/IDENTITY as the craft-domain-as-self-definition register. No prior card has used IDENTITY as an affinity."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HOME / SOUL",
+      "note": "The family farm. The quail hunting. The silence. The holdouts were conducted from here. The cat always came home.",
+      "note_extra": "Source labeled 'Oakland City, Indiana' / affinity 'HOME / SOUL' — third slash-compound affinity in the set (Rice's ORIGIN / WOUND, Roush's MAXIMUM / HOME, now HOME / SOUL). HOME / SOUL is the most spiritual compound in the set: it encodes Oakland City not only as Roush's birthplace and family ground but as the source of his entire competitive philosophy (the holdout, the silence, the quail-hunting non-spring-training regimen). The chemistry_traits 'The Holdout' and 'The Quail Hunter' are the mechanical expressions. 'The cat always came home' — the most concise preferred_location note in the set."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "CODA",
+      "note": "Named for his best friend. He died here at 94, just before a spring training game. The last place. The right place.",
+      "note_extra": "Source labeled 'McKechnie Field, Bradenton, FL' / affinity 'CODA' — first single-word narrative-ending affinity in the set. 'CODA' encodes the location as a biographical closure point: not where Roush performed, not where Roush lived, but where the story ends. The field was named for Bill McKechnie (completed card — Roush's best friend from the 1916 HOF trade and the 1919 WS championship). Roush died there at age 94, before a spring training game he had come to watch. The 'died' field states: 'Died just before a spring training game at McKechnie Field — named for his dear friend Bill McKechnie.' The preferred_location CODA and the died field are the same event described from different angles. No other preferred_location in the set encodes the player's death as a domain."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Late-season surges — .385 over the last 37 games of 1921 after holdout + injuries. The cat wakes up when the season demands it.",
+      "Post-holdout return — every time Roush returned from a holdout, he hit immediately. No rust. No adjustment. The farm was the training ground.",
+      "Stable routine — when Roush was on his schedule (no McGraw interference, no spring training, just playing), he was .339 over 10 seasons.",
+      "27-game hitting streaks (1920 and 1924) — when the bat found its groove, it stayed there for weeks."
+    ],
+    "cold_triggers": [
+      "McGraw's interference — Roush hated being repositioned, criticized, or managed. McGraw's style clashed with Roush's independence.",
+      "Injuries — fractured rib (1923), leg injuries (1921, 1924), torn stomach muscles (1928). The body was strong but not indestructible.",
+      "Early-season holdout returns — the first few weeks after a holdout could be slow (.195 in first 19 games for Irish Meusel was similar; Roush had comparable adjustment periods).",
+      "The Giant years — .304, .252, .324 with NYG (1927-1929). The cat didn't thrive in McGraw's cage."
+    ],
+    "pressure_response": "THE REGAL INDIFFERENCE OF AN ALLEY CAT. Roush didn't feel pressure because Roush didn't acknowledge pressure. He didn't try harder in big moments or shrink from them. He simply HIT THE WAY HE ALWAYS HIT. The 48-ounce bat swung the same way in September as in April. The .214 in the 1919 WS was below his standard, but the 7 RBI and 2 SB suggest he was still productive. The cat doesn't care about the stakes. The cat hunts."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Forty-Eight Ounces",
+      "type": "Equipment / Identity",
+      "text": "Your center fielder uses a 48-ounce bat. The heaviest bat in baseball history. Four ounces heavier than Babe Ruth's. He claims he has never broken it. Not once. Not ever. The bat is not a weapon — it is a TOOL. He doesn't swing for the fences. He places the ball. He moves his feet AFTER the pitcher releases the ball, adjusting his swing to hit to any field. The 48-ounce bat is the heaviest object in baseball swung by the lightest touch. He hits .351 with it. He leads the league in doubles. He never strikes out more than 25 times in a season. The bat is heavier than physics should allow and lighter than it has any right to feel.",
+      "origin": "Roush's legendary 48-ounce Louisville Slugger — heaviest in baseball history. Never broke it."
+    },
+    {
+      "title": "The Cat Sleeps",
+      "type": "Character / Legend",
+      "text": "June 8, 1920. A lengthy argument breaks out on the field. The umpires argue with the managers. The managers argue with each other. The players crowd around. Your center fielder, standing in the outfield, lies down on the grass and falls asleep. His teammate Heinie Groh runs out to wake him. He cannot be woken. The umpire ejects your center fielder for delay of game. Your center fielder was not delaying. Your center fielder was SLEEPING. The alley cat naps when the alley cat pleases. The alley cat does not care about your argument.",
+      "origin": "Roush literally fell asleep in center field during an on-field argument (June 8, 1920). Ejected for delay of game."
+    },
+    {
+      "title": "The Best Silence Keeper",
+      "type": "Negotiation / Character",
+      "text": "Every year, the same ritual. Your center fielder announces what he wants. Then he closes his mouth. He goes back to Indiana. He hunts quail. He tends the farm. The team offers less. He says nothing. The team threatens fines. He says nothing. The team tells the newspapers he is being unreasonable. He says nothing. Weeks pass. Sometimes months. Sometimes AN ENTIRE SEASON (1930). Eventually, the team gives him what he wants. Or he doesn't play. 'He is the best silence keeper in baseball. Just says real early what he wants and then closes up. No gabbing or elaborate explanations. Transacts business the way he plays ball — no fuss, but exceedingly effective.'",
+      "origin": "The Sporting News on Roush's negotiation tactics. He held out nearly every year of his career."
+    },
+    {
+      "title": "We Would Have Won Anyway",
+      "type": "Legacy / Defiance",
+      "text": "1919. Your center fielder's team wins the World Series. They beat the Chicago White Sox five games to three. It is your center fielder's only championship. Then the truth comes out: eight White Sox players conspired to throw the Series. The Black Sox scandal. For the rest of his life — for SIXTY-NINE YEARS — your center fielder insists the Reds were the better team and would have won regardless. He says it in 1920. He says it in 1950. He says it in 1988, at age 94, days before he dies. He never stops saying it. He is correct: the Reds had the better pitching, the better defense, and his center fielder hit .321 to win the batting title that year. But nobody listens. The asterisk is permanent. The defiance is also permanent.",
+      "origin": "Roush's lifelong insistence that the 1919 Reds would have beaten the White Sox even without the fix."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'11\" 170 lbs — not big. WIRY. Farmer's build — lean, strong, functional. Indiana face: weathered, sun-browned, angular, the face of a man who hunts quail at dawn and hits .351 at dusk. Eyes SHARP and KNOWING — the alley cat's eyes. He sees everything. He misses nothing. He also doesn't care what you think about what he sees. An expression of REGAL INDIFFERENCE — not arrogant, not hostile, simply UNCONCERNED with your opinion. The ever-so-slight suggestion of amusement. The cat watching the dogs argue.",
+    "attire": "Cincinnati Reds 1923 whites. LEFT-HANDED batting stance — unusual, the 48-ounce bat visible in his hands, disproportionately thick, the heaviest bat in baseball. The stance should be COMPACT and PRECISE — not a power stance, a PLACEMENT stance. The feet ready to MOVE after the pitch is released. Or: in center field, ranging — the full extension of the alley cat, covering not just center but the whole outfield. The body is FUNCTIONAL — every part serves a purpose, nothing wasted, nothing decorative.",
+    "mood": "REGAL INDIFFERENCE. This card has the quality of a cat sitting in a windowsill — completely aware of everything happening outside and completely uninterested in participating in any of it. The mood is SELF-POSSESSION — the absolute security of a man who knows exactly what he is worth and will not accept a penny less. Not aggressive. Not passive. SOVEREIGN.",
+    "style": "Full color — Bashers era — REDS RED AND INDIANA EARTH. Deep Cincinnati red, Indiana earth brown, farm cream, quail gray. The palette is GROUNDED — no flash, no electricity, no neon. This is soil and leather and heavy wood. The border should be EARTH BROWN — the color of the Oakland City farm, of the outfield grass at Redland Field, of the 48-ounce Louisville Slugger. THE ALLEY CAT — the card that doesn't need your approval. The most SELF-CONTAINED card in the Bashers. Every other card exists in relationship to something — teammates, rivals, records, recognition. The Alley Cat exists in relationship to ITSELF.",
+    "reference": "Ruth is the solar system. Hornsby is the blade. Frisch is the flash. Irish Meusel is the goldfish. Edd Roush is THE ALLEY CAT — the card that doesn't need you. He doesn't need spring training. He doesn't need your salary offer. He doesn't need your opinion about the 1919 World Series. He needs his farm, his 48-ounce bat, and center field. The rest is negotiable. The cat sleeps when the cat pleases. The cat hunts when the cat pleases. The cat hits .351 when the cat pleases. The cat lived to 94."
+  }
+}

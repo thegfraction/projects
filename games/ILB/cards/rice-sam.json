@@ -1,0 +1,216 @@
+{
+  "card_type": "player",
+  "name": "Sam Rice",
+  "nickname": "Man o' War",
+  "year": 1925,
+  "team": "Washington Senators",
+  "era": "1920s",
+  "ilb_team": "Bashers AL1920",
+  "position": "RF",
+  "bats": "L",
+  "throws": "R",
+  "height": "5'9\"",
+  "weight": "150 lbs",
+  "born": "February 20, 1890 — Morocco, Indiana (born Edgar Charles Rice)",
+  "died": "October 13, 1974 — Rossmoor, Maryland (age 84)",
+  "hof": "Inducted 1963 (Veterans Committee). .322 career BA. 2,987 hits — 13 short of 3,000. 351 SB. Led AL in hits twice. 14 seasons batting .300+. 3 pennants, 1 WS title (1924). Sports Illustrated: 'His plaque may be the most inadequate in Cooperstown.'",
+
+  "real_stats": {
+    "season": 1925,
+    "batting_avg": ".350",
+    "obp": ".383",
+    "slg": ".467",
+    "ops": ".850",
+    "hits": 227,
+    "runs": 111,
+    "doubles": 31,
+    "triples": 13,
+    "home_runs": 1,
+    "rbi": 76,
+    "walks": 44,
+    "strikeouts": 17,
+    "stolen_bases": 26,
+    "war": 5.9,
+    "season_1920": ".338 BA / 63 SB (led AL) / 454 PO (AL OF record) / 'Man o' War'",
+    "career_batting_avg": ".322",
+    "career_hits": 2987,
+    "career_2b": 498,
+    "career_3b": 184,
+    "career_hr": 34,
+    "career_sb": 351,
+    "career_rbi": 1078,
+    "career_war": 52.2,
+    "ws_avg": ".302 (19-for-63)",
+    "hitting_streak": "31 games (1924)"
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 5,
+    "pow": 1,
+    "spd": 4,
+    "def": 2,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": "Sam Rice hit .350 with 227 hits in 1925, including an AL-record 182 singles (not broken until Willie Wilson in 1980). He completed a 616 at-bat season with only 9 strikeouts. He hit .322 for his career with 2,987 hits — 13 short of 3,000, a number he didn't know he was chasing because nobody tracked it in his era. He hit .300 or better in 14 seasons. He led the AL in hits twice. He never swung at the first pitch. He had a 31-game hitting streak during the 1924 pennant race. His contact rate was staggering by any era's standards — sub-3% K rate in his best seasons. 'He stood erect at the plate and used quick wrists to slash pitches to all fields.' Rating of 5.",
+    "pow": "Rice hit 1 home run in 1925. He hit 34 in his entire 20-year career — and 21 of those were inside-the-park, meaning they came from his speed, not his bat power. He never hit a home run over the fence at Griffith Stadium, his home park for 19 seasons. He weighed 150 pounds. His .467 SLG in 1925 came from 31 doubles, 13 triples, and relentless singles — not from extra-base authority. His career 498 2B and 184 3B came from speed finding gaps, not from driving the ball. Rating of 1.",
+    "spd": "In 1920, Rice stole 63 bases to lead the American League, earning the nickname 'Man o' War' after the famous racehorse. He stole 351 bases in his career and finished in the top 5 in stolen bases for eight consecutive seasons. His 454 putouts in 1920 set an AL outfield record — a reflection of his extraordinary range. 21 of his 34 career home runs were inside-the-park. He had 184 career triples — a number that reflects pure speed. He played until age 44 and was still productive, hitting .293 in his final season. Rating of 4.",
+    "def": "Rice led AL outfielders in putouts twice and in assists once. His 454 putouts in 1920 were an AL record — a testament to his range and his ability to run down fly balls. His most famous defensive moment is THE catch: 1925 World Series, Game 3, Rice raced to catch Earl Smith's drive at the fence, leaped, caught the ball, and tumbled over the four-foot fence into the stands, disappearing from view. He emerged with the ball. The umpire called Smith out. Pirates manager McKechnie argued. Rice wrote a sealed letter opened after his death: 'At no time did I lose possession of the ball.' Rating of 2.",
+    "clu": "Rice played in three World Series (1924, 1925, 1933) and won the 1924 championship. His career WS batting average was .302 (19-for-63). He led the AL with 216 hits during the 1924 pennant race, including a 31-game hitting streak in September. In the 1925 WS, he made the catch over the fence — one of the most famous defensive plays in WS history. In the 1933 WS, at age 43, he pinch-hit and collected a single. He delivered across two decades of October baseball. Rating of 2."
+  },
+
+  "personality": {
+    "leadership_style": "SILENT ENDURANCE. Rice did not lead through words or charisma. He led through presence — by showing up every day, by hitting .300 every year, by running down every fly ball, by never speaking of the worst thing that ever happened to him. His teammates described him as quiet, humble, consistent. Bucky Harris wrote him a letter before the 1925 WS: 'The players seem to have more courage and pep when you're around.' That is the leadership of a man who carries something so heavy that his mere ability to function inspires others.",
+    "temperament": "SEALED. This is the defining word. Rice sealed away his past — his name (Edgar became Sam), his family (his second wife didn't know about the tornado for decades), his catch (the letter was opened after his death). He was not cold. He was not distant. He was SEALED — a man who had decided that certain things would never be spoken, and who kept that decision for sixty years. He was warm to those around him. He was generous (he employed Japanese-American workers displaced during WWII on his poultry farm). But the seal was absolute.",
+    "work_ethic": "TRANSFORMATION. Rice began as a pitcher. He became a Hall of Fame outfielder. He began as Edgar. He became Sam. He began as a man with a family. He became a man with none. He began as a minor leaguer who couldn't make a roster. He became a man with 2,987 hits. Every stage of his career was a reinvention — a man rebuilding himself from nothing, over and over, until the accumulated weight of all those rebuildings became a career that 'may be the most inadequate plaque in Cooperstown.'",
+    "lifestyle": "From Morocco, Indiana, to the world and back to earth. After the tornado, Rice wandered — Kentucky, Minnesota, the Dakotas, the Navy, Mexico (Veracruz), Virginia, and finally Washington, D.C. After baseball, he became a poultry farmer in Maryland. He and his neighbor Harold Ickes (the Secretary of the Interior) employed Japanese-American workers displaced from the West Coast during WWII. He lived quietly. He kept secrets. He died at 84.",
+    "era_adaptability": "HIGH. Rice's profile — elite contact, elite speed, no power, elite defense — would translate directly to modern baseball as a leadoff hitter / defensive specialist. His K rate (sub-3% in peak seasons) would be historically anomalous in any era. His 63-SB season projects to modern baserunning value. His defensive range would play anywhere. The only limitation is the zero power — but in an era of launch angle obsession, Rice's ability to put the ball in play and run would be revolutionary.",
+    "clubhouse_impact": "THE QUIET CENTER. Rice was not loud, not flashy. His HOF reaction: 'Oh it's fine, but I can't say I'm too thrilled about it. If it were a real Hall of Fame, you'd say Cobb, Speaker, Walter Johnson, Babe Ruth, Lou Gehrig and a few others belonged and then you'd let your voice soften to a mere whisper.' Sports Illustrated later writes that his plaque 'may be the most inadequate in Cooperstown.' They are right. The plaque lists his statistics. It does not list the tornado. It does not list the seven dead. It does not list the name Edgar. It does not list the sealed letter. Some plaques cannot hold what a man has carried. In ILB, Rice provides +1 to team composure. Nothing rattles a team that has Sam Rice in the outfield. Nothing can be worse than what he's already survived.",
+    "dark_side": "THE TORNADO. April 21, 1912. Edgar Charles Rice is away trying out for a minor league team. An F4 tornado hits his family's farm in Morocco, Indiana. His wife Beulah. His son Bernie, three years old. His daughter Ethel, eighteen months. His mother. Two of his sisters. A farmhand. All dead. His father dies days later from injuries. Rice returns for two funerals. Then he leaves Morocco forever. He never speaks of it. He changes his name. He rebuilds. He accumulates 2,987 hits — each one a step further from the tornado, each one proof that he is still alive, still here, still playing. His second wife doesn't learn about it until the 1950s. His daughter doesn't learn until 1965. The seal held for more than fifty years. In ILB: 'The Sealed Past' — Rice cannot be psychologically damaged by any in-game event. Nothing the game throws at him can match what he has already endured. He is immune to demoralization. The cost: he cannot bond deeply with teammates. The seal protects him. The seal isolates him."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Sealed Letter",
+      "desc": "In 1925, Rice made a catch over the WS fence and disappeared into the stands. Did he hold the ball? He wrote a letter, sealed it, instructed it be opened after his death. 'At no time did I lose possession of the ball.' In ILB, once per WS, Rice may attempt an impossible catch: d20, on 15+ = out. The result is SEALED until the play is reviewed."
+    },
+    {
+      "tag": "Man o' War",
+      "desc": "63 SB in 1920 — led AL. Named after the racehorse. In ILB, Rice has +3 to SB attempts and +2 to defensive range. His speed is his identity."
+    },
+    {
+      "tag": "The Tornado",
+      "desc": "April 21, 1912: Rice's entire family — wife, two children, mother, two sisters, father (days later) — killed by an F4 tornado while he was away at a baseball tryout. In ILB, Rice is immune to demoralization and psychological damage. Nothing can break what is already broken. But he cannot form deep bonds (+0 teammate chemistry). The seal protects and isolates."
+    },
+    {
+      "tag": "Edgar Becomes Sam",
+      "desc": "His real name was Edgar Charles Rice. Team owner changed it to Sam. Clark Griffith forgot his name and told reporters 'Samuel Rice.' He accepted the new name — possibly to bury the past. In ILB, Rice has +1 to evasion — opponents' scouting reports may target the wrong player profile."
+    },
+    {
+      "tag": "Two Thousand Nine Hundred Eighty-Seven",
+      "desc": "2,987 career hits — 13 short of 3,000. 'Nowadays, with radio and television announcers spouting records every time a player comes to bat, I would have known about my hits and probably would have stayed to make 3,000.' In ILB, Rice's hit counter is always visible. When it reaches 2,987, the season MUST end. He never reaches 3,000. The number is the trait."
+    },
+    {
+      "tag": "The Pitcher Who Became",
+      "desc": "Rice began as a pitcher — 9 appearances, 39.1 IP. He converted to outfield and became a Hall of Famer. In ILB, Rice can pitch in emergency (STF 1/CTL 2/STA 1) — not well, but he can take the mound."
+    },
+    {
+      "tag": "Walter Johnson's Outfielder",
+      "desc": "Rice played alongside Walter Johnson for the Senators. When paired with elite pitching, +1 to team defense — Rice runs down everything so the pitcher doesn't have to."
+    },
+    {
+      "tag": "Thirteen Short",
+      "desc": "13 hits short of 3,000. He didn't know he was close. They didn't track it then. In ILB, Rice receives +1 to all stats in his final season — chasing something he doesn't know he's chasing."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Media/Spotlight",
+      "affinity": "MAXIMUM",
+      "note": "19 seasons (1915-1933). The only home he chose. Enormous outfield — Rice never hit a HR over the fence here. He didn't need to. He covered every inch of it on defense.",
+      "note_extra": "Source labeled 'Griffith Stadium, Washington' / affinity 'MAXIMUM' — third standalone MAXIMUM in the set (prior: Musial/Cardinals franchise HIGH, Mungo/Ebbets Field MAXIMUM/HAUNTED). Rice's Griffith Stadium MAXIMUM is the longest-tenure home-park MAXIMUM in the set: 19 consecutive seasons. The 'enormous outfield' note encodes the park's specific geometry as the material basis of both his defensive dominance (454 putouts, AL record) and his power limitation (never hit an HR over the fence). The only home he chose — the word 'chose' distinguishing it from other franchise-stage HIGHs that were accidents of assignment. Mapped to Media/Spotlight/MAXIMUM as the franchise-identity domain at its peak register."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "MAXIMUM",
+      "note": "2,987 hits. 498 2B. 184 3B. The gaps were his territory — he hit line drives into them and ran until someone stopped him.",
+      "note_extra": "Source labeled 'The Outfield Gaps' / affinity 'MAXIMUM' — first abstract/non-physical preferred_location domain in the set. 'The Outfield Gaps' is not a stadium, city, building, or country — it is a positional/geometric space within a baseball field defined by the absence of fielders. No prior preferred_location has described a game-geometry void as a domain. Mapped to Practice Field/MAXIMUM as the craft-and-speed domain at its highest register — the gaps are where Rice's speed and contact craft converted would-be singles into doubles and triples. The chemistry_trait 'Man o' War' (+3 SB, +2 defensive range) is the mechanical expression of this territorial dominance. The note's framing — 'ran until someone stopped him' — encodes the gap as an open space Rice treated as perpetually his own until physics or a fielder intervened."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "SACRED",
+      "note": "Where he went over. Where he disappeared. Where the letter was born. 'At no time did I lose possession of the ball.'",
+      "note_extra": "Source labeled 'The Right Field Fence (1925 WS)' / affinity 'SACRED' — first SACRED affinity in the set. SACRED is a new register beyond HIGH, MAXIMUM, and COMPLEX — encoding a location as hallowed/mythic through a single decisive unresolvable event. The 1925 WS right-field fence is the only location in the set defined by what happened on the other side of it (the unseen moment, the sealed question) rather than by visible production. The chemistry_trait 'The Sealed Letter' (d20 impossible-catch mechanic, result SEALED until reviewed) and action card 'The Sealed Letter' expand the event. No other affinity in the set encodes a location as a place of irreducible mystery. SACRED is the first affinity label that has a religious/votive connotation rather than a performance or identity connotation."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN / WOUND",
+      "note": "Born here. Lost everything here. Left forever. The tornado took the family and the name. Edgar became Sam. Morocco became silence.",
+      "note_extra": "Source labeled 'Morocco, Indiana' / affinity 'ORIGIN / WOUND' — first ORIGIN / WOUND slash-compound affinity in the set. Prior ORIGIN entries (Plank/Gettysburg as ORIGIN in art direction, Reese/Louisville as hometown HIGH) encode origin as positive formation. Rice's ORIGIN / WOUND compound encodes simultaneous origin and catastrophic trauma at the same location — a home that cannot be returned to because it is also the site of total loss. The seven deaths (wife, two children, mother, two sisters, farmhand; father days later) make Morocco the most devastating single location in the set's preferred_location taxonomy. The chemistry_trait 'The Tornado' (immune to demoralization, +0 teammate chemistry) and action card 'The Tornado' expand the biographical event. 'Morocco became silence' — the most compressed dark_side summation in any preferred_location note in the set."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HOME (Post-Career)",
+      "note": "Poultry farmer. Quiet life. Employed Japanese-American displaced workers during WWII. Kept the seal. Kept the secret. Died at 84.",
+      "note_extra": "Source labeled 'The Farm (Olney, Maryland)' / affinity 'HOME (Post-Career)' — first temporally-bounded HOME affinity in the set (the parenthetical '(Post-Career)' specifies the life phase). Prior HOME affinities: Musial (HOME/MAXIMUM as simultaneous franchise and family domain), Reese (hometown HIGH without temporal label). Rice's post-career farm is the only preferred_location in the set where the note includes both a second career (poultry farming), a historical act of conscience (employing Japanese-American displaced workers during WWII), and a maintenance of the biographical seal ('Kept the seal. Kept the secret.'). The personality.lifestyle note confirms: 'After baseball, he became a poultry farmer in Maryland. He and his neighbor Harold Ickes (the Secretary of the Interior) employed Japanese-American workers displaced from the West Coast during WWII.' The farm is where the seal was maintained until death."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Pennant race — 31-game hitting streak during 1924 September push. Rice elevated when it mattered most.",
+      "Running — when Rice was stealing bases and taking extra bases, his entire game accelerated.",
+      "Routine — Rice thrived in the steady rhythm of a full season. 155 games, 227 hits, .350. Repetition was his engine.",
+      "Defense — when Rice was making catches and covering ground, his confidence at the plate rose too."
+    ],
+    "cold_triggers": [
+      "Power situations — Rice could not hit the ball over the fence. In moments requiring a home run, he was helpless.",
+      "Bench time — late career diminished playing time hurt his rhythm and production.",
+      "The past surfacing — the rare moments when the seal cracked (the restaurant encounter, the 1965 interview) were disorienting.",
+      "Aging legs — after 40, the speed that defined him slowly eroded, though he adapted remarkably."
+    ],
+    "pressure_response": "TRANSCENDENT — BUT QUIET. Rice in the World Series: .302 BA, 19 hits, the catch over the fence, a pinch-hit single at age 43. He didn't collapse under pressure. He didn't elevate dramatically. He did exactly what he always did — he made contact, he ran, he caught everything. The pressure didn't change him because nothing could change him. The tornado had already happened. Everything after was aftermath. CLU = 2."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Tornado",
+      "type": "Origin / Tragedy",
+      "text": "April 21, 1912. Your outfielder is in Galesburg, Illinois, trying out for a minor league team. He is twenty-two years old. He has a wife named Beulah. A son, Bernie, three. A daughter, Ethel, eighteen months. They are visiting his parents' farm in Morocco, Indiana. At 6:30 PM, an F4 tornado hits the farm. His wife. His children. His mother. Two sisters. A farmhand. His father dies days later. Everyone is gone. Your outfielder returns for two funerals. Then he leaves Morocco, Indiana, and he never comes back. He never speaks of it. He changes his name. He plays baseball for twenty years and accumulates 2,987 hits, and each hit is one more proof that he is still alive.",
+      "origin": "The tornado of April 21, 1912, in Morocco, Indiana. Rice lost his entire family. He never spoke of it publicly for over fifty years."
+    },
+    {
+      "title": "The Sealed Letter",
+      "type": "Mystery / Legacy",
+      "text": "1925 World Series, Game 3. Your outfielder races to catch a drive at the right field fence. He leaps. He catches the ball. He goes over the fence. He disappears into the crowd. When he emerges, the ball is in his glove. The umpire calls the batter out. The Pirates argue. The world argues. Your outfielder says nothing. He writes a letter. He seals it. He instructs the Hall of Fame to open it after his death. Forty-nine years later, the letter is opened: 'At no time did I lose possession of the ball.' He kept the secret for half a century. He kept every secret for half a century.",
+      "origin": "The 1925 WS catch over the fence. The sealed letter, opened after Rice's death in 1974."
+    },
+    {
+      "title": "Two Thousand Nine Hundred Eighty-Seven",
+      "type": "Legacy",
+      "text": "Your outfielder finishes his career with 2,987 hits. He is thirteen short of 3,000. He does not know this. Nobody tracks the number. Nobody tells him. 'Nowadays, with radio and television announcers spouting records every time a player comes to bat, I would have known about my hits and probably would have stayed to make 3,000 of them.' He retires thirteen hits away from immortality. He retires not knowing he was close. The number haunts every statistician who ever looked at his record. Thirteen hits. One week. He would have stayed.",
+      "origin": "Rice finished with 2,987 hits — 13 short of 3,000. He didn't know how close he was."
+    },
+    {
+      "title": "Man o' War",
+      "type": "Season Arc",
+      "text": "1920. Your outfielder steals sixty-three bases. It leads the American League. They name him after the racehorse — Man o' War — because nothing alive can catch him. He also records 454 putouts in the outfield, an American League record, because nothing hit into the air can escape him either. He is five feet nine inches tall and weighs one hundred and fifty pounds. He is made entirely of speed and contact and silence.",
+      "origin": "1920: Rice led AL with 63 SB, earned 'Man o' War' nickname, set AL OF putout record (454)."
+    },
+    {
+      "title": "Edgar Becomes Sam",
+      "type": "Identity",
+      "text": "His name is Edgar Charles Rice. A minor league team owner calls him Sam. Clark Griffith, owner of the Washington Senators, cannot remember his first name and tells reporters he has acquired 'Samuel Rice.' Edgar does not correct anyone. He accepts the name. He becomes Sam. Perhaps he wanted to. Perhaps Edgar Rice died in Morocco, Indiana, on April 21, 1912, alongside everyone he loved, and the man who walked out of the wreckage needed a different name.",
+      "origin": "Rice's name change from Edgar to Sam — initiated by minor league owner, cemented by Griffith's forgetfulness."
+    },
+    {
+      "title": "The Thirty-One Game Streak",
+      "type": "Game Action",
+      "text": "September 1924. The Washington Senators are in a pennant race. Your outfielder gets a hit in thirty-one consecutive games. He leads the American League with 216 hits. Washington wins its first pennant. Then its first World Series. Your outfielder has been waiting twelve years for something good to happen. He is thirty-four years old. He has been playing since he was twenty-five because the first twenty-two years of his life ended in a tornado.",
+      "origin": "Rice's 31-game hitting streak during the 1924 pennant race. Led AL with 216 hits. Senators won first WS."
+    },
+    {
+      "title": "The Pitcher's Toe Plate",
+      "type": "Transformation",
+      "text": "Your outfielder used to be a pitcher. He pitched 39 innings for the Senators. One day he surrenders a double to light-hitting Hooks Dauss of Detroit. The toe plate tears from his pitcher's cleat. He announces he is done with pitching. His teammate Eddie Foster has been urging him to become an outfielder. He takes Foster's advice. He plays eighteen more years. He accumulates 2,987 hits. He is inducted into the Hall of Fame. The toe plate was the hinge. Everything that followed was because of a broken shoe.",
+      "origin": "Rice pitched for the Senators before surrendering a double that tore his cleat's toe plate. Teammate Eddie Foster urged him to switch to outfield. He did."
+    },
+    {
+      "title": "The Whisper",
+      "type": "Character / Legacy",
+      "text": "When Rice is inducted into the Hall of Fame in 1963, he is not overjoyed. 'Oh it's fine, but I can't say I'm too thrilled about it. If it were a real Hall of Fame, you'd say Cobb, Speaker, Walter Johnson, Babe Ruth, Lou Gehrig and a few others belonged and then you'd let your voice soften to a mere whisper.' Sports Illustrated later writes that his plaque 'may be the most inadequate in Cooperstown.' They are right. The plaque lists his statistics. It does not list the tornado. It does not list the seven dead. It does not list the name Edgar. It does not list the sealed letter. Some plaques cannot hold what a man has carried.",
+      "origin": "Rice's HOF reaction and the Sports Illustrated quote about the inadequacy of his plaque. The plaque omits the tragedy entirely."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'9\" 150 lbs — small, wiry, FAST. A face that reveals nothing. Not stern, not sad — SEALED. Pleasant features, calm eyes, the faintest hint of something unreachable behind them. He looks like a man who has decided what you will and will not know about him. He looks like a man who can outrun anything.",
+    "attire": "Washington Senators 1925 home whites — the old curly 'W' on the chest. In mid-stride, running down a fly ball at full speed, glove extended, about to make the catch. Or: in the batter's box, coiled to slash a line drive to left field, the swing compact and quick. The uniform should be slightly dust-stained — Rice played hard, ran hard, covered ground.",
+    "mood": "SEALED SILENCE. This card should feel like a letter that hasn't been opened yet. There is something inside — something enormous, something devastating — but the envelope is intact. The mood is the moment before the seal breaks. The mood is a man who hit .350 and said nothing about the worst day of his life for fifty years. The mood is a catch over a fence where nobody can see what happened. The card should feel like a secret.",
+    "style": "Full color — Bashers era — but QUIET. Washington Senators navy and red, but muted, almost gray. The dominant tone is DUSK — the blue-gray of early evening, the color of the sky before the storm, the color of silence. Not dark like Coveleski (coal). Not warm like Heilmann (radio). Not brown like Burns (leather). GRAY-BLUE. The color of a sealed envelope. The color of something withheld. The border should be pale blue-gray — the color of distance, of a man watching from far away, of 2,987 hits that almost reached 3,000 but didn't because nobody was counting.",
+    "reference": "Ruth is the solar system. Gehrig is the axis. Coveleski is the mineshaft. Heilmann is the radio. Burns is the thread. Rice is THE SEALED ENVELOPE — something precious inside, something devastating, held closed by a man who decided the world would never know. The card should feel like holding a letter you cannot open. 2,987. The number is the silence."
+  }
+}

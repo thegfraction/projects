@@ -1,0 +1,217 @@
+{
+  "card_type": "manager",
+  "name": "Tris Speaker",
+  "nickname": "The Grey Eagle",
+  "year": 1920,
+  "team": "Cleveland Indians",
+  "era": "1920s",
+  "ilb_team": "Lumber",
+  "archetype": "Firebrand",
+  "born": "April 4, 1888 — Hubbard, TX",
+  "died": "December 8, 1958 — Lake Whitney, TX (age 70)",
+  "hof": "Inducted 1937 (7th player elected). First-ballot selection alongside Cy Young, Nap Lajoie, Connie Mack. 'The greatest centerfielder of his day.' Career .345 BA, 792 doubles (all-time record), 3,514 hits.",
+  "height": "5'11\"",
+  "weight": "193 lbs",
+  "record": {
+    "career_wins": 617,
+    "career_losses": 520,
+    "win_pct": ".543",
+    "pennants": 1,
+    "world_series": 1,
+    "seasons_managed": 8,
+    "ejections": "Frequent — turned blue in heated arguments with umpires",
+    "peak_team": "1920 Cleveland Indians",
+    "peak_record": "98-56",
+    "teams_managed": ["Cleveland Indians (1919-1926)"],
+    "notable": "Player-manager who led from center field. Won 1920 World Series after Ray Chapman's death. Pioneer of extensive platooning ('triple shift'). Forced to resign in 1926 gambling scandal — exonerated by Landis.",
+    "playing_career": "22 seasons. .345 career BA (9th all-time). 792 doubles (MLB record). 3,514 hits. 449 career outfield assists (record). 139 outfield double plays (record). 1912 AL MVP. 3× World Series champion (1912, 1915, 1920). Revolutionized center field positioning — played so shallow he made unassisted double plays at second base.",
+    "innovation": "First manager to platoon extensively — the 'triple shift' at three positions simultaneously (1920-1921)"
+  },
+  "ilb_ratings": {
+    "ovr": 9,
+    "tac": 4,
+    "pit": 3,
+    "lin": 5,
+    "adp": 4,
+    "dis": 5,
+    "ego": 7,
+    "har": 7,
+    "int": 9,
+    "str": 8,
+    "flx": 5
+  },
+  "rating_justification": {
+    "tac": "Speaker was a genuine tactical innovator, not merely competent. He pioneered the first extensive platooning system in baseball history — the 'triple shift' at first base, right field, and left field simultaneously, matching handedness against opposing pitchers. Sportswriter John B. Sheridan attacked the system as 'spoon-feeding' and predicted it would 'destroy young ball players,' but Speaker proved him wrong with back-to-back championship-caliber seasons. He also instituted real batting practice conditions (with a catcher behind the plate) rather than cage work. His tactical intelligence was recognized as elite by contemporaries.",
+    "pit": "Speaker was not a specialist pitching manager in the Robinson mold, but he had a remarkable eye for reclaiming discarded arms. He signed the alcoholic Ray Caldwell with a contract that required him to get drunk after each start, then run laps the next day — Caldwell went 5-1 with a 1.71 ERA and later won 20 games. He acquired Duster Mails from the minors after two failed stints, and Mails won 7-0 with a 1.85 ERA down the stretch in 1920. He fixed Allan Sothoron mid-season in 1921 after noticing he was tipping his pitches — Sothoron went 12-4. Strong but not elite pitcher management.",
+    "lin": "Revolutionary. Bill James credits Speaker with instituting 'the first extensive platooning' in baseball. Speaker called it his 'triple shift' — using right-handed hitters against left-handed pitchers and vice versa at three positions simultaneously. The results were dramatic: George Burns went from .268 to .361, Joe Wood hit .366, and the combined platoon production exceeded what any single player could deliver. Speaker platooned everyone except himself — he hit left-handed pitching anyway. This innovation predated widespread adoption by decades.",
+    "adp": "Speaker showed elite adaptability in crisis. After Ray Chapman's death in August 1920, he purchased 21-year-old Joe Sewell from the minors and personally prepared him with morning batting practice sessions, building the rookie's confidence. Sewell hit .329 in those final weeks. In 1921, with Wambsganss, O'Neill, and Speaker himself injured at various points, he signed Riggs Stephenson directly from the University of Alabama (.330 that year) and kept the team in first most of the season. Stuart Bell wrote that nobody else could have done what Speaker did with that decimated roster.",
+    "dis": "Speaker's discipline was personal, not institutional. He did not impose McGraw-style rules or Robinson-style Bonehead Clubs. His authority came from being the best player on the field every day. Players followed him because he led by example — 'always in the forefront, working the hardest, covering the most ground.' But when Speaker's playing ability faded or his attention wandered in later seasons, there was no structural discipline to maintain order. The gambling scandal of 1926 exposed how thin the institutional framework was.",
+    "ego": "Speaker handled diverse personalities effectively through personal connection. He managed his close friend Joe Wood through a position change from pitcher to outfielder. He acquired Larry Gardner, Charlie Jamieson, and Steve O'Neill — all of whom had career years under him. Jamieson later called Speaker 'my best friend.' The key was Speaker's willingness to connect individually: Cobbledick wrote he was 'a warm and understanding handler of the varied temperaments under his command.' He didn't manage egos through submission but through shared purpose.",
+    "har": "Speaker's greatest harmony achievement was holding the 1920 Indians together after Ray Chapman's death — a devastating mid-season tragedy that could have destroyed the team. He rallied them to their first pennant and World Series victory, then dedicated the achievement to Chapman's memory. After clinching, Speaker sprinted from center field to embrace his mother in the stands. His teams had genuine cohesion. But the gambling scandal and forced resignation in 1926 suggest limits — he ultimately couldn't protect himself or his players from external forces.",
+    "int": "Near-maximum intensity. Heywood Broun wrote in Vanity Fair: 'He is a leader who never gives up and never allows his team to give up despite the circumstances.' Grantland Rice called him 'an alert, hustling, magnetic leader who can get 100 per cent out of his material.' His competitive fire was legendary — in a crucial late-season game against the White Sox in 1920, Speaker caught a line drive by Shoeless Joe Jackson on a dead run, crashed into a concrete wall, and lay unconscious still holding the ball. His intensity was infectious, not toxic.",
+    "str": "Superb talent evaluator. Henry P. Edwards of the Cleveland Plain Dealer called Speaker 'the Miracle Man' for his ability to convert discards into valuable assets. He saw potential in Charlie Jamieson (.235 with Washington/Philadelphia, later .303 career with Cleveland), George Burns (dropped by Detroit, later 1926 AL MVP under Speaker), and Steve O'Neill (career .253 hitter who hit .311-.322 under Speaker after receiving three specific batting tips). The acquisitions of Gardner, Jamieson, and Myers cost almost nothing. Speaker built championship teams on bargains.",
+    "flx": "Speaker showed real innovation in his prime but his flexibility had clear limits. After 1921, his player evaluation declined — he traded away George Burns and Elmer Smith, gave up on Riggs Stephenson (who starred for the Cubs for years), and sent Stan Coveleski to Washington for two obscure players while Coveleski won 34 more games. He also backed off platooning after 1921. His success was concentrated in a brilliant two-year peak, with diminishing returns afterward. The gambling scandal ended his career before he could adapt to a new era."
+  },
+  "personality": {
+    "leadership_style": "Magnetic player-manager who led from center field. Speaker's authority was earned on the field every single day — he was not merely a manager who happened to play, but a transcendent player whose competitive fire lifted everyone around him. Gordon Cobbledick: 'There was never any doubt among the players that instructions from him were orders to be obeyed, but he didn't place himself on a pedestal. While the ball game was in progress, he was the boss. When it was over, he was one of the gang.' His power was inspirational, not hierarchical.",
+    "temperament": "Fiercely competitive Texas roughneck with a paradoxical grace. Grantland Rice compared him to Napoleon Lajoie for his effortless athleticism — 'the smoothness of a summer wind' — but Speaker also turned 'blue in heated arguments with umpires' and played with a physical recklessness that bordered on self-destruction. He broke both arms as a child breaking horses, taught himself to throw left-handed, and built a career on fearlessness. His hair turned prematurely grey, earning the nickname that masked the fire beneath.",
+    "work_ethic": "Relentless self-improver from boyhood. As a rookie, Speaker had Cy Young hit him fly balls for hours to develop his fielding instincts. He revolutionized center field positioning through obsessive study of hitters, playing so shallow that he made unassisted double plays at second base. Stan Coveleski recalled that when Speaker didn't know something, 'he asked for help' — a rare humility for a star of his caliber. His preparation was practical and specific, rooted in a player's understanding of the game.",
+    "lifestyle": "Texas through and through. Born in Hubbard, a railroad town of 500 people, to a family whose brothers fought for the Confederacy. Father died when he was 10. Strong attachment to his mother throughout life — after winning the 1920 World Series, his first act was to climb into the stands to embrace her. Later in life: president of a wholesale wine and liquor firm, sales representative for a steel company, chairman of the Cleveland Boxing Commission. A 32nd Degree Mason with strong religious convictions.",
+    "communication_style": "Direct, warm when off the field, fierce during games. The Washington Times noted Speaker was 'a manager and coacher of temperament as much as instructor of physical skill.' He gave Steve O'Neill three specific batting tips that transformed his career. He connected individually with players, building confidence in young players like Sewell through personal attention. But with umpires and opponents, he was combative and profane.",
+    "loyalty_expectations": "Give everything on the field. Speaker demanded maximum effort because he gave it himself — every day, every play, every game. He was the first in attack and the last to give up. Players who matched his intensity thrived. Those who couldn't keep up found themselves elsewhere. His loyalty to friends like Joe Wood was deep and sometimes costly — he arranged Wood's purchase at above-market rates and may have been implicated in gambling partly through that friendship.",
+    "dark_side": "The gambling scandal and the shadow of bigotry. In 1926, Dutch Leonard accused Speaker and Ty Cobb of fixing a game in 1919. Letters from Cobb and Joe Wood provided circumstantial evidence. AL President Ban Johnson forced Speaker to resign. Commissioner Landis exonerated him, but Speaker never managed again. Beyond the scandal, Fred Lieb claimed Speaker confided KKK membership, though biographer Charles Alexander found only 'casual racial prejudices common to the time' rather than active participation. In 1947, at Bill Veeck's request, Speaker coached Larry Doby on his conversion to center field — a complicated act from a complicated man. The Grey Eagle soared higher than any Firebrand before him, but the shadows on his wings were real."
+  },
+  "playbook": {
+    "roster_philosophy": "Find diamonds in the discard pile, then deploy them with scientific precision. Speaker built his championship Indians through bargain acquisitions — Gardner, Jamieson, and Myers cost one temperamental outfielder. Burns and Johnston cost less than $10,000 combined. Then Speaker maximized their value through the platoon system, squeezing production from complementary players that no single player could match. The roster was a puzzle assembled by a genius who saw pieces where others saw junk.",
+    "conflict_response": "MATCH AND INSPIRE. Speaker didn't suppress conflicts like McGraw or absorb them like Robinson. He matched intensity with intensity, then channeled it toward winning. When Chapman died, Speaker didn't comfort the team with gentle words — he led them to a championship through sheer competitive fury. When injuries decimated 1921, he didn't make excuses — he played hurt and demanded everyone else do the same. His fire was contagious, not destructive.",
+    "clique_strategy": "UNIFY THROUGH SHARED MISSION. Speaker's teams united around their player-manager's magnetic intensity. There was one standard: match Speaker's effort. He was 'one of the gang' after games, which prevented the hierarchical resentment that plagued more authoritarian managers. But the unity depended on Speaker's physical presence — when his playing declined, the unifying force weakened.",
+    "player_types_that_thrive": [
+      "Discarded talent needing a second chance — Speaker's eye for hidden potential was legendary",
+      "High-effort grinders who match Speaker's relentless competitive intensity",
+      "Young players who respond to hands-on mentorship and confidence building",
+      "Position players willing to accept platoon roles for the good of the team",
+      "Veterans with something to prove — Speaker believed in players others had abandoned"
+    ],
+    "player_types_that_struggle": [
+      "Low-effort players — Speaker's intensity demands matching effort from everyone",
+      "Egotists who resent platooning — the system requires accepting part-time roles",
+      "Players who need rigid institutional structure — Speaker leads by example, not by rules",
+      "Pitching specialists needing deep analytical development — Speaker's genius is offense and defense",
+      "Players sensitive to controversy — the gambling scandal and Speaker's associations create tension"
+    ],
+    "tolerance_thresholds": {
+      "max_ego_cluster": 3,
+      "max_volatility": "HIGH — Speaker tolerates volatility because he IS volatile. Fire recognizes fire.",
+      "discipline_floor": "MEDIUM — Speaker doesn't enforce rules, but his personal example creates a de facto standard. Players who fall below it stand out starkly.",
+      "star_exception": "Joe Wood was Speaker's one true exception — his best friend from Boston, whose purchase was arranged at inflated cost. Friendship trumped objectivity, and it contributed to the gambling scandal."
+    }
+  },
+  "chemistry_impact": {
+    "team_fit": { "effect": "STRONGLY INCREASED", "desc": "Speaker's magnetic presence creates organic unity. 'One of the gang' after games. Players want to play for him because he plays alongside them. +2 Team Fit while Speaker is active on the roster. If Speaker is injured or benched, Team Fit drops by -2." },
+    "volatility": { "effect": "CHANNELED", "desc": "Speaker doesn't suppress or tolerate volatility — he channels it. High-volatility players gain +1 Intensity under Speaker. But if the team is losing, volatility can spiral as Speaker's own fire burns too hot." },
+    "discipline": { "effect": "MODERATE", "desc": "No formal discipline system — Speaker leads by example. Effective when he's performing, fragile when he's not. Players maintain discipline through peer pressure and respect, not fear or rules." },
+    "ego": { "effect": "MODERATE TOLERANCE", "desc": "Speaker manages egos through personal connection, not confrontation. Stars who share his intensity are handled well. But platooning requires ego sacrifice that some stars won't accept. Max 3 high-ego players." },
+    "work_habits": { "effect": "STRONGLY INCREASED", "desc": "Speaker's relentless work ethic is contagious. All position players gain +1 to defensive stats. Pitchers gain confidence from the best defensive outfield in baseball playing behind them." },
+    "adaptability": { "effect": "HIGH (PEAK) / LOW (DECLINE)", "desc": "Speaker was brilliantly adaptive in 1920-21 but his innovation stalled after. His adaptability rating drops by 1 for each season beyond his second year managing." }
+  },
+  "chemistry_traits": [
+    { "tag": "The Grey Eagle", "desc": "Speaker's transcendent playing ability IS his managerial authority. While active on the roster hitting .350+, all team ratings gain +1. If Speaker's BA drops below .300, his authority erodes and all clubhouse bonuses are halved. The player-manager's paradox: his power depends on his performance." },
+    { "tag": "The Triple Shift", "desc": "Speaker's revolutionary platoon system. At three positions, right-handed and left-handed hitters alternate based on opposing pitcher's handedness. All platooned players gain +1 to their primary batting stat when facing opposite-handed pitching. But players with Ego >7 refuse to platoon (-2 morale)." },
+    { "tag": "The Miracle Man", "desc": "Speaker converts discards into assets. Any player acquired via trade or free agency who was previously released or below replacement level gains +2 to their lowest stat after 10 games under Speaker. Henry P. Edwards called him the Miracle Man for this pattern." },
+    { "tag": "For Chappie", "desc": "After a teammate tragedy or major setback, Speaker rallies the team through competitive fury, not grief counseling. +3 Intensity and +2 Harmony for the remainder of that season. Based on the 1920 Indians winning the World Series after Ray Chapman's death." },
+    { "tag": "The Caldwell Contract", "desc": "Speaker uses reverse psychology on troubled players. Players with addiction or discipline problems can be managed with unconventional methods: acknowledge the flaw, build the schedule around it, demand performance. 30% chance of full reclamation (+3 stats), 20% chance of total collapse." },
+    { "tag": "Wall Crasher", "desc": "Speaker's physical recklessness in pursuit of victory. In crucial games, 15% chance Speaker makes a legendary defensive play that swings momentum (+2 all ratings this game). But 10% chance he's injured on the play and misses 1-3 games, losing all player-manager bonuses." },
+    { "tag": "The Dutch Leonard Affair", "desc": "Gambling scandal hangs over Speaker's career. 15% chance per season of a 'Scandal Investigation' event that freezes Speaker's tactical bonuses for 5 games while the inquiry plays out. If exonerated (80%), team gains +1 Harmony from shared adversity. If not, Speaker is forced to resign." },
+    { "tag": "Shallow Center", "desc": "Speaker's defensive innovation — playing center field so shallow he could make plays at second base — extends to his managing philosophy: aggressive positioning, calculated risk, trust your instincts. All defensive players gain +1 range. But 10% chance per game of a ball hit over Speaker's head for extra bases (aggressive positioning backfire)." }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Cleveland's home with its 460-foot center field — built for Speaker's range. He played here 1916-1926 and managed from center field.",
+      "note_extra": "Source label: 'League Park / Home Ballpark'. Maps to Community Events (home ballpark). HIGH affinity."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Speaker's office. He managed from the outfield, signaling to the bench. His authority radiated from the grass, not the dugout.",
+      "note_extra": "Source label: 'Center Field'. Maps to Practice Field (fielding position / craft domain). HIGH affinity. A manager card with a fielding position as a Practice Field location — unique to player-managers."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Where Speaker built his teams — morning batting practice with Sewell, evaluating minor leaguers, testing his platoon configurations.",
+      "note_extra": "Source label: 'Spring Training Camp'. Maps to Practice Field (training / evaluation craft domain). HIGH affinity."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Born in Hubbard, TX. Broke horses as a child, learned toughness from the land. Died at Lake Whitney, not far from home.",
+      "note_extra": "Source label: 'Texas Ranch / Countryside'. Maps to Community Events (hometown / rural origin). MEDIUM affinity."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "'One of the gang when the game was over.' Speaker socialized with players as an equal, building loyalty through proximity.",
+      "note_extra": "Source label: 'Hotel / Player Quarters'. Maps to Hotel/Rest. MEDIUM affinity. Represents the player-manager's egalitarian social life."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "MEDIUM",
+      "note": "A regular on the banquet circuit after retirement. President of Tris Speaker, Inc. Chairman of the Cleveland Boxing Commission. The Grey Eagle capitalized on being Tris Speaker.",
+      "note_extra": "Source label: 'Banquet Hall / Public Event'. Maps to Media/Spotlight (public events / post-career celebrity). MEDIUM affinity."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "LOW",
+      "note": "The site of Speaker's exoneration — and his exile. Landis cleared him but insisted he resign. Speaker never managed in the majors again.",
+      "note_extra": "Source label: 'Commissioner's Office'. Maps to Community Events (league administrative venue). LOW affinity. Represents the gambling scandal's institutional location."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "Team adversity — Speaker's teams rose after Chapman's death, after injuries in 1921, after every setback that would break other teams",
+      "Late-season pennant pressure — the Indians were at their best in September, feeding on Speaker's relentless intensity",
+      "Speaker on a hitting tear — when the player-manager is hitting .388, the whole team catches fire",
+      "Platoon matchups clicking — when the triple shift produces exactly the results Speaker predicted, team confidence soars"
+    ],
+    "cold_triggers": [
+      "Speaker injured or slumping — the player-manager's authority depends on performance, and when it fades, everything fades",
+      "Gambling scandal pressure — external investigations freeze the team's competitive focus",
+      "Post-1921 decline — Speaker's player evaluation skills deserted him after his brilliant peak, leading to bad trades",
+      "Institutional confrontation — Speaker thrived as a field leader but struggled against front-office politics and league investigations"
+    ],
+    "pressure_response": "TRANSCENDENT IN CRISIS, VULNERABLE TO EROSION. Speaker was at his absolute best when the stakes were highest and the situation most desperate — winning the 1920 World Series after Chapman's death, nearly winning the 1921 pennant with half his roster injured. His competitive fire burned brightest in the darkest moments. But sustained, slow-building pressure — the gambling investigation, his declining playing skills, deteriorating player evaluation — eroded him. He was a Firebrand who could win any battle but lost the longer war. In ILB: +2 all ratings in elimination games and do-or-die situations. -1 all ratings in seasons 3+ of his tenure as accumulated problems mount."
+  },
+  "action_card_seeds": [
+    {
+      "title": "The Wall Catch",
+      "type": "Game Action",
+      "text": "Your player-manager makes a spectacular defensive play in a crucial moment — catching a ball on a dead run and crashing into the outfield wall. Team gains +2 Intensity and +1 Momentum for the rest of the game. But roll for injury: 25% chance your manager misses the next series.",
+      "origin": "In a crucial late-season 1920 game against the White Sox, Speaker caught a line drive by Shoeless Joe Jackson on a dead run, leaping into a concrete wall. He lay unconscious but still held the ball. The catch helped clinch the pennant."
+    },
+    {
+      "title": "The Caldwell Gambit",
+      "type": "Action",
+      "text": "Your manager signs a troubled player with an unconventional contract that accommodates his vices rather than fighting them. Player must 'get drunk' after each start, then run laps, then pitch batting practice, then pitch again. 60% chance the player delivers a 20-win season. 20% chance he flames out entirely. 20% chance of no-hitter.",
+      "origin": "Speaker signed the alcoholic Ray Caldwell with a contract requiring him to drink after starts, run laps, throw batting practice, then pitch. Caldwell went 5-1 with a 1.71 ERA, threw a no-hitter against the Yankees, survived a lightning strike mid-game, and won 20 the next year."
+    },
+    {
+      "title": "For Chappie",
+      "type": "Drama",
+      "text": "A devastating tragedy strikes your team mid-season. Your manager channels grief into fury. All players gain +2 Intensity for the rest of the season. Team dedicates the season to the fallen teammate. If you win the championship, the moment becomes permanent legend — +1 OVR for your franchise history.",
+      "origin": "Ray Chapman died on August 17, 1920, after being hit by a pitch from Carl Mays. Speaker rallied the devastated Indians, brought up 21-year-old Joe Sewell as a replacement, and led the team to their first World Series championship. Chapman had said he wanted to help Speaker win before retiring."
+    },
+    {
+      "title": "The Triple Shift",
+      "type": "Game Action",
+      "text": "Your manager implements an aggressive platoon system at three positions simultaneously. All platooned positions gain +1 offensive rating when facing opposite-handed pitching. But any player forced into a platoon role with Ego >6 has 30% chance of demanding a trade.",
+      "origin": "Speaker's revolutionary 1920-1921 platoon system matched right-handed hitters against left-handed pitchers at first base, right field, and left field simultaneously. George Burns went from .268 to .361. Critics called it 'spoon-feeding' and predicted it would 'destroy young ball players.'"
+    },
+    {
+      "title": "The Dutch Leonard Letter",
+      "type": "Drama",
+      "text": "A disgruntled former player produces letters implicating your manager in game-fixing. Your manager is suspended pending investigation. All tactical bonuses frozen for 5 games. If exonerated (70%), your team gains +2 Harmony from shared adversity. If found guilty (30%), manager is banned for life.",
+      "origin": "In 1926, Dutch Leonard accused Speaker and Ty Cobb of fixing a September 1919 game. Letters from Cobb and Joe Wood provided circumstantial evidence. Ban Johnson forced Speaker to resign. Landis exonerated him, but Speaker never managed again. Billy Evans called the accusations 'purely a matter of personal revenge.'"
+    },
+    {
+      "title": "Nobody But Speaker",
+      "type": "Action",
+      "text": "Your manager holds a depleted, injury-ravaged team together through sheer will and personal performance. For the rest of the season, your manager's personal stats are added as team bonuses: +1 Intensity, +1 Harmony, +1 Strategy. But your manager's body breaks down — 20% chance of season-ending injury.",
+      "origin": "In 1921, with Wambsganss, O'Neill, and Speaker himself injured at various points, Speaker kept the Indians in first most of the season. Stuart Bell of the Cleveland Plain Dealer: 'He piloted an almost pitcherless and for two months an almost catcherless ball club. Nobody but Tris Speaker could have done it.'"
+    },
+    {
+      "title": "The Spark Plug Arrives",
+      "type": "Trade",
+      "text": "Your manager acquires a player who 'other members of the team needed: confidence.' The acquired player gives +1 morale to every teammate. All players within 2 positions gain +1 to their primary stat. The roster gels around the newcomer's energy.",
+      "origin": "When Speaker arrived in Cleveland in 1916, Fielder Jones observed: 'His coming has given a number of other members of the team the one thing they lacked: confidence. Speaker is as necessary to the Cleveland club as a spark plug to an automobile.'"
+    }
+  ],
+  "art_direction": {
+    "face": "Lean, athletic, 5'11\" and 193 lbs — a Texan built for speed and collision. Prematurely grey hair that gave him the 'Grey Eagle' nickname, but the face beneath is young and fierce. Sharp, intelligent eyes scanning the field for the next play. Clean-shaven, angular jaw. Not pretty but magnetic. The look of a man who taught himself to throw left-handed after breaking both arms falling off horses.",
+    "attire": "Cleveland Indians uniform, 1920 era. Speaker managed in uniform — he was a player first and always. Cap worn straight, glove in hand or tucked under arm. Standing in shallow center field at League Park, 460 feet from home plate, impossibly close to the infield. The uniform is worn and dirty — Speaker played every game like it was his last.",
+    "mood": "Magnetic intensity. Not volcanic rage like McGraw, not cold calculation like Selee — a warm, fierce, forward-leaning energy that pulls everyone in his orbit toward the same goal. The look of a man sprinting toward a concrete wall to catch a baseball, knowing the collision is coming, going anyway. Grace and violence inseparable. The smoothness of a summer wind that could knock down a barn.",
+    "style": "Warm amber and burnt orange palette — the Firebrand color, but with more gold than previous Firebrands. League Park in the background, the vast center field stretching behind Speaker. Dust in the air, late afternoon light, the golden hour of the 1920s. Less sepia than the Authoritarian cards, more saturated — this is the live-ball era, color is creeping in. Texas heat underneath Cleveland steel.",
+    "reference": "Third Firebrand in the ILB spectrum, and the first to break the Contender ceiling. Tebeau burned through physical violence (7 OVR) — the Firebrand as Thug. Evers burned through intellectual violence (7 OVR) — the Firebrand as Agitator. Speaker burns through magnetic competitive fire (9 OVR) — the Firebrand as Inspiration. Where Tebeau destroyed and Evers corroded, Speaker elevates. This card proves the archetype can produce elite results when the fire inspires rather than consumes. The Grey Eagle should feel like a wildfire that clears deadwood and leaves the forest stronger."
+  }
+}

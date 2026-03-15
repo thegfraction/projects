@@ -1,0 +1,191 @@
+{
+  "card_type": "player",
+  "name": "Pie Traynor",
+  "nickname": "Pie",
+  "year": 1927,
+  "team": "Pittsburgh Pirates",
+  "era": "1920s",
+  "ilb_team": "Bashers NL1920",
+  "position": "3B",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'0\"",
+  "weight": "170 lbs",
+  "born": "November 11, 1898 — Framingham, MA",
+  "died": "March 16, 1972 — Pittsburgh, PA (age 73)",
+  "hof": "Class of 1948 (BBWAA, 76.9%). First 3B elected by writers. Named to MLB All-Century Team ballot.",
+  "real_stats": {
+    "season": 1927,
+    "games": 149,
+    "at_bats": 573,
+    "hits": 196,
+    "doubles": 32,
+    "triples": 9,
+    "home_runs": 5,
+    "rbi": 106,
+    "stolen_bases": 7,
+    "batting_avg": ".342",
+    "obp": ".377",
+    "slg": ".454",
+    "ops": ".831",
+    "ops_plus": 119,
+    "war": 4.2,
+    "gold_gloves": "N/A (pre-award)",
+    "all_star": "2× (1933-34, inaugural games)",
+    "career_avg": ".320",
+    "career_hits": 2416,
+    "career_hr": 58,
+    "career_sb": 158,
+    "career_war": 37.0
+  },
+  "ilb_stats": {
+    "ovr": 7,
+    "con": 5,
+    "pow": 0,
+    "spd": 1,
+    "def": 3,
+    "clu": 1
+  },
+  "stat_justification": {
+    "con": "Career .320 BA — 10 seasons over .300. In 1927: .342 BA. Career high .366 in 1930. Only 278 strikeouts in 7,559 career AB — one of the hardest men in baseball history to strike out. In 1929, fanned just 7 times in 597 PA. In 1928, struck out once in 150 August PA. Maximum contact rating of 5.",
+    "pow": "5 HR in 1927. Career high was 12 HR (1923). Career total: 58 HR in 17 seasons. Forbes Field was the most difficult HR park in the NL — but even adjusting for park, Traynor had virtually no power. He compensated with 164 career triples and 371 doubles. Rating of 0 — contact hitter, not a power hitter.",
+    "spd": "7 SB in 1927. 158 career SB with a peak of 28 in 1923 — but by his peak years, speed had declined. 9 triples in 1927 suggest above-average speed for a third baseman. No Gold Glove bonus (3B position). Rating of 1.",
+    "def": "The greatest third baseman of the first half of the 20th century. Led NL 3B in putouts 7 times, double plays 4 times, assists 3 times. Set NL record with 41 DPs in 1925 (stood 25 years). His 226 putouts in 1925 remain the highest NL total since 1905. Branch Rickey: 'A mechanically perfect third baseman. A man of intellectual worth on the field of play.' McGraw, Cobb, Hornsby, and Paul Waner all called him the best 3B ever. Pre-Gold Glove era equivalent of 6+ GG. Maximum defense rating of 3.",
+    "clu": "Mixed postseason. In 1925 WS: .346 BA, HR off Walter Johnson, 24 chances/0 errors — a hero. In 1927 WS: .200 (3-for-15), swept by Yankees. Combined WS BA approximately .262 — tier 1 (.250-.299). No iconic clutch moment that pushes him higher. The 1925 WS was great but the 1927 collapse balances it. Rating of 1."
+  },
+  "personality": {
+    "leadership_style": "Quiet authority. Traynor was player-manager from 1934-37 and full manager through 1939. He led by example — relentless work at third base, consistent at-bats, never showing up teammates. Earned respect through competence rather than volume. Branch Rickey's phrase 'intellectual worth on the field' captures it: Traynor was a thinker, not a shouter.",
+    "temperament": "Even-keeled, modest, gracious. Traynor never complained about Forbes Field killing his power numbers. When his reputation diminished in later decades as Schmidt, Brett, and Brooks Robinson emerged, he didn't campaign for re-evaluation. A man without ego. He once walked 127 blocks from his NYC hotel to the stadium rather than take a cab — not to save money, but because he liked walking.",
+    "work_ethic": "Exceptional. Self-made player who was literally chased off Braves Field by George Stallings when a scout forgot to tell the manager about his tryout. Converted from SS to 3B and became the best in baseball at the position. Took Rogers Hornsby's advice to use a heavier bat and transformed into a top hitter. Worked tirelessly on his defense until he was 'mechanically perfect.'",
+    "lifestyle": "Pittsburgh lifer. Never learned to drive. Walked everywhere — 10 miles round trip from home to his radio station every day for 21 years. Chain smoker who died of emphysema but 'continued to live his life normally' after diagnosis. One of seven siblings from a Canadian immigrant family in Massachusetts. Simple, grounded, unpretentious.",
+    "era_adaptability": "MODERATE. Traynor's elite contact and defense would play in any era, but his complete absence of power would be a severe liability in modern baseball. He'd be a Wade Boggs-type without the walks, or a latter-day contact specialist. His defensive prowess at 3B would be elite in any era. His bat would need to be supplemented by power elsewhere in the lineup.",
+    "clubhouse_impact": "STEADY PROFESSIONAL. Not a firebrand, not a comedian — Traynor was the consummate professional. Teammates respected his consistency and his willingness to do the dirty work (led league in sacrifice hits twice). His calm demeanor as player-manager helped hold teams together. Charlie Grimm: 'I've seen him field a hot grounder over at third base barehanded and get the runner at first.'",
+    "dark_side": "The Homer in the Gloamin'. In 1938, Traynor's Pirates led the NL for most of the season before Gabby Hartnett's famous walkoff homer in the fading light at Wrigley Field crushed their pennant hopes. The loss devastated Traynor. He seemed to lose confidence in his team and resigned after a sixth-place finish in 1939. He never managed again. In ILB terms: Traynor carries a 'Broken by a Moment' trait — a single devastating loss can end his managerial career."
+  },
+  "chemistry_traits": [
+    { "tag": "Mechanically Perfect", "desc": "Branch Rickey's verdict. Traynor makes no errors on routine plays. -1 to opponent's bunt game when Traynor is at 3B." },
+    { "tag": "Pie Face", "desc": "Named for his love of pie as a kid. Universally liked — +1 chemistry with all teammates. No personality conflicts." },
+    { "tag": "Forbes Field Product", "desc": "Played his entire career in baseball's worst HR park. Power stat permanently suppressed, but doubles/triples enhanced." },
+    { "tag": "The Walker", "desc": "Never learned to drive. Walked everywhere, including 127 blocks in NYC. +1 conditioning, never fatigued. Immune to travel penalties." },
+    { "tag": "Contact Machine", "desc": "278 career K in 7,559 AB. Virtually impossible to strike out. Opposing pitchers need +2 STF to fan Traynor." },
+    { "tag": "First at the Hot Corner", "desc": "First 3B elected to HOF by writers. Traynor defined the position. +1 legacy for any team that plays him at 3B." },
+    { "tag": "Bat Scavenger", "desc": "Shared a salvaged bat with Paul Waner for an entire season. +1 resourcefulness. Equipment costs reduced." },
+    { "tag": "Broken by a Moment", "desc": "The Homer in the Gloamin' destroyed Traynor's confidence as a manager. If his team loses a heartbreaking game, -2 morale for the rest of the series." }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Obsessive about fielding practice. Converted from SS to 3B and mastered it through sheer repetition.",
+      "note_extra": "Source label: 'Practice Field / Third Base'. The source label is a compound of the canonical domain name and the positional craft qualifier. Mapped to Practice Field — direct canonical hit on the first element; the '/ Third Base' qualifier functions identically to Tinker's 'Shortstop Position' mapping (positional craft as Practice Field subdomain). Traynor's defensive mastery was explicitly the product of repetitive practice — converted from SS and worked until 'mechanically perfect.' Cross-fields to DEF 3, Mechanically Perfect chemistry trait, and work_ethic personality key."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Never drove. Walked 10 miles/day to work for 21 years. The sidewalk was his sanctuary.",
+      "note_extra": "Source label: 'Walking Routes'. Mapped to Community Events — personal-life geography/lifestyle domain. Walking routes represent Traynor's daily lived geography: 10 miles/day on foot from home to the radio station for 21 years, 127-block walk in NYC. This is a lifestyle-geography location rather than a baseball craft domain; Community Events captures the personal/hometown/daily-life space. First pedestrian-route/geography-of-daily-life location in the set. Cross-fields to The Walker chemistry trait and lifestyle personality key ('walked everywhere')."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "Sports director at KQV Pittsburgh for 21 years. Beloved broadcaster. Also called pro wrestling.",
+      "note_extra": "Source label: 'Radio Station / Media'. Mapped to Media/Spotlight — broadcast/radio subdomain. Direct canonical mapping. HIGH affinity is the first Media/Spotlight HIGH reflecting a full post-career broadcast vocation: Traynor spent 21 years as a Pittsburgh radio sports director, long outlasting his playing career. This contrasts with prior Media/Spotlight entries where the domain reflected press relations during playing careers (Tenney's journalism HIGH) or antagonism (Terry's LOW). Traynor's HIGH is vocational identity post-career. Cross-fields to lifestyle personality key ('walked 10 miles/day to his radio station') and hot_trigger context."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "The man literally got his nickname from begging for pie at a grocery store as a child.",
+      "note_extra": "Source label: 'Restaurant / Bakery'. Mapped to Community Events — personal/community/food-life domain. Restaurants and bakeries are community gathering spaces in the personal-life subdomain of Community Events; the nickname origin (grocery store, childhood community) is inherently a community-life event. Second Community Events entry for Traynor. Cross-fields to Pie Face chemistry trait and temperament personality key ('universally liked')."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Quiet, respected presence. Professional demeanor. Not the loudest voice but always listened to.",
+      "note_extra": "Source label: 'Clubhouse / Locker Room'. Direct canonical mapping to Hotel/Rest — clubhouse/locker room subdomain. MEDIUM affinity is consistent with Traynor's steady-professional character: present, valued, undemonstrative. Cross-fields to clubhouse_impact personality key and Pie Face chemistry trait."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Chain smoker but not a drinker. Simple habits.",
+      "note_extra": "Source label: 'Bar / Nightlife'. Direct canonical mapping to Hotel/Rest — bar/nightlife subdomain. LOW affinity consistent with Traynor's unpretentious, simple lifestyle; he smoked but didn't drink. Second Hotel/Rest entry. Cross-fields to lifestyle personality key ('simple, grounded, unpretentious')."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "NONE",
+      "note": "No association. Modest, straightforward lifestyle.",
+      "note_extra": "Source label: 'Gambling Hall'. Mapped to Hotel/Rest — entertainment/nightlife subdomain. Gambling halls and similar entertainment venues fall under the Hotel/Rest domain's nightlife/leisure space. NONE affinity is the fourth NONE in the set (after Mungo, Thomson/Cooperstown, Travis/Media); this is the first NONE on Hotel/Rest domain, and the first 'irrelevance NONE' — not exclusion (Thomson), not active avoidance (Travis), not absence (Mungo), but simply zero relevance to the player's life. The source note 'No association. Modest, straightforward lifestyle.' makes the irrelevance explicit. Third Hotel/Rest entry for Traynor. Cross-fields to temperament ('a man without ego') and lifestyle personality keys."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "Multi-hit games at Forbes Field — .939 OPS at home in 1928",
+      "August hot streaks — hit .400+ in August 1928, struck out once in 150 PA",
+      "World Series Game 7s — RBI triple in the 1925 WS Game 7 to tie the game",
+      "Playing alongside the Waner brothers — the trio elevated each other"
+    ],
+    "cold_triggers": [
+      "Facing dominant pitching in short series — .200 in 1927 WS vs. Yankees",
+      "Heartbreaking losses — the 1938 Homer in the Gloamin' broke him as a manager",
+      "Road games — significantly worse away from Forbes Field",
+      "Late-career decline — arm injuries and aging legs reduced his range at 3B after 1932"
+    ],
+    "pressure_response": "VARIABLE. Traynor was brilliant in the 1925 World Series — .346 BA, homer off Walter Johnson, game-tying triple in Game 7, flawless defense. But he was a non-factor in the 1927 WS (.200, swept by the Yankees). And the 1938 'Homer in the Gloamin'' loss to the Cubs effectively ended his managerial career. Traynor rises to big moments when he believes in his team — but devastating losses can shatter him. In ILB: high ceiling, but fragile when momentum turns against him."
+  },
+  "action_card_seeds": [
+    {
+      "title": "Chased Off the Field",
+      "type": "Drama",
+      "text": "A scout invites your prospect to a tryout but forgets to tell the manager. The manager chases the kid off the field. If you sign him anyway from another route, he becomes a Hall of Famer. If you don't, your rival gets him.",
+      "origin": "A Boston Braves scout invited Traynor to Braves Field but forgot to tell manager George Stallings. Stallings chased Traynor off the field. Pittsburgh signed him instead — the Braves' greatest loss."
+    },
+    {
+      "title": "The Heavier Bat",
+      "type": "Action",
+      "text": "A veteran hitter advises your young player to switch to a heavier bat. If the player's CON is 3+, he gains +1 CON permanently. If CON is 2 or less, he loses -1 SPD with no benefit.",
+      "origin": "Rogers Hornsby told young Traynor to use a heavier bat in 1923. Traynor immediately blossomed — .338 BA, 208 hits, 19 triples, league-leading numbers."
+    },
+    {
+      "title": "The Salvaged Bat",
+      "type": "Action",
+      "text": "Two of your hitters find a discarded bat from a minor-league washout. They share it all season. Both players gain +1 CON for the year. If one is traded, the other loses the bonus.",
+      "origin": "Traynor and Paul Waner salvaged a bat from Tim Hendryx, a minor leaguer playing out the string. They shared it all of 1927 and combined for over 600 hits with it."
+    },
+    {
+      "title": "Homer in the Gloamin'",
+      "type": "Drama",
+      "text": "Your team leads the pennant race, but in a crucial late-season game, the opposing catcher hits a walkoff homer in fading light. Your team collapses. -3 momentum. Your manager must roll to avoid resigning.",
+      "origin": "Gabby Hartnett's famous HR in the near-darkness at Wrigley Field in September 1938 crushed the Pirates' pennant hopes. Traynor never recovered as a manager."
+    },
+    {
+      "title": "The Barehand Play",
+      "type": "Game Action",
+      "text": "Your third baseman fields a scorching grounder barehanded and guns out the runner at first. Steal a base hit from the opponent. Your defense gains +1 momentum for the inning.",
+      "origin": "Charlie Grimm: 'I've seen him field a hot grounder over at third base barehanded and get the runner at first.' Traynor's barehanded plays on bunts and choppers were legendary."
+    },
+    {
+      "title": "The 127-Block Walk",
+      "type": "Action",
+      "text": "Your player walks to the stadium instead of taking the team bus. He arrives relaxed, focused, and energized. +1 to all stats for today's game. But there's a 10% chance he arrives late and misses the first inning.",
+      "origin": "While in New York to cover the World Series for radio, Traynor walked 127 blocks from his hotel to the stadium rather than take a cab. He never learned to drive."
+    },
+    {
+      "title": "41 Double Plays",
+      "type": "Game Action",
+      "text": "Your third baseman starts a record number of double plays in a season. For the rest of the year, any ground ball to third with a runner on first has a 40% chance of turning two (normally 25%).",
+      "origin": "Traynor started 41 double plays at 3B in 1925 — an NL record that stood for 25 years. Four came in a single game, tying a major-league record."
+    },
+    {
+      "title": "The Pie Kid",
+      "type": "Drama",
+      "text": "Your player's childhood nickname becomes his permanent identity. It's endearing and makes him a fan favorite (+2 popularity), but opponents mock it relentlessly. If your player has high temperament, he shrugs it off. If low, -1 focus.",
+      "origin": "Young Harold Traynor always asked for pie instead of ice cream after sandlot games. The grocery store owner called him 'Pie Face,' shortened to 'Pie.' The name stuck for life."
+    }
+  ],
+  "art_direction": {
+    "face": "Lean, angular face. 6'0\" 170 lbs — tall and wiry, not bulky. Clean-cut New England features. Bright, intelligent eyes — Rickey's 'intellectual worth' is visible in the face. By 1927 (age 28), he's in his prime — confident, alert, coiled like a spring ready to pounce on a bunt.",
+    "attire": "Pittsburgh Pirates 1927 home whites with the classic 'P' on the cap. Baggy wool flannel, knee-high stirrups. No number (pre-numbering era). Glove in hand — the old-style pancake glove of the 1920s. Maybe mid-crouch at third base, weight on the balls of his feet, ready for a hot grounder.",
+    "mood": "Calm intensity. Not fierce like a pitcher — alert, balanced, watchful. The look of a man who sees the bunt coming before the batter squares around. Intelligent eyes scanning the field. A slight, knowing smile — this is a man who loves his work.",
+    "style": "Warm sepia tones with golden afternoon light. Forbes Field's massive outfield stretching behind him. The card should feel athletic and graceful — Traynor was not a bruiser, he was a ballet dancer at the hot corner. Clean, sharp, professional.",
+    "reference": "Think 1920s tobacco card elegance. The portrait should evoke a bygone era when third base was a defensive art form, not a power position. Traynor is the original — the template that Schmidt, Brett, and Arenado would later evolve from."
+  }
+}

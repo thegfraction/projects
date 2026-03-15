@@ -1,0 +1,229 @@
+{
+  "card_type": "player",
+  "name": "Schoolboy Rowe",
+  "nickname": "Schoolboy",
+  "year": 1934,
+  "team": "Detroit Tigers",
+  "league": "American League",
+  "era": "1930s",
+  "ilb_team": "Crashers AL1930",
+  "position": "SP",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'4\"",
+  "weight": "210 lbs",
+  "born": "January 11, 1910 — Waco, Texas (raised in El Dorado, Arkansas; father was a circus trapeze performer who Schoolboy insisted was 'an architect'; all-state QB, 100+ boxing matches, multi-sport star)",
+  "died": "January 8, 1961 — El Dorado, Arkansas (age 50, heart attack at home, 3 days before 51st birthday)",
+  "hof": "Not inducted. 158-101 (.610), 3.87 ERA, 3× All-Star (1935-36, 1947). 1935 WS champion. 16 consecutive wins in 1934 (tied AL record — Wood, Johnson, Grove). Led AL in W% 1940 (.842). Led AL in K/BB ratio 1934-35. Led AL in SHO 1935 (6). .263 career BA as a pitcher (18 HR, 153 RBI). Michigan Sports HOF 1961.",
+
+  "real_stats": {
+    "season": 1934,
+    "wins": 24,
+    "losses": 8,
+    "era": "3.45",
+    "games": 45,
+    "games_started": 34,
+    "complete_games": 22,
+    "shutouts": 4,
+    "saves": 4,
+    "innings_pitched": "275.2",
+    "hits_allowed": 275,
+    "walks": 62,
+    "strikeouts": 149,
+    "whip": "1.223",
+    "win_pct": ".750",
+    "era_plus": 137,
+    "war": 6.4,
+    "career_wins": 158,
+    "career_losses": 101,
+    "career_era": "3.87",
+    "career_k": 913,
+    "career_war": 32.7,
+    "batting_avg_1934": ".303",
+    "batting_avg_1935": ".312",
+    "career_batting_avg": ".263",
+    "career_hr_pitcher": 18
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "stf": 3,
+    "ctl": 2,
+    "sta": 3,
+    "def": 0,
+    "clu": 1
+  },
+
+  "stat_justification": {
+    "stf": "149 K in 1934 (3rd in AL). Overpowering fastball that generated the nickname from dominating older men as a teenager. Led AL in K/BB ratio 1934-35. 140 K in 1935 (2nd in AL). But: shoulder injuries destroyed the fastball after 1936. Pre-injury he was a power pitcher; post-injury he survived on guile. Rating of 3 for peak-year stuff.",
+    "ctl": "62 BB in 275.2 IP (2.0 BB/9) in 1934. 1.223 WHIP. Led AL in K/BB ratio 1934-35. Career-best 1.31 BB/9 in 1943. Good control, especially for a power pitcher. But ERA of 3.45 in 1934 and 3.87 career suggests he gave up hard contact despite low walks. Rating of 2.",
+    "sta": "275.2 IP in 1934. 22 CG. 45 total appearances. But: the heavy workload likely contributed to shoulder injuries that limited him to 31 IP in 1937 and 21 IP in 1938. He was a workhorse when healthy but couldn't sustain it. Came back but never with the same durability. Rating of 3.",
+    "def": "No particular defensive reputation. However, an outstanding hitting pitcher: .303 BA in 1934, .312 in 1935, .263 career BA, 18 HR, 153 RBI. There was discussion of converting him to an outfielder. Led NL in pinch hits in 1943. But DEF measures fielding, not hitting. Rating of 0.",
+    "clu": "1934 WS: Game 2 — 12-inning CG, retired 22 consecutive batters, won 3-2. But lost Game 6. 1935 WS: 1-2 despite 2.51 ERA — lost Games 1 and 5 on CG with low ER (team didn't score). 1940 WS: 0-2, 17.18 ERA — catastrophic. Mixed: great individual performances in '34-'35 WS, disaster in '40. Rating of 1."
+  },
+
+  "personality": {
+    "leadership_style": "The Romantic Hero. Rowe led through charm, charisma, and a folksy sincerity that made him irresistible to fans, teammates, and press alike. He wasn't a tactician or a firebrand. He was the handsome, superstitious, ball-talking pitcher who asked his sweetheart on national radio how he was doing. Detroit's female fans adored him. His teammates loved him. Even the Cardinals' Goose Goslin said of the whole Tigers team: 'I kind of liked the kid.' He was baseball's golden boy for three glorious years.",
+    "temperament": "Superstitious, romantic, eccentric, resilient. He carried amulets, talismans, and good-luck charms in his pockets. He always picked up his glove with his left hand. He talked to the baseball — named it 'Edna' after his sweetheart. 'C'mon, Edna, we got this guy Foxx right where we want 'em.' He was a known flake with an abundance of Southern charm. He loved mingling with fans and signing autographs. He competed in 100+ professional boxing matches. The combination of sensitivity and toughness was uniquely Schoolboy.",
+    "work_ethic": "Natural phenomenon who fought through destruction. Signed at 16 for $250 in a firehouse. Refused to report to the minors for years, playing semipro ball instead. When he finally committed in 1932, went 19-7 with a 2.30 ERA at Beaumont. Then 24-8 in his second MLB season. Then shoulder injuries destroyed everything — 31 IP in 1937, 21 IP in 1938. But he came back: 16-3 in 1940, then reinvented himself as a crafty veteran with the Phillies (52-39 over 5 seasons). The Lazarus of baseball.",
+    "lifestyle": "Arkansas small-town boy to Detroit folk hero. Father was a circus trapeze performer (Schoolboy insisted he was 'an architect'). All-state QB. 100+ boxing matches. Tennis. Golf. Basketball. Married Edna Mary Skinner (his high school sweetheart) on October 11, 1934, right after the WS. Two children. After playing: Tigers pitching coach, first base coach, scout. Died at 50 of a heart attack in El Dorado. Buried at Arlington Memorial Park. Michigan Sports HOF posthumously 1961.",
+    "era_adaptability": "MODERATE-HIGH. The raw stuff (power fastball, good control) would translate well to modern baseball. His .263 career BA with 18 HR would make him a two-way player candidate in the Ohtani era. The superstitions and ball-talking would make him a viral sensation. But the shoulder injuries would be better managed with modern medicine — Tommy John surgery, load management, etc. The healthy Schoolboy Rowe might have been a 250-game winner.",
+    "clubhouse_impact": "BELOVED. Rowe was the most popular Tiger of his era. He spent hours signing autographs. He charmed the press. He was devoted to his sweetheart on national radio. He fought through career-threatening injuries to come back multiple times. His personality was the opposite of Medwick's fury or Dean's braggadocio — Rowe was warm, sincere, and slightly absurd (he talked to the ball). Every clubhouse needs a Schoolboy Rowe.",
+    "dark_side": "The shoulder. The career that should have been 250+ wins was limited to 158 by chronic shoulder pain. 1937-38: only 52 IP combined. The heavy workload of 1934-36 (62 wins, massive innings) likely caused the breakdown. And the 1940 WS — after his miraculous 16-3 comeback season — was a disaster: 0-2, 17.18 ERA. The universe gave him the greatest comeback story in baseball and then humiliated him on the biggest stage. He died at 50 — too young for a man who had boxed 100+ fights, quarterbacked a high school team, and thrown 275 innings in a single season. The body that could do everything was the first thing to fail him."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "How'm I Doin', Edna?",
+      "desc": "On September 13, 1934, during a nationally broadcast radio interview, Rowe asked his fiancée: 'How'm I doin', Edna honey?' He was ribbed unmercifully. But it worked — they married a month later. +2 fan popularity, +1 female fan attendance. -1 credibility with opposing players."
+    },
+    {
+      "tag": "The Ball Named Edna",
+      "desc": "Rowe talked to the baseball during games, calling it 'Edna.' 'C'mon, Edna, we got this guy Foxx right where we want 'em.' +1 CTL when talking to the ball. Opponents are unnerved by a man addressing a baseball by his sweetheart's name."
+    },
+    {
+      "tag": "16 Consecutive Wins",
+      "desc": "June 15 to August 19, 1934 — 16 straight victories, tying the AL record (Wood, Johnson, Grove). When win streak reaches 10+: +1 STF/CTL. When the streak ends: -1 morale for 2 games."
+    },
+    {
+      "tag": "Superstitious Pitcher",
+      "desc": "Carries amulets, talismans, and charms in his pockets. Always picks up glove with left hand. Pre-game ritual cannot be disrupted. If ritual is broken: -1 all stats for that start. If maintained: +1 stability."
+    },
+    {
+      "tag": "The Hitting Pitcher",
+      "desc": ".303 BA in 1934. .312 in 1935. .263 career. 18 HR as a pitcher. Led NL in pinch hits (1943). Rowe can be used as a pinch-hitter. +1 offensive contribution from the pitcher spot."
+    },
+    {
+      "tag": "Arkansas Rivalry",
+      "desc": "When facing Dizzy Dean (fellow Arkansan): +1 STF to both pitchers. El Dorado vs. Lucas. The 1934 WS was an Arkansas civil war — Rowe vs. Dean. Both native sons, both country boys, both superstars."
+    },
+    {
+      "tag": "The Lazarus Comeback",
+      "desc": "After career-threatening injury (1937-38: 52 IP total), Rowe returned to go 16-3 in 1940 (.842 W%). If sidelined 2+ seasons by injury: 30% chance of miraculous comeback at reduced stats. The body breaks; the will doesn't."
+    },
+    {
+      "tag": "The Trapeze Artist's Son",
+      "desc": "Father was a circus trapeze performer (Schoolboy insisted he was 'an architect'). +1 athleticism. Rowe's unusual physical gifts came from somewhere — the man competed in 100+ boxing matches, played QB, and could throw 95 mph."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "10 seasons. 24-8 in 1934. 16 consecutive wins. 1935 WS champion. Folk hero status.",
+      "note_extra": "Source labeled 'Navin Field / Detroit' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH as the franchise-identity-stage domain. Rowe's 10-season Detroit tenure and folk-hero status at Navin Field (later Briggs Stadium) is the set's most specifically fan-beloved franchise Media/Spotlight/HIGH: personality.leadership_style cites female fan adoration, autograph-signing hours, and press charm as the material basis. The chemistry_trait 'How'm I Doin', Edna?' (+2 fan popularity, +1 female fan attendance) is the mechanical expression."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "275 IP. 22 CG. He talked to the ball. He named it Edna. The mound was his stage.",
+      "note_extra": "Source labeled 'The Pitcher's Mound' / affinity 'HIGH' — mapped to Practice Field/HIGH as the mound-craft domain. Eighth mound-craft Practice Field/HIGH in the set (Mathewson, McGinnity, Phillippe, Plank, Reulbach, Reynolds, Roe, Root, Rowe). Rowe's is the most emotionally personalized: the mound-as-stage where he spoke to the ball by name. The chemistry_trait 'The Ball Named Edna' (+1 CTL when talking to the ball) is the mechanical expression of the mound as intimate rather than merely technical domain."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "'How'm I doin', Edna honey?' The most famous radio interview in baseball history.",
+      "note_extra": "Source labeled 'Eddie Cantor Radio Show' / affinity 'HIGH' — first named radio program as a preferred_location in the set. Prior Media/Spotlight preferred_locations were domain-level (franchise stage, press room, spotlight generally). Rowe's is a specific named broadcast event (Eddie Cantor Show, September 13, 1934) where a single improvised question became the most famous radio moment in baseball history. Mapped to Media/Spotlight/HIGH. The action card 'How'm I Doin', Edna?' and chemistry_trait 'How'm I Doin', Edna?' are the cross-field expressions. Third card with two Media/Spotlight/HIGHs in the set."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Home. Grew up here. Married here (at the Detroit Leland Hotel, but Edna was from here). Died here. Buried here.",
+      "note_extra": "Source labeled 'El Dorado, Arkansas' / affinity 'HIGH' — mapped to Community Events/HIGH as the hometown-origin domain. Fifth rural-origin Community Events/HIGH in the set (Manush, Reynolds, Roe, Root, Rowe). Rowe's is the most complete lifecycle domain: born nearby (Waco, TX, raised in El Dorado), died in El Dorado (January 8, 1961), buried there. The chemistry_trait 'Arkansas Rivalry' (+1 STF to both when facing Dean, fellow Arkansan) is the most geographically specific expression of this domain. 'The architect's son' parenthetical in the born field makes El Dorado a site of family mythology as well as origin."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "100+ professional boxing matches. The toughness behind the charm.",
+      "note_extra": "Source labeled 'Boxing Ring' / affinity 'MEDIUM' — mapped to Hotel/Rest/MEDIUM as the physical-contest-and-toughness domain. First boxing-ring preferred_location in the set. Prior Hotel/Rest/MEDIUMs were communal gathering spaces (Medwick's bar/tavern, Newhouser's home, Reulbach's church/parish). Rowe's boxing ring is the most athletic non-baseball preferred_location in the set. 100+ professional bouts is the most extensive secondary athletic career in any preferred_location in the set. The boxing toughness connects to personality.temperament ('combination of sensitivity and toughness was uniquely Schoolboy') and dark_side ('body that could do everything was the first thing to fail him')."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "MEDIUM",
+      "note": "Game 2: 12-inning CG, retired 22 straight. But lost Game 6 and the Series to the Gashouse Gang.",
+      "note_extra": "Source labeled '1934 World Series vs. Cardinals' / affinity 'MEDIUM' — first WS preferred_location at MEDIUM in the set. Prior WS preferred_locations: Rice's '1938 World Series' / LOW (temporal-event catastrophic failure); Root's 'World Series' / LOW (career-spanning failure). Rowe's 1934 WS is MEDIUM: the 12-inning Game 2 CG is one of the greatest individual WS performances in history (action card 'The 12-Inning Complete Game'), but the Game 6 loss and ultimate Series defeat by the Gashouse Gang prevents HIGH. The MEDIUM encodes ambivalence: individually magnificent, collectively incomplete. The action cards 'The 12-Inning Complete Game' (Game Action) and 'Sixteen Consecutive Wins' (Game Action) are the cross-field expressions of the 1934 pinnacle."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "LOW",
+      "note": "The comeback year (16-3). The WS disaster (0-2, 17.18 ERA). The universe's cruelest joke.",
+      "note_extra": "Source labeled '1940 World Series' / affinity 'LOW' — third WS-as-preferred_location in the set (Rice's 1938 WS/LOW; Root's World Series/LOW; now Rowe's 1940 WS/LOW). Rowe's is the most narratively cruel: the 16-3 comeback season (chemistry_trait 'The Lazarus Comeback') led directly to the 17.18 WS ERA. The action card 'The 1940 World Series Collapse' is the mechanical expression. Rowe is the only player in the set with three WS-related preferred_location entries across two different affinities (MEDIUM 1934, LOW 1940) — encoding the full arc of WS triumph and disaster within the preferred_location taxonomy."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Win streaks — 16 consecutive in 1934. When he's rolling, nobody can stop him.",
+      "Edna energy — when the romance is strong, the pitching is strong. The ball listens.",
+      "Comeback mode — after injury, Rowe returns with renewed intensity (16-3 in 1940).",
+      "Fan energy — Rowe feeds on crowd love. Detroit's female fans powered his confidence."
+    ],
+    "cold_triggers": [
+      "Shoulder pain — 1937-38. The arm dies. 52 IP in two years. The career hangs by a thread.",
+      "Post-streak letdown — after the 16-game streak ended, Rowe went 4-4 the rest of 1934.",
+      "WS pressure (1940) — the greatest comeback led to the worst WS performance. 17.18 ERA.",
+      "Mockery — 'How'm I doin', Edna' was endearing but also ammunition for opponents."
+    ],
+    "pressure_response": "BRILLIANT AND HEARTBREAKING. 1934 WS Game 2: 12-inning CG, 2 ER, retired 22 consecutive batters — one of the greatest WS pitching performances ever. But lost Game 6 to Paul Dean. 1935 WS: 1-2 despite 2.51 ERA — pitched 2 CG losses where the Tigers didn't score (2 ER and 2 ER). The team failed him, not the other way. 1940 WS: 0-2, 17.18 ERA — the collapse. The pattern: individually magnificent in 1934-35, catastrophically broken in 1940. He gave everything the mound demanded and sometimes the scoreboard didn't cooperate."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Sixteen Consecutive Wins",
+      "type": "Game Action",
+      "text": "Your pitcher loses on June 10 to fall to 4-4. Then he wins. And wins. And wins. Sixteen consecutive victories — tying the American League record held by Smoky Joe Wood, Walter Johnson, and Lefty Grove. By the time the streak ends on August 19, he's 20-4 and your team is running away with the pennant.",
+      "origin": "1934: Rowe won 16 straight from June 15 to August 19, tying the AL record. Tigers won the pennant by 7 games."
+    },
+    {
+      "title": "How'm I Doin', Edna?",
+      "type": "Action",
+      "text": "Your star pitcher appears on a nationally broadcast radio show during the pennant race. Instead of talking about baseball, he looks into the microphone and asks his fiancée back in Arkansas: 'How'm I doin', Edna honey?' The nation melts. His teammates never let him hear the end of it. He marries her a month later.",
+      "origin": "September 13, 1934: Rowe asked Edna Skinner on the Eddie Cantor radio show. They married October 11, 1934."
+    },
+    {
+      "title": "The Ball Named Edna",
+      "type": "Action",
+      "text": "Your pitcher talks to the baseball during games. He's named it after his sweetheart. 'C'mon, Edna, we got this guy Foxx right where we want 'em.' 'Careful now, Edna. Don't let Ruth get those arms extended.' The ball, apparently, listens. He wins 24 games.",
+      "origin": "Rowe was known to talk to the baseball, addressing it as 'Edna' during games."
+    },
+    {
+      "title": "The 12-Inning Complete Game",
+      "type": "Game Action",
+      "text": "Game 2 of the World Series. Your pitcher takes the mound against the Gashouse Gang. He pitches 12 innings. A complete game. Two earned runs. He retires 22 consecutive batters at one point. Your team wins 3-2 in the 12th. It's one of the greatest WS pitching performances in history.",
+      "origin": "1934 WS Game 2: Rowe CG 12 innings, 2 ER, retired 22 straight. Tigers won 3-2."
+    },
+    {
+      "title": "The Shoulder Dies",
+      "type": "Drama",
+      "text": "Your ace won 62 games over the last three seasons. He was one of the best pitchers in baseball. Then his shoulder fails. In 1937: 31 innings, 1-4, 8.62 ERA. In 1938: 21 innings, 0-2. He's sent to the minors. The arm that threw 275 innings in a season can barely throw 20. He's 27 years old.",
+      "origin": "1937-38: Rowe's shoulder injuries limited him to 52 IP combined after 3 years of heavy workload."
+    },
+    {
+      "title": "The Lazarus Season",
+      "type": "Game Action",
+      "text": "Your pitcher was given up for dead. Two years of nothing. Minor league rehabilitation. But in 1940, he returns: 16-3 record. .842 winning percentage — best in the league. He leads your team to the pennant. The Lazarus of baseball rises from the dead.",
+      "origin": "1940: Rowe went 16-3 (.842 W%, led AL) after being limited to 52 IP in 1937-38 combined."
+    },
+    {
+      "title": "The Trapeze Artist's Son",
+      "type": "Action",
+      "text": "A scout knocks on your prospect's door. An undersized, middle-aged man answers. The scout's heart sinks — this can't be the father of a baseball prodigy. But the scout has misread the man: he's a former circus trapeze performer. His son is 6'4\", has boxed 100+ professional fights, and can throw 95 mph. The architect's son is actually the trapeze artist's son.",
+      "origin": "Scout Eddie Goosetree visited the Rowe home. Father Thomas Rowe was a former circus trapeze performer, though Schoolboy insisted he was 'an architect.'"
+    },
+    {
+      "title": "The 1940 World Series Collapse",
+      "type": "Drama",
+      "text": "Your pitcher's comeback season was miraculous — 16-3 after two years lost to injury. The pennant is won. The World Series begins. And your pitcher is destroyed: 0-2, 17.18 ERA. The universe gave him the greatest comeback story in baseball and then humiliated him on the biggest stage.",
+      "origin": "1940 WS: Rowe went 0-2 with a 17.18 ERA despite his miraculous regular season (16-3)."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Tall, dark-haired, chiseled jawline, gold-capped front tooth (from a football injury). 6'4\" 210 lbs — imposing but warm. The face should show Southern charm and slight eccentricity — a man who talks to baseballs, carries talismans, and names things after his sweetheart. Handsome enough to cause swoons on ladies' day at Navin Field.",
+    "attire": "Detroit Tigers 1934 home whites with the Old English 'D'. Navin Field behind him. The windup — tall, powerful, the fastball loaded. Or: the radio interview — microphone in hand, looking slightly embarrassed, saying something to Edna. A lucky charm or amulet visible in the pocket.",
+    "mood": "Romance and power. The card should feel like a love letter written on a baseball. Warm, sincere, slightly goofy, but backed by 95 mph and 16 consecutive wins. The most charming pitcher in the set — where Dean is joy and Grove is rage, Schoolboy is tenderness weaponized.",
+    "style": "Detroit industrial meets Arkansas pastoral. Tigers navy and white, but with warm Southern undertones. Navin Field's steel and concrete, softened by the warmth of the man on the mound. This is the card of a country boy who became a city hero, married his sweetheart, and talked to baseballs.",
+    "reference": "The card of the boy who talked to the ball and named it Edna. The pitcher who won 16 straight and asked his sweetheart on the radio how he was doing. The trapeze artist's son who boxed 100 fights and quarterbacked a football team. The arm that threw 275 innings and then broke. The Lazarus who came back to go 16-3. The man whose World Series comeback ended in a 17.18 ERA. Schoolboy Rowe — the most romantic pitcher in baseball history."
+  }
+}

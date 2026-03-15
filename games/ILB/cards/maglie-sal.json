@@ -1,0 +1,192 @@
+{
+  "card_type": "player",
+  "name": "Sal Maglie",
+  "nickname": "The Barber",
+  "year": 1951,
+  "team": "New York Giants",
+  "era": "1950s",
+  "ilb_team": "Dreamers NL1950",
+  "position": "SP",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'2\"",
+  "weight": "180 lbs",
+  "born": "April 26, 1917 — Niagara Falls, NY",
+  "died": "December 28, 1992 — Niagara Falls, NY",
+  "hof": "Not inducted. 119-62, 3.15 ERA, .657 W%, 34.2 WAR in 10 seasons. Lost 4+ years to Mexican League ban.",
+  "real_stats": {
+    "season": {
+      "year": 1951,
+      "games": 42,
+      "w": 23,
+      "l": 6,
+      "era": "2.93",
+      "k": 146,
+      "bb": 86,
+      "ip": "298.0",
+      "cg": 22,
+      "whip": "1.14",
+      "war": 5.9
+    },
+    "career": {
+      "seasons": 10,
+      "w": 119,
+      "l": 62,
+      "era": "3.15",
+      "k": 862,
+      "cg": 93,
+      "sho": 25,
+      "no_hit": 1,
+      "war": 34.2
+    }
+  },
+  "ilb_stats": {
+    "ovr": 7,
+    "stf": 3,
+    "ctl": 2,
+    "sta": 3,
+    "def": 1,
+    "clu": 2
+  },
+  "stat_justification": {
+    "stf": "2.93 ERA in 1951 — second-best in the NL. Led the league in ERA+ (134) and H/9 (7.7, lowest in NL). Bill James called him the best pitcher in baseball for 1951 and said he would have won the Cy Young had it existed. But Maglie was a craft pitcher, not an overpowering one — K/9 of 4.41 means no strikeout bonus. His 'stuff' was location, the curveball learned from Dolf Luque in Mexico, and the intimidation of pitching inside. Rating of 3.",
+    "ctl": "BB/9 approximately 2.60 in 1951 (86 BB in 298 IP). WHIP of 1.14 — excellent but doesn't reach the elite 1.00 threshold. Maglie's genius was in the perception of control: batters were so terrified of being hit that they couldn't sit on any pitch. His 'close shaves' — brushback pitches just under the chin — expanded the effective strike zone through intimidation. Rating of 2.",
+    "sta": "298 IP in 1951 — just shy of 300. 22 complete games in 37 starts. Career 93 CG in 10 seasons. In 1950, he threw 45 consecutive scoreless innings including 4 straight shutouts. Maglie was a workhorse when healthy, though back problems plagued him in 1953-55. Rating of 3.",
+    "def": "Good fielding pitcher. Led NL pitchers in double plays turned and fielding percentage in 1951. Competent but not exceptional with the glove. Rating of 1.",
+    "clu": "Sal Maglie started the three most famous games of the 1950s: (1) The Shot Heard 'Round the World game (Oct 3, 1951) — held the Dodgers to 4 runs through 8 IP, enabling Bobby Thomson's walk-off HR. (2) 1954 WS Game 1 — held the 111-win Indians to 2 runs in 7 IP, the game featuring Willie Mays' famous catch. (3) 1956 WS Game 5 — threw a 5-hitter against the Yankees but lost to Don Larsen's perfect game. WS career ERA 3.41 in 29 IP. He was THE pitcher managers wanted in the biggest game of the year. Alvin Dark: 'He is the only man I've ever seen pitch a shutout on a day when he had absolutely nothing. He got by on meanness.' Rating of 2."
+  },
+  "personality": {
+    "leadership_style": "Lead through intimidation on the mound and quiet competence off it. Maglie's persona was split: menacing, dark, unshaven on the mound; gentle, warm, soft-spoken in the clubhouse. His teammates knew that when Maglie pitched, they were going to win — and the other team knew they were going to get brushed back. His leadership was simple: 'I will terrify them, and you will beat them.'",
+    "temperament": "Jekyll and Hyde. Off the field, Maglie was described as one of the gentlest men in baseball — polite, humble, and likable. On the mound, he was a menace. His five o'clock shadow, dark features, and willingness to throw at batters' heads created a terrifying figure. Carl Furillo once threw a bat at him. But when Maglie was traded to the Dodgers, Furillo and Maglie became roommates. The monster was a mask.",
+    "work_ethic": "Late bloomer who refined his craft under extreme circumstances. Maglie didn't become a major league regular until age 33 — his prime years stolen by a slow minor league rise, WWII-era physical rejection (chronic sinus condition), and the Mexican League ban. He learned the curveball from legendary Cuban pitcher Dolf Luque in Mexico. That education transformed him from a marginal prospect into an ace. Every inning he threw was borrowed time, and he pitched like it.",
+    "lifestyle": "Son of Italian immigrants in Niagara Falls, NY. Married to Kay. Played ball secretly as a kid because his parents discouraged it. Attended Niagara University. After baseball, he returned to Niagara Falls and owned several businesses. Suffered a debilitating stroke in the mid-1970s. The city renamed Hyde Park Stadium 'Sal Maglie Stadium' in 1983. A beloved local figure until his death in 1992.",
+    "era_adaptability": "MODERATE. Maglie's approach — pitching inside, intimidation, painting corners — would translate to any era conceptually. But his velocity was modest even by 1950s standards. In the modern game, his K/9 of 4.4 wouldn't survive. However, his influence on pitching philosophy — teaching Drysdale, Koufax, Gibson, and Lonborg to pitch inside — shaped the game for decades. In ILB: Maglie is a finesse ace who maximizes his arsenal through fear.",
+    "clubhouse_impact": "RESPECTED ELDER. Maglie joined teams as a veteran presence and immediately elevated the pitching staff. With the Giants, he was the anchor who made the '51 Miracle possible. With the Dodgers in '56, he revitalized a flagging rotation and threw a no-hitter in a pennant race. As a pitching coach, he mentored Cy Young winners Drysdale, Lonborg, and Gibson. His impact exceeded his stat line.",
+    "dark_side": "The Mexican League betrayal. In 1946, Maglie and several other players jumped to the Mexican League, lured by higher salaries. Commissioner Happy Chandler blacklisted them for five years. Maglie lost four prime seasons (ages 29-32) to the ban. He was one of the 'Mexican League outlaws' — players who were punished for seeking fair pay. The ban was eventually lifted, but Maglie never recovered those years. In ILB terms: Maglie carries a 'Blacklisted' trait — he cannot play for 4 seasons if a 'Mexican League Jump' event is triggered, but returns with +1 STF from Luque's curveball education."
+  },
+  "chemistry_traits": [
+    { "tag": "The Barber", "desc": "Maglie's brushback pitches terrorize batters. Opposing hitters face -1 CON for their first at-bat against him each game. 10% chance of hitting a batter (potential ejection)." },
+    { "tag": "Close Shave", "desc": "When Maglie pitches inside, the umpire has a 5% chance of issuing a warning. If warned, Maglie's effectiveness drops -1 STF. If he ignores the warning and throws inside again, 15% ejection risk." },
+    { "tag": "Five O'Clock Shadow", "desc": "Maglie's dark, unshaven appearance intimidates opponents. +1 intimidation factor at home games. Opposing team's lead-off hitter starts with -1 morale." },
+    { "tag": "Dolf Luque's Student", "desc": "Maglie learned his devastating curveball from Cuban legend Dolf Luque in Mexico. +1 STF bonus when facing hitters who struggle against breaking balls." },
+    { "tag": "Ace of the Moment", "desc": "Maglie was the starter for 3 of baseball's most famous games. In playoff or World Series games, +1 CLU. The bigger the game, the better he pitches." },
+    { "tag": "Giant Killer / Dodger Savior", "desc": "Maglie went 23-11 lifetime against the Dodgers as a Giant. If traded to a former rival, he gains +2 chemistry with his new team and -2 with his old one." },
+    { "tag": "Blacklisted", "desc": "If a 'Mexican League' event is triggered, Maglie is banned for 4 seasons. Upon return, he gains +1 STF (Luque's curveball) and the 'Comeback' trait." },
+    { "tag": "Pitching Coach Legacy", "desc": "After retirement, Maglie can mentor young pitchers. Pupils gain +1 to 'pitch inside' effectiveness. His coaching tree includes Drysdale, Koufax, Gibson, and Lonborg." }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "The Barber's office. Where the gentle man becomes a menace.",
+      "note_extra": "Source label: 'Pitcher's Mound'. Maps to Practice Field (mound / pitching craft domain). HIGH affinity. Standard pitcher-mound mapping."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "Quiet, warm, generous with advice. The real Sal Maglie — nothing like his mound persona.",
+      "note_extra": "Source label: 'Clubhouse / Locker Room'. Maps to Hotel/Rest (clubhouse / locker room). HIGH affinity. Captures Maglie's Jekyll-and-Hyde split — the mound persona vs. the gentle clubhouse presence."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Son of Italian immigrants. Niagara Falls neighborhood restaurants where everyone knows his name.",
+      "note_extra": "Source label: 'Restaurant / Italian Dinner'. Maps to Community Events (hometown / neighborhood gathering). HIGH affinity. The restaurant functions as a community venue for Maglie — neighborhood identity, immigrant family culture, local belonging."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "MEDIUM",
+      "note": "Pitching coach for Red Sox ('67 Impossible Dream), Pilots, Cubs. Shaping the next generation.",
+      "note_extra": "Source label: 'Coaching / Mentoring'. Maps to Practice Field (coaching / classroom craft domain). MEDIUM affinity. Cross-references 'Pitching Coach Legacy' chemistry trait — Drysdale, Koufax, Gibson, Lonborg."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Beloved in Niagara Falls. Over 1,000 attended his tribute dinner. Stadium named after him.",
+      "note_extra": "Source label: 'Community Events'. Maps directly to Community Events (hometown / post-career venue). MEDIUM affinity. Sal Maglie Stadium (formerly Hyde Park Stadium) renamed 1983."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "LOW",
+      "note": "Private man. Let his pitching speak. The five o'clock shadow was intimidation, not vanity.",
+      "note_extra": "Source label: 'Media / Spotlight'. Maps directly to Media/Spotlight. LOW affinity. Maglie's public image was the mound persona — he didn't seek media attention beyond it."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Family man. Quiet evenings at home with Kay.",
+      "note_extra": "Source label: 'Bar / Nightlife'. Maps to Hotel/Rest (bar/nightlife subdomain). LOW affinity. Explicitly contrasts with players who had high bar/nightlife affinity — Maglie was a homebody."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "September pennant races — Maglie went 6-1 in September 1951, 5-1 in September 1950, 4-0 in September 1952",
+      "Facing the Dodgers — 23-11 lifetime, 11 of 12 at Ebbets Field. The rivalry fueled him.",
+      "Must-win games — the bigger the stakes, the sharper the curveball",
+      "Returning from adversity — came back from 4-year ban at age 33 and became an ace"
+    ],
+    "cold_triggers": [
+      "Back problems — chronic issues in 1953-55 reduced him from ace to journeyman",
+      "Being waived or sold — Maglie's pride suffered when the Giants let him go in 1955",
+      "Postseason losses to the Yankees — his WS record was 1-2 despite pitching well"
+    ],
+    "pressure_response": "ELITE. Maglie was, by every account, the pitcher you wanted on the mound when everything was on the line. Bill Madden of the NY Daily News wrote he'd never make the Hall of Fame 'unless there's a Hall of Fame just for pitchers whom you wanted to have the ball in a game you had to win.' He started Game 3 of the 1951 NL playoff (Shot Heard 'Round the World), Game 1 of the 1954 WS (Willie Mays catch), and Game 5 of the 1956 WS (Don Larsen's perfect game). In September pennant races, his combined record was approximately 15-2 across three seasons. He got by on 'meanness,' as Alvin Dark said."
+  },
+  "action_card_seeds": [
+    {
+      "title": "The Shot Heard 'Round the World",
+      "type": "Game Action",
+      "text": "Your ace has held the rival team to 4 runs through 8 innings of the deciding playoff game. Your team trails 4-1 in the bottom of the 9th. Then: a three-run walk-off homer wins the pennant. Your pitcher doesn't get the win or the loss — but he kept you close enough for the miracle.",
+      "origin": "Oct 3, 1951: Maglie started Game 3 of the NL playoff tiebreaker. He held the Dodgers to 4 runs through 8 IP. In the bottom of the 9th, Bobby Thomson hit the most famous home run in baseball history. Maglie was the reason the Giants were still alive."
+    },
+    {
+      "title": "The Catch Game",
+      "type": "Game Action",
+      "text": "Your pitcher holds the best team in baseball to 2 runs through 7 innings of World Series Game 1. Your center fielder makes an over-the-shoulder catch that defies physics. The game goes to extras. You win.",
+      "origin": "1954 WS Game 1: Maglie held the 111-win Indians to 2 runs in 7 IP. Willie Mays made THE Catch on Vic Wertz's 460-foot drive. The Giants won in extra innings and swept the Series."
+    },
+    {
+      "title": "Opposite Side of Perfection",
+      "type": "Drama",
+      "text": "Your ace throws a masterful 5-hitter in the World Series — and loses. The opposing pitcher throws a perfect game. Your pitcher is remembered as the footnote to history's greatest pitching performance.",
+      "origin": "1956 WS Game 5: Maglie threw a 5-hitter with 10 strikeouts against the Yankees, allowing just 2 runs. Don Larsen threw the only perfect game in World Series history. Maglie's brilliant outing is remembered only as the losing side of Larsen's legend."
+    },
+    {
+      "title": "The Close Shave",
+      "type": "Game Action",
+      "text": "Your pitcher throws a brushback pitch that barely misses the batter's chin. The batter is furious — he throws his bat at the pitcher. Both benches clear. Your pitcher gains +2 intimidation but risks ejection.",
+      "origin": "Carl Furillo was so enraged by Maglie's close shaves that he threw his bat at the pitcher. Years later, after Maglie was traded to the Dodgers, Furillo and Maglie became roommates and friends."
+    },
+    {
+      "title": "The Mexican League Exile",
+      "type": "Drama",
+      "text": "Several of your players jump to a rival league offering higher salaries. The commissioner bans them for 5 years. When the ban is lifted, the returning players have learned new skills but have lost prime years. Each returning player gains +1 to one stat but loses 4 seasons of career accumulation.",
+      "origin": "In 1946, Maglie and other players jumped to the Mexican League. Commissioner Chandler blacklisted them for 5 years (reduced to 4). In Mexico, Maglie learned his devastating curveball from Dolf Luque. He returned at 33 and became one of baseball's best pitchers."
+    },
+    {
+      "title": "The September Ace",
+      "type": "Game Action",
+      "text": "Your ace pitcher goes 6-1 in September during a pennant race. Each win is worth double momentum. The team erases a 13½-game deficit and forces a tiebreaker playoff.",
+      "origin": "In September 1951, Maglie went 6-1 including a shutout of the Dodgers that tied the teams for first place. The Giants had trailed by 13½ games in August and won 37 of their last 44 to force the legendary playoff."
+    },
+    {
+      "title": "No-Hitter in the Pennant Race",
+      "type": "Game Action",
+      "text": "Your 39-year-old pitcher, thought to be washed up, throws a no-hitter in September during a one-game pennant race. +5 team momentum. The pitcher gains 'Ageless' trait.",
+      "origin": "On Sept 25, 1956, Maglie (age 39) threw a no-hitter for the Dodgers against the Phillies, keeping Brooklyn in the pennant race. He was the oldest pitcher in 48 years to throw a no-no."
+    },
+    {
+      "title": "Enemy Becomes Ally",
+      "type": "Drama",
+      "text": "Your team acquires a hated rival pitcher. His former enemies on your roster are furious — but after seeing him pitch, they become his biggest fans. The player who once threw a bat at him becomes his roommate. -2 chemistry initially, +3 chemistry after 5 starts with sub-3.00 ERA.",
+      "origin": "Carl Furillo threw a bat at Maglie when he was a Giant. When Maglie was traded to the Dodgers in 1956, Furillo became his friend and roommate. Don Drysdale credited Maglie with teaching him to pitch inside."
+    }
+  ],
+  "art_direction": {
+    "face": "Dark, angular Italian features. Prominent five o'clock shadow — the 'Barber' look that made him so intimidating. 6'2\" 180 lbs — lean, gaunt, all angles and menace. Deep-set eyes under a Giants cap. The face of a man who would throw at your head and then buy you dinner. Age 34 in 1951 — the late-bloomer's peak.",
+    "attire": "New York Giants home whites, 1951 flannel. Mid-delivery — the high leg kick, the overhand curveball release point. Or: the follow-through, glaring at the batter who just fouled off a pitch too close to the plate. The Polo Grounds' distinctive horseshoe shape in the background.",
+    "mood": "Cold menace on the mound. The eyes say 'I will hurt you if I need to.' But there's craft behind the cruelty — this is a chess player, not a brawler. The portrait should feel like a predator coiled to strike. Not angry — calculating.",
+    "style": "Darker sepia than other cards, with deep shadows on Maglie's face emphasizing the stubble and the angular jaw. The Polo Grounds' upper deck looming behind. 1951 Bowman card aesthetic in unified ILB portrait style. This card should feel dangerous to hold.",
+    "reference": "The most intimidating card in the Dreamers set. Pair with Warren Spahn for the ultimate 1-2 rotation. Maglie is the enforcer; Spahn is the craftsman. Together they define the psychological warfare of 1950s pitching."
+  }
+}

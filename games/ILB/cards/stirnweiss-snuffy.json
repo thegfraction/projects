@@ -1,0 +1,189 @@
+{
+  "card_type": "player",
+  "name": "Snuffy Stirnweiss",
+  "nickname": "The Bronx Express",
+  "year": 1944,
+  "team": "New York Yankees",
+  "era": "1940s",
+  "ilb_team": "Allies AL1940",
+  "position": "2B",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'8\"",
+  "weight": "175 lbs",
+  "born": "October 26, 1918 — New York, NY",
+  "died": "September 15, 1958 — Newark Bay, NJ (age 39, train wreck)",
+  "hof": "Not inducted. 1945 AL Batting Champ, 3× WS Champ, .268 career BA in 10 seasons.",
+  "real_stats": {
+    "season": 1944,
+    "games": 154,
+    "at_bats": 643,
+    "hits": 205,
+    "doubles": 35,
+    "triples": 16,
+    "home_runs": 8,
+    "rbi": 43,
+    "stolen_bases": 55,
+    "batting_avg": ".319",
+    "obp": ".389",
+    "slg": ".460",
+    "ops": ".849",
+    "ops_plus": 139,
+    "war": 8.6,
+    "all_star": 2,
+    "career_avg": ".268",
+    "career_hits": 989,
+    "career_hr": 29,
+    "career_sb": 134,
+    "career_war": 24.2
+  },
+  "ilb_stats": {
+    "ovr": 7,
+    "con": 5,
+    "pow": 0,
+    "spd": 3,
+    "def": 2,
+    "clu": 1
+  },
+  "stat_justification": {
+    "con": ".319 BA in 1944, led AL with 205 hits. Won 1945 AL batting title (.309). Led AL in hits both years. 11:1 BB:K is an exaggeration for Stirnweiss, but he was a contact-first hitter who rarely struck out in '44. OPS+ 139 triggers +1 bonus. Maximum contact at peak.",
+    "pow": "8 HR in 1944, only 29 career HR in 10 seasons. Stirnweiss was a slap-and-dash hitter — triples (16) and doubles (35) were his extra-base game, not home runs. SLG .460 misses the .500 bonus threshold. Rating of 0 — no power whatsoever.",
+    "spd": "55 SB in 1944 — led the AL and set a Yankees franchise record. Led AL again in 1945 with 33. 134 career SB. 66 triples in career. 'The Bronx Express' earned his name. By the SB tiers, 55 SB → max tier 3. This is maximum speed.",
+    "def": "Led AL second basemen in fielding percentage, putouts, and assists in 1944. Set MLB record .993 fielding % at 2B in 1948 (only 5 errors). Pre-Gold Glove era equivalent: 3-5 GG. Rating of 2.",
+    "clu": "Three World Series rings (1943, 1947, 1949). In 1947 WS hit .259 but drew 8 walks (.429 OBP) in all 7 games. Minimal role in '43 and '49 WS. Solid contributor but no defining hero moment. Rating of 1."
+  },
+  "personality": {
+    "leadership_style": "Quiet workhorse, not vocal. Stirnweiss led by filling in wherever needed — shortstop, second base, third base — without complaint. When Joe Gordon went to war, Stirnweiss simply became the best second baseman in the AL. When Gordon came back, Stirnweiss moved to third. No ego, just production. He later advised Phil Rizzuto to 'cool off' when the Scooter was furious about being released — great advice that led to Rizzuto's broadcasting career.",
+    "temperament": "Even-keeled, humble, team-first. Stirnweiss never seemed to let the wartime asterisks bother him publicly. He held out briefly before 1946 over salary but settled quickly. Dan Daniel called him a player who was 'keeping things stirred up, win or lose' — energetic on the field, calm off it.",
+    "work_ethic": "Three-sport star (football, basketball, baseball) at Fordham Prep and UNC. NFL second-round draft pick who chose baseball. Coached football, basketball, and baseball in offseasons at multiple schools. After retirement, managed minor league teams, ran youth baseball programs, worked in banking. Never stopped moving.",
+    "lifestyle": "Bronx boy who played for his hometown team. Married, father of six children. Lived in Red Bank, NJ. After baseball, worked in banking and freight. Commuted daily by train from New Jersey to Manhattan. Deeply involved in youth baseball — was running the NY Journal-American sandlot program when he died. The nickname 'Snuffy' came from his tobacco habit — chewing tobacco, cigars, a teammate asked 'What, no snuff?'",
+    "era_adaptability": "COMPLEX. Stirnweiss's wartime peak raises the eternal question: was he genuinely great, or just the best of what was left? His speed and defense would translate to any era. His contact skills were real. But his power was nonexistent, and his career .268 BA suggests the wartime numbers were inflated. In ILB terms: Stirnweiss is a high-floor, low-ceiling card — elite speed and defense, but fragile batting value.",
+    "clubhouse_impact": "POSITIVE-UNDERSTATED. Never the loudest voice, but universally liked. Filled whatever role was needed. Three-time champion. The kind of player managers love — no drama, maximum effort. His advice to Rizzuto showed emotional intelligence beyond the diamond.",
+    "dark_side": "The tragic ending. On September 15, 1958, Stirnweiss's commuter train ran through signals and plunged off the Newark Bay drawbridge into the water. Forty-eight people died, including Stirnweiss. He was 39, with six children — the youngest only 17 months old. He had suffered a heart attack the year before and was rebuilding his life. In ILB terms: Stirnweiss carries a 'Fragile Mortality' trait — a reminder that the game's heroes are human beings with finite, uncertain lives."
+  },
+  "chemistry_traits": [
+    { "tag": "Wartime Star", "desc": "Peak performance during WWII depleted rosters. +2 OVR when facing weakened teams. -1 OVR when roster is at full strength." },
+    { "tag": "Bronx Express", "desc": "Maximum speed on the basepaths. Can attempt SB in any count. 83% success rate at peak." },
+    { "tag": "Utility Man", "desc": "Can play SS, 2B, or 3B with no defensive penalty. Fill any infield hole." },
+    { "tag": "Three-Sport Star", "desc": "NFL draftee, basketball captain, baseball pro. +1 to athletic checks in any non-baseball situation." },
+    { "tag": "Tobacco Man", "desc": "Always chewing or smoking. No gameplay effect, but adds flavor to every scene. Trademark quirk." },
+    { "tag": "Quiet Advisor", "desc": "Can defuse one teammate crisis per season with calm, measured advice. Prevents chemistry collapse." },
+    { "tag": "Forgotten Champion", "desc": "Three WS rings but barely remembered. -1 legacy score. Opponents underestimate him (+1 surprise factor in playoffs)." },
+    { "tag": "Newark Bay", "desc": "Tragic death at age 39. If Stirnweiss is on your roster when a random tragedy event fires, he is the first affected." }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Three-sport athlete. Always training, always moving. Speed work and infield drills.",
+      "note_extra": "Source label: 'Practice Field'. Maps directly to Practice Field. HIGH affinity."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "Quiet but present. The guy who keeps the locker room steady during turbulence.",
+      "note_extra": "Source label: 'Clubhouse / Locker Room'. Maps to Hotel/Rest (clubhouse / locker room). HIGH affinity."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Ran sandlot programs, coached at prep schools and colleges in offseasons.",
+      "note_extra": "Source label: 'Community Events / Youth Baseball'. Maps to Community Events (youth baseball / community programs). HIGH affinity."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Social enough, family man. Team dinners.",
+      "note_extra": "Source label: 'Restaurant / Steakhouse'. Maps to Hotel/Rest (dining / social venue). MEDIUM affinity."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Daily commuter from Red Bank to Manhattan. The train was his routine — and his fate.",
+      "note_extra": "Source label: 'Train Station / Commute'. Maps to Community Events (transportation / daily routine venue). MEDIUM affinity. First commute/transportation location in the set. Cross-references 'Newark Bay' chemistry trait and the tragic death."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Not a nightlife player. Stomach ulcers limited his drinking.",
+      "note_extra": "Source label: 'Bar / Nightlife'. Maps to Hotel/Rest (bar/nightlife subdomain). LOW affinity."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "NONE",
+      "note": "No association. Clean-living family man.",
+      "note_extra": "Source label: 'Gambling Hall'. Maps to Hotel/Rest (gambling subdomain). NONE affinity."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "Second-half surges — in 1944, hit .352/.413/.536 after the All-Star break",
+      "Filling in for absent stars — Stirnweiss gets better when the spotlight is suddenly his",
+      "Stolen base streaks — when the running game is working, his confidence soars",
+      "Batting title races — pushed himself to .309 on the final day of 1945 to win the crown"
+    ],
+    "cold_triggers": [
+      "Return of superior talent — when Gordon/DiMaggio/Rizzuto came back, Stirnweiss shrank",
+      "Position changes — moving to 3B in 1946 disrupted his rhythm at the plate",
+      "Health issues — stomach ulcers, later a heart attack, sapped his energy in later years"
+    ],
+    "pressure_response": "SOLID BUT CONTEXTUAL. Stirnweiss thrived under the specific pressure of the wartime era — when he was THE guy, he delivered MVP-caliber seasons. But when the pressure shifted to proving he belonged alongside returning stars, he wilted. In the 1947 World Series, he was steady (.259, 8 BB, .429 OBP) but not spectacular. Stirnweiss is the card you play when you need a reliable contributor, not a singular hero."
+  },
+  "action_card_seeds": [
+    {
+      "title": "The Wartime Replacement",
+      "type": "Action",
+      "text": "Your All-Star at a key position ships out to military service. His backup steps into the lineup. Roll d6: on 4+, the backup has a breakout season (+3 OVR for the year). On 1-3, he's a replacement-level fill-in (-1 OVR).",
+      "origin": "When Joe Gordon left for WWII, Stirnweiss stepped in and led the AL in hits, runs, triples, and stolen bases in 1944. He went from .219 utility man to batting champion in two years."
+    },
+    {
+      "title": "Batting Title on the Final Day",
+      "type": "Game Action",
+      "text": "It's the last game of the season. Your player trails the batting leader by .003 points. The opponent's game is rained out. Your player goes 3-for-5 and steals the batting crown by a single point.",
+      "origin": "On the final day of 1945, Stirnweiss went 3-for-5 to finish at .309, edging Tony Cuccinello (.308) whose game was rained out. One of the tightest batting races ever."
+    },
+    {
+      "title": "What, No Snuff?",
+      "type": "Drama",
+      "text": "A new player arrives in the clubhouse with chewing tobacco in his cheek and a cigar in his hand. A veteran quips about his tobacco habit and gives him a nickname that sticks forever. +1 clubhouse chemistry — everybody loves a good nickname.",
+      "origin": "Teammate Hank Majeski saw Stirnweiss with chewing tobacco and a cigar and asked 'What, no snuff?' The nickname 'Snuffy' stuck for life."
+    },
+    {
+      "title": "The NFL Draft Pick",
+      "type": "Drama",
+      "text": "Your multi-sport prospect has been drafted by a professional football team. He must choose: football (guaranteed contract, higher injury risk) or baseball (lower pay, longer career). If he chooses baseball, +1 SPD from his football training.",
+      "origin": "Stirnweiss was a 2nd-round NFL pick by the Chicago Cardinals in 1940. He chose baseball with the Yankees instead, believing it offered a longer career."
+    },
+    {
+      "title": "Fifty-Five Stolen Bases",
+      "type": "Game Action",
+      "text": "Your speedster has the green light all season. He sets a franchise record for stolen bases. Opposing catchers are demoralized (-1 to their throw-out rate for the rest of the season). But the baserunning takes a physical toll — 10% chance of hamstring injury.",
+      "origin": "Stirnweiss stole 55 bases in 1944 — a Yankees franchise record that stood for decades. He was caught only 11 times (83% success rate)."
+    },
+    {
+      "title": "Cool Off and Take a Vacation",
+      "type": "Action",
+      "text": "A teammate has just been cut/released and is furious. Your quiet veteran pulls him aside and says: 'Cool off. Take a vacation. Come back with a clear head.' If the cut player listens, he unlocks a new career path (broadcasting, coaching, or front office).",
+      "origin": "When the Yankees released Rizzuto in 1956, Stirnweiss advised him to take a vacation instead of popping off. Rizzuto did — and was offered the broadcasting job that made him famous."
+    },
+    {
+      "title": "The Newark Bay Disaster",
+      "type": "Drama",
+      "text": "A former player dies in a transportation accident. The entire league mourns. All teams lose -1 morale for 3 games. But the deceased player's legacy gains +3 permanent — he is remembered more fondly in death than he was in life.",
+      "origin": "On September 15, 1958, Stirnweiss died at age 39 when his commuter train plunged off the Newark Bay drawbridge. 48 people perished. He left behind six children."
+    },
+    {
+      "title": "The Asterisk Season",
+      "type": "Drama",
+      "text": "Your player just had an incredible statistical season — but critics say the competition was weakened. His batting title is dismissed as a 'wartime fluke.' Player must choose: ignore the critics (no effect) or try harder next year to prove them wrong (50% chance of burnout, 50% chance of another great year).",
+      "origin": "Stirnweiss's 1945 batting title (.309) was the lowest to win since 1905. Critics forever attached an asterisk. When the stars returned in 1946, he never hit .300 again."
+    }
+  ],
+  "art_direction": {
+    "face": "Compact, stocky build at 5'8\" 175 lbs. Round, boyish face with a determined expression. Dark hair under cap. Not conventionally handsome — workmanlike, scrappy. The look of a guy who'd run through a wall for you and then chew tobacco on the other side.",
+    "attire": "New York Yankees road grays, 1944 style. Number 1. Wartime-era wool flannel, slightly baggier than usual. Pinstripes visible. Cap with interlocking NY (omit for copyright — use plain cap). Tobacco bulge in cheek optional.",
+    "mood": "Kinetic energy barely contained. Mid-steal pose — leaning toward second base, weight on the balls of his feet, eyes locked on the pitcher. Or rounding third at full speed, dust trail behind him. Speed incarnate.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Yankee Stadium in wartime — flags at half-staff or military insignia subtle in the background. The card should feel urgent and fleeting — this is a man who burned bright and fast.",
+    "reference": "Think wartime baseball photography — slightly grainier, more urgent than peacetime cards. Stirnweiss in motion, always in motion. The card should feel like it's about to run off the frame."
+  }
+}

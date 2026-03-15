@@ -1,0 +1,190 @@
+{
+  "card_type": "player",
+  "name": "Bobby Thomson",
+  "nickname": "The Flying Scot / The Staten Island Scot",
+  "year": 1951,
+  "team": "New York Giants",
+  "era": "1940s",
+  "ilb_team": "Allies AL1940",
+  "position": "OF/3B",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'2\"",
+  "weight": "180 lbs",
+  "born": "October 25, 1923 — Glasgow, Scotland",
+  "died": "August 16, 2010 — Savannah, GA (age 86)",
+  "hof": "Not inducted. 3× All-Star (1948, 1949, 1952). Shot Heard 'Round the World. Bat in HOF.",
+  "real_stats": {
+    "season": 1951,
+    "games": 148,
+    "at_bats": 518,
+    "hits": 152,
+    "doubles": 27,
+    "triples": 8,
+    "home_runs": 32,
+    "rbi": 101,
+    "runs": 89,
+    "stolen_bases": 1,
+    "walks": 73,
+    "strikeouts": 57,
+    "batting_avg": ".293",
+    "obp": ".357",
+    "slg": ".528",
+    "ops": ".885",
+    "ops_plus": 133,
+    "war": 4.9,
+    "career_avg": ".270",
+    "career_hits": 1705,
+    "career_hr": 264,
+    "career_rbi": 1026,
+    "career_war": 35.2
+  },
+  "ilb_stats": {
+    "ovr": 7,
+    "con": 4,
+    "pow": 4,
+    "spd": 1,
+    "def": 0,
+    "clu": 3
+  },
+  "stat_justification": {
+    "con": "Thomson batted .293 in 1951, .309 in 1949 (career best). Career .270. OPS+ 133 narrowly clears the 130 bonus. He was a good, solid hitter — not an elite contact man. Eight 20-HR seasons show consistency. Rating of 4.",
+    "pow": "32 HR in 1951 (career high), 5th-best in the majors. 264 career HR over 15 seasons. Eight 20-HR seasons and four 100-RBI seasons. SLG .528 earns the bonus. Thomson was a reliable power threat — not Kiner or Mize level, but dangerous. Rating of 4.",
+    "spd": "1 SB in 1951. But 8 triples, and he led the NL in triples (14) in 1952 — showing legitimate speed for a power hitter. He played center field early in his career. Not a burner, but mobile. Rating of 1.",
+    "def": "Thomson was versatile: he played all three outfield positions and third base. In 1951, he moved to 3B to make room for rookie Willie Mays in CF. He was adequate everywhere but elite nowhere. No Gold Glove equivalent. Rating of 0.",
+    "clu": "SPECIAL OVERRIDE. Bobby Thomson hit the Shot Heard 'Round the World — the most famous single swing in baseball history. October 3, 1951: Giants trail 4-2 in the bottom of the 9th, 3-game playoff, pennant on the line. Thomson hits a 3-run walk-off HR off Ralph Branca. 'THE GIANTS WIN THE PENNANT! THE GIANTS WIN THE PENNANT!' However: his 1951 WS numbers were .238 with 0 HR — he vanished in the Fall Classic. The Shot earns maximum CLU because it is THE defining clutch moment in baseball. But the sign-stealing revelation creates a moral asterisk. Rating of 3 — with an asterisk."
+  },
+  "personality": {
+    "leadership_style": "The accidental hero. Thomson was a solid, dependable player — not the team's leader, not the franchise face. He moved to third base without complaint when Mays arrived. He was the quintessential team player who happened to be standing in the right place at the right time. His own words: 'I had a decent major-league career, but if I hadn't been in the right place at the right time, I would have vanished from sight and memory.'",
+    "temperament": "Humble, self-deprecating, gracious. Thomson carried the weight of the Shot for 59 years with remarkable grace. He befriended Ralph Branca — the man he destroyed — and they appeared together at events for decades. He never gloated, never exploited the moment excessively. When the sign-stealing was revealed, Branca said: 'Even if Bobby knew what was coming, he had to hit it.' Thomson's humility was genuine and lifelong.",
+    "work_ethic": "Consistent professional. Thomson was a reliable player for 15 years — eight 20-HR seasons, three All-Star selections, four 100-RBI seasons. He wasn't flashy, but he showed up. He moved positions when asked. He adapted when traded. He played in Japan at age 39 after his MLB career ended. The man worked.",
+    "lifestyle": "Glasgow to Staten Island to Basking Ridge. Born in Glasgow, Scotland — one of only six Scottish-born MLB players. Emigrated at age 2. Grew up on Staten Island, attended Curtis High School. After baseball: settled in New Jersey, worked in business. Married, raised a family. Lived a quiet, dignified life. Died in 2010 at 86 in Savannah, Georgia.",
+    "era_adaptability": "MODERATE. Thomson's .270 career average and solid power (264 HR) would make him a useful player in any era. His versatility (OF/3B) adds value. But he wouldn't be a star in the modern game — he'd be a solid regular, a 2-3 WAR player. His real value was situational: when the moment arrived, he delivered the biggest hit in history.",
+    "clubhouse_impact": "TEAM PLAYER. Thomson wasn't the loudest voice or the biggest personality. He was the guy who moved to third base when the manager asked. The guy who batted where he was told. The guy who showed up every day for 15 years. In ILB terms: Thomson is a +1 chemistry card — no drama, no ego, just dependable production. The Shot elevates him beyond his natural tier.",
+    "dark_side": "The telescope. In 2001, it was confirmed that the 1951 Giants used a telescope-and-buzzer system to steal signs from center field, beginning July 20 — the exact start of their 37-7 run. Several players told the Wall Street Journal that coach Herman Franks relayed signs to the dugout. Sal Yvars claimed he signaled Branca's fastball to Thomson before the Shot. Thomson always denied foreknowledge: 'I was too focused to pay attention.' Branca was skeptical but gracious: 'Even if Bobby knew, he had to hit it.' The moral question: Does the Shot count if the signs were stolen? In ILB terms: Thomson carries a 'Telescope Asterisk' trait. The Shot is real — but so is the shadow."
+  },
+  "chemistry_traits": [
+    { "tag": "The Shot Heard 'Round the World", "desc": "The most famous single swing in baseball history. Once per game, Thomson can attempt a 'Shot' — if trailing in the 9th with runners on, +3 CLU for one at-bat." },
+    { "tag": "The Telescope Asterisk", "desc": "The 1951 Giants stole signs using a telescope and buzzer. Thomson's Shot may have been aided. -1 to legitimacy. Opponents can challenge the Shot's validity." },
+    { "tag": "The Flying Scot", "desc": "Born in Glasgow, Scotland. Emigrated at age 2. +1 international appeal. Rare Scottish-born MLB player." },
+    { "tag": "The Accidental Hero", "desc": "'I would have vanished from sight and memory.' Thomson's humility is genuine. No ego penalties. +1 team chemistry." },
+    { "tag": "Branca's Friend", "desc": "Thomson and Branca — hero and victim — became lifelong friends. +1 sportsmanship. Cancels rivalry grudge effects." },
+    { "tag": "Made Room for Mays", "desc": "Thomson moved from CF to 3B so rookie Willie Mays could play. +1 selflessness. If paired with Mays, both get +1 chemistry." },
+    { "tag": "Broken Ankle, Aaron's Chance", "desc": "Thomson broke his ankle in 1954 spring training, opening a roster spot for rookie Hank Aaron. History pivots on his injury." },
+    { "tag": "The Marine's Letter", "desc": "A Korean War Marine wrote Thomson: his dying buddy's happiest moment was hearing the Shot on Armed Forces Radio. +1 legacy beyond baseball." }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "MAXIMUM",
+      "note": "The Shot. Down 4-2, bottom 9, pennant on the line. This is Thomson's moment.",
+      "note_extra": "Source label: 'Batter's Box (9th inning, trailing)'. Mapped to Practice Field — craft/performance domain. The batter's box is the site of Thomson's defining act; consistent with prior batter's box → Practice Field mapping (Terry). MAXIMUM affinity is non-standard — preserved exactly per schema rules; first established by Musial (Batch 29). The conditional qualifier '(9th inning, trailing)' is a situational MAXIMUM, the first affinity in the set where the non-standard level is explicitly conditional on game state rather than absolute. This encodes the Lightning Strike mechanic (pressure_response) directly in the location entry. Cross-fields to CLU 3 special override and 'The Shot Heard Round the World' chemistry trait."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "The Shot was hit at 3:58 PM, Oct 3, 1951, at the Polo Grounds. Sacred ground.",
+      "note_extra": "Source label: 'Polo Grounds'. Mapped to Community Events — ballpark domain. The Polo Grounds is Thomson's career home stadium and the site of the Shot; consistent with prior Polo Grounds → Community Events mapping (Terry, Batch 36). The source note characterizes it as 'Sacred ground' — the SACRED affinity tier is available (cf. Gehrig/Rice, Batches 10/33) but source uses HIGH; preserve HIGH as written. Cross-fields to 'The Shot Heard Round the World' action card and art_direction reference."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "MEDIUM",
+      "note": "Versatile but not elite. Played wherever the team needed him.",
+      "note_extra": "Source label: 'Outfield / Third Base'. Mapped to Practice Field — positional craft domain. Consistent with prior positional craft → Practice Field mapping (Terry 'First Base', Tenney 'Batting Cages'). MEDIUM affinity reflects adequate but non-elite play at multiple positions. Cross-fields to DEF 0 and 'Made Room for Mays' chemistry trait. Second Practice Field entry for Thomson."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Home. Curtis High School to Basking Ridge. Quiet life away from baseball.",
+      "note_extra": "Source label: 'Staten Island / New Jersey'. Mapped to Community Events — hometown domain. Thomson's formative geography and post-career residence; direct hometown mapping. Second Community Events entry. Cross-fields to lifestyle personality key."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Thomson never refused an autograph. Thousands of signed baseballs still exist.",
+      "note_extra": "Source label: 'Autograph Signings'. Mapped to Community Events — post-career/public community engagement domain. Autograph signings are public community-facing post-career events, consistent with Community Events taxonomy. Third Community Events entry; reflects Thomson's gracious public persona across decades. Cross-fields to 'The Accidental Hero' and 'Branca's Friend' chemistry traits and temperament personality key."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "LOW",
+      "note": ".238, 0 HR in 1951 WS. The Shot got them there; Thomson didn't deliver in the Fall Classic.",
+      "note_extra": "Source label: 'World Series'. Mapped to Community Events — playoff/ballpark venue domain. The World Series as a location follows the ballpark taxonomy. LOW affinity is mechanically significant: it encodes the binary clutch profile documented in pressure_response — maximum in the pennant playoff, absent in the actual Fall Classic. Fourth Community Events entry. Cross-fields to CLU 3 special override (the override applies to the pennant moment, not the WS), and cold_trigger 'World Series'."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "NONE",
+      "note": "Not inducted. His bat is there, his spikes are there, his glove is there. He is not.",
+      "note_extra": "Source label: 'HOF Cooperstown'. Mapped to Community Events — legacy/institutional venue domain. Cooperstown maps to Community Events as a post-career ballpark/legacy site. NONE affinity is established (first: Mungo, Batch 29); this is the second NONE affinity in the set and the first applied to a HOF-adjacent exclusion location — the irony that Thomson's artifacts are enshrined but the man is not is explicitly encoded in the source note. Fifth Community Events entry. Cross-fields to hof field ('Bat in HOF') and the sign-stealing asterisk in dark_side."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "Trailing in late innings — Thomson's career-defining moment came when down 4-2 in the 9th. Adversity activates him",
+      "Pennant race September/October — the Giants went 37-7 down the stretch. Thomson thrived in the pressure cooker",
+      "Sold-out crowds — the Shot was witnessed by millions. Thomson played up in big moments"
+    ],
+    "cold_triggers": [
+      "World Series — .238 / 0 HR in the 1951 Fall Classic. The Shot used all his October magic",
+      "Sign-stealing controversy — when the telescope is mentioned, Thomson's confidence and legacy waver",
+      "Injuries — broken ankle in 1954 ended his peak and opened the door for Aaron"
+    ],
+    "pressure_response": "THE MOST BINARY CLUTCH PLAYER IN HISTORY. Thomson's clutch profile is unique: he produced THE single greatest clutch moment in baseball history (the Shot), and then immediately followed it with a deeply mediocre World Series (.238, 0 HR). He is proof that clutch is not consistent — it can be a single, unrepeatable lightning strike. In ILB terms: Thomson gets a 'Lightning Strike' mechanic — once per postseason, he can activate a one-at-bat +3 CLU bonus. But outside that moment, he's an ordinary hitter under pressure."
+  },
+  "action_card_seeds": [
+    {
+      "title": "The Shot Heard 'Round the World",
+      "type": "Game Action",
+      "text": "Bottom of the ninth. Your team trails 4-2. The pennant is on the line. Two runners on. The count is 0-1. Your outfielder-turned-third-baseman swings at a fastball up and in. The ball disappears into the left-field stands. Three runs score. Your announcer screams the same words four times. The pennant is won. The moment will never die.",
+      "origin": "October 3, 1951, 3:58 PM. Bobby Thomson hit a 3-run walk-off HR off Ralph Branca to win the NL pennant. Russ Hodges: 'THE GIANTS WIN THE PENNANT! THE GIANTS WIN THE PENNANT! THE GIANTS WIN THE PENNANT! THE GIANTS WIN THE PENNANT!'"
+    },
+    {
+      "title": "The Telescope in Center Field",
+      "type": "Drama",
+      "text": "Your team installs a telescope in the clubhouse behind center field. A coach steals the opposing catcher's signs and relays them to the dugout via buzzer. The team goes 37-7 down the stretch. They win the pennant on a walk-off home run. Fifty years later, the truth comes out. Was the homer real?",
+      "origin": "Confirmed in 2001: the 1951 Giants used a telescope-and-buzzer system to steal signs beginning July 20. The team went 37-7. Thomson always denied foreknowledge. Branca: 'Even if Bobby knew, he had to hit it.'"
+    },
+    {
+      "title": "The Friend He Destroyed",
+      "type": "Drama",
+      "text": "Your hero hit the home run that destroyed another man's career. The pitcher was never the same — he never won more than 4 games in a season again. But the hero and the pitcher become friends. They appear together for decades. They need each other. One cannot exist without the other.",
+      "origin": "Thomson and Branca became lifelong friends, appearing together at events for 50+ years. Branca's career collapsed after the Shot (never won more than 4 games again). They were linked forever — hero and victim, inseparable."
+    },
+    {
+      "title": "Making Room for Mays",
+      "type": "Drama",
+      "text": "Your veteran outfielder is asked to move from center field to third base — a position he's never played — to make room for a 20-year-old rookie. He agrees without complaint. The rookie becomes the greatest center fielder in history. The veteran hits a home run that becomes the most famous in history. Both are in the lineup for the Shot.",
+      "origin": "Thomson moved from CF to 3B when Willie Mays arrived in May 1951. Mays was on deck when Thomson hit the Shot. Both careers were defined that day."
+    },
+    {
+      "title": "The Broken Ankle That Made Hank Aaron",
+      "type": "Drama",
+      "text": "Your veteran breaks his ankle in spring training. A 20-year-old rookie gets his roster spot. The rookie becomes one of the 5 greatest players in baseball history. The veteran's injury was the door through which greatness walked.",
+      "origin": "Thomson broke his ankle in spring 1954 with the Braves. Rookie Hank Aaron took his roster spot and never gave it back. Aaron hit 755 career home runs."
+    },
+    {
+      "title": "13½ Games Back",
+      "type": "Game Action",
+      "text": "It's mid-August. Your team is 13½ games behind the league leaders. The season is over. Except it isn't. Your team wins 37 of 44 games. They catch the leaders on the final day. They force a 3-game playoff. Then your hitter delivers the most famous home run in history.",
+      "origin": "August 1951: Giants trailed Dodgers by 13½ games. They went 37-7 to tie Brooklyn on the season's final day, forcing the playoff that produced the Shot."
+    },
+    {
+      "title": "The Marine's Letter",
+      "type": "Drama",
+      "text": "Decades after the famous home run, your retired hero receives a letter from a Korean War Marine: 'My buddy and I were in a bunker on the front line, listening against orders. He was your biggest fan. He didn't make it home. On his behalf — thank you, Bobby.' The hero weeps.",
+      "origin": "In the 1990s, Thomson received a letter from a Marine stationed in Korea. His buddy, a Giants fan, heard the Shot on Armed Forces Radio. It was the happiest moment of his life. He died in combat. The surviving Marine wrote Thomson 40 years later."
+    },
+    {
+      "title": "I Would Have Vanished from Memory",
+      "type": "Drama",
+      "text": "Your retired hero reflects on his career: 'I had a decent major-league career, but without that one swing, I would have vanished from sight and memory, never to be heard from again.' The humility is genuine. One swing separated obscurity from immortality.",
+      "origin": "Thomson's own words about the Shot. He understood that his 15-year career — 264 HR, 3 All-Star selections — would not have been remembered without that single moment."
+    }
+  ],
+  "art_direction": {
+    "face": "6'2\" 180 lbs, lean and athletic. Scottish-born, raised on Staten Island. Handsome in a quiet, unassuming way. The face of a man who never expected to be famous and carried the weight of it with grace. Not a movie star — an everyman who happened to live a dream.",
+    "attire": "New York Giants home whites, 1951 style. Number 23. Right-handed batter in the moment of contact — the follow-through of THE swing. Or: rounding the bases, surrounded by teammates rushing the field, pure chaos and joy.",
+    "mood": "The moment between the swing and the knowledge. Thomson said it felt like a dream — 'everything was hazy.' The card should capture that surreal quality: the ball in flight, the crowd rising, the announcer screaming, and Thomson between worlds — not yet knowing what he's done. The most electrifying 4 seconds in baseball history, frozen.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. The Polo Grounds — the horseshoe-shaped cathedral where the Shot landed. The left-field stands, the 315 marker, the ball disappearing into history. The card should feel like a myth — because that's what the Shot became.",
+    "reference": "This is baseball's Zapruder film, its moon landing, its 'Mr. Gorbachev, tear down this wall.' One swing that every American knew about. The card must balance Thomson's humility (he was not a legend before or after) with the moment's enormity. The man was ordinary. The moment was eternal."
+  }
+}

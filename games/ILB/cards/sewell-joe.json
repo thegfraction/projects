@@ -1,0 +1,193 @@
+{
+  "card_type": "player",
+  "name": "Joe Sewell",
+  "nickname": "The Impossible Out",
+  "year": 1925,
+  "team": "Cleveland Indians",
+  "era": "1920s",
+  "ilb_team": "Bashers AL1920",
+  "position": "SS",
+  "bats": "L",
+  "throws": "R",
+  "height": "5'6\"",
+  "weight": "155 lbs",
+  "born": "October 9, 1898 — Titus, AL",
+  "died": "March 6, 1990 — Mobile, AL (age 91)",
+  "hof": "Inducted 1977 (Veterans Committee). The toughest batter to strike out in MLB history: 114 K in 7,132 AB (1 K per 62.5 AB). 115 consecutive games without a strikeout (record). 3 K in a full season (1932, record). Named one of The 100 Greatest Baseball Players of All Time by Ritter & Honig.",
+  "real_stats": {
+    "season": 1925,
+    "games": 155,
+    "at_bats": 608,
+    "hits": 204,
+    "doubles": 37,
+    "triples": 5,
+    "home_runs": 1,
+    "rbi": 98,
+    "stolen_bases": 4,
+    "batting_avg": ".336",
+    "obp": ".399",
+    "slg": ".418",
+    "ops": ".817",
+    "runs_scored": 78,
+    "walks": 64,
+    "strikeouts": 4,
+    "war": 5.6,
+    "career_avg": ".312",
+    "career_hits": 2226,
+    "career_hr": 49,
+    "career_2b": 436,
+    "career_rbi": 1054,
+    "career_k": 114,
+    "career_ab": 7132,
+    "career_war": "~47",
+    "k_rate": "1 K per 62.5 AB (lowest in MLB history)",
+    "consec_no_k": "115 games (record)",
+    "ws_titles": 2,
+    "best_avg": ".353 (1923)",
+    "iron_man": "1,103 consecutive games (1922-1930)"
+  },
+  "ilb_stats": {
+    "ovr": 7,
+    "con": 5,
+    "pow": 0,
+    "spd": 0,
+    "def": 1,
+    "clu": 1
+  },
+  "stat_justification": {
+    "con": "This is the most extraordinary contact rating in ILB. Not because of the .336 BA (1925) or .353 (1923) or even the career .312 — all of which are excellent. But because of the strikeout rate: 4 K in 608 AB in 1925. 3 K in 503 AB in 1932 (record). 114 total K in 7,132 career AB — 1 K per 62.5 AB (lowest in MLB history). 115 consecutive games without a strikeout (record). He struck out TWICE in a game on only TWO occasions in his entire career. He used one bat — 'Black Betsy,' a 40-ounce club seasoned with tobacco and Coke bottles — for his entire career. 'There's no excuse for a major league player striking out 100 times — unless he's blind.' Rating of 5 — MAXIMUM. The purest bat-to-ball contact in baseball history.",
+    "pow": "1 HR in 1925. Career high 11 HR in 1932 (age 33, Yankee Stadium). 49 career HR. .418 SLG in 1925. At 5'6\" 155 lbs, Sewell had zero power. His 436 career doubles show gap ability, but he never hit for distance. Rating of 0.",
+    "spd": "4 SB in 1925. Career max 17 SB (1926). Not a basestealer. At 5'6\" 155 lbs he was compact and agile but not fast. He played 1,103 consecutive games (pre-Gehrig record), which suggests durability over athleticism. Rating of 0.",
+    "def": "Led AL SS in putouts 4 times (1924-27). Led AL SS in assists 4 times. Led AL SS in FP 3 times. 'Probably the best shortstop in the American League in the 1920s' — but this is partly a reflection of consistency over 11 seasons rather than transcendent range. Shifted to 3B with the Yankees without issue. Rating of 1 — solid and reliable.",
+    "clu": "Won the 1920 WS (replacing the dead Ray Chapman, hitting .329 down the stretch). Won the 1932 WS (Yankees). But hit .174 in the 1920 WS itself, and was a role player by 1932. His October value was presence and steadiness, not heroics. Rating of 1."
+  },
+  "personality": {
+    "leadership_style": "Silent ironman. Sewell played 1,103 consecutive games — the MLB record until Lou Gehrig broke it. He showed up every day, put the bat on the ball, and went home. He didn't give speeches. He didn't demand attention. He was the metronome — the player who kept time for the entire team.",
+    "temperament": "Alabama stoic. Born in tiny Titus, AL. Played football at Alabama. Sewell was quiet, disciplined, and certain. His quote reveals his philosophy: 'There's no excuse for a major league player striking out 100 times a season — unless he's blind.' He saw striking out as a moral failure. He made contact like other men breathe — automatically, constantly, without thought.",
+    "work_ethic": "The bat says everything. One bat. His entire career. 'Black Betsy' — a 40-ounce bat he rubbed with Coca-Cola bottles to harden the wood and seasoned with chewing tobacco to keep it supple. He didn't need another bat because he never broke the one he had. He never broke it because he never missed.",
+    "lifestyle": "Small-town Alabama royalty. Three Sewell brothers played MLB (Joe, Luke, Tommy). Cousin Rip Sewell invented the eephus pitch. After retiring, Joe scouted and then coached Alabama baseball for decades, winning the SEC title in 1968 at age 69. The stadium was named Sewell-Thomas. He lived to 91 — the last surviving member of the 1920 Indians.",
+    "era_adaptability": "PARADOXICAL. In modern baseball, where analytics worship power and accept strikeouts, Sewell's approach would be revolutionary OR obsolete. His zero-strikeout philosophy is the exact opposite of modern three-true-outcomes baseball. In ILB, he represents an alternate philosophy of hitting — the anti-strikeout, the ball always in play, the defense always tested.",
+    "clubhouse_impact": "STABILIZER. Sewell was brought in after the most traumatic event in baseball history — the death of Ray Chapman. He stabilized the Indians and helped them win the World Series. In ILB: +2 team stability after traumatic events. Sewell absorbs grief and channels it into consistency.",
+    "dark_side": "He inherited a dead man's position. Joe Sewell's entire career exists because Carl Mays killed Ray Chapman with a pitch on August 16, 1920. Every game Sewell played, every hit, every non-strikeout — all of it happened because a man died. Brooklyn manager Wilbert Robinson waived the postseason eligibility rules specifically because of Chapman's death so Sewell could play. Sewell carried that weight for 14 years and never spoke about it publicly. In ILB: Sewell carries 'Chapman's Heir' — a permanent connection to the Muggers. If Chapman is in the same league, a special narrative triggers: the dead man and the man who replaced him, separated by era but bound by fate."
+  },
+  "chemistry_traits": [
+    { "tag": "The Impossible Out", "desc": "114 K in 7,132 career AB. 1 K per 62.5 AB. In ILB, Sewell CANNOT strike out more than once per series. His bat-to-ball ability transcends the rules. Every at-bat ends in contact." },
+    { "tag": "Black Betsy", "desc": "One bat. Entire career. 40 ounces, rubbed with Coke bottles, seasoned with tobacco. In ILB, Black Betsy is an equipment card: +2 CON, but if the bat is ever broken (1% chance per game), Sewell loses -3 CON permanently." },
+    { "tag": "Chapman's Heir", "desc": "Sewell replaced Ray Chapman after Chapman was killed by a pitch. He carries the dead man's position with quiet dignity. +2 team stability after any traumatic event. Sewell absorbs grief and converts it to consistency." },
+    { "tag": "One-Fifteen", "desc": "115 consecutive games without a strikeout. In ILB, once Sewell goes 10 consecutive games without a K, he enters a 'streak' state where CON increases by +1 and keeps rising until the streak breaks." },
+    { "tag": "The Ironman", "desc": "1,103 consecutive games (1922-1930). Sewell cannot be benched for fatigue. He plays every day. His consecutive-game streak provides +1 team durability." },
+    { "tag": "Alabama Steady", "desc": "Born in Titus, AL. Football letterman at Alabama. Coached Alabama to SEC title at age 69. Sewell is rooted in Southern earth. +1 consistency in all conditions. No hot streaks, no cold streaks — just steady." },
+    { "tag": "Three Brothers", "desc": "Joe, Luke, and Tommy Sewell all played MLB. Cousin Rip invented the eephus pitch. The Sewell family is baseball royalty. +1 chemistry when paired with family members." },
+    { "tag": "Anti-Strikeout Philosophy", "desc": "'There's no excuse for striking out 100 times — unless you're blind.' Sewell's philosophy conflicts with modern power hitting. When paired with high-K power hitters, -1 chemistry friction. But +2 team contact rate." }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "MAXIMUM",
+      "note": "114 K in 7,132 AB. The batter's box was his office. He never left it early.",
+      "note_extra": "Source label: 'Batter's Box'. Maps to Practice Field (batting cage / craft domain). MAXIMUM affinity. Sewell's relationship to the batter's box is defined by the absolute absence of failure — 114 career strikeouts."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "11 seasons. 1,800 hits. .320 average. Won the 1920 WS. Cleveland was home.",
+      "note_extra": "Source label: 'League Park / Cleveland'. Maps to Community Events (home ballpark). HIGH affinity."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Led AL SS in putouts and assists 4× each. The position he inherited from Chapman.",
+      "note_extra": "Source label: 'Shortstop'. Maps to Practice Field (fielding position / craft domain). HIGH affinity. First shortstop-specific Practice Field entry in the set. Cross-references 'Chapman's Heir' chemistry trait."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Football letterman, baseball star, later coach (SEC title 1968). Stadium named for him.",
+      "note_extra": "Source label: 'University of Alabama'. Maps to Community Events (college / post-career venue). HIGH affinity. First university/college location in the set."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "3 seasons at 3B. 1932 WS champion. Career-high 11 HR (the short porch helped).",
+      "note_extra": "Source label: 'Yankee Stadium'. Maps to Community Events (ballpark). MEDIUM affinity. Secondary venue — Sewell's late-career Yankees years."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "2 WS titles (1920, 1932). Both wins. But .174 in the 1920 WS. Steady presence, not hero.",
+      "note_extra": "Source label: 'World Series'. Maps to Community Events (postseason ballpark events). MEDIUM affinity — notably lower than most cards' WS entries (usually HIGH). Reflects Sewell's mixed October performance (.174 in 1920 WS)."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "Consistency over time — Sewell's value compounds over long seasons. He's better in September than April because he never slumps.",
+      "After tragedy — he replaced Chapman and hit .329. Adversity focuses him.",
+      "Low-K environments — when the game rewards contact, Sewell is the most valuable player alive.",
+      "Consecutive game streaks — the longer he plays, the more locked in he becomes."
+    ],
+    "cold_triggers": [
+      "Postseason hitting — .174 in the 1920 WS. His regular-season steadiness doesn't always translate to October.",
+      "Power situations — when the team needs a home run, Sewell can't provide it. 49 career HR in 14 years.",
+      "Speed situations — 4 SB in 1925. He can't run. He can only hit.",
+      "Late career — released by Cleveland after 1930. The ironman wears down eventually."
+    ],
+    "pressure_response": "METRONOMIC. Sewell doesn't rise to the occasion or shrink from it. He simply continues doing what he always does: putting the bat on the ball. His pressure response is not dramatic — it's mechanical. He doesn't have a gear above his normal performance because his normal performance IS his best performance. In ILB, Sewell is the ultimate stability card. He won't win you the game with a walk-off homer. He won't lose you the game with a strikeout. He'll go 2-for-4 with a double and a walk, every single day, for 14 years. The question is whether steady excellence or explosive brilliance wins more games. Sewell bets on steady. He's usually right."
+  },
+  "action_card_seeds": [
+    {
+      "title": "One Hundred Fourteen",
+      "type": "Action",
+      "text": "Over 14 seasons and 7,132 at-bats, your shortstop strikes out 114 times. That is fewer strikeouts than some modern players accumulate in a single month. He strikes out once every 62.5 at-bats — the lowest rate in baseball history. He struck out twice in a game on only two occasions in his entire career. He does not miss.",
+      "origin": "Sewell's career: 114 K in 7,132 AB. Lowest K rate in MLB history. Struck out twice in a game exactly twice in 14 seasons."
+    },
+    {
+      "title": "Chapman's Successor",
+      "type": "Drama",
+      "text": "A shortstop is dead. Killed by a pitch on August 16. Your team is in a pennant race. They call up a 21-year-old from the minors who has played only 92 professional games. He steps into a dead man's position, hits .329 down the stretch, and helps win the World Series. He will play that position for the next decade. He will never speak publicly about the man he replaced.",
+      "origin": "Sewell replaced Ray Chapman after Chapman's death in August 1920. Brooklyn manager Robinson waived eligibility rules due to the circumstances. Sewell hit .329 and the Indians won the WS."
+    },
+    {
+      "title": "Black Betsy",
+      "type": "Action",
+      "text": "Your shortstop uses one bat for his entire career. He rubs it with Coca-Cola bottles to harden the grain. He seasons it with chewing tobacco to keep it supple. He calls it Black Betsy. It weighs 40 ounces — absurdly heavy for a man who stands 5'6\" and weighs 155 pounds. He never breaks it. He never needs another. The bat and the man are one instrument.",
+      "origin": "According to his NYT obituary, Sewell used a single 40-ounce bat ('Black Betsy') his entire career, maintained with Coke bottles and chewing tobacco."
+    },
+    {
+      "title": "One-Fifteen",
+      "type": "Game Action",
+      "text": "Your shortstop goes 115 consecutive games without striking out. One hundred and fifteen. Nearly three-quarters of a full season. Pitchers throw their best stuff. He fouls it off. They try to fool him. He puts it in play. They try to blow it past him. He makes contact. For 115 games, the third strike never comes.",
+      "origin": "From 1929 into 1930, Sewell went 115 consecutive games without a strikeout — still the MLB record."
+    },
+    {
+      "title": "Three in Five Hundred Three",
+      "type": "Game Action",
+      "text": "In 503 at-bats across a full major league season, your third baseman strikes out three times. Three. In five hundred and three. His ratio of 167.7 at-bats per strikeout will never be matched. Some records are broken. This one is permanent.",
+      "origin": "Sewell's 1932 season: 3 K in 503 AB (167.7 AB/K). The fewest strikeouts in a full season in modern MLB history."
+    },
+    {
+      "title": "Eleven Hundred and Three",
+      "type": "Action",
+      "text": "Your shortstop plays in 1,103 consecutive games — every game, every day, for eight years. It is the longest consecutive-games streak in baseball history. A young first baseman named Gehrig will eventually break it, but for now, the ironman is yours. He shows up. He doesn't strike out. He goes home. He comes back tomorrow.",
+      "origin": "Sewell played 1,103 consecutive games from September 1922 to April 1930 — the MLB record until Lou Gehrig."
+    },
+    {
+      "title": "No Excuse",
+      "type": "Action",
+      "text": "'There's no excuse for a major league player striking out 100 times a season — unless he's blind.' Your shortstop says this without irony, without qualification. In his world, a strikeout is a failure of character, not skill. The ball is there. The bat is there. Swing. Make contact. Anything else is surrender.",
+      "origin": "Sewell's famous quote. He averaged 8 K per season over his last 9 years. He viewed striking out as morally unacceptable."
+    },
+    {
+      "title": "The Coach at Sixty-Nine",
+      "type": "Drama",
+      "text": "Decades after his playing career, your Hall of Famer returns to his alma mater to coach baseball. At age 69, he leads Alabama to the SEC championship. The stadium is renamed in his honor. He has been putting the bat on the ball, in one form or another, for half a century. He will live to 91.",
+      "origin": "Sewell coached Alabama baseball, winning the 1968 SEC title at age 69. The field was renamed Sewell-Thomas Stadium in 1978. He died in 1990 at 91."
+    }
+  ],
+  "art_direction": {
+    "face": "Tiny — 5'6\" 155 lbs, the smallest player in the Bashers set. Compact, coiled, intense. Sharp dark eyes with preternatural focus — the eyes of a man who sees every seam on a spinning baseball. Square Alabama jaw, no wasted motion in his expression. The look of someone who has never missed what he swung at.",
+    "attire": "Cleveland Indians 1925 home whites, left-handed batting stance — choked up on the massive 40-ounce Black Betsy. The bat should look enormous in his small hands. Or: crouched at shortstop, the position he inherited from a ghost. The uniform should look worn and comfortable — this man has played 1,103 consecutive games in it.",
+    "mood": "Absolute certainty. This card should radiate the calm of a man who knows — with mathematical precision — that he will put the bat on the ball. No drama, no flash, no anxiety. Sewell is the absence of failure. Where Sisler is luminous and fragile, Sewell is granite and permanent. The card should feel immovable.",
+    "style": "Full color — Bashers era — but muted and earthy compared to Sisler's golden glow. Alabama clay red, forest green, the colors of the rural South. The card should feel handmade and permanent, like a farmhouse that's stood for 100 years. Where Sisler's card has a slight blur (double vision), Sewell's card should be the sharpest, most focused image in the entire ILB set. Nothing is blurry. Nothing is uncertain. Every pixel is in contact.",
+    "reference": "If Sisler is the sun, Sewell is the earth — solid, quiet, always there when you need it. He's the anti-spectacle: no 41-game streaks, no .420 seasons, no drama of any kind. Just 204 hits and 4 strikeouts, year after year after year. The card should feel like the most reliable thing you've ever held. A metronome. An anchor. The sound of bat meeting ball, repeated 7,132 times."
+  }
+}

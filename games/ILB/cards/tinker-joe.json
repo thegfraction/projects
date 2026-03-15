@@ -1,0 +1,195 @@
+{
+  "card_type": "player",
+  "name": "Joe Tinker",
+  "nickname": "The Silent Partner",
+  "year": 1908,
+  "team": "Chicago Cubs",
+  "era": "1900s",
+  "ilb_team": "Banners NL1900",
+  "position": "SS",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'9\"",
+  "weight": "175 lbs",
+  "born": "July 27, 1880 — Muscotah, KS",
+  "died": "July 27, 1948 — Orlando, FL (age 68, on his birthday; diabetes, leg amputated 1947)",
+  "hof": "Inducted 1946 (Old Timers Committee), alongside Evers and Chance. Career dWAR of 34.3 ranks 5th all-time.",
+  "real_stats": {
+    "season": 1908,
+    "games": 157,
+    "at_bats": 548,
+    "hits": 146,
+    "doubles": 22,
+    "triples": 14,
+    "home_runs": 6,
+    "rbi": 68,
+    "runs": 67,
+    "stolen_bases": 30,
+    "batting_avg": ".266",
+    "obp": ".308",
+    "slg": ".391",
+    "ops": ".699",
+    "ops_plus": 107,
+    "war": 6.0,
+    "career_avg": ".262",
+    "career_hits": 1690,
+    "career_hr": 31,
+    "career_sb": 336,
+    "career_war": 33.6,
+    "career_obp": ".308",
+    "career_ops_plus": 90,
+    "ws_1907_avg": ".154",
+    "ws_1908_avg": ".263",
+    "ws_1910_avg": ".333"
+  },
+  "ilb_stats": {
+    "ovr": 7,
+    "con": 2,
+    "pow": 0,
+    "spd": 3,
+    "def": 3,
+    "clu": 2
+  },
+  "stat_justification": {
+    "con": ".266 BA in 1908 → tier 2 (.250-.269). OPS+ 107 — above average but not elite. Career .262 BA, 90 OPS+. A light hitter even by dead-ball standards. The HOF plaque doesn't mention his bat. But: .350 career BA vs. Christy Mathewson, the best pitcher in baseball. Mathewson: 'He's the worst man I have to face in the National League.' Rating: 2 — low overall, but with a massive clutch modifier vs. specific aces.",
+    "pow": "6 HR in 1908 → tier 0 (0-9). SLG .391 (no bonus). 14 triples show some gap power, and he hit the first WS home run under the 1905 rules agreement. But 31 career HR in 15 seasons. Zero power profile. Rating: 0.",
+    "spd": "30 SB in 1908 → tier 2 (16-30). 336 career SB, averaging 28 per season. Stole home twice in one game (July 28, 1910). 'Fleeter than birds' per Adams' poem. SS position with elite defensive range = +1 bonus. Maximum speed: 3.",
+    "def": "Career defensive WAR of 34.3 — fifth all-time behind Ozzie Smith, Mark Belanger, Brooks Robinson, and Cal Ripken Jr. Five-time NL leader in defensive bWAR. Led NL shortstops in fielding percentage 4×, assists 3×, putouts 2×. The poem immortalized his defense for a reason. Maximum rating: 3.",
+    "clu": ".263 + HR in the 1908 WS (defeated Tigers). .333 in the 1910 WS. Hit a leadoff triple off Mathewson in the Merkle replay game, igniting the 4-run rally that clinched the pennant. Hit an inside-the-park HR off Mathewson in the original Merkle game. .350 career BA vs. the greatest pitcher alive. Mixed WS numbers overall (.167 in 1906, .154 in 1907), but the big moments were enormous. Rating: 2."
+  },
+  "personality": {
+    "leadership_style": "Quiet professionalism on the field, fierce independence off it. Tinker let his glove do the talking. He didn't need to speak to Evers to turn double plays — they communicated through instinct, timing, and the ball. But off the field, Tinker was a fighter: brawled with Evers, defeated Egan in a fight, scrapped with Rabbit Maranville, and got arrested for assaulting a fan in his own saloon.",
+    "temperament": "Steady, competitive, stubborn. Held out for salary repeatedly — demanded raises, threatened to quit for Australia, jumped to the Federal League when Brooklyn wouldn't pay him. Not a hothead like Evers or a disciplinarian like Chance. More of a quiet stubborn streak: he'd turn the double play, collect his paycheck, and fight anyone who disrespected him.",
+    "work_ethic": "Tireless defensive craftsman. Played all 157 games in 1908. Led the NL in assists, putouts, fielding percentage across multiple seasons. The SABR bio notes that early on, he and Evers 'built a chemistry that gave them the confidence that when one fielded the ball and flipped it to second, the other one would be there, even without looking first.' That chemistry was work, not luck.",
+    "lifestyle": "Kansas farm boy who became a Chicago saloon owner. Married Ruby — she suffered chronic poor health. Tinker owned a saloon in Chicago and got arrested there for fighting a fan (acquitted). After baseball, moved to Orlando, FL, and became owner-manager of the Orlando Tigers. Tinker Field bore his name for decades. Married four times. Diabetes took his left leg in 1947.",
+    "era_adaptability": "STRONG for defense. Tinker's glove and instincts would translate to any era — his dWAR is 5th all-time. The bat would not translate well: .262 career BA with 31 HR wouldn't play in any modern lineup. He'd be a slick-fielding, no-hit shortstop — the Ozzie Smith comp without quite as much speed. Valuable but limited.",
+    "clubhouse_impact": "PARADOX. The most famous double-play partner in history didn't speak to his teammate for 33 years. Tinker and Evers turned double plays by instinct while actively hating each other. In ILB terms: Tinker has maximum 'on-field synergy' and minimum 'off-field chemistry' with Evers. They are inseparable enemies.",
+    "dark_side": "The feud, the body, the endings. Tinker and Evers fought over a cab in 1905 and didn't speak until the 1938 World Series — 33 years of silence. When they finally met at a Chicago hotel, they threw their arms around each other and cried. All three — Tinker, Evers, Chance — were elected to the HOF in 1946, but none attended the ceremony. Chance was dead since 1924. Evers was dying. Tinker had diabetes — his left leg was amputated in January 1947. He died on his 68th birthday, July 27, 1948. His twin sister had died as a child."
+  },
+  "chemistry_traits": [
+    { "tag": "Tinker to Evers to Chance", "desc": "The most famous double-play combination in history. When Tinker and Evers are on the same team, all ground balls have a +30% chance of becoming double plays. They don't have to like each other." },
+    { "tag": "The Silent Partner", "desc": "Doesn't speak to his double-play partner off the field. Zero off-field chemistry with Evers, but maximum on-field synergy. The ball knows no grudges." },
+    { "tag": "Matty Killer", "desc": ".350 career BA vs. Christy Mathewson. When facing an elite ace (OVR 11+), Tinker gains +3 CON. The better the pitcher, the better he hits." },
+    { "tag": "Saloon Brawler", "desc": "Owned a saloon, fought fans, brawled with teammates and opponents. In any altercation, Tinker has a 70% chance of winning. Arrested but always acquitted." },
+    { "tag": "Federal Leaguer", "desc": "Jumped to the Federal League for more money. +2 salary demands in contract negotiations. Will leave for a rival league if underpaid." },
+    { "tag": "Kansas Grit", "desc": "Muscotah, KS farm boy. Played through appendicitis surgery, salary disputes, and a 33-year feud. No morale penalties from adversity." },
+    { "tag": "Glove Wizard", "desc": "5th all-time in career dWAR. When Tinker is at SS, all infield errors are reduced by 50%. The double play is always an option." },
+    { "tag": "The Reunion", "desc": "After 33 years of silence, Tinker and Evers embraced and cried at the 1938 WS. If both survive to the end of their careers, +5 legacy to both." }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "His cathedral. 5th all-time in career dWAR. More comfortable at SS than anywhere else on earth.",
+      "note_extra": "Source label: 'Shortstop Position'. Mapped to Practice Field — positional craft domain. Consistent with prior positional craft → Practice Field mappings (Terry 'First Base', Thomson 'Outfield / Third Base'). The shortstop position is the site of Tinker's DEF 3 mastery and the double-play machine; his entire identity as a player is inseparable from this positional craft. Cross-fields to DEF 3, Glove Wizard chemistry trait, and dWAR 34.3 in real_stats."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "Owned a saloon in Chicago. Fought a fan there. Got arrested there. Acquitted there. It's his place.",
+      "note_extra": "Source label: 'Saloon / Bar'. Direct canonical mapping to Hotel/Rest — bar/nightlife subdomain. HIGH affinity is notable: this is the first HIGH bar/saloon affinity in the set (prior bar/saloon entries have been LOW, e.g. Tenney). Tinker owned the saloon; it was not merely a haunt but a professional and social domain. Cross-fields to Saloon Brawler chemistry trait and lifestyle personality key."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Respected for his glove, tolerated for his stubbornness. Just don't seat him next to Evers.",
+      "note_extra": "Source label: 'Clubhouse / Locker Room'. Direct canonical mapping to Hotel/Rest — clubhouse/locker room subdomain. MEDIUM affinity reflects Tinker's team-player status tempered by the off-field feud with Evers. Second Hotel/Rest entry for Tinker; the contrasting HIGH (owned saloon) vs. MEDIUM (shared clubhouse) within Hotel/Rest encodes the public/private distinction in his social life. Cross-fields to The Silent Partner and Tinker to Evers to Chance chemistry traits and clubhouse_impact personality key."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "MEDIUM",
+      "note": "Constant salary disputes. Held out multiple times. Jumped leagues for money. Knew his worth.",
+      "note_extra": "Source label: 'Owner's Office'. Mapped to Practice Field — tactical/business craft domain. The owner's office is the arena of Tinker's salary negotiations and league-jumping; consistent with the Practice Field taxonomy's coaching/strategic subdomain, and with Terry 'Manager's Office' → Practice Field (Batch 36). Tinker's off-field business acumen — holdouts, Federal League jump, Orlando Tigers ownership — is a practiced craft. MEDIUM reflects genuine engagement without the full-life-identity of his defensive craft. Second Practice Field entry for Tinker. Cross-fields to Federal Leaguer chemistry trait and temperament personality key."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Retired to Orlando. Owned and managed the Orlando Tigers. Tinker Field bore his name for decades.",
+      "note_extra": "Source label: 'Florida / Orlando'. Mapped to Community Events — post-career hometown/venue domain. Orlando is Tinker's post-career home; his ownership of the Orlando Tigers and the naming of Tinker Field place this firmly in the Community Events post-career venue subdomain. Cross-fields to lifestyle personality key and 'The Amputation' action card (where Tinker Field legacy is named)."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "LOW",
+      "note": "The 1938 WS radio booth — where 33 years of silence ended with tears. A place of reconciliation.",
+      "note_extra": "Source label: 'Radio Booth'. Mapped to Media/Spotlight — broadcast/radio subdomain. Consistent with the schema's broadcast domain under Media/Spotlight. LOW affinity is appropriate: the radio booth is not Tinker's natural domain; its significance is a single charged moment (the reconciliation with Evers), not comfortable habitation. The LOW is emotionally loaded rather than dismissive. Cross-fields to The Reunion chemistry trait, dark_side personality key, and 'Thirty-Three Years of Silence' action card."
+    },
+    {
+      "location": "Medical/Recovery",
+      "affinity": "LOW",
+      "note": "Appendicitis surgery (1907). Diabetes. Left leg amputated (1947). The body betrayed the glove.",
+      "note_extra": "Source label: 'Hospital'. Direct canonical mapping to Medical/Recovery — injury/hospital/rehabilitation domain. LOW affinity encodes the involuntary and tragic character of Tinker's medical history: appendicitis during his peak, diabetes in retirement, and the 1947 amputation that physically ended his mobility. Cross-fields to dark_side personality key (leg amputated before HOF election, unable to attend ceremony), cold_trigger 'Physical decline', and 'The Amputation' action card."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "Facing Christy Mathewson — .350 career BA, inside-the-park HR, leadoff triple in the Merkle replay. The better the pitcher, the better he hits.",
+      "Pennant races — played all 157 games in 1908, led the league in assists with 570, anchored the Cubs' 99-win season",
+      "Double-play situations — the Tinker-to-Evers-to-Chance machine turns rallies into ashes",
+      "World Series games — .263 + HR in 1908 WS, .333 in 1910 WS. Rose in October."
+    ],
+    "cold_triggers": [
+      "The Evers feud — off-field tension from a 33-year silence. If forced to interact socially with Evers, both players lose 1 morale",
+      "Salary disputes — held out repeatedly, threatened Australia, jumped to Federal League. Contract turmoil = -1 focus",
+      "Physical decline — appendicitis (1907), side pain (1915), diabetes, leg amputation (1947). The body decays.",
+      "Early WS failures — .167 in 1906 WS, .154 in 1907 WS. Not always clutch."
+    ],
+    "pressure_response": "CONTEXTUAL. Tinker was an enigma in pressure situations. Against Christy Mathewson — the best pitcher in the world — he hit .350. He hit an inside-the-park HR off Mathewson in the Merkle game, then a leadoff triple off him in the Merkle replay that clinched the pennant. He hit .333 in the 1910 WS. But he also hit .167 and .154 in the 1906-07 World Series. The pattern: Tinker rose against specific great opponents but sometimes shrank in the general spotlight. In ILB: massive clutch bonus vs. elite pitchers, but inconsistent in generic postseason situations."
+  },
+  "action_card_seeds": [
+    {
+      "title": "Tinker to Evers to Chance",
+      "type": "Game Action",
+      "text": "Your infield turns a legendary double play. The shortstop fields the grounder, flips to second without looking, and the relay beats the runner at first. The opposing rally dies. This card can be played once per game whenever two runners are on base. Requires both Tinker and Evers (or their equivalents) on the roster.",
+      "origin": "The most famous double-play combination in baseball history, immortalized by Franklin Pierce Adams' 1910 poem 'Baseball's Sad Lexicon.' First scored September 15, 1902. The Cubs won 4 pennants and 2 WS titles with this trio."
+    },
+    {
+      "title": "The Worst Man I Have to Face",
+      "type": "Game Action",
+      "text": "Your light-hitting shortstop faces the opposing ace — and transforms. He gains +3 CON for this at-bat only. Roll a d6: on 4+, he hits a triple or inside-the-park home run. The ace is rattled and loses 1 STF for the rest of the inning.",
+      "origin": "Mathewson in 'Pitching in a Pinch' (1912): 'Tinker is the worst man I have to face in the National League.' Tinker hit .350 career against the greatest pitcher alive — including an inside-the-park HR and a pennant-clinching triple."
+    },
+    {
+      "title": "The Cab Ride Fistfight",
+      "type": "Drama",
+      "text": "Two of your best players get into a fistfight on the field over a trivial slight — one took a cab and left the other behind. They refuse to speak to each other for the rest of their careers. Off-field chemistry drops to 0, but on-field synergy remains maximum. Double-play efficiency is unaffected.",
+      "origin": "September 14, 1905: Evers took a cab to the stadium and left teammates in the hotel lobby. Tinker punched him. They didn't speak for 33 years — but kept turning double plays together."
+    },
+    {
+      "title": "Thirty-Three Years of Silence",
+      "type": "Drama",
+      "text": "Two former teammates who haven't spoken in decades are reunited at a broadcast booth during the World Series. After a moment's hesitation, they throw their arms around each other and cry. Both gain +5 legacy. The feud is over.",
+      "origin": "1938 World Series: Tinker and Evers were asked to share a radio booth. They hadn't spoken since 1905 — hadn't even seen each other in 14 years. They met at a Chicago hotel, embraced, and wept."
+    },
+    {
+      "title": "Stole Home Twice",
+      "type": "Game Action",
+      "text": "Your speedster steals home twice in the same game. The opposing pitcher is humiliated. Your team gains +2 momentum. The baserunner gains the 'Ghost Runner' trait for the rest of the series.",
+      "origin": "July 28, 1910: Tinker stole home twice in a single game — one of the rarest feats in baseball history. 'Fleeter than birds,' Adams wrote."
+    },
+    {
+      "title": "Jump to the Federal League",
+      "type": "Drama",
+      "text": "Your star player, underpaid and disrespected, jumps to a rival league for a three-year contract worth triple his current salary. Your team loses its starting shortstop. The rival league gains legitimacy. A precedent is set for player freedom.",
+      "origin": "1914: Tinker jumped to the Federal League's Chicago Whales after Brooklyn wouldn't pay him $10,000. He signed for $36,000 over three years and managed the Whales to a pennant in 1915."
+    },
+    {
+      "title": "The Amputation",
+      "type": "Drama",
+      "text": "Your aging legend's diabetes takes his leg. He can no longer play. But his name lives on — a ballpark is named after him, and his legacy is secure. He gains the 'Immortal Name' trait.",
+      "origin": "Diabetes ravaged Tinker in retirement. His left leg was amputated in January 1947. He died on his 68th birthday — July 27, 1948. Tinker Field in Orlando bore his name for decades."
+    },
+    {
+      "title": "All Three Elected, None Attend",
+      "type": "Drama",
+      "text": "Three legendary teammates are elected to the Hall of Fame together. But none can attend the ceremony — one is dead, one is dying, one has lost a leg. The greatest infield in history is honored in absentia. +10 franchise legacy.",
+      "origin": "Tinker, Evers, and Chance were all elected to the HOF in 1946. Chance had died in 1924. Evers was too ill (died 1947). Tinker's leg had been amputated. None attended the induction ceremony in Cooperstown."
+    }
+  ],
+  "art_direction": {
+    "face": "Compact, wiry Kansas farm boy. 5'9\" 175 lbs — not big but quick and tough. Sharp eyes, determined jaw, the face of a man who'll fight you over a cab ride and then turn two on you the next inning. Clean-shaven or thin mustache. Weathered but alert — a shortstop's face, always scanning.",
+    "attire": "Chicago Cubs uniform circa 1908 — white wool jersey with 'CHICAGO' across the chest in block letters, baggy flannel pants, flat cap with 'C' insignia. Mid-play defensive crouch — fielding position, ball just hit, ready to backhand and fire to second. Or: mid-throw on the double-play pivot, body airborne, arm cocked. No number.",
+    "mood": "Coiled intensity. Not rage (that's Evers) or authority (that's Chance) — this is the quiet competence of a man who's turned ten thousand double plays. The ball is always coming to him. He's always ready. The West Side Grounds behind him, the infield dirt sharp and close.",
+    "style": "Sepia-toned with slightly cooler, harder edges than the Chance or Evers cards — Tinker is steel where Evers is fire and Chance is iron. The card should feel like a defensive highlight reel frozen in amber. Gritty, precise, Kansas-bred toughness. Dead-ball era photographic grain.",
+    "reference": "Think the mid-play defensive stop — the backhanded stab, the bare-hand grab, the no-look flip to second. Or: the double-play pivot at its apex, Tinker airborne, arm cocked, Evers behind him, Chance stretching at first. The entire poem captured in a single frame. The card that completes the trio."
+  }
+}

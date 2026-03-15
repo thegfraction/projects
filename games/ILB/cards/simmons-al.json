@@ -1,0 +1,193 @@
+{
+  "card_type": "player",
+  "name": "Al Simmons",
+  "nickname": "Bucketfoot Al",
+  "year": 1930,
+  "team": "Philadelphia Athletics",
+  "era": "1930s",
+  "ilb_team": "Crashers AL1930",
+  "position": "LF",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'11\"",
+  "weight": "210 lbs",
+  "born": "May 22, 1902 — Milwaukee, WI (as Aloysius Harry Szymanski)",
+  "died": "May 26, 1956 — Milwaukee, WI (age 54, heart attack)",
+  "hof": "Class of 1953 (BBWAA, 75.4%)",
+  "real_stats": {
+    "season": 1930,
+    "games": 138,
+    "at_bats": 554,
+    "hits": 211,
+    "doubles": 41,
+    "triples": 16,
+    "home_runs": 36,
+    "rbi": 165,
+    "stolen_bases": 9,
+    "batting_avg": ".381",
+    "obp": ".423",
+    "slg": ".708",
+    "ops": "1.131",
+    "ops_plus": 176,
+    "war": 8.8,
+    "gold_gloves": 0,
+    "silver_sluggers": 0,
+    "all_star": 3,
+    "career_avg": ".334",
+    "career_hits": 2927,
+    "career_hr": 307,
+    "career_sb": 88,
+    "career_war": 68.5
+  },
+  "ilb_stats": {
+    "ovr": 11,
+    "con": 5,
+    "pow": 4,
+    "spd": 1,
+    "def": 1,
+    "clu": 3
+  },
+  "stat_justification": {
+    "con": ".381 BA in 1930 — won first of back-to-back AL batting titles. .390 in 1931. Career .334 over 20 seasons. RH single-season hits record of 253 (1925, still stands). 85 multi-hit games in 1925 (MLB record). OPS+ 176. Cy Perkins: 'Next to Ty Cobb as the best hitter I saw.'",
+    "pow": "36 HR in 1930 with .708 SLG. 307 career HR. Top-6 AL in HR for 7 straight years. Ted Williams: 'As much raw power as anyone who ever played.' 41 2B + 16 3B in 1930. SLG bonus earned.",
+    "spd": "9 SB in 1930, 88 career. 16 triples shows some wheels. Known for violent takeout slides. Athletic but declining speed. Rating of 1.",
+    "def": "No Gold Gloves (pre-award). Cronin: 'Never was a greater LF holding a double to a single.' .982 career FLD%. 5,000 putouts. Bill James 'A' grade fielder. Good but no formal awards.",
+    "clu": ".329/.658 in 4 World Series (19 G, 6 HR, 17 RBI). Started greatest WS comeback — led off 10-run 7th with HR in 1929 Game 4, singled in 2nd AB same inning. Walkoff double Game 5. Memorial Day 1930: 9th-inning HR + pinch-hit grand slam. Maximum clutch."
+  },
+  "personality": {
+    "leadership_style": "The Alpha Warrior. Fiercely competitive, volcanic, devoted to winning. He squeezed the bat handle like he was strangling it. Looked 'bloomin' mad even in batting practice, years after he had retired' (Tommy Henrich). Outspoken even with Connie Mack. His aggression aimed entirely at opponents — loyal to teammates, generous to young players.",
+    "temperament": "Hot-headed and intense. 'Don't forget I was just as hot-headed as McGraw.' Self-aware about it. Hated the Yankees with a passion. When they knocked him down, he got 11 hits in 4 games, 10 for extra bases. Anger made him better.",
+    "work_ethic": "Supreme. 'Never relax on any time at bat. Never miss a game you can play' — his advice to Stan Musial. Played through injuries. Held record of 394 consecutive games. But later regretted games he missed — hangovers, early departures — all adding up to 73 hits short of 3,000.",
+    "lifestyle": "Social, generous to a fault. 'A sucker for anybody with a good story.' Bad investments left him nearly broke. Married once (Doris Reader, one son John), divorced. Never remarried due to religious convictions. Lived alone at the Milwaukee Athletic Club. Died with a few thousand dollars and a $17,000 life insurance policy.",
+    "era_adaptability": "HIGH. Son of Polish immigrants, self-invented — changed his name from Szymanski after seeing a hardware billboard. Grew up playing on a sandlot team ironically called the 'Connie Macks.' Would dominate in any era where line-drive power and competitive fury matter.",
+    "clubhouse_impact": "HIGH. A warrior energy — teammates fed off his intensity. Connie Mack: 'I wish I had nine players named Al Simmons.' Not a joker — an enforcer who made everyone play harder. As a coach, beloved by Tommy Henrich and young players.",
+    "dark_side": "The 73-hit ghost. His later career was a sad decline — seven teams in nine years, chasing 3,000 hits. Admitted he 'accepted the second-division attitude and slacked off' with the White Sox. Alcohol, divorce, loneliness. Died alone on a sidewalk, four days after his 54th birthday, three months after Connie Mack."
+  },
+  "chemistry_traits": [
+    { "tag": "Bucketfoot Al", "desc": "+1 CON. Unorthodox stance was 'wrong' by every manual — and unstoppable. If opponent attempts knockdown, gains +1 POW for 3 at-bats." },
+    { "tag": "The Mack Attack", "desc": "+2 CLU when team trails by 4+ runs in 7th inning or later. Started the greatest WS comeback ever." },
+    { "tag": "Late-Inning Destroyer", "desc": "+1 POW in 8th and 9th innings. 14 of 34 HR came in the final two frames in 1930." },
+    { "tag": "Connie Mack's Son", "desc": "+1 all stats under a mentor-manager. 'After I left, I was just another ballplayer.'" },
+    { "tag": "The Warrior", "desc": "+1 intimidation aura. Violent slides, murderous stance. Fear makes him stronger." },
+    { "tag": "73 Hits Short", "desc": "-1 morale after age 32. Fell 73 short of 3,000 — haunted him for life." },
+    { "tag": "A's Dynasty", "desc": "Synergy with Foxx, Cochrane, Grove. 3+ A's dynasty players = +1 POW for all." },
+    { "tag": "Sold for Cash", "desc": "When traded, -1 all stats for one season. The grief of separation from Mack." }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Elite practice habits in prime. 'Never relax on any time at bat.'",
+      "note_extra": "Source label: 'Batting Cages / Practice Field'. Maps to Practice Field (batting cage / craft domain). HIGH affinity."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "Social eater and drinker. Enjoyed the high life.",
+      "note_extra": "Source label: 'Steakhouse / Restaurant'. Maps to Hotel/Rest (dining / social venue). HIGH affinity."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "The hangovers that cost him games — and 73 hits.",
+      "note_extra": "Source label: 'Bar / Nightlife'. Maps to Hotel/Rest (bar/nightlife subdomain). MEDIUM affinity. Cross-references '73 Hits Short' chemistry trait."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Mack was 'the greatest man I ever met.' Hours of baseball talk.",
+      "note_extra": "Source label: 'Manager's Office'. Maps to Practice Field (coaching / mentor office craft domain). HIGH affinity. Cross-references 'Connie Mack's Son' chemistry trait."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Generous but not a natural PR man.",
+      "note_extra": "Source label: 'Community Events'. Maps directly to Community Events. MEDIUM affinity."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Too intense to sit still in his prime.",
+      "note_extra": "Source label: 'Hotel / Rest'. Maps directly to Hotel/Rest. LOW affinity."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "NONE",
+      "note": "No association.",
+      "note_extra": "Source label: 'Gambling Hall'. Maps to Hotel/Rest (gambling / nightlife subdomain). NONE affinity. Explicit absence of connection — not first NONE in set (Mungo, Batch 29)."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "Being knocked down or brushed back — anger fuels performance",
+      "Elimination games and late-inning pressure situations",
+      "Playing for Connie Mack or a father-figure manager",
+      "Pennant races — 14 of 34 HR in 8th/9th innings in 1930",
+      "Team trailing — born comeback specialist"
+    ],
+    "cold_triggers": [
+      "Being traded or sold — emotional collapse after separation from Mack",
+      "Playing for losing teams — admitted he 'slacked off' with White Sox",
+      "Personal issues — divorce and loneliness affected later performance",
+      "Hangovers — cost him games and the 3,000-hit milestone"
+    ],
+    "pressure_response": "ELITE. One of the rare hitters who becomes MORE dangerous under pressure. .329 WS BA, .658 WS SLG. Started the 10-run 7th. Memorial Day 1930 doubleheader heroics. Griffith: every late-game homer 'figured importantly in the final score.' Maximum pressure performer."
+  },
+  "action_card_seeds": [
+    {
+      "title": "The Ten-Run Seventh",
+      "type": "Game Action",
+      "text": "Your team trails by 5+ in the 7th or later. Highest-CON player leads off with HR. Team bats around — score 8+ runs this inning (50% chance). If successful, opponent's morale collapses.",
+      "origin": "1929 WS Game 4: Cubs led 8-0. Simmons HR started a 10-run 7th — greatest WS comeback ever. He singled in his 2nd AB of the same inning."
+    },
+    {
+      "title": "Rough Him Up",
+      "type": "Game Action",
+      "text": "Opposing team throws at your (+8 or higher) hitter. Backfire: targeted hitter gains +2 all offensive stats for the series.",
+      "origin": "1928: Yankees knocked Simmons down. He went 11-for-series, 10 for extra bases. Dickey: 'So we roughed him up all right.'"
+    },
+    {
+      "title": "Memorial Day Doubleheader",
+      "type": "Game Action",
+      "text": "Star player hits game-tying 9th-inning HR in Game 1 (injuring himself). Pinch-hits grand slam in Game 2. Unavailable 2 games after.",
+      "origin": "May 30, 1930: Simmons tied Game 1 with 9th-inning HR, then pinch-hit a grand slam in Game 2 on an injured knee."
+    },
+    {
+      "title": "Simmons Hardware",
+      "type": "Drama",
+      "text": "Player with a difficult surname changes his name. +2 fan appeal, +1 morale. Hidden 'roots' trigger: -1 focus for 1 game when returning to hometown.",
+      "origin": "Szymanski saw a Simmons Hardware billboard and became Al Simmons on the spot. Milwaukee remained his home — and his resting place."
+    },
+    {
+      "title": "73 Hits Short",
+      "type": "Drama",
+      "text": "Aging veteran (+6 or lower) chases a career milestone. Comeback attempt: 30% success (+3 legacy), 70% failure (number haunts him forever).",
+      "origin": "Simmons finished with 2,927 hits — 73 short of 3,000. He played for 7 teams in his last 9 years chasing the milestone."
+    },
+    {
+      "title": "The Father and the Son",
+      "type": "Drama",
+      "text": "Star's mentor-manager sells/trades him for financial reasons. Player loses -2 all stats for one season. If reunited later, +1 permanent but can never recapture peak.",
+      "origin": "Mack sold Simmons for $100,000 after 1932. He returned twice but was never the same. They died 3 months apart."
+    },
+    {
+      "title": "The Spanking",
+      "type": "Drama",
+      "text": "Young player's immigrant parent opposes baseball career. If player persists, gains 'Chip on Shoulder': +1 all stats for first 5 seasons.",
+      "origin": "4th grade: Simmons's Polish father spanked him for wanting baseball. Then: 'You'd better be a good player.'"
+    },
+    {
+      "title": "The Walkoff Double",
+      "type": "Game Action",
+      "text": "Bottom 9th in clinching game. Your (+8+) hitter doubles to put winning run in scoring position. Next batter drives him in. Season ends in celebration.",
+      "origin": "1929 WS Game 5: Simmons doubled in the 9th, Miller drove him in to clinch — A's first title in 16 years."
+    }
+  ],
+  "art_direction": {
+    "face": "Fierce, intense, menacing. 5'11\" 210 lbs — thick, powerful build with unusually long arms. Big hands gripping a long bat. Dark hair under cap, strong jaw, Polish-American features. The look of a man who wants to punish the baseball.",
+    "attire": "Philadelphia Athletics 1930 home whites. Baggy wool flannel. Cap pulled low. No real logos — suggest the blue elephant insignia area.",
+    "mood": "Controlled fury. The 'bucketfoot' stance — RH hitter, left foot toward third. Bat cocked high, arms loaded, coiled to destroy. This card should feel dangerous.",
+    "style": "Rich golden-amber with deep shadows. Oil painting texture. More aggressive than other cards — Ted Williams said Simmons 'scared you to death.' Shibe Park grandstand behind him, October light.",
+    "reference": "Think 1933 Goudey card energy rendered in the unified ILB sepia portrait style. The face of the A's dynasty."
+  }
+}

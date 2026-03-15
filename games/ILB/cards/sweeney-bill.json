@@ -1,0 +1,109 @@
+{
+  "card_type": "player",
+  "name": "Bill Sweeney",
+  "nickname": "The Lone Star",
+  "year": 1912,
+  "team": "Boston Braves",
+  "era": "1910s",
+  "ilb_team": "Muggers 1910",
+  "position": "2B",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'11\"",
+  "weight": "175 lbs",
+  "born": "March 6, 1886 — Covington, KY",
+  "died": "May 26, 1948 — Cambridge, MA (age 62)",
+  "real_stats": {
+    "season": 1912,
+    "batting_avg": ".344",
+    "obp": ".401",
+    "slg": ".414",
+    "rbi": 99,
+    "hits": 204,
+    "doubles": 31,
+    "sacrifice_bunts": 33,
+    "stolen_bases": 19,
+    "career_avg": ".272",
+    "career_hits": 1004,
+    "career_hr": 11,
+    "career_rbi": 388,
+    "career_sb": 172,
+    "mvp_vote": "6th (1912)",
+    "ws_appearances": 0,
+    "seasons": 8
+  },
+  "ilb_stats": {
+    "ovr": 6,
+    "con": 3,
+    "pow": 0,
+    "spd": 1,
+    "def": 2,
+    "clu": 0
+  },
+  "stat_justification": {
+    "con": ".344 BA in 1912 (3rd NL). .314 in 1911. Career .272 is modest but the two-year peak (.329) on a terrible team is extraordinary. 204 hits in 1912. Rating of 3.",
+    "pow": "11 career HR. .344 career SLG. Zero power. Slap hitter and contact artist. Rating of 0.",
+    "spd": "172 career SB. 19 SB in 1912. Adequate but not a speed threat. Rating of 1.",
+    "def": "Outstanding 2B per Total Baseball. Set NL record for putouts at 2B (stood 21 years). Led NL in assists and DP. Incredible range. BUT: led NL in errors 5 consecutive years due to sidearm throw. Range exceeds arm. Rating of 2.",
+    "clu": "Never reached a World Series. Boston lost 100+ games 4 straight years. Traded before the Miracle Braves won 1914 WS. Zero October. Rating of 0."
+  },
+  "personality": {
+    "leadership_style": "THE SOLE PROFESSIONAL. On a team that started a 17-year-old hitting .122 at shortstop and cycled through a different 1B every year, Sweeney was the only reliable player. He didn't lead a team — he WAS the team. 'Forced to make two position switches to plug gaping holes.' Played every position except pitcher. The one adult in a clubhouse full of experiments.",
+    "temperament": "STEADY, PROFESSIONAL, UNDERAPPRECIATED. Sweeney put up .344 while the team lost 100 games. He finished 6th in MVP voting behind Larry Doyle, whose numbers were 'comparable but not better' — but Doyle played for the pennant-winning Giants. Sweeney never complained publicly. He ran an insurance company after baseball. The temperament of a man who does his job regardless of context.",
+    "work_ethic": "RELENTLESS ADAPTABILITY. 3B → SS → 2B. Every position except pitcher in his first 4 years. Set the NL putout record at 2B. Led in assists and DP. 33 sacrifice bunts (among NL leaders). On a 100-loss team, he played 152 games and hit .344. The work ethic of a man who has nowhere to hide.",
+    "dark_side": "Traded for Johnny Evers in February 1914. The Braves — the worst team in baseball for 4 years — won the 1914 World Series WITHOUT Sweeney. The 'Miracle Braves.' Same pattern as Sherry Magee and the Phillies: the star who carried the team for years, traded just before the team finally wins. Two Muggers who built foundations and were gone before the house was finished."
+  },
+  "chemistry_traits": [
+    { "tag": "The Best on the Worst", "desc": ".344 BA on a team that lost 101 games. The only reliable player on the most unsettled roster in baseball. +3 individual excellence. -3 team context." },
+    { "tag": "The Robbed MVP", "desc": "1912: 6th in MVP. Winner: Larry Doyle (.330, 90 RBI). Sweeney: .344, 99 RBI. Doyle had the pennant. Sweeney had the stats. +2 injustice." },
+    { "tag": "The Sidearm Throw", "desc": "Unusual sidearm motion. Led NL in errors 5 consecutive years. BUT: also led in chances accepted 3×. Outstanding range, erratic arm. +2 range, -1 accuracy." },
+    { "tag": "Every Position", "desc": "Played every position except pitcher in first 4 years. 3B → SS → 2B. Forced to move by team chaos. +2 versatility." },
+    { "tag": "Traded for Evers", "desc": "Sent to Cubs for Johnny Evers, Feb 1914. Braves won the 1914 WS without him. +1 irony. -2 timing. Same story as Magee." },
+    { "tag": "The Insurance Man", "desc": "After baseball: owned successful insurance company in Boston. Coached Boston College 1916. The steady professional who transitioned smoothly. +1 post-career stability." }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Set NL record for putouts at 2B. Led in assists and DP. Incredible range despite the erratic arm.",
+      "note_extra": "Inferred from defensive record and work ethic. Practice Field as the 2B craft domain."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "LOW",
+      "note": "Boston Braves' South End Grounds — empty stands, 100-loss teams, the loneliest ballpark in baseball.",
+      "note_extra": "Inferred from team context. The home ballpark of a perennial last-place team."
+    }
+  ],
+  "action_card_seeds": [
+    {
+      "title": ".344 on a 100-Loss Team",
+      "type": "Game Action",
+      "text": "Your second baseman finishes the season hitting .344 — third in the National League. He drives in 99 runs. He sets the NL record for putouts at 2B. His team loses 101 games. His SS hits .122. His 1B will never play another MLB game. +3 CON. +0 support. The best player on the worst team.",
+      "origin": "1912: Sweeney hit .344 (3rd NL) while Boston lost 101 games."
+    },
+    {
+      "title": "The Robbed Award",
+      "type": "Drama",
+      "text": "MVP voting, 1912. Larry Doyle: .330 BA, 90 RBI, NL pennant. Your second baseman: .344 BA, 99 RBI, 101 losses. Doyle wins. Your man finishes 6th. The numbers are 'comparable but not better.' The difference is the team. -2 recognition. +1 quiet dignity.",
+      "origin": "Doyle won 1912 MVP. Sweeney had better stats on a far worse team."
+    },
+    {
+      "title": "Five Years of Errors, Five Years of Range",
+      "type": "Game Action",
+      "text": "Your second baseman leads the NL in errors for the fifth consecutive year. His sidearm throw sails into the stands. The scorer marks another E. But he also leads the league in chances accepted. He gets to balls nobody else reaches. The range is extraordinary. The arm is not. +2 DEF range. -1 DEF arm. The player whose greatest strength contains his greatest weakness.",
+      "origin": "Led NL in errors 5 years but also in chances accepted 3×."
+    },
+    {
+      "title": "The Miracle He Missed",
+      "type": "Drama",
+      "text": "February 1914. Your second baseman is traded for Johnny Evers. He goes to the Cubs. The Braves — 100-loss team for 4 years — win the 1914 World Series. The Miracle Braves. Without your man. He built the foundation. Someone else got the trophy. -3 timing. +1 legacy.",
+      "origin": "Traded for Evers Feb 1914. Braves won 1914 WS without Sweeney."
+    }
+  ],
+  "art_direction": {
+    "face": "STEADY, PROFESSIONAL, QUIET, UNASSUMING. 5'11\" 175 lbs. An ordinary-looking man doing extraordinary things on a terrible team. The face should be COMPETENT rather than dramatic — not haunted like Merkle, not fierce like Magee, not intellectual like Meyers. RELIABLE. The face of a man who hits .344, runs an insurance company, and doesn't make the Hall of Fame.",
+    "mood": "PROFESSIONAL SOLITUDE. The card should feel like COMPETENCE IN ISOLATION — a good player surrounded by nothing. The emptiest team context of any Mugger.",
+    "style": "Sepia-toned with BOSTON BROWN and EMPTY-STAND GRAY — the muted brown of the South End Grounds and the gray of empty grandstands on a 100-loss team. The most MODEST palette in the collection."
+  }
+}

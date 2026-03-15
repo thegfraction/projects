@@ -1,0 +1,211 @@
+{
+  "card_type": "manager",
+  "name": "Frank Selee",
+  "nickname": "The Architect",
+  "year": 1898,
+  "team": "Boston Beaneaters",
+  "era": "1900s",
+  "ilb_team": "Banners",
+  "archetype": "Tactical Purist",
+  "born": "October 26, 1859 — Amherst, NH",
+  "died": "July 5, 1909 — Denver, CO (age 49)",
+  "hof": "Inducted 1999 (Veterans Committee). Waited 90 years. 12 of his players are in the Hall of Fame.",
+  "height": "5'7\"",
+  "weight": "150 lbs",
+  "record": {
+    "career_wins": 1284,
+    "career_losses": 862,
+    "win_pct": ".598",
+    "pennants": 5,
+    "world_series": 0,
+    "seasons_managed": 16,
+    "ejections": "Virtually none — gentlemanly deportment",
+    "peak_team": "1892 & 1898 Boston Beaneaters",
+    "peak_record": "102-48 (1892), 102-47 (1898)",
+    "consecutive_pennants": "3 (1891-1893), then 2 (1897-1898)",
+    "notable": "First teams to win 100 games (1892 & 1898). Never played an inning of MLB. Built Tinker-to-Evers-to-Chance. 12 HOF players managed. .598 career win% — 4th highest in history.",
+    "hof_players_managed": ["Kid Nichols", "Hugh Duffy", "Tommy McCarthy", "Jimmy Collins", "Billy Hamilton", "Joe Kelley", "Frank Chance", "Joe Tinker", "Johnny Evers", "Mordecai Brown", "Fred Clarke", "King Kelly"],
+    "positional_conversions": ["Jimmy Collins: OF → 3B (HOF)", "Fred Tenney: C → 1B (elite)", "Frank Chance: C → 1B (HOF)", "Joe Tinker: 3B → SS (HOF)"]
+  },
+  "ilb_ratings": {
+    "ovr": 11,
+    "tac": 5,
+    "pit": 4,
+    "lin": 5,
+    "adp": 4,
+    "dis": 7,
+    "ego": 7,
+    "har": 8,
+    "int": 4,
+    "str": 10,
+    "flx": 7
+  },
+  "rating_justification": {
+    "tac": "Master of 'scientific baseball.' His Beaneaters 'surpassed brawnier opponents by hitting behind runners, employing the bunt and utilizing the double steal.' Pioneered positional conversion as a tactical weapon — moved catchers to first base, outfielders to third, third basemen to short. Every move was calculated. Rating of 5.",
+    "pit": "Signed Kid Nichols to his first MLB contract — Nichols won 361 career games. Traded two players for Mordecai 'Three Finger' Brown, who became one of the greatest pitchers ever. His 1892 staff had four pitchers with 20+ wins. He understood pitching talent before anyone else saw it. Rating of 4.",
+    "lin": "His positional conversions were revolutionary: Jimmy Collins from outfield to third base (HOF), Fred Tenney from catcher to first base (perfected the 3-6-3 double play), Frank Chance from catcher to first base (HOF), Joe Tinker from third to short (HOF). He didn't just build lineups — he redesigned players. First teams to win 100 games. Rating of 5.",
+    "adp": "Built two dynasties in two different cities across two different decades. Left Boston's aging roster and constructed the Cubs from scratch — only 8 of 25 players survived his first roster purge. Adapted his system to new talent pools. But tuberculosis cut him short at 49 — we'll never know if he could've adapted to the live-ball era. Rating of 4.",
+    "dis": "Quiet firmness. 'The Bostons have always been noted for their gentlemanly deportment, due in great measure to the example set by Selee, who will not countenance anything that savors of rowdyism or dirty ball.' His teams were disciplined by choice, not fear. Rating of 7.",
+    "ego": "Managed TWELVE future Hall of Famers across two franchises without a single legendary ego blowup. Handled the volatile King Kelly's return, managed the Evers-Tinker feud (those two famously hated each other but played brilliantly together under Selee). His mild demeanor disarmed egos. Rating of 7.",
+    "har": "Elite harmony builder. His teams were the anti-Orioles and anti-Spiders — winning through teamwork and sportsmanship, not brawling. 'One of baseball's notable nice guys, who honed his craft to succeed in a ruthlessly competitive business.' The sportsmanship was genuine, not weakness. Rating of 8.",
+    "int": "Low emotional intensity. 'A small, mild-mannered, prematurely bald man with a prominent mustache who looked more like an insurance underwriter than a baseball manager.' His intensity was cerebral — studying matchups, identifying talent, redesigning positions. The opposite of Tebeau. Rating of 4.",
+    "str": "Maximum. The greatest roster architect of the 19th century. 'He could tell a ballplayer in his street clothes.' 'A flair for bending players acquired from here, there and everywhere.' Built the 1890s Beaneaters AND the 1900s Cubs dynasty. 12 HOF players. 4 revolutionary position conversions. No manager has ever built more with less raw material. Rating of 10.",
+    "flx": "Rebuilt twice. Took over a Boston team gutted by the Players' League and won a pennant in his second year. Took over a 53-86 Cubs team and had them at 82-56 in one year. In both cases, he kept almost nothing from the previous roster. But he never saw the live-ball era — tuberculosis killed him at 49. Rating of 7."
+  },
+  "personality": {
+    "leadership_style": "Architect-general. Selee never played an inning of professional baseball — he was a watch factory worker who organized an amateur team and discovered he could see baseball better than he could play it. His leadership was entirely intellectual: identifying talent, redesigning positions, building systems. He didn't lead by example on the field — he led by vision from the bench. The ultimate front-office mind managing on the field.",
+    "temperament": "Calm, modest, analytical. SABR described him as 'a small, mild-mannered, prematurely bald man with a prominent mustache.' He looked like an insurance underwriter next to his strapping athletes. But his quiet confidence masked an iron will — he released 17 of 25 Cubs players in his first year. The gentleness was real; the ruthlessness was hidden.",
+    "work_ethic": "Methodical and tireless. Quit his job at the Waltham Watch Company to raise $1,000 and build a baseball team from nothing. Managed in the minors for six years before getting his MLB chance. 'I was without any practical experience as a manager or player,' he later wrote — but he outworked everyone who had both.",
+    "lifestyle": "Son of a Methodist-Episcopal clergyman. Raised in Melrose, Massachusetts. Married, lived year-round in Melrose even while managing in Boston. After tuberculosis forced his retirement, moved to Denver hoping mountain air would heal him. It didn't. He died there at 49, watching from a hospital bed as the Cubs dynasty he built won without him.",
+    "communication_style": "Quiet persuasion. 'Able to impress his advice upon the men under his control' — but through logic and respect, not shouting. He convinced Jimmy Collins to play third base, Fred Tenney to move from catcher to first, and Frank Chance to do the same. These were massive career changes accomplished through trust.",
+    "loyalty_expectations": "Professional respect. Selee didn't demand personal loyalty — he expected professional excellence. Players who performed stayed; those who didn't were released without drama. He was 'an adept handler of players' who earned loyalty through competence, not charisma.",
+    "dark_side": "The tragedy. Tuberculosis consumed him during his prime. He had to give the Cubs — the team he built from scratch — to Frank Chance and watch from a hospital bed as they won 4 pennants and 2 World Series with HIS players. He died at 49 in Denver, far from home, and waited 90 years for the Hall of Fame. In ILB: Selee carries 'The Unfinished Dynasty' — his teams peak after he's gone. +2 to all ratings for his SUCCESSOR manager."
+  },
+  "playbook": {
+    "roster_philosophy": "See what others can't see, then build what others can't imagine. Selee's genius was positional vision — he could tell a catcher should be a first baseman, an outfielder should be a third baseman. He didn't just find talent; he reimagined it. His roster moves were surgical: release 17 of 25, keep the hidden gems, add new pieces that fit the redesigned machine. He built teams like a watchmaker builds watches — precision over power.",
+    "conflict_response": "PREVENT. Selee's civilized atmosphere made conflicts rare. When they arose (Evers and Tinker famously hated each other), he managed around them — letting them despise each other off the field while playing brilliantly together on it. He didn't resolve conflict; he made it irrelevant to performance.",
+    "clique_strategy": "TOLERATE FACTIONS. Selee didn't need everyone to be friends — he needed everyone to execute. His teams had internal tensions (Evers-Tinker) but functioned perfectly because the system was bigger than any personality. Cliques existed but couldn't damage the machine.",
+    "player_types_that_thrive": [
+      "Versatile players open to positional conversion — Selee sees potential others miss",
+      "Young, unproven talent willing to be molded — 'a flair for bending players'",
+      "High-IQ players who understand tactical systems and execute precisely",
+      "Professional, sportsmanlike players who don't need chaos to perform",
+      "Undervalued players from minor leagues or other teams' scrap heaps"
+    ],
+    "player_types_that_struggle": [
+      "Rowdy, undisciplined players — Selee 'will not countenance rowdyism'",
+      "Set-in-their-ways veterans who resist positional or role changes",
+      "Players who need emotional fire from their manager — Selee is cerebral, not volcanic",
+      "Raw power players with no versatility — they don't fit the 'scientific baseball' system",
+      "Players who need the spotlight — Selee's system is about the machine, not individuals"
+    ],
+    "tolerance_thresholds": {
+      "max_ego_cluster": 4,
+      "max_volatility": "LOW — Selee's teams are built on calm execution. High-volatility players disrupt the machine.",
+      "discipline_floor": "HIGH — professional conduct is non-negotiable. Selee releases the undisciplined.",
+      "star_exception": "No exceptions. Even King Kelly had to conform. The system is sacred."
+    }
+  },
+  "chemistry_impact": {
+    "team_fit": { "effect": "HIGH", "desc": "Selee builds cohesive machines. Players fit together because they were selected and positioned to fit. +2 Team Fit when roster has 3+ players who have been repositioned or converted." },
+    "volatility": { "effect": "STRONGLY REDUCED", "desc": "Selee's calm, professional atmosphere suppresses volatility. -2 Volatility for all players. But this also reduces positive variance — no dramatic heroics, just consistent execution." },
+    "discipline": { "effect": "STRONGLY INCREASED", "desc": "+2 Discipline for all players. Selee's sportsmanship is contagious. His teams were 'noted for their gentlemanly deportment' in an era of brawlers." },
+    "ego": { "effect": "MODERATE TOLERANCE", "desc": "Selee managed 12 HOFers without ego crises. He handled egos by making the system more important than any individual. High-ego players perform well but don't get special treatment." },
+    "work_habits": { "effect": "INCREASED", "desc": "Selee's watch-factory precision transfers to his teams. +1 Work Habits for all players. The team operates like a well-oiled machine." },
+    "adaptability": { "effect": "HIGH", "desc": "Selee reimagines players. Any player under Selee can be converted to a new position with reduced penalty. The Architect sees potential others miss." }
+  },
+  "chemistry_traits": [
+    { "tag": "The Architect", "desc": "Selee built TWO dynasties. His Strategy rating applies double when constructing rosters — trades and signings under Selee yield +1 value." },
+    { "tag": "Positional Visionary", "desc": "Selee can convert any player to a new position with only -1 penalty (instead of the normal -2). 'He could tell a ballplayer in his street clothes.'" },
+    { "tag": "The Watch Factory", "desc": "Selee's teams run like precision machinery. When all starting positions are filled with players who've played 5+ games together, +1 DEF for the entire team." },
+    { "tag": "Gentleman's Game", "desc": "Selee's sportsmanship reduces opponent hostility. Opposing teams' 'Intimidation' and 'Crowd Fury' effects are nullified against Selee's teams." },
+    { "tag": "The Unfinished Dynasty", "desc": "Selee died before seeing his Cubs win. His successor inherits +2 to all clubhouse ratings for 5 games. The teacher's blueprint outlasts the teacher." },
+    { "tag": "12 Hall of Famers", "desc": "Selee developed more HOFers than any manager of his era. Players who spend 10+ games under Selee have a 15% chance of gaining the 'Star Potential' trait." },
+    { "tag": "Never Played a Game", "desc": "Selee had no playing career. He earns no 'credibility bonus' from former players — but his analytical mind compensates. +1 Tactics, -1 Intensity." },
+    { "tag": "Mountain Air", "desc": "Tuberculosis forced Selee to Denver. After 20 games, there's a 10% chance per series of a 'Health Decline' event that reduces all ratings by 1 for that series." }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Selee's natural habitat. Roster construction, scouting reports, positional analysis. The mind at work.",
+      "note_extra": "Source label: 'Front Office / War Room'. Maps to Practice Field (classroom / analytical craft domain). HIGH affinity. The front office functions as Selee's craft workspace — scouting, roster design, positional analysis."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Where Selee taught positional conversions and drilled fundamentals. The watch factory floor.",
+      "note_extra": "Source label: 'Practice Field'. Maps directly to Practice Field. HIGH affinity. Standard coaching/training domain."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "Lived year-round in Melrose even while managing. Family man, community member, son of a clergyman.",
+      "note_extra": "Source label: 'Home / Melrose, MA'. Maps to Hotel/Rest (home). HIGH affinity. Selee's year-round residence — stability and domesticity."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Selee scouted minor leagues obsessively. Found Kid Nichols, spotted talent in street clothes.",
+      "note_extra": "Source label: 'Minor League Ballpark'. Maps to Community Events (minor league / scouting venue). HIGH affinity. First minor-league-specific location in the set — represents scouting as a venue activity."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Son of a Methodist-Episcopal clergyman. Modest, upstanding. The anti-McGraw lifestyle.",
+      "note_extra": "Source label: 'Church / Community'. Maps to Community Events (community / religious venue). MEDIUM affinity."
+    },
+    {
+      "location": "Medical/Recovery",
+      "affinity": "LOW",
+      "note": "Where he went to die. Watched his Cubs win from a hospital bed. The saddest location in ILB.",
+      "note_extra": "Source label: 'Denver / Mountain Sanatorium'. Maps to Medical/Recovery. LOW affinity. Selee's tuberculosis exile — a Medical/Recovery location that is also a death location. The source explicitly calls this 'the saddest location in ILB.'"
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Not Selee's world. He was the watch factory, not the barroom.",
+      "note_extra": "Source label: 'Bar / Saloon'. Maps to Hotel/Rest (bar/nightlife subdomain). LOW affinity. Explicitly contrasts with managers who had high bar affinity."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "New roster taking shape — Selee thrived when building from scratch",
+      "Young talent breaking through — his positional conversions paying off",
+      "Multi-year roster continuity — the machine running at full speed",
+      "Pennant race efficiency — his 1892 and 1898 teams ran away with the league"
+    ],
+    "cold_triggers": [
+      "Health decline — tuberculosis progressively weakened him from 1903 onward",
+      "Roster gutted by circumstances — he struggled when he couldn't rebuild on his terms",
+      "Rowdy opponents exploiting his gentlemanly teams — the Orioles and Spiders bullied Boston",
+      "Late-career — his final seasons showed diminishing returns as the disease took hold"
+    ],
+    "pressure_response": "CONSISTENT BUT NOT CLUTCH. Selee won 5 pennants — a dominant regular-season manager. But his postseason record was mixed: lost the 1892 World's Championship Series to Cleveland, and never won a World Series (the Cubs won theirs after he left). In ILB: Selee provides +1 consistency bonus in all series, but no clutch bonus in elimination games. His teams don't choke — they just don't have that extra gear. The machine runs perfectly; it doesn't have overdrive."
+  },
+  "action_card_seeds": [
+    {
+      "title": "The Positional Conversion",
+      "type": "Action",
+      "text": "Your manager sees something no one else sees. Move any player to a new position with only -1 penalty (instead of -2). If the player stays at the new position for 5+ games, the penalty is removed entirely. 'He could tell a ballplayer in his street clothes.'",
+      "origin": "Selee converted Jimmy Collins from outfielder to Hall of Fame third baseman, Fred Tenney from catcher to elite first baseman, Frank Chance from catcher to Hall of Fame first baseman, and Joe Tinker from third baseman to Hall of Fame shortstop."
+    },
+    {
+      "title": "Tinker to Evers to Chance",
+      "type": "Game Action",
+      "text": "Your infield executes a perfect double play combination. +2 DEF for the entire infield this game. If your team turns 2+ double plays, gain +1 Team Fit permanently. The machine is running.",
+      "origin": "Selee assembled the most famous infield in baseball history: Joe Tinker at short, Johnny Evers at second, Frank Chance at first. He acquired them all and positioned them all. The combination won 4 pennants and 2 World Series — after Selee was gone."
+    },
+    {
+      "title": "The $1,000 Team",
+      "type": "Trade",
+      "text": "Your manager builds a team from nothing. Release up to 4 players and draw 3 Free Agent Cards. One of those Free Agents gains +1 to their lowest stat as the manager immediately identifies their hidden potential.",
+      "origin": "Selee quit his job at the Waltham Watch Company and raised $1,000 to build a baseball team from scratch. 'I was without any practical experience as a manager or player.' He went on to build two dynasties."
+    },
+    {
+      "title": "The Gentleman's Advantage",
+      "type": "Game Action",
+      "text": "While opposing teams brawl and get ejected, your team plays clean, focused baseball. If any opponent is ejected this game, your team gains +1 to all stats for the remainder of the game. Discipline is its own reward.",
+      "origin": "'Selee encouraged his players to play a more civilized style. His teams surpassed brawnier opponents by hitting behind runners, employing the bunt and utilizing the double steal.' — HOF biography."
+    },
+    {
+      "title": "The Hospital Bed",
+      "type": "Drama",
+      "text": "Your manager's health fails. He must step down and watch from afar. His successor inherits his roster AND gains +2 to all clubhouse ratings for 5 games as the players rally around the blueprint. The architect's work outlives the architect.",
+      "origin": "Tuberculosis forced Selee to retire in 1905. He turned the Cubs over to Frank Chance and watched from Denver as they won 4 pennants and 2 World Series with the team he built. He died in 1909 at age 49."
+    },
+    {
+      "title": "90 Years of Forgetting",
+      "type": "Drama",
+      "text": "Your manager is overlooked for recognition despite extraordinary achievements. No immediate effect — but after the game, a hidden legacy bonus activates: any player who spent 10+ games under this manager gains a permanent +1 to their lowest stat. The quiet ones leave the deepest marks.",
+      "origin": "Selee waited 90 years for the Hall of Fame — inducted in 1999, 90 years after his death. 'One of baseball's notable nice guys, who honed his craft to succeed in a ruthlessly competitive business.'"
+    }
+  ],
+  "art_direction": {
+    "face": "Small, mild, prematurely bald with a prominent handlebar mustache. 5'7\" 150 lbs — undersized even for his era. Intelligent, watchful eyes behind wire-rimmed spectacles (if he wore them). The face of a professor, not a warrior. You'd walk past him on the street without knowing he was the most successful manager in baseball.",
+    "attire": "Dark civilian suit with vest and watch chain — the watch factory man. Seated on the bench, arms folded, observing. A notepad or pencil suggested nearby. Not animated — calculating. He looks like he's designing something in his head while everyone else is watching the game.",
+    "mood": "Quiet mastery. Not fierce, not warm — precise. The look of a man who has already figured out where every player on the field should be standing and is waiting for them to figure it out too. There's patience in the eyes and steel in the jaw. A clockmaker watching his creation tick.",
+    "style": "Cool sepia with blue undertones — the most cerebral card in the Banners set. Clean, precise, almost clinical. Boston's South End Grounds suggested in the background. Border should feel geometric and orderly — straight lines, right angles, precision. Watchmaker motifs in the corner details. The card should feel like a blueprint.",
+    "reference": "If McGraw is Napoleon, Hanlon is Socrates, and Tebeau is a barroom brawler, Selee is the engineer who built the cathedral nobody knows he designed. The card should feel understated but indispensable — the kind of card that doesn't look like much until you read the back and realize this quiet man built everything. A hidden gem."
+  }
+}

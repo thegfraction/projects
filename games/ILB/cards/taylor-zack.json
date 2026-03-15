@@ -1,0 +1,193 @@
+{
+  "card_type": "player",
+  "name": "Zack Taylor",
+  "nickname": "The Man Who Sent Up a Midget",
+  "year": 1925,
+  "team": "Brooklyn Robins",
+  "era": "1920s",
+  "ilb_team": "Bashers NL1920",
+  "position": "C",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'11\"",
+  "weight": "175 lbs",
+  "born": "July 27, 1898 — Yulee, FL (turpentine distiller's son)",
+  "died": "September 19, 1974 — Orlando, FL (age 76)",
+  "hof": "Not inducted. 58 years in professional baseball. Caught for Rollins College at age 14. Managed the worst teams in AL history. Sent Eddie Gaedel to bat. The most eventful career of any journeyman in baseball history.",
+  "real_stats": {
+    "season": 1925,
+    "games": 105,
+    "at_bats": 337,
+    "hits": 104,
+    "doubles": 22,
+    "triples": 5,
+    "home_runs": 3,
+    "rbi": 44,
+    "runs": 36,
+    "stolen_bases": 2,
+    "strikeouts": 19,
+    "walks": 15,
+    "batting_avg": ".310",
+    "obp": ".341",
+    "slg": ".415",
+    "ops": ".756",
+    "ops_plus": 96,
+    "war": 1.8,
+    "career_avg": ".261",
+    "career_hits": 748,
+    "career_hr": 9,
+    "career_rbi": 311,
+    "career_sb": 14,
+    "career_ops_plus": 61,
+    "career_war": 5.3,
+    "career_games": 918,
+    "career_cs_pct": "49.63% (19th all-time)",
+    "ws_1929": ".231 (3 H in 13 AB), cited as unsung defensive hero",
+    "managed": "1948-51 St. Louis Browns: 222-393 (.361 W%)",
+    "gaedel_date": "August 19, 1951"
+  },
+  "ilb_stats": {
+    "ovr": 4,
+    "con": 4,
+    "pow": 0,
+    "spd": 0,
+    "def": 2,
+    "clu": 1
+  },
+  "stat_justification": {
+    "con": ".310 BA in 1925 — his career year. But career .261 is below average. He only exceeded .280 twice in 16 seasons. Taylor was kept in lineups for his defense, game-calling, and ability to handle difficult pitchers (especially spitballers), not his bat. Rating of 4 reflects his peak, not his career norm.",
+    "pow": "3 HR in 1925, 9 career in 918 games. He didn't hit his first major-league HR until his 5th season (June 1, 1924). Zero power by any standard. Rating of 0.",
+    "spd": "2 SB in 1925, 14 career. A 175-lb catcher with no running game. Rating of 0.",
+    "def": "This is where Taylor earned his 16-year career. Led NL catchers 3× in range factor and caught stealing, 2× in assists, 1× in fielding percentage. His 49.63% career CS rate ranks 19th all-time. He was the personal catcher for Burleigh Grimes, the last pitcher legally allowed to throw the spitball — catching a spitball is extraordinarily difficult. He helped the 1929 Cubs to a league-leading 14 shutouts and 2nd-best ERA. Rogers Hornsby credited Taylor with developing Lon Warneke (22-win 1932 season). Rating of 2.",
+    "clu": ".231 in the 1929 WS (3-for-13) — poor offensively. But he was cited as an 'unsung hero in a losing cause' for his defensive work behind the plate. His consistent, unwavering defense kept the Cubs competitive in that series despite losing. One postseason appearance. Rating of 1."
+  },
+  "personality": {
+    "leadership_style": "The Invisible Man. Taylor spent 58 years in professional baseball — player, coach, manager, scout — and almost nobody knows his name, except for one stunt he didn't dream up. His leadership was quiet, competent, and completely unrewarded. He caught for Rollins College at 14, played in the majors for 16 years, coached championship teams, managed losing ones, and kept showing up. His gift wasn't talent — it was persistence, adaptability, and knowing more about the game than anyone in the room.",
+    "temperament": "STOIC AND SARDONIC. Taylor managed the worst teams in AL history (222-393, .361 W%) and never complained publicly. When Veeck bought the Browns and started pulling stunts, Taylor went along — he produced Gaedel's contract when the umpire protested, he held up signs for 'Grandstand Managers Night' while the fans voted on his decisions. He had learned from McGraw and McCarthy — two of the greatest managers ever — and ended up managing a team where the fans literally managed for him. The comedy of it must have been devastating, but Taylor took it with quiet dignity.",
+    "work_ethic": "58 YEARS IN BASEBALL. Caught for a college team at 14. Played in the minors at 16. Made the majors at 21. Played 16 seasons. Coached. Managed. Scouted. His career spanned from 1915 to 1973 — from the dead-ball era to the DH era. He saw everything: spitballs, the lively ball, World Wars, integration, expansion, and a 3'7\" man batting in an official game. Nobody in baseball history had a more complete view of the game's evolution than Zack Taylor.",
+    "lifestyle": "Small-town Florida boy. Born in Yulee, FL — population barely 500. Father was a turpentine distiller. Named 'Zack' after President Zachary Taylor by a teammate's stepdaughter who ribbed him about being related to 'old Rough and Ready.' He never was. Modest, unassuming, professional. The kind of man who spent 58 years doing a job and never asked for credit.",
+    "era_adaptability": "LOW as a player (his .261 career BA and 9 HR wouldn't cut it in any era). HIGH as a baseball mind — his defensive skills, game management, and pitcher development would be valued by any modern team. He'd be a catching coach or minor-league manager in the modern game, not a starter. But his knowledge would be irreplaceable.",
+    "clubhouse_impact": "THE GLUE MAN. Taylor was the backup catcher, the veteran presence, the guy who helped young pitchers develop. He caught spitballs from Grimes, caught Dazzy Vance's one-hitter, helped Warneke become a 22-game winner, guided the 1929 Cubs pitching staff to excellence. He was never the star — he was the infrastructure that made stars possible. He was also good friends with every teammate he had, including his platoon rival Hank DeBerry (they ribbed each other constantly about who could catch Vance better).",
+    "dark_side": "The Cruelest Punchline. Taylor managed the Browns for four years: 59-94, 53-101, 58-96, 52-102. Four consecutive last-place finishes. Good players were sold off to pay debts. Then Bill Veeck bought the team and used Taylor as a straight man for stunts — the midget, the fan-managed game. Taylor, who had learned from McGraw and McCarthy, was reduced to producing a 3'7\" man's contract while an umpire screamed 'What the hell?' He was fired after the 1951 season. 58 years in baseball, and his legacy is a punchline. In ILB: Taylor carries the 'Straight Man' trait — he enables other people's moments. The spotlight never finds him."
+  },
+  "chemistry_traits": [
+    { "tag": "The Straight Man", "desc": "Enables other people's legendary moments. +2 to any teammate or owner's event/stunt. Taylor himself gets -1 to personal legacy." },
+    { "tag": "Spitball Whisperer", "desc": "Personal catcher for Burleigh Grimes (last legal spitballer). +2 to any spitball pitcher's STF. Can handle unhittable/illegal pitches." },
+    { "tag": "58 Years", "desc": "The longest career in baseball history. Taylor cannot be removed from the game — he's always there, in some capacity. Coach, scout, manager, advisor." },
+    { "tag": "The Gaedel Contract", "desc": "Can produce a legitimate contract for any unusual player, bypassing protests. One-time use per season. The most famous piece of paper in baseball history." },
+    { "tag": "Pitcher Developer", "desc": "+1 to any young pitcher's development. Credited with developing Lon Warneke. Guided staffs to league-leading stats." },
+    { "tag": "Grandstand Manager", "desc": "Once per season, can let the fans manage the team. 70% chance of winning (the fans went 1-0). -1 to Taylor's dignity." },
+    { "tag": "Backup Catcher", "desc": "Taylor is always the backup, never the starter. +1 when replacing an injured starter (see: filling in for Hartnett, 1929)." },
+    { "tag": "Yulee, Florida", "desc": "Small-town roots. +1 humility, +1 adaptability. Immune to big-city pressure. Nothing fazes a turpentine distiller's son." }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "16 years as backup/platoon catcher. His natural habitat.",
+      "note_extra": "Source label: 'Behind the Plate (Backup)'. Maps to Practice Field (catcher's position / craft domain). HIGH affinity. Second catcher-specific Practice Field entry in set (after Schang's 'Behind the Plate')."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Coach for Cubs, Browns, Pirates. The dugout is where he belongs.",
+      "note_extra": "Source label: 'Coaching Box / Dugout'. Maps to Practice Field (coaching / dugout craft domain). HIGH affinity."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Player-manager in minors. Scout for decades. The backbone of organized baseball.",
+      "note_extra": "Source label: 'Minor Leagues'. Maps to Community Events (minor league venues). HIGH affinity."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MIXED",
+      "note": "Managed the worst teams in history here. Also: the Gaedel game. Joy and misery in one building.",
+      "note_extra": "Source label: 'Sportsman's Park, St. Louis'. Maps to Community Events (ballpark). MIXED affinity — FIRST IN SET. New affinity type representing a location with contradictory emotional valence: both Taylor's greatest humiliation (222-393 record) and greatest moment (the Gaedel game)."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "LOW",
+      "note": "Taylor hated attention. He was the man behind the scenes, never in front of the camera.",
+      "note_extra": "Source label: 'Spotlight / Press Conference'. Maps to Media/Spotlight. LOW affinity."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "LOW",
+      "note": "222-393 record. The job that broke him. Good players sold off, stunts instead of strategy.",
+      "note_extra": "Source label: 'Manager's Office (Big Leagues)'. Maps to Practice Field (manager's office). LOW affinity. Contrasts with Simmons's HIGH manager's office — Taylor's was a place of defeat, not mentorship."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "Backing up an injured star — Taylor thrived as the 'next man up' (1929 Cubs pennant run)",
+      "Handling difficult pitchers — spitballers, rookies, anyone who needed special attention",
+      "Quiet competence — Taylor performed best when nobody was watching",
+      "Teaching mode — developing young pitchers and catchers was his real gift"
+    ],
+    "cold_triggers": [
+      "Being the featured player — Taylor wasn't built to be the star",
+      "Losing streaks — managed 4 consecutive 90+ loss seasons with the Browns",
+      "Owner's stunts — being used as a straight man for Veeck's promotions",
+      "Front office sabotage — good players being sold off, talent stripped from the roster"
+    ],
+    "pressure_response": "CALM AND INVISIBLE. Taylor's 1929 WS performance was .231 at the bat but excellent behind the plate — 'unsung hero in a losing cause.' His pressure response is defensive, not offensive. He won't hit in October, but he'll call a great game, throw out runners, and keep the pitching staff together. In ILB: Taylor is the catcher you want for his defense and game management, not his bat. His pressure response is: the team around him performs better."
+  },
+  "action_card_seeds": [
+    {
+      "title": "Send Up the Midget",
+      "type": "Game Action",
+      "text": "Your owner has signed a 3'7\" man to a legitimate contract. Bottom of the first inning. You, the manager, call back the leadoff hitter and send the tiny man to bat. The umpire screams 'What the hell?' You produce the contract. The man walks on four pitches. Baseball is never the same. +5 notoriety, +10,000 fans at the next game. -1 dignity. Banned by the Commissioner the next day.",
+      "origin": "August 19, 1951. Sportsman's Park. Zack Taylor sent Eddie Gaedel (3'7\", wearing uniform #1/8, popped out of a birthday cake between games) to bat against the Detroit Tigers. Taylor produced the contract. Gaedel walked on four pitches. It was voted baseball's #1 'Unusual and Unforgettable Moment' of the century."
+    },
+    {
+      "title": "Grandstand Managers Night",
+      "type": "Game Action",
+      "text": "Your owner announces that tonight, the FANS will manage the team. You, the actual manager, hold up signs: 'Should we bunt?' 'Take out the pitcher?' 'Steal?' The fans vote yes or no. You follow their decisions. You win 5-3. The fans go 1-0 as managers. The next day, a fireworks display reads: 'Thanks GS Managers for a swell job. Zack manages tomorrow.'",
+      "origin": "August 24, 1951. Bill Veeck hosted 'Grandstand Managers Night.' Over 4,000 fans submitted lineups. Two were chosen to manage on the field. Taylor held up signs. The Browns won 5-3. It was the most democratic moment in baseball history."
+    },
+    {
+      "title": "The Spitball Catcher",
+      "type": "Game Action",
+      "text": "Your catcher is the only man on the team who can handle the spitball — the nastiest, most unpredictable pitch in baseball. He becomes the personal catcher for the last legal spitball pitcher. +2 to the pitcher's STF when Taylor is catching. Without Taylor, the spitball is wild and uncatchable.",
+      "origin": "Taylor was Burleigh Grimes' personal catcher. Grimes was the last pitcher legally allowed to throw the spitball (grandfathered after the 1920 ban). Catching a spitball requires exceptional reflexes and soft hands."
+    },
+    {
+      "title": "The Boy at Rollins",
+      "type": "Action",
+      "text": "A 14-year-old boy is so good at catching that the baseball coach at a college brings him up to catch for the college team. He's playing against men twice his age. He holds his own. Four years later, he's in the big leagues.",
+      "origin": "Taylor was recruited by the Rollins College baseball coach at age 14 to catch for the college team in Winter Park, Florida. He turned pro at 16 with the Valdosta Millionaires."
+    },
+    {
+      "title": "McGraw's Idea",
+      "type": "Drama",
+      "text": "Your manager tells you a story: the great John McGraw once had the idea of keeping a very small person on the roster, to be used when the team needed a walk in the ninth inning. Twenty years later, an owner asks if you'd be willing to actually do it. You say yes. You tell him it's not even a new idea.",
+      "origin": "When Veeck approached Taylor about the Gaedel stunt, Taylor told him that John McGraw — under whom Taylor had played — had once had the same idea. Taylor had literally heard this idea from the greatest manager in baseball history decades earlier."
+    },
+    {
+      "title": "222 Wins, 393 Losses",
+      "type": "Drama",
+      "text": "You manage a team for four years. You lose 100 games twice. Your best players are sold to pay debts. Your owner uses you as a prop for publicity stunts. You are fired. Your career record: 222-393. You learned managing from John McGraw and Joe McCarthy — two of the greatest ever — and this is what the game gave you.",
+      "origin": "Taylor managed the Browns from 1948-51: 59-94, 53-101, 58-96, 52-102. He was fired after the Gaedel season. The Browns' talent was constantly stripped to pay debts."
+    },
+    {
+      "title": "Catching the One-Hitter",
+      "type": "Game Action",
+      "text": "Your regular catcher is unavailable, so you step in to catch for the team's ace. The ace throws a one-hitter, winning 1-0. Your rival — the regular catcher — tells you: 'I guess I showed you how to catch him.' Five days later, the ace throws a no-hitter with the regular catcher. Ribbing restored.",
+      "origin": "September 1925. Taylor caught Dazzy Vance's one-hitter (1-0 win). Rival catcher Hank DeBerry said Taylor didn't know how to catch Vance. Five days later, DeBerry caught Vance's no-hitter (10-1). Taylor admitted DeBerry earned the last word."
+    },
+    {
+      "title": "The 58-Year Man",
+      "type": "Action",
+      "text": "A man spends 58 years in professional baseball: player, coach, manager, scout. He sees the dead-ball era, the live ball, two World Wars, integration, expansion, and a midget at bat. He never makes the Hall of Fame. He never manages a winning team. But he's always there — the constant in a changing game.",
+      "origin": "Zack Taylor was in professional baseball from 1915 to 1973. 58 years. Player (1920-35), coach (1941-47, 1951-53), manager (1946, 1948-51), scout (various). He saw everything the game had to offer."
+    }
+  ],
+  "art_direction": {
+    "face": "Weathered, competent, unassuming. 5'11\" 175 lbs — lean, durable, built for squatting. Age 27 in 1925. Not handsome, not ugly — forgettable in the best sense. The face of a man who shows up every day for 58 years and never asks for credit. Quiet eyes that have seen everything. A slight sardonic twist to the mouth — he's in on the joke, even when the joke is on him.",
+    "attire": "Brooklyn Robins 1925 home whites for the player card. Catcher's gear — chest protector, shin guards, mask pushed up. The backup catcher's slightly rumpled look — he's been sitting on the bench and was just called into the game. Practical, functional, unflashy.",
+    "mood": "Quiet competence shading into weary humor. Taylor's card should feel like the most unassuming card in the collection — you'd almost skip past it. But the back of the card contains some of the most extraordinary stories in baseball history. The mood is: the unremarkable man in the most remarkable situations.",
+    "style": "Muted sepia, the least flashy card in the Bashers collection. No gold highlights, no dramatic lighting — just honest, workmanlike tones. The card should feel like a utility infielder's card that someone accidentally left in the pack. Then you flip it over and discover Eddie Gaedel, Grandstand Managers Night, Burleigh Grimes' spitball, and 58 years of baseball.",
+    "reference": "Think of the least valuable card in a pack that turns out to be the most interesting one. Zack Taylor is the card that nobody wants to pull but everybody wants to read. The front says 'backup catcher.' The back says 'the most eventful career in baseball history.'"
+  }
+}

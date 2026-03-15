@@ -1,0 +1,209 @@
+{
+  "card_type": "player",
+  "name": "Carl Reynolds",
+  "nickname": "The Texas Triple Machine",
+  "year": 1930,
+  "team": "Chicago White Sox",
+  "league": "American League",
+  "era": "1930s",
+  "ilb_team": "Crashers AL1930",
+  "position": "CF/RF",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'0\"",
+  "weight": "194 lbs",
+  "born": "February 1, 1903 — LaRue, Texas (attended Southwestern University in Georgetown, TX; multi-sport star — baseball, football, basketball, track; Phi Delta Theta fraternity)",
+  "died": "May 29, 1978 — Houston, Texas (age 75, extended illness; Houston Methodist Hospital)",
+  "hof": "Not inducted. .302 career BA. 1,357 hits. 80 HR. 699 RBI. 107 career triples. 6× .300 seasons. First player to hit 3 HR in the first 3 innings of a game (July 2, 1930, 2 inside-the-park). Texas Sports HOF 1971.",
+
+  "real_stats": {
+    "season": 1930,
+    "games": 138,
+    "at_bats": 563,
+    "batting_avg": ".359",
+    "hits": 202,
+    "doubles": 25,
+    "triples": 18,
+    "home_runs": 22,
+    "rbi": 104,
+    "runs": 103,
+    "stolen_bases": 16,
+    "walks": 36,
+    "strikeouts": 42,
+    "slg": ".584",
+    "obp": ".399",
+    "ops": ".983",
+    "ops_plus": 139,
+    "war": 5.7,
+    "career_avg": ".302",
+    "career_hr": 80,
+    "career_rbi": 699,
+    "career_hits": 1357,
+    "career_war": 20.3,
+    "career_triples": 107
+  },
+
+  "ilb_stats": {
+    "ovr": 6,
+    "con": 4,
+    "pow": 2,
+    "spd": 2,
+    "def": 1,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": ".359 BA in 1930. 202 hits. .302 career BA. 6× .300+ seasons. Only 42 K in 563 AB. Umpire George Moriarty: 'He steps to the plate with that I'm-here-to-knock-it-down-your-throat look at the pitchers.' A professional hitter who made consistent hard contact. Rating of 4.",
+    "pow": "22 HR in 1930. .584 SLG. 80 career HR. He was a line-drive hitter with gap power and enough pop for 20+ HR in the live-ball era. But not a true power hitter — most of his value came from doubles and triples, not bombs. SLG .584 (no bonus). Rating of 2.",
+    "spd": "16 SB in 1930. 18 triples (2nd in AL). 107 career triples. 2 inside-the-park HR on July 2, 1930 (at Yankee Stadium — those outfield gaps were massive). 'Fleet of foot for a heavy-set player.' 32 SB in minor league debut (led Lone Star League). Triples bonus → SPD 2.",
+    "def": ".970 career fielding percentage. 'Good throwing arm.' Played CF, RF, LF — versatile. An umpire called him 'an outfielder in the making who knows a lot about fly-catching.' Solid defender, especially in RF. Rating of 1.",
+    "clu": "1938 WS with Cubs: 0-for-12 with 1 BB in 13 PA. Cubs swept by Yankees in 4 games. His only postseason appearance was a complete bust. Rating of 0."
+  },
+
+  "personality": {
+    "leadership_style": "The Journeyman Professional. Reynolds wasn't a star. He wasn't a leader. He was a .300 hitter who showed up, put the bat on the ball, ran hard, and moved on when the team moved on. Five teams in 13 years — White Sox, Senators, Browns, Red Sox, Cubs. He never complained, never held out (except once, briefly), and never made headlines except when Bill Dickey broke his jaw.",
+    "temperament": "Quiet, steady, tough. College-educated (Southwestern University — unusual for the era). Multi-sport star. Football and basketball coach before baseball. The man took a punch from Bill Dickey that broke his jaw, missed 6 weeks, and came back without complaint. He wasn't flashy, wasn't loud, wasn't memorable — except that one game at Yankee Stadium when he hit 3 HR (2 inside-the-park) in the first 3 innings.",
+    "work_ethic": "Late bloomer who kept grinding. Didn't debut until age 24. Spent time in Class-D ball (Palestine Pals, Lone Star League) before the majors. After being traded 4 times and relegated to the minors, hit .355 at Minneapolis at age 34 and earned one more shot with the Cubs. After baseball: returned to his farm in Wharton, Texas. Served on boards of a local bank, hospital, and Wharton County Junior College. A responsible man.",
+    "lifestyle": "Texas farmer and community leader. Born in LaRue, Texas. Attended Southwestern University (Georgetown, TX). Phi Delta Theta. Football/basketball coach at Lon Morris College before turning pro. Married Ruth Dayvault in 1929. Bought a farm in Wharton, Texas in 1934 — spent the rest of his life there. Son Carl Jr. played at Rice and in the Cubs' minor league system. Texas Sports HOF 1971. Died at Houston Methodist Hospital at 75.",
+    "era_adaptability": "MODERATE. The .302 career BA and 107 triples translate well to any era — he'd be a solid 4th outfielder or platoon player. The speed-power combination (.359/22/18 3B in 1930) would profile as a .280/15 HR center fielder with gap power in modern baseball. The defense and versatility would be valued. But he'd never be a star — always a complementary piece.",
+    "clubhouse_impact": "STEADY AND PROFESSIONAL. Reynolds was the kind of player every team needs: the veteran .300 hitter who fills out the lineup without causing drama. College-educated, well-mannered, community-minded. He wasn't going to start a washboard band or break a bat over his knee. He was going to hit .300, play solid defense, and go home to his farm in Wharton.",
+    "dark_side": "The broken jaw and the fading career. Bill Dickey's punch on July 4, 1932 broke Reynolds' jaw and sidelined him for 6 weeks. He was never quite the same after 1930 — the .359 became .290, .279, .303, .270, .276. Traded 4 times in 4 years. By 1937 he was in the American Association. He came back for one more solid year (.302 with the Cubs in 1938), but the WS was 0-for-12. The farm in Wharton was waiting, and it was a better deal than another season of being the 4th-best outfielder on a bad team."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Three HR in Three Innings",
+      "desc": "July 2, 1930 at Yankee Stadium: 3 consecutive HR in the 1st, 2nd, and 3rd innings — 2 inside-the-park. First player in MLB history to do this. Once per career: 5% chance of a 3-HR game, with 50% of HR being inside-the-park."
+    },
+    {
+      "tag": "Dickey's Punch",
+      "desc": "July 4, 1932: Bill Dickey broke Reynolds' jaw with a punch at home plate. Dickey suspended 30 days, fined $1,000. When facing Dickey or Yankees: +1 aggression. If collision at plate occurs: 10% chance of broken jaw (6-week injury). Based on real incident."
+    },
+    {
+      "tag": "The Journeyman",
+      "desc": "5 teams in 13 years. Reynolds never stays long. After 3-4 seasons, he's traded. +1 adaptability to new teams (no adjustment period). -1 franchise loyalty."
+    },
+    {
+      "tag": "Triple Machine",
+      "desc": "18 triples in 1930 (2nd in AL). 107 career triples. 15% of doubles become triples. Reynolds runs harder than his body suggests — 'fleet of foot for a heavy-set player.'"
+    },
+    {
+      "tag": "College Man",
+      "desc": "Southwestern University graduate. Phi Delta Theta. Football/basketball coach before turning pro. +1 intelligence. Reynolds understands positioning, strategy, and fundamentals better than most."
+    },
+    {
+      "tag": "The Texas Farmer",
+      "desc": "Bought a farm in Wharton, TX in 1934. After baseball: bank board, hospital board, junior college board. +1 stability. Reynolds always has something to go back to. He plays baseball because he wants to, not because he has to."
+    },
+    {
+      "tag": "Minor League Resurrection",
+      "desc": "Relegated to American Association at age 34 — hit .355 with 218 hits. Earned callback to Cubs. If sent to minors: 40% chance of earning one more MLB season through sheer production."
+    },
+    {
+      "tag": "Year of the Hitter Context",
+      "desc": "1930 was the Year of the Hitter (AL BA: .288). Reynolds' .359 adjusts to 139 OPS+. Good, not great. Context matters — the raw numbers are inflated by the era."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "5 seasons with White Sox. .359/22/104 in 1930. His best years.",
+      "note_extra": "Source labeled 'Comiskey Park / Chicago' / affinity 'HIGH' — mapped to Media/Spotlight/HIGH as the home-franchise-stage domain. The White Sox produced Reynolds's best five seasons including the career peak of 1930 (.359/22/104). Chicago/Comiskey Park HIGH is a franchise-identity HIGH: Reynolds is an AL Crashers card and Comiskey Park is his primary baseball home."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "HIGH",
+      "note": "July 2, 1930: 3 HR in 3 innings (2 inside-the-park). The gaps were massive. Reynolds filled them.",
+      "note_extra": "Source labeled 'Yankee Stadium' / affinity 'HIGH' — first away-venue preferred_location at HIGH affinity in the set. All prior stadium/ballpark HIGHs have been the player's home park (Ebbets Field for Reese, Comiskey for Reynolds above, Exposition Park for Phillippe, Shibe Park for Plank, Sportsman's Park for Musial, Fenway for Pesky). Reynolds's Yankee Stadium HIGH is defined by a single game's extraordinary away production on July 2, 1930. The chemistry_trait 'Three HR in Three Innings' and action card 'Three Home Runs in Three Innings' expand this game into a universal playable event. The note reference to 'massive gaps' encodes the specific park feature (Yankee Stadium's cavernous outfield) as the material cause of the 2 inside-the-park HR."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Farm purchased 1934. Home for the rest of his life. Bank board. Hospital board. Community leader.",
+      "note_extra": "Source labeled 'Wharton, Texas' / affinity 'HIGH' — mapped to Community Events/HIGH as the hometown-origin and lifetime-community domain. Tenth hometown Community Events/HIGH in the set. Reynolds's is the most post-career-defined: bought the farm at age 31 during his playing years, then lived there for the rest of his life. The farm is simultaneously a lifestyle choice, a financial strategy, and a community anchor. The chemistry_trait 'The Texas Farmer' (+1 stability, 'He plays baseball because he wants to, not because he has to') encodes the farm as a psychological foundation. The personality.work_ethic note ('after baseball: returned to his farm in Wharton, Texas. Served on boards of a local bank, hospital, and Wharton County Junior College') confirms."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Multi-sport star. Phi Delta Theta. Football/basketball coach before baseball.",
+      "note_extra": "Source labeled 'Southwestern University / Georgetown, TX' / affinity 'MEDIUM' — second academic-institution preferred_location in the set (Reulbach was first with Notre Dame/UVM at HIGH). Reynolds's is MEDIUM rather than HIGH, reflecting a formative background rather than a sustained intellectual identity. The football/basketball coaching at Lon Morris College before turning pro makes this a transitional MEDIUM — the academic domain was a launching pad, not a permanent home. The chemistry_trait 'College Man' (+1 intelligence) is the trait-level expression."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "July 4, 1932: Dickey broke his jaw here. Collision at home plate. 6 weeks out.",
+      "note_extra": "Source labeled 'Home Plate (incoming)' / affinity 'LOW' — first game-action-location (body-part/field-position) preferred_location in the set. No prior card has a specific game-mechanics location (home plate, pitcher's mound, outfield wall) named as a preferred_location domain at any affinity, except the mound-related Practice Field entries. 'Home Plate (incoming)' specifies the direction of approach — the collision vector — making this the most physically precise LOW label in the set. Mapped to Hotel/Rest/LOW as a physical-danger/pain-associated domain. The chemistry_trait 'Dickey's Punch' (10% broken jaw chance) and action card 'Dickey Breaks His Jaw' are the cross-field expressions. The '(incoming)' parenthetical in the source label is preserved in the note for its mechanical specificity."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "LOW",
+      "note": "0-for-12 with 1 BB. Cubs swept by Yankees. The worst 13 PA of his career.",
+      "note_extra": "Source labeled '1938 World Series' / affinity 'LOW' — first temporal-event preferred_location in the set. No prior card has named a specific year and competition as a domain (prior stadium entries name places, prior postseason entries name the October/Postseason domain generically). '1938 World Series' is a unique space-time coordinate as a LOW. Mapped to Media/Spotlight/LOW as a catastrophic public-performance event — the biggest possible stage (WS) producing the worst possible result (0-for-12, sweep). The dark_side note ('the WS was 0-for-12. The farm in Wharton was waiting') and momentum.cold_triggers ('WS pressure — 0-for-12 in his only WS appearance') and action card '0-for-12 in the World Series' collectively make this the most cross-field-documented LOW in the set."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Power surges — when locked in, Reynolds hits everything: HR, 3B, 2B. The gaps disappear.",
+      "Inside-the-park HR energy — the speed activates. 2 in one game at Yankee Stadium.",
+      "New team energy — after being traded, Reynolds hits well immediately (+1 adaptability).",
+      "Minor league dominance — when sent down, he destroys the level and earns a callback."
+    ],
+    "cold_triggers": [
+      "Post-Dickey punch — after the broken jaw, the fearlessness at the plate diminishes.",
+      "Leg injuries — charley horse in 1931, fractured ankle in 1931. Injuries sap the speed.",
+      "WS pressure — 0-for-12 in his only WS appearance. The big stage froze him.",
+      "Career decline — after 1930, the .359 became a steady slide toward .270-.290."
+    ],
+    "pressure_response": "FAILED ON THE BIGGEST STAGE. 1938 WS: 0-for-12 with 1 BB in 13 PA. Cubs swept by Yankees. His only postseason appearance was a complete blank. In the regular season, Reynolds was a .302 career hitter who delivered consistently — but October was a different animal. The Texas farmer could grow anything on his land except a World Series hit."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Three Home Runs in Three Innings",
+      "type": "Game Action",
+      "text": "July 2, 1930. Yankee Stadium. Your outfielder hits a home run in the 1st inning — inside-the-park. He hits another in the 2nd — inside-the-park again. He hits a third in the 3rd — this one clears the fence. Three consecutive home runs in the first three innings of the game. It has never been done before in MLB history.",
+      "origin": "Reynolds hit 3 consecutive HR (2 inside-the-park) at Yankee Stadium on July 2, 1930 — the first player to do so in the first 3 innings."
+    },
+    {
+      "title": "Dickey Breaks His Jaw",
+      "type": "Drama",
+      "text": "July 4, 1932. Your outfielder crashes into the Yankees catcher at home plate. It's not clear he touched the plate. His teammates yell at him to go back. The catcher, thinking he's coming back for another collision, punches him in the face. Broken jaw. Six weeks out. The catcher is suspended 30 days and fined $1,000.",
+      "origin": "Bill Dickey punched Reynolds at home plate on July 4, 1932, breaking his jaw. Dickey was suspended 30 days, fined $1,000."
+    },
+    {
+      "title": "The Husband-and-Wife Scouting Team",
+      "type": "Action",
+      "text": "A husband-and-wife scouting duo comes to watch a college pitcher. Instead, they notice the opposing shortstop — he's hitting everything and running like a deer. They sign the shortstop instead. He becomes a .302 career hitter. The pitcher is forgotten.",
+      "origin": "Roy and Bessie Largent, a husband-wife scouting team for the White Sox, discovered Reynolds while scouting a Trinity College pitcher in 1926."
+    },
+    {
+      "title": "The Farm in Wharton",
+      "type": "Drama",
+      "text": "Your outfielder buys a farm in Wharton, Texas in 1934. He's 31 years old and already been traded 3 times. The farm will outlast every team he plays for. After baseball: bank board, hospital board, junior college board. The farm was always the plan. Baseball was the detour.",
+      "origin": "Reynolds purchased a farm in Wharton, TX in 1934 and spent the rest of his life there as a community leader."
+    },
+    {
+      "title": ".355 at Minneapolis",
+      "type": "Game Action",
+      "text": "Your outfielder is 34 years old. He's been traded to the minors. His career is over. But he hits .355 with 218 hits and 17 HR in the American Association. The Cubs buy his contract. He plays in the World Series. The journeyman refuses to stay down.",
+      "origin": "1937: Reynolds hit .355 with 218 hits at Minneapolis. Cubs purchased his contract. He played in the 1938 WS."
+    },
+    {
+      "title": "0-for-12 in the World Series",
+      "type": "Drama",
+      "text": "Your outfielder's only World Series. He's 35 years old. He's fought through 4 trades, a broken jaw, and a minor league demotion to get here. He goes 0-for-12. One walk. No hits. The Cubs are swept. The farm in Wharton waits.",
+      "origin": "1938 WS: Reynolds went 0-for-12 with 1 BB as the Cubs were swept by the Yankees."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Stocky, athletic, 6'0\" 194 lbs. Texas face — tanned, solid, no-nonsense. Not flashy, not intense. The face of a man who hits .300, runs out triples, takes a punch to the jaw, and goes home to his farm. Professional. Reliable. Forgettable — until you look at the stat line.",
+    "attire": "Chicago White Sox 1930 home whites. Comiskey Park or Yankee Stadium behind him. Mid-stride — running out an inside-the-park home run, legs churning, the ball bouncing in the gap. Or: the collision at home plate, Dickey's fist connecting, the jaw about to break.",
+    "mood": "Blue-collar baseball. No frills, no drama, no fame. Just a .302 hitter running hard and hitting gaps. The card should feel like a workday — honest, productive, and slightly invisible. This is the card of the 29th man on a 25-man roster — the guy who keeps the team afloat.",
+    "style": "Texas pastoral meets Chicago industrial. White Sox black and white, but with Texas brown and green underneath. Wharton County fields in the background. This is the card of a man who played baseball to buy a farm — and the farm was the better investment.",
+    "reference": "The card of the man who hit 3 HR in 3 innings (2 inside-the-park) and nobody remembers. The man whose jaw was broken by Bill Dickey. The man who hit .355 in the minors at 34 and earned one more shot. The man who went 0-for-12 in his only World Series. The man who went home to Wharton, Texas, and served on the bank board. Carl Reynolds — the most productive player you've never heard of."
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "card_type": "player",
+  "name": "Sherry Smith",
+  "nickname": "Mansfield's Famous Southpaw",
+  "year": 1916,
+  "team": "Brooklyn Robins",
+  "era": "1910s",
+  "ilb_team": "Muggers AL1910",
+  "position": "SP",
+  "bats": "R",
+  "throws": "L",
+  "height": "6'1\"",
+  "weight": "170 lbs",
+  "born": "February 18, 1891 — Monticello, GA",
+  "died": "September 12, 1949 — Augusta, GA (age 58)",
+  "hof": "Not inducted. Never received a vote. But his 0.89 career World Series ERA is 5th best in MLB history — ahead of Sandy Koufax and Christy Mathewson. Georgia Sports HOF 1980.",
+  "real_stats": {
+    "season": 1916,
+    "games": 36,
+    "wins": 14,
+    "losses": 10,
+    "era": "2.34",
+    "innings": "228.2",
+    "strikeouts": 68,
+    "walks": 55,
+    "complete_games": 17,
+    "shutouts": 2,
+    "whip": "1.14",
+    "war": 3.4,
+    "career_wins": 114,
+    "career_losses": 118,
+    "career_era": "3.32",
+    "career_strikeouts": 428,
+    "career_war": "~15",
+    "ws_era": "0.89",
+    "ws_ip": "30.1",
+    "ws_record": "1-2",
+    "ws_era_rank": "5th all-time (ahead of Koufax & Mathewson)",
+    "best_era_season": "1.85 (1920)"
+  },
+  "ilb_stats": {
+    "ovr": 6,
+    "stf": 3,
+    "ctl": 2,
+    "sta": 2,
+    "def": 1,
+    "clu": 3
+  },
+  "stat_justification": {
+    "stf": "2.34 ERA in 1916 — good for the Deadball Era but not dominant. Career-best 1.85 ERA in 1920. Career 3.32 ERA across 14 seasons — slightly above league average. K/9 of 2.68 in 1916 — extremely low even for the era. Smith was not a power pitcher. He was described as crafty and deceptive, relying on movement and location. Rating of 3 — solid, not spectacular.",
+    "ctl": "BB/9 of 2.16 in 1916. Led AL in lowest BB/9 (1.82) in 1925 at age 34 — his control improved with age. Career WHIP around 1.30. Good command without being elite. Rating of 2.",
+    "sta": "228.2 IP in 1916 (tier 2). In 1924, at age 33, he threw 247.2 IP with 20 complete games — more CG than wins (12). 'Strong as a horse and tireless as a Missouri mule.' He pitched semi-pro and managed minor leagues until age 41. Rating of 2.",
+    "def": "Led NL in pickoff moves in 1915 — his first full season. Completed 1923 and 1926 seasons without committing an error. Excellent fielding pitcher, rare for the era when pitchers were often poor fielders. Rating of 1.",
+    "clu": "This is the defining stat. 0.89 ERA in 30.1 World Series innings — the 5th-best career WS ERA in MLB history. He is ahead of Sandy Koufax (0.95), Christy Mathewson (0.97), and Eddie Plank (1.32). In 1916, he dueled Babe Ruth for 14 innings, losing 2-1 — one of the longest and greatest WS games ever played. In 1920, he threw a 3-hit CG win (Game 3, 2-1) and then lost 1-0 in Game 6 pitching brilliantly against Duster Mails. His 1-2 WS record is the most misleading stat in baseball history — he gave up 3 earned runs in 30 innings and won ONE game. Rating of 3 — MAXIMUM. The quietest October legend in the sport."
+  },
+  "personality": {
+    "leadership_style": "Silent professional. Smith never complained about becoming a reliever late in his Brooklyn tenure. Owner Ebbets said he 'was at all times willing to give his best services in any direction, no matter what was asked of him. That class of man is a credit to the sport and a credit to himself.' Smith led by selflessness — the antithesis of the ego-driven star.",
+    "temperament": "Uncomplaining, humble, Georgia gentleman. Smith grew up playing semi-pro ball in tiny Georgia towns — Elberton, Madison, Mansfield, Newborn. He worked his way through 10 professional teams before reaching Brooklyn. Nothing was given to him. He never demanded anything. When traded to Cleveland at 31, he gave them 5 more solid years without a word of protest.",
+    "work_ethic": "Indefatigable. 'Strong as a horse and tireless as a Missouri mule.' In 1924, at age 33, Smith completed 20 games while winning only 12 — he finished games he was losing because that's what you did. He pitched 14 innings against Babe Ruth in the World Series without being relieved. He pitched until age 36 in the majors and 41 in the minors. He simply would not stop.",
+    "lifestyle": "Small-town Georgia through and through. Born in Monticello, a state historical marker in Mansfield reads 'MANSFIELD'S FAMOUS SOUTHPAW.' Served in the U.S. Army during WWI, deployed to France. His greatest thrill: beating Walter Johnson on the day his son was born. After baseball, he coached the Macon Peaches. Died in Augusta, Georgia at 58 — too young for a man that durable.",
+    "era_adaptability": "MODERATE. Smith's regular-season numbers (114-118, 3.32 ERA) are unspectacular. His K/9 was dismal. But his postseason performance — 0.89 ERA, ahead of Koufax — suggests a pitcher who elevates beyond what stats can measure. In modern baseball, Smith would be the long reliever or swing man who becomes a postseason hero.",
+    "clubhouse_impact": "SELFLESS. Smith was the teammate nobody noticed until it mattered. He never demanded starts, never complained about bullpen duty, never sought credit. He was the quiet Georgian who pitched 14 innings against Ruth and then went back to his hotel room without a headline. In ILB: Smith provides +1 team harmony. Nobody resents Sherry Smith.",
+    "dark_side": "The cruelty of the record book. Smith's career record is 114-118 — sub-.500. His WS record is 1-2. On paper, he looks like a journeyman who lost more than he won. But his 0.89 WS ERA tells the real story: he was one of the greatest postseason pitchers who ever lived, undone by run support so anemic it bordered on absurd. He gave up 3 earned runs in 30 WS innings and won ONE game. In ILB: Smith carries 'The Invisible Legend' trait — his true value is hidden from all but the most careful observers."
+  },
+  "chemistry_traits": [
+    { "tag": "Point-Eight-Nine", "desc": "0.89 career WS ERA — 5th best in MLB history. When the postseason begins, Smith's STF increases from 3 to 5. He becomes unhittable on the biggest stage." },
+    { "tag": "Fourteen Innings with Ruth", "desc": "Smith dueled Babe Ruth for 14 innings in the 1916 WS. In any extra-inning game, Smith gains +1 STA and +1 STF per inning beyond the 9th. He does not tire." },
+    { "tag": "Georgia Gentleman", "desc": "Smith never complained, never demanded, never quit. +1 team harmony. No morale penalties from losing. He absorbs defeat with grace and comes back stronger." },
+    { "tag": "The Invisible Legend", "desc": "Smith's 114-118 career record hides a 0.89 WS ERA. In ILB, opponents underestimate him — his apparent OVR of 6 masks his true postseason OVR of 9." },
+    { "tag": "Missouri Mule", "desc": "'Strong as a horse, tireless as a Missouri mule.' Smith can pitch on short rest with no penalty. He completed 20 games in 1924 while winning only 12." },
+    { "tag": "Pickoff Artist", "desc": "Led NL in pickoffs in 1915. Smith's move to first is elite — opposing baserunners have -1 to stolen base attempts when he's on the mound." },
+    { "tag": "War Veteran", "desc": "Served in the U.S. Army during WWI, deployed to France. After returning, his 1920 season (1.85 ERA) was his best. Adversity strengthens him. +1 STF after any missed time." },
+    { "tag": "Papa's Greatest Day", "desc": "Beat Walter Johnson on the day his son was born. In any game with personal significance, Smith gains +2 to all stats. The man rises to the occasion." }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Monticello, Mansfield, Madison, Newborn, Elberton. Smith's world was the small towns of Georgia.",
+      "note_extra": "Source label: 'Georgia / Small Town'. Maps to Community Events (hometown / small-town venues). HIGH affinity. Multiple Georgia towns as a composite home location."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "His greatest success came in Brooklyn. Two pennants, two WS appearances, one silent film credit.",
+      "note_extra": "Source label: 'Ebbets Field'. Maps to Community Events (home ballpark). HIGH affinity."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MAXIMUM",
+      "note": "0.89 ERA. Ahead of Koufax. Ahead of Mathewson. The greatest postseason pitcher nobody remembers.",
+      "note_extra": "Source label: 'World Series'. Maps to Community Events (postseason ballpark events). MAXIMUM affinity. First MAXIMUM affinity on a WS location for a pitcher card. Cross-references CLU 3 and 'Point-Eight-Nine' chemistry trait. The highest WS affinity possible for a player with OVR 6."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Served in WWI. Came back and posted a 1.85 ERA. The war made him tougher.",
+      "note_extra": "Source label: 'Military Camp / France'. Maps to Community Events (military / service venue). MEDIUM affinity. Cross-references 'War Veteran' chemistry trait."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "MEDIUM",
+      "note": "Smith willingly moved to relief duty without complaint. 'That class of man is a credit to the sport.'",
+      "note_extra": "Source label: 'Bullpen'. Maps to Practice Field (bullpen / pitching craft domain). MEDIUM affinity. First bullpen-specific Practice Field entry in the set."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Managed the Cedartown Braves, Cedartown Sea Cows, Macon Peaches. Smith never left baseball.",
+      "note_extra": "Source label: 'Minor League Towns'. Maps to Community Events (minor league / post-career venues). MEDIUM affinity. Similar to Selee's minor league scouting location."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "October — Smith's 0.89 WS ERA speaks for itself. When the stakes rise, so does he.",
+      "Dueling elite pitchers — facing Ruth, Mails, Johnson. Smith elevated against the best arms in baseball.",
+      "Run support — on the rare occasions Brooklyn scored, Smith was brilliant. He just needed 2 runs.",
+      "After adversity — returning from WWI, his 1920 was his best season. Hardship focused him."
+    ],
+    "cold_triggers": [
+      "Lack of run support — Smith's teams scored almost nothing when he pitched. His WS losses were 2-1 and 1-0.",
+      "Late career aging — his final season (1927) was 1-4 with a 5.45 ERA. The body gave out.",
+      "Anonymity — Smith never received recognition, which meant no advocacy for better situations or teams.",
+      "Bad teams — his time in Pittsburgh (4-11) showed that Smith needed a competent team around him."
+    ],
+    "pressure_response": "SILENTLY MAGNIFICENT. Sherry Smith is the quiet version of October dominance. He doesn't throw 19 consecutive wins like Marquard or burn out like Wood. He just takes the ball, pitches 14 innings against the greatest player alive, gives up 1 run, and loses. Then he comes back four years later and does it again. His WS ERA of 0.89 — better than Koufax, better than Mathewson — is the most overlooked statistic in baseball history. In ILB, Smith is the sleeper card. He looks like a 6. He plays like a 9 in October. The opponent who dismisses him has already lost."
+  },
+  "action_card_seeds": [
+    {
+      "title": "Fourteen Innings with the Babe",
+      "type": "Game Action",
+      "text": "Game 2 of the World Series. Your left-hander and their left-hander — a 21-year-old named Babe Ruth — both refuse to leave the mound. Nine innings pass. Ten. Eleven. Twelve. Thirteen. In the 14th, they finally score. You lose 2-1. Your pitcher threw 14 innings of one-run ball in the World Series and lost. It is one of the greatest games ever played.",
+      "origin": "1916 WS Game 2: Smith vs Ruth, 14 innings. Both went the distance. Ruth won 2-1. It remained one of the longest WS games for decades. Smith's line: 13.1 IP, 7 H, 2 R, 1 ER."
+    },
+    {
+      "title": "Point-Eight-Nine",
+      "type": "Action",
+      "text": "Over 30 World Series innings, your pitcher has allowed 3 earned runs. His WS ERA is 0.89 — the 5th best in the history of the sport. He is ahead of Sandy Koufax. He is ahead of Christy Mathewson. His career record is 114-118. Nobody will ever know his name.",
+      "origin": "Smith's 0.89 career WS ERA: 30.1 IP, 3 ER. Ranks 5th all-time, ahead of Koufax (0.95) and Mathewson (0.97). Career record: 114-118."
+    },
+    {
+      "title": "One-Nothing, Again",
+      "type": "Game Action",
+      "text": "Game 6 of the World Series. Your left-hander pitches 8 innings, allows 7 hits and 1 earned run. His team manages 3 hits. He loses 1-0. A sportswriter calls it 'the best pitching by any Brooklyn pitcher in the Series.' His WS record falls to 1-2. The numbers will never tell the truth.",
+      "origin": "1920 WS Game 6: Smith lost 1-0 to Duster Mails. 8 IP, 7 H, 1 ER. 'He delivered the best brand of pitching of all of the Brooklyn pitchers during the series.'"
+    },
+    {
+      "title": "More Complete Games Than Wins",
+      "type": "Action",
+      "text": "Your 33-year-old workhorse starts 27 games and completes 20 of them. He wins only 12. He finishes games he is losing because that is what a pitcher does. He throws 247 innings and faces 1,050 batters. 'Strong as a horse and tireless as a Missouri mule.'",
+      "origin": "Smith's 1924 Cleveland season: 27 GS, 20 CG, 12-14, 247.2 IP. He completed more games than he won — a testament to durability and duty."
+    },
+    {
+      "title": "Papa's Greatest Day",
+      "type": "Drama",
+      "text": "Your pitcher beats Walter Johnson in Washington on the same day his son is born back home. He later says it was the greatest thrill of his 15 years in baseball. Not the World Series. Not the 14-inning duel with Ruth. The day he became a father and beat the best pitcher alive.",
+      "origin": "August 9, 1925: Smith defeated the Senators on the day his son was born. He called it his biggest thrill in 15 years of professional baseball."
+    },
+    {
+      "title": "A Credit to the Sport",
+      "type": "Drama",
+      "text": "Your pitcher is claimed off waivers after 7 years with the team. The owner writes: 'He has been a man who played to win, and was at all times willing to give his best services. That class of man is a credit to the sport and a credit to himself.' It is the greatest compliment a journeyman can receive.",
+      "origin": "Charles Ebbets's farewell when Smith was claimed by Cleveland in 1922. Ebbets was genuinely moved by Smith's selflessness."
+    },
+    {
+      "title": "Mansfield's Famous Southpaw",
+      "type": "Action",
+      "text": "Decades after your pitcher's death, a state historical marker is erected in his tiny hometown. It reads: MANSFIELD'S FAMOUS SOUTHPAW. The marker stands on a quiet Georgia road. Most people who pass it have no idea that the man it honors had a better World Series ERA than Sandy Koufax.",
+      "origin": "A Georgia historical marker was erected in Mansfield in 1994 honoring Smith. He was posthumously inducted into the Georgia Sports HOF in 1980."
+    },
+    {
+      "title": "Ten Teams Before Brooklyn",
+      "type": "Action",
+      "text": "Before reaching the major leagues, your pitcher played for semi-pro teams in Elberton, Madison, Mansfield, Newborn, Greenwood, Hot Springs, Grand Rapids, Columbus, Pittsburgh, and finally Brooklyn. Ten stops on the way up. Nothing was given to him. Everything was earned.",
+      "origin": "Smith played for at least 10 professional and semi-pro teams before establishing himself with the Brooklyn Robins in 1915."
+    }
+  ],
+  "art_direction": {
+    "face": "Lean 6'1\" 170 lbs — tall and wiry, the classic southpaw build. Weathered face with sun-lines, the complexion of a man who grew up in rural Georgia. Calm, serious eyes with no bravado. The look of a man who has pitched 14 innings against Babe Ruth and doesn't think it's worth bragging about.",
+    "attire": "Brooklyn Robins 1916 road grays — the pennant year. Classic Deadball Era pitching pose: tall lefty in mid-delivery, the deceptive arm angle that kept hitters off balance despite modest velocity. Or: standing at ease on the mound, ball behind his back, studying the batter with the patience of a man from small-town Georgia.",
+    "mood": "Quiet excellence. This card should radiate the serenity of a man who knows his own worth even if no one else does. No drama, no tragedy, no spectacle — just a Georgian southpaw who pitched better than Koufax in October and went home without a headline. The most peaceful card in the Muggers set.",
+    "style": "Sepia-toned with warm amber-orange undertones — Georgia clay, peach light, Southern autumn. The quietest palette in the set: less gold, more earth. The card should feel handmade, like a photograph found in a Georgia attic, the kind of thing a grandson finds and doesn't realize what he's holding.",
+    "reference": "If Wood is lightning, Chapman is a candle, Chase is a stolen jewel, Kauff is a firecracker, Marquard is a spotlight, Vaughn is a cathedral bell, and Gardner is a hearthfire, then Sherry Smith is a lantern in a window. Small, steady, warm, visible only to those who are looking. The ILB Smith card should feel like the deepest cut on a great album — the track nobody talks about that turns out to be the best one."
+  }
+}

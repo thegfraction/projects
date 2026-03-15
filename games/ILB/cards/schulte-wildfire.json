@@ -1,0 +1,173 @@
+{
+  "card_type": "player",
+  "name": "Wildfire Schulte",
+  "nickname": "Wildfire",
+  "year": 1911,
+  "team": "Chicago Cubs",
+  "era": "1910s",
+  "ilb_team": "Muggers 1910",
+  "position": "RF",
+  "bats": "L",
+  "throws": "L",
+  "height": "5'11\"",
+  "weight": "170 lbs",
+  "born": "September 17, 1882 — Cochecton, NY",
+  "died": "October 2, 1949 — Oakland, CA (age 67)",
+  "player_image": "https://raw.githubusercontent.com/thegfraction/projects/b9a611655116268b1910dda04fcb97fd0d03b2d1/games/ILB/images/schulte-wildfire.png",
+  "real_stats": {
+    "season": 1911,
+    "batting_avg": ".300",
+    "home_runs": 21,
+    "rbi": 107,
+    "slg": ".534",
+    "doubles": 30,
+    "triples": 21,
+    "stolen_bases": 23,
+    "total_bases": 308,
+    "career_avg": ".270",
+    "career_hits": 1766,
+    "career_hr": 92,
+    "career_sb": 233,
+    "ws_batting_avg": ".321",
+    "ws_titles": 2,
+    "steals_of_home": 22,
+    "mvp": "1911 (First NL Chalmers Award)"
+  },
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 3,
+    "pow": 3,
+    "spd": 2,
+    "def": 1,
+    "clu": 2
+  },
+  "stat_justification": {
+    "con": ".300 BA in 1911 → tier 3 (.300-.319). Career .270 — the .300 was a career high. Usually a .270-.280 hitter. Not an elite contact man, but solid with a thin-handled 40-oz bat that he broke 50 times a season. Rating of 3.",
+    "pow": "21 HR in 1911 → led NL. .534 SLG. 4 grand slams in one season (first ever). In dead-ball context, 21 HR was enormous. 2× NL HR champion (1910-11). But career only 92 HR, and output dropped sharply after 1911 (never exceeded 12 again). One towering peak, not sustained. Rating of 3.",
+    "spd": "23 SB in 1911. 233 career SB. 21 triples in 1911. 22 STEALS OF HOME in career — among the most daring baserunners in dead-ball history. Consistent speed. But not elite-elite (not Speaker or Cobb level). Rating of 2.",
+    "def": "Solid RF/LF. No standout defensive reputation — overshadowed by Tinker-Evers-Chance infield. Played outfield competently for 15 years but no assists records or defensive awards. Rating of 1.",
+    "clu": ".321 WS BA across 21 games — excellent. 4× WS participant (1906-08, 1910). 2× WS champion (1907, 1908). .389 in 1908 WS (outperformed Cobb). 13-game WS hitting streak (record). PS BA >.300 plus WS champion bonus. Rating of 2."
+  },
+  "personality": {
+    "leadership_style": "THE ECCENTRIC CORE. Schulte was the wild heart of the Tinker-to-Evers-to-Chance Cubs — the position player who brought personality and chaos to a team famous for its infield precision. He outlasted all of them. When Tinker, Evers, and Chance were gone, Wildfire was still in right field, the last ember of the dynasty.",
+    "temperament": "SUPERSTITIOUS, ECCENTRIC, JOYFUL. Joe Tinker: 'I doubt whether a quainter or more original character ever existed in the National Pastime.' Schulte combed city streets looking for hairpins before games — bigger hairpins predicted bigger hits, bent ones indicated hit direction. Used thin-handled 40-oz bats called 'switches,' broke about 50 per season. Named his racehorse after a Lillian Russell play, then got named after the horse. Drinking buddy of Ring Lardner.",
+    "work_ethic": "RELENTLESS AND DARING. Played all 154 games in 1911 while winning MVP, hitting for the cycle, joining the 20-20-20-20 club, hitting 4 grand slams, and getting married. 22 career steals of home — extraordinary aggression. The thin-handled bat was a choice: more bat speed, less durability, more contact quality. He chose to break 50 bats a year because it worked.",
+    "lifestyle": "RING LARDNER'S MUSE. Schulte and Lardner closed many Chicago bars together. Lardner used Schulte as a character in the 'You Know Me, Al' stories — the most famous baseball fiction of the era. Owned racehorses, including trotters he raced on ice in upstate New York. Married Mabel Kirby during the 1911 season. Settled in Oakland, CA. Died three days before the 1949 World Series.",
+    "clubhouse_impact": "THE SPARK. +2 morale (eccentricities entertain). +1 aggression (22 steals of home inspire reckless baserunning). +1 literary legacy (Ring Lardner immortalizes the team). -1 predictability (hairpin-dependent performance). The most FUN player on the Muggers.",
+    "dark_side": "One peak. The 1911 season is all-time great — first MVP, first 20-20-20-20, first 4 grand slams. But Schulte was a .270 hitter before and after. Never hit more than 12 HR again. Career WAR is modest (~20). Not HOF material by accumulation. The 1911 season is a bonfire — spectacular, brief. Wildfire indeed: the name predicted the career arc."
+  },
+  "chemistry_traits": [
+    { "tag": "20-20-20-20", "desc": "First player EVER: 30 2B, 21 3B, 21 HR, 23 SB in 1911. Only Mays (1957), Rollins, and Granderson have joined. +3 versatility. The most COMPLETE offensive season by any Mugger not named Speaker." },
+    { "tag": "The Hairpin Prophecy", "desc": "Searched streets for hairpins before games. Bigger pin = bigger hit. Bent pin = predicted direction. 30% chance pregame of finding one: if found, +1 CON that game. If not, -1 confidence." },
+    { "tag": "Wildfire", "desc": "Named after a racehorse, named after a Lillian Russell play. +1 personality. +1 nickname quality. Brilliant, brief, impossible to forget." },
+    { "tag": "The Thin-Handled Bat", "desc": "40-oz 'switches' with thin handles. Broke ~50/season. +1 bat speed. -1 bat durability. 10% chance per game of bat breaking at critical moment." },
+    { "tag": "Twenty-Two Steals of Home", "desc": "22 career steals of home. 15% chance per game of attempting. When successful: +2 aggression, opponent morale -2." },
+    { "tag": "Tinker to Evers to Chance", "desc": "Last surviving member of the Cubs dynasty (1906-10). 4 pennants, 2 titles. With dynasty-era teammates: +2 chemistry. When they're gone: +1 loneliness." },
+    { "tag": "Ring Lardner's Character", "desc": "Drinking buddy of Ring Lardner. Appeared in 'You Know Me, Al' stories. +2 cultural legacy. The only Mugger who's also a fictional character." },
+    { "tag": "First MVP", "desc": "Won the inaugural NL Chalmers Award (1911). Prize: a Chalmers automobile. +2 historical significance." }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "1904-16. Cubs dynasty. 4 pennants, 2 titles.",
+      "note_extra": "Source label: 'West Side Grounds / Chicago'. Maps to Community Events (home ballpark). HIGH affinity. The Cubs' pre-Wrigley home during the Tinker-Evers-Chance dynasty."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Primary position during peak years. Also played LF.",
+      "note_extra": "Source label: 'Right Field'. Maps to Practice Field (fielding position / craft domain). HIGH affinity. Standard outfield position mapping."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": ".321 WS BA. 13-game streak. .389 in 1908. 2× champion.",
+      "note_extra": "Source label: 'The World Series'. Maps to Community Events (postseason ballpark events). HIGH affinity. Standard WS mapping."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "22 steals of home. 233 career SB. Most dangerous baserunner on Muggers.",
+      "note_extra": "Source label: 'The Basepaths'. Maps to Practice Field (baserunning / craft domain). HIGH affinity. First 'basepaths' entry in the set — a new Practice Field subdomain representing baserunning as a craft skill distinct from batting or fielding."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Searching for hairpins. Bigger pin = bigger hit.",
+      "note_extra": "Source label: 'Chicago Streets (Pre-Game)'. Maps to Community Events (urban pre-game ritual). MEDIUM affinity. First superstition-based location in the set — the physical location of a pre-game ritual rather than a baseball venue. Cross-references 'The Hairpin Prophecy' chemistry trait."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "The hairpin found — when Schulte finds a large hairpin before the game, +1 CON for the day",
+      "Aggressive baserunning — when stealing, taking extra bases, entire team's aggression rises",
+      "1911-style explosion — rare peak: power, speed, and contact simultaneously; 20-20-20-20 activated",
+      "World Series hitting — .321 career WS BA; big stage brings out his best"
+    ],
+    "cold_triggers": [
+      "No hairpin found — confidence drops; -1 CON; superstition works both ways",
+      "Broken bat at wrong time — thin handles snap at critical moments; -1 POW",
+      "Post-peak decline — after 1911, never exceeded 12 HR; fire burns hot and brief",
+      "Dynasty ending — as teammates leave, performance drops; loneliness of the last one"
+    ],
+    "pressure_response": "EXCELLENT in October. .321 career WS BA across 21 games. .389 in 1908 WS (outperformed Cobb). 13-game WS hitting streak. 2× champion. Hit in all but 2 of 21 career WS games. In the regular season a .270 hitter; in October a .321 hitter. The hairpins worked best when stakes were highest. CLU 2 is well-earned."
+  },
+  "action_card_seeds": [
+    {
+      "title": "The 20-20-20-20",
+      "type": "Game Action",
+      "text": "Your right fielder finishes with 30 doubles, 21 triples, 21 home runs, 23 stolen bases. No one has ever done this. The next will be Willie Mays, 46 years from now. +4 versatility. +3 all-time. +1 Chalmers automobile.",
+      "origin": "1911: First player in the 20-20-20-20 club. Not matched until Mays 1957."
+    },
+    {
+      "title": "The Hairpin",
+      "type": "Drama",
+      "text": "Your right fielder is on his hands and knees on a Chicago sidewalk. He finds a large, straight hairpin. He smiles. Goes 3-for-4 with a homer. The hairpin predicted it. +1 CON. +1 superstition. The biggest pins yield the biggest hits.",
+      "origin": "Schulte searched streets for hairpins, believing bigger pins predicted bigger hits."
+    },
+    {
+      "title": "Four Grand Slams",
+      "type": "Game Action",
+      "text": "Fourth grand slam of the season. No one has ever hit four in one year. Bases loaded, bases emptied. +3 POW. +2 situational. Four times full. Four times cleared.",
+      "origin": "1911: 4 grand slams — first player to do so in a single season."
+    },
+    {
+      "title": "Steal of Home",
+      "type": "Game Action",
+      "text": "Third base. Your runner breaks. The pitcher winds up. The catcher lunges. Safe. Stolen home for the 22nd time. +2 SPD. +2 aggression. -1 opponent composure.",
+      "origin": "22 career steals of home — among the most in dead-ball history."
+    },
+    {
+      "title": "Wildfire",
+      "type": "Drama",
+      "text": "A Lillian Russell play. A racehorse. A sportswriter's column. A man. The name travels from stage to stable to newspaper to legend. +2 nickname. +1 origin story. Named after a horse named after a play named after a fire.",
+      "origin": "Named after his racehorse, named after a Lillian Russell play."
+    },
+    {
+      "title": "The Last Cub Standing",
+      "type": "Drama",
+      "text": "Tinker: traded. Evers: traded. Chance: gone. Brown: gone. Your right fielder is the last. Everyone else is memory. He still takes his position. +1 loyalty. +1 loneliness. The fire still burns, but the others have left.",
+      "origin": "Schulte outlasted the entire Tinker-Evers-Chance dynasty, traded mid-1916 as the last link."
+    },
+    {
+      "title": "Ring Lardner's Friend",
+      "type": "Drama",
+      "text": "Your right fielder closes another Chicago bar with a sportswriter named Ring. The writer puts your player in a story. The story becomes the most famous baseball fiction ever. +2 cultural legacy. Bars close; stories don't.",
+      "origin": "Drinking buddy of Ring Lardner. Appeared in 'You Know Me, Al' stories."
+    },
+    {
+      "title": "Fifty Broken Bats",
+      "type": "Game Action",
+      "text": "Thin-handled bat snaps on contact — the 50th this season. Ball dribbles foul. He calls for another switch. Same thin handle. Same 40 ounces. He'll break this one too. -1 bat. +1 bat speed.",
+      "origin": "Used 40-oz thin-handled 'switches,' breaking about 50 per season."
+    }
+  ],
+  "art_direction": {
+    "face": "ECCENTRIC, LEAN, ALERT, AMUSED. 5'11\" 170 lbs — lean and wiry, not bulky. ANIMATED and SLIGHTLY WILD — searches for hairpins, breaks 50 bats, drinks with Ring Lardner, steals home 22 times. Sharp features, alert eyes, hint of a grin. German-American features. MISCHIEF and FOCUS combined.",
+    "attire": "Chicago Cubs 1911 whites — 'C' insignia, flat cap. Left-handed swing from a thin-handled bat — compact, whippy stroke emphasizing BAT SPEED over raw power. Or: sliding into home, stealing it for the 22nd time.",
+    "mood": "ELECTRIC AND ECCENTRIC. WILDFIRE — bright, unpredictable, fast-moving, brief. CRACKLING ENERGY of a man who did everything at once in 1911 and then never did it again.",
+    "style": "Sepia with WILDFIRE ORANGE and CHICAGO NIGHT BLUE — orange of flames, deep blue of a Chicago evening. Brighter, hotter, more volatile than Cravath's sunbaked red. The palette of a bonfire: spectacular while it burns.",
+    "reference": "The lean eccentric face. The thin-handled bat. A hairpin on the ground. The baserunner stealing home. ALIVE and UNPREDICTABLE — the most animated card in the Muggers collection."
+  }
+}
