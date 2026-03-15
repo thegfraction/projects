@@ -1,0 +1,207 @@
+{
+  "card_type": "player",
+  "name": "Minnie Miñoso",
+  "nickname": "The Cuban Comet / Mr. White Sox",
+  "year": 1954,
+  "team": "Chicago White Sox",
+  "league": "American League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "LF",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'10\"",
+  "weight": "175 lbs",
+  "born": "November 29, 1924 — El Perico, Cuba",
+  "died": "March 1, 2015 — Chicago, IL",
+  "hof": "Class of 2022 (Golden Days Era Committee, 14/16 votes)",
+
+  "real_stats": {
+    "season": 1954,
+    "games": 153,
+    "at_bats": 568,
+    "hits": 182,
+    "doubles": 29,
+    "triples": 18,
+    "home_runs": 19,
+    "rbi": 116,
+    "stolen_bases": 18,
+    "runs": 119,
+    "batting_avg": ".320",
+    "obp": ".411",
+    "slg": ".535",
+    "ops": ".946",
+    "ops_plus": 160,
+    "war": 8.3,
+    "all_star": 9,
+    "gold_gloves": 3,
+    "awards": "Led AL in WAR among position players (8.3) in 1954. Led AL in triples (18) and total bases (304) in 1954. AL All-Star 1951, 1952, 1953, 1954, 1957, 1959, 1960. Three Gold Gloves (1957, 1959, 1960). Led AL in SB three consecutive years (1951-1953: 31, 22, 25). Led AL in HBP 10 times (career ML record 192 HBP). Sporting News Rookie of the Year 1951. WAR ranked second in the AL from 1951-1963 behind only Mickey Mantle (52.1 to Mantle's total). 4x top-10 AL MVP finisher.",
+    "negro_leagues": "New York Cubans (1946-1948). Negro National League career: .309 BA (1946), .294 (1947). East-West All-Star Game starter 1947 and 1948. Part of the 1947 Negro National League pennant and Negro World Series championship team (defeated Cleveland Buckeyes). The championship represents Miñoso's only title in any professional league.",
+    "world_series": "None as player in the major leagues. The 1959 AL pennant was won by the White Sox using Early Wynn and Al Smith — players acquired in exchange for Miñoso. He was the price of the pennant and watched it from Cleveland.",
+    "career_avg": ".299",
+    "career_hits": 2113,
+    "career_hr": 195,
+    "career_war": 53.8,
+    "career_rbi": 1093,
+    "career_notes": "First dark-skinned Latino player in AL/NL history (April 19, 1949). First Black player in Chicago White Sox history (May 1, 1951). Career .299/.389/.459, 130 OPS+. Led AL in SB three times. Led AL in triples three times. Three Gold Gloves. Career 192 HBP (then-ML record). Appeared in games in five different major league decades (1951-1980). Seven professional decades including Northern League appearances in 1993 and 2003. Traded to Cleveland in December 1957 in exchange for Wynn and Smith — White Sox won 1959 pennant without him. HOF inducted 2022 (postmortem). White Sox retired number 9 in 1983. Statue unveiled at U.S. Cellular Field, 2004. Elementary school in Chicago renamed Minnie Miñoso Academy, 2023. Born Saturnino Orestes Arrieta Armas; legally changed name to Orestes Minoso upon becoming US citizen in the 1980s."
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "con": 5,
+    "pow": 2,
+    "spd": 2,
+    "def": 3,
+    "clu": 1
+  },
+
+  "stat_justification": {
+    "con": ".320 BA (1954) is in the .300-.329 = 4 band. OPS+ 160 clears the ≥130 bonus → CON 5. Career .299/.389/.459 with 130 OPS+. In five full Chicago seasons (1951-1957) never hit below .295. CON 5 reflects the 1954 peak year. The plate-crowding style (ML record HBP) is also encoded here — Miñoso's approach to the contact zone was to occupy as much of it as possible.",
+    "pow": "19 HR (1954). SLG .535 ≥ .500 → +1. 10-19 HR = 1 band + SLG bonus = POW 2. In 1954 he joined Mickey Mantle and Mickey Vernon as the only AL batters to reach double figures in all three extra-base categories (doubles, triples, HR). The 18 triples are the power dimension that HR alone doesn't capture — gap power, not fence power. POW 2 reflects the complete extra-base profile of the 1954 season.",
+    "spd": "18 SB (1954). 16-30 range = SPD 2. Led AL in SB 1951-1953 (31, 22, 25). Satchel Paige: 'the fastest.' Mickey Mantle's nickname 'Commerce Comet' was a play on Miñoso's 'Cuban Comet' — the speed was so legendary that it inspired Mantle's identity. SPD 2 reflects the 1954 season accurately; the 1951-1953 speed was arguably SPD 3 territory by reputation.",
+    "def": "Three Gold Gloves (1957, 1959, 1960) — all won in his 30s, after the card year. Pre-GG era for 1954. Historical reputation: elite left fielder with exceptional range and arm. The fractured skull in 1962 came from diving into the Sportsman's Park wall in pursuit of a fly ball — the defensive recklessness is encoded in the medical history. Manager Paul Richards walked the White Sox off the field when Miñoso was excluded from an exhibition game in New Orleans — his value to the team was non-negotiable. DEF 3 — first Black Latino position player at DEF 3 in the set.",
+    "clu": "No major league postseason. The 1959 White Sox pennant was won after Miñoso was traded away to acquire Wynn and Smith. The 1947 Negro World Series championship with the New York Cubans is the only title of his professional career — encoded via the negro_leagues field and CLU 1. CLU 1 acknowledges the Negro Leagues championship and the consistent competitive presence without the major league postseason production that CLU 2 or 3 requires."
+  },
+
+  "personality": {
+    "leadership_style": "Joyful authority. Miñoso led through performance and presence — the kind of player whose energy changed the atmosphere of a stadium when he walked onto the field. When he was traded, White Sox attendance dropped. When he was reacquired, it spiked. His off-field identity — the Cuban warmth, the accessibility, the 'Mr. White Sox' persona maintained until his death at 90 — was an extension of the on-field presence. He was the first of something, and he carried that responsibility with grace and joy rather than burden.",
+    "temperament": "Serious and businesslike in Cuba (where fans wanted more showmanship), 'colorful' in America (where the press wanted exotic). The actual Miñoso was a disciplined professional who organized youth teams as a preteen and fined his players 50 centavos when they missed signs. The joy was genuine but the discipline underneath it was the more fundamental quality.",
+    "work_ethic": "Sugar cane fields in the morning, baseball in the afternoon, every day of his childhood. First uniform made from flour sacks. First professional paycheck: $2.00 per game for the Ambrosia Candy team of Havana. Turned down $30,000 from the outlaw Mexican League with $50 in his pocket. The work ethic was not constructed — it was the only mode he knew.",
+    "lifestyle": "El Perico, Cuba → Havana → New York (Negro Leagues) → Cleveland → Chicago → Chicago forever. 'Mr. White Sox' was not a marketing slogan; it was his permanent address. He represented the White Sox until the day he died — found dead in his car returning home from a birthday party at 90. Number 9 retired. Statue at the ballpark. Elementary school named after him in 2023 in Bridgeport. He lived in the city that claimed him and he claimed back.",
+    "era_adaptability": "MAXIMUM. The .299 career batting average, the speed, the three Gold Gloves, and the plate discipline that produced a career .389 OBP adapt to every era. The HBP record (192) is partly a product of the era's willingness to throw inside — in the modern game, pitchers are less willing. But the speed and the contact approach translate cleanly.",
+    "dark_side": "The years the AL wasn't ready for him. Born between 1922 and 1925 — age disputed even by himself. By the time he reached the majors full-time (1951, at age approximately 26-28), he had lost his best years to the color line. The 'white lie' about his age for his Cuban army papers adds another layer of uncertainty to his already-truncated record. The 1959 championship won without him — traded to get the pitcher who would win the Cy Young and clinch the pennant. And the HOF: three times voted on by the Golden Days committee (2011, 2014, 2021) before finally inducted in 2021, seven years after his death. He never got to walk to that podium."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "First",
+      "desc": "First dark-skinned Latino in AL/NL history. First Black White Sox player. In ILB, Miñoso's presence on any historically segregated team generates a legacy bonus: all subsequent Latino and Black players on the same franchise receive +1 morale, permanently. The trail is the gift."
+    },
+    {
+      "tag": "Cuban Comet",
+      "desc": "Satchel Paige called him 'the fastest.' Mantle's nickname was coined in his image. In ILB, when Miñoso reaches base, the base-stealing attempt succeeds on a roll of 1-4 (rather than standard 1-3). The speed is distinctive."
+    },
+    {
+      "tag": "The Price of the Pennant",
+      "desc": "Traded to Cleveland in December 1957. White Sox received Early Wynn and Al Smith. White Sox won the 1959 AL pennant. In ILB, when Miñoso is on the Dreamers 1950 and Wynn is also on the Dreamers 1950, a 'Price of the Pennant' event triggers: one player was gained at the cost of the other's championship window. The irony is structural."
+    },
+    {
+      "tag": "HBP Champion",
+      "desc": "ML record 192 career HBP. Led AL 10 times. In ILB, Miñoso's crowding-the-plate style: once per game, after a called strike on the outer third, Miñoso may attempt to get hit by the next pitch (roll). The plate belongs to him too."
+    },
+    {
+      "tag": "Go-Go Sox",
+      "desc": "Miñoso was the engine of the 'Go-Go White Sox' speed game. When Nellie Fox is in the same lineup, +1 SPD for both players — the heart of the Go-Go offense. When fans yelled 'Go! Go! Go!' as Miñoso reached base, they meant it."
+    },
+    {
+      "tag": "Martin Dihigo's Student",
+      "desc": "Miñoso saw Dihigo play at 14 and modeled himself after the multitalented superstar. In ILB, Miñoso may play any outfield position at full DEF 3 — the versatility learned from watching the man who played every position. The Dihigo influence is encoded as positional flexibility."
+    },
+    {
+      "tag": "Seven Decades",
+      "desc": "Professional appearances in seven different decades (1940s through 2003). In ILB, Miñoso's card never retires — he may be activated for a symbolic appearance in any decade of the ILB timeline. The appearance provides no competitive stats. It provides presence."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Community Events",
+      "affinity": "SACRED",
+      "note": "Comiskey Park / U.S. Cellular Field / Guaranteed Rate Field. Number 9 retired 1983. Statue unveiled 2004. Minnie Miñoso Academy named 2023. Mr. White Sox — a city's permanent dedication.",
+      "note_extra": "Source labeled 'Comiskey / U.S. Cellular / Statue / No. 9 / Bridgeport Academy' / affinity 'SACRED' — twelfth SACRED in the set. Miñoso's is the most geographically layered SACRED in the set — it spans three names for the same ballpark (Comiskey Park, U.S. Cellular Field, Guaranteed Rate Field), a retired number (1983), a statue (2004), and a renamed school (Minnie Miñoso Academy, 2023). Where most SACREDs encode a single defining moment or space, Miñoso's is an ongoing accumulation — the community's continuous decision to name things after him. The HOF plaque was unveiled in 2022, seven years after his death; the school was renamed in 2023; the statue has stood since 2004. The SACRED is not complete yet. The Community Events domain reflects the civic and communal dimension: Comiskey Park as the stadium that Chicago's South Side called its own, where Miñoso was the first Black player and where he remained Mr. White Sox until his death. The chemistry_trait 'First' encodes the structural significance of the initial arrival."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "IDENTITY",
+      "note": "First Black Cuban in the major leagues. First Black player in White Sox history. 'Minnie Miñoso is to Latin ballplayers what Jackie Robinson is to black ballplayers.' — Orlando Cepeda. The identity was a burden and a fuel simultaneously.",
+      "note_extra": "Source labeled 'First Black Cuban / First White Sox Black Player / Latin Pioneer' / affinity 'IDENTITY' — the first full IDENTITY affinity in the set for a position player who integrates a specific team. Doby's card uses HAUNTED for the Comiskey integration moment; Miñoso's uses IDENTITY for the structural fact of being the first across multiple categories simultaneously. The Cepeda quote is the most cited summary of Miñoso's place in baseball history and the HOF's own framing: 'Today, Latin American ballplayers make up almost one third of all big leaguers. They can all thank Minnie Miñoso.' The IDENTITY affinity encodes both what he was first to do and what that firstness cost — the years he couldn't play in the AL because of the color line, the exhibition games in New Orleans he was excluded from, the slurs from opposing dugouts, the separate hotels and restaurants. The firstness is inseparable from the cost. The chemistry_trait 'First' is the mechanical cross-field expression."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "El Perico, Cuba. Sugar cane fields. Father Carlos on the Lonja plantation. First uniform from flour sacks. $2.00 per game for the Ambrosia Candy team. The forged letter from Havana.",
+      "note_extra": "Source labeled 'El Perico / Sugar Cane / Carlos / Flour Sack Uniform / Forged Letter' / affinity 'ORIGIN' — fifteenth standalone ORIGIN in the set. Miñoso's is the most geographically distant ORIGIN in the set from the major leagues — El Perico, Cuba, a town of approximately 3,000 people in the sugar cane region. The sugar cane economy is the foundational context: father working the fields, Miñoso also working the fields as a child, the $2.00 per game that was the first step up. The forged letter is the most structurally inventive origin moment in the set — a 16-year-old who could not simply announce his ambition (his family depended on him at the farm) engineered a letter from Havana that gave him social permission to leave. The SABR BioProject: 'Suddenly someone came shouting, Orestes! Orestes! There's a letter here for you from Havana! Of course I played dumb. I pretended to be surprised.' This is not just ambition; it is ingenuity applied to the problem of escape. The Community Events domain encompasses the El Perico plantation community, the Havana baseball teams, and the New York Cubans — the full pre-MLB trajectory."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "DAMNED",
+      "note": "Segregated America. Separate hotels, separate restaurants, separate everything — in the same American League cities where his teammates ate together. The New Orleans exhibition game where manager Paul Richards refused to play without him.",
+      "note_extra": "Source labeled 'Segregation / Hotels / Restaurants / New Orleans Exhibition' / affinity 'DAMNED' — sixth DAMNED in the set (after Cooper, Blackwell, Doby, Fain, Wynn). Miñoso's is the second segregation-DAMNED in the set (after Doby's Hotel/DAMNED for segregated hotels in Doby's card). Where Doby's DAMNED focuses on the systemic exclusion from lodging, Miñoso's focuses on the active hostility within the integrated context — the slurs from opposing players and fans, the New Orleans episode, the deliberate HBP attempts that went beyond crowding-the-plate strategy. The MLB.com biography: 'He was told he couldn't play in an exhibition game in New Orleans, and manager Paul Richards stepped forward to say that if Miñoso didn't play, the whole team wouldn't play. While many of Miñoso's HBPs could have been because he willingly crowded the plate, that wasn't always the case.' The DAMNED encodes both the structural segregation (separate accommodations) and the interpersonal aggression (deliberate beanballs). The Hotel/Rest domain is used because the separate hotels are the most documented specific experience of the segregation DAMNED."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "CODA",
+      "note": "1976 at age 50-ish. A hit off Sid Monge. 1980 at age 54-ish. Two games with the White Sox. 1993 and 2003 with the Saints. Seven professional decades. The career that would not end.",
+      "note_extra": "Source labeled '1976 / 1980 / 1993 / 2003 / Seven Decades' / affinity 'CODA' — second CODA for a position player in the set (after Kuenn's Koufax final-out CODA). Miñoso's is the most literally extended CODA in the set — a career that continued in meaningful appearances across six decades after his peak years (1951-1964). The 1976 hit off Sid Monge ('It's been many years since I face pitching like this. I hope they forgive me'), the 1980 two games, the 1993 Northern League appearance, the 2003 walk that made him the only player in seven professional decades — all of these are CODA events, each one extending the same player's narrative beyond its natural end. The chemistry_trait 'Seven Decades' is the mechanical cross-field expression. The Community Events domain is used because each of these late-career appearances was explicitly a civic and community event — not a competitive one, but a ceremonial return to the city, the sport, and the fans who named a school after him."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Comiskey Park / SACRED domain — home field advantage encoded structurally; the Cuban Comet in front of South Side Chicago.",
+      "Speed in scoring position — 'Go! Go! Go!' energy; Cuban Comet trait activates at 1-4 for steal success when on base.",
+      "Lead-off or early count contact situations — the crouched crowding stance is most effective before pitchers establish the outer third.",
+      "1947 Negro World Series champion context — CLU 1 activates from the Negro Leagues championship background when championship-deciding games arise."
+    ],
+    "cold_triggers": [
+      "October (permanent in the AL) — CLU 1 ceiling; no major league postseason. The 1959 pennant was won without him.",
+      "The Price of the Pennant — when Wynn and Miñoso are both on the Dreamers 1950, the structural irony is active: one player was gained at the cost of the other's championship window.",
+      "Segregation triggers — DAMNED affinity: away games in certain AL cities, exhibition game contexts, opposing dugout hostility events.",
+      "Late career (post-1957) — traded, Cleveland, gradual decline from peak production; OVR degrades from the 9 of the card year toward the 1960-1964 level."
+    ],
+    "pressure_response": "Joyful and relentless. Miñoso's pressure response was to do everything at maximum effort regardless of context — the 8.3 WAR in 1954 was built on speed, defense, contact, and power simultaneously. He never coasted. The exhibition game in New Orleans where he wasn't allowed to play — manager Richards refused to put the team on the field without him — is the most precise measurement of what his presence was worth: the team would not play baseball if he could not play baseball. That is the pressure response."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "If Miñoso Doesn't Play, We Don't Play",
+      "type": "Action",
+      "text": "Before an exhibition game in New Orleans, your outfielder is told he cannot play. He is Black. The city has rules. Your manager walks to home plate and tells the umpires that if your outfielder does not play, the team does not play. The team plays. The city's rules exist outside the white lines. Your manager has decided they stop at the foul line.",
+      "origin": "Documented in multiple sources. Manager Paul Richards refused to take the field if Miñoso was excluded from an exhibition game in New Orleans during the early 1950s. The incident is cited in the MLB.com biography and other sources as one of the defining moments of Miñoso's integration history with the White Sox."
+    },
+    {
+      "title": "The Forged Letter",
+      "type": "Origin",
+      "text": "Your outfielder is 16 years old and wants to leave El Perico for Havana to play baseball. His family depends on him at the farm. He cannot simply leave. He asks his friend Umberto, who is the mailman and a baseball player, to forge a letter from a team owner in Havana. The letter arrives. Someone shouts: 'Orestes! Orestes! There's a letter here for you from Havana!' He pretends to be surprised. He opens it. He reads it. He leaves.",
+      "origin": "Documented in Miñoso's autobiography 'Just Call Me Minnie' and the SABR BioProject. The forged letter is one of the most specifically documented escape narratives in baseball biography."
+    },
+    {
+      "title": "The $50 Answer",
+      "type": "Action",
+      "text": "Members of the outlaw Mexican League offer your outfielder $30,000 to play two seasons. He has $50 in his pocket. He says no. He says: 'My $50 is like two pennies compared with what you just showed me, but money isn't everything to me. I'm going to America one day.' The outlaw league would have barred him from the majors. He went to America. He became the first. The $50 stayed in his pocket.",
+      "origin": "Documented in Miñoso's biography and multiple sources. The Mexican League offer, made before Miñoso signed with the Cleveland organization, would have ended his path to the majors. His refusal — with $50 to his name — is one of the most consequential decisions in Latin American baseball history."
+    },
+    {
+      "title": "The Cuban Comet",
+      "type": "Legacy",
+      "text": "A young outfielder from Oklahoma arrives in New York to play for the Yankees. He is fast — very fast. The sportswriters look around for a comparison. They notice a Cuban outfielder on the White Sox who is also very fast. They call the Oklahoma kid 'The Commerce Comet' because it rhymes with 'The Cuban Comet.' The Cuban Comet's name is Minnie Miñoso. The Commerce Comet's name is Mickey Mantle. In the hierarchy of the American League, Mantle is the bigger star. In the history of nicknames, Miñoso came first.",
+      "origin": "Wikipedia: 'Yankees outfielder Mickey Mantle acquired the nickname The Commerce Comet because he reminded observers of The Cuban Comet.' Miñoso's nickname predated Mantle's, and Mantle's was coined in relation to it."
+    },
+    {
+      "title": "The Price of the Pennant",
+      "type": "Drama",
+      "text": "In December 1957, your outfielder is traded from Chicago to Cleveland. In return, Chicago receives a pitcher and an outfielder. In 1959, the pitcher wins 22 games, the Cy Young Award, and the pennant-clinching victory. The White Sox win the American League for the first time in 40 years. Your outfielder watches from Cleveland. He was the price of the pennant. The pennant was worth it and it wasn't. Both are true.",
+      "origin": "December 4, 1957. White Sox traded Miñoso and Fred Hatfield to Cleveland for Early Wynn and Al Smith. In 1959, Wynn went 22-10, won the Cy Young, and pitched the White Sox to the AL pennant — the franchise's first in 40 years."
+    },
+    {
+      "title": "It's Been Many Years",
+      "type": "Legacy",
+      "text": "In 1976, your outfielder is approximately 50 years old. He has not faced major league pitching in 12 years. Bill Veeck brings him back. He bats ninth and plays designated hitter. He singles off Sid Monge in the second inning. After the game, he says: 'It's been many years since I face pitching like this. I hope they forgive me.' The crowd cheers. He is 'Mr. White Sox' in a White Sox uniform in Comiskey Park. They forgive him.",
+      "origin": "September 11, 1976, Comiskey Park. Miñoso singled off Angels starter Sid Monge in his first at-bat in 12 years, becoming at approximately age 53 one of the oldest players to get a hit in a major league game. His post-game quote is documented in the Baseball Almanac."
+    },
+    {
+      "title": "Seven Decades",
+      "type": "Legacy",
+      "text": "In 2003, your outfielder draws a walk with the independent St. Paul Saints. He is approximately 79 years old, or 77, or 81 — his birth year is still disputed. He played professional baseball in the 1940s, 1950s, 1960s, 1970s, 1980s, 1990s, and now the 2000s. Seven decades. No one else has done this. The walk is scored as a walk. He rounds first base. The seven decades are not scored anywhere. They exist anyway.",
+      "origin": "2003, St. Paul Saints, Northern League. Miñoso drew a walk in a professional game, making him the only player in history to appear professionally in seven different decades. He had first appeared for the New York Cubans in the 1940s."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'10\", 175 lbs — the crouched batting stance, the Cuban Comet at the plate. In 1954 he is approximately 29-30 years old, at his absolute peak, leading the AL in WAR among position players while his crosstown rival Mickey Mantle wins the Triple Crown two years from now. The face of a man who organized youth teams at age 12 and fined them 50 centavos when they missed signs. The face that first wore a White Sox uniform in 1951 and will wear it until 1980.",
+    "attire": "Chicago White Sox home whites. Number 9. The right-handed batter's crowded stance — as close to the plate as possible, daring the pitcher, collecting the HBP record 10 times as an AL leader. The left field glove in the off hand, three Gold Gloves eventual.",
+    "mood": "Joyful ferocity. The Miñoso mood is the mood of a man who grew up working sugar cane fields and who chose baseball over $30,000 with $50 in his pocket and who forged a letter to get to Havana at age 16 — a man who has been fighting for everything he has for so long that the fighting has become its own form of joy. In 1954 the Cuban Comet is at full speed. This is what that looks like.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Comiskey Park faintly visible behind him — the park that would eventually retire his number and put up his statue. The park he played for from 1951 to 1980, across five decades.",
+    "reference": "Orlando Cepeda: 'Minnie Miñoso is to Latin ballplayers what Jackie Robinson is to black ballplayers. Minnie is the one who made it possible for all us Latins. He was the first Latin player to become a superstar.' The portrait should show the first — not the burden of the first, but the joy of the first. He was the one who made it possible."
+  }
+}

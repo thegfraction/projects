@@ -1,0 +1,204 @@
+{
+  "card_type": "player",
+  "name": "Early Wynn",
+  "nickname": "Gus",
+  "year": 1954,
+  "team": "Cleveland Indians",
+  "league": "American League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "SP",
+  "bats": "S",
+  "throws": "R",
+  "height": "6'0\"",
+  "weight": "200 lbs",
+  "born": "January 6, 1920 — Hartford, AL",
+  "died": "April 4, 1999 — Venice, FL",
+  "hof": "Class of 1972 (BBWAA, fourth ballot, 76.0%)",
+
+  "real_stats": {
+    "season": 1954,
+    "games": 36,
+    "games_started": 36,
+    "complete_games": 20,
+    "shutouts": 4,
+    "innings_pitched": "270.2",
+    "wins": 23,
+    "losses": 11,
+    "era": "2.73",
+    "strikeouts": 155,
+    "walks": 83,
+    "whip": "1.138",
+    "era_plus": 137,
+    "war": 5.2,
+    "all_star": 9,
+    "awards": "Led AL in wins (23, tied with Lemon) and innings pitched (270.2) in 1954. Led AL in ERA 1950 (3.20). Cy Young Award 1959 (22-10, 3.17 ERA, 255 IP — oldest pitcher ever to win the award at 39). Led AL in strikeouts twice (1957, 1963). Led AL in innings pitched three times (1951, 1954, 1959). 9x AL All-Star. Career WAR leader among AL pitchers in the 1950s. First pitcher to lead his league in strikeouts in consecutive years with different teams (1957 Cleveland, 1958 Chicago). Most strikeouts in the major leagues in the 1950s (1,544).",
+    "world_series": "1954 WS: Started Game 2, pitched 7 innings, allowed 3 runs, took the loss as Indians were swept 4-0 by the Giants. 1959 WS: Started Games 1, 3, and 7. Won Game 1 (11-0 shutout over Dodgers); lost Games 3 and 7. White Sox lost Series 4-2.",
+    "career_wins": 300,
+    "career_losses": 244,
+    "career_era": "3.54",
+    "career_war": 49.7,
+    "career_strikeouts": 2334,
+    "career_ip": "4564.0",
+    "career_notes": "23 seasons (1939-1963), the most by any pitcher in AL history at the time. Washington Senators (1939-1948), Cleveland Indians (1949-1957, 1963), Chicago White Sox (1958-1962). 300 wins (14th in ML history). 5 twenty-win seasons. Career ERA 3.54. 290 complete games. 49 shutouts. 2,334 strikeouts (52nd all-time). 1,775 career walks (a record at retirement). Gout from 1950 — pitched in pain the last 13 years. From ages 31-40, started at least 30 games and threw at least 230 innings every season. Switch hitter; batted .214 with 17 HR and 173 RBI; used as pinch hitter 90 times. In the 1950s had more strikeouts (1,544) than any other MLB pitcher. Ted Williams: 'the toughest pitcher I ever faced.' Mickey Mantle hit 13 HR off Wynn — most off any single pitcher in Mantle's career. Released with 299 wins; signed by Cleveland at 43 for one final season; got win #300 on July 13, 1963 on a night of sleepless gout. Elected HOF 1972, fourth ballot."
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "stf": 4,
+    "ctl": 3,
+    "sta": 3,
+    "def": 1,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "stf": "Peak fastball was elite — genuine power pitcher in his prime. ERA 2.73 in 1954, ERA 2.72 in 1956. The Harder arsenal (curve, slider, changeup, knuckleball) added command to the raw heat and produced five 20-win seasons. Ted Williams: 'the toughest pitcher I ever faced.' STF 4 reflects the combination of the fastball with the four additional pitches — power with craft. Not the pure STF 5 of Blackwell's pre-injury delivery or Trucks's singular stuff, but the most complete arsenal in the Dreamers 1950 pitching staff.",
+    "ctl": "1954: 83 BB in 270.2 IP = 2.77 BB/9. Career: 1,775 walks — an AL record at retirement. The career walk total is historically large; the 1954 peak season control was genuinely solid. CTL 3 is the 1954 snapshot, not the career average. Wynn said of Harder: 'He taught me fundamentals, so I could find the trouble when my curve and slider weren't breaking.' The 1954 control reflects the Harder transformation at its peak, before the gout erosion of the late 1950s.",
+    "sta": "270.2 IP in 1954 — led the AL. Led AL in IP three times (1951, 1954, 1959). From ages 31-40, started at least 30 games and threw no fewer than 230 innings every season. 23 seasons, the most in AL history at the time. STA 3 (maximum). The most durable pitcher in the set. Pitched through gout — an inflammatory joint disease that caused intense pain — for 13 consecutive seasons while still leading the AL in innings.",
+    "def": "Competent fielder; no notable defensive reputation in either direction. Switch hitter who was used as pinch hitter 90 times (.214 career, 17 HR) — one of the most dangerous-hitting pitchers of his era. But fielding statistics for pitchers in this period do not support above-average DEF. DEF 1 — standard for a workhorse pitcher with no documented exceptional fielding. The batting skill is encoded in the chemistry_traits rather than the DEF stat.",
+    "clu": "Two World Series appearances. 1954 WS: 7 innings, 3 ER, loss in Game 2 as Indians were swept (the Mays Catch game was Game 1). 1959 WS: Game 1 shutout (11-0), then lost Games 3 and 7 as White Sox fell to the Dodgers. CLU 2 reflects the 1959 WS Game 1 dominant performance — a genuine postseason hero moment — balanced against the overall WS record (1-2, no championship). The sweep in 1954 and the Game 7 loss in 1959 prevent CLU 3."
+  },
+
+  "personality": {
+    "leadership_style": "Territorial authority. The mound was his office and he enforced its boundaries with physical consequences. 'A pitcher has to look at the hitter as his mortal enemy.' He threw chairs after losses. He threw a baseball at his own manager when removed from a game. The intimidation was not performance — it was operational policy. Players who bunted on him, who hit the ball up the middle, who crowded the plate — they expected the next pitch to arrive at their chin. The message was consistent and intentional.",
+    "temperament": "Volcanic on the field, practical joker off it. He was genuinely good company — funny, warm, a broadcaster and coach who players respected. But the line between the office and the outside world was real and maintained. His son Joe hit line drives off him in batting practice at Comiskey Park. Early knocked him down with an inside fastball. The line applied to everyone. There were no exceptions. 'It would depend on how well she was hitting.'",
+    "work_ethic": "Built from Alabama cotton. The summer he spent lifting 500-pound bales for 10 cents an hour — 'the experience left him determined to make a different living for himself.' The broken leg that ended his football career became 'my best break ever.' The death of his first wife Mabel, and the baby son left behind, made him 'work at his career with more earnestness.' Every obstacle became motivation. From 1950 to 1963, he pitched through gout in one of the most documented cases of sustained competitive excellence through pain in baseball history.",
+    "lifestyle": "Hartford, Alabama, then wherever the team was. Nokomis, Florida, the permanent home with Lorraine and their daughter Sherry, and Joe from the first marriage. Early Wynn Steak House and Bowling Lanes in Venice, Florida. Flying his own Cessna 170 single-engine plane. Hunting. Powerboats. A man who grew up lifting cotton bales and became a Hall of Famer who flew his own plane in the off-season. The distance between those two points is the whole career.",
+    "era_adaptability": "MAXIMUM. A 200-pound switch hitter who could throw four quality pitches and pitch 270 innings a year would dominate in any era. The intimidation factor (willingness to throw at any batter including his own son) is era-independent. The gout is also era-independent — it would degrade performance in any context.",
+    "dark_side": "The gout. From 1950 through his final start in 1963, Wynn pitched with a condition that causes extreme joint pain and was insufficiently treated in that era. He pitched his 300th win on a night of sleeplessness from gout at age 43. 'I might have fallen on my face,' he said after being removed from the game. He wasn't proud of the win — he wanted to go nine innings. The gout didn't let him. The dark side is the inverse of the durability: he was remarkable for how long he lasted, and the gout explains the quality of the suffering that the 23 seasons required."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "My Office",
+      "desc": "The mound is non-negotiable territory. In ILB, any batter who crowds the plate against Wynn triggers a mandatory brushback pitch on the next at-bat. The rule applies to everyone. No exceptions. See: 'The Grandmother' trait."
+    },
+    {
+      "tag": "The Grandmother",
+      "desc": "When asked if he would throw at his own grandmother: 'It would depend on how well she was hitting.' In ILB, Wynn's brushback mechanic does not exclude teammates, coaches, or family in informal game contexts. The policy is universal."
+    },
+    {
+      "tag": "The Harder Arsenal",
+      "desc": "Mel Harder taught Wynn the curve, slider, changeup, and knuckleball in 1949. Before Harder, Wynn had one pitch. In ILB, Wynn's STF 4 represents all five pitches as an integrated system. If the fastball is being hit, Wynn finds a secondary pitch — modeled by a CTL roll bonus when the first pitch option fails."
+    },
+    {
+      "tag": "Gout Season",
+      "desc": "Wynn had gout from 1950 on. In ILB, once per season a Gout Event roll occurs: (1-3) no effect — he pitches through it; (4-5) one start missed; (6) one start missed and STA temporarily reduced. Wynn rolled 1-3 most of his career."
+    },
+    {
+      "tag": "Doby's Rotation",
+      "desc": "Wynn and Larry Doby were Cleveland Indians teammates, part of the 111-win 1954 squad. When Doby is in the lineup behind Wynn, Wynn's CLU increases by +1 — the defensive support of the best CF in the AL reduces earned runs in Wynn's ledger."
+    },
+    {
+      "tag": "300",
+      "desc": "The 300 wins required a final season at 43 on a second contract with Cleveland after being released at 299. In ILB, Wynn's career milestone creates a special late-career event: at 299 wins, if released, he may sign with any AL team for one additional season. The 300th win is the retirement trigger."
+    },
+    {
+      "tag": "Switch Pitcher-Hitter",
+      "desc": "One of the most dangerous-hitting pitchers in AL history. Used as pinch hitter 90 times; career .214, 17 HR. In ILB, Wynn may bat in non-DH contexts and receives a full batting roll rather than the standard pitcher batting penalty."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "MAXIMUM",
+      "note": "Mel Harder, Cleveland Municipal Stadium, 1949. The four pitches added to the fastball. 'The biggest thing that ever happened to me in baseball was Mel Harder.' The transformation from thrower to pitcher.",
+      "note_extra": "Source labeled 'Mel Harder / Cleveland / 1949 / Arsenal Construction' / affinity 'MAXIMUM' — fifth MAXIMUM in the set (after Waner/Holmes, Mantle's switch-hitting, Brecheen's minor league odyssey, Rosen's Snead-advised preparation). Wynn's is the most complete pitcher transformation MAXIMUM in the set. Wynn arrived in Cleveland in 1949 as a 29-year-old pitcher who had compiled a 72-87 record in Washington on the strength of one pitch: the fastball. Mel Harder — Cleveland's legendary pitching coach and former ace — added a curve, slider, changeup, and knuckleball, all thrown with the same easy motion so batters couldn't distinguish pitch type from arm slot. Wynn's quote is the most complete testimony to a coach's impact in the set: 'The biggest thing that ever happened to me in baseball was Mel Harder. He taught me fundamentals, so I could find the trouble when my curve and slider weren't breaking. Harder made me realize that nothing concerns a pitcher except the player at bat.' In 1949 Wynn went 11-7 in adjustment. In 1950 he led the AL with a 3.20 ERA. The 1954 season — the card year — is the MAXIMUM's harvest: 23 wins, 2.73 ERA, 270 IP on the five-pitch arsenal Harder built. The chemistry_trait 'The Harder Arsenal' is the mechanical cross-field expression."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Hartford, Alabama. Cotton gin summer, 500-pound bales, 10 cents per hour. Father Early Sr., semi-pro player and auto mechanic. The broken leg that ended football and started everything else.",
+      "note_extra": "Source labeled 'Hartford / Cotton / Early Sr. / Broken Leg / Washington Tryout' / affinity 'ORIGIN' — fourteenth standalone ORIGIN in the set. Wynn's is the most explicitly economic ORIGIN in the set. The cotton gin summer is not an incidental biographical detail — it is the specific sensory experience that produced the will to become a major leaguer. The Encyclopedia of Alabama: 'As a youth, Wynn lifted 500-pound bales of cotton one summer for 10 cents an hour; the experience left him determined to make a different living for himself.' The broken leg on a punt return, which ended his football career and forced him into full-time baseball, is narrated by Wynn himself as 'my best break ever' — the most literally self-aware ORIGIN statement in the set. The Senators tryout that followed — walking into a camp at 17 without finishing high school, signing for $100/month — is the direct origin of 23 major league seasons. The father (Early Sr., semi-pro player) is the model; the cotton gin is the motivation; the broken leg is the pivot; the tryout is the door."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HAUNTED",
+      "note": "Charlotte, North Carolina, 1941. Mabel Allman's car accident. A pitcher alone with a newborn son. The grief that turned into 'working at his career with more earnestness.'",
+      "note_extra": "Source labeled 'Charlotte / Mabel / 1941 / Joe Early' / affinity 'HAUNTED' — seventh HAUNTED in the set (after Holmes/Jury Box, Cooper/Elbow, Blackwell/Nuremberg, Doby/Comiskey, Mantle/Lenox Hill, Berra/D-Day). Wynn's is the first HAUNTED in the set for the death of a spouse rather than a personal injury, historical site, or parental illness. Mabel Allman Wynn was killed in a car accident while driving a babysitter home, shortly after the birth of their son Joe. Wynn was 21. The EBSCO entry: 'The pain of this event and the responsibility of a baby son caused Early to work at his career with more earnestness.' The Hotel/Rest domain is used because the Charlotte boarding-house or hotel room where Wynn received the news is the private domestic space of loss — not a public event, not a medical facility, but the specific intimate space where a 21-year-old pitcher learned he was a widower and a single father simultaneously. The chemistry_trait '300' encodes the career-long motivation to make the grief mean something. The HAUNTED runs as a thread through the entire 23-season career."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "VOLATILE",
+      "note": "The mound, any game, any park. Threw a baseball at Al Lopez when removed from a game. Threw chairs after losses. 'A pitcher has to look at the hitter as his mortal enemy.' The office and what happens when someone enters without an invitation.",
+      "note_extra": "Source labeled 'The Mound / Brushback / Chair Throwing / Lopez Baseball' / affinity 'VOLATILE' — second VOLATILE in the set (first was Trucks/Media-Spotlight). Wynn's VOLATILE is the most physically documented in the set — he threw a baseball at his own manager (Lopez, who later managed the same White Sox team), threw chairs in the clubhouse after losses, and delivered explicit physical warnings to any batter who dared bunt or hit a ball up the middle. The VOLATILE is encoded at Practice Field because the mound itself is Wynn's practice space — the location where the policies were enforced, not just the game field. The 'My Office' and 'The Grandmother' chemistry traits are the mechanical cross-field expressions. Unlike Trucks's VOLATILE (which was media-context specific), Wynn's VOLATILE is permanently active on the field."
+    },
+    {
+      "location": "Medical/Recovery",
+      "affinity": "DAMNED",
+      "note": "Gout from 1950. Thirteen years of inflammatory joint pain. The 300th win on a sleepless gout night at 43. 'I might have fallen on my face.'",
+      "note_extra": "Source labeled 'Gout / 1950-1963 / 300th Win / Sleepless' / affinity 'DAMNED' — fifth DAMNED in the set (after Cooper/alcoholism, Blackwell/injury cascade, Doby/segregation, Fain/bar-lifestyle). Wynn's DAMNED is the most sustained in the set — thirteen consecutive seasons pitching with a condition that was neither curable nor manageable by the standards of the era. Gout causes intense joint pain (the body depositing uric acid crystals in joints); pitching with it requires a specific kind of functional denial. The 1963 300th win — five innings, four runs allowed, relieved by Jerry Walker, achieved on a night where Wynn hadn't slept due to gout pain — is the DAMNED's defining endpoint. He was not proud of how he got the win. He wanted to pitch nine innings. His body would not allow it. The Medical/Recovery domain encodes the clinical dimension; the DAMNED affinity encodes the moral dimension — a career spent in active denial of a condition that was slowly winning. The chemistry_trait 'Gout Season' is the mechanical cross-field expression."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Pennant race situations — clinched the 1954 pennant (with Lemon, tying for AL lead with 23 wins) and the 1959 pennant (21st win on September 22 against Cleveland). The pennant-race pitcher.",
+      "Batters who crowd the plate — 'My Office' trait activates at maximum; brushback pitch establishes territory and destabilizes the lineup.",
+      "The Harder arsenal in sequence — when the fastball is being hit, the secondary pitches redouble effectiveness; CTL bonus on second-pitch-option roll.",
+      "Early count ahead — Wynn's 20 complete games in 1954 reflect dominant early-count management; getting ahead in the count is the structural hot trigger."
+    ],
+    "cold_triggers": [
+      "Gout Event roll — once per season, the gout triggers. Most seasons: no effect. Occasionally: missed start.",
+      "Removal from game — the most documented cold trigger in the set. Being walked to the mound activates the chair-throwing/baseball-throwing protocol. Lopez took the ball from him and had to dodge a thrown baseball.",
+      "Mickey Mantle — Mantle hit 13 HR off Wynn, the most off any single pitcher in Mantle's career. The Dreamers 1950 inter-team dynamic: when Mantle and Wynn face each other, Mantle's historical record activates.",
+      "Late career (post-1960) — the gout accumulation, the 299 wins crisis, the release and comeback. The career DAMNED arc runs cold from 1961 onward."
+    ],
+    "pressure_response": "Controlled escalation. Under pennant-race pressure, Wynn pitched more innings with better results (270 IP in the 111-win season). Under postseason pressure, he was split — the 1959 WS Game 1 shutout (11-0) is the most dominant single postseason performance by a Dreamers pitcher; the 1959 WS Game 7 loss closed the White Sox out of their only Series appearance. Under interpersonal pressure (removal from games, brushback situations), Wynn escalated — the baseball thrown at Lopez was apology-followed but not retracted. The pressure response was always more, never less. More pitches, more innings, more brushbacks, more chairs."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "My Office",
+      "type": "Action",
+      "text": "Your pitcher's quote: 'That space between the white lines — that's my office, that's where I conduct my business. You take a look at the batter's box, and part of it belongs to the hitter. But when he crowds in just that hair, he's stepping into my office, and nobody comes into my office without an invitation when I'm going to work.' The next pitch goes inside. This is standard practice. No exceptions apply.",
+      "origin": "Widely attributed quote by Early Wynn, documented in Red Smith's baseball writings (Ivan R. Dee Publishing, 2001) and multiple biographical sources. Describes his operating philosophy regarding the inner half of the plate."
+    },
+    {
+      "title": "The Grandmother",
+      "type": "Action",
+      "text": "A reporter asks your pitcher: 'Would you throw at your own grandmother?' Your pitcher says: 'It would depend on how well she was hitting.' Later, a different reporter asks the same question. Your pitcher says: 'I'd have to. My grandma could really hit the curveball.' Both answers are the same answer. The policy is universal. No exceptions apply.",
+      "origin": "Two documented versions of the same Wynn quote, given to different reporters at different times. The consistency of the answer — regardless of phrasing — reflects his genuine policy on the brushback pitch."
+    },
+    {
+      "title": "The Biggest Thing",
+      "type": "Drama",
+      "text": "In 1949, your pitcher arrives in Cleveland with one pitch and a 72-87 record from Washington. His new pitching coach teaches him four more pitches. Your pitcher says: 'The biggest thing that ever happened to me in baseball was Mel Harder. He taught me fundamentals, so I could find the trouble when my curve and slider weren't breaking. Harder made me realize that nothing concerns a pitcher except the player at bat.' The following season, he leads the AL in ERA. He will win 23 games in 1954. He will win the Cy Young Award in 1959. He will win 300 games total. All of them come from the four pitches he learned from Mel Harder.",
+      "origin": "Wynn's documented tribute to Mel Harder, quoted in multiple sources including the SABR BioProject and the Encyclopedia.com biography. Harder taught Wynn the curveball, slider, changeup, and knuckleball in the 1949 spring training camp."
+    },
+    {
+      "title": "500 Pounds for a Dime",
+      "type": "Origin",
+      "text": "One summer in Alabama, your pitcher lifts 500-pound cotton bales for 10 cents an hour. He decides this is not the life he wants. He breaks his leg playing football in high school. He decides this is not the sport he wants. He walks into a Washington Senators tryout camp at 17. He signs for $100 a month. He does not finish high school. He pitches for 23 seasons and wins 300 games and is inducted into the Hall of Fame. The cotton bales are at the beginning of the story. The Hall of Fame is at the end. Both are true.",
+      "origin": "Wynn's cotton gin summer is documented in the Encyclopedia of Alabama and multiple biographies. The Baseball Hall of Fame entry notes: 'As a youth, Wynn lifted 500-pound bales of cotton one summer for 10 cents an hour; the experience left him determined to make a different living for himself.'"
+    },
+    {
+      "title": "The 300th Win",
+      "type": "Legacy",
+      "text": "Your pitcher needs one more win for 300. He has needed one more win for almost a year. His old team released him with 299. He failed three times with a new team. He pitched Game 5 of a doubleheader against Kansas City, age 43, on a night when he hadn't slept because of the gout. He pitched five innings. He allowed four runs. He left with the lead. The reliever got the last twelve outs. The win was credited to your pitcher. After the game, he said: 'If I had pitched a good game and gone nine innings, that would be something, but that's not the way it was.' He was not proud of how he got it. He just got it.",
+      "origin": "July 13, 1963, Cleveland Indians vs. Kansas City Athletics. Wynn pitched 5 innings (box score shows 4 runs), left with a 5-4 lead. Jerry Walker pitched 4 shutout innings to preserve the 7-4 final. Wynn's post-game quote is documented in the Chicago Times-Union, May 6, 1982."
+    },
+    {
+      "title": "My Son",
+      "type": "Drama",
+      "text": "Your pitcher's son comes out early to Comiskey Park to take batting practice. He is a promising young ballplayer. The son hits two sharp line drives to the warning track. Then his father throws an inside fastball and the son hits the dirt. Your pitcher's son gets up. The next pitch is also inside. The son understands. Nobody gets to crowd the plate. The policy applies to everyone. No exceptions.",
+      "origin": "Documented anecdote from multiple sources: Wynn's son Joe, who was also a baseball player, took BP against his father at Comiskey Park. After several solid contact results, Wynn threw inside and knocked his son down."
+    },
+    {
+      "title": "The Lopez Baseball",
+      "type": "Drama",
+      "text": "Your manager walks to the mound to remove your pitcher from the game. Your pitcher is furious. He hands the ball to the manager. Then he throws a baseball at the manager as the manager walks back to the dugout. Later, your pitcher apologizes. The apology is accepted. They remain on the same team. They win the pennant together. Your pitcher is removed from games for the rest of his career. He is always furious about it. He always apologizes.",
+      "origin": "Wynn threw a baseball at manager Al Lopez when Lopez came to remove him from a game. Wikipedia: 'He also hated getting removed from games, once throwing a baseball at López when the manager walked to the mound to remove him (though Wynn apologized to López after the game).' Lopez managed Wynn on both the Cleveland Indians and Chicago White Sox."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'0\", 200 lbs — the barrel chest and thick legs of a man who lifted cotton bales as a teenager and spent 23 seasons pitching through gout. The face is flat and grim in the way that people's faces are when they have decided the batter is their mortal enemy. In 1954 he is 34 years old, has five pitches, leads the AL in wins and innings, and is looking toward the plate with the expression of a man conducting business in his office.",
+    "attire": "Cleveland Indians home whites, the old block-C. The right-handed delivery — the overhand release, all five pitches thrown from the same slot so the batter cannot distinguish fastball from curveball from slider from changeup from knuckleball until it is too late.",
+    "mood": "Territorial certainty. The Wynn mood is the mood of a man who has defined the space between the white lines as his jurisdiction and enforces its boundaries with physical consequences. The brushback pitch is not emotion; it is policy. The face reflects the policy rather than the emotion.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Cleveland Municipal Stadium visible faintly behind him — the vast outfield, the lake. Mel Harder's office is in the background; Wynn's office is in the foreground.",
+    "reference": "Ted Williams called him 'the toughest pitcher I ever faced.' Mickey Mantle hit 13 home runs off him — the most off any single pitcher. Both testimonies appear in the portrait: the man Williams considered his greatest challenge, the man Mantle could hit but could never neutralize completely. The portrait should show why Williams said what he said — and why Mantle kept swinging anyway."
+  }
+}
