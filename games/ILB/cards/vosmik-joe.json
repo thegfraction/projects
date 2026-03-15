@@ -1,0 +1,196 @@
+{
+  "card_type": "player",
+  "name": "Joe Vosmik",
+  "nickname": "The Blond Viking",
+  "year": 1935,
+  "team": "Cleveland Indians",
+  "era": "1930s",
+  "ilb_team": "Crashers AL1930",
+  "position": "RF",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'0\"",
+  "weight": "185 lbs",
+  "born": "April 4, 1910 — Cleveland, OH (Bohemian immigrant parents, Broadway-E. 55th St. neighborhood)",
+  "died": "January 27, 1962 — Cleveland, OH (age 51)",
+  "hof": "Not inducted. Cleveland Sports HOF. Top 100 Greatest Indians (2001).",
+  "real_stats": {
+    "season": 1935,
+    "games": 152,
+    "at_bats": 620,
+    "hits": 216,
+    "doubles": 47,
+    "triples": 20,
+    "home_runs": 10,
+    "rbi": 110,
+    "stolen_bases": 2,
+    "batting_avg": ".348",
+    "obp": ".408",
+    "slg": ".537",
+    "ops": ".945",
+    "ops_plus": 131,
+    "war": 5.7,
+    "gold_gloves": 0,
+    "silver_sluggers": 0,
+    "all_star": 1,
+    "career_avg": ".307",
+    "career_hits": 1682,
+    "career_hr": 65,
+    "career_sb": 23,
+    "career_war": 22.2
+  },
+  "ilb_stats": {
+    "ovr": 6,
+    "con": 5,
+    "pow": 2,
+    "spd": 1,
+    "def": 1,
+    "clu": 0
+  },
+  "stat_justification": {
+    "con": ".348 in 1935 — lost batting title to Buddy Myer by .0007 (.3483 vs .3490) on the final day. Led AL in hits (216), doubles (47), and triples (20) — first to lead outright in all three since Ty Cobb in 1919. Career .307. Led AL in hits again in 1938 (.324, 201 H). 117 RBI as a rookie in 1931. A pure line-drive hitter who sprayed the ball everywhere.",
+    "pow": "10 HR in 1935, 65 career. Not a home run hitter — a doubles and triples machine. 47 2B + 20 3B in 1935 = 67 extra-base hits from gap power alone. Career 335 doubles, 92 triples. SLG .537 earns the bonus. Rating of 2.",
+    "spd": "2 SB in 1935, 23 career — low steal totals. But 20 triples (league-leading!) proves real speed. Set minor league triples record (24-25) with Frederick in 1929. Good speed, not a base-stealer. Rating of 1.",
+    "def": "No Gold Gloves (pre-award). Self-described 'awkward outfielder' when signed. Asked Tris Speaker for fielding tips — Speaker tutored him. Improved to solid defender with a good arm. .979 career fielding % across all three OF positions. Rating of 1.",
+    "clu": "No World Series appearances as an everyday player. Helped 1941 Dodgers win NL pennant but was a part-time player by then. No postseason heroics. The biggest 'clutch moment' was losing the batting title on the final day. Rating of 0."
+  },
+  "personality": {
+    "leadership_style": "The Local Hero. Vosmik was Cleveland's own — born on the sandlots of the Broadway-E. 55th Street neighborhood, sneaking into League Park to watch games as a kid, and bouncing 'from his home-town playgrounds into his home-town major-league line-up.' His leadership was that of a hometown favorite: passionate, earnest, and deeply rooted in community. The fans adored him because he was one of them.",
+    "temperament": "Cocky confidence as a young player, humility as he matured. Manager Peckinpaugh marveled at his 'true baseball instinct' and how amazing it was 'in one who has played as little as he has.' Still half-afraid of being kicked out of the ballpark even after making the roster — 'I'm still afraid I'll be recognized and bounced out.' A blue-collar player with blue-collar honesty.",
+    "work_ethic": "Self-improver. Recognized his weakness (fielding) and sought out Tris Speaker for pointers. Worked on his game relentlessly. Rose from Cleveland sandlots to the majors in just two minor league seasons. But not obsessive — a natural hitter who refined the edges rather than rebuilding from scratch.",
+    "lifestyle": "Simple, working-class. Son of Bohemian (Czech) immigrants Josef and Anna Vosmik. Befriended by neighborhood druggist Bill Kuchta who kept him supplied with bats and baseballs. Married Sally Joanne Okla in 1936 — three children (Joseph, Larry, Karen). After baseball: minor league manager, scout for Indians, then automobile and appliance salesman. Died at 51 in Cleveland — never left home.",
+    "era_adaptability": "MODERATE. Vosmik's contact-first, gap-power game would be valued by analytics as an OBP/doubles machine. His lack of HR power limits him in power-focused eras, but his ability to hit .300+ and spray line drives translates universally. A prototypical 'solid regular' in any decade.",
+    "clubhouse_impact": "MODERATE-HIGH. A popular teammate — the nephew recalled him playing baseball with kids at family picnics. Warm, approachable, no ego. Not a vocal leader but a steadying, likable presence. The kind of player who keeps a clubhouse loose and happy.",
+    "dark_side": "The batting title that got away. On the final day of 1935, Vosmik sat out the first game to protect his lead. Myer went 4-for-5. Vosmik scrambled to pinch-hit, made an out, then managed only 1-for-3 in the nightcap before darkness ended play. .3483 vs .3490. The margins of glory. He never got another chance — traded the next year, bounced from team to team, and died at 51 without ever reaching the heights of that one magical season."
+  },
+  "chemistry_traits": [
+    {
+      "tag": "The Blond Viking",
+      "desc": "+1 CON in home stadium. Vosmik received a two-minute standing ovation at the 1935 All-Star Game in Cleveland. Hometown energy fuels him."
+    },
+    {
+      "tag": "Sandlot Kid",
+      "desc": "+1 team chemistry with blue-collar players. He came from the streets and never forgot it. Connects with working-class teammates."
+    },
+    {
+      "tag": "Speaker's Student",
+      "desc": "+1 DEF after being mentored by an elite outfielder. Tris Speaker taught him to field — he went from 'awkward' to solid."
+    },
+    {
+      "tag": "Gap Power Machine",
+      "desc": "Converts 20% of singles into doubles. Vosmik sprayed line drives into every gap — 47 doubles and 20 triples in his peak year."
+    },
+    {
+      "tag": "The Batting Race",
+      "desc": "In a close batting race, Vosmik gets +1 CON in September. But on the final day, 50% chance of choking under the pressure of protecting a lead."
+    },
+    {
+      "tag": "Bohemian Roots",
+      "desc": "+1 fan loyalty in immigrant neighborhoods. The son of Czech immigrants, he was Cleveland's Broadway-E. 55th pride."
+    }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Natural hitter who refined his game. Always working on gaps.",
+      "note_extra": "Source label: 'Batting Cages / Practice Field.' Mapped to Practice Field (craft/training domain). Established pattern across the batch. Standard HIGH affinity. Cross-field expression: work_ethic personality key (self-improver, sought out Speaker for pointers) and Gap Power Machine chemistry trait (converts singles to doubles) are the mechanical and narrative expressions of this location's dedicated refinement."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Hometown hero. Played baseball with kids at family picnics. Beloved locally.",
+      "note_extra": "Source label: 'Community Events.' Source label matches canonical domain exactly, as with Vernon (Batch 38). Mapped to Community Events (public hometown venues — community events, family gatherings, local appearances). Standard HIGH affinity. Cross-field expression: The Blond Viking chemistry trait (+1 CON in home stadium) and The Standing Ovation action seed are the mechanical and narrative expressions of Vosmik's Community Events dominance."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "Likable, approachable. The teammate everyone gets along with.",
+      "note_extra": "Source label: 'Clubhouse / Locker Room.' The canonical taxonomy explicitly lists 'Clubhouse, locker room' under Hotel/Rest. Standard HIGH affinity — Vosmik's clubhouse is a site of genuine warmth and comfort, not merely tolerated. Cross-field expression: clubhouse_impact personality key ('warm, approachable, no ego — keeps a clubhouse loose and happy') and Sandlot Kid chemistry trait (+1 team chemistry with blue-collar players) encode the social texture of this location."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Grew up on Cleveland streets. Still felt like he might get 'bounced out' even as a pro.",
+      "note_extra": "Source label: 'Local Neighborhood / Sandlots.' Mapped to Community Events (hometown/neighborhood outdoor spaces — the Broadway-E. 55th Street sandlots are childhood origin sites and public neighborhood venues, consistent with the 'hometowns' grouping under Community Events). Distinct from Practice Field: these sandlots are origin/identity spaces, not structured training facilities. Standard HIGH affinity. Cross-field expression: Sandlot to the Show action seed ('Local Hero' trait, +1 all stats home / -1 road first 3 seasons) and Bohemian Roots chemistry trait encode the neighborhood-specific identity emanating from this location."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Working-class tastes. Family man after 1936 marriage.",
+      "note_extra": "Source label: 'Restaurant / Steakhouse.' Mapped to Hotel/Rest (social dining fits the Hotel/Rest domain's social-space scope). Consistent with Vernon mapping (Batch 38). Standard MEDIUM affinity. The family-man note ('after 1936 marriage') dates this affinity as post-peak, anchoring it to the lifestyle personality key."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "No association with nightlife or drinking problems.",
+      "note_extra": "Source label: 'Bar / Nightlife.' The canonical taxonomy explicitly lists 'bar/nightlife' under Hotel/Rest. LOW affinity encodes active avoidance by temperament, not moral opposition. Consistent with Vernon's Bar / Nightlife mapping at LOW. Cross-field expression: temperament personality key ('blue-collar honesty') and lifestyle key (simple, working-class) ground the LOW rating in Vosmik's genuine disinterest in nightlife rather than any principled stance."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "NONE",
+      "note": "No association.",
+      "note_extra": "Source label: 'Gambling Hall.' Mapped to Hotel/Rest (adult entertainment venue in the social-space grouping). NONE affinity encodes complete structural absence — no history, no connection, no backstory. Consistent with Vernon's Gambling Hall mapping at NONE (Batch 38). The source note ('No association.') is the shortest location note in the batch, making this the cleanest null entry in the set."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "Playing in Cleveland / home stadium — hometown energy fuels performance",
+      "Batting races — rises to the occasion in September (until the final day)",
+      "Debut energy — went 5-for-5 in his first real start (1931)",
+      "Doubles and triples — when the gaps are open, Vosmik catches fire"
+    ],
+    "cold_triggers": [
+      "Being traded or leaving Cleveland — performance dropped after departing",
+      "Protecting a batting lead — the final-day pressure in 1935 broke him",
+      "Playing for losing or unfamiliar teams (Browns, Senators years)",
+      "Aging — decline was steady after age 28 peak"
+    ],
+    "pressure_response": "MIXED. Vosmik thrived in regular-season pressure (3rd in MVP, led AL in 3 categories) but crumbled at the single biggest moment — sitting out to protect his lead, then scrambling to catch up on the final day. A player who could handle sustained pressure but not acute, sudden-death moments."
+  },
+  "action_card_seeds": [
+    {
+      "title": "The Batting Race",
+      "type": "Drama",
+      "text": "Your hitter leads the batting race going into the final day. Sit him to protect the lead (60% chance rival catches up) or play him (40% chance he adds to his lead, 30% chance he goes cold, 30% chance no change).",
+      "origin": "1935: Vosmik sat out Game 1 of the final-day doubleheader. Myer went 4-for-5. Vosmik scrambled back but lost .3483 to .3490. The title slipped through his fingers."
+    },
+    {
+      "title": "Five for Five on Debut Day",
+      "type": "Game Action",
+      "text": "A newly promoted player has a perfect debut: 5-for-5 with 3 doubles. He immediately becomes the starter. +2 fan appeal, +1 morale.",
+      "origin": "April 18, 1931: With Tris Speaker in the stands, Vosmik went 5-for-5 with three doubles and a triple. It cemented him as Cleveland's left fielder."
+    },
+    {
+      "title": "The Good-Looking Blond Boy",
+      "type": "Drama",
+      "text": "A GM's wife spots a prospect at a tryout and says: 'Sign the good-looking blond boy.' The GM does. 50% chance the kid becomes a star, 50% chance he's a solid regular.",
+      "origin": "Billy Evans' wife spotted Vosmik at a Cleveland tryout. When Evans needed one more kid to sign, she suggested 'the good-looking blond boy.' Evans: 'Take the $300 home and give it to your mother.'"
+    },
+    {
+      "title": "The Standing Ovation",
+      "type": "Action",
+      "text": "Your hometown player comes to bat at the All-Star Game in his home city. The crowd gives him a two-minute standing ovation. +2 morale, +1 CON for the rest of the season.",
+      "origin": "1935 All-Star Game in Cleveland: Vosmik received a deafening two-minute standing ovation when he came to bat. The hometown showering its love on its native son."
+    },
+    {
+      "title": "Sandlot to the Show",
+      "type": "Drama",
+      "text": "A prospect bounces 'from his home-town playgrounds into his home-town major-league line-up.' He gains 'Local Hero' status: +1 all stats in home games, -1 in road games for his first 3 seasons.",
+      "origin": "Vosmik was one of the rare players to go from Cleveland sandlots directly to the Cleveland Indians — the boy next door who became a star."
+    },
+    {
+      "title": "Speaker's Lesson",
+      "type": "Action",
+      "text": "Your outfielder seeks out a retired legend for fielding tips. After the mentoring session, +1 DEF permanently. The student honors the teacher.",
+      "origin": "Vosmik met Tris Speaker and asked for fielding pointers. He went from 'awkward outfielder' to solid defender with a .979 career fielding percentage."
+    }
+  ],
+  "art_direction": {
+    "face": "Blond, handsome, athletic. 6'0\" 185 lbs — lean, quick, built for line drives and triples. Czech-American features, open and friendly face. Sportswriters called him 'the Blond Viking' — the look of a young man who still can't believe he made it to the big leagues.",
+    "attire": "Cleveland Indians 1935 road grays or home whites. Classic 1930s cap and flannel. Nothing flashy — working-class kid in a working-class uniform. The lettering should suggest the old League Park aesthetic.",
+    "mood": "Earnest effort. The batting stance of a line-drive hitter — compact, balanced, hands ready to spray to all fields. Or the follow-through of a triple, legs churning toward third. This card should feel like honest, blue-collar baseball.",
+    "style": "Softer, warmer sepia than the legends' cards. Less dramatic lighting — more Sunday-afternoon-at-League-Park. The card of a guy who was really, really good but just missed greatness. There's a wistfulness to it — the .0007 that separated him from immortality.",
+    "reference": "Think 1934 Diamond Stars card aesthetic rendered in ILB sepia. The card you pull and think: 'Who was this guy?' And then you read the dossier and realize he almost won the batting title."
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "card_type": "player",
+  "name": "Hack Wilson",
+  "nickname": "The Barrel",
+  "year": 1930,
+  "team": "Chicago Cubs",
+  "era": "1920s",
+  "ilb_team": "Bashers AL1920",
+  "position": "CF",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'6\"",
+  "weight": "190 lbs",
+  "born": "April 26, 1900 — Ellwood City, Pennsylvania. Born to two alcoholic parents. His physique — oversized head, small feet (size 6), short legs, 18-inch neck — are consistent with Fetal Alcohol Syndrome.",
+  "died": "November 23, 1948 — Baltimore, Maryland (age 48). Body unclaimed in hospital. Identified only as 'a white male.' National League president Ford Frick paid $350 for the funeral. The man who drove in 191 runs in a single season died alone and anonymous.",
+  "hof": "INDUCTED 1979 (Veterans Committee — posthumous, 31 years after death). .307 career BA, 244 HR, 1,063 RBI in only 12 seasons. 191 RBI in 1930 — ALL-TIME MLB RECORD, still standing. 56 HR — NL record for 68 years. The briefest, brightest, most devastating career in the Bashers.",
+
+  "real_stats": {
+    "season": 1930,
+    "games": 155,
+    "batting_avg": ".356",
+    "obp": ".454",
+    "slg": ".723",
+    "ops": "1.177",
+    "hits": 208,
+    "doubles": 35,
+    "triples": 6,
+    "home_runs": 56,
+    "rbi": 191,
+    "runs": 146,
+    "stolen_bases": 3,
+    "total_bases": 423,
+    "walks": 105,
+    "war": 10.0,
+    "august_rbi": "53 RBI in August alone (single-month MLB record)",
+    "rbi_record": "191 — ALL-TIME MLB RECORD (still standing, 95+ years)",
+    "nl_hr_record": "56 — NL record for 68 years (until Sosa/McGwire 1998)",
+    "five_year_peak": ".331 / 35 HR / 142 RBI avg (1926-1930), 1.031 OPS",
+    "career_batting_avg": ".307",
+    "career_hr": 244,
+    "career_rbi": 1063,
+    "career_seasons": 12,
+    "ws_1929_ba": ".471 (but lost 2 fly balls in the sun — Game 4, 10-run inning)"
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 3,
+    "pow": 5,
+    "spd": 1,
+    "def": 1,
+    "clu": 1
+  },
+
+  "stat_justification": {
+    "con": "Wilson hit .356 in 1930 with 208 hits and a .454 OBP. He walked 105 times. Career: .307 BA. The contact is strong but context matters: 1930 was the most inflated offensive year in MLB history (NL batted .303 collectively). Wilson was an aggressive hacker who swung for the fences — not a pure contact hitter like Hornsby or Cuyler. His career BA outside his 5-year peak dropped to the .270s. Rating of 3.",
+    "pow": "56 home runs. 191 RBI. Both records when set — the RBI record STILL STANDS nearly a century later. No one has come within 15 RBI since 1938. His .723 SLG and 423 total bases are among the highest single seasons ever recorded. He hit 53 RBI in August 1930 alone — the most productive month by any hitter in MLB history. He produced all this power from a 5'6\", 190 lb frame — a body built like a barrel. Career: 244 HR in only 12 seasons. This is maximum power. Rating of 5.",
+    "spd": "Wilson stole 3 bases in 1930 and hit 6 triples. At 5'6\" with size 6 feet and a barrel-shaped body, he was not built for speed. He was adequate in center field thanks to decent read-off-the-bat ability but was never a baserunning threat. Career: 52 stolen bases in 12 years. Rating of 1.",
+    "def": "Wilson was a capable center fielder who led NL outfielders in putouts with 400 in 1927. He had decent range and an adequate arm. But the 1929 World Series defines his defensive legacy: in Game 4, with an 8-0 lead, Wilson lost two fly balls in the sun during the Athletics' 10-run 7th inning. The Cubs lost 10-8 and eventually the Series. Teammate Kiki Cuyler said Wilson was 'inconsolable.' The nightmare 'played endlessly in his memory.' For the rest of his life, fans remembered the fly balls more than the 191 RBI. Rating of 1.",
+    "clu": "Wilson hit .471 in the 1929 World Series — remarkable contact in October. But the two fly balls lost in the sun in Game 4 overwhelm that number in the historical record. The 10-run inning that resulted is among the most devastating collapses in WS history. Furthermore, Wilson's greatest season (1930: 56 HR, 191 RBI) did not produce a pennant — the Cubs finished two games behind the Cardinals. The greatest offensive season ever produced no championship. Wilson never won a World Series. Rating of 1."
+  },
+
+  "personality": {
+    "leadership_style": "BELOVED EVERYMAN. Wilson was not a leader in the traditional sense — he was a FOLK HERO. 'Hack Wilson was as great a hero in Chicago as Babe Ruth was in New York.' He thrived on the adoration of Cubs fans. He was 'an affable sort, willing to strike up a conversation with anyone.' He signed autographs, bought rounds at speakeasies, befriended Al Capone. The leadership was charisma — the little barrel-shaped man who could hit the ball as far as Ruth despite being a foot shorter.",
+    "temperament": "COMBUSTIBLE AND GENEROUS. Wilson fought constantly — umpires, opposing players, reporters on trains, anyone who provoked him. He was suspended for fighting reporters in Cincinnati (1931). Commissioner Landis stopped him from boxing professionally against White Sox 1B Art Shires. But he was also generous, warm, and quick to laugh when sober. The combativeness was fuel — it powered the swing, the home runs, the confrontations. Without it, there was no Hack Wilson. With too much of it, he destroyed himself.",
+    "work_ethic": "NATURAL TALENT MEETS SELF-DESTRUCTION. Wilson did not have Hornsby's monomaniacal discipline or Cuyler's patient development. He had NATURAL POWER — the barrel chest, the quick wrists, the eye. Joe McCarthy understood how to channel the talent: give Wilson structure, forgiveness, and a long leash. Under McCarthy, Wilson hit 56 HR and 191 RBI. Under Hornsby, who gave him neither forgiveness nor a leash, Wilson hit .261 with 13 HR. The talent was always there. The management of the talent was the variable.",
+    "lifestyle": "PROHIBITION-ERA CHICAGO AT MAXIMUM VOLUME. Wilson lived large in Al Capone's Chicago — speakeasies, nightclubs, late nights, hard drinking. He was the embodiment of the Roaring Twenties excess. 'I never played drunk. Hung over, yes, but never drunk.' The drinking was not recreational — it was structural. Born to two alcoholic parents, likely affected by Fetal Alcohol Syndrome, Wilson's relationship with alcohol was biological as much as behavioral. The disease was inherited before it was chosen.",
+    "era_adaptability": "MIXED. Wilson's pure power would translate to any era — 56 HR is 56 HR. But his body type (5'6\", 190 lbs, short legs, heavy) would face modern athletic standards. His alcoholism would be treated rather than enabled. His defensive limitations would likely push him to LF or DH. In a modern context, Wilson might be a .260 hitter with 45+ HR — a three-true-outcomes slugger who strikes out 180 times but hits the ball very, very far.",
+    "clubhouse_impact": "HIGH POSITIVE WHEN MANAGED WELL, TOXIC WHEN NOT. Under McCarthy: +2 morale, +2 offensive production. Under Hornsby: -2 morale, -3 personal production. Wilson's clubhouse value was entirely dependent on management. He needed a handler — someone who understood that the drinking and fighting were the price of the power. McCarthy paid the price gladly. Hornsby refused.",
+    "tragic_element": "THE MOST TRAGIC CARD IN THE BASHERS — and possibly in the entire ILB system. Born to two alcoholics. Likely Fetal Alcohol Syndrome. Built like a barrel on toothpicks. Hit 191 RBI in a single season — THE ALL-TIME MLB RECORD. Drove in Kiki Cuyler for his 191st. Won nothing. Lost fly balls in the sun that haunted him forever. Drank himself out of baseball by 34. Opened a pool hall. It failed. Tended bar near Ebbets Field. Sang for drinks. Customers became abusive. He quit. Worked as a tool checker. A laborer. A swimming pool manager. Died at 48 in a Baltimore hospital. Body unclaimed. Identified as 'a white male.' NL president Ford Frick paid $350 for the funeral of the man who held baseball's all-time RBI record. 'I don't have a regret in the world,' said Bottomley. Hack Wilson had nothing but regrets. The sunshine and the barrel, in the same set, asking different questions about what baseball gives and what it takes."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "One Hundred Ninety-One",
+      "desc": "The all-time MLB RBI record. Still standing after 95+ years. No one has come within 15 since 1938. In ILB, Wilson has UNCAPPED RBI potential — the only card in the system where the single-season RBI record can be approached. When Wilson is hot, every at-bat with runners on base is dangerous."
+    },
+    {
+      "tag": "The Barrel",
+      "desc": "5'6\", 190 lbs. Size 6 shoes. 18-inch neck. A body built like a keg of beer. In ILB, Wilson's unusual physique means +2 POW but -1 SPD permanently. The power comes FROM the body — the low center of gravity, the quick wrists, the leverage of a man who swings upward into the ball because he's looking UP at it."
+    },
+    {
+      "tag": "Lost in the Sun",
+      "desc": "1929 WS Game 4: Two fly balls lost in the sun. 8-0 lead became 10-8 loss. 'Inconsolable.' In ILB, Wilson has a d20 defensive vulnerability in day games: on 1, he loses a fly ball. The sun never forgave him. He never forgave himself."
+    },
+    {
+      "tag": "McCarthy's Man",
+      "desc": "Joe McCarthy knew how to handle Wilson. Under McCarthy: 56 HR, 191 RBI. Under Hornsby: .261, 13 HR. In ILB, Wilson's stats are DIRECTLY tied to manager quality. With a supportive manager: +2 all stats. With an authoritarian manager: -3 all stats. The talent needs the right handler."
+    },
+    {
+      "tag": "Capone's Friend",
+      "desc": "Wilson lived large in Prohibition-era Chicago. Friend of Al Capone. Speakeasies and nightclubs. In ILB, Wilson has +1 to charisma and fan engagement but a d20 discipline check each month: on 1-3, a drinking incident causes a 3-game absence."
+    },
+    {
+      "tag": "Born to It",
+      "desc": "Born to two alcoholic parents. Likely Fetal Alcohol Syndrome. The disease was inherited before it was chosen. In ILB, Wilson's alcoholism is NOT a character flaw — it is a MEDICAL CONDITION. The card treats it accordingly: inevitable decline after age 30 regardless of stats. The body fails because the body was built to fail."
+    },
+    {
+      "tag": "The Unclaimed Body",
+      "desc": "Died alone in a Baltimore hospital, age 48. Body identified only as 'a white male.' Ford Frick paid for the funeral. In ILB, Wilson has the LOWEST post-career rating of any card in the Bashers. The record stands. The man did not."
+    },
+    {
+      "tag": "Cuyler's Outfield",
+      "desc": "Wilson (CF) and Cuyler (RF) formed two-thirds of 'the best hitting outfield in baseball' with Riggs Stephenson (LF). Wilson's 191st RBI was driving in Cuyler. In ILB, when Wilson and Cuyler are in the same outfield: +1 to both offensive stats. The outfield that terrorized the NL."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Community Events",
+      "affinity": "MAXIMUM / GLORY",
+      "note": "Wrigley Field, Chicago. 1926-1931. 56 HR. 191 RBI. The cheers of 'HACK! HACK!' The speakeasies after the games. The peak and the beginning of the fall.",
+      "note_extra": "Source labeled 'Wrigley Field, Chicago' / affinity 'MAXIMUM / GLORY' — FIRST COMPOUND AFFINITY IN THE SET USING A SLASH BETWEEN TWO DISTINCT REGISTERS. Prior MAXIMUM entries were standalone (Musial, Rizzuto, Holmes, Brecheen). The MAXIMUM / GLORY compound is new — MAXIMUM encodes the performance register (56 HR, 191 RBI, the single greatest offensive season in baseball history) and GLORY encodes the communal register (Wrigley Field crowds chanting 'HACK! HACK!', the folk-hero status documented in the personality.leadership_style field: 'Hack Wilson was as great a hero in Chicago as Babe Ruth was in New York'). Wrigley Field maps to Community Events as a civic Chicago ballpark. The chemistry_trait 'One Hundred Ninety-One' (uncapped RBI potential) and the action card seed 'One Hundred Ninety-One' are the primary mechanical expressions. The double-register compound affinity encodes that Wilson's relationship with Wrigley was simultaneously the highest athletic achievement in the set AND a specific communal ecstatic experience that existed only in that ballpark."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "ADDICTION / CULTURE",
+      "note": "The Speakeasy. Prohibition-era Chicago nightlife. Al Capone's city. Wilson lived large when large was the only speed available.",
+      "note_extra": "Source labeled 'The Speakeasy' / affinity 'ADDICTION / CULTURE' — FIRST entry in the set where the location is a Prohibition-era nightlife space, and FIRST ADDICTION / CULTURE compound affinity. The Speakeasy maps to Hotel/Rest as the closest canonical domain — the bar/nightlife sub-domain previously used for Puckett (MEDIUM), Cooper (HIGH), and Rizzuto (NONE). Wilson's is the first at a compound non-standard affinity. The ADDICTION register encodes the biological-medical dimension of Wilson's alcoholism (documented in the chemistry_trait 'Born to It': 'the disease was inherited before it was chosen'); the CULTURE register encodes the Prohibition-era Chicago social context — Al Capone, the speakeasy network, the Roaring Twenties excess — as a specific historical milieu rather than merely personal failing. The personality.lifestyle field ('PROHIBITION-ERA CHICAGO AT MAXIMUM VOLUME') and the chemistry_trait 'Capone's Friend' (d20 discipline check: 1-3 = drinking incident, 3-game absence) are the cross-field mechanical expressions."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "NIGHTMARE",
+      "note": "Shibe Park, 1929 WS Game 4. The sun. Two fly balls. 8-0 became 10-8. The nightmare that played endlessly in his memory.",
+      "note_extra": "Source labeled 'Shibe Park (1929 WS)' / affinity 'NIGHTMARE' — FIRST NIGHTMARE affinity in the set. NIGHTMARE is listed in the Extended affinity taxonomy but has not previously appeared. The NIGHTMARE affinity encodes a location that is permanently and specifically associated with catastrophic failure — not HAUNTED (a lost beloved place) and not DAMNED (systemic destruction) but NIGHTMARE: the specific site of a recurring psychic wound. The JSX source text: 'The nightmare played endlessly in his memory.' Shibe Park maps to Community Events as a public ballpark venue. The action card seed 'Lost in the Sun' is the primary mechanical expression. The chemistry_trait 'Lost in the Sun' (d20 defensive vulnerability in day games: on 1, fly ball lost) encodes the psychic residue of this NIGHTMARE as a permanent mechanical condition. The Valo card also referenced Shibe Park (as the location of his SACRED wall-silhouette), creating a cross-card contrast: the same ballpark infrastructure (Shibe Park) appears in the set as SACRED for one player (Valo's wall) and NIGHTMARE for another (Wilson's sun)."
+    },
+    {
+      "location": "Medical/Recovery",
+      "affinity": "DEATH",
+      "note": "Baltimore Hospital, 1948. Died alone. Body unclaimed. 'A white male.' Ford Frick paid $350 for the funeral of the all-time RBI king.",
+      "note_extra": "Source labeled 'Baltimore Hospital (1948)' / affinity 'DEATH' — FIRST DEATH affinity in the entire set. DEATH is not listed in the established Extended affinity taxonomy — this is a schema expansion beyond all prior entries. The taxonomy has gone: HIGH/MEDIUM/LOW → NONE → COMPLEX → VOLATILE → HAUNTED → DAMNED → NIGHTMARE → and now DEATH. DEATH is the most terminal possible affinity: the location is not merely lost (HAUNTED), not merely associated with systemic destruction (DAMNED), not merely a psychic wound (NIGHTMARE), but the literal site of physical end. The Baltimore Hospital maps to Medical/Recovery as the domain — but the Medical/Recovery domain is now expanded to include death itself, not merely injury or recovery. The personality.tragic_element field documents the full arc: 'Body unclaimed. Identified as a white male. Ford Frick paid $350 for the funeral.' The chemistry_trait 'The Unclaimed Body' ('Wilson has the LOWEST post-career rating of any card in the Bashers. The record stands. The man did not.') and the action card seed 'A White Male' are the cross-field mechanical expressions. The DEATH affinity completes the most complete arc of any card in the set: MAXIMUM / GLORY (peak) → ADDICTION / CULTURE (the mechanism) → NIGHTMARE (the wound) → DEATH (the end)."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "August — Wilson's 53 RBI in August 1930 is the most productive month by any hitter in MLB history. When Wilson gets hot in late summer, the production is SUPERNATURAL.",
+      "Runner-on-base situations — 191 RBI. Wilson was built to drive in runs. The more runners, the more dangerous he became.",
+      "Supportive management — Under McCarthy, Wilson was a force of nature. The right manager unlocked the barrel.",
+      "Fan energy — Wilson fed on crowd noise. Wrigley Field's 'HACK! HACK!' chants elevated his performance."
+    ],
+    "cold_triggers": [
+      "Authoritarian management — Under Hornsby, Wilson collapsed. .261 / 13 HR / 61 RBI in 1931. The wrong manager capped the barrel.",
+      "October sun — the 1929 WS fly balls haunted him. Day games in October carried psychological weight.",
+      "Alcohol — hangovers degraded performance gradually. 'Never drunk, but hung over.' The hung-over version was still dangerous but not supernatural.",
+      "Post-peak decline — after 1930, the decline was catastrophic and irreversible. 56 HR became 13 became 9 became 6. The body broke fast."
+    ],
+    "pressure_response": "SPECTACULAR AND FRAGILE. Wilson's pressure response was binary: either he hit .471 in the World Series or he lost two fly balls in the sun. There was no middle ground. The barrel was full or empty. CLU = 1 reflects the overall balance — the fly balls and the ringless career outweigh the .471 WS average. But on any given at-bat, Wilson could be the most dangerous hitter alive."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "One Hundred Ninety-One",
+      "type": "Record / Immortality",
+      "text": "1930. Your center fielder drives in 191 runs. One hundred ninety-one. The all-time Major League Baseball record. Ninety-five years later, nobody has come within fifteen. He hits 56 home runs — the National League record for sixty-eight years. He bats .356. He slugs .723. He produces 423 total bases. He drives in 53 runs in August alone — the most productive month any hitter has ever had. On the last day of the season, he drives in Kiki Cuyler with an infield single for RBI number 191. The Cubs lose the pennant by two games. Your center fielder has produced the greatest offensive season in baseball history. It wins nothing. The record stands. The trophy case is empty.",
+      "origin": "Wilson's 1930 season — 191 RBI (all-time record), 56 HR, .356 BA. Cubs finished 2nd."
+    },
+    {
+      "title": "Lost in the Sun",
+      "type": "Tragedy / Nightmare",
+      "text": "October 12, 1929. Shibe Park, Philadelphia. Game Four of the World Series. Your center fielder has been hitting .471 in the Series. The Cubs lead 8-0 in the bottom of the seventh inning. The Athletics mount a rally. A fly ball is hit to center field. Your center fielder runs back. The sun is in his eyes. He loses the ball. It falls. Runners score. Another fly ball. Again the sun. Again he loses it. Mule Haas hits an inside-the-park home run through the space where your center fielder cannot see. The Athletics score ten runs. Ten runs in one inning. 8-0 becomes 10-8. Your center fielder walks off the field with glistening eyes. He never forgets. For the rest of his life — the pool halls, the bars, the factory floors — the sun is always in his eyes.",
+      "origin": "1929 WS Game 4 — Wilson lost two fly balls in the sun during the Athletics' 10-run 7th inning."
+    },
+    {
+      "title": "A White Male",
+      "type": "Tragedy / Epitaph",
+      "text": "November 23, 1948. A man dies in a Baltimore hospital. He is forty-eight years old. His body is unclaimed. The hospital identifies him as 'a white male.' His name was Lewis Robert Wilson. Eighteen years earlier, he drove in 191 runs in a single season — more than any man in the history of Major League Baseball. Before that and after that. He had opened a pool hall. It failed. He tended bar near Ebbets Field. He sang for drinks. The customers became abusive. He quit. He checked tools in an airplane factory. He managed a swimming pool for the city. The National League president, Ford Frick, paid three hundred and fifty dollars for the funeral of the all-time RBI king. The record still stands. The body did not.",
+      "origin": "Wilson's death — unclaimed body, Ford Frick's funeral payment, the last chapter."
+    },
+    {
+      "title": "The Barrel",
+      "type": "Character / Physical",
+      "text": "Your center fielder is five feet six inches tall. He weighs one hundred ninety pounds. His shoes are size six. His neck is eighteen inches around. He was born to two alcoholic parents. The oversized head. The small feet. The short legs. The flat face. The body was built wrong before it was born. And from this body — this barrel on toothpicks, this impossible physique — came 56 home runs and 191 RBI. The swing was a miracle of leverage: a short man looking UP at the ball, whipping the bat from below, generating power that defied physics. 'For a brief span of a few years, this hammered-down little strongman actually rivaled the mighty Ruth.'",
+      "origin": "Wilson's unique physique (likely Fetal Alcohol Syndrome) and the power it somehow produced."
+    },
+    {
+      "title": "McCarthy's Leash",
+      "type": "Character / Management",
+      "text": "Joe McCarthy understood that Hack Wilson was not a machine. He was a barrel of nitroglycerin. Handle with care. Forgive the hangovers. Ignore the speakeasy receipts. Let him swing away. Under McCarthy: .345, 39 HR, 159 RBI (1929). Then .356, 56 HR, 191 RBI (1930). Then McCarthy left and Rogers Hornsby arrived. Hornsby did not forgive. Hornsby did not ignore. Hornsby demanded discipline from a man whose body was built without it. Under Hornsby: .261, 13 HR, 61 RBI (1931). The talent was identical. The handler changed. The barrel cracked.",
+      "origin": "McCarthy vs. Hornsby — the management contrast that defined Wilson's peak and collapse."
+    },
+    {
+      "title": "Sang for Drinks",
+      "type": "Tragedy / Post-Career",
+      "text": "After baseball, your center fielder worked as a bartender near Ebbets Field in Brooklyn. When the bar was slow, he sang for drinks. He had a passable voice. The customers knew who he was — or who he had been. Sometimes they were kind. Sometimes they were not. When the abuse became too much, he quit. He moved to Baltimore. He checked tools in a factory. He dug ditches for the city. When the city discovered that the ditch-digger was the all-time RBI king, they made him manager of a swimming pool. 'Fans remembered my two dropped fly balls in the 1929 World Series far more vividly than my 56 home runs and 191 RBIs in 1930.' He was right. They did.",
+      "origin": "Wilson's post-career — bartender, singer for drinks, tool checker, laborer, pool manager."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'6\" 190 lbs — THE BARREL. A head too big for the body. A neck too thick for the head. Broad shoulders on short arms. Powerful chest on stubby legs. Size 6 feet. This is NOT a classical athlete's body — this is a body that SHOULDN'T work for baseball but did, spectacularly, for five years. The face should be OPEN and WARM when young (the affable Hack who signed autographs) but with shadows under the eyes that hint at what's coming. A flat, broad face with a wide jaw. The eyes are bright but slightly glassy — the hangover is always recent.",
+    "attire": "Chicago Cubs 1930 home whites. In a MASSIVE SWING — the bat coming through the zone from below, the barrel chest rotated, the follow-through carrying the body upward. The swing should look VIOLENT — not elegant like Hornsby's coiled precision, but raw, explosive, a barrel detonating. The uniform should be tight on the chest and loose on the legs — the disproportionate body rendered in cloth.",
+    "mood": "BRIGHT EXPLODING INTO DARK. This is the card of the highest peak and the lowest valley in the Bashers. The front should feel EXPLOSIVE — power, home runs, the roar of Wrigley Field, the 191 RBI. But the edges should darken — the speakeasy shadows, the sun in the eyes, the Baltimore hospital. The mood is FIREWORK — beautiful, brief, and then dark. The card that burns brightest burns shortest.",
+    "style": "Full color — Bashers era — INTENSE AND DOOMED. Cubs blue, amber gold, white hot. But TINGED with shadows — the blue is slightly too dark, the gold slightly too amber, the white slightly too gray. The border should be AMBER — the color of whiskey, the color of a setting sun, the color of a record that outlived the man by seventy-seven years. THE BARREL — the card that contains the most power in the smallest space. The card that breaks your heart.",
+    "reference": "Ruth is the solar system. Gehrig is the axis. Hornsby is the blade. Cuyler is the echo. Hack Wilson is THE BARREL — the most compressed power in the Bashers, the shortest fuse, the loudest explosion, the quietest death. He is the card you pick up expecting joy and put down in grief. 191 RBI. A white male. Three hundred and fifty dollars."
+  }
+}

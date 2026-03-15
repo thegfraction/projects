@@ -1,0 +1,202 @@
+{
+  "card_type": "player",
+  "name": "Rudy York",
+  "nickname": "The Big Gun of August",
+  "year": 1943,
+  "team": "Detroit Tigers",
+  "era": "1940s",
+  "ilb_team": "Allies AL1940",
+  "position": "1B",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'1\"",
+  "weight": "209 lbs",
+  "born": "August 17, 1913 — Ragland, AL",
+  "died": "February 5, 1970 — Rome, GA (age 56)",
+  "hof": "Not inducted. 7× All-Star, 1× WS champion (1945). Led ML in HR and RBI 1937-1947. Broke Ruth's single-month HR record. Inducted into Michigan, Georgia, and Alabama Sports HOFs posthumously.",
+  "real_stats": {
+    "season": 1943,
+    "games": 155,
+    "at_bats": 571,
+    "hits": 159,
+    "doubles": 26,
+    "triples": 3,
+    "home_runs": 34,
+    "rbi": 118,
+    "stolen_bases": 3,
+    "batting_avg": ".271",
+    "obp": ".354",
+    "slg": ".527",
+    "ops": ".881",
+    "ops_plus": 131,
+    "war": 4.5,
+    "all_star": 7,
+    "career_avg": ".275",
+    "career_hits": 1621,
+    "career_hr": 277,
+    "career_sb": 16,
+    "career_war": 27.1
+  },
+  "ilb_stats": {
+    "ovr": 7,
+    "con": 4,
+    "pow": 4,
+    "spd": 0,
+    "def": 0,
+    "clu": 1
+  },
+  "stat_justification": {
+    "con": "Hit .271 in 1943 — solid but unremarkable batting average. Career .275, never a high-average hitter. However, his OPS+ of 131 in 1943 (and 123 career) pushes him above average. The OPS+ bonus applies because his power and walks inflate his overall production beyond what the batting average suggests. CON tier 3 (.270-.299) + OPS+ bonus = 4.",
+    "pow": "34 HR in 1943 — led the American League. Also led in RBI (118), SLG (.527), total bases (301), and extra-base hits (67). Career: 277 HR, led all of Major League Baseball in home runs and RBIs from 1937-1947. Broke Babe Ruth's record with 18 HR in August 1937. Hit 12 career grand slams, including two in one game (July 27, 1946 — 10 RBI). SLG .527 exceeds .500 bonus threshold. POW tier 3 + SLG bonus = 4. York is the second pure power card in the set after Williams.",
+    "spd": "3 SB in 1943, 16 career. York was described as 'heavy-footed' and 'too awkward' for any position other than first base. He was tried at third base, outfield, catcher, and even pitcher — all abandoned due to immobility. 1B — no CF/SS bonus. SPD 0.",
+    "def": "York's defense was legendarily poor. He led AL first basemen in errors three times (1941, 1944, 1945). The famous quote: 'He is part Indian and part first baseman.' However, his defensive reputation may be slightly exaggerated — he also led AL 1B in assists three times and in double plays twice. Still, the overall assessment is below average. DEF 0.",
+    "clu": "Three World Series appearances: .221 BA (17-for-77) with 3 HR and 10 RBI across 1940, 1945, and 1946. The .221 PS BA is tier 0 (<.250). However, his 1946 WS performance for the Red Sox produced two of the most clutch home runs of the series: a walk-off HR in the 10th inning of Game 1, and a three-run homer to win Game 3. Those are genuine World Series hero moments, earning the +1 bonus. CLU 0 + 1 (WS hero moments) = 1."
+  },
+  "personality": {
+    "leadership_style": "Silent thunder. York was not a vocal leader — he led with his bat and his presence. At 6'1\" 209 lbs, he was physically imposing for the era. He didn't give speeches; he hit three-run home runs. When the Tigers needed someone to carry the offense after Greenberg left for the war, York simply did it. No fanfare, no demands — just power.",
+    "temperament": "Blue-collar, stoic, occasionally volatile. York endured brutal booing from Detroit fans in 1942-43 when he slumped, and the racial dimension of the heckling (his Cherokee ancestry was frequently invoked in cruel terms) was real. He internalized the abuse, slumped worse, and then channeled it into one of the great second-half surges in baseball history — 17 HR in August 1943. His temper ran hot but burned quietly. He held salary grudges (held out in 1942) and carried wounds from being shuffled position to position.",
+    "work_ethic": "Determined but undisciplined. York worked hard enough to become an adequate first baseman after years of positional chaos, but he never refined his contact approach — he was a free swinger who struck out frequently (top 5 in AL strikeouts nine times). His power was natural, not manufactured. He didn't study hitting like Williams; he simply crushed the ball when he connected. His post-career struggles (house painter, minor league manager with a 19-64 record) suggest a man who never found discipline outside of the batter's box.",
+    "lifestyle": "Hard-living Georgia mill-town roots. York grew up in Atco, a textile mill community outside Cartersville, GA, working in the mill as a teenager. He had a reputation for enjoying the nightlife, and most observers believed his excesses shortened his career by several years. He married young (age 18 to Violet Dupree), had three children, and after baseball worked as a house painter and forestry firefighter. He died of lung cancer at 56.",
+    "era_adaptability": "PERFECT DH. York's profile — massive power, poor defense, low average, high strikeouts — is the exact template for the modern designated hitter. He would thrive in today's game as a DH who hits 35+ HR annually. His problem was that the DH didn't exist until 1973. Every manager who had York spent years trying to find a position where his glove would do the least damage. In ILB: York is the strongest argument for creating a DH slot on the roster.",
+    "clubhouse_impact": "RELIABLE PRODUCER, QUIET PRESENCE. York was not a personality in the clubhouse — he was a bat. Teammates respected his power and his willingness to carry the lineup, but he wasn't the guy who organized dinners or lifted morale. George Kell, his Tigers teammate, was the social glue; York was the silent artillery. His Cherokee heritage made him a somewhat isolated figure in the lily-white clubhouse of the 1940s.",
+    "dark_side": "The slow erasure. York's post-baseball life was marked by decline. After being released by the A's at 35, he spent years as a minor league player-manager (19-64 record), was fired as Red Sox batting coach, and ended up painting houses in Cartersville. He died of lung cancer at 56 — young even for his era. Georgia Governor Jimmy Carter declared a Rudy York Day posthumously, but York never saw his field renamed or his Halls of Fame inductions. His excesses shortened his career and his life. In ILB: York carries a 'Burning Bright' trait — his peak is explosive but his decline is steep and his post-career arc is tragic. He is the card you play hard for five years and then watch fade."
+  },
+  "chemistry_traits": [
+    {
+      "tag": "Eighteen in August",
+      "desc": "York broke Ruth's monthly HR record with 18 in August 1937. Once per season, York can enter an 'August Mode': for one calendar month, his POW increases to 5 and he cannot be benched."
+    },
+    {
+      "tag": "Part Indian, Part First Baseman",
+      "desc": "York's defensive reputation precedes him. When York commits an error, there is a 40% chance the opponent scores an additional run. But his bat makes managers keep writing his name in the lineup."
+    },
+    {
+      "tag": "Grand Slam King",
+      "desc": "12 career grand slams, including two in one game. When the bases are loaded, York's POW increases by +2. The bases-loaded modifier is the highest in the set."
+    },
+    {
+      "tag": "Mill Town Muscle",
+      "desc": "Grew up working in an Atco, GA textile mill. +1 chemistry with blue-collar and rural players (Vernon, Travis, Kell). Uncomfortable around sophistication."
+    },
+    {
+      "tag": "Greenberg's Replacement",
+      "desc": "When Hank Greenberg left for war, York became Detroit's primary slugger. +2 POW when the team's best player is absent. York fills the vacuum."
+    },
+    {
+      "tag": "Boo-Proof (Eventually)",
+      "desc": "After enduring merciless booing in 1942-43, York's second-half surge proved he could channel hostility into production. After 3 consecutive games of being booed, York enters a Hot streak."
+    },
+    {
+      "tag": "Short Fuse, Long Ball",
+      "desc": "York held out in spring training, feuded with management over salary, and carried grudges. -1 team chemistry during contract disputes, but +1 POW when angry."
+    },
+    {
+      "tag": "The DH Before the DH",
+      "desc": "York's bat is so valuable that he must play despite his glove. In any game where York commits 2+ errors, his next at-bat receives +2 POW as compensation — the manager can't bench the lumber."
+    }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "York's temple. Everything else was a compromise to keep this bat in the lineup.",
+      "note_extra": "Source label: 'Batter's Box.' Mapped to Practice Field (offensive performance domain — consistent with prior Batter's Box mappings for Weaver Batch 43 and other position players). Standard HIGH affinity. Cross-field expression: CON 4, POW 4, and The DH Before the DH chemistry trait together encode why this is York's unambiguous peak domain despite DEF 0 everywhere else."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Born in Ragland, AL. Raised in Atco, GA mill town. Died in Rome, GA. A working man's player.",
+      "note_extra": "Source label: 'Mill Town / Blue-Collar Area.' Mapped to Community Events (working-class community origin venue — consistent with Ken Williams's 'Grants Pass, Oregon' ORIGIN mapping and Wheat's 'Hamilton, Missouri' mapping). HIGH affinity encodes deep biographical rootedness: born, raised, and died in working-class Georgia communities. Cross-field expression: Mill Town Muscle chemistry trait (+1 chemistry with blue-collar players) and lifestyle personality key ('hard-living Georgia mill-town roots') document the community identity encoded here."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "His home park for 9 seasons. The fans booed him mercilessly, then cheered when he hit it over the roof.",
+      "note_extra": "Source label: 'Tiger Stadium / Briggs Stadium.' Mapped to Community Events (ballpark/franchise home venue). MEDIUM affinity encodes the same ambivalence pattern as Williams Ted's Fenway Park (MEDIUM) — a site of peak performance but also sustained fan hostility. Cross-field expression: Boo-Proof (Eventually) chemistry trait (Hot streak after 3 consecutive games of booing) and The Boos Turn to Cheers action seed document the specific fan-relationship dynamic at this location."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "LOW",
+      "note": "Tried 3B, OF, C, P, and 1B. Failed at all but 1B, and even that was marginal.",
+      "note_extra": "Source label: 'Any Defensive Position.' Mapped to Practice Field (positional craft domain — a defensive position is a craft/skill domain; the 'Any' qualifier and the explicit failure note make this the most negatively valenced Practice Field entry in the set). LOW affinity encodes craft failure across five attempted positions. Cross-field expression: DEF 0, stat_justification/def ('legendarily poor'), and The Position Shuffle action seed (d6 roll for whether he leads in errors or manages adequacy) all encode the practice-field failure that this LOW captures."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "NONE",
+      "note": "Held out in 1942. Feuded over salary. Spring training was a battleground, not a sanctuary.",
+      "note_extra": "Source label: 'Spring Training / Contract Negotiations.' Mapped to Community Events (baseball institutional venue — spring training is the franchise's pre-season gathering space; the NONE affinity encodes York's active adversarial relationship with this venue rather than absence from it). NONE encodes maximal institutional conflict: salary holdouts, salary feuds, and the formal battleground of contract negotiations at the team's spring facilities. Cross-field expression: Short Fuse, Long Ball chemistry trait (-1 team chemistry during contract disputes) and temperament personality key ('held salary grudges, held out in 1942') document the biographical basis."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "NONE",
+      "note": "House painter, forestry firefighter. The big leagues didn't prepare him for civilian life.",
+      "note_extra": "Source label: 'Post-Career / Retirement.' Mapped to Community Events (post-career civilian life venue — consistent with prior 'post-career venue' mappings; house painting and forestry firefighting in Rome/Cartersville GA fit Community Events' 'post-career venues' scope). NONE affinity encodes the tragic erasure of the post-career arc: no transition support, no preparation, no lasting recognition during his lifetime. First card in the set where a post-career venue carries NONE — prior post-career entries (Spahn's Ranch HIGH, Wheat's Lake HIGH, Williams Cy's Three Lakes HOME/RETIREMENT) were all positive. York's is the dark mirror: the post-career not as fulfillment but as dissolution. Cross-field expression: dark_side personality key ('the slow erasure') and The House Painter action seed (died at 56 before seeing any posthumous honors) are the direct narrative expressions."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "August — York's magic month. 18 HR in Aug 1937, 17 HR in Aug 1943. York is a different player in late summer.",
+      "Bases loaded — 12 career grand slams, two in one game. The bases-loaded situation activates York's highest gear.",
+      "Proving doubters wrong — after being booed or benched, York's rage fueled historic production surges.",
+      "All-Star Games — hit a key 2-run HR in the 1942 ASG. Elevated on the big stage when relaxed."
+    ],
+    "cold_triggers": [
+      "Fan abuse — extended booing campaigns eroded confidence (early 1942-43), though he eventually channeled it",
+      "Position changes — being moved around the diamond shattered his focus and confidence",
+      "Salary disputes — holdouts and pay cuts put him in a sour mental space at season's start",
+      "Physical decline — after 1946, rapid power erosion. Hit .157 in final season (1948)."
+    ],
+    "pressure_response": "VOLATILE AND STREAKY. York is the most boom-or-bust card in the Allies set. When he's hot (August 1937: .360/18 HR/49 RBI in one month), he is arguably the most dangerous hitter in the American League. When he's cold (first half of 1943, final seasons), he looks lost. In ILB: York has the highest variance of any card. His floor is lower than Travis's; his ceiling is higher than Kell's. He is never average — he is either carrying the team or dragging it down. Managers who play York are gambling on the hot streaks outweighing the cold spells. The 'Eighteen in August' trait ensures at least one explosive month per season, but you can't control which month it will be."
+  },
+  "action_card_seeds": [
+    {
+      "title": "Eighteen in August",
+      "type": "Game Action",
+      "text": "Your slugger enters a transcendent hot streak. For one calendar month, he hits 18 home runs — breaking the existing record. His POW becomes 5, he cannot be benched, and the opposing team must pitch around him or face destruction. +3 fame. The month becomes legendary.",
+      "origin": "In August 1937, rookie Rudy York hit 18 home runs in a single month, breaking Babe Ruth's record of 17 set in September 1927. He also drove in 49 RBI that month, breaking Lou Gehrig's mark. The record stood for 61 years until Sammy Sosa hit 20 in June 1998."
+    },
+    {
+      "title": "Two Grand Slams, One Game",
+      "type": "Game Action",
+      "text": "Your first baseman hits two grand slams in a single game, driving in ten runs. The opposing pitcher is removed after the first; the reliever fares no better. Both home runs break windows in the same parked car beyond the outfield wall. +2 fame. Ripley's Believe It or Not writes it up.",
+      "origin": "On July 27, 1946, York hit two grand slams in one game for the Red Sox, driving in 10 runs. Both reportedly broke windows in the same car parked beyond the outfield wall — a feat so absurd it was featured in Ripley's Believe It or Not."
+    },
+    {
+      "title": "Walk-Off in the Tenth",
+      "type": "Game Action",
+      "text": "World Series, Game 1, bottom of the 10th inning, tied game. Your slugger drives a pitch into the seats. Walk-off home run. +2 CLU, +2 fame. The postseason legend begins.",
+      "origin": "In Game 1 of the 1946 World Series, York hit a walk-off home run in the bottom of the 10th inning to give the Red Sox a 3-2 victory over the Cardinals. He added a three-run homer in Game 3 to win that game as well."
+    },
+    {
+      "title": "The Position Shuffle",
+      "type": "Drama",
+      "text": "Your slugger has been tried at five positions: third base, outfield, catcher, pitcher, and first base. He has failed at all of them defensively. But his bat is too good to bench. The manager gives him one more chance at first base. If he commits fewer than 15 errors, he stays. Roll a d6: on 1-2, he leads the league in errors but also in HR. On 3-6, he becomes adequate enough to keep playing.",
+      "origin": "York was tried at 3B, OF, C, P, and 1B during his career. Tigers manager Mickey Cochrane moved him to catcher in desperation. In 1940, the Tigers convinced Hank Greenberg to move to LF so York could play 1B. Every position change was a desperate attempt to keep his bat in the lineup."
+    },
+    {
+      "title": "Greenberg Goes to War",
+      "type": "Drama",
+      "text": "Your team's superstar leaves for military service. Your power hitter must carry the offense alone. For the duration of the war years, your slugger gains +1 POW and +1 to RBI production, but also +1 to pressure and -1 to team morale (the star is missed). The burden is heavy but the big man shoulders it.",
+      "origin": "When Hank Greenberg entered military service after 1941, York became Detroit's sole offensive weapon. From 1941-1945, York was selected to five consecutive All-Star teams and led the AL in home runs (1943) while carrying a wartime Tigers team."
+    },
+    {
+      "title": "The Boos Turn to Cheers",
+      "type": "Drama",
+      "text": "Your slugger endures merciless fan abuse for a full season. He slumps, sulks, and appears on the verge of collapse. Then, in the second half, he erupts: 17 home runs in one month, leading the league in HR and RBI. The fans who booed him now cheer. +2 morale, +1 CLU. The redemption is real.",
+      "origin": "In 1942-43, Detroit fans booed York relentlessly. He slumped badly in the first half of 1943, drawing comparisons to a 'nervous breakdown.' Then he hit 17 HR in August 1943 — one short of his own record — and led the AL in HR (34) and RBI (118). The booing stopped."
+    },
+    {
+      "title": "The House Painter",
+      "type": "Drama",
+      "text": "After baseball, your former star works as a house painter in a small Georgia town. The fame fades. The money is gone. He dies young, at 56, of lung cancer. A year later, the governor declares a day in his honor. The field where he first played is renamed. The legacy arrives too late for the man to see it.",
+      "origin": "After leaving baseball, York worked as a self-employed house painter in Cartersville, GA. He died of lung cancer on February 5, 1970 at age 56. Georgia Governor Jimmy Carter declared August 17 as 'Rudy York Day' in 1971. His old Atco field was renamed Rudy York Memorial Field in 1972."
+    }
+  ],
+  "art_direction": {
+    "face": "Big, broad, powerful. 6'1\" 209 lbs — a large man for the 1940s. Strong jaw, wide shoulders, thick forearms. Dark complexion reflecting his Cherokee ancestry. The face of a man who worked in a textile mill as a teenager and hit baseballs over fences as an adult. Not handsome — formidable.",
+    "attire": "Detroit Tigers home whites, 1943 vintage. Old English 'D' on the cap, same as Kell but a different man entirely. Mid-swing: the right-handed power stroke, bat whipping through with uppercut trajectory — a home run swing, not a line-drive swing. Or: following through on a massive blast, watching the ball leave the park.",
+    "mood": "Raw power and blue-collar determination. Where Kell's card radiates warmth and Williams' card crackles with intellect, York's card should feel like a controlled explosion. The energy is physical, not cerebral. This is a man who solved problems by hitting the ball harder, not by thinking more carefully.",
+    "style": "Deep, warm sepia with amber undertones — earthier and grittier than the other cards. The background should suggest Briggs Stadium but with a slight haze, like August heat shimmering off the field. The light is late afternoon, heavy and golden, the kind of light that makes everything look bigger.",
+    "reference": "York's card should feel different from the other 1B card (Vernon). Vernon is precision and quiet; York is thunder and mess. They're the yin and yang of first base — one a surgeon, the other a wrecking ball. Together they define the position's full spectrum."
+  }
+}

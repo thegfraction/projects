@@ -1,0 +1,211 @@
+{
+  "card_type": "player",
+  "name": "Bucky Walters",
+  "nickname": "The Converted Man",
+  "year": 1939,
+  "team": "Cincinnati Reds",
+  "league": "National League",
+  "era": "1930s",
+  "ilb_team": "Crashers AL1930",
+  "position": "SP",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'1\"",
+  "weight": "180 lbs",
+  "born": "April 19, 1909 — Philadelphia, PA",
+  "died": "April 20, 1991 — Abington, PA (one day after his 82nd birthday)",
+  "hof": "Not inducted. Reds HOF 1958. 198-160, 3.30 ERA, 242 CG, 42 SHO, 1,107 K. 1939 NL MVP. 6× All-Star.",
+  "real_stats": {
+    "season": 1939,
+    "games": 39,
+    "wins": 27,
+    "losses": 11,
+    "era": "2.29",
+    "innings": "319.0",
+    "strikeouts": 137,
+    "walks": 80,
+    "complete_games": 31,
+    "shutouts": 2,
+    "whip": "1.14",
+    "war": 11.6,
+    "career_wins": 198,
+    "career_losses": 160,
+    "career_era": "3.30",
+    "career_strikeouts": 1107,
+    "career_cg": 242,
+    "career_shutouts": 42
+  },
+  "ilb_stats": {
+    "ovr": 9,
+    "stf": 3,
+    "ctl": 2,
+    "sta": 4,
+    "def": 2,
+    "clu": 3
+  },
+  "stat_justification": {
+    "stf": "2.29 ERA in 1939 → tier 3 (2.00-2.49). K/9 only 3.86 — no bonus (<6.0). Walters was not a strikeout pitcher. He relied on a sinker (Neyer/James: 6th-best of all time), the pitch later known as a slider taught by Chief Bender in 1935, a fastball, a curve, and occasionally a knuckleball. Elite results through movement and deception, not velocity. Rating of 3.",
+    "ctl": "BB/9 of 2.26 in 1939 (80 BB in 319 IP) → tier 2 (2.0-2.49). WHIP 1.14 → no bonus (>1.00). Led NL in WHIP in 1939 and 1940. Good control but not elite — he walked more than Young or Hubbell. Rating of 2.",
+    "sta": "319 IP in 1939 → tier 4 (300-349). 31 CG. Led NL in IP 3 consecutive years (1939: 319, 1940: 305, 1941: 302). Career 3,104 IP, 242 CG. The workhorse of the late-1930s NL. Rating of 4.",
+    "def": "Former third baseman. STATS Inc. All-Decade Gold Glove Team for 1930s pitchers. Led NL pitchers in assists (1936), double plays (1937, 1939, 1941, 1943). 1.000 fielding in 1944 (70 chances, zero errors). The best-fielding pitcher of his era. Rating of 2.",
+    "clu": "1940 WS: 2-0, 1.50 ERA. Game 6 (elimination game, Reds down 3-2): CG 5-hit shutout, homered, drove in 2 runs. One of the greatest individual WS game performances by a pitcher. PS ERA < 2.00 → tier 2. WS clincher bonus → +1. Rating of 3. But also: 1939 WS swept by Yankees (started Game 2, lost; lost Game 4 in relief during Lombardi's 'swoon'). The 1940 redemption makes it maximum clutch."
+  },
+  "personality": {
+    "leadership_style": "The Quiet Ace. Walters led through dominance, professionalism, and example. Warren Giles, Reds president: 'As great as your record is and as outstanding as have been your accomplishments, they reveal only a part of the Bucky Walters I know.' He was the pitching anchor of the 1939-40 pennant winners alongside Paul Derringer. Not flashy — but utterly reliable. The man you gave the ball to when you had to win.",
+    "temperament": "Determined, proud, competitive. He was a third baseman who refused to believe he should pitch until a chicken-shack ambush convinced him. He was a pitcher who refused to believe he couldn't reach 200 wins — he tried 8 times in 1949-50 and fell 2 short. He fought for his position, his salary, and his place in the game. Scottish-Irish-Dutch stubbornness in a Philly frame.",
+    "work_ethic": "Self-reinvented. Walters played 184 major league games as a third baseman before converting to pitcher at age 25. Then he became the NL MVP within 5 years. He learned the slider from Chief Bender (Hall of Famer). He mastered the sinker until it became the 6th-best of all time. He batted .325 in his MVP season because he never forgot he was a hitter. The transformation from average 3B to elite pitcher is one of baseball's greatest second-act stories.",
+    "lifestyle": "Philadelphia boy, start to finish. Born in Germantown. Family traced back to William Penn's colony. Father worked for Bell Telephone and played on the company team — young Bucky was the team mascot at age 6. Brother Jack played in the Reds organization. After baseball: insurance business, family life in the Philly suburbs. Died in Abington, PA — one day after his 82nd birthday. A Philadelphia life.",
+    "era_adaptability": "MODERATE. The sinker/slider combination translates beautifully — modern pitchers would kill for Walters' movement. The 319 IP wouldn't happen today, but the 2.29 ERA and 1.14 WHIP would. He'd be a 200-inning, sub-3.00 ERA sinker-baller who fields his position like an infielder. Think a right-handed Dallas Keuchel with better stuff and a bat. The former-3B athleticism gives him an edge no modern pitcher has.",
+    "clubhouse_impact": "ANCHOR. Walters and Derringer (25-7 in 1939) formed one of the great 1-2 pitching duos. Walters was the steadier personality — Derringer was more volatile. Together they carried the Reds to back-to-back pennants. Bill James credits Bill Werber as the cultural catalyst, but Walters was the on-field engine. The Reds won because Walters won.",
+    "dark_side": "The 198. Walters finished his career with 198 wins — 2 short of the 200 milestone that might have pushed him into the Hall of Fame. He tried 8 times in 1949-50 to get those last 2 wins and couldn't. He peaked at 23.7% in HOF voting but fell off. Tommy Lasorda: 'Bucky was a great player, a great pitcher, and certainly deserving of being inducted into the Hall of Fame.' The Veterans Committee has never closed the case. And the 1939 WS haunts — swept by the Yankees, Lombardi's 'swoon' in Game 4 while Walters was pitching in relief. The greatest season of his life ended with the most humiliating loss."
+  },
+  "chemistry_traits": [
+    {
+      "tag": "The Converted Man",
+      "desc": "Former third baseman. Walters can pinch-hit in emergencies (.243 career BA, 23 HR as a pitcher). +1 batting for a pitcher. Occasionally used as pinch-hitter in the 1940s."
+    },
+    {
+      "tag": "Chief Bender's Slider",
+      "desc": "Learned the slider from Hall of Famer Chief Bender in 1935. The pitch later became standard equipment for every pitcher. +1 STF when facing hitters who have never seen a slider before (first game against any team each season)."
+    },
+    {
+      "tag": "The Sixth-Best Sinker",
+      "desc": "Neyer/James: 6th-best sinker of all time. Walters induces ground balls constantly. -1 HR allowed per game. Opposing hitters get -1 POW when facing Walters."
+    },
+    {
+      "tag": "The Chicken Shack Conversion",
+      "desc": "Jimmie Wilson ambushed Walters at a chicken restaurant to convince him to switch from 3B to SP. Wilson promised $100 per win. Once per career: a player can be converted to a new position through a Chemistry Event. 40% chance it transforms their career. 60% chance they demand their old position back."
+    },
+    {
+      "tag": "Walters-Derringer",
+      "desc": "When paired with Paul Derringer (SP): +1 to both pitchers' stats. The 1-2 punch that carried Cincinnati to back-to-back pennants (1939-40). Combined 52-18 in 1939."
+    },
+    {
+      "tag": "The 198",
+      "desc": "Walters finished 2 wins short of 200. In his final seasons: -1 STA as age catches up. If he reaches 198 career wins: 30% chance he retires frustrated, 70% chance he keeps trying (and probably fails)."
+    },
+    {
+      "tag": "Pitcher-Umpire",
+      "desc": "On May 1, 1942, Walters umpired a major league game alongside Chuck Klein when umpire Lou Jorda had the flu. Once per career: Walters can serve as emergency umpire. +2 entertainment, +1 fairness rating."
+    },
+    {
+      "tag": "Stole Home",
+      "desc": "April 20, 1946: Walters stole home. A pitcher stole home. Once per career: if Walters is on third base, 10% chance he attempts to steal home. 60% success rate if attempted."
+    }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "160-107 as a Red. 1939-40 pennants. 1940 WS champion. MVP. Triple Crown. The best years of his life.",
+      "note_extra": "Source label: 'Crosley Field / Cincinnati.' Mapped to Community Events (ballpark/franchise home venue). Standard HIGH affinity. Cross-field expression: Walters-Derringer chemistry trait (the 1-2 punch plays out here) and The Elimination Game Masterpiece action seed (Crosley Field as the pennant-race home) encode the franchise identity embedded in this location. The source note packs five career-peak references into one clause — this is the densest community-anchor location in the batch."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "3,104 career IP. 242 CG. 42 SHO. The mound was his second home after the conversion.",
+      "note_extra": "Source label: 'The Mound — Any Park.' Mapped to Practice Field (craft/performance domain). The 'Any Park' qualifier explicitly generalizes this HIGH beyond a single ballpark, encoding the mound as a portable identity domain Walters carries regardless of venue. Standard HIGH affinity. Cross-field expression: STA 4, DEF 2 (former 3B athleticism), and The Converted Man chemistry trait together express the full scope of what Walters does on this location."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "MEDIUM",
+      "note": "184 games as a 3B. .243 career BA as a pitcher. He never forgot where he came from.",
+      "note_extra": "Source label: 'Third Base (Former Home).' Mapped to Practice Field (positional craft domain — third base as a former position identity site, consistent with Vaughan's 'Shortstop' and Veach's 'Left Field' mappings). MEDIUM affinity encodes a relationship of origin and residual skill rather than current-domain dominance — Walters keeps the 3B identity but has outgrown it as his primary site. First time this batch that Practice Field appears at both HIGH and MEDIUM on the same card. Cross-field expression: The Converted Man chemistry trait (+1 batting) and work_ethic personality key ('he batted .325 in his MVP season because he never forgot he was a hitter') encode the persistent 3B dimension."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Born in Germantown, died in Abington. Philly boy through and through. Family traced to Penn's colony.",
+      "note_extra": "Source label: 'Philadelphia / Home.' Mapped to Community Events (hometown/birthplace region). Standard MEDIUM affinity. Philadelphia is a biographical anchor but not a baseball-performance site — it shapes Walters' identity ('Scottish-Irish-Dutch stubbornness in a Philly frame') but he performed for Cincinnati. Cross-field expression: lifestyle personality key documents the Philadelphia beginning and ending of a life spent in baseball elsewhere."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "The chicken shack where Jimmie Wilson ambushed him into becoming a pitcher. Sacred ground for career changes.",
+      "note_extra": "Source label: 'Chicken Restaurants.' Mapped to Hotel/Rest (social dining/restaurant venue — consistent with prior 'Restaurant / Steakhouse' mappings under Hotel/Rest). MEDIUM affinity. The source note's 'sacred ground for career changes' gives this Hotel/Rest entry unusual weight — a MEDIUM that encodes a singular transformative event rather than habitual comfort. First Hotel/Rest entry in the set where the location's significance is biographical rather than behavioral. Cross-field expression: The Chicken Shack Conversion chemistry trait and action seed are the direct mechanical and narrative expressions of this location's one defining moment."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Mixed: swept in 1939 (Lombardi's swoon). Dominant in 1940 (2-0, 1.50 ERA, CG SHO + HR in Game 6).",
+      "note_extra": "Source label: 'World Series Stage.' Mapped to Community Events (showcase event ballpark — consistent with Vaughan's 'All-Star Game' and Veach's 'World Series' mappings). MEDIUM affinity encodes the temporal bifurcation between the 1939 humiliation and the 1940 masterpiece — neither pure HIGH nor LOW, but the unresolved average of two opposite extremes. Cross-field expression: CLU 3 reflects the 1940 redemption's dominance in the mechanical weighting; the dark_side personality key and Lombardi's Swoon action seed encode the 1939 shadow that makes this MEDIUM rather than HIGH."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "NONE",
+      "note": "198 wins. 23.7% peak HOF vote. Never inducted. Deserving but forgotten.",
+      "note_extra": "Source label: 'Hall of Fame.' Mapped to Media/Spotlight (legacy/history institutional domain — the Hall of Fame is an honor and legacy site fitting Media/Spotlight's 'legacy/history' dimension; distinct from Community Events since it's not a performance or gathering venue but an institutional recognition space). NONE affinity encodes permanent exclusion from a site Walters deserved but was denied — the sharpest possible null relationship to a location. First NONE for a Media/Spotlight entry in this batch. Compare Vaughan (Arky)'s Lost Lake at NONE (Community Events, Batch 37) which encoded death; Walters' HOF NONE encodes institutional rejection. Cross-field expression: dark_side personality key ('the 198 — 2 short of the 200 milestone that might have pushed him into the Hall of Fame') and The 198 chemistry trait (probabilistic late-career mechanics) and the One Hundred Ninety-Eight action seed are all expressions of this NONE."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "Pennant races — led the Reds to back-to-back pennants in 1939-40. Walters elevates with stakes.",
+      "Elimination games — Game 6 of 1940 WS: CG shutout + HR. When his team's season is on the line, Walters delivers.",
+      "Post-conversion momentum — after switching to pitching, Walters improved every year for 5 straight seasons.",
+      "Paired with Derringer — the 1-2 punch feeds both pitchers. Combined 52-18 in 1939."
+    ],
+    "cold_triggers": [
+      "Yankee dominance — the 1939 WS sweep was humiliating. Walters was 0-2 with a 4.91 ERA vs. the Yankees.",
+      "Age decline — after 1944, Walters slipped. The quest for 200 wins became a slow, painful grind.",
+      "Position change resistance — early in the conversion, Walters was reluctant. If forced to change roles again, -1 morale."
+    ],
+    "pressure_response": "REDEMPTION ACE. The 1939 WS was a disaster — swept by the Yankees, Lombardi's 'swoon' in Game 4 while Walters watched from the mound. But 1940 was the redemption. Game 6, Reds down 3 games to 2 against the Tigers: Walters pitched a complete-game 5-hit shutout AND hit a home run AND drove in 2 runs. It is one of the greatest individual World Series game performances in history — a pitcher dominating with his arm AND his bat in an elimination game. The next day, the Reds won Game 7 for their first championship since 1919. Walters was the reason."
+  },
+  "action_card_seeds": [
+    {
+      "title": "The Chicken Shack Conversion",
+      "type": "Drama",
+      "text": "Your manager wants to convert your struggling third baseman into a pitcher. Direct confrontation hasn't worked. So the manager sends two coaches to have lunch with the player at a chicken restaurant. They casually mention that pitchers make more money and play every fourth day. The manager 'unexpectedly' arrives and seals the deal. The player agrees — but only if he gets $100 for every win. Five years later, he's the NL MVP.",
+      "origin": "Jimmie Wilson ambushed Walters at a chicken shack in 1934. Coaches Lobert and Spalding softened him up. Wilson promised $100/win. Walters won 198 games."
+    },
+    {
+      "title": "The Elimination Game Masterpiece",
+      "type": "Game Action",
+      "text": "Your team is down 3 games to 2 in the World Series. Your ace takes the mound for Game 6. He throws a complete-game 5-hit shutout. He also hits a home run. He also drives in 2 runs. He is the entire team. Your franchise wins its first championship since 1919 the next day.",
+      "origin": "1940 WS Game 6: Walters CG SHO, 5 hits, HR, 2 RBI vs. Tigers. Reds won Game 7 for the title."
+    },
+    {
+      "title": "The Pitcher's Triple Crown",
+      "type": "Game Action",
+      "text": "Your ace leads the league in wins (27), ERA (2.29), and strikeouts (137). He also bats .325. He wins the MVP. A panel of sportswriters names him the 'All Around Player of the Year' — ahead of Joe DiMaggio. He is a converted third baseman who couldn't hit enough to stay in the lineup.",
+      "origin": "1939: Walters won the NL Pitching Triple Crown and NL MVP. Named 'All Around Player' over DiMaggio."
+    },
+    {
+      "title": "Lombardi's Swoon",
+      "type": "Drama",
+      "text": "Game 4 of the World Series. Your ace enters in relief. The Yankees score the go-ahead run when their baserunner crashes into your catcher at home plate. Your catcher lies dazed on the ground while another Yankee runner circles the bases and scores. The photograph of your catcher lying prone while the ball sits nearby becomes the defining image of the Series. Your team is swept.",
+      "origin": "1939 WS Game 4: Ernie Lombardi's 'swoon' at home plate while Walters pitched in relief. Yankees swept the Reds."
+    },
+    {
+      "title": "The Pitcher Umpires",
+      "type": "Action",
+      "text": "The umpire has the flu. No replacement is available. Your ace pitcher and an opposing outfielder volunteer to umpire the game. They work one inning before a real umpire arrives by plane. Nobody argues a call.",
+      "origin": "May 1, 1942: Walters and Chuck Klein umpired one inning when Lou Jorda had the flu, until Jocko Conlan arrived."
+    },
+    {
+      "title": "The Pitcher Steals Home",
+      "type": "Game Action",
+      "text": "Your pitcher is on third base. Nobody expects a pitcher to steal home. Your pitcher steals home. The catcher is so shocked he doesn't even throw.",
+      "origin": "April 20, 1946: Walters stole home. One of the rarest feats in baseball — a pitcher stealing home."
+    },
+    {
+      "title": "First Televised Win",
+      "type": "Action",
+      "text": "August 26, 1939. A television camera broadcasts a baseball game for the first time. Your ace is pitching. He wins. The game is seen by approximately 1,000 people on their television sets in the New York area. History is made, and hardly anyone notices at the time.",
+      "origin": "Walters earned the first televised win in MLB history: Reds vs. Dodgers at Ebbets Field, August 26, 1939."
+    },
+    {
+      "title": "One Hundred Ninety-Eight",
+      "type": "Drama",
+      "text": "Your ace has 198 career wins. He needs 2 more to reach the benchmark that might put him in the Hall of Fame. He tries 8 times over two seasons. He cannot get the wins. He retires at 198. He peaks at 23.7% in HOF voting. He is never inducted. Two wins. Just two wins.",
+      "origin": "Walters retired with 198 wins. He tried 8 times in 1949-50 to reach 200 but couldn't. Never inducted to HOF."
+    }
+  ],
+  "art_direction": {
+    "face": "Tall, lean, serious. 6'1\" 180 lbs. Hazel eyes, brown hair. Scottish-Irish-Dutch features. The face of a man who reinvented himself — there's intelligence and determination in the eyes. Not flashy, not intimidating. The quiet confidence of someone who knows he belongs.",
+    "attire": "Cincinnati Reds 1939 home whites, #31. Crosley Field behind him. The windup — the sinker about to be released, the ball sinking toward the batter's hands. Or: the follow-through of a home run swing, because this pitcher could hit.",
+    "mood": "Quiet dominance with an undercurrent of reinvention. The card should feel like a second chance — the third baseman who found his true calling on the mound. There's pride here, and a hint of what-might-have-been (the HOF snub, the 198 wins).",
+    "style": "Cincinnati Reds red and white. Warm, inviting, workmanlike. Not as flashy as the Gashouse Gang cards or as dark as the forgotten-star cards. This is a card about craft, reinvention, and doing your job better than anyone. Professional pride.",
+    "reference": "The card of the Converted Man. The third baseman who became the NL MVP. The pitcher who hit a home run in a World Series shutout. The man who umpired a game, stole home, and won the first game ever televised. The man who fell 2 wins short of immortality. Bucky Walters — the greatest career change in baseball history."
+  }
+}

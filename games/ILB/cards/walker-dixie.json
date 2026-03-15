@@ -1,0 +1,215 @@
+{
+  "card_type": "player",
+  "name": "Dixie Walker",
+  "nickname": "The People's Cherce",
+  "year": 1944,
+  "team": "Brooklyn Dodgers",
+  "era": "1940s",
+  "ilb_team": "Allies AL1940",
+  "position": "RF",
+  "bats": "L",
+  "throws": "R",
+  "height": "6'1\"",
+  "weight": "175 lbs",
+  "born": "September 24, 1910 — Villa Rica, GA",
+  "died": "May 17, 1982 — Birmingham, AL (age 71)",
+  "hof": "Not inducted. NL Batting Champion 1944. 5× All-Star. First NL Player Representative. Career .306 BA.",
+  "real_stats": {
+    "season": 1944,
+    "games": 148,
+    "at_bats": 535,
+    "hits": 191,
+    "doubles": 37,
+    "triples": 8,
+    "home_runs": 13,
+    "rbi": 91,
+    "stolen_bases": 4,
+    "batting_avg": ".357",
+    "obp": ".414",
+    "slg": ".529",
+    "ops": ".943",
+    "ops_plus": 164,
+    "war": 5.5,
+    "gold_gloves": 0,
+    "silver_sluggers": 0,
+    "all_star": 5,
+    "career_avg": ".306",
+    "career_hits": 2064,
+    "career_hr": 105,
+    "career_rbi": 1023,
+    "career_war": 37.4
+  },
+  "ilb_stats": {
+    "ovr": 7,
+    "con": 5,
+    "pow": 2,
+    "spd": 0,
+    "def": 1,
+    "clu": 0
+  },
+  "stat_justification": {
+    "con": "Led the NL with .357 BA in 1944 — beat Stan Musial by 10 points. Hit .300+ in 7 of 8 seasons with the Dodgers. Career .306 over 18 seasons. 2,064 career hits. Hit for the cycle on September 2, 1944. Pull hitter with excellent bat control. Baseball Almanac notes his .363 average led all of MLB that year. Maximum contact rating.",
+    "pow": "13 HR in 1944. Career 105 HR — moderate power. But SLG .529 earns the bonus (above .500). Walker was a line-drive doubles hitter (37 2B in 1944, 274 career). Led NL in RBI with 124 in 1945. He had gap power, not fence-clearing power. Rating of 2.",
+    "spd": "Only 4 SB in 1944. Walker's career was plagued by recurring shoulder and knee injuries that sapped his speed. He was once considered fast enough to replace Babe Ruth — but by his prime years, he was a station-to-station player. No speed value. Rating of 0.",
+    "def": "Walker led NL right fielders in range factor per game in 1941, 1942, 1943, and 1945. Led in assists in 1941 and 1945. Led in fielding percentage in 1945. Led in putouts in 1945. He was an excellent defensive right fielder with a fine throwing arm despite the shoulder injuries. Pre-Gold Glove equivalent: ~2-3 GG. Rating of 1.",
+    "clu": "1941 World Series: .222 BA (4-for-18), 1 RBI. Dodgers lost to Yankees in 5 games. 1947 World Series: limited role as Robinson-controversy fallout benched him. Never won a World Series. No hero moments. Career postseason: .222/.300/.356. Rating of 0."
+  },
+  "personality": {
+    "leadership_style": "Populist star, fan-driven authority. Walker's power came from the crowd — he was 'The People's Cherce' because Brooklyn adored him. He leveraged that popularity into real institutional power: he became the first NL Player Representative, negotiating the pension plan with owners and insisting on TV World Series revenues. He led through popularity and political savvy, not physical intimidation.",
+    "temperament": "Complex, charming, deeply conflicted. Walker was charismatic enough to be Brooklyn's biggest star and savvy enough to negotiate the first player pension. But he was also a product of segregated Alabama who organized a petition against Jackie Robinson. He was not a simple villain — he later acknowledged Robinson's talent and requested his trade letter back. But he never fully escaped the contradiction between his public charm and his private prejudice.",
+    "work_ethic": "Resilient comeback artist. Walker was nearly finished before Brooklyn. Recurring shoulder injuries from a 1931 fence crash, plus a 1939 knee injury, had made him a waiver-wire castoff. The Dodgers bought him for nothing, and he reinvented himself into a batting champion. He overcame injuries that would have ended most careers. He also worked steel mills as a teenager before baseball.",
+    "lifestyle": "Southern through and through. Born in Villa Rica, Georgia, grew up in Birmingham, Alabama. Ran a hardware and sporting goods store in Leeds, Alabama during offseasons. The store put him in daily contact with segregationist customers who pressured him about Robinson. Baseball family: father Ewart pitched for the Senators, brother Harry won a batting title with the Cardinals, uncle Ernie played for the Browns. After baseball, became a hitting coach — worked with the Dodgers from 1968-74.",
+    "era_adaptability": "MODERATE. Walker's .306 career average and line-drive approach would play in any era. His OBP (.383 career) shows good plate discipline. But his lack of speed and modest power would limit his modern value. His defensive skills in right field were legitimate. The biggest adaptation challenge: Walker's segregationist views would be career-ending in any modern context.",
+    "clubhouse_impact": "POLARIZING-COMPLEX. Walker was beloved by Brooklyn fans and respected by teammates for his hitting. But the Robinson petition fractured the clubhouse. Some teammates followed Walker; others (like Pee Wee Reese) refused. Leo Durocher shut it down: 'I don't care if the guy is yellow or black...I say he plays.' Walker's influence was enormous — but he chose the wrong side of history. Later, he acknowledged Robinson's greatness and became a respected hitting coach for the Dodgers.",
+    "dark_side": "The Robinson petition. Walker organized a player petition opposing Jackie Robinson joining the Dodgers in 1947 and wrote to Branch Rickey asking to be traded. He cited pressure from his Alabama customers: 'Do you mean you shower with this guy?' By season's end, Walker told the Sporting News that Robinson had done more than anyone to put the Dodgers in the pennant race. But Rickey traded him to Pittsburgh for $1 after the season. In ILB terms: Walker carries a 'Wrong Side of History' trait — his legacy is forever scarred. This trait creates negative chemistry with Black players and progressive teammates, but Walker can evolve: a 'Redemption Arc' event can partially restore his reputation."
+  },
+  "chemistry_traits": [
+    {
+      "tag": "The People's Cherce",
+      "desc": "Brooklyn's most popular player. +2 fan morale at Ebbets Field. Home crowd goes wild when Walker bats."
+    },
+    {
+      "tag": "Batting Champion",
+      "desc": "1944 NL batting title (.357). +1 CON in home ballpark. Walker's swing was perfectly tailored to Ebbets Field's dimensions."
+    },
+    {
+      "tag": "Player Rep Pioneer",
+      "desc": "First NL Player Representative. Negotiated the first player pension plan. +1 respect from all teammates for fighting for their financial future."
+    },
+    {
+      "tag": "Wrong Side of History",
+      "desc": "Organized petition against Robinson in 1947. -2 chemistry with Black players. -1 chemistry with progressive teammates. Creates clubhouse tension events."
+    },
+    {
+      "tag": "Redemption Arc",
+      "desc": "Walker acknowledged Robinson's greatness by season's end. If 'Wrong Side' event triggers and Walker witnesses Robinson's excellence, 50% chance of converting to neutral or positive chemistry."
+    },
+    {
+      "tag": "Comeback King",
+      "desc": "Written off as a waiver-wire castoff. Reinvented himself into a star. +1 resilience — Walker recovers from injuries and slumps faster than average."
+    },
+    {
+      "tag": "Baseball Bloodlines",
+      "desc": "Father, brother, uncle all played in the majors. Baseball intelligence is hereditary. +1 to hitting approach and situational awareness."
+    },
+    {
+      "tag": "Hardware Store",
+      "desc": "Ran a sporting goods store in segregated Alabama. Community pressure shaped his views. -1 to era adaptability when placed in progressive social contexts."
+    }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Natural hitter. .306 career. Batting champion. Became one of the best hitting coaches in baseball.",
+      "note_extra": "Source label: 'Batter's Box / Practice Field.' Mapped to Practice Field (craft/performance domain — the batter's box as the site of hitting mastery, and the coaching career as the Practice Field's post-playing extension). Established dual-label pattern. Standard HIGH affinity. Cross-field expression: Batting Champion chemistry trait (+1 CON in home ballpark) and The Redemption Coach action seed (returns to Practice Field domain as a coach) are the peak and coda of this location's arc."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "The People's Cherce. Brooklyn adored him. .311 BA as a Dodger.",
+      "note_extra": "Source label: 'Ebbets Field / Home Park.' Mapped to Community Events (ballpark/franchise home venue). Standard HIGH affinity. Cross-field expression: The People's Cherce chemistry trait (+2 fan morale at Ebbets Field) and The People's Cherce action seed are the mechanical and narrative expressions of this location's devotional quality. The source note's use of 'The People's Cherce' as the location's defining characteristic makes this the most identity-fused Community Events HIGH in the batch."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Ran sporting goods store in Leeds, Alabama. Working-class roots, business-minded.",
+      "note_extra": "Source label: 'Hardware Store / Business.' Mapped to Community Events (post-career business venue — a local hardware and sporting goods store is a community anchor and post-career public venue, consistent with the Community Events taxonomy's 'post-career venues' scope). Standard HIGH affinity. Cross-field expression: Hardware Store chemistry trait (-1 era adaptability in progressive contexts) and The Hardware Store Dilemma action seed make this Community Events HIGH the most morally freighted location on the card — a beloved community space that also produced the conditions for the Robinson petition."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Respected hitter, popular with fans. But the Robinson controversy divided the room.",
+      "note_extra": "Source label: 'Clubhouse / Locker Room.' Canonical taxonomy explicitly lists 'Clubhouse, locker room' under Hotel/Rest. MEDIUM affinity reflects the ambivalence: Walker was respected in the clubhouse as a hitter and union advocate, but the Robinson petition created a genuine fracture. Compare Waddell's HIGH clubhouse entry (Batch 39) encoding compulsive warmth — Walker's MEDIUM encodes conditional belonging. Cross-field expression: clubhouse_impact personality key ('POLARIZING-COMPLEX') is the direct encoding of this MEDIUM."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Born Georgia, lived Alabama. Deep Southern identity shaped everything.",
+      "note_extra": "Source label: 'Southern Home / Alabama.' Mapped to Community Events (hometown/birthplace region — consistent with prior 'Coal Country,' 'Texas / Open Country,' 'Nebraska' mappings). Standard HIGH affinity. This is the third Community Events HIGH on the card, reflecting Walker's deep geographic identity. Cross-field expression: lifestyle personality key ('Southern through and through') and era_adaptability key ('Walker's segregationist views would be career-ending in any modern context') both flow from this location's hold on his identity."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Charming, popular. Good with people one-on-one. But segregation-era social circles.",
+      "note_extra": "Source label: 'Bar / Social Events.' Mapped to Hotel/Rest (canonical taxonomy lists 'bar/nightlife' under Hotel/Rest). MEDIUM affinity encodes Walker's genuine social ease alongside the segregated context of his social world — he was charming and popular but his social circles were racially circumscribed. Distinct from LOW bar affinities (Vernon, Vosmik) which encoded avoidance; here it is limited engagement. Cross-field expression: temperament personality key ('complex, charming') is the basis for the MEDIUM rather than LOW."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "LOW",
+      "note": "Deeply uncomfortable with integration in 1947. Later evolved as hitting coach for diverse Dodger teams.",
+      "note_extra": "Source label: 'Integration Events.' Mapped to Community Events (public civil/social events — integration milestones played out in public community spaces; the closest canonical domain for racially charged public events). LOW affinity encodes active discomfort and avoidance in 1947, with a noted post-career evolution. This is a temporally bifurcated affinity: LOW in the card's 1944 snapshot year, tending toward MEDIUM by the 1968-74 coaching period. The LOW reflects the peak-year card's honest encoding of Walker's 1947 stance. Cross-field expression: Wrong Side of History chemistry trait (-2 chemistry with Black players) and Redemption Arc trait (potential conversion) encode the mechanical expression of this LOW and its conditional evolution."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "Games against the Giants — Walker hit .436 vs. NY in 1940, fueling the rivalry",
+      "Batting title races — Walker thrived under the pressure of statistical competition",
+      "Fan energy at Ebbets Field — the Brooklyn crowd lifted Walker's performance",
+      "Comeback scenarios — Walker's career was one long comeback from injury and obscurity"
+    ],
+    "cold_triggers": [
+      "World Series pressure — .222 in 1941, limited role in 1947. Never won a ring",
+      "Integration tension — the 1947 Robinson situation consumed Walker and hurt his focus",
+      "Recurring injuries — shoulder, knee, and other ailments could flare up unpredictably"
+    ],
+    "pressure_response": "REGULAR SEASON HERO, OCTOBER GHOST. Walker was magnificent during the season — five consecutive All-Star selections, a batting title, an RBI crown, five top-10 MVP finishes. But in October, he disappeared. His .222 career postseason average tells the story. The People's Cherce was beloved in the regular season but never delivered the defining October moment that would have cemented his legend. In ILB terms: Walker gets +1 CON during the regular season in front of home crowds, but -1 in World Series play."
+  },
+  "action_card_seeds": [
+    {
+      "title": "The People's Cherce",
+      "type": "Drama",
+      "text": "A waiver-wire castoff arrives at a new ballpark. The fans adopt him immediately. He becomes the most popular player in the franchise. They give him a nickname in their own dialect. He belongs to them — not to management, not to the press. The people chose him.",
+      "origin": "Walker was claimed off waivers by Brooklyn in 1939 for nothing. He became Ebbets Field's biggest star. 'The People's Cherce' was Brooklynese for 'The People's Choice.'"
+    },
+    {
+      "title": "The Petition",
+      "type": "Drama",
+      "text": "Your team's most popular player circulates a petition against a new teammate joining the roster. The manager calls a midnight meeting and says: 'I don't care if he has stripes like a zebra. He plays.' The petition dies. But the damage to the petitioner's legacy is permanent.",
+      "origin": "Walker organized a Dodgers player petition opposing Jackie Robinson in 1947. Durocher shut it down in a famous midnight meeting. Walker asked Rickey to trade him."
+    },
+    {
+      "title": "Hit for the Cycle",
+      "type": "Game Action",
+      "text": "Your batting champion hits a single, double, triple, and home run in one game. The home run clears the right field wall and goes through an opening in the screen, onto the street. He raises his average to .361. It's one of the best days of hitting anyone has ever seen.",
+      "origin": "September 2, 1944. Walker hit for the cycle vs. the Giants. His HR went through the Ebbets Field screen onto Bedford Avenue. He raised his average to .361 and his OPS to .980."
+    },
+    {
+      "title": "The $1 Trade",
+      "type": "Drama",
+      "text": "Your franchise's most popular player organized the petition. He asked to be traded. By season's end, he admitted the new teammate was the best player on the team. But the owner trades him anyway — for one dollar. The price tag is the insult. The message is clear.",
+      "origin": "After the 1947 season, Rickey sent Walker to Pittsburgh as part of a deal. The symbolic sting: Brooklyn's biggest star, traded away because he stood on the wrong side."
+    },
+    {
+      "title": "Ruth's Successor — Or Not",
+      "type": "Drama",
+      "text": "Your prospect is signed for a record bonus as the designated successor to the greatest player in franchise history. Then he crashes into a fence and tears his shoulder. Surgery follows surgery. He bounces through three teams. Everyone writes him off. Then he wins a batting title.",
+      "origin": "Walker was signed by the Yankees in 1930 for $25,000 as Babe Ruth's successor. A 1931 fence collision wrecked his shoulder. He was waived, traded, written off — then won the 1944 NL batting title."
+    },
+    {
+      "title": "The First Player Rep",
+      "type": "Action",
+      "text": "Your star player becomes the first player representative recognized by the owners. He negotiates a pension plan for all players. He insists that World Series TV revenues fund the plan. The owners agree. Every player who retires after this moment owes him a debt.",
+      "origin": "After the 1946 season, Walker became the first NL Player Representative. He negotiated the first player pension plan and insisted on including TV World Series revenues — a visionary financial move."
+    },
+    {
+      "title": "The Hardware Store Dilemma",
+      "type": "Drama",
+      "text": "Your star player goes home to his segregated Southern town in the offseason. His customers ask: 'Do you shower with this guy? Do you eat with this guy?' He has to choose between his teammates and his community. He chooses wrong — but he's not entirely free to choose.",
+      "origin": "Walker's Leeds, Alabama hardware store put him face-to-face with segregationist pressure. He later said the petition wasn't about Robinson personally, but about the impossible position between his two worlds."
+    },
+    {
+      "title": "The Redemption Coach",
+      "type": "Action",
+      "text": "The man who organized the petition against the Black player returns to the same franchise twenty years later — as a hitting coach. He works with players of all races. The owner presents him with a silver bat honoring his batting title. The circle closes, imperfectly.",
+      "origin": "In 1968, Walker returned to the Dodgers as hitting coach, serving until 1974. Walter O'Malley gave him a silver bat honoring his 1944 batting title and included him in his personal all-time Dodgers outfield."
+    }
+  ],
+  "art_direction": {
+    "face": "6'1\" 175 lbs, lean and athletic. Southern-handsome — sandy hair, open face, easy smile. The charm that made Brooklyn love him. But look deeper — there's complexity in the eyes. This is a man who was both 'The People's Cherce' and the organizer of the Robinson petition. The face should be warm but troubled.",
+    "attire": "Brooklyn Dodgers home whites, 1944 style. Classic wartime-era flannel, 'Dodgers' across the chest. Left-handed batter in a smooth, compact swing — the line drive heading to right-center, the follow-through of a batting champion.",
+    "mood": "Populist warmth with an undercurrent of conflict. Ebbets Field roaring behind him, the Brooklyn crowd chanting his name. But somewhere in the shadows, the petition. The card should feel like a man who was everything to a community — and then wasn't.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Ebbets Field in the 1940s — intimate, packed, the fans close enough to touch. The card should feel like Brooklyn at its peak: loud, passionate, complicated.",
+    "reference": "Think the contradiction at the heart of wartime baseball: a beloved star, a batting champion, a pioneer of player rights — who also tried to keep Jackie Robinson off his team. The card should hold both truths simultaneously."
+  }
+}

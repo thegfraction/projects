@@ -1,0 +1,208 @@
+{
+  "card_type": "player",
+  "name": "Ted Williams",
+  "nickname": "The Splendid Splinter",
+  "year": 1941,
+  "team": "Boston Red Sox",
+  "era": "1940s",
+  "ilb_team": "Allies AL1940",
+  "position": "LF",
+  "bats": "L",
+  "throws": "R",
+  "height": "6'3\"",
+  "weight": "205 lbs",
+  "born": "August 30, 1918 — San Diego, CA",
+  "died": "July 5, 2002 — Inverness, FL",
+  "hof": "Inducted 1966. 2× MVP, 2× Triple Crown, 6× batting title, 19× All-Star, .344 career BA, 521 HR, .482 career OBP (all-time record).",
+  "real_stats": {
+    "season": 1941,
+    "games": 143,
+    "at_bats": 456,
+    "hits": 185,
+    "doubles": 33,
+    "triples": 3,
+    "home_runs": 37,
+    "rbi": 120,
+    "stolen_bases": 2,
+    "batting_avg": ".406",
+    "obp": ".553",
+    "slg": ".735",
+    "ops": "1.287",
+    "ops_plus": 235,
+    "war": 10.4,
+    "all_star": 19,
+    "career_avg": ".344",
+    "career_hits": 2654,
+    "career_hr": 521,
+    "career_sb": 24,
+    "career_war": 121.8
+  },
+  "ilb_stats": {
+    "ovr": 11,
+    "con": 5,
+    "pow": 4,
+    "spd": 0,
+    "def": 0,
+    "clu": 1
+  },
+  "stat_justification": {
+    "con": "The greatest contact season in modern baseball history: .406 BA, .553 OBP, 235 OPS+. Only 27 strikeouts in 606 plate appearances. Led all of baseball in BA, OBP, SLG, OPS, HR, runs, and walks. Career: .344 BA (highest in the live-ball era), .482 OBP (all-time MLB record). 20/10 eyesight — he could see the spin on a pitch that other hitters couldn't detect. Williams didn't just hit .406; under post-1954 sacrifice fly rules, he would have hit .413. Maximum contact, and it's not particularly close.",
+    "pow": "37 HR in 1941 — led both leagues. SLG .735, well above the .500 bonus threshold. Career: 521 HR despite losing nearly five full seasons to WWII and Korea. Bill James estimated Williams lost approximately 150 HR to military service, projecting him to roughly 670 career HR. POW 3 (HR tier) + 1 (SLG bonus) = 4. The combination of Williams' contact AND power is unmatched — he is the only player in this set with CON 5 and POW 4.",
+    "spd": "2 SB in 1941, 24 career. Williams was emphatically not a speed player. At 6'3\" 205 lbs, he was a large man for the era. Played left field — no CF/SS Gold Glove bonus available. SPD 0.",
+    "def": "Williams was a below-average to poor defensive outfielder throughout his career. As a rookie, he led the league in errors. He was known for taking imaginary swings while standing in the outfield during games. His defensive metrics are significantly negative (-8.8 DEF in 1941 per FanGraphs). He would never have been in Gold Glove contention. DEF 0.",
+    "clu": "The one blemish. Williams appeared in only one World Series — 1946, where he hit .200 with 5 hits and 1 RBI in 7 games as the Red Sox lost to the Cardinals. His postseason BA falls in tier 0 (<.250). However, his 1941 All-Star Game walk-off three-run home run — with two outs in the 9th inning, on a 2-1 count off Claude Passeau — is one of the most legendary clutch moments in All-Star history. That earns the hero moment bonus. CLU 0 (PS BA tier) + 1 (ASG hero moment) = 1."
+  },
+  "personality": {
+    "leadership_style": "Volcanic, confrontational, relentlessly demanding. Williams led by force of personality and obsession. He talked constantly about hitting — to teammates, to opponents, to anyone who would listen. He was the world's foremost authority on the science of hitting and he knew it. His leadership wasn't quiet or gravitational like DiMaggio's — it was loud, opinionated, and utterly impossible to ignore. He made teammates better by arguing with them about their swing until they capitulated.",
+    "temperament": "Explosive and thin-skinned with the press; generous and warm with teammates and fans who approached him with genuine baseball curiosity. Williams spat at Fenway fans, gave obscene gestures to reporters, and feuded publicly with the Boston media throughout his career. He vowed never to tip his cap to Red Sox fans after being booed in 1940 — and kept that vow for twenty years, even after his legendary final home run. But privately, he spent enormous time visiting sick children in hospitals and was the driving force behind the Jimmy Fund charity for decades.",
+    "work_ethic": "Singular. Williams' approach to hitting was scientific, obsessive, and decades ahead of its time. He wrote The Science of Hitting, the most influential batting treatise ever published. He studied pitcher tendencies, kept mental logs of every at-bat, and calculated the mathematical probability of getting a hit based on pitch location — dividing the strike zone into 77 cells. He practiced his swing constantly, including while standing in left field during games. 20/10 eyesight gave him a biological advantage, but the intellectual preparation is what made him the greatest.",
+    "lifestyle": "Fishing, flying, and feuding. Williams was an avid outdoorsman — one of the finest fly fishermen in the world. He served as a Marine fighter pilot in both WWII (1943-1945) and Korea (1952-1953), flying 39 combat missions in the latter, once crash-landing a burning F-9 Panther jet. His teammate John Glenn (the astronaut) described Williams as one of the best natural pilots he'd ever seen. Off the field, Williams was twice divorced and had complicated relationships with his children. His final years were mired in a bizarre cryonics controversy.",
+    "era_adaptability": "TRANSCENDENT. Williams' approach — disciplined pitch selection, mathematical zone theory, launch-angle awareness — is essentially the blueprint for modern analytics-driven hitting. His .482 career OBP would lead the majors in almost any season in any era. His power was genuine (521 HR). The only limitation is his defense, which was poor even by 1940s standards. In modern baseball, he'd be a pure DH — and the greatest DH imaginable.",
+    "clubhouse_impact": "POLARIZING-BRILLIANT. Williams divided every room he entered. Reporters hated him. Some teammates adored him (Bobby Doerr, Dom DiMaggio). Others found him exhausting. He talked about hitting incessantly — at meals, on buses, in the dugout, in the clubhouse. But the men who listened learned from the greatest hitting mind in baseball history. Williams elevated the hitters around him through sheer force of instruction and argument.",
+    "dark_side": "The rage. Williams' relationship with the Boston press and fans was genuinely toxic. He spat toward the stands multiple times. He made obscene gestures. He called reporters names in print. He refused to tip his cap for twenty consecutive years as an act of defiance against fans who had booed him. When he hit .200 in the 1946 World Series — the only postseason of his career — the city turned on him and he never forgave them. In ILB terms: Williams carries a 'Never Tip Your Cap' trait. In home games, if the crowd hostility exceeds a threshold, Williams' focus drops by 1 but his power increases by 1 — he hits angry. He also carries a 'Press War' trait: his fame modifier fluctuates wildly, and in any city with aggressive media coverage, there is a chance of a distraction event that costs the team 1 morale."
+  },
+  "chemistry_traits": [
+    {
+      "tag": "The Science of Hitting",
+      "desc": "Williams' hitting IQ is unmatched. All teammates gain +1 CON when Williams is on the roster, as he obsessively coaches their swings."
+    },
+    {
+      "tag": "Never Tip Your Cap",
+      "desc": "Williams is defiant under pressure. When booed at home, his POW increases by 1 but team morale drops by 1. The anger fuels him."
+    },
+    {
+      "tag": ".406",
+      "desc": "The last .400 hitter. Williams cannot be held below .300 for any 30-game stretch. If his average drops below .300, he automatically enters a Hot streak."
+    },
+    {
+      "tag": "Teddy Ballgame",
+      "desc": "Williams connects with kids and underdogs. +2 chemistry with rookie players. Visits to children's hospitals generate +1 team morale per season."
+    },
+    {
+      "tag": "Fighter Pilot",
+      "desc": "Combat veteran of WWII and Korea. 39 combat missions in Korea. +3 chemistry with military veterans. Immune to fear-based events."
+    },
+    {
+      "tag": "Press War",
+      "desc": "Williams' feud with Boston media creates unpredictable fame swings. In cities with aggressive press, 30% chance of distraction event costing -1 team morale."
+    },
+    {
+      "tag": "The Splendid Eye",
+      "desc": "20/10 vision. Williams sees pitch spin that others cannot. +1 to plate discipline checks. Draws walks at an extraordinary rate."
+    },
+    {
+      "tag": "DiMaggio's Rival",
+      "desc": "Eternal competition with Joe DiMaggio. When both are on opposing rosters, each gains +1 to all offensive stats. The rivalry elevates both men."
+    }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Williams' temple. He practiced his swing everywhere — including in left field during games. The 77-cell strike zone lives here.",
+      "note_extra": "Source label: 'Batting Cages / Practice Field.' The source label contains 'Practice Field' explicitly — direct self-mapping, same pattern as Spahn's 'Pitcher's Mound / Practice Field' (Batch 44). Mapped to Practice Field (craft/performance domain). Standard HIGH affinity. Cross-field expression: work_ethic personality key ('practiced his swing constantly, including while standing in left field') and The Science of Hitting chemistry trait (+1 CON to all teammates) are the mechanical and narrative expressions of this location's obsessive craft identity."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "One of the world's finest fly fishermen. The Florida Keys were his sanctuary. Member of the IGFA Fishing Hall of Fame.",
+      "note_extra": "Source label: 'Fishing Stream / Outdoors.' Mapped to Community Events (outdoor/leisure venue — consistent with Spahn's 'Ranch / Rural Area' at HIGH and Wheat's 'Lake of the Ozarks' at HIGH). Standard HIGH affinity. The fishing identity is Williams's most complete off-field self: he was inducted into the IGFA Fishing Hall of Fame alongside his baseball HOF induction, making this Community Events entry carry unusual parallel-career weight. Cross-field expression: lifestyle personality key ('one of the finest fly fishermen in the world') documents the biographical anchor."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "Marine fighter pilot. Crash-landed a burning jet in Korea. John Glenn called him a natural pilot.",
+      "note_extra": "Source label: 'Cockpit / Military.' Mapped to Hotel/Rest (non-baseball daily-life operational domain — a military cockpit/airbase is a functional daily-life space distinct from a performance venue or public gathering; Hotel/Rest covers operational non-baseball environments including barracks, aircraft, and military installations). HIGH affinity encodes genuine excellence and identity in this domain: Williams was not merely a serviceman but an exceptional combat pilot across two wars. Cross-field expression: Fighter Pilot chemistry trait (+3 chemistry with military veterans, immune to fear-based events) and Crash Landing in Korea action seed are the mechanical and narrative expressions. John Glenn cross-reference (Glenn named in the action seed origin) links to the larger WWII/Korea veterans constellation in the Allies AL1940 set."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "His stage, his prison. Loved the ballpark, hated the fans who booed him, loathed the press who covered him. Complicated.",
+      "note_extra": "Source label: 'Fenway Park.' Mapped to Community Events (ballpark/franchise home venue — standard ballpark mapping). MEDIUM affinity encodes the famous ambivalence: peak performance occurred here but so did the booing, the gestures, the decades-long cap refusal. The MEDIUM is the honest average of two extremes rather than a simple attenuated HIGH. Cross-field expression: Never Tip Your Cap chemistry trait (POW +1 when booed at home) and the dark_side personality key encode the emotional texture of this MEDIUM. The Never Tip Your Cap action seed explicitly sets the origin at Fenway. Compare Wheat's Ebbets Field at HIGH (uncomplicated franchise love) — Williams's Fenway is the Allies set's equivalent of Weaver's World Series TRAGIC: a location of simultaneous excellence and injury."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Would talk hitting for hours with anyone who asked. Generous with instruction. Exhausting with opinions.",
+      "note_extra": "Source label: 'Clubhouse / Locker Room.' Canonical taxonomy explicitly lists 'Clubhouse, locker room' under Hotel/Rest. MEDIUM affinity reflects Williams's polarizing clubhouse presence: intensely generous with hitting knowledge, exhausting with opinions, neither wholly positive (like Spahn's HIGH) nor negative. Cross-field expression: clubhouse_impact personality key ('POLARIZING-BRILLIANT — Williams divided every room he entered') and The Science of Hitting chemistry trait together express the clubhouse's dual nature."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "NONE",
+      "note": "Lifetime war with Boston press. Dave Egan of the Boston Record was his nemesis. Williams refused interviews for years.",
+      "note_extra": "Source label: 'Media / Press Room.' Maps directly to Media/Spotlight canonical domain. NONE affinity encodes active and permanent hostility rather than mere absence — Williams did not avoid the press passively (like Spahn's LOW) but waged a declared war against it for his entire career. This is the third NONE for Media/Spotlight in the batch (after Walker's Hall of Fame exclusion Batch 40, Walters' Hall of Fame exclusion Batch 42). Williams's NONE is unique: the first NONE for Media/Spotlight that encodes active aggression rather than institutional exclusion. Cross-field expression: Press War chemistry trait (30% distraction event in cities with aggressive press) and dark_side personality key ('refused to tip his cap for twenty consecutive years as an act of defiance') are the direct mechanical and narrative expressions."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "LOW",
+      "note": "Uncomfortable with ceremony. His HOF induction speech (1966) was gracious but his career was defined by refusing public gestures.",
+      "note_extra": "Source label: 'Formal Events / Ceremonies.' Mapped to Media/Spotlight (public ceremony/legacy space — award ceremonies, HOF induction, formal recognition events fit Media/Spotlight's 'legacy/history' dimension; distinct from Community Events since these are institutional recognition venues rather than gathering or performance spaces). LOW affinity encodes genuine discomfort with public ceremonial acknowledgment: Williams could perform in ceremonies (his 1966 HOF speech explicitly called for integration of Negro League players) but remained structurally averse to the gesture-and-ceremony dimension of public life. Cross-field expression: Never Tip Your Cap action seed ('he will never acknowledge the crowd again') and the entire twenty-year cap-refusal arc encode why formal events register as LOW rather than MEDIUM or HIGH."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "Hitting streaks — 22-game streak in May-June 1941; average climbed from .337 to .430",
+      "Rivalry games — elevated play against DiMaggio's Yankees and the AL's best pitchers",
+      "Righteous anger — when booed or disrespected, Williams channeled fury into production",
+      "Season finales — played both games of the final-day doubleheader to protect .400, went 6-for-8"
+    ],
+    "cold_triggers": [
+      "Press attacks — sustained negative media coverage eroded focus, especially early in career",
+      "Postseason pressure — only WS appearance (.200) suggests a different dynamic than regular season",
+      "Defensive embarrassment — errors or misplays in the field carried over to the plate",
+      "Injuries — broken ankle in spring 1941, fractured elbow in 1950 ASG, chronic ailments"
+    ],
+    "pressure_response": "CONTRADICTORY. Williams is the most dominant regular-season hitter in baseball history, but his postseason record is a single series hitting .200. This creates the most fascinating pressure profile in the set. In ILB: Williams gains +2 to CON and POW in regular-season high-leverage situations. But in postseason/elimination games, there is a 30% chance his CLU drops by 1 as the October ghost emerges. The 1941 All-Star walk-off HR proves he CAN deliver in showcase moments — but the 1946 WS proves it's not guaranteed. He is the highest-ceiling, widest-variance clutch performer in the Allies set. When he's on, nobody in baseball history is better. When October's pressure finds his blind spot, even the greatest hitter alive looks human."
+  },
+  "action_card_seeds": [
+    {
+      "title": "Point Four-Oh-Six",
+      "type": "Game Action",
+      "text": "Your hitter enters the final day of the season batting .400. He could sit out and protect the number. Instead, he plays both games of the doubleheader and goes 6-for-8. His batting average finishes at .406. No one will ever do this again. +5 fame permanently. The card becomes legendary.",
+      "origin": "On September 28, 1941, Williams entered the season finale at .39955 (rounds to .400). Manager Joe Cronin offered to bench him. Williams refused: 'If I'm going to be a .400 hitter, I want more than my toenails on the line.' He went 6-for-8 in the doubleheader against the Philadelphia A's, finishing at .406."
+    },
+    {
+      "title": "The Walk-Off in Detroit",
+      "type": "Game Action",
+      "text": "All-Star Game, bottom of the ninth, two outs, two on, your team trailing by two. Your slugger steps in against the NL's best pitcher. On a 2-1 count, he launches a towering three-run home run off the right-field roof. He leaps around the bases. +3 CLU for the season. The most joyful moment of his career.",
+      "origin": "In the 1941 All-Star Game at Briggs Stadium, Williams hit a walk-off three-run homer off Claude Passeau with two outs in the 9th to win it 7-5. He famously ran the bases clapping his hands, the happiest anyone ever saw him on a baseball field. Cecil Travis's take-out slide at second had kept the rally alive."
+    },
+    {
+      "title": "The Science of Hitting",
+      "type": "Action",
+      "text": "Your veteran hitter publishes a treatise on batting technique. For the rest of the season, all teammates gain +1 CON. Your hitter's fame increases by +2. Opposing pitchers must roll against your hitter's intellect before every at-bat — if they fail, they throw to his preferred zone.",
+      "origin": "Williams wrote The Science of Hitting (1970), dividing the strike zone into 77 cells and calculating his expected batting average for pitches in each location. It remains the most influential hitting manual ever published and anticipated modern analytics by decades."
+    },
+    {
+      "title": "Never Tip Your Cap",
+      "type": "Drama",
+      "text": "After being booed by home fans, your star player makes a public vow: he will never acknowledge the crowd again. For the rest of his career, his home attendance modifier drops by -1 but his personal resolve increases. He gains +1 POW in all home games permanently. The vow cannot be broken.",
+      "origin": "After being booed at Fenway Park in 1940, Williams vowed never to tip his cap to Red Sox fans again. He kept this vow for twenty years — even after hitting a home run in his final at-bat on September 28, 1960. John Updike wrote: 'Gods do not answer letters.'"
+    },
+    {
+      "title": "Crash Landing in Korea",
+      "type": "Drama",
+      "text": "Your player is recalled to military service at age 33. He flies 39 combat missions as a fighter pilot. On one mission, his plane is hit by enemy fire and catches fire. He crash-lands the burning jet, walks away alive. Roll a d6: on 1-2, he returns with -1 POW permanently. On 3-6, he returns undiminished and gains +2 CLU (nothing on a baseball field can scare him now).",
+      "origin": "Williams was recalled by the Marines for the Korean War in 1952. On February 16, 1953, his F-9F Panther was hit by ground fire. With his plane on fire, landing gear damaged, and no radio, he crash-landed at K-13 airbase, skidding down the runway in flames. He walked away. His wingman was future astronaut John Glenn."
+    },
+    {
+      "title": "The Kid Meets the Splinter",
+      "type": "Action",
+      "text": "A brash 20-year-old rookie arrives declaring he will be the greatest hitter who ever lived. Teammates are annoyed. The press mocks him. But within three seasons, he is hitting .406. Rookie arrogance card: +1 CON, +1 POW, -1 team chemistry for first season, then +2 team chemistry once he proves himself.",
+      "origin": "When Williams arrived in Red Sox camp in 1938, he told teammates: 'Wait till you see me hit.' He was so cocky that veterans Bobby Doerr and Jimmie Foxx initially found him insufferable. By 1941, at age 22, he was hitting .406. He had earned the right."
+    },
+    {
+      "title": "The Jimmy Fund",
+      "type": "Drama",
+      "text": "Your star player secretly devotes enormous time and energy to a children's cancer charity. He visits hospitals, raises money, and makes it his life's mission beyond baseball. +2 team morale permanently. +3 legacy modifier. The visits are done quietly — no press allowed.",
+      "origin": "Williams was the driving force behind the Jimmy Fund, the charity of Boston's Dana-Farber Cancer Institute. He visited sick children for decades, almost always without publicity. He insisted: 'Don't tell the press about this.' His charitable work was arguably more impactful than his baseball career."
+    }
+  ],
+  "art_direction": {
+    "face": "Tall, angular, intensely handsome at 22. 6'3\" 205 lbs — lean and coiled, all fast-twitch muscle. Sharp jawline, narrow eyes focused with predatory intensity on something only he can see (the pitch). Full lips, often set in a confident half-smile or a defiant grimace. The face shifts between boyish joy and adult fury depending on the moment.",
+    "attire": "Boston Red Sox home whites, 1941 vintage. Number 9. The iconic left-handed swing — the most beautiful swing in baseball history. Full extension, bat whipping through the zone, the follow-through so complete that the bat wraps around his back. Or: at the plate, waiting, eyes locked on the pitcher with absolute predatory focus.",
+    "mood": "Ferocious concentration. Where DiMaggio's card radiates serene control, Williams' card should crackle with intellectual intensity. He is thinking about hitting. He is always thinking about hitting. The energy is barely contained — like watching a physicist who also happens to be an athlete. This is the card that feels most alive.",
+    "style": "Sepia with warm red undertones — hotter and more aggressive than DiMaggio's golden tones. Fenway Park's left field wall (the Green Monster, rendered in sepia) faintly visible behind him. The afternoon sun should feel sharp and bright, not soft and diffuse. Williams' card should feel like noon in July, not golden hour.",
+    "reference": "The swing. Everything about this card should center on the swing. It is the most analyzed, photographed, and discussed swing in baseball history. The card should make the viewer want to pick up a bat. Williams would have wanted nothing more."
+  }
+}

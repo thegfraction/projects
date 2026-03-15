@@ -1,0 +1,213 @@
+{
+  "card_type": "player",
+  "name": "Warren Spahn",
+  "nickname": "Hooks",
+  "year": 1953,
+  "team": "Milwaukee Braves",
+  "era": "1950s",
+  "ilb_team": "Dreamers NL1950",
+  "position": "SP",
+  "bats": "L",
+  "throws": "L",
+  "height": "6'0\"",
+  "weight": "172 lbs",
+  "born": "April 23, 1921 — Buffalo, NY",
+  "died": "November 24, 2003 — Broken Arrow, OK",
+  "hof": "Class of 1973 (82.9%). 363 W, 2,583 K, 3.09 ERA, 63 SHO in 21 seasons.",
+  "real_stats": {
+    "season": 1953,
+    "games": 35,
+    "wins": 23,
+    "losses": 7,
+    "era": "2.10",
+    "innings": "265.2",
+    "strikeouts": 148,
+    "walks": 70,
+    "complete_games": 24,
+    "shutouts": 5,
+    "whip": "1.06",
+    "war": 9.4,
+    "career_wins": 363,
+    "career_losses": 245,
+    "career_era": "3.09",
+    "career_strikeouts": 2583,
+    "career_cg": 382,
+    "career_shutouts": 63,
+    "career_war": 100.1,
+    "no_hitters": 2,
+    "perfect_games": 0
+  },
+  "ilb_stats": {
+    "ovr": 12,
+    "stf": 3,
+    "ctl": 2,
+    "sta": 3,
+    "def": 1,
+    "clu": 2
+  },
+  "stat_justification": {
+    "stf": "2.10 ERA in 1953 — led the NL. Pitching Triple Crown contender (led in W and ERA). But K/9 was only 5.01 — Spahn was never a pure strikeout pitcher. He mastered the screwball in 1953 after adding it post-1952. He relied on movement, deception, and his famous high leg kick rather than overpowering velocity. Rating of 3 — elite results through guile and craft.",
+    "ctl": "BB/9 of 2.37 in 1953 — 70 walks in 265.2 innings. Spahn was known for pinpoint command but his walk totals were moderate, not elite. WHIP of 1.06 — excellent but just above the 1.00 bonus threshold. His famous quote: 'Hitting is timing. Pitching is upsetting timing.' He was a command artist, not a walk-avoidance machine like Cy Young. Rating of 2.",
+    "sta": "265.2 innings in 1953 with 24 complete games in 32 starts. Iron-armed — pitched 200+ innings 17 consecutive seasons (1947-1963). Over 300 IP twice. Career 5,243.2 IP — 8th all-time. He pitched 16 innings at age 42 against Marichal. Missed 3 prime years to WWII and still won 363 games. Rating of 3 for 1953; his stamina tier is higher in other peak seasons.",
+    "def": "Spahn was one of the best-fielding pitchers of his era. Also one of the greatest hitting pitchers — 35 career HR, .194 average, 189 RBI. He won a Gold Glove-equivalent in an era before the award existed. Excellent athlete who was originally a first baseman. Rating of 1.",
+    "clu": "4-3 career postseason record, 3.05 ERA. In the 1948 WS, won Game 5 with 5.2 innings of one-hit, seven-strikeout relief before 86,288 fans. Won the 1957 World Series championship. Pitched valiantly in the 1958 WS loss. His 16-inning duel with Marichal at age 42 — while not postseason — is one of the most clutch performances in baseball history. Rating of 2."
+  },
+  "personality": {
+    "leadership_style": "Quiet authority earned through combat experience and two decades of excellence. Spahn didn't need to shout — he'd survived the Battle of the Bulge and the bridge at Remagen. He once said: 'After what I went through overseas, I never thought of anything I was told to do in baseball as hard work.' His teammates respected a man who had earned a Purple Heart and a Bronze Star before he earned his first major league win.",
+    "temperament": "Witty, self-deprecating, fiercely competitive beneath a jokester's exterior. Spahn was famous for one-liners. When he gave up Willie Mays' first career hit (a homer): 'For the first 60 feet, that was a hell of a pitch.' When Casey Stengel managed both his first and last teams: 'I'm probably the only guy who played for Casey before and after he was a genius.' The humor masked iron will.",
+    "work_ethic": "Relentless reinvention. When his fastball faded after age 30, he developed a screwball and slider, giving him four quality pitches. He transformed from a power pitcher to a craftsman and became even better — winning 202 games in his 30s. His iconic high leg kick was developed with his father's coaching: 'He insisted I throw with a fluid motion. Hitters said the ball seemed to come out of my uniform.'",
+    "lifestyle": "Family man turned Oklahoma rancher. Married LoRene Southard (half-Cherokee), raised son Gregory, ran the Diamond Star Ranch south of Hartshorne, Oklahoma for decades. Clean-living but sociable — loved hunting, golf, and storytelling. Befriended Sam Jethroe, the Braves' first Black player, and helped start the Jimmy Fund charity for Dana-Farber Cancer Institute.",
+    "era_adaptability": "MAXIMUM. Spahn already proved this in real life — he reinvented himself three times across three decades of baseball. Power pitcher in the 1940s. Screwball artist in the 1950s. Wily veteran in the 1960s. His famous quote about pitching philosophy applies to any era: 'Hitting is timing. Pitching is upsetting timing.' He would be a Greg Maddux archetype — cerebral, adaptable, ageless.",
+    "clubhouse_impact": "GLUE. The senior man on the Braves for nearly 20 years. Prankster pals with Lew Burdette — the two were inseparable. Mentored young pitchers. His war experience gave him unshakable perspective that steadied everyone around him. When the Braves were rebuilding with Aaron, Mathews, and Adcock, Spahn was the veteran anchor who held the rotation together.",
+    "dark_side": "The stubbornness of a man who wouldn't quit. Spahn pitched until 44, years past his prime, bouncing from the Mets to the Giants to Mexico City to Tulsa. He couldn't let go. His ego drove him to manage in the minors for five years and coach in Japan. The same iron will that carried him through the Ardennes kept him on the mound when his body was done. In ILB terms: Spahn has a 'Won't Quit' trait — he resists being benched or removed, even when it hurts the team."
+  },
+  "chemistry_traits": [
+    {
+      "tag": "War Hero",
+      "desc": "Purple Heart, Bronze Star, Battle of the Bulge survivor. Spahn's presence stabilizes team morale in crisis situations. Immune to 'pressure collapse' events."
+    },
+    {
+      "tag": "363 Wins",
+      "desc": "The winningest lefty in baseball history. Spahn's legacy adds +1 permanent reputation to any franchise he joins."
+    },
+    {
+      "tag": "Spahn and Sain",
+      "desc": "When paired with another ace (OVR 8+), the duo gains +1 synergy bonus. The rest of the staff prays for rain."
+    },
+    {
+      "tag": "Reinventor",
+      "desc": "When Spahn's primary pitch loses effectiveness (age decline), he can develop a new pitch mid-season. Delays age-related decline by 2 years."
+    },
+    {
+      "tag": "Prankster Pal",
+      "desc": "+2 chemistry with Lew Burdette or any pitcher with the 'Jokester' trait. Clubhouse morale +1 when both are on the roster."
+    },
+    {
+      "tag": "Combat Perspective",
+      "desc": "Shrugs off slumps and losses. Cold triggers are 50% less likely to activate. 'After the Bulge, a 3-game losing streak is nothing.'"
+    },
+    {
+      "tag": "High Kick",
+      "desc": "Spahn's deceptive delivery adds +1 to opposing hitter confusion. First at-bat against Spahn each game: batter gets -1 CON."
+    },
+    {
+      "tag": "Jimmy Fund",
+      "desc": "+1 community reputation. Spahn's charity work with Dana-Farber connects him to Boston-era squares."
+    }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "5,243 career innings. More time on the rubber than almost any human alive.",
+      "note_extra": "Source label: 'Pitcher's Mound / Practice Field.' The source label includes 'Practice Field' explicitly, making this the clearest self-mapping in the batch. Mapped to Practice Field (craft/performance domain — the mound as the defining site of Spahn's 5,243 career innings). Standard HIGH affinity. Cross-field expression: High Kick chemistry trait (-1 CON to first-AB batters), Reinventor trait (new pitch development), and STA 3 all express what Spahn delivers when standing on this location."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Diamond Star Ranch in Oklahoma. Hunting, horseback riding, working cattle.",
+      "note_extra": "Source label: 'Ranch / Rural Area.' Mapped to Community Events (post-career rural venue — Diamond Star Ranch south of Hartshorne, Oklahoma; consistent with prior ranch mappings for Vernon, Vaughan, and others). Standard HIGH affinity. Cross-field expression: lifestyle personality key ('family man turned Oklahoma rancher') and the Sixteen Innings action seed's framing of Spahn's late-career identity both emanate from this post-baseball rural rootedness."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "The senior man. Telling war stories and pulling pranks with Burdette.",
+      "note_extra": "Source label: 'Clubhouse / Locker Room.' Canonical taxonomy explicitly lists 'Clubhouse, locker room' under Hotel/Rest. Standard HIGH affinity — Spahn's clubhouse is a site of genuine authority and warmth (senior man, prankster, war-story teller) rather than mere functional presence. Cross-field expression: Prankster Pal chemistry trait (+2 chemistry with Burdette) and clubhouse_impact personality key ('GLUE — the senior man') encode the social texture of this location across two decades."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Jimmy Fund charity, autograph sessions, fan interaction. Beloved public figure.",
+      "note_extra": "Source label: 'Community Events.' Source label matches canonical domain exactly — third direct-match in the batch. Mapped to Community Events (public charitable and fan-interaction venues). Standard MEDIUM affinity reflects genuine but measured public engagement: Spahn participated actively but let his arm be his primary public voice. Cross-field expression: Jimmy Fund chemistry trait (+1 community reputation) is the direct mechanical expression of this location."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Avid golfer in retirement. Lived near a course in Broken Arrow.",
+      "note_extra": "Source label: 'Golf Course.' Mapped to Community Events (recreational public venue — a golf course is an outdoor leisure/social space fitting Community Events' post-career/outdoor scope). MEDIUM affinity encodes a genuine leisure activity rather than a performance or craft site. Consistent with the taxonomy's 'post-career venues' grouping. Cross-field expression: lifestyle personality key ('loved hunting, golf, and storytelling') provides the biographical anchor for this location."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Social but not a drinker. Prefers storytelling to partying.",
+      "note_extra": "Source label: 'Bar / Nightlife.' The canonical taxonomy explicitly lists 'bar/nightlife' under Hotel/Rest. LOW affinity encodes social participation without alcohol preference — Spahn was present at social gatherings but did not organize his off-time around bars. Consistent with prior bar/nightlife LOW entries (Vernon, Vosmik, Warneke). Cross-field expression: lifestyle personality key ('clean-living but sociable') provides the temperament basis for this LOW."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "LOW",
+      "note": "Witty with reporters but didn't seek attention. Let the arm talk.",
+      "note_extra": "Source label: 'Media / Spotlight.' Source label maps directly to the Media/Spotlight canonical domain — fourth direct-match in the batch. LOW affinity encodes Spahn's relationship with the spotlight: willing and capable (the one-liners, the wit) but fundamentally uninterested in self-promotion. Distinct from Walker's Media/Spotlight NONE (institutional exclusion, Batch 40) — this is voluntary underengagement. Cross-field expression: temperament personality key ('witty, self-deprecating... humor masked iron will') and 363 Wins chemistry trait ('let the arm talk' philosophy) together explain the LOW."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "Pennant races — Spahn won 8 NL wins titles, always peaking in September",
+      "New pitch development — adding the screwball in 1953 sparked his greatest season",
+      "Paired with a strong catcher (Del Crandall) — battery chemistry amplifies performance",
+      "Proving doubters wrong — told he was done multiple times, always came back stronger"
+    ],
+    "cold_triggers": [
+      "Aging body — knee injury in 1953 spring training he hid all year; played through pain",
+      "Bad defensive support — Spahn induced contact and needed a good defense behind him",
+      "Being removed from games — his stubbornness means early hooks damage his confidence"
+    ],
+    "pressure_response": "SUPERB. Spahn was forged in the fires of actual combat — the Battle of the Bulge, the bridge at Remagen. He was one minute from death when the Ludendorff Bridge collapsed. A World Series game was nothing compared to that. In the 1948 WS, he won Game 5 with 5.2 innings of one-hit relief before 86,288 fans in Cleveland — the largest World Series crowd in history. He won the 1957 championship at age 36. At 42, he threw 201 pitches in 16 innings against Marichal. In ILB: Spahn is the ace you hand the ball for elimination games."
+  },
+  "action_card_seeds": [
+    {
+      "title": "Spahn and Sain and Pray for Rain",
+      "type": "Game Action",
+      "text": "Your top two starting pitchers carry the entire rotation. For the next 12 games, only your #1 and #2 starters pitch. If both win at least 3, your team gains +3 momentum. If either loses 2+, the rotation collapses.",
+      "origin": "The famous 1948 Braves poem: 'First we'll use Spahn, then we'll use Sain, then an off day followed by rain.' The duo went 8-0 in 12 days to clinch the pennant."
+    },
+    {
+      "title": "The Bridge at Remagen",
+      "type": "Drama",
+      "text": "Your player reveals he served in combat during wartime. He gains the 'Unshakable' trait permanently — immune to pressure collapse. But a hidden injury from service may surface: 10% chance per season of a knee or shoulder flare-up (-1 STA for 3 games).",
+      "origin": "Spahn served as a combat engineer in WWII, fighting at the Battle of the Bulge and the bridge at Remagen. He earned a Purple Heart and Bronze Star. He was standing beside the Ludendorff Bridge one minute before it collapsed, killing many soldiers."
+    },
+    {
+      "title": "The Screwball Reinvention",
+      "type": "Action",
+      "text": "Your aging pitcher (age 32+) develops a new pitch during the offseason. He gains +1 STF and delays decline by 2 years. But the new pitch puts extra strain on his arm: +5% injury risk per season.",
+      "origin": "After a dismal 14-19 season in 1952, Spahn developed a screwball and slider over the winter. In 1953 he went 23-7 with a 2.10 ERA — his best season ever."
+    },
+    {
+      "title": "Sixteen Innings at Midnight",
+      "type": "Game Action",
+      "text": "Your ace (age 38+) locks into a scoreless duel with an opposing ace (age 30 or younger). Both pitch 15+ innings. Roll a d6: on 1-3, your veteran loses on a solo homer. On 4-6, he outlasts the kid.",
+      "origin": "On July 2, 1963, the 42-year-old Spahn dueled 25-year-old Juan Marichal for 16 scoreless innings. Willie Mays ended it with a walk-off homer. Marichal threw 227 pitches; Spahn threw 201."
+    },
+    {
+      "title": "For the First Sixty Feet",
+      "type": "Drama",
+      "text": "Your pitcher gives up a historic first hit to a future superstar. The rookie goes on a tear. Your pitcher quips about it for 50 years. +1 rivalry chemistry with that batter forever.",
+      "origin": "Spahn gave up Willie Mays' first career hit — a home run — after Mays started 0-for-12. Spahn joked: 'For the first 60 feet, that was a hell of a pitch.' Then added: 'We might have gotten rid of Willie forever if I'd only struck him out.'"
+    },
+    {
+      "title": "Before and After He Was a Genius",
+      "type": "Drama",
+      "text": "Your veteran player is traded to a terrible team managed by someone he knew decades ago. Morale drops -2 initially. But if the player delivers a memorable quip, +3 media attention and the team becomes lovable underdogs.",
+      "origin": "Spahn played for Casey Stengel on the hapless 1942 Braves and the equally hapless 1965 Mets. He quipped: 'I'm probably the only guy who played for Casey before and after he was a genius.'"
+    },
+    {
+      "title": "The Largest Crowd",
+      "type": "Game Action",
+      "text": "Your pitcher takes the mound in a World Series game before the largest crowd in Series history. He pitches in relief with nothing left. Roll: on 3+, he delivers 5+ innings of brilliance. On 1-2, he gives up an insurance run but the team still has a chance.",
+      "origin": "In Game 5 of the 1948 WS, Spahn relieved and threw 5.2 innings of one-hit ball before 86,288 fans in Cleveland — the largest WS crowd ever. He struck out 12 in 12 total Series innings."
+    },
+    {
+      "title": "No-Hitter at Thirty-Nine",
+      "type": "Game Action",
+      "text": "Your veteran pitcher (age 38+) throws a no-hitter on a miserable, rain-soaked night before a tiny crowd. The baseball world is stunned. +5 legacy. He throws another one the next season.",
+      "origin": "Spahn threw his first no-hitter at age 39 (September 16, 1960, vs. Phillies, before just 6,117 fans) and his second at age 40 (April 28, 1961, vs. Giants, in 38-degree snowy weather). He became the second-oldest pitcher to throw a no-hitter, behind only Cy Young."
+    }
+  ],
+  "art_direction": {
+    "face": "Lean, angular face with a prominent hooked nose (broken by a thrown ball — earned him the nickname 'Hooks'). 6'0\" 172 lbs — wiry, athletic build, long-limbed southpaw. Intelligent, alert eyes with crow's feet from years of squinting into the sun. Clean-cut 1950s look.",
+    "attire": "Milwaukee Braves home whites, #21, classic 1953 flannel. Captured mid-delivery in his iconic high leg kick — left knee nearly touching his chin, ball hidden behind his body. The deceptive windup that baffled hitters for two decades.",
+    "mood": "Confident calm with a hint of mischief. Not intimidating — knowing. The look of a man who has survived a world war and 265 innings in a season. A slight smirk that says he already knows what pitch he's going to throw and you're not going to hit it.",
+    "style": "Rich sepia with warm Milwaukee cream tones. County Stadium lights glowing in the background. The card should feel like a 1953 Topps card rendered in the unified ILB portrait style — warm, golden, authoritative. Slightly lighter palette than the Banners-era cards to reflect the optimism of the 1950s.",
+    "reference": "The defining image should be the high leg kick — Spahn's signature. This is the card that anchors the Dreamers pitching staff. It should feel like excellence earned through reinvention and sheer will. The most 'complete pitcher' card in the 1950s set."
+  }
+}

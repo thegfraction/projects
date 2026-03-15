@@ -1,0 +1,214 @@
+{
+  "card_type": "player",
+  "name": "Cy Young",
+  "nickname": "The Cyclone",
+  "year": 1901,
+  "team": "Boston Americans",
+  "era": "1900s",
+  "ilb_team": "Banners AL1900",
+  "position": "SP",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'2\"",
+  "weight": "210 lbs",
+  "born": "March 29, 1867 — Gilmore, OH",
+  "died": "November 4, 1955 — Peoli, OH (age 88)",
+  "hof": "Inducted 1937 (2nd ballot, 76.1%). The award for best pitcher bears his name.",
+  "real_stats": {
+    "season": 1901,
+    "games": 43,
+    "wins": 33,
+    "losses": 10,
+    "era": "1.62",
+    "innings": "371.1",
+    "strikeouts": 158,
+    "walks": 37,
+    "complete_games": 38,
+    "shutouts": 5,
+    "whip": "1.00",
+    "ops_plus_against": "N/A",
+    "war": 12.6,
+    "career_wins": 511,
+    "career_losses": 316,
+    "career_era": "2.63",
+    "career_strikeouts": 2803,
+    "career_cg": 749,
+    "career_shutouts": 76,
+    "career_war": 170.3,
+    "no_hitters": 3,
+    "perfect_games": 1
+  },
+  "ilb_stats": {
+    "ovr": 12,
+    "stf": 4,
+    "ctl": 5,
+    "sta": 5,
+    "def": 1,
+    "clu": 2
+  },
+  "stat_justification": {
+    "stf": "1.62 ERA in 1901 — led the AL. Pitching Triple Crown (W/K/ERA). But K/9 was only 3.83 — Young was not a strikeout pitcher in 1901. He relied on control and movement, not power. By 1901, his fastball had slowed from its prime in the early 1890s. He'd added a changeup ('slow ball') and mastered location. Rating of 4 — elite results through craft, not overpowering stuff.",
+    "ctl": "BB/9 of 0.90 in 1901 — only 37 walks in 371 innings. Led the league in fewest walks per 9 innings 14 times in his career. WHIP of 1.00. Young famously said: 'I aimed to make the batter hit the ball, and I threw as few pitches as possible.' His control was the best in baseball history. This is a maximum 5.",
+    "sta": "371.1 innings pitched in 1901. 38 complete games in 43 starts. He pitched every other day. Over 300 IP in 16 seasons. Career 7,356 IP — the all-time record. Young barely warmed up: '3, 4 minutes. Five at the outside.' His offseason conditioning was splitting wood on his farm. This is a maximum 5.",
+    "def": "Led NL pitchers in assists with 117 in 1899. Decent fielder for his position. Above-average hitting for a pitcher (.210 career, 18 HR). But not an elite defensive pitcher. Rating of 1.",
+    "clu": "Won 2 games in the 1903 World Series (0.69 ERA in 2 starts). Won 3 games in the 1895 Temple Cup. Only pitcher in history to win both the Temple Cup and the World Series. Threw the first pitch in World Series history. But also lost his first WS start. Rating of 2 — excellent but not flawless."
+  },
+  "personality": {
+    "leadership_style": "Quiet, stoic, lead-by-example. Young was semiliterate (6th-grade education) and had an aversion to interviews. He wasn't 'good copy' for writers — he let his arm do the talking. His five rules: 1) Be moderate in all things. 2) Don't abuse yourself. 3) Don't bait umpires. 4) Play hard. 5) Render faithful service to your employer.",
+    "temperament": "Calm, humble, fiercely competitive beneath the surface. When accused of easing up with a big lead, he snarled: 'When you see me let any club make runs off my pitching on purpose, come around and I'll give you a brand new hundred dollar bill.' Compared his competitors to 'lawn tennis or tiddlywinks.' Farm-bred pride — quiet outside, iron inside.",
+    "work_ethic": "Effortless and inhuman. Young barely warmed up. He never went to the bullpen. His conditioning was splitting wood and doing farm chores in Ohio. He threw over 300 innings 16 times. He pitched both games of a doubleheader in 1890. When asked his secret: 'It isn't any secret. Just outdoor life, moderation, and a naturally good arm.'",
+    "lifestyle": "Ohio farm boy from birth to death. Born in Gilmore, died in Peoli. Married Roba Miller — the girl from the next farm — and they lived together on the family farm for decades. After she died in 1933, he sold the farm and 'moved down the road.' Became a vegetarian in 1910. Raised sheep and vegetables. Owned a personal library of 400 volumes despite only a 6th-grade education. By 1940, his only income was $300/year in stock dividends. Appeared on 'I've Got a Secret' in 1955, seven months before his death.",
+    "era_adaptability": "COMPLEX. Young's control and efficiency would translate beautifully to any era — his walk rate is still historically elite. But his strikeout rate was below average even for his own time. In a modern context, Young would be a Greg Maddux-type: painting corners, inducing weak contact, pitching deep into games. He'd need a good defense behind him.",
+    "clubhouse_impact": "STEADY-HUMBLE. Young was universally respected but not a rah-rah leader. His clean living and moderate temperament made him the anti-stereotype of the dissolute ballplayer. Coached at Harvard in 1902 (with a 6th-grade education) — the irony delighted Boston newspapers. Also coached at Mercer University. In his later years, he addressed church league softball banquets and served as a Republican committeeman in his township.",
+    "dark_side": "The loneliness. Young's wife Roba died in 1933. He sold the farm, his library, everything. 'Somehow after she died, I didn't want to live there anymore.' By 1940, he was living on $300/year. He went barnstorming at 68 because he was alone and 'this may be sort of fun.' He died in 1955 at 88, a legend in name (the award) but nearly forgotten in person. In ILB terms: Young carries a 'Fading Legacy' trait — after retirement, his reputation grows while his material circumstances decline."
+  },
+  "chemistry_traits": [
+    {
+      "tag": "511 Wins",
+      "desc": "The most wins in baseball history — nearly 100 more than second place. Young's presence stabilizes any pitching staff. +1 team morale permanently."
+    },
+    {
+      "tag": "Cyclone",
+      "desc": "Named for his fastball that splintered the grandstand fence in Canton. In his prime (1890s), +1 STF from pure velocity. After 1900, replaced by control."
+    },
+    {
+      "tag": "Farm Strong",
+      "desc": "Conditioning from splitting wood and farm labor. No fatigue penalties. Young can pitch on 2 days' rest with no degradation."
+    },
+    {
+      "tag": "Control Artist",
+      "desc": "BB/9 of 0.90. Young walks almost nobody. Opposing batters can't draw walks — -1 to their OBP when facing Young."
+    },
+    {
+      "tag": "Harvard Coach",
+      "desc": "6th-grade education coaching Harvard. Young earns +1 reputation in intellectual cities despite his humble background."
+    },
+    {
+      "tag": "Married to Roba",
+      "desc": "+1 morale when playing near his home (Ohio, New England). After Roba's death (post-career), -1 morale permanently."
+    },
+    {
+      "tag": "Perfect Game Pioneer",
+      "desc": "Threw the first perfect game of the 20th century. When Young throws a complete game, 10% chance it becomes a no-hitter."
+    },
+    {
+      "tag": "The Award",
+      "desc": "Young's name becomes synonymous with pitching excellence. After his career, all future pitchers are measured against him. +1 legacy to every team he played for."
+    }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Born and died on Ohio farms. Raised sheep and vegetables. Split wood for conditioning.",
+      "note_extra": "Source label: 'Farm / Rural Area.' Mapped to Community Events (outdoor/rural venue — consistent with Spahn's 'Ranch / Rural Area' HIGH, Wood's 'Mountain / Outdoors' HIGH, and Wheat's 'Lake of the Ozarks' HIGH). Standard HIGH affinity. For Young this is not retirement but lifelong identity: born in Gilmore OH, died in Peoli OH, the farm was home the entire time. Cross-field expression: Farm Strong chemistry trait (no fatigue penalties, pitch on 2 days' rest) and work_ethic personality key ('conditioning was splitting wood and doing farm chores') encode the physical basis of this location's HIGH."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "His office. 7,356 career innings. More time on the mound than any human being who ever lived.",
+      "note_extra": "Source label: 'Pitcher's Mound.' Mapped to Practice Field (craft/performance domain — standard pitcher's mound mapping). Standard HIGH affinity. Cross-field expression: CTL 5 + STA 5 (dual maximum — first pitcher in the set with both simultaneously) and Farm Strong trait (no fatigue penalties) together encode why this location is Young's defining domain: he spent more time here than any person in history and degraded less from the effort than any person in history."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Respected but quiet. Not gregarious. Let his arm do the talking.",
+      "note_extra": "Source label: 'Clubhouse / Locker Room.' Canonical taxonomy mapping. MEDIUM affinity reflects genuine but undemonstrative presence — Young was 'universally respected but not a rah-rah leader.' Cross-field expression: leadership_style personality key ('let his arm do the talking') and the five rules encode the quiet professional code that defined his clubhouse presence."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Freemason. Republican committeeman. Clean-living, moderate habits.",
+      "note_extra": "Source label: 'Church / Lodge.' Mapped to Community Events (civic/religious institution — a church or Masonic lodge is a public community gathering space fitting Community Events' civic dimension). MEDIUM affinity encodes regular but understated civic participation. Cross-field expression: lifestyle personality key ('served as a Republican committeeman in his township') and the five rules (especially 'Be moderate in all things') document the institutional civic identity expressed here."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Coached at Harvard and Mercer despite 6th-grade education.",
+      "note_extra": "Source label: 'University.' Mapped to Community Events (educational/civic institution — consistent with Wood's 'University / Library' mapping in Batch 48). MEDIUM affinity encodes significant but episodic presence: Young coached at Harvard in 1902 and at Mercer, then returned to his farm. The irony of a 6th-grade-educated farmer coaching Ivy League players is documented in The Sixth-Grade Professor action seed. Cross-field expression: Harvard Coach chemistry trait (+1 reputation in intellectual cities) is the direct mechanical expression of this location."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "'Strict attention to temperate habits.' Young didn't drink.",
+      "note_extra": "Source label: 'Bar / Saloon.' Canonical taxonomy (Hotel/Rest includes bars/saloons). LOW affinity is consistent with the established LOW pattern for non-drinkers in the batch (Spahn, Wood, Warneke). Cross-field expression: temperament personality key ('farm-bred pride — quiet outside, iron inside') and the five rules ('Be moderate in all things; Don't abuse yourself') document the clean-living basis."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "LOW",
+      "note": "Always a farm boy. Cities were where he worked, not where he lived.",
+      "note_extra": "Source label: 'City / Urban Areas.' Mapped to Community Events (urban civic environment — cities as the public performance and institutional sphere of Young's baseball career). LOW affinity encodes the farm boy's persistent discomfort with urban settings despite spending his career in Boston, Cleveland, and St. Louis. Cross-field expression: lifestyle personality key ('Ohio farm boy from birth to death') and the HIGH for Farm/Rural Area together frame the LOW as a relative position in a strong rural-vs-urban identity axis."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "Every other day pitching — Young gets better the more he works",
+      "Pennant races — 33 wins in 1901, won 42% of his team's games",
+      "World Series / championship play — 2 WS wins, 3 Temple Cup wins",
+      "Record-chasing stretches — 24 consecutive hitless innings in 1904"
+    ],
+    "cold_triggers": [
+      "Aging — Young's effectiveness declined sharply after 40 (7-10 in 1910)",
+      "Weight gain — he got heavier in his later years and lost mobility",
+      "Grief — after Roba's death, his spirit dimmed"
+    ],
+    "pressure_response": "SUPERB. Young threw the first pitch in World Series history. He lost game 1, then came back and won games 5 and 7 to clinch the championship. He won 3 games in the 1895 Temple Cup. His 24 consecutive hitless innings in 1904 included the first perfect game of the modern era. When the moment was biggest, Young was at his best. In ILB: Young is a true ace — the man you give the ball for Game 7."
+  },
+  "action_card_seeds": [
+    {
+      "title": "Five Hundred Eleven",
+      "type": "Game Action",
+      "text": "Your ace wins his 500th career game. An unreachable record. The next-closest pitcher is nearly 100 wins behind. Your franchise gains +5 permanent reputation. The pitcher gains the 'Immortal' trait.",
+      "origin": "Cy Young won 511 games — nearly 100 more than Walter Johnson's 417 (second all-time). The record will never be broken."
+    },
+    {
+      "title": "The Perfect Game",
+      "type": "Game Action",
+      "text": "Your pitcher is perfect through 9 innings. No hits, no walks, no errors. Roll a d6: on 4+, the perfecto holds. On 1-3, a fielding error ruins it. This card can only be played once per career.",
+      "origin": "On May 5, 1904, Young threw the first perfect game of the modern era against the A's — part of 24 consecutive hitless innings, still a record."
+    },
+    {
+      "title": "The Cyclone Tryout",
+      "type": "Drama",
+      "text": "An unknown farm boy shows up for a tryout. His fastball splinters the wooden fence behind the catcher. Sign him immediately — he gains +3 STF for his first season as opponents have never seen his arm.",
+      "origin": "Young earned his nickname 'Cyclone' (shortened to 'Cy') when his fastball splintered the fence during a tryout in Canton, Ohio in 1890."
+    },
+    {
+      "title": "Splitting Wood",
+      "type": "Action",
+      "text": "Your pitcher's offseason conditioning consists entirely of farm labor — splitting wood, baling hay, walking fences. He arrives at spring training with +1 STA and zero arm soreness.",
+      "origin": "Young's only conditioning was farm work. 'It isn't any secret. Just outdoor life, moderation, and a naturally good arm.'"
+    },
+    {
+      "title": "The Sixth-Grade Professor",
+      "type": "Drama",
+      "text": "Your most uneducated player is hired to coach at an Ivy League university. The newspapers have a field day (+2 publicity). The player gains +1 IQ from the experience.",
+      "origin": "In 1902, Young — who left school after 6th grade — served as pitching coach at Harvard University. Boston papers were delighted."
+    },
+    {
+      "title": "First Pitch of the World Series",
+      "type": "Game Action",
+      "text": "Your ace throws the ceremonial first pitch of the first postseason series. He loses the game — but comes back to win 2 of the next 3 and clinch the championship.",
+      "origin": "Young threw the first pitch in World Series history on October 1, 1903. He lost game 1 but won games 5 and 7 as Boston beat Pittsburgh 5-3."
+    },
+    {
+      "title": "The Girl Next Door",
+      "type": "Drama",
+      "text": "Your player marries his childhood sweetheart from the adjacent farm. +2 morale permanently while she's alive. If she dies before him, -2 morale and he sells everything he owns.",
+      "origin": "Young married Roba Miller, the girl from the next farm. They lived together for decades. After she died in 1933, he sold the farm. 'Somehow after she died, I didn't want to live there anymore.'"
+    },
+    {
+      "title": "Twenty-Four Hitless Innings",
+      "type": "Game Action",
+      "text": "Your pitcher enters a zone of absolute dominance. For 24 consecutive innings, no opposing batter gets a hit. This stretch includes a perfect game. The record stands for over a century.",
+      "origin": "In April-May 1904, Young threw 24 consecutive hitless innings — including his perfect game on May 5. Dennis Eckersley came closest with 21 in 1977."
+    }
+  ],
+  "art_direction": {
+    "face": "Large, sturdy face of an Ohio farmer. 6'2\" 210 lbs — big for any era, enormous for the 1900s. Strong jaw, broad forehead, intelligent but humble eyes. Clean-shaven in his prime. The look of a man who could plow a field in the morning and throw 371 innings in the summer.",
+    "attire": "Boston Americans 1901 whites, baggy wool flannel. The uniform strains slightly over his large frame. Full windup pose — the distinctive windmill delivery. Or standing tall on the mound, staring in at the catcher with calm authority. Ball visible in his right hand.",
+    "mood": "Calm dominance. Not fierce or intimidating — serene. The look of a man who has thrown so many pitches he no longer needs to think about it. Complete mastery. Like watching a farmer do his daily chores — there's no strain because this is just what he does. Every day. For 22 years.",
+    "style": "Rich, deep sepia — the darkest and most authoritative card in the Banners set. Warm Ohio earth tones. The Huntington Avenue Grounds in the background, perhaps with a hint of the countryside beyond. Heavy ornate tobacco-card border with agricultural motifs subtly worked in — wheat sheaves, oak leaves. The most 'important' feeling card in the entire ILB collection.",
+    "reference": "This is THE card. The one collectors want. The ILB Cy Young should feel like a T206 Honus Wagner in terms of weight and significance. Rich, layered sepia. The biggest frame, the most confident pose. The card that anchors the entire Banners set."
+  }
+}

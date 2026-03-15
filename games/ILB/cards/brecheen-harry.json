@@ -1,0 +1,207 @@
+{
+  "card_type": "player",
+  "name": "Harry Brecheen",
+  "nickname": "The Cat",
+  "year": 1948,
+  "team": "St. Louis Cardinals",
+  "league": "National League",
+  "era": "1940s",
+  "ilb_team": "Allies NL1940",
+  "position": "SP",
+  "bats": "L",
+  "throws": "L",
+  "height": "5'10\"",
+  "weight": "160 lbs",
+  "born": "October 14, 1914 — Broken Bow, OK",
+  "died": "January 17, 2004 — Bethany, OK",
+  "hof": "Not inducted (Cardinals HOF, Class of 2018; Oklahoma Sports HOF, 1997)",
+
+  "real_stats": {
+    "season": 1948,
+    "wins": 20,
+    "losses": 7,
+    "era": 2.24,
+    "innings_pitched": 233.1,
+    "strikeouts": 149,
+    "walks": 56,
+    "complete_games": 21,
+    "shutouts": 7,
+    "home_runs_allowed": 6,
+    "whip": 1.07,
+    "war": 7.0,
+    "all_star": 2,
+    "awards": "Led NL in ERA (2.24), strikeouts (149), and shutouts (7) in 1948 — triple-lead crown; NL ERA leader",
+    "career": {
+      "wins": 133,
+      "losses": 92,
+      "era": 2.92,
+      "innings_pitched": 1907.0,
+      "strikeouts": 901,
+      "shutouts": 25,
+      "whip": 1.19,
+      "war": 37.2,
+      "world_series": "2 rings (1944, 1946)",
+      "notes": "Career WS ERA 0.83 (MLB record 1946–1976). 4-1 WS record, 3 CG, 1 SHO. First LHP ever to win 3 games in one WS (1946). Only pitcher ever to win consecutive WS games. Led NL in pitcher fielding percentage (1.000) three times. Fourth-highest pitcher fielding pct in history (.983), then-highest among LHP. Orioles pitching coach 1954–1967; staff top-4 ERA 10 straight seasons. Career ended 1954 straining arm picking up a heavy suitcase."
+    }
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "stf": 3,
+    "ctl": 4,
+    "sta": 2,
+    "def": 3,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "stf": "Not a hard thrower — explicitly documented. SABR BioProject: 'Not a hard-throwing or overpowering pitcher like contemporaries Ewell Blackwell or Kirby Higbe, Brecheen threw a sneaky-quick side-arm fastball that caught batters off guard.' Dizzy Dean: 'Hub [Hubbell] had a better screwball, but I don't think he threw that fast.' His screwball (ranked 8th best all-time by Bill James/Rob Neyer) was a threat rather than his primary weapon: 'Everybody says my screwball is my payoff pitch, but I really don't use it that often. It just gives the batter one more delivery to worry about.' STF 3 reflects craft-and-deception stuff rather than velocity-based dominance — intentionally distinguishing him from the STF 4-5 tier.",
+    "ctl": "FIRST CTL 4 IN THE SET. Dizzy Dean: 'With the kind of control he's got, he could thread a needle with the ball.' Led or ranked top-8 NL in WHIP for 7 consecutive seasons (1944–1950). Only 6 HR allowed in 233 IP in 1948. Career WHIP 1.19. The transformation from 6-22 with 132 walks in 266 IP (1936 minor leagues) to NL ERA leader and CTL 4 is one of the most documented craft-development arcs in baseball history. Pete Reiser: 'Brecheen hides the ball well and he has fine deception.' Prior CTL max in the set was CTL 3 (Cooper). Brecheen's CTL 4 is the first at this tier.",
+    "sta": "1948: 233.1 IP, 21 CG. Seven straight seasons ranked among top NL pitchers in WHIP (1944–1950). Consistent and durable without the iron-man volume of the STA 3 tier. STA 2 reflects sustained above-average durability.",
+    "def": "FIRST PITCHER IN THE SET TO EARN DEF 3. Led or co-led NL with 1.000 fielding percentage three times (1944, 1948, 1950). Fourth-highest pitcher fielding percentage in history (.983), then-highest among left-handers at retirement. The 'Cat' nickname was given specifically by Cardinals beat writer Roy Stockton because of 'quick, feline-like reflexes on the mound and excellent fielding' — particularly bunt-fielding. Prior pitcher DEF max was DEF 2 (Trucks). Brecheen's DEF 3 establishes the pitcher DEF ceiling in the set.",
+    "clu": "Career WS ERA 0.83 (MLB record 1946–1976). 1946 WS: 3 wins in 3 appearances, 0.45 ERA — first LHP ever to win 3 games in a single Series, only pitcher ever to win consecutive WS games. 1944 WS: won Game 4. Career WS record 4-1, 3 CG. The 1946 WS body of work is the strongest single-Series performance by any pitcher in the set. CLU 3 equals Cooper; the WS ERA record (0.83) makes Brecheen's clutch claim the best documented in the set."
+  },
+
+  "personality": {
+    "leadership_style": "The quiet take-charge. Joe Cronin: 'He was a real pressure guy. When he walked out onto the field, you knew a take-charge guy was in the game.' Not a vocal leader — a gravitational one. When Brecheen took the ball in the biggest games, the Cardinals knew the outcome was in the best hands available.",
+    "temperament": "Patient, methodical, and quietly confident. The man who spent eight years in the minor leagues and came out the other side as the NL ERA leader in 1948 had a relationship with time that most players never develop. He didn't panic. He built. Brecheen described his screwball: 'Everybody says my screwball is my payoff pitch, but I really don't use it that often. It just gives the batter one more delivery to worry about.' The whole threat was the point, not the pitch.",
+    "work_ethic": "The long arc. From 6-22 with 132 walks in 1936 to NL ERA leader in 1948. He spent eight years in the minors before reaching the Cardinals as a regular starter. He learned the screwball from Cy Blanton in the mid-1930s but couldn't control it until 1937. He worked at it until it worked. Then he spent 14 years as a pitching coach passing the same discipline to Palmer, McNally, Wilhelm, Roberts.",
+    "lifestyle": "Oklahoma rooted, Oklahoma returned. Broken Bow. Ada. Every offseason he went home. After baseball he stayed there. Avid hunter and fisherman. Buried at Rosedale Cemetery in Ada. A man who never left the land that made him.",
+    "era_adaptability": "MODERATE-HIGH. Brecheen's CTL 4 and DEF 3 are timeless tools. The screwball as a change-of-pace threat — rare in any era — would be valued today. His 5'10\", 160 lb frame would raise concerns in a modern scouting environment, but results would silence them.",
+    "clubhouse_impact": "Quiet, central, trusted. As the Cardinals won three pennants and two WS in the 1940s, Brecheen was the man they handed the ball to when it mattered most. Not Musial's warmth or Cooper's fire — Brecheen was the steady. The ace who pitched Game 2 and Game 6 and finished Game 7.",
+    "dark_side": "Fired as Orioles pitching coach after the 1967 season because too many promising young pitchers developed arm troubles under his watch. Jim Palmer, Dave McNally, Steve Barber, Chuck Estrada — Brecheen's pupils — were excellent pitchers. But enough went down with arm injuries that the organization eventually decided his mechanics instruction was doing damage. The man who transformed himself from a 6-22 minor leaguer into a precision artist through deliberate craft may have taught other men to replicate mechanics built on a spinal malformation — and broken their arms in the process. His career ended in 1954 when he strained his pitching arm picking up a heavy suitcase."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Cat",
+      "desc": "Once per game, Brecheen converts a bunt into a double play — the feline reflex that named him."
+    },
+    {
+      "tag": "Thread the Needle",
+      "desc": "CTL 4 mechanic: Brecheen may work any count without increased base-on-ball risk. Full counts do not escalate walk probability."
+    },
+    {
+      "tag": "The Screwball Threat",
+      "desc": "Opponents must prepare for the screwball even when he doesn't throw it. All batters face -1 CON due to deception, regardless of what he actually throws."
+    },
+    {
+      "tag": "Eight Years in the Minors",
+      "desc": "Brecheen's OVR may never be reduced below 7 by injury events — his hard-won competence has a floor."
+    },
+    {
+      "tag": "Arm Troubles Coach",
+      "desc": "In coaching mode: each young pitcher Brecheen teaches gains +1 CTL. Roll: on (1-2) that pitcher develops an arm injury the following season."
+    },
+    {
+      "tag": "The Mad Dash Finisher",
+      "desc": "When Enos Slaughter is on base: Brecheen gains +1 CLU in that at-bat. The partnership that won the 1946 WS."
+    },
+    {
+      "tag": "Slaughter's Closer",
+      "desc": "First cross-card CLU bond in the pitcher set: links mechanically to Enos Slaughter (Allies NL1940)."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "MAXIMUM",
+      "note": "Eight years learning control. The screwball that took three years to tame. Fourteen years teaching mechanics in Baltimore. The mound was the only classroom that ever mattered.",
+      "note_extra": "Source labeled 'Mound / Practice / Coaching' / affinity 'MAXIMUM' — fourth MAXIMUM in the set (after Musial/batting cage, Rizzuto/Media-Spotlight, Holmes/batting cage-teaching). Brecheen's is the first Practice Field/MAXIMUM in the set that spans both the playing and post-playing career simultaneously — his 14-year coaching tenure at Baltimore is an extension of the same mound-craft identity that drove the eight-year minor-league odyssey. The transformation arc: 6-22/132-walks in 1936 → NL ERA leader in 1948 → 14 years shaping Orioles pitching into a top-4 ERA staff. The SABR BioProject documents the key craft events: learning the screwball from Cy Blanton in the mid-1930s; not controlling it until 1937 ('He had learned to throw a screwball a few years earlier from big leaguer and fellow Oklahoman Cy Blanton of the Pittsburgh Pirates, but had been unable to get it over the plate'); the three-pitch arsenal that Dizzy Dean said let him 'thread a needle.' The coaching dimension: Hoyt Wilhelm converted to a starter (2.19 ERA, 15-11), Robin Roberts rescued from 1-10, Jim Palmer and Dave McNally developed. The Practice Field/MAXIMUM is the first in the set earned through a 30+ year continuous relationship with the mound as a craft object. The chemistry_trait 'Thread the Needle' and the stat_justification.ctl (FIRST CTL 4 IN THE SET) are the mechanical cross-field expressions."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "The Cardinals dynasty clubhouse. Musial, Slaughter, Cooper, Holmes. The team that Brecheen finished games for.",
+      "note_extra": "Source labeled 'Clubhouse / Team' / affinity 'HIGH' — fourteenth Hotel/Rest/HIGH in the set. Prior registers span vice-social through dynastic-brotherhood (Cooper). Brecheen's register is the second dynastic-brotherhood entry in the set (after Cooper on the same Allies NL1940 team). However, while Cooper's dynastic-brotherhood was anchored by the Walker battery (a familial bond), Brecheen's is anchored by trust-under-pressure — the team handed him the ball in Game 2, Game 6, and gave him the ball in Game 7 when the WS was in the balance. Joe Cronin's quote ('When he walked out onto the field, you knew a take-charge guy was in the game') is the primary source for the clubhouse HIGH. The chemistry_trait 'The Mad Dash Finisher' and 'Slaughter's Closer' encode the specific Slaughter-Brecheen bond — the player who scored and the pitcher who finished the 1946 WS — as the mechanical expression of this HIGH."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Broken Bow / Ada, Oklahoma. Every offseason. After every season. After baseball entirely. He never left.",
+      "note_extra": "Source labeled 'Hometown / Oklahoma' / affinity 'ORIGIN' — sixth standalone ORIGIN in the set (after Cooper/Atherton, Trucks/Birmingham, Rice/ORIGIN-WOUND, Blackwell/California, Valo/Czechoslovakia). Brecheen's is the most rural and most persistently returned-to of the six ORIGINs. The SABR BioProject: 'As he had every offseason throughout his life in baseball, Brecheen returned to Ada with his wife and son, Steve, in retirement. The couple enjoyed traveling throughout the Southwest. An avid hunter and fisherman, Brecheen never lost his passion and interest for baseball. He participated in occasional reunions and old-timer's games for the Cardinals and Orioles, and was a fixture at local sandlots mentoring youngsters.' He was buried at Rosedale Cemetery in Ada. The ORIGIN also encodes Cy Blanton's role — Blanton was 'big leaguer and fellow Oklahoman' — the screwball itself was an Oklahoma gift. The action card seed '6-22' is the cross-field expression of the ORIGIN-as-starting-point."
+    },
+    {
+      "location": "Medical/Recovery",
+      "affinity": "COMPLEX",
+      "note": "Spinal malformation + ankle injury = 4F. The same physical deformities that shaped his delivery. The suitcase that ended his playing career. The arm troubles in pupils that ended his coaching career.",
+      "note_extra": "Source labeled 'Medical / Physical Condition' / affinity 'COMPLEX' — third COMPLEX in the set (after Plank and Holmes). Brecheen's COMPLEX is the most structurally recursive in the set: his physical deformities (spinal malformation, childhood ankle injury) classified him 4F, but those same conditions may have shaped the unconventional mechanics that made him effective. His career ended in 1954 when he strained his pitching arm picking up a heavy suitcase — a Medical/Recovery event that was bathetically mundane rather than dramatically athletic. His coaching career ended in 1967 when the Orioles concluded that too many young pitchers were developing arm troubles — a Medical/Recovery event that implicated his teaching as the mechanism of damage to others' bodies. The COMPLEX affinity is used because the Medical/Recovery domain was simultaneously the source of Brecheen's effectiveness (the physical abnormalities drove the unconventional delivery) and the domain of his two career endings (the suitcase; the arm-trouble dismissal). Neither HIGH nor LOW adequately captures this recursive relationship. The chemistry_trait 'Arm Troubles Coach' is the mechanical cross-field expression of the coaching-era Medical/Recovery dimension."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "LOW",
+      "note": "The man they called when it mattered. Rarely in the headline, always in the decisive game. WS ERA 0.83, career WS record 4-1, never in the Hall of Fame.",
+      "note_extra": "Source labeled 'Media / Public Recognition' / affinity 'LOW' — third Media/Spotlight entry in the set (after Rizzuto/MAXIMUM and Gordon/LOW). Brecheen's LOW is grounded in the same structural invisibility as Gordon: exceptional performance without commensurate public recognition. His career WS ERA of 0.83 (MLB record for 30 years) is the strongest postseason pitching record in the set, yet he never received HOF recognition and is rarely named among the great Cardinals pitchers. Brecheen pitched in the shadow of Mort Cooper's earlier dominance and Musial's celebrity; his own three-win 1946 WS performance was overshadowed by Slaughter's Mad Dash. The posthumous Cardinals HOF induction (2018, 14 years after his death) is the structural expression of this LOW. The Gordon precedent is referenced: Gordon/LOW was based on being overshadowed by DiMaggio and Boudreau; Brecheen/LOW is based on being overshadowed by Cooper, Musial, and Slaughter on the same team."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "World Series and decisive postseason games — CLU 3 is well-documented across three WS appearances.",
+      "Complete game bids — The Cat's focus sharpens as the game lengthens.",
+      "Facing lineups that have never seen the screwball before — Screwball Threat trait activates at maximum.",
+      "Low-scoring games where defense matters — DEF 3 creates double-play and bunt-conversion opportunities."
+    ],
+    "cold_triggers": [
+      "Late career years — Medical/Recovery COMPLEX; body carrying the effects of spinal malformation.",
+      "Post-coaching career: the Arm Troubles Coach trait is a cold element when pupils break down.",
+      "Any off-field physical activity — The Suitcase event; the Medical/Recovery COMPLEX can trigger from the mundane.",
+      "Media spotlight events — LOW affinity means public recognition moments are uncomfortable rather than energizing."
+    ],
+    "pressure_response": "ELITE in the most structured pressure contexts — the World Series specifically. Brecheen was methodical and unflappable in high-stakes environments, but his pressure response was not broad-spectrum dominance; it was specifically World Series excellence. In regular-season pennant races (15-15 in 1946 regular season while posting 0.45 ERA in the WS) he was excellent but not transcendent. The pressure response was calibrated to the highest possible stage and appeared to require that stage to fully activate."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Three Wins in One Series",
+      "type": "Game Action",
+      "text": "A left-handed pitcher wins three games in a single World Series — starting twice and relieving once. He finishes the deciding game with the tying runs on base, recording the final out. His career WS ERA becomes a permanent legacy entry on the card.",
+      "origin": "Brecheen won Games 2, 6, and 7 of the 1946 World Series against the Red Sox — the first left-hander ever to win three games in a single Series. In Game 7 he relieved to get the final outs after Slaughter's Mad Dash put the Cardinals ahead, finishing with a 0.45 ERA for the Series."
+    },
+    {
+      "title": "6-22",
+      "type": "Drama",
+      "text": "A pitcher has a 6-22 record with 132 walks in a single minor-league season. He learns one new pitch he cannot yet control. Over the next three years he masters it. By the time he reaches the majors, he is the best control pitcher in the league. The transformation is permanent.",
+      "origin": "Brecheen went 6-22 with 132 walks in 266 IP in 1936 in the minors. He had already learned the screwball from Cy Blanton but couldn't control it. By 1937 he could. By 1948 he led the NL in ERA. The arc from 6-22 to NL ERA leader took 12 years."
+    },
+    {
+      "title": "The Cat",
+      "type": "Game Action",
+      "text": "A pitcher pounces on a bunt with feline reflexes, converting what should be a sacrifice into a double play. Opposing team loses an out and a baserunner. Pitcher gains +1 CLU for the remainder of the game.",
+      "origin": "Cardinals beat writer Roy Stockton gave Brecheen the 'Cat' nickname because of his 'quick, feline-like reflexes on the mound and excellent fielding.' He led NL pitchers in fielding percentage (1.000) three times and retired as the highest-fielding percentage pitcher in left-handed pitcher history."
+    },
+    {
+      "title": "The Suitcase",
+      "type": "Drama",
+      "text": "A pitcher's career ends from a mundane off-field injury — not a game incident, not a training mishap, but a domestic act. He retires without ceremony. The card is marked with the Legacy tag: 'Ended as he lived — quietly, without drama.'",
+      "origin": "Brecheen's playing career ended in 1954 when he strained his pitching arm picking up a heavy suitcase. He had no dramatic final game, no farewell tour. He simply could not lift the arm that had won three World Series games and immediately became the Orioles' pitching coach for the next 14 years."
+    },
+    {
+      "title": "Arm Troubles Coach",
+      "type": "Drama",
+      "text": "A pitching coach develops a remarkable reputation — his staff posts top-four ERA for ten consecutive seasons. Then three of his most promising pupils go down with arm injuries in the same year. The organization must decide: is the coach's method the cause? Roll: (1-3) fired; (4-6) retained for one more season.",
+      "origin": "Brecheen's Orioles coaching tenure (1954–1967) produced Jim Palmer, Dave McNally, Steve Barber, Chuck Estrada, and Milt Pappas — and also an unusual pattern of arm troubles among young pitchers. He was let go after the 1967 season. His own delivery, shaped by a spinal malformation, may have been the mechanic he was teaching."
+    },
+    {
+      "title": "Thread the Needle",
+      "type": "Action",
+      "text": "A pitcher's control is so precise he can work inside the zone with no penalty on any count. For the remainder of the game, full counts do not increase walk probability. Opposing batters face -1 CON from the precision.",
+      "origin": "Dizzy Dean on Brecheen: 'With the kind of control he's got, he could thread a needle with the ball. He's the nearest thing to Carl Hubbell.' For seven consecutive seasons (1944–1950) Brecheen ranked among the NL's top eight pitchers in WHIP. Only 6 HR allowed in 233 IP in 1948."
+    },
+    {
+      "title": "The Screwball Threat",
+      "type": "Action",
+      "text": "A pitcher announces he has a screwball, then doesn't throw it for three games. When he finally throws it: -2 CON to the entire opposing lineup for that game. The threat was the pitch all along.",
+      "origin": "Brecheen on his screwball: 'Everybody says my screwball is my payoff pitch, but I really don't use it that often. It just gives the batter one more delivery to worry about.' The pitch ranked 8th best of all time by Bill James and Rob Neyer — it was most effective as a weapon held in reserve."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'10\", 160 lbs — wiry, angular, not imposing physically. The face of a man who spent eight years in the minors developing a pitch he'd first learned in high school. Oklahoma-lean. Eyes that see the count before the pitch.",
+    "attire": "St. Louis Cardinals home whites. Left-handed delivery in mid-motion — the screwball delivery, arm slot low, wrist supinating at release, the ball breaking away from right-handed hitters.",
+    "mood": "Total control. Not intimidation — precision. The man who could thread a needle with a baseball is not threatening you; he is simply placing the ball exactly where he means to place it.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Sportsman's Park infield behind him. The 1948 NL ERA leader — the craftsman at his peak.",
+    "reference": "The Cat, at the height of his powers — the year he led the NL in ERA, strikeouts, and shutouts simultaneously, in the quiet shadow of Musial and Slaughter."
+  }
+}

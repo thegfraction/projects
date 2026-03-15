@@ -1,0 +1,207 @@
+{
+  "card_type": "player",
+  "name": "Tommy Holmes",
+  "nickname": "Kelly",
+  "year": 1945,
+  "team": "Boston Braves",
+  "league": "National League",
+  "era": "1940s",
+  "ilb_team": "Allies NL1940",
+  "position": "RF",
+  "bats": "L",
+  "throws": "L",
+  "height": "5'10\"",
+  "weight": "180 lbs",
+  "born": "March 29, 1917 — Brooklyn, NY",
+  "died": "April 14, 2008 — Boca Raton, FL",
+  "hof": "Not inducted",
+
+  "real_stats": {
+    "season": 1945,
+    "games": 154,
+    "at_bats": 636,
+    "hits": 224,
+    "doubles": 47,
+    "triples": 6,
+    "home_runs": 28,
+    "rbi": 117,
+    "stolen_bases": 15,
+    "batting_avg": ".352",
+    "obp": ".417",
+    "slg": ".577",
+    "ops": ".994",
+    "ops_plus": 163,
+    "war": 6.6,
+    "all_star": 2,
+    "strikeouts": 9,
+    "hitting_streak": "37 games (modern NL record at time; stood until Pete Rose, 1978)",
+    "awards": "TSN NL Player of the Year 1945; NL MVP runner-up 1945",
+    "career_avg": ".302",
+    "career_hits": 1507,
+    "career_hr": 88,
+    "career_sb": 114,
+    "career_war": 28.3,
+    "career_strikeouts": 122,
+    "career_notes": "Led majors in HR and fewest strikeouts same season (1945) — only player ever to do this. Career HR-to-strikeout ratio: 88 HR, 122 K. More career DP (37) than errors (33). .989 career fielding percentage."
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 5,
+    "pow": 3,
+    "spd": 2,
+    "def": 1,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": "Peak .352 BA clears the .330+ = 5 threshold. OPS+ 163 far exceeds the ≥130 bonus, but CON is already at the 5 cap. Career .302 across 11 seasons. The plate discipline dimension is extraordinary: 9 strikeouts in 636 at-bats in 1945; 122 career strikeouts in 4,992 career at-bats. His ratio of home runs to strikeouts is one of the best in history. First CON 5 card in the set without a corresponding HOF induction.",
+    "pow": "Peak 28 HR (1945) falls in the 20–29 HR = 2 band. SLG .577 clears the ≥.500 bonus threshold, adding +1 to give POW 3. Critical context: the Braves moved the RF fence in at Braves Field by 20 feet midway through 1944, creating the power environment for Holmes' 1945 spike. He never hit more than 9 HR in any other season. POW 3 reflects the peak-year card's conditions; the underlying hitter is a POW 1.",
+    "spd": "15 SB in the 1945 snapshot year (16–30 SB = 2). No Gold Glove era bonus available. He ranked fourth in the NL in stolen bases in 1945, confirming the 2 rating as accurate for his peak.",
+    "def": "Pre-Gold Glove era. Historical reputation: solid but not elite. Never committed more than 6 errors in a season; .989 career fielding percentage; executed more career double plays (37) than errors (33). However, his throwing arm was not considered a strong suit (SABR bio explicit on this). DEF 1 = solid fielder, consistent with the schema scale.",
+    "clu": "Holmes' primary playing career did not include a WS hero moment. The 1948 World Series (Braves lost to Cleveland in 6 games) was his main postseason; no individual hero performance recorded. No postseason BA above .250 threshold available. CLU 0 is accurate and thematically significant: Holmes is the first CON 5 card in the set with CLU 0 — the purest regular-season hitter profile in the ILB set."
+  },
+
+  "personality": {
+    "leadership_style": "The patient teacher. Holmes absorbed Paul Waner's foul-line batting philosophy as a 25-year-old rookie and spent the next 60 years passing it to anyone who would listen — minor leaguers, youth league kids, sandlot players from underprivileged Brooklyn neighborhoods. Del Crandall: 'He always made rookies like myself and Johnny Antonelli feel like one of the guys.'",
+    "temperament": "Warm, low-ego, self-deprecating. Known as 'Kelly' to friends — the Brooklyn Irish kid who dreamed of boxing until his father said no. A round, ruggedly handsome face and a high-pitched Flatbush accent. He wore number 1 his entire career but was never the number-one name on a marquee.",
+    "work_ethic": "Pathological plate discipline. Nine strikeouts in 636 at-bats. He once said of Waner's philosophy: 'Why should we hit it where they are?' He spent hours each offseason internalizing that question, and it showed in every at-bat he ever took.",
+    "lifestyle": "Brooklyn-rooted, community-oriented. Ran the New York Sandlot Baseball Alliance for over 30 years, teaching underprivileged kids the same contact-hitting approach Waner taught him. Later served as director of amateur baseball relations for the New York Mets until age 86. He never left the borough spiritually.",
+    "era_adaptability": "HIGH. Holmes' contact-and-line-drive approach is timeless. Waner's philosophy — target the foul lines, don't swing at their pitch — would work in any era. The one exception: his power numbers are environment-specific to the 1945 Braves Field dimensions and wartime pitching quality.",
+    "clubhouse_impact": "The Jury Box effect. From 1942 to 1952, the 1,500-seat right-field bleachers at Braves Field — dubbed the Jury Box — treated Holmes as their personal property. When he was moved to left field for a single game in 1946, Jury Box fans booed his replacement so viciously that the replacement said he'd never go out there again.",
+    "dark_side": "A severe sinus condition classified Holmes as 4F — unfit for military service — during World War II. One examining physician told him: 'If you go to England, you'll die.' While DiMaggio, Rizzuto, Pesky, Doerr, and Slaughter deployed, Holmes played his best seasons at home. The social stigma of 4F classification in wartime America was real and lasting; it gave his 1945 record season a shadow it never fully escaped. He never spoke about it publicly the way players spoke about service."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Waner's Disciple",
+      "desc": "Passes batting philosophy to one rookie per season: that player gains +1 CON for the year."
+    },
+    {
+      "tag": "Jury Box Royalty",
+      "desc": "In home games, crowd energy in RF provides +1 momentum for the first three innings."
+    },
+    {
+      "tag": "Contact Machine",
+      "desc": "Strikeout events cannot trigger a cold streak — Holmes absorbs them without momentum loss."
+    },
+    {
+      "tag": "War Year",
+      "desc": "Performance ratings assume wartime conditions; against post-war competition, POW reverts to 1."
+    },
+    {
+      "tag": "Brooklyn Roots",
+      "desc": "Chemistry bonus with other Brooklyn-origin or NL 1940s players. Particularly strong with Reiser."
+    },
+    {
+      "tag": "The Concrete Bat",
+      "desc": "During a hitting streak exceeding 15 games, Holmes' bat becomes a talisman — cannot be swapped out without breaking the streak."
+    },
+    {
+      "tag": "Quiet Pro",
+      "desc": "Never causes clubhouse friction events. Rookie players assigned to Holmes gain an automatic +1 chemistry."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "MAXIMUM",
+      "note": "The batting cage as sacred transmission space. Paul Waner's foul-line philosophy. The streak bat. 50+ years of teaching contact hitting.",
+      "note_extra": "Source labeled 'Batting Cage / Practice Field' / affinity 'MAXIMUM' — third MAXIMUM in the set. First: Musial batting cage (Batch 29). Second: Rizzuto Media/Spotlight (this batch). Third: Holmes Practice Field/MAXIMUM. Rizzuto's Practice Field was HIGH grounded in bunting ritual; Holmes' is MAXIMUM, reflecting the additional dimension of intergenerational transmission — Holmes didn't just use the batting cage, he made it the engine of a 60-year teaching ministry. The SABR BioProject: 'He became a protégé of Paul Waner and would preach Waner's batting theories to professionals and amateurs throughout the remainder of his days whenever an opportunity arose.' The Waner philosophy is documented verbatim in source material: 'Look, there are three men in the outfield. Why should we hit it where they are?' The 'streak bat' from Del Bissonette's Maine attic ('like a rock') is the talisman-dimension of this MAXIMUM. The chemistry_trait 'Waner's Disciple' and the action card seed 'Why Hit Where They Are?' are the mechanical cross-field expressions."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "30 years running the NY Sandlot Baseball Alliance. Director of amateur baseball for the NY Mets to age 86. Teaching underprivileged Brooklyn kids Waner's batting philosophy.",
+      "note_extra": "Source labeled 'Community Events' / affinity 'HIGH' — third Community Events/HIGH grounded in formal institutional service (after Puckett/Branch Rickey Award and Rizzuto/St. Joseph's School for the Blind). Holmes' is the most sustained of the three: 30+ years with the Sandlot Alliance, followed by 30+ more with the Mets. The SABR bio notes he held the Mets post until retiring at 86 — a 60-year community-service career embedded in the same Brooklyn borough he was born in. Prior Community Events/HIGHs: homeland-origin (Phillippe, Overall, Plank), civic-identity (O'Doul), formal-philanthropic-award (Puckett), named-charitable-institution (Rizzuto), and now multi-decade-institutional-teaching (Holmes). Holmes' register is the first grounded in youth baseball development as a primary mission rather than philanthropy or civic presence. The personality.lifestyle field ('He never left the borough spiritually') is the thematic anchor."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "The clubhouse as home. Made every rookie feel included. The Jury Box relationship began at the locker room door.",
+      "note_extra": "Source labeled 'Clubhouse / Locker Room' / affinity 'HIGH' — tenth Hotel/Rest/HIGH in the set. Prior registers: vice-social (McGraw), pastoral care (McKechnie), joy-distribution (Musial), predatory preparation (Newhouser), proprietary home-base (O'Doul), communal-emotional-center (Pesky), kinetic-social-preparation (Reiser), pregame-domain-ownership (Puckett), prank-target-beloved-presence (Rizzuto), and now rookie-integration-warmth (Holmes). Del Crandall's quote is the primary source: 'He always made rookies like myself and Johnny Antonelli feel like one of the guys. He was a real pro the way he went about his business.' Holmes' HIGH is the most explicitly pedagogical clubhouse presence in the set — the locker room as the first step in the transmission chain that runs from Waner → Holmes → rookies → sandlot kids. The chemistry_trait 'Quiet Pro' (rookies gain automatic +1 chemistry) is the mechanical expression."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HAUNTED",
+      "note": "The Jury Box — the 1,500-seat RF bleachers at Braves Field. His constituency. His people. Gone when the Braves moved to Milwaukee in 1953 without him.",
+      "note_extra": "Source labeled 'Jury Box / Braves Field RF Bleachers' / affinity 'HAUNTED' — FIRST HAUNTED affinity in the set. Prior Extended affinities: DAMNED (Felsch, Batch 8), SACRED (Gehrig, Rice), MAXIMUM (Musial, Holmes above). HAUNTED enters here for the first time. The HAUNTED affinity encodes a place that was once a player's home domain and has since become inaccessible — either through loss (the Braves moved to Milwaukee in 1953, ending Jury Box's existence as his home), time, or the player's own departure from it. The SABR BioProject provides the basis: 'from 1942 to 1952, nobody enjoyed the type of unabashed love he received from the denizens of the 1,500-seat, stand-alone bleachers situated behind his right-field playing spot.' The 1946 incident — Jury Box fans booing Holmes' replacement Barrett so viciously that Barrett declared he'd never go out there again — documents the intensity of the bond. Holmes was fired as Braves manager in early 1952 and the Braves left Boston after 1952; the Jury Box was a specific physical location with a 10-year history of intimacy that ended permanently. The Community Events domain is used (not Practice Field or Hotel/Rest) because the Jury Box was a fan community space — a public bleacher section, not a playing surface. The HAUNTED affinity is canonically defined as a location that is both beloved and lost, where the player's connection is now mediated by memory rather than presence. The chemistry_trait 'Jury Box Royalty' is the residual mechanical expression of this HAUNTED domain."
+    },
+    {
+      "location": "Medical/Recovery",
+      "affinity": "COMPLEX",
+      "note": "4F classification. Severe sinus condition. 'If you go to England, you'll die.' The medical fact that kept him home while peers served — and gave him his peak seasons.",
+      "note_extra": "Source labeled 'Draft Board / Medical Evaluation' / affinity 'COMPLEX' — second COMPLEX in the set after Plank (Batch 31). Plank's COMPLEX encoded the paradox of a pacifist wartime pitcher whose craft was used as a tool of national morale. Holmes' COMPLEX encodes an inverse paradox: a medical condition that was both a genuine health reality (severe sinus condition, documented in the SABR BioProject: 'A severe sinus condition kept Tommy Holmes out of the service during World War II') and a social stigma (4F classification in WWII carried documented psychological and social weight). The COMPLEX affinity is used here because neither HIGH nor LOW nor NONE adequately captures the ambivalence: the Medical/Recovery domain was not a place Holmes chose to be associated with, nor one he avoided — it was imposed on him, and the imposition had a dual consequence (he stayed home and had his career peak; he carried the social weight of not serving). The dark_side field documents the full biographical source. The chemistry_trait 'War Year' (POW reverts to 1 against post-war competition) is the mechanical expression of the wartime-conditions dimension of this COMPLEX."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Hitting streaks already in progress — each additional game extends the bonus.",
+      "Teaching moments with younger players — activates Waner's Disciple trait.",
+      "Home games at Braves Field with the Jury Box at full voice.",
+      "Facing pitchers who throw him inside — Waner's pull-the-ball philosophy kicks in."
+    ],
+    "cold_triggers": [
+      "Ballpark dimensions changed adversely — the fences-go-back-out event.",
+      "Public mention of 4F status or wartime service comparisons.",
+      "Postseason and elimination games — CLU 0 is the mechanic, not the story.",
+      "An extended hitting streak ending on an off day or travel break."
+    ],
+    "pressure_response": "Complicated by context. Holmes is a pure regular-season performer whose CON 5 / CLU 0 combination is unique in the set. In low-stakes high-volume situations — a long pennant race, a 154-game grind — he is among the most reliable players in any lineup. In single-elimination moments, he is not the player you want at the plate in the 9th. His 37-game streak ended after an All-Star break. His 1948 World Series was solid but not transformative. He performs best when the pressure is ambient rather than acute."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Why Hit Where They Are?",
+      "type": "Action",
+      "text": "A veteran outfielder pulls a slumping teammate aside and teaches him to target the foul lines. That player gains +1 CON for the remainder of the season.",
+      "origin": "Paul Waner's batting philosophy, passed to Holmes in 1942: 'Look, there are three men in the outfield. Why should we hit it where they are?' Holmes transmitted this exact lesson to players for the next 60 years."
+    },
+    {
+      "title": "The Concrete Bat",
+      "type": "Action",
+      "text": "A player's bat breaks during a hitting streak. A coach retrieves an old bat from storage — heavy, wrong-feeling, nothing like what the player uses. The streak continues. The bat becomes untouchable.",
+      "origin": "Holmes' streak bat, given to him by third-base coach Del Bissonette from his Maine attic when Holmes' preferred bat broke at 20 games. Bissonette described it as 'a piece of concrete.' Holmes described it as 'like a rock.' The streak reached 37."
+    },
+    {
+      "title": "The Fences Go Back Out",
+      "type": "Drama",
+      "text": "Management restores the home ballpark's original dimensions after a power spike the previous season benefited the opponent more than the home team. Your best power hitter loses 2 POW for the remainder of the season.",
+      "origin": "The Braves moved Braves Field's RF fence in by 20 feet mid-1944 to give Holmes a target. After opponents used it against them in 1945, management moved the fences back out before 1946. Holmes' HR total dropped from 28 to 6."
+    },
+    {
+      "title": "4F",
+      "type": "Drama",
+      "text": "A medical board rejects your star player from wartime service. He remains on the roster while teammates deploy. For each teammate who serves: team chemistry -1. For each game the retained player hits .300 or above: chemistry is partially restored.",
+      "origin": "Holmes' severe sinus condition classified him 4F — unfit for military service. A physician told him: 'If you go to England, you'll die.' He remained in Boston while DiMaggio, Rizzuto, Pesky, Doerr and Slaughter served in the military."
+    },
+    {
+      "title": "The Streak Ends",
+      "type": "Drama",
+      "text": "After an All-Star break or multi-day travel gap, your player returns to find the streak stopped by the first pitcher of the second half. All momentum accumulated during the streak resets to zero.",
+      "origin": "Holmes' 37-game streak ran from June 6 to July 8, 1945. He was stopped in his first game back after the All-Star break by Hank Wyse of the Cubs at Wrigley Field. He batted .433 during the streak."
+    },
+    {
+      "title": "For Making People Remember Me",
+      "type": "Legacy",
+      "text": "A record your player once held is broken by an opponent. Your player publicly thanks the record-breaker in a way that moves the crowd. Your team gains +1 chemistry. Your player's card is permanently marked with the Legacy tag.",
+      "origin": "When Pete Rose broke Holmes' NL record hitting streak in 1978, a tearful Holmes thanked Rose publicly: 'for making people remember me.' The grace of that moment — 33 years after the streak — is one of baseball's quiet dignities."
+    },
+    {
+      "title": "Denied at the Gate",
+      "type": "Drama",
+      "text": "A minor-league callup is blocked because your organization's depth at his position is too deep. He develops elsewhere, returns as an opponent. When he faces his original team, he gains +2 to all stats.",
+      "origin": "Holmes spent five years trapped in the Yankees farm system behind DiMaggio, Henrich, Keller, and Selkirk. Traded to the Braves in 1941, he became a career .302 hitter and set an NL record the Yankees organization never developed."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Round, ruggedly handsome Brooklyn Irish face. 5'10\", 180 lbs — described as chunky with a high-pitched Flatbush accent. Warm, steady eyes. The look of a man who has read every situation before the pitch arrives.",
+    "attire": "Boston Braves home whites, number 1. Late 1940s cap and uniform cut. Bat at rest or mid-follow-through — the compact left-handed swing that went to the foul lines.",
+    "mood": "Quiet confidence. Not the fire of a slugger or the grin of a jokester — the settled focus of a man who knows exactly what he's doing and has been doing it since Paul Waner taught him in 1942.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Braves Field's RF bleachers — the Jury Box — softly visible behind him.",
+    "reference": "Think the 1945 TSN Player of the Year photo energy — the unassuming Boston Brave who led the majors in almost everything that season and still finished second in the MVP vote."
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "card_type": "player",
+  "name": "Ed Walsh",
+  "nickname": "Big Ed",
+  "year": 1908,
+  "team": "Chicago White Sox",
+  "era": "1900s",
+  "ilb_team": "Banners AL1900",
+  "position": "SP",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'1\"",
+  "weight": "193 lbs",
+  "born": "May 14, 1881 — Plains Township, PA",
+  "died": "May 26, 1959 — Pompano Beach, FL (age 78)",
+  "hof": "Inducted 1946 (Veterans Committee). Lowest career ERA in MLB history (1.82).",
+  "real_stats": {
+    "season": 1908,
+    "games": 66,
+    "wins": 40,
+    "losses": 15,
+    "era": "1.42",
+    "innings": "464.0",
+    "strikeouts": 269,
+    "walks": 56,
+    "complete_games": 42,
+    "shutouts": 11,
+    "whip": "0.81",
+    "war": 11.9,
+    "career_wins": 195,
+    "career_losses": 126,
+    "career_era": "1.82",
+    "career_strikeouts": 1736,
+    "career_cg": 250,
+    "career_shutouts": 57,
+    "career_war": 62.3,
+    "no_hitters": 1,
+    "perfect_games": 0
+  },
+  "ilb_stats": {
+    "ovr": 11,
+    "stf": 5,
+    "ctl": 5,
+    "sta": 5,
+    "def": 1,
+    "clu": 2
+  },
+  "stat_justification": {
+    "stf": "1.42 ERA in 1908 — led the AL and one of the lowest single-season ERAs in history. 269 strikeouts (led AL). 11 shutouts (AL record). The spitball was his weapon: Sam Crawford said 'I swear, when it went past the plate it was just the spit.' Walsh estimated he threw the spitter 90% of the time with pinpoint control. K/9 of 5.21 — respectable but not dominant by strikeout standards. However, the ERA is so absurdly low that this is a maximum 5.",
+    "ctl": "BB/9 of 1.09 in 1908 — only 56 walks in 464 innings. WHIP of 0.81 — among the lowest ever recorded for a season with that many innings. Walsh's control of the spitball was considered the best in baseball. He disguised the pitch by going to his mouth before every delivery. Tier 4 (1.0-1.49 BB/9) + WHIP bonus = 5 (max).",
+    "sta": "464 innings pitched in 1908 — the all-time post-1900 single-season record. 42 complete games in 66 appearances (starting AND relieving). Won both ends of a doubleheader twice. During one 9-day stretch, he pitched 5 times. He averaged 375 IP per year from 1907-12. This is the most extreme stamina case in the ILB database. Maximum 5.",
+    "def": "Decent fielder. Helped design Comiskey Park's pitcher-friendly dimensions — a meta-defensive contribution. But no notable defensive awards or records as a fielding pitcher. Rating of 1.",
+    "clu": "Won 2 games in the 1906 World Series vs. the Cubs — 17 K, 1 ER in 15 IP. His Game 3 shutout gave the 'Hitless Wonders' a 2-1 Series lead. In 1908, he pitched a four-hitter on October 2 but lost to Addie Joss's perfect game — one of the cruelest losses in baseball history. Kept the 1908 pennant race alive with superhuman September pitching (1.31 ERA in 130.1 IP). Rating of 2."
+  },
+  "personality": {
+    "leadership_style": "The Workhorse. Walsh led by sheer physical will — he simply refused to leave the mound. When the White Sox needed him, he pitched. Every other day. Both ends of doubleheaders. Start and relief in the same week. His leadership was: 'Give me the ball.' He didn't need speeches. He needed the rubber.",
+    "temperament": "Proud, stoic, Irish tough. Walsh worked in Pennsylvania coal mines as a child — one of 13 children born to Irish immigrants. He carried that working-class grit into his pitching. When his arm was destroyed by overwork, he tried to come back repeatedly. He tried umpiring. He tried coaching. He never stopped working. When the White Sox asked him to return despite his arm problems: 'The White Sox needed me — implored me to return — so I did.'",
+    "work_ethic": "INHUMAN. Walsh's workload would be considered abuse by modern standards. 464 IP in a single season. 375 IP per year for six straight years. He pitched both games of doubleheaders — and won both. During September 1908, he threw 130.1 innings in a single month with a 1.31 ERA. He split wood? No — he split his own arm open from the inside.",
+    "lifestyle": "Born in Plains Township, PA, to Irish immigrants. One of 13 children. Worked in Luzerne County coal mines as a boy. Briefly attended Fordham University. Married Rosemary. Son Ed Jr. also pitched for the White Sox (1928-32) — but died of rheumatic fever at 32. After retirement, Walsh coached at Notre Dame and umpired in the AL (87 games in 1922). By the late 1950s, cancer reduced him from 200 lbs to under 100. The White Sox held an Ed Walsh Day in 1958 to help pay his medical bills — raising $5,000.",
+    "era_adaptability": "COMPLEX. Walsh's spitball was outlawed in 1920 — his primary weapon wouldn't exist in the modern game. However, his control, deception, and competitive fire would translate. He'd likely be a sinker/slider pitcher with elite command — a modern ground-ball machine. His stamina would be irrelevant since modern pitchers are limited to 200 IP. What would translate perfectly: his ability to pitch under extreme pressure.",
+    "clubhouse_impact": "ACE PRESENCE. Walsh was the unquestioned ace — the man the entire franchise depended on. The 'Hitless Wonders' literally couldn't score — they hit .230 as a team — so everything rested on Walsh's arm. He carried that weight without complaint. Teammates knew: when Walsh was pitching, they had a chance.",
+    "dark_side": "The arm. Walsh's arm was destroyed by the inhuman workload Comiskey demanded. 'I could feel the muscles grind and wrench during the game, and it seemed to me my arm would leap out of my socket when I shot the ball across the plate. My arm would keep me awake till morning with a pain I had never known before.' From 1913 on, he was a ghost — pitching only 16 games, then 13, then his arm was dead. Comiskey, the cheapest owner in baseball, released him rather than giving him a year off. In ILB terms: Walsh carries a 'Burned Out' trait — he is the most dominant pitcher alive for 6-7 years, then his arm dies completely."
+  },
+  "chemistry_traits": [
+    {
+      "tag": "Lowest ERA Ever",
+      "desc": "1.82 career ERA — the lowest in MLB history. Walsh sets the ERA standard for all future pitchers on the roster. +1 team pitching morale permanently."
+    },
+    {
+      "tag": "The Spitball",
+      "desc": "Walsh threw the spitter 90% of the time. When the spitball is legal, +2 STF. If it's banned, -2 STF (Walsh becomes mortal)."
+    },
+    {
+      "tag": "Coal Miner's Son",
+      "desc": "Worked in coal mines as a child. Walsh is immune to fatigue complaints and never requests days off. His pain threshold is infinite."
+    },
+    {
+      "tag": "Workhorse",
+      "desc": "464 IP in 1908. Walsh can pitch on 1 day's rest with no penalty. He can start and relieve in the same series."
+    },
+    {
+      "tag": "Hitless Wonders",
+      "desc": "Carried the worst-hitting team in the AL to a World Series title. Walsh gains +1 OVR when his team's batting average is below .240."
+    },
+    {
+      "tag": "Park Designer",
+      "desc": "Helped design Comiskey Park's dimensions. When pitching in his home park, +1 to all stats. The park favors pitchers for 80 years."
+    },
+    {
+      "tag": "Burned Out",
+      "desc": "CRITICAL FLAW: After 7 seasons of heavy use, Walsh's arm dies permanently. -5 STF. No recovery possible. The greatest arm in baseball becomes useless."
+    },
+    {
+      "tag": "Walsh Day",
+      "desc": "When Walsh's career ends, the franchise holds a benefit day. +2 fan loyalty. But the money raised is never enough."
+    }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "464 innings. 66 games. 42 complete games. The mound was his coal mine.",
+      "note_extra": "Source label: 'Pitcher's Mound.' Mapped to Practice Field (craft/performance domain). Established pattern. Standard HIGH affinity. The source note's simile ('the mound was his coal mine') explicitly links this HIGH to the Coal Mine entry below — the mound is where Walsh transferred the same physical totality he gave to mining. Cross-field expression: Workhorse chemistry trait (pitch on 1 day's rest, start and relieve same series) and STA 5 are the mechanical expressions of this location's dominion over Walsh."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Helped design the park. Pitcher-friendly for 80 years because of his input.",
+      "note_extra": "Source label: 'Comiskey Park.' Mapped to Community Events (ballpark venue). Standard HIGH affinity. Walsh's Comiskey Park affinity is unusual: it encodes not only performance excellence but architectural authorship — he helped shape the space itself. Cross-field expression: Park Designer chemistry trait (+1 all stats in home park) is the direct mechanical expression of this designed-HOME affinity. The Designing the Park action seed documents the consultative origin of this relationship."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Worked in Luzerne County mines as a child. One of 13 children of Irish immigrants.",
+      "note_extra": "Source label: 'Coal Mine / Factory.' Mapped to Community Events (origin/birthplace industrial venue — consistent with Veach's 'Coal Country (Kentucky)' and the batch's recurring pattern of mapping formative working-class origin sites to Community Events via the 'hometowns, farms, ranches' grouping). The coal mine is not a structured training site (Practice Field) but a geographic-biographical origin that shaped Walsh's identity and pain threshold. Standard HIGH affinity. Cross-field expression: Coal Miner's Son chemistry trait (immune to fatigue, infinite pain threshold) and work_ethic personality key ('inhuman') trace directly to this location's formative authority."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Stoic presence. Not the loudest voice but the most respected arm.",
+      "note_extra": "Source label: 'Clubhouse / Training Room.' Canonical taxonomy explicitly lists 'Clubhouse, locker room' under Hotel/Rest. MEDIUM affinity reflects Walsh's stoic, functional clubhouse presence — respected but not socially dominant. Compare Waddell's absent clubhouse entry (Batch 39) — Walsh inhabits this space where Waddell avoided it. Cross-field expression: clubhouse_impact personality key ('ACE PRESENCE — when Walsh was pitching, they had a chance') encodes the clubhouse as a site of functional authority rather than social warmth."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Coached baseball at Notre Dame. Briefly attended Fordham.",
+      "note_extra": "Source label: 'Notre Dame / University.' Mapped to Community Events (educational institution as a post-career public venue — Notre Dame as a coaching site is a community-institutional location fitting Community Events' 'post-career venues' scope). MEDIUM affinity reflects post-career engagement: coaching is where Walsh brought his baseball knowledge after his arm died, but it never reached the intensity of his Comiskey or mound relationships. Cross-field expression: lifestyle personality key documents both the Notre Dame coaching stint and the Fordham attendance as the educational-institutional thread in Walsh's biography."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "LOW",
+      "note": "Tried umpiring in 1922 (87 AL games). It didn't stick.",
+      "note_extra": "Source label: 'Umpire's Position.' Mapped to Practice Field (baseball operational role — umpiring is a field-position activity within the baseball craft domain, distinct from rest spaces or community venues). LOW affinity encodes a baseball-adjacent role Walsh inhabited briefly and unsuccessfully after his arm died. This is the second Practice Field entry on this card; the LOW Practice Field contrasts with the HIGH mound entry, encoding the fundamental difference between pitching (Walsh's total identity) and officiating (a failed substitute). Cross-field expression: temperament personality key ('he tried umpiring — he never stopped working') documents the effort without the aptitude."
+    },
+    {
+      "location": "Medical/Recovery",
+      "affinity": "LOW",
+      "note": "Cancer reduced him from 200 lbs to under 100 lbs. Died in 1959.",
+      "note_extra": "Source label: 'Hospital / Doctor's Office.' Mapped to Medical/Recovery (canonical domain for 'Injury, hospital, rehabilitation'). First use of the Medical/Recovery canonical domain in Batches 36-41. LOW affinity encodes forced medical engagement — not a site Walsh sought but one that claimed him in the end. Distinct from prior LOW Hotel/Rest entries which encoded social avoidance; this LOW encodes terminal medical dependency. Cross-field expression: dark_side personality key (the arm's destruction and Comiskey's abandonment), the Burned Out chemistry trait (-5 STF after 7 seasons), and The Benefit Day action seed (cancer, weight loss, $5,000 benefit) together constitute the Medical/Recovery arc that this location anchors."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "Pennant races — Walsh was superhuman in September 1908 (1.31 ERA in 130.1 IP)",
+      "Tight games — his low ERA means almost every game is close",
+      "Back-to-back starts — Walsh gets better the more he pitches (to a point)",
+      "Hitless supporting cast — Walsh rises when his team can't score"
+    ],
+    "cold_triggers": [
+      "Arm fatigue (cumulative) — each season of 300+ IP brings him closer to the cliff",
+      "Spring training overexertion — trying to keep up with younger pitchers",
+      "Comiskey's cheapness — Walsh never felt adequately compensated for his destruction"
+    ],
+    "pressure_response": "ELITE. Walsh was at his absolute best in the biggest moments. 1906 World Series: 2 wins, 17 K, 1 ER in 15 IP against the 116-win Cubs. September 1908: 130.1 IP with a 1.31 ERA in a four-team pennant race. October 2, 1908: pitched a brilliant four-hitter but lost to Addie Joss's perfect game — proving that even Walsh's best sometimes wasn't enough. In ILB: Walsh is a Game 7 ace. You give him the ball and accept whatever happens."
+  },
+  "action_card_seeds": [
+    {
+      "title": "Forty Wins",
+      "type": "Game Action",
+      "text": "Your ace wins his 40th game of the season — the last pitcher in history to reach this number. He also leads the league in ERA, strikeouts, innings, shutouts, and games. He is single-handedly keeping your team in the pennant race.",
+      "origin": "Walsh went 40-15 with a 1.42 ERA in 1908 — leading the AL in wins, K, ERA, IP (464), shutouts (11), and games (66). The last 40-win season in MLB history."
+    },
+    {
+      "title": "The Perfect Game Loss",
+      "type": "Drama",
+      "text": "Your ace pitches a four-hitter with 15 strikeouts — and loses. Because the opposing pitcher threw a perfect game. One of the cruelest outcomes in baseball history. Your pitcher gains -1 morale but +2 respect.",
+      "origin": "On October 2, 1908, Walsh pitched brilliantly but lost 1-0 to Cleveland's Addie Joss, who threw a perfect game. Walsh struck out 15 and allowed just 4 hits."
+    },
+    {
+      "title": "Both Ends of the Doubleheader",
+      "type": "Game Action",
+      "text": "Your ace starts both games of a doubleheader — and wins both. He allows 1 total run over 18 innings. The crowd can't believe what they're seeing.",
+      "origin": "Walsh won both games of doubleheaders twice — September 26, 1905 (10-5, 3-1) and September 29, 1908 (5-1, 2-0), allowing just 1 run in the latter."
+    },
+    {
+      "title": "The Spitball Apprentice",
+      "type": "Action",
+      "text": "Your pitcher rooms with a spitball specialist in spring training and learns the pitch. It takes two years to master. When he does, +2 STF permanently — but the pitch may someday be outlawed.",
+      "origin": "Walsh roomed with Elmer Stricklett in 1904 spring training and learned the spitball. He didn't use it regularly until 1906. When he mastered it, he became unhittable."
+    },
+    {
+      "title": "The Coal Miner's Arm",
+      "type": "Drama",
+      "text": "A boy from the coal mines has the strongest arm in baseball. For 7 seasons, he is indestructible. Then the arm breaks — not from one pitch, but from ten thousand. 'I could feel the muscles grind and wrench.' His career is over.",
+      "origin": "Walsh averaged 375 IP from 1907-12. After 1912, his arm was destroyed. He pitched 16 games in 1913, then faded completely. Comiskey released him rather than giving him rest."
+    },
+    {
+      "title": "The Hitless Wonders",
+      "type": "Game Action",
+      "text": "Your team hits .230 — the worst in the league. But your pitching staff, led by your ace, carries you to the World Series. And you win. Against a team that won 116 games.",
+      "origin": "The 1906 White Sox hit .230 as a team but beat the 116-win Cubs in the World Series. Walsh won 2 games, struck out 17, and allowed 1 ER in 15 IP."
+    },
+    {
+      "title": "Designing the Park",
+      "type": "Action",
+      "text": "Your veteran pitcher consults with the architect on the new stadium's dimensions. He chooses measurements that favor pitchers. The park remains pitcher-friendly for 80 years.",
+      "origin": "Walsh reportedly consulted architect Zachary Taylor Davis on Comiskey Park's dimensions, making it a pitcher's park for its entire 80-year history."
+    },
+    {
+      "title": "The Benefit Day",
+      "type": "Drama",
+      "text": "Your greatest pitcher is dying. He weighs under 100 pounds. The franchise holds a benefit day and raises $5,000 for his medical bills. It's not enough. He dies two weeks after his birthday.",
+      "origin": "By the late 1950s, Walsh had cancer and weighed under 100 lbs. The White Sox held Ed Walsh Day in 1958, raising $5,000. He died on May 26, 1959."
+    }
+  ],
+  "art_direction": {
+    "face": "Strong, angular Irish face — 6'1\" 193 lbs, unusually tall for the era. High cheekbones, deep-set intense eyes, square jaw. The face of a man who worked in coal mines before he worked on a mound. There's an exhaustion behind the intensity — the look of someone who has given everything and knows it's not sustainable.",
+    "attire": "Chicago White Sox 1908 home whites — the 'Hitless Wonders' era uniform. Mid-delivery, the distinctive spitball release. His right hand should be near his mouth — the telltale gesture he used before every pitch (even non-spitters) to disguise his intentions. Full windup showing the enormous physical effort of the delivery.",
+    "mood": "Relentless intensity. Not joyful like Bodie or serene like Young — this is controlled fury. The coal miner's son who will pitch until his arm falls off. There's something almost tragic in the image — you can see the greatness and the destruction happening simultaneously. Walsh is both the most dominant and the most doomed pitcher in the set.",
+    "style": "Dark, heavy sepia — the darkest card after Cy Young. Industrial Chicago undertones — smokestacks, steelworks, the South Side. The background suggests both Comiskey Park and the coal country he came from. Heavy ornate border with industrial/Celtic motifs. Aged paper with significant wear — this card has been through something. It survived, barely.",
+    "reference": "Think of the T206 Walsh as the card that makes collectors wince — not from value, but from knowing what happened to the arm. ILB sepia at its most tragic-heroic. Walsh should look like the card equivalent of watching a man carry a building on his back: awe-inspiring and heartbreaking in equal measure."
+  }
+}

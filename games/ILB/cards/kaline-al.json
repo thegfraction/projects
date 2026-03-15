@@ -1,0 +1,207 @@
+{
+  "card_type": "player",
+  "name": "Al Kaline",
+  "nickname": "Mr. Tiger",
+  "year": 1955,
+  "team": "Detroit Tigers",
+  "league": "American League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "RF",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'1\"",
+  "weight": "175 lbs",
+  "born": "December 19, 1934 — Baltimore, MD",
+  "died": "April 6, 2020 — Bloomfield Hills, MI",
+  "hof": "Class of 1980 (BBWAA, first ballot, 88.3%)",
+
+  "real_stats": {
+    "season": 1955,
+    "games": 152,
+    "at_bats": 588,
+    "hits": 200,
+    "doubles": 24,
+    "triples": 8,
+    "home_runs": 27,
+    "rbi": 102,
+    "stolen_bases": 8,
+    "runs": 121,
+    "batting_avg": ".340",
+    "obp": ".421",
+    "slg": ".546",
+    "ops": ".967",
+    "ops_plus": 158,
+    "war": 8.2,
+    "all_star": 18,
+    "gold_gloves": 10,
+    "awards": "AL batting champion 1955 (youngest ever at age 20, breaking Ty Cobb's age record); led majors in hits (200); led AL in total bases (321); 2nd in AL MVP voting (to Yogi Berra)",
+    "career_avg": ".297",
+    "career_hits": 3007,
+    "career_hr": 399,
+    "career_sb": 137,
+    "career_war": 92.8,
+    "career_rbi": 1582,
+    "career_notes": "22 seasons, one team (Detroit Tigers). 10 Gold Gloves (1957-59, 1961-67). 18 All-Star selections. 1968 WS: .379, 2 HR, 8 RBI. Never played a minor league game. First player in Tigers history to have his number retired (#6). 3,007 career hits. Roberto Clemente Award 1973. Ted Williams on 1955 Kaline: 'Joe DiMaggio.'"
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "con": 5,
+    "pow": 3,
+    "spd": 1,
+    "def": 3,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "con": "Peak .340 BA (1955) clears the .330+ = 5 threshold. OPS+ 158 far exceeds the ≥130 bonus — but CON is already capped at 5. Led the majors in hits (200) at age 20. Career .297 BA over 22 seasons. The 1955 contact profile (.340/.421, 57 K in 588 AB) is elite by any era's standard. Youngest AL batting champion ever, breaking Ty Cobb's age record by twelve days.",
+    "pow": "27 HR (1955) falls in the 20-29 = 2 band. SLG .546 ≥ .500 → +1 bonus → POW 3. Career peak was 29 HR in 1962 (interrupted by collarbone break — projected 47 HR pace that season). Career 399 HR. POW 3 reflects the 1955 peak accurately and is consistent with the power tier across the Dreamers 1950 team.",
+    "spd": "Approximately 8 SB in 1955 (6-15 = 1). Early career described as 'speedy and quick' by contemporaries. However, his foot was already deformed — a condition not diagnosed until 1965 — which limited his base-stealing across his career. Career 137 SB over 22 seasons. SPD 1 reflects the functional reality.",
+    "def": "FIRST RF IN THE SET TO EARN DEF 3. 10 Gold Gloves (1957-59, 1961-67) — the pre-GG era historical reputation rule applies for 1955 but his subsequent GG run documents the full defensive profile. 84 outfield assists between 1954-1958; career-high 23 in 1958 — after which baserunners effectively stopped testing his arm. 242 consecutive errorless games in 1971. Chuck Dressen: 'For all-around ability — hitting, fielding, running and throwing — I'll go with Al.' The arm alone justifies DEF 3; the GG consistency confirms it. Prior DEF 3 outfielders in the set were all CFs (Mays, Puckett, Roush, Doby). Kaline is the first RF.",
+    "clu": "1968 World Series — his only postseason (in his 16th season). .379 BA, 2 HR, 8 RBI across 7 games. Game 5 bases-loaded single that gave Detroit the lead in the pivotal inning. Career WS performance earns WS hero status without qualification. CLU 3 (maximum) is further justified by context: Kaline had told manager Mayo Smith he 'didn't deserve to play' before the Series; Mickey Lolich on the Game 5 single: 'If anybody would get that hit, I wanted it to be Al Kaline.' The 16-year wait, the broken-arm year, the humble sacrifice-offer — and then .379 with 2 HR and the defining hit of the Series. CLU 3."
+  },
+
+  "personality": {
+    "leadership_style": "The franchise. Not a captain in the traditional sense but something more total — Kaline was Detroit baseball for 22 years, from last place to World Series, through every manager and roster change. 'Al Kaline was the Detroit Tigers for more than two decades.' He led by simply being there, being consistent, and being the man they built around.",
+    "temperament": "Evolved dramatically. The young Kaline was difficult — sulking, loafing, throwing helmets and bats, not talking. 'There was a time when Al Kaline wasn't a very pleasant person to be around.' The 18-year-old batting champion who was supposed to be Ty Cobb and Joe DiMaggio simultaneously hadn't yet figured out how to be himself. By his 30s he was the definition of quiet, professional excellence. The transformation from volatile teenager to Mr. Tiger is one of the most complete character arcs in the set.",
+    "work_ethic": "Extraordinary and largely invisible. Kaline played most of his career on a foot that was essentially crippled — toes overlapping and misaligned, bones without ground contact — and won batting titles and Gold Gloves on it. A sportswriter who examined the foot in 1965 wrote: 'It is hard to believe, but for all of his career with the Tigers while he has been called the perfect player, Kaline has bordered on being a cripple.' He got corrective shoes in 1965 and said: 'I feel so much better than I did before, that it's ridiculous.' Twelve seasons of elite play. On a broken foot.",
+    "lifestyle": "Working-class Baltimore, then lifetime Detroit. Westport, where the fields were dirt and the whole world was row houses. Signed in his graduation suit. Turned the bonus money over to his parents — paid off the mortgage, funded his mother's eye surgery. Spent 22 seasons in Detroit, then 27 more years as the team's TV color commentator. Kaline Drive. Number 6 retired, first in franchise history. He never left.",
+    "era_adaptability": "HIGH. Kaline's profile — elite contact, Gold Glove defense, the arm — would play in any era. The deformed foot would be diagnosed and corrected earlier, likely extending his career. His OPS+ of 158 in 1955 and 176 in 1967 (the Dead Ball II nadir) suggest he performed above era regardless of conditions.",
+    "clubhouse_impact": "The standard. 'You almost have to watch him play every day to appreciate what he does,' said Johnny Podres. Kaline's impact on the Detroit clubhouse was quiet and total — the model of what a Tiger was supposed to be. By the late 1960s, young players came through Detroit knowing that Kaline was what professionalism looked like.",
+    "dark_side": "The injuries that truncated what might have been the greatest career in AL history. From 1959 to 1968 he missed 277 games — about 28 per year. The 1962 collarbone: hit .345 with 13 HR in 35 games, projected pace of 47 HR, broke it catching a fly ball by going through a gate in the outfield fence. The 1968 broken arm: missed until July, came back diminished, told the manager he didn't deserve to play in the World Series. The foot that nobody knew about for 12 years. Kaline said it himself: 'The worst thing that happened to me in the big leagues was the start I had.' By 20 he was supposed to be Ruth, Cobb, DiMaggio, and Gehrig simultaneously. Nobody could have survived those expectations. That he turned into Mr. Tiger instead of burning out entirely is the quiet miracle of the career."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Arm",
+      "desc": "Career-high 23 OF assists in 1958. Baserunners stopped testing it after. Once per game, Kaline may attempt a throw that requires a roll — on 4-6, the runner is cut down and Kaline gains +1 CLU for the game."
+    },
+    {
+      "tag": "Mr. Tiger",
+      "desc": "22 years, one team. Kaline gains +1 to all stats in Detroit home games. The franchise loyalty has a mechanical expression."
+    },
+    {
+      "tag": "The Deformed Foot",
+      "desc": "Played 12 seasons on a crippled foot before corrective shoes. In ILB, Kaline's SPD cannot be improved by any event or card — the foot is permanent. But his DEF cannot be reduced by injury events affecting his legs."
+    },
+    {
+      "tag": "I Don't Deserve to Play",
+      "desc": "Once per career: Kaline may tell his manager he should sit out. If the manager keeps him in: +2 CLU for the postseason. If the manager benches him: team morale drops -1."
+    },
+    {
+      "tag": "Youngest Ever",
+      "desc": "AL batting champion at 20. In ILB, Kaline's CON cannot be reduced below 4 in any season before age 30 — the peak was set early and it held."
+    },
+    {
+      "tag": "Refused to Watch",
+      "desc": "Never attended a World Series until he played in one. Kaline's CLU mechanic is supercharged in his first (and only) WS appearance: +1 to all WS at-bats."
+    },
+    {
+      "tag": "The Graduation Suit",
+      "desc": "Never played a minor league game. In ILB, Kaline has no development arc — he arrived at full capability. No minor league seasoning card events can affect him."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Community Events",
+      "affinity": "SACRED",
+      "note": "Tiger Stadium / Michigan & Trumbull. 22 years. First number retired in franchise history. Kaline Drive. The permanent geography of franchise loyalty.",
+      "note_extra": "Source labeled 'Tiger Stadium / Briggs Stadium / Detroit' / affinity 'SACRED' — sixth SACRED in the set (after Gehrig/Yankee Stadium, Rice/WS fence, two prior SACREDs, and Valo/Shibe Park right field wall). Kaline's is the second stadium-scale SACRED (after Gehrig) and the first where the SACRED relationship was actively constructed over 22 years rather than representing a single peak. The documentary basis: Kaline Drive (Cherry Street renamed 1970); #6 retired first in franchise history; 22 seasons, zero other teams; TV color commentator 1975-2002 (27 additional years in the same building). The Community Events domain is used because Tiger Stadium at Michigan & Trumbull was a civic anchor of Detroit — not merely a workplace for Kaline but the physical center of the city's sports identity across multiple decades. The chemistry_trait 'Mr. Tiger' (+1 to all stats in Detroit home games) is the mechanical cross-field expression."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "The arm. 84 outfield assists in five years. Baserunners who stopped testing it entirely. 10 Gold Gloves. The defensive excellence that was worked, not given.",
+      "note_extra": "Source labeled 'Right Field / Practice / Defense' / affinity 'HIGH' — thirteenth Practice Field/HIGH in the set. Prior outfield Practice Field/HIGHs: Puckett (batting ritual), Trucks (velocity identity), Doby (positional transformation). Kaline's Practice Field/HIGH is the first in the set grounded in RF defensive excellence — specifically the throwing arm as the defining craft product. The 84 outfield assists between 1954-1958 (career-high 23 in 1958) are documented as the direct result of deliberate practice; after 1958, the arm's reputation was established and baserunners stopped providing opportunities. The chemistry_trait 'The Arm' (roll for cut-down plays, +1 CLU on success) is the mechanical expression. The 10 Gold Gloves serve as the formal institutional basis for DEF 3 (the first RF at this tier in the set)."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "The elder statesman of the Detroit clubhouse. The helmet-thrower who became Mr. Tiger. The only professional home he ever knew.",
+      "note_extra": "Source labeled 'Clubhouse / Detroit Tigers' / affinity 'HIGH' — sixteenth Hotel/Rest/HIGH in the set. Kaline's register is the first in the set encoding a full transformation arc within a single clubhouse — from volatile teenage tantrums (helmet-throwing, sulking, loafing) to the standard of professional excellence that younger players measured themselves against. The Baseball Almanac source documents both extremes: 'there was a time when Al Kaline wasn't a very pleasant person to be around' (early career); 'You almost have to watch him play every day to appreciate what he does' — Johnny Podres (mature career). The 22-year arc within the same team and the same clubhouse makes this HIGH the most temporally extended clubhouse relationship in the set. The chemistry_trait 'Mr. Tiger' and the personality arc from dark_side to leadership_style are the cross-field expressions."
+    },
+    {
+      "location": "Medical/Recovery",
+      "affinity": "COMPLEX",
+      "note": "The deformed foot (12 seasons before diagnosis). The 1962 collarbone. The 1968 broken arm. The 277 missed games. The body that kept finding new ways to interrupt what should have been the greatest career.",
+      "note_extra": "Source labeled 'Medical / Injury / Foot / Collarbone / Arm' / affinity 'COMPLEX' — fourth COMPLEX in the set (after Plank, Holmes, and Brecheen). Kaline's COMPLEX is the most multi-source in the set: (1) the deformed foot — 12 seasons of elite play on a crippled foot before corrective shoes in 1965; sportswriter Gross: 'It is hard to believe, but for all of his career with the Tigers while he has been called the perfect player, Kaline has bordered on being a cripple'; (2) the 1962 collarbone — broke it making a spectacular diving catch, cost him the likely greatest season of his career (47 HR pace in 35 games); (3) the 1968 broken arm — missed until July, told Smith he didn't deserve to play. The COMPLEX affinity is used because the Medical/Recovery domain was simultaneously the source of Kaline's mystique (the 12 seasons of elite play without complaint on a broken foot) and the primary constraint on his legacy (277 missed games, multiple seasons truncated). Neither HIGH nor LOW adequately captures the dual role: the body was both revelation (he performed despite it) and limitation (it cost him multiple seasons). The chemistry_trait 'The Deformed Foot' (SPD cannot improve; DEF cannot be reduced by leg injury) is the mechanical expression."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Westport, Baltimore. Row houses and dirt fields. His father and grandfather in semiprofessional baseball. The signing bonus that paid off the mortgage and funded his mother's eye surgery.",
+      "note_extra": "Source labeled 'Hometown / Baltimore / Westport' / affinity 'ORIGIN' — seventh standalone ORIGIN in the set (after Cooper/Atherton, Rice/ORIGIN-WOUND, Trucks/Birmingham, Blackwell/California, Valo/Czechoslovakia, Brecheen/Oklahoma). Kaline's ORIGIN is the most economically grounded — the Westport section of Baltimore, where 'the fields were made of dirt and only dirt and the whole world was nothing more than row houses upon row houses.' The RetroSimba source documents the signing bonus disposition: 'He turned every penny of it over to his father and his mother. The mortgage was paid off on the house and Mrs. Kaline's failing eyesight was saved by an operation.' The ORIGIN encodes Westport not merely as a birthplace but as the economic and relational foundation that made the entire career possible — the family loyalty that preceded and outlasted the franchise loyalty. The action card seed 'Signed in a Graduation Suit' is the cross-field expression of the ORIGIN-to-career threshold moment."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "World Series games — CLU 3 + 'Refused to Watch' trait supercharging; the 16-year wait compressed into .379 BA.",
+      "Home games at Tiger Stadium — Mr. Tiger trait activates; +1 to all stats.",
+      "High-leverage situations with runners on base — the 1968 WS Game 5 single defines this trigger.",
+      "Defensive opportunities with throwing arm — 'The Arm' trait: runners on, ball hit to right field, +1 CLU on successful cut-down."
+    ],
+    "cold_triggers": [
+      "Injury events — the body's history makes Medical/Recovery COMPLEX triggers more frequent.",
+      "Doubleheader contexts — 'My fielding never suffers when I play doubleheaders, it's my hitting. My arms become heavy and I can't swing the bat.'",
+      "Excessive expectations — the young Kaline who was supposed to be Cobb and DiMaggio simultaneously went cold from the weight of it.",
+      "Post-1968 seasons — the arc was complete after the World Series; declining years follow."
+    ],
+    "pressure_response": "ELITE, but specifically calibrated to the highest possible stage and the longest possible wait. Kaline's greatest performance came in his only World Series, in his 16th season, after a year in which he broke his arm and told his manager he didn't deserve to play. Mickey Lolich: 'I wanted it to be Al Kaline.' The pressure response was not consistent across a career of high-leverage moments; it was singular, concentrated, and delivered exactly when the moment was largest. CLU 3 reflects this peak without overstating the regular-season clutch record."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "I Don't Deserve to Play",
+      "type": "Drama",
+      "text": "Before the World Series, your veteran tells his manager that he doesn't deserve a starting spot — the injury season was too long, the young man who replaced him played too well. The manager keeps him in the lineup anyway, engineering a position switch to do it. In the pivotal game, with the bases loaded and the Series in the balance, your veteran gets the hit. Mickey Lolich: 'I wanted it to be Al Kaline.'",
+      "origin": "Before the 1968 World Series, Kaline told Mayo Smith he didn't deserve to play. Smith moved Mickey Stanley to shortstop to keep Kaline in the outfield. In Game 5, down 3-2 with bases loaded, Kaline hit a two-run single that gave Detroit the lead in the pivotal game. Detroit won the Series."
+    },
+    {
+      "title": "Signed in a Graduation Suit",
+      "type": "Action",
+      "text": "A scout follows a player through high school, convinced he can go directly to the major leagues. On graduation day, the player is still wearing his suit when he signs the contract. He reports to the majors within a week. He never plays a minor league game. He wins a batting title within two years.",
+      "origin": "Tigers scout Ed Katalinas signed Kaline hours after his high school graduation in 1953 — Kaline was still wearing his graduation suit. He made his major league debut six days later, one week after graduation. He never played a minor league game. He won the AL batting title in 1955 at age 20."
+    },
+    {
+      "title": "The Deformed Foot",
+      "type": "Drama",
+      "text": "A player has been performing at elite levels for twelve years. A sportswriter finally examines his foot: the toes overlap, the bones don't touch the ground, the structure is essentially crippled. A doctor prescribes corrective shoes. The player says: 'I feel so much better than I did before, that it's ridiculous.' Team management realizes they never knew. The player laughs. He's been winning Gold Gloves on it for a decade.",
+      "origin": "Kaline's deformed right foot was not diagnosed until 1965. He played 12 seasons — winning batting titles and Gold Gloves — before corrective shoes were prescribed. Sportswriter Milton Gross on the foot: 'It is hard to believe, but for all of his career while he has been called the perfect player, Kaline has bordered on being a cripple.'"
+    },
+    {
+      "title": "The Collarbone Catch",
+      "type": "Drama",
+      "text": "In late May, your right fielder is hitting .345 with 13 home runs in 35 games — a 47-homer pace. A shallow fly ball is hit to right. Your second baseman and first baseman can't reach it. Your right fielder dives. He makes the catch. He goes through a padded gate in the outfield fence. He breaks his collarbone. He plays 65 more games that season. The 47-homer pace evaporates. The catch was worth it. 'We're where we are because of Kaline. Where we go from here depends on him.' Where they went was fourth place.",
+      "origin": "In 1962, Kaline was on a historic pace when he broke his collarbone diving for a fly ball in Yankee Stadium, going through a padded gate in the fence. He played only 100 games. 'It would have likely been his greatest season,' wrote Deadspin. Manager Bob Scheffing's quote: 'We're where we are because of Kaline.'"
+    },
+    {
+      "title": "Mickey Stanley at Short",
+      "type": "Drama",
+      "text": "Your center fielder has never played shortstop in the major leagues. Your manager moves him there anyway — to get a veteran into the outfield lineup for the World Series. The baseball world calls it foolish. ESPN later calls it one of the ten greatest coaching decisions of the century. The veteran the manager moved heaven and earth to play hits .379.",
+      "origin": "In the 1968 World Series, Tigers manager Mayo Smith moved center fielder Mickey Stanley to shortstop — a position he had never played at the ML level — to make room for Kaline in the outfield. Kaline hit .379 with two home runs. ESPN listed it among the ten greatest coaching decisions of the 20th century."
+    },
+    {
+      "title": "Refused to Watch",
+      "type": "Action",
+      "text": "Your veteran player refuses to attend a World Series game until he plays in one. He goes 16 seasons without a playoff appearance. When the World Series finally comes, he tells his manager he doesn't deserve to start. He starts. He hits .379.",
+      "origin": "This Day in Baseball documented it: 'Detroit's Al Kaline refused to attend a World Series game until he played in one.' He waited 16 seasons. When the 1968 World Series arrived, he offered to bench himself. He started. He hit .379 with 2 HR and 8 RBI."
+    },
+    {
+      "title": "The Youngest Ever",
+      "type": "Action",
+      "text": "In 1955, your right fielder becomes the youngest batting champion in American League history. He is twenty years old. He breaks the age record set by Ty Cobb in 1907 by twelve days. He bats .340, leads the majors with 200 hits, leads the AL with 321 total bases. Ted Williams says he reminds him of Joe DiMaggio. The comparisons to Cobb and DiMaggio and Ruth start immediately. 'The worst thing that happened to me in the big leagues was the start I had,' the player will say later. He was right. Nobody survives being told they are several legends simultaneously at twenty years old.",
+      "origin": "Kaline won the 1955 AL batting title at age 20, breaking Ty Cobb's record (by 12 days) as the youngest batting champion. Ted Williams called him 'Joe DiMaggio.' The immediate pressure of the comparisons contributed to his early-career volatility — the helmet-throwing years."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'1\", 175 lbs in 1955 — lean, angular, still filling out at 20. Baltimore working-class bone structure under a Tigers cap. The face that looks older than the age but still has the brightness of someone who hasn't yet become a legend. The eyes are serious — not mean, not warm, but watchful. He's been in the major leagues since he was 18. He's seen things. He's learning what to do with them.",
+    "attire": "Detroit Tigers home whites with the Old English D. Right field — the classic right fielder's pose: positioned for the throw, arm already back, the cannon ready. The 1955 uniform was clean, trim, and fit the lean frame. Number 6 on the back.",
+    "mood": "Quiet intensity. Not the explosion of Wilson, not the contained fury of Doby — something between them. The 20-year-old who just won the batting title and is trying not to be both terrified and thrilled about it simultaneously. The sweet swing in mid-motion. The follow-through that Ted Williams called Joe DiMaggio.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Tiger Stadium right field wall behind him. The 1955 season — the peak year, the youngest-ever, the beginning of 22 years.",
+    "reference": "He didn't have a hook — no leg kick, no .400 average, no feud with fans. He was just a ballplayer. The best one in the American League for two decades. The man who turned his graduation-day bonus over to his parents, won ten Gold Gloves on a broken foot, and waited sixteen years for his World Series."
+  }
+}

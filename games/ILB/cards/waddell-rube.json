@@ -1,0 +1,220 @@
+{
+  "card_type": "player",
+  "name": "Rube Waddell",
+  "nickname": "The Sousepaw",
+  "year": 1905,
+  "team": "Philadelphia Athletics",
+  "era": "1900s",
+  "ilb_team": "Banners AL1900",
+  "position": "SP",
+  "bats": "R",
+  "throws": "L",
+  "height": "6'1\"",
+  "weight": "196 lbs",
+  "born": "October 13, 1876 — Bradford, PA (born on Friday the 13th)",
+  "died": "April 1, 1914 — San Antonio, TX (age 37). Died from tuberculosis, weakened by standing in icy flood waters doing relief work.",
+  "hof": "Inducted 1946 (Veterans Committee). Connie Mack: 'He had more stuff than any pitcher I ever saw.'",
+  "real_stats": {
+    "season": 1905,
+    "games": 46,
+    "wins": 26,
+    "losses": 11,
+    "era": "1.48",
+    "innings": "328.2",
+    "strikeouts": 287,
+    "walks": 90,
+    "complete_games": 27,
+    "shutouts": 7,
+    "whip": "0.96",
+    "war": 10.7,
+    "career_wins": 193,
+    "career_losses": 143,
+    "career_era": "2.16",
+    "career_strikeouts": 2316,
+    "career_cg": 261,
+    "career_shutouts": 50,
+    "career_war": 56.1,
+    "no_hitters": 0,
+    "perfect_games": 0
+  },
+  "ilb_stats": {
+    "ovr": 10,
+    "stf": 5,
+    "ctl": 3,
+    "sta": 4,
+    "def": 0,
+    "clu": 0
+  },
+  "stat_justification": {
+    "stf": "1.48 ERA in 1905 — pitching Triple Crown (led AL in W, K, ERA). 287 K, more than double the runner-up in some years. 349 K in 1904 — a record that stood for 61 years until Koufax (1965). Led the major leagues in strikeouts 6 consecutive years (1902-07). K/9 of 7.86 — absurdly high for the dead-ball era. Mack said he had 'more stuff than any pitcher I ever saw.' An electric fastball, devastating curve, and a screwball — the most purely talented arm in baseball. Maximum 5.",
+    "ctl": "BB/9 of 2.46 in 1905 — 90 walks in 328 IP. K/BB ratio of 3.19, nearly 3-to-1 career. WHIP of 0.96. Waddell's control was genuinely good — his strikeout-to-walk ratio was elite. But the walks per 9 (2.46) place him in tier 2, and the WHIP bonus pushes to 3. He's not Walsh or Young in terms of pure command, but he's well above average.",
+    "sta": "328.2 IP in 1905. Career 2,961 IP in 13 seasons. Waddell averaged 277 IP per year during his peak. He was durable when he actually showed up. The limitation isn't physical stamina — it's that Waddell would disappear for days, skip starts, chase fire trucks. His effective IP is lower than his physical capacity because of absenteeism. Rating 4.",
+    "def": "Waddell was not a reliable fielder. He was too distracted, too unpredictable. He once called his entire defense off the field and pitched alone for an inning. This is magnificent theater but terrible defensive fundamentals. Rating 0.",
+    "clu": "NEVER pitched in a World Series. In 1905, the A's won the AL pennant — Waddell's best season. But he injured his shoulder roughhousing with teammate Andy Coakley on a train in September. He missed the WS entirely. The A's lost to the Giants (Christy Mathewson threw 3 shutouts). Waddell's absence is one of the great 'what ifs' in baseball. Rating 0."
+  },
+  "personality": {
+    "leadership_style": "The Chaos Engine. Waddell didn't lead — he happened. His presence on a team was like a hurricane: spectacular when it was working, devastating when it wasn't. You couldn't predict him, control him, or ignore him. Mack was the only manager who could tolerate him for more than a season.",
+    "temperament": "Childlike, impulsive, chaotic, kind. Waddell chased fire trucks. He played marbles with children in the streets. He ran into the stands to pet puppies. He was fascinated by shiny objects. He left games to go fishing. He wrestled alligators in the offseason. He was bitten by a lion after punching it. He performed in a melodrama called 'The Stain of Guilt,' where he improvised every line because he couldn't memorize them — and threw the villain actor across the stage. Modern commentators (Bill James and others) have suggested he may have had ADHD, autism, or a developmental disability. Whatever the diagnosis, Waddell was deeply lovable. Harry Davis said: 'If a friend in need applied to him for assistance, he was never turned away.'",
+    "work_ethic": "UNPREDICTABLE. When Waddell was on the mound, he was the most dominant pitcher alive. When he wasn't on the mound, he could be anywhere — a firehouse, a fishing hole, a bar, a melodrama, a circus. Mack paid him in singles so he wouldn't blow his salary on alcohol. Mack sent Pinkerton agents to California to fetch him. Waddell's commitment to baseball was total in the moment and nonexistent between moments.",
+    "lifestyle": "Born Friday the 13th. Grew up in rural Pennsylvania. Threw rocks at crows to protect seed plantings — developed his arm on the farm. Married and divorced 3 times (said he lost count of how many wives). Wore red under his uniform in case a fire alarm rang. Slept in firehouses. Tended bar. Acted in melodramas. Played semi-pro football. In his final years, he stood in icy flood waters doing relief work in Hickman, Kentucky. The exposure weakened him, and he died of tuberculosis in San Antonio at 37 — weighing 130 lbs. Connie Mack and Ben Shibe paid for his medical care: 'No expenses should be spared.'",
+    "era_adaptability": "IMPOSSIBLE TO PREDICT. Waddell's arm would translate to any era — his stuff was generationally dominant. His K/9 rate was decades ahead of his time. But would a modern team tolerate him? He'd need an extraordinarily patient manager, a supportive clubhouse, and probably a team of therapists and handlers. If managed perfectly, Waddell is a perennial Cy Young. If not, he never makes it out of spring training.",
+    "clubhouse_impact": "WILDLY POLARIZING. Some teammates loved him (Davis: 'lovable disposition'). Others hated him — the fistfight over a straw hat on a cross-country train, the scuffles with Ossee Schreckengost. Waddell's antics created two factions: those who found him charming and those who found him insufferable. He was traded because teammates demanded it.",
+    "dark_side": "The death. Waddell died at 37, down to 130 lbs, from tuberculosis aggravated by standing in icy flood waters to help strangers during the 1912 Hickman, Kentucky floods. The most gifted arm in baseball was destroyed not by overwork (like Walsh) but by the same impulsive kindness that defined everything about him. He rushed into danger to help people — just like he rushed off the mound to chase fire trucks. In ILB: Waddell carries a 'Noble Ruin' trait — his greatest strength (impulsive compassion) is also what kills him."
+  },
+  "chemistry_traits": [
+    {
+      "tag": "Most Stuff Ever",
+      "desc": "Mack: 'More stuff than any pitcher I ever saw.' When Waddell is focused, +3 STF. The problem is the 'when focused' part."
+    },
+    {
+      "tag": "6× Strikeout King",
+      "desc": "Led ML in K for 6 consecutive years (1902-07). 349 K in 1904 — record for 61 years. Opposing batters gain the 'Intimidated' trait."
+    },
+    {
+      "tag": "Fire Truck",
+      "desc": "CRITICAL FLAW: Before every start, roll a d6. On a 1, Waddell chases a fire truck and misses the game. On 2-6, he pitches normally."
+    },
+    {
+      "tag": "Childlike",
+      "desc": "Waddell plays marbles with children, pets puppies, and is fascinated by shiny objects. +2 fan loyalty with families. -1 discipline."
+    },
+    {
+      "tag": "Sousepaw",
+      "desc": "Alcoholism. After every game, 25% chance Waddell goes on a bender and misses the next start. Mack pays him in singles to limit damage."
+    },
+    {
+      "tag": "Pinkerton Delivery",
+      "desc": "If Waddell disappears, a manager can spend resources to send agents to retrieve him. 80% success rate. Takes 1-3 games."
+    },
+    {
+      "tag": "Noble Ruin",
+      "desc": "Waddell's kindness is compulsive. If a crisis happens near the ballpark, Waddell will help — regardless of the game. This is beautiful. This is what kills him."
+    },
+    {
+      "tag": "Mack's Atom Bomb",
+      "desc": "Mack called Waddell 'the atom bomb of baseball.' +2 chemistry with Connie Mack. -2 chemistry with every other manager."
+    }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "When he was there, he was the most dominant pitcher alive.",
+      "note_extra": "Source label: 'Pitcher's Mound.' Mapped to Practice Field (craft/performance domain — the mound as the site of Waddell's dominant output). Established pattern across the batch. Standard HIGH affinity. Cross-field expression: Most Stuff Ever and 6× Strikeout King chemistry traits are the mechanical expressions of what Waddell delivers when actually present at this location. The conditional nature ('when he was there') is encoded in the Fire Truck trait (1-in-6 absence roll per start)."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "Slept in firehouses. Wore red under his uniform. Fascinated by fire.",
+      "note_extra": "Source label: 'Fire Station.' Mapped to Hotel/Rest (civic non-baseball daily-life space — a firehouse is where Waddell slept and spent off-field time, fitting the Hotel/Rest domain's 'home, transportation, daily-life' scope rather than Community Events' public-gathering scope). Standard HIGH affinity. This is a Hotel/Rest HIGH for a non-standard reason: not comfort or social ease, but impulsive fascination. First HIGH Hotel/Rest entry encoding a compulsive behavioral affinity rather than a preference. Cross-field expression: Fire Truck chemistry trait (1-in-6 start-miss) and the lifestyle personality key ('wore red under his uniform in case a fire alarm rang') are the mechanical and narrative expressions of this location's grip on Waddell."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Left games mid-inning to go fishing. Found peace near water.",
+      "note_extra": "Source label: 'Fishing Hole / River.' Mapped to Community Events (outdoor recreational venue — fishing holes and rivers are recurring leisure/outdoor spaces fitting Community Events' 'post-career venues' and outdoor gathering scope; distinct from Practice Field as non-structured and non-baseball). Standard HIGH affinity. Cross-field expression: temperament personality key ('he left games to go fishing') and work_ethic key ('when he wasn't on the mound, he could be anywhere — a firehouse, a fishing hole') establish this as a compulsive retreat location."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Played marbles with children. Cartwheeled off the mound.",
+      "note_extra": "Source label: 'Street / Playground.' Mapped to Community Events (neighborhood outdoor public space — consistent with prior sandlot/hometown mappings for Veach and Vosmik). Standard HIGH affinity. Cross-field expression: Childlike chemistry trait (+2 fan loyalty with families, -1 discipline) is the direct mechanical expression of Waddell's street/playground affinity. The temperament personality key documents the marbles, puppies, and shiny objects that constitute this location's behavioral signature."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "MEDIUM",
+      "note": "Starred in 'The Stain of Guilt.' Improvised every line. Threw the villain.",
+      "note_extra": "Source label: 'Theater / Stage.' Mapped to Media/Spotlight (performance venue with public/press dimension — the theater stage is a broadcast/legacy/public performance domain consistent with Media/Spotlight's scope, which covers press, radio, and public-facing performance spaces). First use of Media/Spotlight in this conversion batch. Waddell's theater work is performative self-presentation, not community gathering — closer to Media/Spotlight's spotlight-seeking dimension than to Community Events. Standard MEDIUM affinity. Cross-field expression: The Stain of Guilt action seed documents the specific performance and its mechanics (missed 2 weeks of games)."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "Alcoholism. Spent signing bonuses on benders. Tended bar in offseason.",
+      "note_extra": "Source label: 'Bar / Saloon.' The canonical taxonomy explicitly lists 'bar/nightlife' under Hotel/Rest. HIGH affinity — the first HIGH Hotel/Rest assignment for a bar/nightlife source label in the set. Prior bar/nightlife entries (Vernon, Vosmik) were LOW or absent. Waddell's HIGH encodes alcoholism as a genuine compulsive affinity rather than avoidance, consistent with the Sousepaw chemistry trait (25% bender probability per game). The moral valence is negative but the affinity level accurately reflects the source data: Waddell did not avoid bars, he inhabited them. Cross-field expression: Sousepaw chemistry trait and work_ethic personality key ('Mack paid him in singles so he wouldn't blow his salary on alcohol') are the mechanical and narrative expressions of this HIGH."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Wrestled alligators. Punched a lion. Was bitten.",
+      "note_extra": "Source label: 'Circus / Zoo.' Mapped to Community Events (public entertainment venue — a circus or zoo is a public gathering/entertainment space consistent with Community Events' scope). Standard MEDIUM affinity. The MEDIUM reflects a genuinely attended but not daily-life-defining location; Waddell's circus/zoo encounters are episodic rather than habitual. Cross-field expression: Bitten by a Lion action seed documents the lion-punching incident and its recovery; the temperament personality key ('wrestled alligators in the offseason') establishes the behavioral pattern."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "LOW",
+      "note": "Waddell struggled to stay seated. He wanted to be anywhere else.",
+      "note_extra": "Source label: 'Dugout / Bench.' Mapped to Practice Field (team facility/game-preparation domain — the dugout is a baseball operational space within the Practice Field taxonomy). LOW affinity encodes the dugout as a site of active aversion for Waddell: not a dangerous or fatal location, but one that represents the boredom and confinement that triggered his disappearances. Cross-field expression: Fire Truck chemistry trait (the roll that sends him away before the start) and the cold_triggers momentum entry ('boredom — if Waddell lost interest, he'd literally leave') are the mechanical expressions of this LOW dugout affinity."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "Crowd energy — Waddell was a showman who fed off big audiences",
+      "Strikeout challenges — if someone bet him he couldn't strike out every batter, he'd try",
+      "Connie Mack's patience — the only man who could manage him",
+      "New situations — Waddell was brilliant when things were novel and exciting"
+    ],
+    "cold_triggers": [
+      "Boredom — if Waddell lost interest, he'd literally leave",
+      "Alcohol — benders could derail him for days",
+      "Teammate conflicts — the straw hat fight, Schreckengost disputes",
+      "Routine — Waddell couldn't handle repetition or structure"
+    ],
+    "pressure_response": "UNKNOWN — TRAGICALLY. Waddell never pitched in a World Series because he hurt his shoulder roughhousing. The 1905 WS — his one chance — was lost without him. We will never know if Waddell could have out-dueled Mathewson. In ILB: Waddell's pressure response is a permanent question mark. He might throw the greatest game in history. He might chase a fire truck. There is no middle ground."
+  },
+  "action_card_seeds": [
+    {
+      "title": "Three Forty-Nine",
+      "type": "Game Action",
+      "text": "Your pitcher strikes out 349 batters in a single season — a record that will stand for 61 years. Opposing lineups gain the 'Demoralized' trait for the entire season. Your pitcher gains +1 STF permanently.",
+      "origin": "Waddell struck out 349 batters in 1904, a record unsurpassed until Sandy Koufax fanned 382 in 1965. In some seasons, he had more than double the K of the runner-up."
+    },
+    {
+      "title": "The Fire Truck",
+      "type": "Drama",
+      "text": "Your pitcher sees a fire truck during a game. He bolts from the mound and chases it. The game is forfeited. Your manager loses -2 morale. But the crowd? The crowd loves him more.",
+      "origin": "Waddell had a legendary fascination with fire trucks and reportedly chased them during games. He slept in firehouses and wore red under his uniform."
+    },
+    {
+      "title": "Send the Pinkertons",
+      "type": "Action",
+      "text": "Your star pitcher has vanished. He might be in California. You dispatch two Pinkerton agents to retrieve him. Roll a d6: on 3+, they bring him back. On 1-2, he's wrestling alligators and they can't catch him.",
+      "origin": "Mack dispatched Pinkerton agents to California to sneak Waddell back to Philadelphia for the 1902 season. It worked — Waddell went 24-7 in half a season."
+    },
+    {
+      "title": "Waving Off the Defense",
+      "type": "Game Action",
+      "text": "Your pitcher calls all 8 fielders off the field and pitches alone. If he strikes out the side, +5 fan loyalty and the 'Showman' trait. If any batter puts the ball in play, it's a guaranteed hit.",
+      "origin": "In semipro ball, Waddell repeatedly dismissed his entire defense and pitched with nobody behind him. He struck batters out anyway."
+    },
+    {
+      "title": "The Stain of Guilt",
+      "type": "Drama",
+      "text": "Your pitcher takes a role in a traveling melodrama. He can't memorize his lines, so he improvises. He physically throws the villain actor across the stage. The show is critically acclaimed. Your pitcher gains +1 reputation but misses 2 weeks of games.",
+      "origin": "Waddell starred in 'The Stain of Guilt,' improvising every line. He threw the actor playing the villain across the stage during a scene. The play was well-reviewed."
+    },
+    {
+      "title": "The Missing World Series",
+      "type": "Drama",
+      "text": "Your ace injures his shoulder roughhousing with a teammate on a train. He misses the World Series entirely. Your team loses. The greatest 'what if' in franchise history is born.",
+      "origin": "Waddell hurt his shoulder wrestling Andy Coakley on a train before the 1905 WS. He missed the entire series. The A's lost to Mathewson's Giants 4-1."
+    },
+    {
+      "title": "Bitten by a Lion",
+      "type": "Drama",
+      "text": "Your pitcher attends a rival show featuring lions. He gets angry at a lion and punches it. The lion bites his pitching hand. He fully recovers. Because of course he does.",
+      "origin": "After the 1903 season, Waddell went to see a show with lions, punched one, and was bitten on his left (pitching) hand. He healed completely."
+    },
+    {
+      "title": "The Flood",
+      "type": "Drama",
+      "text": "Your retired pitcher stands in icy flood waters for hours, saving strangers. The exposure weakens him fatally. He dies at 37, weighing 130 lbs. His former manager pays for his care: 'No expenses should be spared.' The most talented arm in baseball is gone.",
+      "origin": "In 1912, Waddell did flood relief work in Hickman, KY, standing in icy water for hours. The exposure led to tuberculosis. He died April 1, 1914, at 37."
+    }
+  ],
+  "art_direction": {
+    "face": "Wild, expressive, childlike face — 6'1\" 196 lbs but looks younger than his years. Wide eyes with wonder in them. Disheveled hair. A smile that's half mischief, half innocence. The face of a man who might strike you out or chase a puppy — you won't know until the first pitch. There's something heartbreaking in the eyes if you look closely.",
+    "attire": "Philadelphia Athletics 1905 whites. The uniform is slightly askew — not sloppy, but the way a kid wears dress clothes. Left-handed delivery captured mid-motion — the famous fastball, all arm speed and violence. Or: standing on the mound with arms raised in celebration, about to cartwheel off. Maybe a hint of red visible under the collar (his fire-truck preparedness).",
+    "mood": "Chaotic joy meeting tragic inevitability. Waddell's card should feel like catching lightning in a bottle — brilliant and unstable. Not serene like Young, not grim like Walsh, not fierce like Cobb. This is pure, unfiltered energy — the most talented and most unpredictable force in baseball. There should be movement in the image, as if Waddell can't hold still even for a portrait.",
+    "style": "The most kinetic sepia card in the set. Slightly lighter and more dynamic than the dark Walsh or authoritative Young. Fire-orange undertones in the sepia — suggesting both the fire trucks he chased and the flame that burned too bright. The border should feel slightly off-kilter, as if the card itself can't quite contain him. Aged paper with character marks — water stains, perhaps (a subtle reference to the flood that killed him).",
+    "reference": "This is the T206 card that makes you stop and read the back three times because you can't believe one person did all of this. ILB sepia at its most alive and most tragic. The card should make you simultaneously laugh and cry. The most human card in the entire collection."
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "card_type": "player",
+  "name": "Paul Waner",
+  "nickname": "Big Poison",
+  "year": 1927,
+  "team": "Pittsburgh Pirates",
+  "ilb_team": "Bashers AL1920",
+  "position": "RF",
+  "bats": "L",
+  "throws": "L",
+  "real_stats": {
+    "ba": ".380",
+    "h": "237",
+    "rbi": "131",
+    "r": "113",
+    "db": "42",
+    "tb": "18",
+    "hr": "9",
+    "obp": ".437",
+    "slg": ".549",
+    "war": "6.9"
+  },
+  "career": {
+    "h": "3,152",
+    "ba": ".333",
+    "db": "605",
+    "tb": "191",
+    "ops": "134",
+    "titles": "3x",
+    "mvp": "1927"
+  },
+  "ilb_stats": {
+    "ovr": 9,
+    "con": 5,
+    "pow": 3,
+    "spd": 3,
+    "def": 3,
+    "clu": 1
+  },
+  "stat_justification": {
+    "con": "CON 5 (MAX): .380 BA LED NL. 237 H LED NL. 3x batting champ. .333 lifetime. 3,152 career hits (7th to 3,000). 8x 200+ hit seasons. NEVER K > BB in 20 years. Learned hitting from corncobs.",
+    "pow": "POW 3: 9 HR but 42 2B, 18 3B, 131 RBI (LED NL), 342 TB. 605 career 2B. 191 career 3B. GAP power, not HR power.",
+    "spd": "SPD 3: 18 3B LED NL 1927. 191 career 3B (10th all-time). Fast on basepaths.",
+    "def": "DEF 3 (MAX): Stengel: best RF in NL history. 241 outfield assists. Strongest arm in PIT until Clemente.",
+    "clu": "CLU 1: 1 WS (1927 swept). .333 WS BA. Never returned to October in 20 years."
+  },
+  "personality": {
+    "leadership": "QUIET EXCELLENCE. Led by production. .380 and 237 hits. The bat spoke for him. Fourteen seasons at .300 or better.",
+    "temperament": "RELAXED AND FEARLESS. Hit better drunk. 1938: quit drinking, hit .280. Manager said give him whiskey, hit .331. Buddy Hassett: 15 minutes of backflips and cold sober, ready for 3 hits. Casey Stengel: he could slide without breaking the bottle on his hip.",
+    "work_ethic": "NATURAL AND INSTINCTIVE. Learned from corncobs on Oklahoma farm. In PCL with injured arm: They just let me hit and hit and hit, and I really belted the ball.",
+    "lifestyle": "WHISKEY AND SAXOPHONE. After 1927 WS, toured 16-week vaudeville with Ruth, Gehrig, Lloyd. Paul played sax, Lloyd violin.",
+    "tragic": "THE HIT HE REFUSED. June 17, 1942. Hit 3,000 was questionable grounder. Waner shouted No no no. Demanded scorekeeper change to error. Got real 3,000th two days later clean. Only Paul Waner would refuse a milestone because it wasn't earned. Died at 62 - the drinking likely caught up."
+  },
+  "chemistry_traits": [
+    {
+      "tag": "Corncob School",
+      "desc": "+1 CON permanent. Any bat works - 6 hits with 6 different bats from 6 players."
+    },
+    {
+      "tag": "Big and Little Poison",
+      "desc": "With Lloyd: +1 all stats each. 5,611 combined hits - most ever by brothers."
+    },
+    {
+      "tag": "Whiskey Advantage",
+      "desc": "+1 CON relaxed/drinking. -2 CON forced abstinence."
+    },
+    {
+      "tag": "Backflips to Sober",
+      "desc": "Reset intoxication via backflips. Takes 2 innings."
+    },
+    {
+      "tag": "Refused 3,000th",
+      "desc": "Integrity MAXIMUM. Cannot receive unearned awards."
+    },
+    {
+      "tag": "Unintimidatable",
+      "desc": "IMMUNE to brushback. +1 CON after thrown at. One of 2 batters Grimes couldn't scare."
+    },
+    {
+      "tag": "14 Straight XBH",
+      "desc": "ML record. +1 POW per consecutive XBH game."
+    },
+    {
+      "tag": "Vaudeville Tour",
+      "desc": "+1 entertainment value. Saxophone with Ruth and Gehrig."
+    }
+  ],
+  "action_card_seeds": [
+    {
+      "title": "The Corncob School",
+      "type": "Origin",
+      "text": "Learned to hit on 400-acre Oklahoma farm. Corncobs and whittled branches. When he saw a real baseball it looked enormous. Swished, and away it went. 3,152 times."
+    },
+    {
+      "title": "No No No",
+      "type": "Integrity",
+      "text": "June 17 1942. Hit 3,000 was a questionable grounder. Stood on first screaming No no no. Demanded error call. Got clean 3,000th two days later."
+    },
+    {
+      "title": "Whiskey and Backflips",
+      "type": "Paradox",
+      "text": "1938 quit drinking: .280. Manager told bartender give him whiskey: .331. 15 minutes of backflips cold sober ready for 3 hits. The whiskey was a batting tool."
+    },
+    {
+      "title": "Saxophone on Vaudeville",
+      "type": "Performance",
+      "text": "After 1927 WS sweep, Waners joined Ruth and Gehrig for 16 weeks. Paul on sax, Lloyd on violin. The game is larger than the score."
+    }
+  ],
+  "art_direction": {
+    "face": "5-8 153 lbs. Small compact Oklahoma build. Face RELAXED permanently. Slight smile. Eyes see ball first. NATURAL like water flowing downhill.",
+    "attire": "Pirates 1927 whites. LEFT-HANDED sweet swing. Bat on shoulder easy. No tension. Just readiness. 237 times.",
+    "mood": "EASY GRACE. Natural talent without effort. Warm Pittsburgh evening. No drama. Just hitting.",
+    "style": "PIRATES BLACK + OKLAHOMA GOLD + WHISKEY AMBER. Oklahoma gold border. Most NATURAL card in Bashers.",
+    "reference": "Hornsby is blade. Heilmann is slugger. Waner is THE NATURAL. .380 looks EASY. Ease IS the weapon."
+  }
+}

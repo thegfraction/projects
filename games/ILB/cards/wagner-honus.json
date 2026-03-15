@@ -1,0 +1,206 @@
+{
+  "card_type": "player",
+  "name": "Honus Wagner",
+  "nickname": "The Flying Dutchman",
+  "year": 1908,
+  "team": "Pittsburgh Pirates",
+  "era": "1900s",
+  "ilb_team": "Banners NL1900",
+  "position": "SS",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'11\"",
+  "weight": "200 lbs",
+  "born": "February 24, 1874 — Chartiers (now Carnegie), PA",
+  "died": "December 6, 1955 — Carnegie, PA (age 81)",
+  "hof": "Inaugural class, 1936 (95.1% of vote). One of the first five inductees alongside Ruth, Cobb, Mathewson, Johnson.",
+  "real_stats": {
+    "season": 1908,
+    "games": 151,
+    "at_bats": 568,
+    "hits": 201,
+    "doubles": 39,
+    "triples": 19,
+    "home_runs": 10,
+    "rbi": 109,
+    "stolen_bases": 53,
+    "batting_avg": ".354",
+    "obp": ".415",
+    "slg": ".542",
+    "ops": ".957",
+    "ops_plus": 205,
+    "war": 11.5,
+    "career_avg": ".328",
+    "career_hits": 3420,
+    "career_hr": 101,
+    "career_sb": 723,
+    "career_war": 130.8
+  },
+  "ilb_stats": {
+    "ovr": 13,
+    "con": 5,
+    "pow": 2,
+    "spd": 3,
+    "def": 3,
+    "clu": 2
+  },
+  "stat_justification": {
+    "con": ".354 BA in 1908 — leading the ML by 20+ points while the league batted .239 (lowest of the dead-ball era). OPS+ 205 — 105% better than league average. 8x NL batting champion — still the record tied only by Tony Gwynn. Career .328 BA. 3,420 hits. 15 consecutive .300+ seasons (1899-1913). Bill James: 'the greatest season of the 20th century.' Maximum 5.",
+    "pow": "10 HR in 1908 — 2nd in NL, 2 short of Triple Crown. Led NL in SLG 6 times, 2B 7 times. .542 SLG in lowest-scoring dead-ball year. 643 career 2B. 252 career 3B (NL record). 308 TB in 1908 (led ML by 40). Burleigh Grimes: 'Honus hit a line drive so hard the fence went back and forth for five minutes.' Rating 2.",
+    "spd": "53 SB in 1908 (led NL). 723 career SB. Led NL in SB 5 times. Stole 6 bases in the 1909 WS — record until Lou Brock 1967. Called 'The Flying Dutchman' for his speed. At 5'11\" 200 lbs with bowlegs, he shouldn't have been fast — but he was devastating. Maximum 3.",
+    "def": "Greatest defensive SS in history. Led NL SS in putouts 1908. Played every position except catcher. Tommy Leach: 'best at every position.' John McGraw: 'The nearest thing to a perfect player no matter where his manager chose to play him.' His hands were so enormous he scooped up dirt with ground balls. Maximum 3.",
+    "clu": "1909 WS: .333, 6 SB (record 58 years), led Pirates to first title. Beat Cobb head-to-head (.333 to .231). But 1903 WS: .222, 6 errors. Called 'yellow' by Boston writers. Royal Rooters mocked him. Redemption in 1909. Rating 2."
+  },
+  "personality": {
+    "leadership_style": "The Humble Giant. Wagner was the most talented player in baseball for over a decade — and the most modest. He never boasted, never feuded, never demanded special treatment. When he briefly managed, he told the owner after 5 games it wasn't for him. He didn't want authority — he wanted to play. 'There ain't much to being a ballplayer, if you're a ballplayer.'",
+    "temperament": "Gentle, humble, shy, kind. The anti-Cobb in every way. Where Cobb was violent and paranoid, Wagner was warm and self-effacing. He had bowlegs, massive hands, a barrel chest, and an awkward gait — and was the most graceful player on the field. Beloved by teammates, opponents, umpires, and fans. Cy Young: 'Honus was the greatest player who ever lived.' There is no negative quote about Honus Wagner from anyone who knew him.",
+    "work_ethic": "NATURAL AND RELENTLESS. One of five sons of a Bavarian coal miner, all athletes. Played 21 seasons. Hit .300+ for 15 straight years. Regular shortstop at age 41 (all 156 games in 1915). Tried to retire before 1908 — said the sport was 'too strenuous' — then was lured back and had the greatest season of the century.",
+    "lifestyle": "Born in Chartiers (now Carnegie), PA — coal country outside Pittsburgh. Son of Peter Wagner, a Bavarian immigrant coal miner. Five athletic brothers. Married Bessie Baine Smith in 1916. Two daughters. After retirement: ran a sporting goods store (failed), served as state game warden, held local political posts. By the 1930s, broke. The Pirates hired him as coach in 1933 — he stayed 19 years. Tutored Arky Vaughan and Ralph Kiner. Died in Carnegie 1955 at 81. Number 33 retired.",
+    "era_adaptability": "THE HIGHEST IN THE SET. Bill James ranked him #2 all-time (behind Ruth). In modern baseball: a SS who hits .330 with 30+ HR potential, 40+ SB, and Gold Glove defense. The closest modern comp is peak Alex Rodriguez with better contact and better character. Sam Crawford: 'The greatest all-around player who ever lived.'",
+    "clubhouse_impact": "UNIVERSALLY BELOVED. No record of any teammate, opponent, or manager disliking Wagner. Humble despite being the best player alive. Kind to rookies. Patient with fans. Fair to umpires. Every obituary emphasized character as much as stats. The ultimate team chemistry card — makes everyone better, no one worse.",
+    "dark_side": "The 1903 World Series. Wagner hit .222 with 6 errors in baseball's first WS. Struck out to end the final game. Boston writers called him 'yellow.' The Royal Rooters sang 'Honus, Honus, why do you hit so badly?' It haunted him for six years — until the 1909 WS, when he hit .333 and stole 6 bases against Cobb. The ghost was exorcised. Wagner carries a 'First Series Ghosts' trait — he chokes the first time, then dominates the second."
+  },
+  "chemistry_traits": [
+    {
+      "tag": "The Flying Dutchman",
+      "desc": "Greatest SS ever. Can play any position without penalty, +1 DEF at every position."
+    },
+    {
+      "tag": "Eight Batting Titles",
+      "desc": "8x NL champion — still the record. +1 CON automatically every season he's the best hitter on his team."
+    },
+    {
+      "tag": "The Hands",
+      "desc": "Enormous hands scooped dirt with ground balls. Opposing runners: -1 morale from 'Grit in the Glove' trait."
+    },
+    {
+      "tag": "T206",
+      "desc": "Most valuable card in history. Refused tobacco company. +2 reputation permanently."
+    },
+    {
+      "tag": "Coal Miner's Son",
+      "desc": "Bavarian immigrant family. Immune to morale drops from hardship. +1 all stats at hometown."
+    },
+    {
+      "tag": "The Humble Giant",
+      "desc": "+2 team chemistry permanently. Never feuds, never complains. Every teammate plays better near him."
+    },
+    {
+      "tag": "First Series Ghosts",
+      "desc": "In first WS/championship: -2 CON. In second: +2 CON. The redemption arc is mandatory."
+    },
+    {
+      "tag": "Eternal Pirate",
+      "desc": "18 seasons playing, 19 coaching. +3 franchise loyalty. Will never leave willingly."
+    }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Greatest SS ever. Could play any position equally well.",
+      "note_extra": "Source label: 'Shortstop.' Mapped to Practice Field (positional craft domain — the SS position as the defining site of Wagner's defensive mastery). Established pattern across the batch and the set. Standard HIGH affinity. Cross-field expression: The Flying Dutchman chemistry trait (can play any position without penalty, +1 DEF everywhere) and DEF 3 rating encode this location's complete mastery. Wagner's DEF 3 at SS is the first maximum-DEF rating for a non-outfield position in the set."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Born nearby. 18 seasons. 19 more coaching. Buried there.",
+      "note_extra": "Source label: 'Pittsburgh / Carnegie, PA.' Mapped to Community Events (hometown/birthplace — Wagner was born in Chartiers [now Carnegie], played 18 seasons in Pittsburgh, coached 19 more, and died there). Consistent with prior coal-country/hometown Community Events mappings (Veach, Vosmik, Waddell). Standard HIGH affinity. Cross-field expression: Eternal Pirate chemistry trait (+3 franchise loyalty, will never leave willingly) and Coal Miner's Son trait (+1 all stats at hometown) are the mechanical expressions of Wagner's Pittsburgh identity."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "110 wins in 1909. His greatest team and first WS title.",
+      "note_extra": "Source label: 'Forbes Field.' Mapped to Community Events (ballpark venue). Standard HIGH affinity. Forbes Field is the specific stadium where Wagner's 1909 WS title was won and where he spent his most celebrated seasons. Cross-field expression: The Dutchman vs. The Peach action seed (1909 WS, .333 / 6 SB vs Cobb) and First Series Ghosts chemistry trait (second WS: +2 CON) are the mechanical expressions of this location's redemptive significance."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Bavarian miner's son. Five brothers. Blue-collar roots.",
+      "note_extra": "Source label: 'Coal Country.' Mapped to Community Events (birthplace region — consistent with Veach's 'Coal Country (Kentucky)' mapping at MEDIUM and Waddell's rural PA origin). Wagner's HIGH (vs Veach's MEDIUM) reflects deeper biographical integration: not just where he came from, but an identity he maintained throughout his 81 years in the Pittsburgh area. Cross-field expression: Coal Miner's Son chemistry trait (immune to hardship morale drops) and lifestyle personality key encode coal country as a formative and sustained identity domain."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Inaugural class 1936. One of the first five immortals.",
+      "note_extra": "Source label: 'Hall of Fame.' Mapped to Community Events (public institutional/legacy venue — the Hall of Fame is a post-career recognition site and public gathering place consistent with Community Events' 'post-career venues' scope). First use of the Hall of Fame as a specific preferred_locations source label in the set. Standard HIGH affinity. Wagner's inaugural 1936 election (95.1% of vote, one of five founding inductees) makes this a defining post-career public identity site. Cross-field expression: T206 chemistry trait (+2 reputation permanently) and the hof field both encode the legacy dimension of this location."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "LOW",
+      "note": "Shy, humble. Refused the T206. Didn't want to manage.",
+      "note_extra": "Source label: 'Spotlight / Media.' The source label itself maps directly to the Media/Spotlight canonical domain — the clearest source-label-to-domain match in the batch. LOW affinity encodes active avoidance by temperament: Wagner was shy, self-effacing, and refused the T206 tobacco card specifically to avoid commercialization. This is the first LOW Media/Spotlight entry in the set; Waddell's Theater/Stage was MEDIUM. The T206 refusal is simultaneously Wagner's most famous media moment and his most media-averse act. Cross-field expression: T206 chemistry trait (+2 reputation from the refusal itself) is the paradoxical mechanical expression of this LOW — the most valuable card in history was created by Wagner's avoidance of the spotlight, not his embrace of it."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "Comebacks — tried to retire before 1908, came back for the greatest season ever",
+      "Revenge — the 1903 WS humiliation fueled the 1909 WS dominance",
+      "Competition with Cobb — beat him .333 to .231 in the 1909 WS head-to-head",
+      "Playing for Pittsburgh — Wagner was better at home, for his city, for his people"
+    ],
+    "cold_triggers": [
+      "First-time pressure — choked in the first-ever World Series (.222, 6 errors)",
+      "Late career decline — hit .252 in 1914, .265 in 1917",
+      "Management — tried managing for 5 games, told owner it wasn't for him"
+    ],
+    "pressure_response": "REDEEMED. 1903 WS: .222, 6 errors, mocked by fans. Six years haunted. 1909 WS vs Cobb's Tigers: .333, 6 SB (record 58 years), led Pirates to the title. Outplayed Cobb in every dimension. Wagner is the ultimate redemption arc. He fails first, dominates second. Draft him for the long game."
+  },
+  "action_card_seeds": [
+    {
+      "title": "The Greatest Season",
+      "type": "Game Action",
+      "text": "Your shortstop leads the league in BA, OBP, SLG, hits, doubles, triples, RBI, SB, and total bases — simultaneously. At age 34. After trying to retire. Bill James calls it 'the greatest season of the 20th century.'",
+      "origin": "Wagner's 1908: .354/.415/.542, led ML in 8+ categories. OPS+ 205. At SS. Age 34. James: 'Even Babe Ruth never had as much impact on the game.'"
+    },
+    {
+      "title": "The Dutchman vs. The Peach",
+      "type": "Game Action",
+      "text": "The two greatest players meet in the World Series. Your shortstop hits .333 and steals 6 bases. The rival hits .231. Your team wins in 7. The debate over who is the greatest player alive is settled.",
+      "origin": "1909 WS: Wagner (.333, 6 SB) vs. Cobb (.231). Pirates won in 7."
+    },
+    {
+      "title": "The First World Series",
+      "type": "Drama",
+      "text": "Your greatest player hits .222 with 6 errors in baseball's first World Series. Fans mock him with a song. Writers call him 'yellow.' He strikes out to end the final game.",
+      "origin": "1903 WS: Wagner .222, 6 errors. Royal Rooters sang 'Honus, why do you hit so badly?' Struck out to end Game 8."
+    },
+    {
+      "title": "The Retirement That Wasn't",
+      "type": "Action",
+      "text": "Your star announces retirement. 'Too strenuous.' The owner offers the highest salary in franchise history. Your star returns — and has the greatest season in history.",
+      "origin": "Before 1908, Wagner announced retirement. Dreyfuss offered $10,000. Wagner returned for the greatest season of the century."
+    },
+    {
+      "title": "T206",
+      "type": "Drama",
+      "text": "A tobacco company wants your player's image on a card. He refuses. Only ~57 cards are printed. A century later, one sells for millions. The most valuable sports collectible in history.",
+      "origin": "T206 Honus Wagner (~57 copies). Wagner refused authorization. Cards have sold for up to $7.25 million."
+    },
+    {
+      "title": "Dirt and All",
+      "type": "Game Action",
+      "text": "Your shortstop scoops up a ground ball with a handful of dirt. He throws the entire clump — ball, dirt, and all — to first. The runner is out. The first baseman shakes grit from his glove.",
+      "origin": "Wagner's hands were so large he routinely scooped dirt with ground balls and threw everything to first."
+    },
+    {
+      "title": "Best at Every Position",
+      "type": "Action",
+      "text": "Your manager moves your star to a new position. He's immediately the best player at that position in the entire league. This works at every position on the field.",
+      "origin": "Tommy Leach: 'Honus was the best third baseman, first baseman, second baseman, shortstop, and outfielder in the league.'"
+    },
+    {
+      "title": "The Coach Returns",
+      "type": "Drama",
+      "text": "Your retired legend is broke. His store failed. Your franchise hires him as a coach — he stays 19 years, becomes the most beloved figure in the organization, tutors future Hall of Famers.",
+      "origin": "Wagner was broke by the 1930s. Pirates hired him as coach 1933. He stayed until 1952, tutoring Vaughan and Kiner."
+    }
+  ],
+  "art_direction": {
+    "face": "Powerful, awkward, kind. 5'11\" 200 lbs — bowlegged, barrel-chested, enormously long arms, massive hands. Not handsome. The face of a coal miner's son who is the greatest player alive. Gentle eyes. Slight, modest smile. The face says: I know what I can do. I don't need you to know.",
+    "attire": "Pittsburgh Pirates 1908 home whites — the P on the chest. Classic batting stance: hands spread apart on the bat (his unique grip), crouched, coiled. Or: fielding at SS, enormous hands scooping a ground ball with a cloud of dirt. The uniform looks lived-in.",
+    "mood": "Quiet supremacy. Not fierce (Cobb), not angry (Burkett), not chaotic (Waddell) — calm, total mastery. Wagner's card should feel like standing in front of a mountain: immovable, eternal, beyond argument. The most powerful card radiates peace, not intensity.",
+    "style": "The richest, deepest sepia in the collection — warm mahogany and burnished gold. This IS the card. The crown jewel. The T206. The most ornate border — Bavarian/Germanic motifs, Pittsburgh steel imagery, coal country textures. Pristine museum-quality paper. This card has been protected, cherished, valued above all others. Because it is.",
+    "reference": "This IS the T206. The most valuable baseball card ever made, brought to life. Sepia at its absolute finest. The card that the entire Banners collection exists to contextualize. Wagner is the center of gravity. The card that proves baseball is the greatest game ever played."
+  }
+}

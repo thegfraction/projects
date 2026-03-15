@@ -1,0 +1,211 @@
+{
+  "card_type": "player",
+  "name": "Hippo Vaughn",
+  "nickname": "The Texas Hippo",
+  "year": 1918,
+  "team": "Chicago Cubs",
+  "era": "1910s",
+  "ilb_team": "Muggers AL1910",
+  "position": "SP",
+  "bats": "S",
+  "throws": "L",
+  "height": "6'4\"",
+  "weight": "215 lbs",
+  "born": "April 9, 1888 — Weatherford, TX",
+  "died": "May 29, 1966 — Chicago, IL (age 78)",
+  "hof": "Never inducted. Never received a HOF vote. From 1914-1920 his WAR was 3rd in all of baseball, behind only Walter Johnson and Grover Alexander. The greatest lefty the Cubs ever had, forgotten by Cooperstown.",
+  "real_stats": {
+    "season": 1918,
+    "games": 35,
+    "wins": 22,
+    "losses": 10,
+    "era": "1.74",
+    "innings": "290.1",
+    "strikeouts": 148,
+    "walks": 76,
+    "complete_games": 27,
+    "shutouts": 8,
+    "whip": "0.97",
+    "war": 7.3,
+    "career_wins": 178,
+    "career_losses": 137,
+    "career_era": "2.49",
+    "career_strikeouts": 1416,
+    "career_shutouts": 41,
+    "career_war": 39.9,
+    "ws_era": "1.00",
+    "ws_cg": 3,
+    "ws_record": "1-2",
+    "peak_era_1914_1920": "2.16",
+    "peak_wins_1914_1920": 143,
+    "peak_war_1914_1920": 33.6
+  },
+  "ilb_stats": {
+    "ovr": 9,
+    "stf": 4,
+    "ctl": 3,
+    "sta": 3,
+    "def": 0,
+    "clu": 2
+  },
+  "stat_justification": {
+    "stf": "1.74 ERA in 1918 — NL Pitching Triple Crown (wins, ERA, strikeouts). Led NL in starts (33), innings (290.1), shutouts (8), WHIP (0.97), H/9 (6.70). Only Walter Johnson was better in all of baseball that year. From 1914-1920, his 2.16 ERA was 4th in MLB. K/9 of 4.59 was modest — Vaughn was a craftsman, not a fireballer. Rating of 4 — elite production over a sustained peak.",
+    "ctl": "BB/9 of 2.36 in 1918 (76 BB in 290.1 IP). WHIP of 0.97 — sub-1.00 earns the bonus. His control was solid but not historic — he led the NL in walks in 1914 (109) and was wild early in his career. By 1918 he'd mastered command. Rating of 3.",
+    "sta": "290.1 IP in 1918 (a shortened season — full season would have been 320+). 27 complete games. From 1914-1920 he averaged ~293 IP per year with ~24 CG. He pitched in the minors until age 49. Rating of 3 — elite durability.",
+    "def": "Holds the NL record for career errors by a pitcher with 64. Led the NL in errors by a pitcher in 1914 and other seasons. His .869 fielding percentage in 1914 was terrible even by Deadball standards. For a man called 'Hippo,' he was not nimble off the mound. Rating of 0.",
+    "clu": "1918 World Series: 3 complete games, 1 shutout, 1.00 ERA. Lost Game 1 to Babe Ruth 1-0 (Ruth threw a shutout). Lost Game 3 to Carl Mays 2-1. Won Game 5 with a shutout. He pitched as well as humanly possible and lost the Series because his offense gave him 4 total runs in 3 starts. Also pitched the double no-hitter in 1917 — 9 hitless innings, lost in the 10th. Vaughn was the greatest hard-luck pitcher of the Deadball Era. Rating of 2 — extraordinary performance in defeat."
+  },
+  "personality": {
+    "leadership_style": "Quiet Texas workhorse. Vaughn didn't seek the spotlight — he just took the ball every fourth day and pitched 290 innings. He was the anti-Marquard: no Broadway, no vaudeville, no diamond rings. Just a big lefty from Weatherford, Texas, who threw strikes and absorbed defeats without complaint. His leadership was through endurance and example.",
+    "temperament": "Stoic but volatile underneath. Vaughn pitched through years of terrible run support, bad luck, and personal chaos without public complaint. But when he finally broke — after being shelled by the Giants on July 9, 1921 — he walked off the mound, out of the stadium, and disappeared completely. His wife asked the police to find him. The quiet ones always break the hardest.",
+    "work_ethic": "Relentless. From 1914-1920, Vaughn never had a season below 3.8 fWAR. He never had an ERA above 2.87. He averaged 20+ wins per season for seven straight years. He pitched semi-professionally until age 49 — fifteen years after his MLB career ended. He couldn't stop pitching. It was all he knew.",
+    "lifestyle": "Complicated and dark. Married Edna DeBolt — her father later stabbed Vaughn with a razor, slashing through his overcoat and inflicting a stomach wound. Edna filed for divorce in 1920, then dropped the proceedings. When Vaughn disappeared in 1921, police were asked to look for him. After baseball: pitched semi-pro for $9,000/year (comparable to MLB salary), worked as a refrigeration assembler. Cremated after death. No grave to visit.",
+    "era_adaptability": "HIGH. Vaughn's consistency (2.16 ERA over 7 years, 143-96) translates to any era. He'd be a modern #2 starter who eats innings and never misses a start. His K/9 was low, but his WHIP and ERA were elite. The comparison to Warren Spahn is apt — same workload, same consistency, just a shorter career.",
+    "clubhouse_impact": "STEADY but distant. Vaughn wasn't a clubhouse leader or entertainer. He was respected for his durability and professionalism. He clashed with manager Johnny Evers, whose high-strung intensity grated on Vaughn's Texas stoicism. The disappearance in 1921 suggests deeper demons than anyone knew.",
+    "dark_side": "The disappearance. On July 9, 1921, after being shelled by the Giants (back-to-back home runs by Frank Snyder and Phil Douglas), Vaughn walked from the pitcher's box to the clubhouse and was never seen again by the Cubs. His wife asked the Chicago police to search for him. He'd already been stabbed by his father-in-law. His wife had filed and dropped divorce proceedings. Commissioner Landis refused to reinstate him even after the Cubs tried. He was banned for 8 years. He tried to come back at age 43 but failed. He spent his last years assembling refrigerators. In ILB: Vaughn carries 'The Vanishing' trait — under extreme stress, he can simply walk away from the game, never to return."
+  },
+  "chemistry_traits": [
+    {
+      "tag": "Triple Crown",
+      "desc": "1918 NL Pitching Triple Crown: led in wins (22), ERA (1.74), and strikeouts (148). When all three stats align, Vaughn is nearly unbeatable. +2 STF in any game where he leads all three categories at the time."
+    },
+    {
+      "tag": "Hard Luck",
+      "desc": "Vaughn lost 1-0 to Babe Ruth in the World Series. He threw 9 no-hit innings and lost in the 10th. His offense averaged 1.3 runs per WS start. When Vaughn pitches, the offense goes silent. -1 to team batting when Vaughn starts."
+    },
+    {
+      "tag": "The Hippo",
+      "desc": "6'4\" 215 lbs — enormous for the Deadball Era. Vaughn's size gives him +1 STA (endurance) and +1 intimidation against smaller batters. But -1 DEF because big men don't field bunts well."
+    },
+    {
+      "tag": "Texas Stoic",
+      "desc": "Vaughn absorbs losses without complaint. No morale penalty from individual defeats — he just takes the ball again. But if cumulative frustration reaches a threshold, see: The Vanishing."
+    },
+    {
+      "tag": "The Vanishing",
+      "desc": "If Vaughn suffers 3+ consecutive bad starts, roll d6: on 1, he walks off the field and disappears from the roster permanently. The team cannot replace him for 3 games. The silence is deafening."
+    },
+    {
+      "tag": "Warren Spahn Prototype",
+      "desc": "Vaughn's 7-year peak mirrors Spahn's: 20+ wins, consistent ERA, innings eaten. Vaughn functions as a Spahn-caliber arm for shorter bursts. +1 consistency (ERA variance reduced by 20%)."
+    },
+    {
+      "tag": "Double No-Hitter",
+      "desc": "Vaughn threw 9 no-hit innings on May 2, 1917 — and lost. In ILB, if Vaughn carries a no-hitter into the 9th, roll d6: 1-3 = completes it. 4-5 = loses it in the 9th. 6 = loses it in extra innings. Baseball's cruelest possible outcome."
+    },
+    {
+      "tag": "Father-in-Law's Razor",
+      "desc": "Vaughn's personal life was chaotic and dangerous. Off-field events can wound him — literally. 10% chance per season of a non-baseball injury that costs 2-4 weeks."
+    }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "This is where Vaughn lived. 290 innings a year, 27 complete games. The mound was home.",
+      "note_extra": "Source label: 'Pitcher's Mound.' Mapped to Practice Field (craft/performance domain — the mound as the defining site of Vaughn's identity and output). Consistent with Vance's 'The Mound' (Batch 36) and Vaughan's 'Shortstop' (Batch 37) mappings. Standard HIGH affinity. Cross-field expression: Triple Crown and Double No-Hitter chemistry traits both have the mound as their stage; Warren Spahn Prototype trait encodes the durability expressed through 290-inning seasons here."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Vaughn became the greatest lefty in Cubs history at this park. The double no-hitter happened here.",
+      "note_extra": "Source label: 'Weeghman Park / Wrigley.' Mapped to Community Events (ballpark venue). Standard HIGH affinity. Cross-field expression: The Double No-Hitter action seed is anchored to this location (May 2, 1917). The Triple Crown Arc also plays out here — the 1918 pennant season was the peak of Vaughn's Weeghman tenure."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Born in Weatherford, TX. A stonemason's son from the prairie. Vaughn carried Texas in his bones.",
+      "note_extra": "Source label: 'Texas / Open Country.' Mapped to Community Events (hometown/birthplace region — consistent with the taxonomy's 'hometowns' grouping under Community Events). Standard MEDIUM affinity. The Texas identity is cultural and biographical rather than baseball-operational; it shapes the Texas Stoic chemistry trait but does not confer a mechanical site bonus."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "After MLB, Vaughn pitched semi-pro until age 49 for $9,000/year. He never stopped pitching. Couldn't.",
+      "note_extra": "Source label: 'Semi-Pro Diamonds.' Mapped to Community Events (post-career semi-professional ballpark venues). The semi-pro context is post-MLB baseball, geographically diffuse (not a single named park), fitting Community Events as the post-career venue category. Standard MEDIUM affinity. Cross-field expression: Forty-Nine and Still Pitching action seed is the narrative expression of this location's hold on Vaughn."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "LOW",
+      "note": "Spent his last years assembling refrigerators. The indignity of a Triple Crown winner building appliances.",
+      "note_extra": "Source label: 'Factory / Workshop.' Mapped to Community Events (post-career work venue — consistent with the taxonomy's 'post-career venues' grouping). LOW affinity encodes the active diminishment this location represents: a Triple Crown pitcher reduced to factory assembly work. Not Practice Field (the craft is not baseball craft) and not Hotel/Rest (not a rest or transit space). Cross-field expression: The Refrigerator Man action seed is the direct narrative expression of this location. The contrast with HIGH Practice Field (the mound) is the mechanical heart of Vaughn's arc."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "NONE",
+      "note": "His wife asked the police to find him. Twice. He was stabbed by his father-in-law. Not a safe place.",
+      "note_extra": "Source label: 'Police Station.' Mapped to Hotel/Rest (civic/institutional non-field space — the Hotel/Rest domain covers daily-life locations outside baseball including transportation, home, and by extension civic institutional spaces that anchor personal crisis). NONE affinity encodes the police station as a site of pure negative valence: the locus of marital collapse, the stabbing investigation, the disappearance search. No mechanical benefit accrues here — only exposure of personal ruin. Cross-field expression: Father-in-Law's Razor chemistry trait (10% seasonal injury risk) and The Vanishing action seed are the mechanical and narrative expressions of the crises that made the police station a recurring site in Vaughn's life."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "Shortened seasons / high stakes — Vaughn was at his best when every game mattered. The 1918 war-shortened season brought his best work.",
+      "Run support — when the Cubs actually scored, Vaughn was untouchable. 8 shutouts in 1918 = he only needed himself.",
+      "Consistency — Vaughn never had a bad month during his prime. He got better as the season progressed, peaking in August-September.",
+      "Rivalry with the best — facing Ruth, Mays, Alexander brought out his competitive peak."
+    ],
+    "cold_triggers": [
+      "Managerial conflict — Evers's high-strung style pushed Vaughn to the edge. Incompatible personalities.",
+      "Personal crisis — the stabbing, the divorce filings, the disappearances. When life outside baseball collapsed, so did he.",
+      "Aging — the 1921 collapse (3-11, 6.01 ERA) was sudden and total. No slow decline; Vaughn went from elite to done in one season.",
+      "No run support — Vaughn was historically unlucky. His offense disappeared when he pitched. The frustration compounded over years."
+    ],
+    "pressure_response": "MAGNIFICENT IN DEFEAT. This is Vaughn's defining trait. He threw a 1.00 ERA World Series and lost it. He pitched 9 no-hit innings and lost in the 10th. He won the Triple Crown and his team still couldn't win it all. Vaughn is the greatest hard-luck pitcher in ILB — his individual performance in pressure situations is elite (CLU 2), but the universe conspires against him. In ILB: Vaughn is the pitcher you send out when you need a masterpiece, knowing that the masterpiece might still end in a 1-0 loss to Babe Ruth."
+  },
+  "action_card_seeds": [
+    {
+      "title": "The Double No-Hitter",
+      "type": "Game Action",
+      "text": "Your pitcher and the opposing pitcher both carry no-hitters into the 9th inning. Nine full innings without a hit by either team — the only time in baseball history. In the 10th, your pitcher gives up a hit. Then Jim Thorpe — Olympic champion — taps a roller that your catcher misplays. You lose 1-0. Your pitcher threw 9 no-hit innings and lost.",
+      "origin": "May 2, 1917: Vaughn and Fred Toney both no-hit each other for 9 innings. Toney completed his no-hitter in 10. Vaughn gave up 2 hits in the 10th and lost 1-0. The only double no-hitter in baseball history."
+    },
+    {
+      "title": "One-Nothing to the Babe",
+      "type": "Game Action",
+      "text": "It's Game 1 of the World Series. Your ace, the NL Triple Crown winner, pitches a complete game allowing only 5 hits and 1 run. He loses 1-0. The opposing pitcher is 23-year-old Babe Ruth, who throws a shutout and extends his WS scoreless innings streak to 22. Your man pitched beautifully. It wasn't enough.",
+      "origin": "1918 WS Game 1: Vaughn (22-10, 1.74) vs. Ruth (13-7, 2.22). Both threw CG. Ruth won 1-0. Ruth's scoreless streak reached 29.2 innings before the Cubs finally scored."
+    },
+    {
+      "title": "The Triple Crown Ace",
+      "type": "Action",
+      "text": "Your pitcher leads the league in wins, ERA, and strikeouts — the Pitching Triple Crown. He also leads in starts, innings, shutouts, and WHIP. Only one pitcher in the entire sport is better. Your man propels the team to the pennant by 10.5 games. But the World Series ends in defeat anyway.",
+      "origin": "Vaughn's 1918 Triple Crown: 22 W, 1.74 ERA, 148 K, 8 SHO, .97 WHIP. Led Cubs to pennant. Only Walter Johnson was better. Lost WS to Red Sox."
+    },
+    {
+      "title": "The Vanishing",
+      "type": "Drama",
+      "text": "After being shelled in a start — back-to-back home runs, a 6.01 ERA — your pitcher walks from the mound to the clubhouse. He does not stop. He walks out of the stadium. He disappears. His wife calls the police. No one can find him. The commissioner bans him. He is never seen in a major league uniform again.",
+      "origin": "July 9, 1921: After the Giants' Frank Snyder and Phil Douglas hit consecutive homers, Vaughn walked off the mound at the Polo Grounds and disappeared. The Cubs never saw him again. Landis banned him for the rest of the season."
+    },
+    {
+      "title": "The Father-in-Law's Razor",
+      "type": "Drama",
+      "text": "Your pitcher's father-in-law attacks him with a razor on the street, slashing through his overcoat and opening a wound on his stomach. Your pitcher survives but the assailant flees and is sought by police in multiple jurisdictions. The divorce proceedings that triggered the attack are dropped.",
+      "origin": "Edna Vaughn's father, DeBolt, ambushed Vaughn on the street and stabbed him with a razor. Vaughn was hospitalized. DeBolt fled. Edna dropped her divorce filing."
+    },
+    {
+      "title": "Forty-Nine and Still Pitching",
+      "type": "Action",
+      "text": "Fifteen years after his MLB career ended, your former ace is still pitching semi-pro ball at age 49, earning $9,000 a year — the same as a major leaguer. He tried to come back to the Cubs at 43 but couldn't make the team. He can't stop pitching. It's the only thing that makes sense.",
+      "origin": "Vaughn pitched semi-pro from 1922-1937, earning comparable MLB money. He attended Cubs spring training in 1931 at age 43 after Landis reinstated him, but failed to make the roster."
+    },
+    {
+      "title": "The Refrigerator Man",
+      "type": "Drama",
+      "text": "The NL Triple Crown winner, the greatest lefty in franchise history, the man who threw 9 no-hit innings in the only double no-hitter ever — he spends his final years assembling refrigerators in a factory. He is cremated after death. There is no grave to visit.",
+      "origin": "After retiring from semi-pro ball, Vaughn worked as an assembler for a refrigeration products company in Chicago until his death in 1966. He was cremated."
+    },
+    {
+      "title": "Wilson Cried Like a Baby",
+      "type": "Drama",
+      "text": "After the double no-hitter, your catcher — whose misplay lost the game — finds your pitcher in the clubhouse. He grabs his hand and sobs: 'I just went out on you, Jim. I just went tight.' Your pitcher, who just lost the greatest pitching duel in history, says: 'I wasn't sore. It's just another lost ballgame, that's all.'",
+      "origin": "After the 1917 double no-hitter, catcher Art Wilson apologized in tears to Vaughn. Vaughn told the story decades later with characteristic stoicism."
+    }
+  ],
+  "art_direction": {
+    "face": "Massive 6'4\" 215 lbs — genuinely huge for 1918. Broad shoulders, thick arms, large hands. Square jaw, serious expression, the weathered face of a Texas stonemason's son. No flash, no jewelry, no showmanship. Just a big man who looks like he could throw a baseball through a barn wall.",
+    "attire": "Chicago Cubs 1918 home whites — the pennant year. Classic Deadball Era pose: tall lefty at the top of his windup, enormous frame dwarfing the mound. Or: mid-delivery, the long left arm unfurling, the ball invisible against the overcast Chicago sky.",
+    "mood": "Stoic grandeur with undertones of tragedy. Vaughn should look like a man who has thrown 9 no-hit innings and expects to lose. There's no self-pity — just the quiet acceptance of a universe that gives you a Triple Crown and takes away the World Series. The loneliest card in the Muggers set.",
+    "style": "Sepia-toned with cool blue-gray undertones — colder than the other Muggers cards, reflecting Chicago in wartime, the overcast sky of Weeghman Park in May 1917. The gold accents should be muted, almost tarnished. This isn't a spotlight card — it's a card you find in a shoebox, forgotten, and realize it's the best one in the set.",
+    "reference": "If Wood is lightning, Chapman is a candle, Chase is a stolen jewel, Kauff is a firecracker, and Marquard is a spotlight, then Vaughn is a cathedral bell. Deep, resonant, tolling for something lost. He rings out across the decades and no one is there to hear him. The ILB Vaughn card should feel like finding a masterpiece in a thrift store — undervalued, overlooked, magnificent."
+  }
+}

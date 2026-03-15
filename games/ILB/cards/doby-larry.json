@@ -1,0 +1,209 @@
+{
+  "card_type": "player",
+  "name": "Larry Doby",
+  "nickname": null,
+  "year": 1950,
+  "team": "Cleveland Indians",
+  "league": "American League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "CF",
+  "bats": "L",
+  "throws": "R",
+  "height": "6'1\"",
+  "weight": "180 lbs",
+  "born": "December 13, 1923 — Camden, SC",
+  "died": "June 18, 2003 — Montclair, NJ",
+  "hof": "Class of 1998 (Veterans Committee)",
+
+  "real_stats": {
+    "season": 1950,
+    "games": 142,
+    "at_bats": 503,
+    "hits": 164,
+    "doubles": 25,
+    "triples": 5,
+    "home_runs": 25,
+    "rbi": 102,
+    "stolen_bases": 8,
+    "batting_avg": ".326",
+    "obp": ".442",
+    "slg": ".545",
+    "ops": ".987",
+    "ops_plus": 163,
+    "war": 6.8,
+    "all_star": 7,
+    "awards": "Led AL in OBP (.442) and OPS (.987) in 1950; career-high BA, OBP, and SLG",
+    "negro_leagues": {
+      "team": "Newark Eagles",
+      "years": "1942-1943, 1946-1947",
+      "notes": "NNL batting champion 1946 (.348). Eagles won 1946 Negro League World Series over Kansas City Monarchs. Hit .458 in first half of 1947 season before joining Cleveland."
+    },
+    "career_avg": ".283",
+    "career_hits": 1697,
+    "career_hr": 253,
+    "career_sb": 47,
+    "career_war": 51.4,
+    "career_notes": "First Black player in AL (July 5, 1947). First Black player to win WS (1948). First Black player to hit WS HR (Game 4, 1948 vs. Johnny Sain). AL HR leader 1952 (32) and 1954 (32). AL RBI leader 1954 (126). MLB record 164 consecutive errorless games in CF (stood 17 years). 7x All-Star (1949-1955). Finished 2nd in AL MVP 1954 (to Yogi Berra), 8th in 1950 (to Rizzuto). Second Black manager in MLB history (Chicago White Sox, 1978)."
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "con": 5,
+    "pow": 3,
+    "spd": 1,
+    "def": 3,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": "Peak .326 BA (1950) falls in the .300–.329 = 4 band. OPS+ 163 clears the ≥130 bonus threshold, adding +1 to reach CON 5. The .442 OBP in 1950 led the AL — an extraordinary on-base presence. Career .283 is below the CON 5 threshold but the peak-year card correctly captures 1950. Doby joins the CON 5 tier (Gehrig, Musial, Foxx, Puckett, Holmes) — first Black player in the set to earn CON 5.",
+    "pow": "25 HR in the 1950 snapshot year (20–29 = 2). SLG .545 ≥ .500 → +1 bonus → POW 3. Career HR peaks were 32 in 1952 and 1954 (led AL both years), confirming the power tier. POW 3 is the most accurate single-season peak encoding for 1950.",
+    "spd": "Approximately 8 SB in 1950 (6–15 = 1). Doby was a transformed athlete — a middle infielder remade as a center fielder, with speed redistriubted toward range rather than base-stealing. SPD 1 is mechanically accurate for the 1950 season.",
+    "def": "Pre-Gold Glove era; historical reputation rule applied. Set MLB record of 164 consecutive errorless games as a CF (stood 17 years). Larry Doby said of Gordon and Boudreau in practice: 'These guys must have been using midget shovels.' He was the one watching — and then becoming their equal in the field. Historical reputation: elite CF defensive presence. First Black player in the AL to earn DEF 3 in the set. Consistent with Mays, Puckett, and Roush at this tier.",
+    "clu": "1948 World Series: .318, first home run by a Black player in WS history (Game 4, 420-foot blast off Johnny Sain, game-winner, Indians win 2-1). Indians won the 1948 WS. Career WS .318 average earns base CLU 2. The 1954 WS is the counterpoint: Doby was running home on the Vic Wertz drive when Willie Mays made The Catch — he had to scramble back to second and never scored; Indians were swept. CLU 2 reflects the mixed WS record accurately."
+  },
+
+  "personality": {
+    "leadership_style": "Silent authority. Doby led by performance and presence — not by speech. 'Larry Doby's approach was: let my play speak for me.' Every home run was a complete sentence. Every errorless catch was an argument. He absorbed the hatred of opponents, fans, and some teammates and transformed it into the fuel for excellence. Joe Cronin's description of Brecheen ('When he walked out onto the field, you knew a take-charge guy was in the game') applies equally to Doby — but Doby's take-charge was the weight of history attached to every appearance.",
+    "temperament": "Quiet introvert who carried the weight of a generation. Described as soft-spoken, unassuming, distinctly different from Robinson's combative personality. 'I had to take it. But I fought back by hitting the ball as far as I could. That was my answer.' The restraint was not weakness — it was strategy. He knew he could not afford to retaliate when a baserunner spit in his face at second base. He walked away. Then he hit the ball out of the park.",
+    "work_ethic": "Extraordinary in the specific context of transformation. Doby arrived in Cleveland as a second baseman and had to become a center fielder — a completely different position — in real time, under public scrutiny, in the midst of open racial hostility. His MLB record of 164 consecutive errorless games was not a gift; it was earned through the daily discipline of a man who knew his errors would be used as evidence against his people.",
+    "lifestyle": "Paterson, New Jersey was his home in spirit and in fact. He met Helyn Curvy there in high school. He lived in Montclair, New Jersey his entire adult life. He never left. His sons attended Paterson schools. He coached youth baseball there. When Paterson gave him Larry Doby Day, it was a homecoming, not a ceremony.",
+    "era_adaptability": "MAXIMUM. Doby's profile — CON 5, POW 3, DEF 3 — transcends era entirely. His plate discipline (.442 OBP), power (253 career HR), and defense (164 consecutive errorless games) would be elite in any decade. The tragedy is that his prime years (1948-1954) were years in which systemic racism constrained his development, his recognition, and his legacy.",
+    "clubhouse_impact": "Transformative, but only after the team chose to let it be. In 1947, most teammates averted their eyes. Joe Gordon walked over and said four words. Bob Lemon, Jim Hegan, and Steve Gromek followed. By 1948, Doby and Gromek's post-WS embrace photograph appeared on the front page of newspapers across the country — described as 'one of the first, if not the first, of a Black guy and a white guy hugging, just happy because they won a ballgame.' Hank Aaron at Doby's 1997 number-retirement ceremony: 'I want to thank you for all that you went through, because if it had not been for you, I wouldn't have been able to have the career that I had.'",
+    "dark_side": "Rogers Hornsby in 1947, after watching Doby play once: 'Bill Veeck did the Negro race no favor when he signed Larry Doby to a Cleveland contract. If he were white he wouldn't be considered good enough to play with a semi-pro club.' Hornsby was a Hall of Famer speaking publicly. Doby finished 8th in AL MVP voting in 1950 (his best offensive season) and 2nd in 1954 (led the AL in HR and RBI). This Day in Baseball: 'It paid to be white and a Yankee in the 1950s if you wanted to win an MVP trophy.' The dark side is not Doby's — it belongs to the systems and individuals that diminished him. But it shaped every year of his career and every vote of every award."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "I Will Never Forget That Man",
+      "desc": "Cross-card bond with Joe Gordon: when both are in the lineup, Doby gains +1 CON and Gordon gains +1 CLU. The moment that changed both careers."
+    },
+    {
+      "tag": "Hit It as Far as I Could",
+      "desc": "When Doby receives a HBP or racial-abuse event: +1 POW for his next at-bat. His answer was always the same."
+    },
+    {
+      "tag": "164 Straight",
+      "desc": "Fielding error events cannot occur for Doby unless the streak has been broken by a prior error. The MLB record 164 consecutive errorless games as a permanent defensive floor."
+    },
+    {
+      "tag": "Helyn's Rock",
+      "desc": "Doby's performance never drops below his career floor when Helyn is referenced in a drama card. She was the normalcy that made everything else possible."
+    },
+    {
+      "tag": "The Photograph",
+      "desc": "In a WS game where Doby scores or drives in the winning run: a Legacy photograph event triggers — team chemistry rises +2 permanently."
+    },
+    {
+      "tag": "Second in Everything",
+      "desc": "Doby can never win an MVP award due to systemic voting bias encoded in this trait. His stats will always meet the threshold; the award will always go elsewhere."
+    },
+    {
+      "tag": "The Catch Scar",
+      "desc": "In any WS game where Willie Mays is the opposing CF: Doby's CLU drops by 1. The 1954 Game 1 wound is permanent."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "The second baseman who became a center fielder. 164 consecutive errorless games. The daily work of transformation under scrutiny.",
+      "note_extra": "Source labeled 'Field / Practice / Transformation' / affinity 'HIGH' — twelfth Practice Field/HIGH in the set. Prior registers span pitching craft, offensive preparation, and multi-domain study. Doby's Practice Field/HIGH is the first in the set grounded in positional transformation under historical pressure — he arrived in Cleveland as a second baseman (because Gordon and Boudreau occupied the middle infield) and had to become a center fielder in public, under open racial hostility, with no preparation time. The MLB record 164 consecutive errorless games documents the result of that transformation. The SABR BioProject: 'Doby said of Gordon and Boudreau in practice: These guys must have been using midget shovels or something — and then went to work becoming their equal in the outfield.' The stat_justification.def field and the chemistry_trait '164 Straight' are the mechanical cross-field expressions."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HAUNTED",
+      "note": "Comiskey Park, July 5, 1947. The clubhouse where teammates averted their eyes. The field where he stood alone until Gordon called out.",
+      "note_extra": "Source labeled 'Comiskey Park / July 5, 1947 / AL Debut' / affinity 'HAUNTED' — fourth HAUNTED in the set (after Holmes/Jury Box, Cooper/Elbow, Blackwell/Nuremberg). Doby's HAUNTED is the most historically significant in the set. The prior three HAUNTEDs encoded: lost fan community (Holmes), lost physical capacity (Cooper), transformed historical site (Blackwell/Nuremberg). Doby's encodes the specific physical location where the most important first-act of AL integration occurred — and where the weight of that moment has remained as both a wound and a monument ever since. The SABR BioProject: 'Doby in 2002 recalled: I knew it was segregated times, but I had never seen anything like that in athletics.' The site has been marked by anniversary ceremonies, a banner ('50 years: 1947-1997'), and decades of historical reckoning. The Community Events domain is used because Comiskey Park on July 5, 1947 was a public civic event — the first AL integration game — attended by witnesses who understood they were watching history. The chemistry_trait 'I Will Never Forget That Man' (Gordon cross-card bond) and the action card seed 'They Wouldn't Shake My Hand' are the mechanical expressions."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "DAMNED",
+      "note": "The DuSable Hotel on July 5, 1947 — not the Del Prado where his teammates stayed. Segregated hotels in spring training. Helyn turned away with their newborn seeking water.",
+      "note_extra": "Source labeled 'Segregated Hotel / Travel' / affinity 'DAMNED' — third DAMNED in the set (Felsch/volitional scandal, Blackwell/medical cascade, Doby/systemic racial segregation). Doby's DAMNED is the first in the set grounded in institutional racial segregation as a biographical condition rather than individual choice or physical misfortune. The Wikipedia source documents the specific first-night incident: 'His escort, Louis Jones, then took him not to the Del Prado Hotel downtown, where the Indians players stayed, but to the black DuSable Hotel in Chicago's predominantly black South Side. The segregated arrangement established a pattern, on Doby's first day, that he would be compelled to follow, in spring training and during the regular season, in many cities, throughout his playing career.' The Sun-Times source adds: 'Doby's wife, Helyn, could not get her newborn baby a drink of water in a Tucson hotel.' The Hotel/Rest domain is DAMNED for Doby not because he sought or chose the medical or personal destructive experiences that produced prior DAMNEDs, but because the hotel itself was the primary instrument of his enforced exclusion — the space where integration's failure was most visible and most personal. The chemistry_trait 'Helyn's Rock' is the cross-field expression of Helyn's role in navigating this DAMNED domain."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Paterson, New Jersey. Eastside High School. Larry Doby Day. The community that never stopped claiming him as theirs.",
+      "note_extra": "Source labeled 'Paterson NJ / Home Community' / affinity 'HIGH' — seventh Community Events/HIGH in the set. Prior registers include homeland-origin (Phillippe, Overall, Plank), civic-identity (O'Doul), formal-philanthropy (Puckett), named-institution (Rizzuto), sustained-teaching (Holmes), integration-moment (Gordon), community-rootedness (Trucks), immigrant-American-freedom (Valo). Doby's Community Events/HIGH is the first in the set grounded in a Northern Black community as home — Paterson, New Jersey, which Doby moved to from Camden, South Carolina at age 12 and where he met Helyn, developed as an athlete, and returned to live his entire adult life in nearby Montclair. The Larry Doby Day parade (with Paterson mayor and Helyn in the back seat) documents the community's identification with Doby specifically as their representative in the hostile AL. The chemistry_trait 'I Will Never Forget That Man' is partially expressed here — the Paterson community was the human network that supported Doby's ability to endure what the hotel rooms and the opposing benches sent his way."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "The 1948 Cleveland Indians clubhouse — eventually. Gordon, Lemon, Hegan, Gromek. The embrace that was photographed.",
+      "note_extra": "Source labeled 'Clubhouse / 1948 Indians' / affinity 'HIGH' — fifteenth Hotel/Rest/HIGH in the set. Prior registers span integration-moral-leadership (Gordon) and dynastic-brotherhood (Cooper, Brecheen). Doby's HIGH is the sequel to Gordon's: Gordon's card documented the first act (the warm-up throw); Doby's documents the transformed space — the 1948 Indians clubhouse that became the site of the Gromek embrace photograph, which Richard Goldstein of The New York Times called 'a signature moment in the integration of Major League Baseball.' The DAMNED and HIGH entries within the same domain (Hotel/Rest) reflect the split reality of Doby's career: DAMNED in the segregated hotels of opposing cities, HIGH in the Cleveland clubhouse that (slowly, unevenly) became home. The chemistry_trait 'The Photograph' (Legacy event triggers when Doby scores a WS-winning run) is the mechanical expression of the Gromek dimension."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Being hit by a pitch or receiving abuse from opposing benches — 'Hit It as Far as I Could' activates.",
+      "Home games at Cleveland Municipal Stadium — community support context.",
+      "Playing alongside Gordon (cross-card CLU/CON bond activates).",
+      "1948 WS context — historical weight of first WS at-bat as a Black player produces peak performance."
+    ],
+    "cold_triggers": [
+      "Segregated road trip environments — Hotel/Rest DAMNED domain activates.",
+      "Willie Mays as opposing CF — The Catch Scar drops CLU by 1.",
+      "MVP voting reveal — Second in Everything trait; the award goes elsewhere regardless of stats.",
+      "Any reference to 1947 debut — the HAUNTED location can trigger a cold snap when revisited."
+    ],
+    "pressure_response": "Complex and calibrated to the type of pressure. In ordinary game pressure (pennant races, key at-bats), Doby performed at elite levels for 13 seasons. In the specific pressure of historical pioneering — the July 5, 1947 debut, the 1948 WS Game 4 home run, the 1954 All-Star HR that tied the game — he rose to the absolute moment. In the pressure of recognition — MVP voting, public credit, historical acknowledgment — the system failed him every time. His pressure response was split: excellent at converting athletic pressure into performance; unable to convert political pressure into institutional reward."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "I Will Never Forget That Man",
+      "type": "Action",
+      "text": "A Black player arrives in a new clubhouse and stands alone on the field during warmups — no one throws with him. A veteran crosses the field and says: 'You gonna stand there or throw a little?' The Black player gains +2 chemistry with the entire roster. The veteran gains permanent +1 CLU. This card cannot be played against another card that has already played 'Hey Kid, Throw With Me' — they are the same moment, seen from opposite sides.",
+      "origin": "Larry Doby's first day with the Cleveland Indians, July 5, 1947. Joe Gordon walked to him during warmups and said the words. Doby: 'I will never forget that man.' This card is the flip-side of Gordon's 'Hey Kid, Throw With Me' action seed — the same moment experienced from the position of the player who was standing alone."
+    },
+    {
+      "title": "First Home Run in the Fall Classic",
+      "type": "Game Action",
+      "text": "A Black player hits a home run in the World Series — the first of his people to do so. The game-winner. A photograph is taken of him crossing home plate. The Legacy tag 'First' is permanently attached to the card. His team gains +2 momentum for the remainder of the Series.",
+      "origin": "October 9, 1948, Game 4 of the World Series. Larry Doby hit a 420-foot home run off Johnny Sain of the Boston Braves in the third inning. It was the first home run by a Black player in World Series history. It was the game-winner. The Indians won 2-1. Doby was the first Black player to win a World Series."
+    },
+    {
+      "title": "The Photograph",
+      "type": "Legacy",
+      "text": "After a decisive victory, two teammates — one Black, one white — embrace in spontaneous joy. A photograph is taken. It appears on the front page. Team chemistry rises +3 permanently. The photograph is marked as a permanent Legacy artifact in the set.",
+      "origin": "After Game 4 of the 1948 World Series, Steve Gromek (who had pitched the complete-game win) and Larry Doby embraced in the clubhouse. The photograph appeared the next day in the Plain Dealer and newspapers across the country. Richard Goldstein of The New York Times: 'a signature moment in the integration of Major League Baseball.'"
+    },
+    {
+      "title": "They Wouldn't Shake My Hand",
+      "type": "Drama",
+      "text": "A player enters a new clubhouse where most teammates avert their eyes and refuse to acknowledge him. He has one ally — a veteran who crosses the room. Roll: (1-2) the player's performance drops -1 OVR for 3 games from the weight of isolation; (3-6) the player performs at +1 OVR — defiance as fuel.",
+      "origin": "When Doby entered the Cleveland Indians clubhouse at Comiskey Park on July 5, 1947, teammates averted their eyes and would not speak to him. 'I knew it was segregated times, but I had never seen anything like that in athletics,' he said in 2002. Joe Gordon was the exception."
+    },
+    {
+      "title": "Second in Everything",
+      "type": "Drama",
+      "text": "A player leads the AL in HR and RBI. He finishes second in MVP voting to a catcher on the defending champion. In 1950, he led the AL in OBP and OPS and finished eighth in MVP voting to a shortstop. The award goes elsewhere. The card is permanently marked with the Legacy tag: 'The Stats Said Yes. The Votes Said No.'",
+      "origin": "Doby finished 8th in AL MVP voting in 1950 (won by Rizzuto) despite leading the AL in OBP and OPS. He finished 2nd in 1954 (lost to Yogi Berra) despite leading the AL in HR and RBI. This Day in Baseball: 'It paid to be white and a Yankee in the 1950s if you wanted to win an MVP trophy.'"
+    },
+    {
+      "title": "The Catch",
+      "type": "Game Action",
+      "text": "A center fielder makes a play that defies physics — a catch so deep, so certain to fail, that a baserunner has already begun his run home. The runner must scramble back. He never scores. The fielding team wins the game. The mechanical result: the opposing team's best player is denied his moment. The play haunts the card permanently.",
+      "origin": "Game 1 of the 1954 World Series. Vic Wertz hit a drive so deep to center that Doby, on first base, was already running home. Willie Mays turned and ran and caught the ball over his shoulder at the warning track. Doby scrambled back to second. The Indians lost the game in extra innings and were swept 4-0 — their last World Series appearance. The Catch is Willie Mays' card's moment; the HAUNTED is Doby's."
+    },
+    {
+      "title": "I Had to Take It",
+      "type": "Action",
+      "text": "A player is subjected to racial abuse from the opposing bench, stands, or a fielder. He cannot retaliate. He bats next. Roll: automatic +1 to his OBP result for the at-bat. His answer is always the same.",
+      "origin": "Larry Doby's documented response to his entire career of racial abuse: 'I had to take it. But I fought back by hitting the ball as far as I could. That was my answer.' One documented incident: after tagging Doby out at second base, an opposing infielder spit in his face. Doby walked away. He was 23 years old."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'1\", 180 lbs. Angular, serious, watchful. The face of a man who understood at 23 that every expression he made would be read as data by people looking for a reason to send him back. Not cold — contained. The restraint of someone who has decided that performance is the only argument that cannot be dismissed.",
+    "attire": "Cleveland Indians home whites. The broad C on the cap. Mid-swing — the left-handed power stroke that Joe Cronin described as the most frightening thing he saw from the opposing dugout, or mid-sprint in center field, body fully extended toward a ball that the play says he cannot reach.",
+    "mood": "Contained fury. Not rage — the specific expression of someone who has decided that excellence is the most devastating rebuttal available to him. The moment before the ball leaves the bat.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Cleveland Municipal Stadium outfield visible behind him. The 1950 peak — the year he led the AL in OBP and OPS and finished 8th in MVP voting.",
+    "reference": "The first Black player in the American League at the height of his powers — the year his statistics were undeniable and the world found reasons to deny them anyway."
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "card_type": "player",
+  "name": "Phil Rizzuto",
+  "nickname": "Scooter",
+  "year": 1950,
+  "team": "New York Yankees",
+  "league": "American League",
+  "era": "1940s",
+  "ilb_team": "Allies AL1940",
+  "position": "SS",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'6\"",
+  "weight": "150 lbs",
+  "born": "September 25, 1917 — Brooklyn, NY",
+  "died": "August 13, 2007 — West Orange, NJ",
+  "hof": "Class of 1994 (Veterans Committee)",
+
+  "real_stats": {
+    "season": 1950,
+    "games": 155,
+    "at_bats": 617,
+    "hits": 200,
+    "doubles": 36,
+    "triples": 7,
+    "home_runs": 7,
+    "rbi": 66,
+    "stolen_bases": 12,
+    "batting_avg": ".324",
+    "obp": ".418",
+    "slg": ".439",
+    "ops": ".857",
+    "ops_plus": 122,
+    "war": 6.8,
+    "all_star": 5,
+    "mvp": "AL MVP 1950",
+    "career_avg": ".273",
+    "career_hits": 1588,
+    "career_hr": 38,
+    "career_sb": 149,
+    "career_war": 42.1,
+    "career_dp": 1217,
+    "career_fielding_pct": ".968",
+    "world_series": 7,
+    "notes": "Led AL in sacrifice hits 1949–1952. Second-highest career DP total in history at retirement. Bill James: deserved Gold Glove in 1941, 1942, 1946, and 1950."
+  },
+
+  "ilb_stats": {
+    "ovr": 7,
+    "con": 4,
+    "pow": 0,
+    "spd": 1,
+    "def": 3,
+    "clu": 1
+  },
+
+  "stat_justification": {
+    "con": "Peak .324 BA (1950 MVP season) falls in the .300–.329 = 4 band. OPS+ 122 does not clear the ≥130 bonus threshold. Career .273 average over 13 seasons. Led AL in sacrifice hits four straight years — a contact-precision skill distinct from slugging.",
+    "pow": "Peak 7 HR (1950, career high). 0–9 HR range = 0. SLG .439 does not clear the .500 bonus. Rizzuto is the archetype of the POW 0 shortstop: a line-drive, bunt, stolen-base player with no extra-base power by design. First POW 0 shortstop in the set.",
+    "spd": "12 SB in the 1950 snapshot year (6–15 SB = 1). Career high of 33 SB in 1942 reflects earlier speed. No Gold Glove era bonus available (Gold Gloves began 1957). Speed moderated significantly by 1950.",
+    "def": "Pre-Gold Glove era player; historical reputation rule applied. Bill James: deserved Gold Gloves in 1941, 1942, 1946, 1950. Jerry Coleman: placed him alongside Ozzie Smith and Luis Aparicio. Casey Stengel: 'greatest shortstop I have ever seen.' Vic Raschi: 'My best pitch is anything the batter grounds, lines, or pops in the direction of Rizzuto.' Second-highest career DP total in history at retirement. First SS to earn DEF 3 in the set.",
+    "clu": "Career postseason BA .246 across nine World Series (45-for-183) falls below the .250 floor for base CLU 1. Awarded CLU 1 on the basis of the 1942 World Series hero performance (.381, 8 hits, led all hitters) qualifying as a WS hero moment (+1 bonus). Career postseason includes 10 steals (3rd all-time WS) and 30 walks (4th all-time WS) reflecting clutch on-base production not captured by BA alone."
+  },
+
+  "personality": {
+    "leadership_style": "Invisible glue. Not a speeches-and-fire leader — Rizzuto led by making everyone around him better and by being the player who never cracked. Casey Stengel called him 'indispensable' in 1949 when every other Yankee regular battled injuries and Scooter played 153 games to hold the dynasty together.",
+    "temperament": "Boyish, self-deprecating, perpetually delighted to be on the field. The most beloved prank target on the Yankees dynasty — teammates put snakes and mice in his glove regularly, and he responded by screaming and running into center field, then laughing hardest of all. His HOF induction speech was pure comedy: 'I thought the Hall of Fame was just for big guys.'",
+    "work_ethic": "Meticulous small-ball craftsman. Led the AL in sacrifice hits four consecutive years (1949–1952). Into retirement he tutored players on the bunt during spring training, evangelical about an art form he believed was being lost. Practice was purpose.",
+    "lifestyle": "Deeply domestic, Italian-American family man. Called wife Cora from hotel rooms to read the menu over the phone so she could tell him what to order. His favorite dessert was crumb cake and coffee. Hated travel, hated flying, feared the George Washington Bridge in heavy traffic. Gave the majority of his 2006 memorabilia sale proceeds to St. Joseph's School for the Blind in Jersey City.",
+    "era_adaptability": "MODERATE. Rizzuto's game — bunting, defensive excellence, table-setting — is timeless at the core, but his extreme domesticity and specific fears (small planes, insects, highway bridges, lightning) would require careful handling in non-1940s environments. He would find any era manageable as long as he had a phone to call home.",
+    "clubhouse_impact": "The emotional heartbeat of the Yankees dynasty clubhouse. Teammates competed to devise increasingly elaborate pranks (dead mice in gloves, live snakes in lockers) precisely because his reactions were so spectacular and his good nature so total. His presence made the clubhouse feel safe enough to be genuinely funny.",
+    "dark_side": "Released by the Yankees mid-season on August 25, 1956 — cut to make room for Enos Slaughter. He had gone to management with the roster and suggested players; for every name he offered, management gave reasons to keep that player. The only expendable Yankee was Rizzuto himself. He described the release as 'like the end of the world.' After 13 seasons, nine pennants, seven World Series, and an MVP award, he was handed a pink slip on Old Timers Day weekend."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Pranks Magnet",
+      "desc": "Beloved target: teammates' morale rises when he's in the lineup, even at his own expense."
+    },
+    {
+      "tag": "Small Ball Evangelist",
+      "desc": "Team gains +1 on sacrifice plays and bunt opportunities when active."
+    },
+    {
+      "tag": "Invisible Glue",
+      "desc": "During injury crises, prevents team collapse events — holds the infield together."
+    },
+    {
+      "tag": "Domestic Anchor",
+      "desc": "Penalty: performs at -1 OVR on road trips exceeding 7 days (homesickness penalty)."
+    },
+    {
+      "tag": "Fear Catalog",
+      "desc": "Specific environmental triggers (insects, lightning, aircraft) can cause a momentum cold snap. Opponents aware of this."
+    },
+    {
+      "tag": "Brooklyn Roots",
+      "desc": "Extra chemistry bonus with other Italian-American or New York-origin players in the set."
+    },
+    {
+      "tag": "Shoeshine Box",
+      "desc": "Was told he was too small to play. Against all doubt, performs above OVR when doubted publicly."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Bunt drills, footwork at short, pre-game ritual prep. The craft domain.",
+      "note_extra": "Source labeled 'Batting Cage / Practice Field' / affinity 'HIGH' — bunting craft and pre-game fielding ritual sub-domain. Mapped to Practice Field/HIGH. Sixth Practice Field/HIGH in the set: Mathewson (mound precision), McGinnity (iron-man volume), Phillippe (mound pulpit/control), Plank (17-year office), Puckett (daily batting ritual), Rizzuto (bunting craft and footwork). Rizzuto's Practice Field/HIGH is the first in the set for a shortstop and the first grounded in small-ball defensive-preparation (bunt drills, footwork, sacrifice-hit craft) rather than hitting or pitching ritual. The real_stats note ('Led AL in sacrifice hits 1949–1952') and the HOF record's reference to his tutoring players on the bunt in retirement are the institutional basis of this HIGH. The stat_justification.con field ('a contact-precision skill distinct from slugging') is the mechanical cross-field expression."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "The clubhouse pranks center. The locker room as dynasty home. Most beloved target of the Yankees' elaborate prank culture.",
+      "note_extra": "Source labeled 'Clubhouse / Locker Room' / affinity 'HIGH' — mapped to Hotel/Rest/HIGH as the team-institutional-social domain. Ninth Hotel/Rest/HIGH register in the set: vice-social (McGraw), pastoral care (McKechnie), joy-distribution (Musial), predatory preparation (Newhouser), proprietary home-base (O'Doul), communal-emotional-center (Pesky), kinetic-social-preparation (Reiser), pregame-domain-ownership (Puckett), and now prank-target-beloved-presence (Rizzuto). Rizzuto's register is the first in the set where the HIGH is grounded in being the recipient of pranks rather than the perpetrator or the leader. The SABR BioProject source: 'According to Daley, the Yankees may never have had a more popular player than this little guy, admired and beloved even by those pranksters who used to put snakes in his glove.' The chemistry_trait 'Pranks Magnet' is the mechanical cross-field expression of this HIGH."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Hated travel, feared flying. Called Cora from hotel rooms to read the menu. The hotel room as anxiety space.",
+      "note_extra": "Source labeled 'Hotel Room / Travel' / affinity 'LOW' — distinct sub-domain from the Clubhouse/HIGH above. Same canonical domain (Hotel/Rest), opposite affinity, different sub-domain (hotel room isolation vs. clubhouse community). This creates a domain split: Hotel/Rest/HIGH (clubhouse) and Hotel/Rest/LOW (hotel room), which is narratively coherent — Rizzuto thrived in team-communal spaces and declined in isolated private spaces. Prior Hotel/Rest/LOW: neurological-incapacity (Reiser) and kinetic-personality-incompatibility (Puckett). Rizzuto's is the first Hotel/Rest/LOW grounded in domestic-separation anxiety — the specific behavior (calling Cora to read the menu, switching planes over in-flight movie selection) documents the hotel room as a space of homesickness management rather than rest. The personality.lifestyle field ('Called wife Cora from hotel rooms to read the menu over the phone') and chemistry_trait 'Domestic Anchor' (-1 OVR road trips exceeding 7 days) are the cross-field mechanical expressions."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "NONE",
+      "note": "No bar culture. Crumb cake and coffee. Complete void.",
+      "note_extra": "Source labeled 'Bar / Nightlife' / affinity 'NONE' — sixth NONE in the set. Mungo: Postseason/NONE (absence-of-opportunity). Newhouser: Gambling Hall/NONE (principled competitive exclusion). Pesky: Gambling Hall/NONE (simple biographical void). Reiser: Gambling Hall/NONE (working-class void). Puckett: Gambling Hall/NONE (fifth void). Rizzuto: Bar/Nightlife/NONE (sixth). Working-class-domestic players consistently produce Hotel/Rest sub-domain NONEs. Rizzuto's is the second Bar/Nightlife entry in the set (after Puckett's MEDIUM) and the first at NONE — encoding the complete absence of nightlife culture in a player whose post-game preference was crumb cake and a call home. The personality.lifestyle field ('His favorite dessert was crumb cake and coffee') is the basis."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Italian-American Brooklyn/Queens roots. Lifetime charity work for St. Joseph's School for the Blind, Jersey City.",
+      "note_extra": "Source labeled 'Community Events' / affinity 'HIGH' — source label identical to domain. Second Community Events/HIGH in the set grounded in formal charitable institution (after Puckett's Branch Rickey Award). Rizzuto's is further specified to a single named institution: St. Joseph's School for the Blind in Jersey City, to which he directed the majority of proceeds from his 2006 memorabilia auction. Prior Community Events/HIGHs: homeland-origin (Phillippe, Overall, Plank), civic-identity (O'Doul), cultural-institution presence (O'Doul), formal-philanthropic-award (Puckett), and now named-charitable-institution (Rizzuto). The specificity of St. Joseph's School for the Blind distinguishes this HIGH from Puckett's broader award-level philanthropy — Rizzuto had a particular institution. The personality.lifestyle field ('gave the majority of his 2006 memorabilia sale proceeds to St. Joseph's School for the Blind') is the source."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "MAXIMUM",
+      "note": "40 years in the Yankee broadcast booth. 'Holy Cow!' 'You huckleberry.' Birthday announcements mid-pitch. The Meat Loaf song. What's My Line. The Money Store.",
+      "note_extra": "Source labeled 'Broadcast Booth / Media' / affinity 'MAXIMUM' — FIRST Media/Spotlight domain entry in the entire set at any affinity. All prior preferred_location entries have mapped to Practice Field, Hotel/Rest, Community Events, Medical/Recovery, or abstract/temporal domains. Rizzuto is the first card where the Media/Spotlight domain is activated as a preferred location, and it enters at the MAXIMUM level — second MAXIMUM in the set after Musial's batting cage MAXIMUM (Batch 29). The basis is biographical: Rizzuto's 40-year broadcasting career (1957–1996) outlasted his 13-year playing career by 27 years. He became more famous as a broadcaster than as a player. The Wikipedia source documents: What's My Line (first mystery guest, 1950); The Ed Sullivan Show; It's Sports Time with Phil Rizzuto (CBS Radio, 1957–1977); Meat Loaf's 'Paradise by the Dashboard Light' (1977); The Money Store spokesman (~20 years). The first-in-set status of the Media/Spotlight domain makes this a schema expansion. Future cards with broadcasting careers (e.g., Dizzy Dean) should reference Rizzuto as the domain anchor."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Executing a bunt single or sacrifice in a clutch situation.",
+      "Making a spectacular double play — the pivot is his signature.",
+      "Home games at Yankee Stadium (comfort, crowd, pinstripes).",
+      "Working alongside Italian-American or Brooklyn-origin teammates."
+    ],
+    "cold_triggers": [
+      "Extended road trips (7+ days away from home — Domestic Anchor penalty activates).",
+      "Insects, snakes, or small animals appearing in or near the dugout.",
+      "Lightning storms before or during games.",
+      "Being dismissed publicly by management or coaches — echoes the 'shoeshine box' wound."
+    ],
+    "pressure_response": "Paradoxical. Rizzuto is a low-drama player who performs best when the pressure is structural — pennant races, elimination games — rather than personal. His 1949 season, when every other Yankee regular was injured and he played 153 games to hold the dynasty together, is the archetype: maximum responsibility, zero individual spotlight. He does not perform well when singled out. He performs brilliantly when the team needs him to be invisible and essential simultaneously."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Go Get a Shoeshine Box",
+      "type": "Drama",
+      "text": "A scout or coach publicly dismisses your smallest player as too small for the roster. The player can: (A) accept the cut — team loses him but gains a draft pick; or (B) keep him — he goes permanently Hot in any underdog scenario.",
+      "origin": "A New York Giants coach told Rizzuto at his first MLB tryout that he was too small to play and should make a living shining shoes. Casey Stengel similarly dismissed him at a Brooklyn Dodgers tryout. Rizzuto became the greatest shortstop Stengel ever saw."
+    },
+    {
+      "title": "Gum on the Cap",
+      "type": "Action",
+      "text": "During a winning streak, your most superstitious player performs a ritual that cannot be removed without breaking the streak. For each game the ritual continues: +1 momentum. After 5 games: all adjacent players suffer -1 due to the smell.",
+      "origin": "During a 19-game Yankees winning streak, Rizzuto kept a large wad of gum on the top of his cap. The smell eventually drove teammates away from him on the field."
+    },
+    {
+      "title": "Snake in the Glove",
+      "type": "Drama",
+      "text": "A prank in the clubhouse goes too far. The target player loses 1 momentum. However, if the target laughs it off: entire team gains +1 chemistry. If the target reacts badly: team loses -1 chemistry and the prankster must sit for one game.",
+      "origin": "Yankees teammates routinely put snakes and dead mice in Rizzuto's glove (left on the outfield grass between innings in the era when fielders did this). His reaction — screaming and running into center field — became a dynasty-era clubhouse legend."
+    },
+    {
+      "title": "The Death Threat Letter",
+      "type": "Drama",
+      "text": "Before a critical game, your starting player receives an anonymous threat. FBI is notified. Roll: (1–3) the player plays through it — +1 CLU for the game; (4–6) manager substitutes a lesser player — opponent exploits the gap.",
+      "origin": "On September 6, 1950, Rizzuto received a letter threatening him, Hank Bauer, Yogi Berra and Johnny Mize. He turned it over to the FBI and told Casey Stengel. Stengel gave Rizzuto's uniform to Billy Martin, keeping Rizzuto in a different number."
+    },
+    {
+      "title": "The Expendable Man",
+      "type": "Drama",
+      "text": "Management asks your veteran player to suggest who should be cut from the roster. Every player he names, management finds a reason to keep. Eventually the veteran realizes he is the only expendable one. Veteran is released. Team chemistry drops -2 for the remainder of the season.",
+      "origin": "On August 25, 1956, Rizzuto was asked by Yankee management to review the postseason roster. Each player he suggested cutting was retained by management. He was released to make room for Enos Slaughter — the only expendable Yankee after 13 seasons."
+    },
+    {
+      "title": "Holy Cow",
+      "type": "Game Action",
+      "text": "Your shortstop makes a play that defies his listed DEF rating — diving stop, impossible pivot, relay throw that saves the game. Steal one sure base hit from the opponent. The opposing team's highest-momentum player goes Cold.",
+      "origin": "Rizzuto's defensive reputation: Vic Raschi's observation that his best pitch was anything hit toward Rizzuto. Casey Stengel's verdict: greatest shortstop he ever saw. The play was so reliable it became proverbial — and the exclamation became a 40-year broadcasting career."
+    },
+    {
+      "title": "Call Home First",
+      "type": "Action",
+      "text": "Before a road game, your player calls home and speaks with a family member for at least 10 minutes. That player gains +1 CON for the next game only. Cannot be used on back-to-back days.",
+      "origin": "Rizzuto called wife Cora from hotel rooms to read the menu over the phone so she could tell him what to order. The call-home pre-game ritual was a documented coping mechanism for his travel anxiety."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Boyish, round-cheeked, lean Italian-American face. 5'6\", 150 lbs — wiry, built lower to the ground than any other player on the field. The Scooter grin: irrepressible, slightly impish, the look of a man who can't believe he's getting away with this.",
+    "attire": "New York Yankees home whites, pinstripes, number 10. Classic late-1940s/1950 cap style. Glove at his hip or mid-pivot — the shortstop caught mid-turn on a double play.",
+    "mood": "Pure joy mixed with mild astonishment — the expression of a man who was told to go get a shoeshine box and won an MVP award. Delighted. Scrappy. Absolutely certain of his place on this field.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Yankee Stadium dirt visible behind him. Soft crowd blur.",
+    "reference": "Think the famous mid-pivot double-play shortstop pose — body fully turned, arm extended on the relay, feet off the ground. Rendered in the ILB sepia portrait style."
+  }
+}

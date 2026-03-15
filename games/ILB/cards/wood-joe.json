@@ -1,0 +1,213 @@
+{
+  "card_type": "player",
+  "name": "Joe Wood",
+  "nickname": "Smoky Joe",
+  "year": 1912,
+  "team": "Boston Red Sox",
+  "era": "1910s",
+  "ilb_team": "Muggers AL1910",
+  "position": "SP",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'11\"",
+  "weight": "180 lbs",
+  "born": "October 25, 1889 — Kansas City, MO",
+  "died": "July 27, 1985 — West Haven, CT (age 95)",
+  "hof": "Not inducted. Peak vote: 18% (1947). Boston Red Sox HOF (1995). Named to 100 Greatest Players list (Ritter/Honig, 1981).",
+  "real_stats": {
+    "season": 1912,
+    "games": 43,
+    "wins": 34,
+    "losses": 5,
+    "era": "1.91",
+    "innings": "344.0",
+    "strikeouts": 258,
+    "walks": 82,
+    "complete_games": 35,
+    "shutouts": 10,
+    "whip": "1.02",
+    "war": 9.5,
+    "career_wins": 117,
+    "career_losses": 57,
+    "career_era": "2.03",
+    "career_strikeouts": 989,
+    "career_cg": 121,
+    "career_shutouts": 28,
+    "career_war": 40.1,
+    "no_hitters": 1,
+    "perfect_games": 0
+  },
+  "ilb_stats": {
+    "ovr": 10,
+    "stf": 5,
+    "ctl": 2,
+    "sta": 4,
+    "def": 1,
+    "clu": 3
+  },
+  "stat_justification": {
+    "stf": "1.91 ERA in 1912 — led the AL and earned the Pitching Triple Crown (wins, strikeouts, ERA). K/9 of 6.74 was elite for the Deadball Era — he led the AL in SO/9 in 1911 at 7.5. Walter Johnson himself said there was no man alive who could throw harder. Wood earned his 'Smoky' nickname from the smoke on his fastball. He also featured a devastating curveball and changeup. This is a maximum 5.",
+    "ctl": "BB/9 of 2.14 in 1912 — 82 walks in 344 innings. Wood was a power pitcher who relied on overwhelming stuff rather than pinpoint control. His WHIP of 1.02 was excellent but driven by his dominance, not Greg Maddux precision. He walked 4 batters in a row in one inning during the loss that ended his 16-game win streak. Rating of 2 — good but not his strength.",
+    "sta": "344 innings pitched in 1912. 35 complete games in 43 starts. 10 shutouts — led the majors. But Wood's arm was always under tremendous strain from his violent delivery. Johnson noted Wood could throw as hard as him for 2-3 innings but his mechanics were punishing. The arm would eventually break down catastrophically in 1913. Rating of 4 — elite output, fragile vessel.",
+    "def": "Led AL pitchers in putouts in 1912. Good athlete — he later successfully converted to outfielder with Cleveland. Hit .290 in 1912. But as a pitcher, his fielding was competent rather than elite. Rating of 1.",
+    "clu": "Won 3 games in the 1912 World Series against the Giants, including the deciding Game 8 where he came in as a reliever and beat Christy Mathewson in extra innings. Struck out 11 batters in a single WS game — the first pitcher ever to reach double-digit K's in the Fall Classic. His 16-game winning streak peaked in a 1-0 duel against Walter Johnson that was hyped like a heavyweight fight. 3 World Series rings (1912, 1915, 1920). Maximum clutch rating."
+  },
+  "personality": {
+    "leadership_style": "Quiet confidence with a fierce competitive streak. Wood was not a rah-rah leader but a presence — when he took the mound, the whole team elevated. His teammates rallied around him in 1912 because they knew: if Smoky Joe had the ball, they were going to win. He later recalled standing atop the majors: 'I was the king of the hill, top of the heap, right along with the very best.'",
+    "temperament": "Calm exterior, volcanic interior. Wood was a small-town boy from the Colorado mountains who carried himself with quiet dignity. But on the mound, he threw with such violence that he said his arm might 'fly right off my body.' A fierce competitor who rose to the biggest occasions — the Johnson duel, Game 8 of the World Series — with ice-cold focus.",
+    "work_ethic": "Intense but unsustainable. Wood threw so hard his delivery was described as 'putting tremendous strain on the arm.' He didn't pace himself — every pitch was maximum effort. This made him devastating for two seasons and broken by 26. His work ethic wasn't about discipline or routine; it was raw, furious commitment to being unhittable in every at-bat.",
+    "lifestyle": "Outdoorsman from Colorado mining country. Wood grew up in Ouray, a small mountain town where he pitched for the local team at age 14. He later played for a barnstorming 'Bloomer Girls' team disguised as female. Married Laura O'Shea after the 1912 season. Settled, family-oriented, but always carried the spirit of the frontier — independent, self-reliant, unafraid.",
+    "era_adaptability": "COMPLEX. Wood's fastball velocity would translate to any era — he threw as hard as Walter Johnson, who threw as hard as anyone until the modern era. But his violent delivery would likely lead to Tommy John surgery in a modern context. In ILB terms: Wood is a high-risk, high-reward asset. When healthy, he's the best pitcher in any rotation. But the clock is always ticking on his arm.",
+    "clubhouse_impact": "RESPECTED-STEADY. Wood was universally liked but not the loudest voice. His closest friendship was with Tris Speaker — they were roommates in Boston and reunited in Cleveland when Wood reinvented himself as an outfielder. Wood's loyalty and grit earned deep respect. He played through pain for years rather than quit.",
+    "dark_side": "The tragedy of unrealized potential. Wood's career as a pitcher lasted effectively two great seasons before injury destroyed his arm at 23. He spent the rest of his life in the shadow of what might have been. 'I was the king of the hill,' he said, 'top of the heap.' Then it all collapsed like 'a tumbling house of cards.' In ILB terms: Wood carries a 'Glass Arm' trait — a catastrophic injury can end his pitching career at any moment, forcing a position change or retirement."
+  },
+  "chemistry_traits": [
+    {
+      "tag": "Smoke",
+      "desc": "Walter Johnson said nobody alive throws harder. When Wood is Hot, opposing batters get -1 CON from sheer velocity."
+    },
+    {
+      "tag": "Glass Arm",
+      "desc": "Wood's violent delivery guarantees eventual breakdown. Each season, roll for arm injury. If triggered, STF drops to 1 permanently — but he can convert to outfielder."
+    },
+    {
+      "tag": "Streak Pitcher",
+      "desc": "When Wood wins 3+ consecutive starts, he enters 'Streak Mode': +1 STF until the streak breaks. His 16-game win streak is the template."
+    },
+    {
+      "tag": "Frontier Grit",
+      "desc": "Raised in Colorado mining country. Wood gains +1 morale in Western-themed or rural environments. Never complains about conditions."
+    },
+    {
+      "tag": "Speaker's Roommate",
+      "desc": "Best friends with Tris Speaker. When both are on the same roster, +2 chemistry bonus. Wood will follow Speaker to any team."
+    },
+    {
+      "tag": "Two-Career Man",
+      "desc": "If Wood's pitching career ends, he can convert to OF at age-adjusted stats. He hit .283 lifetime and .366 in one season as an outfielder."
+    },
+    {
+      "tag": "World Series Ace",
+      "desc": "In elimination games and World Series starts, Wood gets +1 to all pitching stats. He won the clinching game of the 1912 World Series against Mathewson."
+    },
+    {
+      "tag": "The Bloomer Girl",
+      "desc": "Wood once barnstormed disguised as a woman on a Bloomer Girls team. +1 adaptability — he'll do whatever it takes to play ball."
+    }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "His domain. 344 innings in 1912. Every pitch thrown like it might be his last.",
+      "note_extra": "Source label: 'Pitcher's Mound.' Mapped to Practice Field (craft/performance domain — the mound as Wood's operational identity site). Standard HIGH affinity. Cross-field expression: STF 5 (maximum stuff), Glass Arm chemistry trait (injury risk from violent delivery), and work_ethic personality key ('every pitch was maximum effort') encode the intensity and fragility of this location."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Grew up in Ouray, CO at 7,800 ft elevation. Mountain air in his lungs.",
+      "note_extra": "Source label: 'Mountain / Outdoors.' Mapped to Community Events (outdoor/rural natural venue — Colorado mountain country fits Community Events' outdoor/rural scope, consistent with Wheat's 'Lake of the Ozarks,' Spahn's 'Ranch / Rural Area,' and Warneke's 'The Swamp' mappings). Standard HIGH affinity. Frontier Grit chemistry trait (+1 morale in Western-themed or rural environments) is the direct mechanical expression of this location."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Quiet but present. Close bond with Speaker and the 1912 Red Sox core.",
+      "note_extra": "Source label: 'Clubhouse / Locker Room.' Canonical taxonomy mapping. MEDIUM affinity encodes a genuine but undemonstrative clubhouse presence — Wood was 'universally liked but not the loudest voice.' Cross-field expression: Speaker's Roommate chemistry trait (+2 chemistry when both on roster) is the dominant personal relationship encoded here."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Needed rest between starts. His arm demanded it even in his prime.",
+      "note_extra": "Source label: 'Hotel / Rest.' Direct self-mapping — the source label is itself 'Hotel / Rest,' identical to the canonical domain name. First time in the set a source label is verbatim the canonical domain. MEDIUM affinity encodes physical necessity (rest as medical requirement between starts) rather than preference. The arm-rest connection makes this Hotel/Rest entry the most mechanically grounded in the batch. Cross-field expression: Glass Arm chemistry trait (arm injury risk each season) and sta: 4 (not 5 — 'fragile vessel') encode the recovery dimension."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Coached baseball at Yale for 20 years after his playing career ended.",
+      "note_extra": "Source label: 'University / Library.' Mapped to Community Events (educational/civic institution — Yale University as a public institutional venue; Wood's 20-year coaching career fits Community Events' civic/educational scope). MEDIUM affinity encodes significant but post-career domain presence rather than peak-career identity. Cross-field expression: The Yale Professor action seed (20 years coaching, honorary doctorate from Giamatti in 1985) and dark_side personality key ('spent the rest of his life in the shadow of what might have been') together frame the Yale career as Wood's graceful second act."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Not a drinker or partier. Small-town values kept him grounded.",
+      "note_extra": "Source label: 'Bar / Nightlife.' Canonical taxonomy mapping (Hotel/Rest includes bars/nightlife). LOW affinity is consistent with prior bar/nightlife LOW entries (Spahn, Warneke, others). Cross-field expression: lifestyle personality key ('settled, family-oriented') and Frontier Grit chemistry trait ('never complains about conditions') document the small-town values basis for this LOW."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "LOW",
+      "note": "Uncomfortable with the hype. The Johnson duel was promoted like a prizefight — Wood just wanted to pitch.",
+      "note_extra": "Source label: 'Media / Spotlight.' Direct self-mapping — source label is nearly verbatim the canonical domain name. LOW affinity encodes genuine discomfort with spectacle rather than hostility (contrast with Williams Ted's NONE). Cross-field expression: temperament personality key ('calm exterior, volcanic interior') and The Prizefight on the Mound action seed (the Johnson duel hype as the specific origin of this LOW) together document the precise biographical basis."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "Winning streaks — Wood's 16-game streak in 1912 is the template. Momentum compounds.",
+      "Big-game matchups — dueling Johnson, facing Mathewson. Wood rose to the occasion.",
+      "Fenway Park atmosphere — the 1912 Red Sox at new Fenway were electric.",
+      "Postseason — 3-1 in the 1912 WS with 21 K in 22 IP."
+    ],
+    "cold_triggers": [
+      "Arm pain — any hint of injury triggers a spiral. Wood pitched through pain from 1913-1915 and was never the same.",
+      "Errors behind him — the streak ended partly due to a shortstop's error. Wood needed clean defense.",
+      "Long layoffs — sat out all of 1916. Rust was real."
+    ],
+    "pressure_response": "TRANSCENDENT when healthy. Wood's 1912 is a masterclass in rising to pressure: the Johnson duel hyped like a heavyweight fight — he threw a 1-0 shutout. The World Series clincher against Mathewson — he came in as a reliever and won in extra innings. He struck out 11 in a single WS game, a record at the time. But if the arm is hurting, pressure becomes unbearable — the body can't deliver what the mind demands. In ILB: Wood is either your best pitcher or your most heartbreaking one. There is no middle ground."
+  },
+  "action_card_seeds": [
+    {
+      "title": "The Prizefight on the Mound",
+      "type": "Game Action",
+      "text": "Two ace pitchers face off in a matchup hyped like a heavyweight bout. 29,000 fans pack the stadium. Both pitchers get +2 STF for this game only. The winner's team gains +3 momentum. The loser's ace takes no penalty — it was that close.",
+      "origin": "The September 6, 1912 duel between Wood and Walter Johnson at Fenway Park, promoted by newspapers like a boxing match. Wood won 1-0 on a Tris Speaker double."
+    },
+    {
+      "title": "Sixteen Straight",
+      "type": "Game Action",
+      "text": "Your ace is on a historic winning streak. Each consecutive win adds +1 to his next start (cumulative, max +5). But the pressure mounts: after win 10, roll a d6 each start — on a 1, the streak snaps due to circumstances beyond his control.",
+      "origin": "Wood's 16 consecutive wins in 1912, tying Walter Johnson's AL record. The streak ended on an error by a substitute shortstop."
+    },
+    {
+      "title": "The Arm Gives Out",
+      "type": "Drama",
+      "text": "Your ace slips fielding a grounder and breaks his thumb. He's out 6 weeks. When he returns, roll a d6: on 1-3, he's permanently lost 2 STF. On 4-6, he recovers fully. Either way, arm trouble will haunt him.",
+      "origin": "In July 1913, Wood slipped on wet grass fielding a bunt, breaking his thumb. His arm was never the same. 'A tumbling house of cards.'"
+    },
+    {
+      "title": "The Bloomer Girl Tryout",
+      "type": "Drama",
+      "text": "An unknown young player shows up from an unconventional background — barnstorming, independent leagues, even disguised on a women's team. Sign him: he gains +3 STF for his rookie season as opponents have never seen him.",
+      "origin": "Wood began his career playing for a Bloomer Girls barnstorming team, disguised as a female player, before being discovered by the Red Sox."
+    },
+    {
+      "title": "Second Career",
+      "type": "Action",
+      "text": "Your injured pitcher refuses to quit baseball. He converts to outfielder. Lose all pitching stats — gain CON 3 / POW 1 / SPD 1 / DEF 1 as an everyday player. If he was elite as a pitcher, this feels like a demotion — but he's still in the game.",
+      "origin": "After his arm died, Wood sat out 1916, then reinvented himself as an outfielder for Cleveland (1917-1922), hitting .283 with a .366 season. He won another World Series ring in 1920."
+    },
+    {
+      "title": "Game Eight",
+      "type": "Game Action",
+      "text": "World Series, deciding game. Your ace comes in as a reliever to face the opposing team's legendary pitcher. Extra innings. The opponent scores first. Then a fly ball is dropped. Your team rallies to win. +5 franchise reputation. The ace gains 'Immortal Moment' trait.",
+      "origin": "Game 8 of the 1912 World Series: Wood relieved in the 8th, matched Mathewson through extras. Merkle scored in the 10th, but Snodgrass dropped a fly ball. Red Sox rallied to win 3-2."
+    },
+    {
+      "title": "The Yale Professor",
+      "type": "Drama",
+      "text": "Your retired player is offered a coaching position at a prestigious university. He accepts and coaches there for 20 years. His son eventually plays professionally. +3 legacy. The player gains the 'Educator' trait.",
+      "origin": "After retiring, Wood coached Yale baseball for 20 years (1923-1942). His son Joe Jr. pitched briefly for the 1944 Red Sox. In 1985, Yale President Giamatti gave Wood an honorary doctorate — he wept."
+    },
+    {
+      "title": "That Boy Throws Smoke",
+      "type": "Action",
+      "text": "A sportswriter watching your pitcher coins an unforgettable nickname. The pitcher gains +1 Intimidation permanently. Opposing batters who face him for the first time get -1 CON from reputation alone.",
+      "origin": "Boston Post sportswriter Paul Shannon, watching Wood pitch in 1912, remarked: 'Gee, that boy throws smoke.' The nickname 'Smoky Joe' was born."
+    }
+  ],
+  "art_direction": {
+    "face": "Lean, angular face of a young man from the frontier. 5'11\" 180 lbs — wiry and athletic, not bulky. Sharp jawline, intense eyes, clean-shaven. The look of a Colorado mountain kid who happens to throw harder than anyone alive. Young — only 22 in his peak season. There should be a coiled energy in his expression, like a spring about to release.",
+    "attire": "Boston Red Sox 1912 whites — the first season at Fenway Park. Baggy wool flannel, high collar (the Red Sox were the last team to wear laced collars). Full windup pose — the violent, whipping delivery that made batters say they couldn't see the ball. Or mid-follow-through, smoke trailing from his fingertips metaphorically.",
+    "mood": "Ferocious focus. Not calm like Cy Young — electric. The intensity of a 22-year-old who knows he's the best pitcher in baseball right now, in this moment. There's an urgency to it, as if he senses the window is finite. Fire and smoke. The portrait should feel like it captures the one instant before the fastball arrives.",
+    "style": "Rich sepia with warm golden highlights and a subtle hint of smoke or haze — fitting the 'Smoky' nickname. Fenway Park in the background, brand new in 1912, packed with a standing-room crowd. The card should feel urgent and kinetic compared to the serene authority of a Cy Young card. This is youth and raw power, not wisdom.",
+    "reference": "Think of a young gunslinger's portrait. Wood is the fastest draw in town — and everyone knows it. The ILB Smoky Joe Wood card should feel like bottled lightning. Not the heaviest card in the collection, but the most electrifying."
+  }
+}

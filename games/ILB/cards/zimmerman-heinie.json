@@ -1,0 +1,197 @@
+{
+  "card_type": "player",
+  "name": "Heinie Zimmerman",
+  "nickname": "The Great Zim",
+  "year": 1912,
+  "team": "Chicago Cubs",
+  "era": "1910s",
+  "ilb_team": "Muggers 1910",
+  "position": "3B",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'11\"",
+  "weight": "176 lbs",
+  "born": "February 9, 1887 — Bronx, NY",
+  "died": "March 14, 1969 — New York, NY (age 82)",
+  "real_stats": {
+    "batting_avg": ".372",
+    "home_runs": "14",
+    "rbi": "104",
+    "slg": ".571",
+    "hits": "207",
+    "doubles": "41",
+    "triples": "17",
+    "total_bases": "318"
+  },
+  "career_stats": {
+    "career_avg": ".295",
+    "career_hits": "1,566",
+    "career_hr": "58",
+    "career_rbi": "796",
+    "rbi_titles": "3",
+    "ws_avg": ".120*",
+    "banned": "1919",
+    "seasons": "13"
+  },
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 4,
+    "pow": 3,
+    "spd": 1,
+    "def": 1,
+    "clu": 0
+  },
+  "stat_justification": {
+    "con": ".372 BA in 1912 (Triple Crown) → tier 5 (≥.340). Led NL in hits (207) and doubles (41). But career .295 — the .372 was a one-year explosion. Most years .280-.310. Cy Williams: 'He was swinging at balls a foot over his head and driving them safe. You can get away with murder when the luck is with you.' Given career context (.295 vs. peak .372), rating of 4 — acknowledging the extraordinary peak but not the sustained elite of a true CON 5.",
+    "pow": "14 HR in 1912 (led NL). .571 SLG. 9 RBI in one game (2 HR, 1 3B, 1 1B). Tinker: 'the strongest pair of hands and arms I have ever seen on a human being.' 58 career HR, led NL in doubles (41). Dead-ball era strong power. Rating of 3.",
+    "spd": "175 career SB. Stole home at least once. But not identified as a speed player — average runner. Not the baserunning daring of Schulte (22 steals of home) or the speed of Doyle (298 SB). Rating of 1.",
+    "def": "Erratic. 4 errors in one game (May 10, 1910). Below-average fielding percentage. Good range factor — reached balls others couldn't. 'Played baseball by ear.' The 1917 WS rundown was not his fault (nobody covered home), but the erratic reputation is earned. Rating of 1.",
+    "clu": "1917 WS: .120 BA. The infamous rundown in G6 — chasing Eddie Collins home while nobody covered the plate. NY Times obituary headline: 'Committed 1917 Series Boner.' 1910 WS: .235. Only 1907 was a win (limited role). The October record is catastrophic. Rating of 0."
+  },
+  "personality": {
+    "leadership_style": "THE CHAOS AGENT. Zimmerman did not lead — he disrupted. He fought with teammates (punched Jimmy Sheckard, brawled with Roger Bresnahan). He fought with umpires. He got suspended repeatedly. He was described as 'one of the most interesting problems of baseball — energy being misdirected and talents largely wasted.' When his energy was directed, he won the Triple Crown. When it wasn't, he committed four errors in a game.",
+    "temperament": "VOLATILE AND ERRATIC. Warren Brown: 'Played his baseball by ear' and 'was no mental giant.' Joe Tinker 'doubted whether a quainter or more original character ever existed.' Extreme mood swings dictated his effort day to day. Announced his retirement after multiple seasons, then changed his mind. Referred to himself as 'The Great Zim' in third person — fans loved it, management endured it.",
+    "work_ethic": "INCONSISTENT TO THE POINT OF SELF-DESTRUCTION. When motivated, Zimmerman was a Triple Crown winner with the strongest arms in baseball. When unmotivated, he was suspended for 'laying down on the job.' The gap between his best and worst was wider than any player on the Muggers roster. A plumber's apprentice at 14 who earned $2/day and $20/weekend playing semi-pro — the hunger was real, but the discipline was absent.",
+    "lifestyle": "BRONX STREETS TO BANNED. Born in the Bronx. Plumber's apprentice. Sandlot star at 163rd and Southern Boulevard. Married 17-year-old Helen Chasar in 1912 (his Triple Crown year). After baseball: returned to the Bronx. Operated a speakeasy during Prohibition. Worked as a steamfitter. Died in New York at 82. His NY Times obituary was headlined with the 1917 'boner,' not the Triple Crown.",
+    "clubhouse_impact": "THE PROBLEM. -2 clubhouse harmony (fights with teammates). -1 discipline (suspensions, erratic effort). +2 offensive production when engaged. +1 entertainment (third-person references, fights, chaos). The most VOLATILE player on the Muggers — high ceiling, no floor.",
+    "dark_side": "BANNED. In 1919, Zimmerman and Hal Chase tried to bribe teammates to throw games. Offered pitcher Rube Benton $400. Offered outfielder Benny Kauff $125/game. McGraw suspended him. Both were indicted for bribery during the Black Sox hearings and banned by Landis. Zimmerman denied it. He was never formally connected to the Black Sox. But the pattern — the erratic effort, the 'laying down,' the sudden mood swings that dictated performance — made the corruption charge believable. The Great Zim's greatness was always conditional. The Triple Crown proves the ceiling. The ban proves the floor. Both are real."
+  },
+  "chemistry_traits": [
+    {
+      "tag": "Triple Crown",
+      "desc": ".372/14 HR/104 RBI in 1912. Led NL in BA, HR, RBI, H, 2B, SLG, TB. The highest single-season peak of any Mugger not named Johnson or Speaker. +4 offensive ceiling. But only one year."
+    },
+    {
+      "tag": "The Great Zim",
+      "desc": "Self-styled nickname, delivered in third person. +1 entertainment. +1 ego. -1 teammate patience. 'The Great Zim doesn't do that' was apparently a real sentence he said."
+    },
+    {
+      "tag": "Erratic Effort",
+      "desc": "Mood-dependent performance. 30% chance any game of Zimmerman 'laying down on the job' — effort drops to minimum. 20% chance of extraordinary effort. The rest is average."
+    },
+    {
+      "tag": "The Rundown",
+      "desc": "1917 WS G6: chased Eddie Collins home because nobody covered the plate. Blamed for losing the Series. Actually not his fault. +1 injustice. -2 reputation. The play that became his obituary."
+    },
+    {
+      "tag": "The Strongest Arms",
+      "desc": "Tinker: 'the strongest pair of hands and arms I have ever seen on a human being.' +1 POW. +1 arm strength. The raw physical tools were extraordinary."
+    },
+    {
+      "tag": "Traded for Doyle",
+      "desc": "Zimmerman and Larry Doyle were literally swapped in 1916 (Cubs to Giants for Doyle). If both on Muggers roster: +1 narrative irony. They traded lives."
+    },
+    {
+      "tag": "The Ban",
+      "desc": "Banned for trying to fix games with Hal Chase in 1919. Indicted for bribery. -3 integrity. -2 legacy. The Triple Crown winner who ended as a pariah."
+    },
+    {
+      "tag": "Plumber's Apprentice",
+      "desc": "Born Bronx. $2/day fixing faucets at 14. $20/weekend playing semi-pro. +1 origin. The hunger was real. The ethics were not."
+    }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "1907-16. Triple Crown. 2× WS champion. The peak.",
+      "note_extra": "Source label: 'West Side Grounds / Chicago.' Mapped to Community Events (ballpark/franchise home venue). Standard HIGH affinity encoding peak performance era: 9 seasons, Triple Crown, two WS championships. Cross-field expression: Triple Crown chemistry trait (+4 offensive ceiling) and The Strongest Arms action seed both locate their source performance in this venue."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "COMPLEX",
+      "note": "1916-19. RBI titles. 1917 WS disaster. The ban. McGraw's reclamation project.",
+      "note_extra": "Source label: 'Polo Grounds / New York.' Mapped to Community Events (ballpark). Affinity COMPLEX is a new addition to the affinity taxonomy not previously documented in this session. First appearance of COMPLEX as a standalone affinity. COMPLEX encodes a location of genuinely ambiguous mixed outcomes — neither the bifurcated peak/catastrophe of TRAGIC nor the structural absence of NONE nor the active conflict of LOW. The Polo Grounds produced both career-high RBI titles AND the 1917 WS disaster AND the 1919 ban — an unresolvable mixture that cannot be simplified to HIGH or LOW or TRAGIC. Distinct from TRAGIC: TRAGIC encodes simultaneous excellence and personal destruction at a single moment; COMPLEX encodes a 3-year arc of genuine achievement intertwined with genuine failure, with no clean separation. Cross-field expression: The Rundown chemistry trait (-2 reputation) and The Bribe action seed both originate from the Polo Grounds period, as do the RBI titles encoded in stat_justification/con."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Primary position. Erratic defense. Strongest arms in baseball.",
+      "note_extra": "Source label: 'Third Base.' Mapped to Practice Field (positional craft domain — consistent with Weaver's 'Third Base' HIGH, Batch 43). HIGH affinity encoding primary positional identity. The paradox of this HIGH: Zimmerman was both the strongest-armed player at the position and one of its most erratic fielders. Cross-field expression: DEF 1 and stat_justification/def ('erratic; 4 errors in one game; good range factor') express the internal contradiction of this HIGH."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "LOW",
+      "note": ".120 in 1917. The rundown. The 'boner.' The obituary headline.",
+      "note_extra": "Source label: 'The World Series.' Mapped to Community Events (showcase event — consistent with prior World Series mappings). LOW affinity encodes consistent, catastrophic October failure: .120 in 1917, .235 in 1910, only 1907 positive (limited role). Cross-field expression: CLU 0 and momentum/pressure ('CATASTROPHIC — one of the worst performances by a star player in Series history') are the mechanical and narrative expressions. The source note 'The obituary headline' makes this the most terminally LOW World Series entry in the set."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Born. Raised. Sandlots. Returned after ban. Operated a speakeasy. Died there.",
+      "note_extra": "Source label: 'The Bronx.' Mapped to Community Events (hometown/community origin and post-career return). HIGH affinity encoding total biographical rootedness — born, played sandlot baseball, returned after the ban, ran a speakeasy, worked as a steamfitter, died there. The most complete HOME cycle in the Muggers set: origin and post-career return in a single HIGH. Cross-field expression: lifestyle personality key ('Bronx Streets to Banned') documents the complete arc."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "Engaged and motivated — when Zimmerman cares, he wins Triple Crowns; the talent is undeniable",
+      "Early in games — strongest effort in first 5 innings before attention wanders",
+      "Against weaker teams — Zimmerman elevated against inferior opponents; dominated bad pitching",
+      "After confrontation — fights with teammates sometimes focused his energy into hitting"
+    ],
+    "cold_triggers": [
+      "Laying down — 30% chance any game of minimal effort; suspended multiple times for it",
+      "World Series — .120 in 1917; October pressure revealed the worst version of Zimmerman",
+      "Late-season malaise — in 1912 Triple Crown year, only 2 hits in final full week",
+      "Authority clashes — fights with managers, umpires, teammates scatter his focus"
+    ],
+    "pressure_response": "CATASTROPHIC. .120 BA in the 1917 WS — one of the worst performances by a star player in Series history. The rundown play in G6, while not technically his fault, became the defining image. .235 in the 1910 WS. Only the 1907 WS (win, limited role) was positive. Zimmerman under pressure was Zimmerman at his worst. CLU 0 is earned through consistent, dramatic October failure."
+  },
+  "action_card_seeds": [
+    {
+      "title": "The Triple Crown",
+      "type": "Game Action",
+      "text": "Your third baseman finishes the season leading the National League in batting average (.372), home runs (14), and runs batted in (104). Also: hits (207), doubles (41), slugging (.571), total bases (318). No one has done this in the NL since. Your player finished sixth in MVP voting. +5 offense. +0 recognition. The greatest season by a player nobody will remember.",
+      "origin": "1912: Zimmerman won the NL Triple Crown. Finished 6th in MVP voting."
+    },
+    {
+      "title": "The Rundown",
+      "type": "Drama",
+      "text": "World Series Game 6. Eddie Collins is trapped between third and home. Your catcher charges up the line. Your pitcher should cover the plate. Your first baseman should cover the plate. Neither moves. Your third baseman chases Collins with the ball. Collins scores. The White Sox win the game and the Series. Your third baseman is blamed. His obituary will lead with this play. -3 CLU. -2 reputation. +1 injustice (it wasn't his fault).",
+      "origin": "1917 WS G6: Nobody covered home. Zimmerman chased Collins. Blamed forever."
+    },
+    {
+      "title": "Nine RBI in One Game",
+      "type": "Game Action",
+      "text": "Two three-run home runs. A two-run triple. A single. Nine runs batted in — a club record. Your third baseman has the strongest arms in baseball and today he used them all. +4 POW. +2 single-game dominance.",
+      "origin": "Zimmerman drove in 9 runs on 2 HR, 1 3B, 1 1B against Boston — Cubs club record."
+    },
+    {
+      "title": "The Great Zim Speaks",
+      "type": "Drama",
+      "text": "'The Great Zim doesn't do that,' your third baseman says, referring to himself in the third person for the seventh time today. His teammates exchange glances. The fans cheer. Management sighs. +1 entertainment. -1 clubhouse patience. +1 ego.",
+      "origin": "Zimmerman called himself 'The Great Zim' in third person. Fans loved it."
+    },
+    {
+      "title": "Laying Down on the Job",
+      "type": "Drama",
+      "text": "Your third baseman has been suspended for 'laying down on the job.' He is not injured. He is not sick. He simply decided not to try today. Or yesterday. The talent is there. The effort is not. -2 performance. -1 team trust. The most talented quitter in the National League.",
+      "origin": "Zimmerman was suspended multiple times for lack of effort, including at time of his 1916 trade."
+    },
+    {
+      "title": "The Bribe",
+      "type": "Drama",
+      "text": "Your third baseman offers a pitcher $400 to ease up. He offers an outfielder $125 per game to help throw games. The word reaches management. Your player is suspended. He is indicted for bribery. He is banned from baseball. The Triple Crown winner becomes a pariah. -5 integrity. -3 legacy. The plumber's apprentice who couldn't stop cutting corners.",
+      "origin": "1919: Zimmerman and Chase tried to bribe teammates. Both banned."
+    },
+    {
+      "title": "Traded Lives",
+      "type": "Drama",
+      "text": "Your team trades its third baseman for the Giants' second baseman. Zimmerman for Doyle. Doyle for Zimmerman. The Great Zim goes to New York. Laughing Larry goes to Chicago. One will be banned. One will end up in a tuberculosis sanatorium. Neither will make the Hall of Fame. +1 narrative symmetry. -1 for both.",
+      "origin": "1916: Cubs traded Zimmerman to Giants for Larry Doyle."
+    },
+    {
+      "title": "The Strongest Arms",
+      "type": "Game Action",
+      "text": "Joe Tinker watches your third baseman take batting practice. 'The strongest pair of hands and arms I have ever seen on a human being.' Your player swings at a ball a foot over his head and drives it safe. You can get away with murder when the luck is with you. +2 raw power. +1 Tinker's amazement.",
+      "origin": "Tinker on Zimmerman's physical gifts. Cy Williams on his lucky 1912."
+    }
+  ],
+  "art_direction": {
+    "face": "THICK, PUGNACIOUS, VOLATILE, BRONX. 5'11\" 176 lbs — stocky, powerful, built like the plumber's apprentice he was at 14. The face should be HARD and ANIMATED — not cruel, but UNPREDICTABLE. The face of a man who might hit a Triple Crown today or punch a teammate tomorrow. Strong jaw, thick neck, dark features (German-American, Bronx-born). The expression: a SMIRK that's half confidence, half menace. 'The Great Zim' in third person. The eyes should be SHARP but UNFOCUSED — intelligent enough to win a Triple Crown, erratic enough to get banned for bribery.",
+    "attire": "Chicago Cubs 1912 whites — 'C' insignia, flat cap. THE POSE: the right-handed power swing — Zimmerman's strongest arms in baseball uncoiling on a ball 'a foot over his head,' driving it safe. The swing should look RAW and MUSCULAR — not the thin-handled elegance of Schulte or the line-drive precision of Wheat. A PLUMBER'S SWING — brute force applied to horsehide.",
+    "mood": "VOLATILE AND ELECTRIC. The card should feel DANGEROUS — not in the fun way of Schulte's wildfire but in the unpredictable way of a man whose effort varies wildly and whose morality is questionable. The energy of a Bronx sandlot: raw, competitive, not entirely trustworthy.",
+    "style": "Sepia-toned with BRONX BRICK RED and TARNISHED GOLD — the red of Bronx tenement brick, the gold that's been handled too much and lost its shine. Where Doyle is golden hour (radiant youth), Zimmerman is TARNISHED GOLD — the same promise, corroded. The palette of a Triple Crown that leads to a ban.",
+    "reference": "The thick pugnacious face. The power swing. Bronx brick in the background. The card should feel like POTENTIAL WASTED — the most talented problem in the National League, the Triple Crown winner who ended as a speakeasy operator in the Bronx."
+  }
+}

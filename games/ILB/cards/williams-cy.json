@@ -1,0 +1,177 @@
+{
+  "card_type": "player",
+  "name": "Cy Williams",
+  "nickname": "The Architect",
+  "year": 1923,
+  "team": "Philadelphia Phillies",
+  "era": "1920s",
+  "ilb_team": "Bashers AL1920",
+  "position": "CF",
+  "bats": "L",
+  "throws": "L",
+  "height": "6'2\"",
+  "weight": "180 lbs",
+  "born": "December 21, 1887 — Wadena, Indiana",
+  "died": "April 23, 1974 — Eagle River, Wisconsin (age 86). The longest-lived Basher. Married 65 years. Architect, farmer, builder, painter. Cy Williams Park dedicated in his honor, 1966.",
+  "hof": "NOT INDUCTED. .292 career BA, 251 HR (1st NL player to 200), 1,981 H, 37.4 WAR. 4× NL HR leader. NL career HR leader until Hornsby (1929). The original shift. The original power hitter. Philadelphia Phillies Wall of Fame (1985). Not in Cooperstown — the man who INVENTED the shift problem never got the recognition the problem itself eventually received.",
+  "real_stats": {
+    "season": 1923,
+    "batting_avg": ".293",
+    "obp": ".388",
+    "slg": ".552",
+    "ops": ".940",
+    "hits": 163,
+    "doubles": 22,
+    "triples": 3,
+    "home_runs": 41,
+    "rbi": 114,
+    "runs": 98,
+    "stolen_bases": 4,
+    "total_bases": 307,
+    "games": 138,
+    "war": 5.8,
+    "note": "41 HR tied Babe Ruth for the major league lead. Led NL by 19 HR over runner-up.",
+    "career_batting_avg": ".292",
+    "career_hits": 1981,
+    "career_hr": 251,
+    "career_rbi": 1005,
+    "career_war": 37.4,
+    "career_seasons": 19,
+    "hr_titles": "4× NL HR leader (1916, 1920, 1923, 1927)",
+    "first_nl_200_hr": "First NL player to hit 200 career HR",
+    "managers": "14 different managers in first 14 seasons (including Tinker, Evers, AND Chance)",
+    "shift": "THE ORIGINAL — defensive shift first employed against Cy Williams in the 1920s"
+  },
+  "ilb_stats": {
+    "ovr": 6,
+    "con": 2,
+    "pow": 4,
+    "spd": 2,
+    "def": 1,
+    "clu": 0
+  },
+  "stat_justification": {
+    "con": "Williams hit .293 in 1923 with 163 hits and a .388 OBP. Career: .292 BA, 1,981 hits. He hit .300 or better in 6 of 19 seasons, with a high of .345 in 1926. He was a dead-pull left-handed hitter who faced the FIRST defensive shift in MLB history — managers loaded the right side against him. That he still hit .293 against the shift is notable, but he was never a pure contact hitter. He prioritized home runs over batting average. Rating of 2.",
+    "pow": "Williams hit 41 home runs in 1923, tying Babe Ruth for the major league lead and beating the NL runner-up by 19 HR. He led the NL in HR four times (1916, 1920, 1923, 1927) — spanning both the dead-ball and live-ball eras. He was the first NL player to hit 200 career HR and held the NL career HR record (251) until Hornsby passed him in 1929. Only three players born before 1900 hit 200 career HR: Ruth, Hornsby, and Williams. His power was legitimate and historically significant — not inflated by Baker Bowl alone (Lederer study). Rating of 4.",
+    "spd": "In his youth, Williams was described as 'the fastest runner in the national game.' He turned down a spot on the 1912 U.S. Olympic team as a hurdler and broad jumper. He hit 12 inside-the-park home runs and hit for the cycle at age 39 (1927). But by his peak power years in the 1920s, the speed had diminished — he stole only 4 bases in 1923. The Olympic athletic base earns him more than minimum, but at 35 he was no longer elite. Rating of 2.",
+    "def": "Joe Tinker called Williams 'the greatest natural outfielder I ever saw.' He played center field for most of his career with excellent range and good instincts. However, a Sporting News correspondent wrote that 'he possessed a poor throwing arm' — described as his 'fatal weakness.' He led NL outfielders in assists in 1921 (suggesting he was tested despite the weak arm). The range and the arm create a conflicting profile that averages to adequate. Rating of 1.",
+    "clu": "Williams never won a World Series. His only WS appearance was with the Giants in 1924 (0-for-2 as a pinch hitter). His greatest power seasons were on terrible Phillies teams — in 1923, when he hit 41 HR to tie Ruth, the Phillies finished last at 50-104. His power existed in a context of total team failure. This is the lowest possible clutch rating, reflecting not a personal failing but a structural absence of meaningful October baseball. Rating of 0."
+  },
+  "personality": {
+    "leadership_style": "QUIET PROFESSIONAL. Williams was not a rah-rah leader or a fiery competitor. He was an architect — a man who designed structures, understood blueprints, and approached hitting with the same analytical precision. He played 19 seasons under 14 different managers without complaint. He endured last-place Phillies teams for over a decade without requesting a trade. The leadership was ENDURANCE — showing up every day, hitting home runs into the shift, and going home to design buildings.",
+    "temperament": "CEREBRAL AND SELF-CONTAINED. Williams was a Notre Dame-educated architect who played football with Knute Rockne, turned down the Olympics, and designed buildings in his spare time. He was not a Prohibition-era hell-raiser like Wilson or a caustic truth-teller like Hornsby. He was a thinking man who happened to hit baseballs extremely far. The temperament was PROFESSIONAL — controlled, intelligent, and quietly persistent.",
+    "work_ethic": "DUAL-CAREER EXCELLENCE. Williams maintained two careers simultaneously — professional baseball player and architect. He bought a 440-acre dairy farm in Wisconsin during his playing career. He studied architecture at Notre Dame and practiced it after retirement. The work ethic was ARCHITECTURAL — build something, maintain it, improve it over time. His batting average increased every year from 1918 onward. He was still hitting 30 HR at age 39.",
+    "lifestyle": "RENAISSANCE MAN. Architecture degree from Notre Dame. Olympic-caliber hurdler/broad jumper. Football teammate of Knute Rockne. Professional baseball player for 19 seasons. Dairy farmer (440 acres). Architect and construction company founder. Painter (right-handed despite being a lefty athlete). Hunted and fished with Ted Williams. Married Vada for 65 years. Four children. Died at 86. This is the most complete LIFE in the Bashers — the man who did everything and lived longest.",
+    "era_adaptability": "HIGH. Williams' dead-pull power would generate enormous attention in modern baseball. He'd be the PROTOTYPE for the modern shift debate — the player around whom the entire strategy revolves. His 41 HR tying Ruth in 1923 suggests elite power that would translate to 40+ HR in modern contexts. The shift would reduce his BA further, but launch-angle analytics might help him adjust. He'd be a .250 hitter with 45 HR — a classic modern power hitter.",
+    "clubhouse_impact": "NEUTRAL POSITIVE. Williams was not a clubhouse force in either direction. He was professional, reliable, and quiet. He didn't elevate teammates through charisma (Bottomley) or intimidation (Hornsby). He simply produced. In ILB, Williams provides +0 to team morale and +1 to team offensive consistency. The architect doesn't inspire the building. He just makes sure it stands.",
+    "tragic_element": "NOT TRAGIC — INVISIBLE. Cy Williams' tragedy is not death or decline but OBSCURITY. He tied Babe Ruth for the ML HR lead in 1923. He was the first NL player to 200 career HR. He invented the shift. He played 19 seasons. He hit 30 HR at 39. And he is essentially forgotten — not in the HOF, not remembered by casual fans, not part of baseball's popular narrative. The architect designed something beautiful and nobody put his name on it. The shift was renamed for Ted Williams. The HR records were broken by Hornsby. The Phillies never won. The blueprint survives. The architect does not."
+  },
+  "chemistry_traits": [
+    {
+      "tag": "The Original Shift",
+      "desc": "NL managers invented the defensive shift to stop Cy Williams — decades before Ted Williams. In ILB, when the shift is deployed against Williams, he loses -1 CON but gains +1 POW (he swings harder into the shift, accepting lower average for more HR). The shift is his creation. He owns it."
+    },
+    {
+      "tag": "The Architect",
+      "desc": "Notre Dame architecture degree. Designed buildings, a theatre, a resort community. In ILB, Williams provides +1 to TEAM CONSTRUCTION — when building a roster around Williams, surrounding players fit together more efficiently. The architect sees how pieces connect."
+    },
+    {
+      "tag": "Olympic Refusal",
+      "desc": "Turned down the 1912 Stockholm Olympics (hurdling/broad jump) to play baseball. In ILB, Williams has a permanent hidden SPD modifier — his athletic base is Olympic-caliber even when the visible SPD rating doesn't show it. The raw athleticism is always there."
+    },
+    {
+      "tag": "Tinker, Evers, and Chance",
+      "desc": "Williams played under all three — separately — as Cubs managers. 14 different managers in 14 seasons. In ILB, Williams is IMMUNE to manager changes. His production does not fluctuate with coaching changes. The architect doesn't need a foreman."
+    },
+    {
+      "tag": "Baker Bowl",
+      "desc": "Baker Bowl's RF fence was 280 feet. Perfect for a dead-pull lefty. In ILB, Williams has +2 POW in small parks but -1 POW in large parks. The architecture of the stadium matters. But Lederer's study proved he'd be great anywhere."
+    },
+    {
+      "tag": "Ruth's Equal (1923)",
+      "desc": "41 HR — tied Babe Ruth for the major league lead. Nobody noticed because Williams played for the last-place Phillies. In ILB, when Williams's HR total matches or exceeds the set's highest-OVR slugger, he receives +0 recognition. The blueprint is invisible."
+    },
+    {
+      "tag": "The Longest Life",
+      "desc": "Died at 86 — the longest-lived Basher. Married 65 years. Architect, farmer, painter, builder. In ILB, Williams has the highest post-career contentment of any non-Bottomley card. The man who lived quietly and fully. The happiest architect."
+    },
+    {
+      "tag": "Two Williams, One Shift",
+      "desc": "Cy Williams and Ted Williams: both lefty sluggers, both shifted against, both hunted and fished together in Wisconsin. In ILB, the original and the successor are linked across eras. The blueprint Cy drew, Ted inherited."
+    }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Community Events",
+      "affinity": "MAXIMUM / HOME",
+      "note": "280 feet to right field. The shortest fence in baseball. The architect's perfect canvas. 217 HR in 13 seasons.",
+      "note_extra": "Source label: 'Baker Bowl, Philadelphia.' Mapped to Community Events (ballpark/franchise home venue). Affinity MAXIMUM / HOME is the compound established in Uhle (Batch 36) and used again for Vance's Ebbets Field (Batch 36). Here MAXIMUM encodes peak power performance context (the 280-foot RF fence as performance amplifier) while HOME encodes franchise identity (13 seasons, 217 HR). Cross-field expression: Baker Bowl chemistry trait (+2 POW in small parks) and stat_justification/pow ('not inflated by Baker Bowl alone — Lederer study') together document the mechanical and historical tension of this location."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "IDENTITY",
+      "note": "Williams was an architect first and a baseball player second — or maybe simultaneously. The precision of design and the precision of the swing were the same skill.",
+      "note_extra": "Source label: 'The Drafting Table.' Mapped to Practice Field (craft/skill expression domain — the drafting table is the workspace of Williams's architectural career, a site of craft precision that mirrors the batting craft on the mound side of Practice Field). This is the first non-baseball craft mapped to Practice Field in the set: prior Practice Field entries have been pitcher's mounds, batter's boxes, and defensive positions. The IDENTITY affinity (established in Roush Batch 35, used for Vance Batch 36) encodes the convergence of professional identity across two simultaneous careers. Cross-field expression: The Architect chemistry trait (+1 team construction) and work_ethic personality key ('the work ethic was ARCHITECTURAL') express the mechanical and narrative content of this location."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HOME / RETIREMENT",
+      "note": "440-acre dairy farm. Williams Construction Company. 3 Lakes Theatre. Cy Williams Park. Hunting with Ted Williams. 65 years married. The longest, fullest life.",
+      "note_extra": "Source label: 'Three Lakes, Wisconsin.' Mapped to Community Events (post-career rural venue — farm, construction company, theatre, park; consistent with prior ranch/farm/post-career venue mappings). Affinity HOME / RETIREMENT is a compound combining HOME (standalone abstract per taxonomy) with RETIREMENT (new modifier not previously documented in the set). First appearance of RETIREMENT as a compound component. HOME encodes total belonging (died here, buried nearby, park named here); RETIREMENT encodes the temporal dimension (this is the post-career phase location specifically). Cross-field expression: The Longest Life chemistry trait and The Architect's Retirement action seed are the narrative expressions of this location's full-life scope."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "CONTEXT",
+      "note": "The Phillies finished last or near-last for most of Williams's tenure. 41 HR on a 50-104 team. The architect built in a wasteland.",
+      "note_extra": "Source label: 'Last Place.' Mapped to Community Events (franchise institutional context — 'Last Place' is not a geographic location but the persistent competitive condition of the Phillies franchise within which all of Williams's home games occurred; Community Events is the closest canonical domain as the public-facing franchise/ballpark category). Affinity CONTEXT is a new addition to the affinity taxonomy not previously documented in the set. First appearance of CONTEXT as a standalone affinity. CONTEXT encodes a structural condition rather than a geographic or psychological location — it is the ambient frame in which Williams's achievements occurred, neither a site he seeks nor avoids but one he permanently inhabits. Distinct from NONE (total absence), LOW (avoidance), and TRAGIC (bifurcated valence). Cross-field expression: CLU 0 and clu stat_justification ('structural absence of meaningful October baseball') are the direct mechanical encodings of this CONTEXT affinity. The tragic_element personality key names the CONTEXT as the source of Williams's invisibility."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "Baker Bowl — the short RF fence was Williams's launch pad. Home splits were consistently superior to road splits.",
+      "Against right-handed pitching — as a lefty hitter, Williams crushed RHP throughout his career.",
+      "Aging power — Williams hit 30 HR at age 39 and hit for the cycle the same year. The power aged better than any other tool.",
+      "Season-long consistency — Williams raised his career BA every year from 1918 onward. Slow burns, not hot streaks."
+    ],
+    "cold_triggers": [
+      "The shift — when employed effectively, the shift reduced Williams's batting average. He traded contact for power willingly but the average suffered.",
+      "Large parks — away from Baker Bowl's short fence, Williams's HR totals dropped. The architecture mattered.",
+      "October absence — Williams never played meaningful October baseball with the Phillies. No postseason pressure to respond to.",
+      "Weak arm — the throwing limitation occasionally cost him in critical defensive situations."
+    ],
+    "pressure_response": "UNKNOWN. Williams never experienced meaningful postseason pressure with the Phillies. His only WS appearance (1924 Giants, pinch-hit role) was 0-for-2. CLU = 0 reflects this absence rather than a personal failing. The architect never got to build in October."
+  },
+  "action_card_seeds": [
+    {
+      "title": "Forty-One",
+      "type": "Achievement / Invisibility",
+      "text": "1923. Your center fielder hits 41 home runs. This ties Babe Ruth for the major league lead. He leads the NL runner-up by 19 home runs — the largest margin of any NL HR leader in the decade. He drives in 114 runs. He slugs .552. The Phillies finish 50-104. Last place. The worst team in the National League. Nobody notices that your center fielder has tied the most famous hitter in the history of the game. The blueprint is perfect. The building is condemned.",
+      "origin": "Williams's 41 HR in 1923, tying Ruth, on the last-place Phillies (50-104)."
+    },
+    {
+      "title": "The First Shift",
+      "type": "Innovation / Legacy",
+      "text": "Your center fielder is a dead-pull left-handed hitter. He rarely hits the ball to left field. National League managers notice. They move the second baseman to shallow right field. They push the outfielders toward the right-field foul line. They stack the right side. It is the first time in baseball history that a defensive alignment has been designed specifically to stop one hitter. It will later be called the 'Williams Shift' — but not for your center fielder. For another Williams, decades later, who faced the same strategy. Your center fielder drew the blueprint. Someone else got the nameplate.",
+      "origin": "The defensive shift was first employed against Cy Williams in the 1920s. Later known as the 'Ted Williams Shift.'"
+    },
+    {
+      "title": "The Olympics or the Bat",
+      "type": "Origin / Choice",
+      "text": "1912. Your center fielder graduates from the University of Notre Dame with a degree in architecture. He has played football with Knute Rockne. He is offered a spot on the United States Olympic team — hurdler and broad jumper — for the Stockholm Games. He declines. He chooses baseball. He goes directly to the Chicago Cubs without playing a single minor league game. He plays under Tinker. Then Evers. Then Chance. Fourteen different managers in fourteen seasons. He ties Babe Ruth. He hits 251 home runs. He designs a theatre in Three Lakes, Wisconsin. He made the right choice. Both times.",
+      "origin": "Williams turned down the 1912 Olympics. Notre Dame with Rockne. Played under Tinker, Evers, and Chance."
+    },
+    {
+      "title": "The Architect's Retirement",
+      "type": "Legacy / Fulfillment",
+      "text": "After nineteen seasons, your center fielder retires. He does not open a pool hall. He does not tend bar. He does not sing for drinks. He returns to his 440-acre dairy farm in Three Lakes, Wisconsin. He opens the Williams Construction Company. He designs buildings — homes, resorts, a theatre. He paints landscapes right-handed (though he bats left). He hunts and fishes with another Williams — Ted, who also hits from the left side and will also have a shift named for him. He is married to Vada for sixty-five years. He has four children. A park is named for him. He dies at eighty-six. The longest life in the Bashers. The quietest ending. The happiest blueprint.",
+      "origin": "Williams's post-career — architect, farmer, builder, painter. Married 65 years. Died at 86."
+    }
+  ],
+  "art_direction": {
+    "face": "6'2\" 180 lbs — tall, lean, ANGULAR. An architect's face: precise features, observant eyes, a face that measures and designs before it acts. Not flashy. Not dark. Not sunny. THOUGHTFUL. This is the face of a man who designs buildings and home runs with the same part of his brain. Clean-shaven, strong jaw, steady gaze. The expression is QUIET CONFIDENCE — not Hornsby's cold supremacy, not Wilson's explosiveness, but the calm certainty of a man who has calculated the trajectory and knows where the ball will land.",
+    "attire": "Philadelphia Phillies 1923 home whites. LEFT-HANDED batting stance — open, pulling everything to right field. The stance should look DELIBERATE — not wild like Wilson's barrel explosion, but ENGINEERED. Every angle calculated. The bat path is a line drawn on a blueprint. Baker Bowl should be suggested in the background — the short right-field fence, the canvas where the architect painted.",
+    "mood": "CLEAN AND PRECISE. This card is neither dark nor light — it is CLEAR. The clarity of a blueprint. The precision of a drafted line. No excess emotion. No shadow play. No fireworks. Just the clean geometry of a home run hit exactly where it was designed to land. The mood is PROFESSIONAL — the satisfaction of good work done well.",
+    "style": "Full color — Bashers era — CLEAN LINES AND WARM NEUTRALS. Phillies red (muted, not bright), cream, drafting-table tan, blueprint blue (faint). This is not a flashy card — it is a WELL-DESIGNED card. The border should be BLUEPRINT BLUE — the faded blue of architectural drawings, the color of precision and planning. THE ARCHITECT — the card that was designed before it was built. The most DESIGNED object in the Bashers constellation. Not the brightest. Not the darkest. The most INTENTIONAL.",
+    "reference": "Ruth is the solar system. Hornsby is the blade. Wilson is the barrel. Cy Williams is THE BLUEPRINT — the design that precedes the structure, the plan that nobody credits, the architecture of power hitting that everyone uses and nobody attributes. He is the invisible foundation. The card you don't notice until you realize the entire building is standing on it."
+  }
+}

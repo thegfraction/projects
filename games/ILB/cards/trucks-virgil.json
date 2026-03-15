@@ -1,0 +1,207 @@
+{
+  "card_type": "player",
+  "name": "Virgil Trucks",
+  "nickname": "Fire",
+  "year": 1949,
+  "team": "Detroit Tigers",
+  "league": "American League",
+  "era": "1940s",
+  "ilb_team": "Allies AL1940",
+  "position": "SP",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'11\"",
+  "weight": "198 lbs",
+  "born": "April 26, 1917 — Birmingham, AL",
+  "died": "March 23, 2013 — Calera, AL",
+  "hof": "Not inducted (Alabama Sports HOF 1974; Michigan Sports HOF 1985)",
+
+  "real_stats": {
+    "season": 1949,
+    "wins": 19,
+    "losses": 11,
+    "era": 2.81,
+    "innings_pitched": 275.0,
+    "strikeouts": 153,
+    "walks": 82,
+    "complete_games": 19,
+    "shutouts": 6,
+    "whip": 1.21,
+    "war": 6.9,
+    "all_star": 2,
+    "awards": "Led AL in strikeouts (153) and shutouts (6) in 1949; first All-Star selection",
+    "career": {
+      "wins": 177,
+      "losses": 135,
+      "era": 3.39,
+      "innings_pitched": 2682.2,
+      "strikeouts": 1534,
+      "shutouts": 33,
+      "complete_games": 124,
+      "whip": 1.306,
+      "war": 40.4,
+      "world_series": "1 ring (Detroit Tigers, 1945)",
+      "notes": "Two no-hitters in 1952 (both 1-0: vs. Washington May 15, vs. Yankees Aug. 25), despite 5-19 record — third pitcher ever to throw two no-hitters in one season. Four minor-league no-hitters. Set minor-league K record: 418 in 1938. Best three seasons at ages 36-38 (52 wins 1953-55). Fastball reportedly clocked at 105 mph. Only pitcher with more WS wins than regular-season wins in same year (1945: 1 WS win, 0 regular-season decisions). Led AL in fielding percentage by a pitcher four times."
+    }
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "stf": 5,
+    "ctl": 2,
+    "sta": 2,
+    "def": 2,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "stf": "Fastball reportedly clocked at 105 mph in his prime. Led the AL in strikeouts in 1949 (153). Set a professional baseball record with 418 strikeouts in a single minor-league season (1938 — stood for eight years). Threw four no-hitters in the minors and two in the majors. STF 5 places Trucks alongside Mathewson and Newhouser at the top of the stuff scale; the triple-digit fastball, the minor-league K record, and the sustained ability to dominate with pure velocity justify this tier.",
+    "ctl": "Career WHIP 1.306; K-to-walk ratio 1.41. In 1949: approximately 82 walks in 275 IP. Trucks was a power pitcher who relied on the fastball rather than painting corners — he ran counts deep and challenged hitters. The two 1952 no-hitters each included multiple walks. CTL 2 reflects above-average but not elite command for a pitcher of his caliber.",
+    "sta": "1949: 275 IP, 19 CG in 36 GS. Three-season average 1949-51 around 220+ IP. Best seasons at ages 36-38 (still pitching 200+ innings). Solid durability without the iron-man volume of the STA 3 tier (McGinnity/Cooper).",
+    "def": "Led the AL in fielding percentage by a pitcher four times (1943, 1948, 1954, 1955). Made a putout himself during his second 1952 no-hitter. First pitcher in the set to earn DEF 2 — prior pitchers held DEF 0 or 1. His defensive excellence was a documented and recurring statistical leader, not merely incidental.",
+    "clu": "1945 World Series Game 2: returned from Navy with under two weeks' notice, pitched a complete game four-hitter, won 4-1. The only pitcher in MLB history with more World Series wins than regular-season decisions in the same year (1 WS win, 0 regular-season decisions). The extraordinary context — combat service, Navy discharge, ten days to prepare, World Series start — elevates this single performance to WS hero status. CLU 2 is the formula result; the biographical weight warrants it fully."
+  },
+
+  "personality": {
+    "leadership_style": "Lead from the mound and leave. Trucks was not a clubhouse orator. He was the fourth of 13 children in a Birmingham working-class family, a man who worked the steel mill and the railroad in the offseason for $3,500 a year and never complained. His leadership was the complete game, the shutout, the pitch thrown at 105 mph to a man who knew it was coming and couldn't touch it.",
+    "temperament": "Hard, fair, competitive to the point of argumentativeness. When official scorer Drebinger first ruled a Rizzuto grounder a hit during the second 1952 no-hitter, Trucks 'came close to being tossed from the game' arguing the call. He didn't accept injustice quietly — but the injustice had to be concrete. Borderline pitch calls didn't rattle him. A scorer's retroactive ruling on a play that could steal his no-hitter: that rattled him.",
+    "work_ethic": "Relentless across five decades of professional baseball. His best three seasons came at ages 36-38. After his playing days he coached, ran baseball camps, scouted, and worked as a roving instructor until 1974 when he was 57 years old. He was admitted to a hospital at 95 from which he didn't return. He got a Detroit Tigers tattoo at 16.",
+    "lifestyle": "Alabama working-class all the way. Birmingham born, Birmingham buried. Steel mill worker, railroad switchman, barnstorming exhibition player in the offseason to supplement the salary. Married four times. Returned to Calera, Alabama after baseball and stayed there. Buried at the Alabama National Cemetery in Montevallo.",
+    "era_adaptability": "MODERATE-HIGH. The fastball is timeless — 105 mph plays in any era. The control issues (career WHIP 1.306) would be more punishing in modern analytics environments. But any organization in any decade would make room for a right-hander who throws triple digits.",
+    "clubhouse_impact": "Quiet, respected, eventually accepted. As a rookie in 1942, the older Tigers staff teased rookies and 'some of the players didn't like Southern ballplayers — they stayed away from us.' Trucks navigated those unwritten rules through performance, not personality. By 1949 he was the ace of the staff and the team's All-Star.",
+    "dark_side": "The 1952 season is the dark side and the legend simultaneously. Trucks went 5-19 on a Tigers team that lost 104 games — the worst record in franchise history. He threw two no-hitters that season, both 1-0, and lost 19 other games largely due to run support that averaged under one run per start in his losses. The greatness was real. The record was a historical artifact of being the best pitcher on the worst team. He was eventually sent to the bullpen after his 19th loss specifically to prevent him from setting a 20-loss record. The injustice of that season — extraordinary performance, historically bad outcome — is the wound that the no-hitters both salved and documented."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Fire",
+      "desc": "Once per game, Trucks may throw a pure fastball that bypasses the opponent's contact rating entirely — direct STF vs. CON check."
+    },
+    {
+      "tag": "Run Support Curse",
+      "desc": "On teams with below-average offense, Trucks' win total is capped regardless of ERA. The 1952 mechanic is permanent."
+    },
+    {
+      "tag": "No-Hit Mode",
+      "desc": "If Trucks allows 0 hits through 6 innings, all subsequent at-bats in the game are rolled at -2 CON for the opponent."
+    },
+    {
+      "tag": "Alabama Roots",
+      "desc": "Bonus chemistry with players from the Deep South. Specific +1 CLU when pitching in his home park."
+    },
+    {
+      "tag": "Iron After Forty",
+      "desc": "OVR does not degrade until age 38 — three seasons later than normal aging curve."
+    },
+    {
+      "tag": "Allman Brothers Connection",
+      "desc": "Cultural legacy: once per season, a morale event can be triggered by invoking Trucks' family music connection — team gains +1 chemistry."
+    },
+    {
+      "tag": "Mound Guardian",
+      "desc": "DEF 2 pitcher: converts one additional fielding play per game that normal pitchers would miss."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "The mound as the only place where a 105 mph fastball makes complete sense. 'Fire' is the identity, not the nickname.",
+      "note_extra": "Source labeled 'Mound / Bullpen / Practice Field' / affinity 'HIGH' — ninth Practice Field/HIGH in the set. Prior pitchers at HIGH: Mathewson (mound precision), McGinnity (iron-man volume), Phillippe (control), Plank (17-year office), Cooper (game-theory pitch placement). Trucks' Practice Field/HIGH is the first grounded purely in raw velocity as identity — the 105 mph fastball was not a learned craft (as Mathewson's curveball) or a tactical system (as Cooper's pitch placement) but a physical fact that organized his entire career. The 418 minor-league K record, the four minor-league no-hitters, and the Alabama Almanac nickname origin ('Fire' = velocity, not temperament) document this. The chemistry_trait 'Fire' (bypasses contact rating) is the mechanical expression of this Practice Field/HIGH."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Birmingham, Alabama. Rickwood Field. The sandlots where he watched both the Barons and the Black Barons. Company-store baseball. Father who could have played but stayed home for the family.",
+      "note_extra": "Source labeled 'Hometown / Birmingham Sandlots' / affinity 'ORIGIN' — third ORIGIN in the set as a standalone affinity, after Cooper/Atherton MO (this batch) and Rice/Batch 33 ORIGIN/WOUND compound. Trucks' ORIGIN is the most fully documented of the three: Birmingham is where he was born, where his father played company-store baseball for Tennessee Coal and Iron, where he snuck into Rickwood Field to watch both the white Barons and the Black Barons of the Negro Leagues, where he worked the steel mill and railroad in the offseason, and where he was buried 95 years after his birth. The SABR BioProject documents the Rickwood Field visits (both leagues) as foundational — Trucks grew up watching integrated baseball through the fence before it was integrated in the majors. This ORIGIN has particular significance for the Cooper/Satchel Paige cross-card context: a white Alabama pitcher who grew up watching the Black Barons at Rickwood Field formed a genuine friendship with Satchel Paige in 1953. The personality.lifestyle field ('Alabama working-class all the way') and the 16-year-old Detroit Tigers tattoo are the biographical expressions of this ORIGIN."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Functional team presence. The Southerner who earned his place through the complete game, not conversation.",
+      "note_extra": "Source labeled 'Clubhouse / Team' / affinity 'MEDIUM' — first Hotel/Rest/MEDIUM in the set for a pitcher. Prior pitcher Hotel/Rest entries: Cooper HIGH (dynasty clubhouse) and Cooper HIGH (bar/nightlife excess). Trucks' MEDIUM reflects a player who navigated a specific documented social barrier (older Tigers players avoiding Southern rookies) and found acceptance through performance rather than personality. The SABR BioProject source: 'Trucks' will to succeed and ability to navigate through unwritten rules of baseball etiquette helped ease his transition to the major leagues.' MEDIUM is the accurate affinity — he was respected and eventually valued, but the clubhouse was never his domain. The chemistry_trait 'Alabama Roots' (bonus with Deep South players) documents the specific community within the broader team."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "VOLATILE",
+      "note": "The 1952 paradox: 5-19 record, two no-hitters. The official scorer controversy. The spotlight found Trucks in the strangest possible way.",
+      "note_extra": "Source labeled 'Media / Public Recognition' / affinity 'VOLATILE' — FIRST VOLATILE affinity in the set. VOLATILE is listed in the Extended affinity taxonomy but has not previously appeared. The VOLATILE affinity encodes a player whose relationship with the public spotlight is fundamentally unpredictable — neither consistently HIGH nor consistently LOW, but capable of extreme swings based on game events. For Trucks, the evidence is structural: his two most famous career moments (the 1952 no-hitters) happened in his worst season (5-19). The official scorer Drebinger controversy during the second no-hitter — ruling a Rizzuto grounder a hit, then changing it to an error in the 7th inning after being lobbied by press-box colleagues, while Trucks 'came close to being tossed from the game' — is the paradigmatic VOLATILE moment: public recognition that nearly disappeared through an administrative reversal before being restored. The Media/Spotlight domain is where Trucks existed paradoxically: the worst record on the worst team, producing the season's most memorable individual performances. The chemistry_trait 'Run Support Curse' and the action card seed '5-19 with Two No-Hitters' are the cross-field mechanical expressions."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "The Satchel Paige friendship (1953). Post-career baseball camps. The Alabama community he returned to and never left.",
+      "note_extra": "Source labeled 'Community / Post-Career Service' / affinity 'HIGH' — fifth Community Events/HIGH in the set. Prior registers: homeland-origin (Phillippe, Overall, Plank), civic-identity (O'Doul), formal-philanthropy (Puckett), named-institution (Rizzuto), sustained-teaching (Holmes), integration-moment (Gordon), and now working-class-community-rootedness (Trucks). Trucks' Community Events/HIGH is the first in the set grounded in deep-roots return — leaving professional baseball and going back to the exact community he came from, running baseball camps for Pittsburgh, scouting the region, and retiring in Calera, Alabama. The Satchel Paige friendship (1953 White Sox) is documented in the Grokipedia source as a cross-racial community connection that began at Comiskey Park and drew on Trucks' Birmingham background — he had watched the Black Barons play at Rickwood Field as a child. The post-career coaching and scouting work extended until 1974. Trucks died in Alabama at 95 and is buried at the Alabama National Cemetery. The ORIGIN affinity encodes where he came from; the Community Events/HIGH encodes where he chose to return."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Perfect game or no-hit bid in progress — No-Hit Mode trait activates after 6 hitless innings.",
+      "Big offensive crowd against a hated opponent — 'I still think a lot of those New York fans were die-hard Giant and Dodger supporters' — the anti-Yankees energy in his second no-hitter.",
+      "Official scorer controversy resolved in his favor — validated anger sharpens focus.",
+      "Deep-South home environment — Alabama Roots trait activates."
+    ],
+    "cold_triggers": [
+      "Run support below 1 run per start — Run Support Curse activates; wins impossible regardless of ERA.",
+      "Official scorer ruling against him in a no-hit bid — argued it, nearly ejected, the injustice lingers.",
+      "Being moved to the bullpen to avoid a record loss — the 1952 demotion is a permanent wound.",
+      "Post-age-38 performance drop — Iron After Forty only delays the curve."
+    ],
+    "pressure_response": "Paradoxical. Trucks performs best when his team is worst. The 1952 season — the historically terrible Tigers, the lowest run support in the AL — produced his two most perfect performances. This is not coincidence but character: Trucks pitched harder when there was nothing else to depend on. His postseason record (1945 WS Game 2, discharged from the Navy ten days prior, complete game four-hitter) confirms it. He rose to moments of extreme isolation. He struggled in mundane, supported, expected-to-win environments."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "5-19 with Two No-Hitters",
+      "type": "Drama",
+      "text": "A pitcher throws two no-hitters in a single season. His team loses 104 games around him. His record: 5-19. The no-hitters appear in the history books. The record appears in parentheses. Roll: if his ERA is under 3.00 despite the record, he receives a permanent Legacy tag.",
+      "origin": "Virgil Trucks, 1952. The only pitcher to throw two no-hitters in a season with a losing record. Both were 1-0; the Tigers averaged under one run per start in his losses. He was eventually moved to the bullpen after his 19th loss to prevent a 20-loss season."
+    },
+    {
+      "title": "The Official Scorer Changes His Mind",
+      "type": "Game Action",
+      "text": "In the 7th inning of a potential no-hitter, the official scorer reverses a 3rd-inning ruling from hit to error. The pitcher erupts — nearly ejected. The no-hitter is preserved. The pitcher gains +2 STF for the remainder of the game from pure anger.",
+      "origin": "During Trucks' second 1952 no-hitter against the Yankees, official scorer John Drebinger of the New York Times first ruled a Phil Rizzuto grounder a hit, then changed it to an error in the 7th inning after consulting with the press box. Trucks 'came close to being tossed from the game' arguing the original call."
+    },
+    {
+      "title": "Discharged with Two Weeks to Go",
+      "type": "Drama",
+      "text": "A pitcher returns from wartime service with under two weeks before the postseason. He makes zero regular-season appearances. He starts Game 2 of the World Series. Roll: on a (4-6) he wins a complete game. He is the only pitcher in the set with more postseason wins than regular-season decisions that year.",
+      "origin": "Trucks was discharged from the Navy in late September 1945 — less than two weeks before the World Series. He made one meaningless late-season appearance and then started Game 2 against the Cubs, winning 4-1 on a complete game four-hitter. Final 1945 line: 0 regular-season decisions, 1 World Series win."
+    },
+    {
+      "title": "418",
+      "type": "Action",
+      "text": "A minor-league pitcher strikes out a record number of batters in a single season. The number is not believed until it is counted again. Teams bid for his contract immediately. His eventual MLB signing bonus: $100.",
+      "origin": "Trucks' 1938 season with Andalusia of the Alabama-Florida League: 418 strikeouts (later sources cite 420), a professional baseball record that stood for eight years. Andalusia sold his contract to Detroit for $10,000 — under the condition that he finish the season with them first, because they needed the cash for new stadium lights."
+    },
+    {
+      "title": "Sent to the Bullpen to Lose Less",
+      "type": "Drama",
+      "text": "After a pitcher's 19th loss, management removes him from the rotation — not for performance, but to prevent a historically embarrassing 20th loss. He pitches in mop-up roles for the rest of the season. Team chemistry drops -1 from the humiliation.",
+      "origin": "After Trucks' 19th loss in 1952, the Tigers moved him to the bullpen for assignments in games already decided, specifically to avoid him becoming a 20-game loser. He had a 2.81 ERA; the team scored under one run per game in most of his losses."
+    },
+    {
+      "title": "Barnstorming with Feller",
+      "type": "Action",
+      "text": "During the offseason, your pitcher joins a barnstorming exhibition tour with an All-Star rival. He earns $2,000-$3,000 — double a month's baseball salary. He also picks up one new pitch from the rival that provides +1 STF permanently.",
+      "origin": "Trucks joined Bob Feller's and Harry Walker's barnstorming tours in the offseasons of the late 1940s to supplement his $3,500-$10,000 baseball salary. Working the Birmingham steel mill and Alabama railroad wasn't enough; the tours provided a meaningful income boost during an era before players' associations."
+    },
+    {
+      "title": "Fire Truck",
+      "type": "Game Action",
+      "text": "A pitcher's fastball is clocked at triple digits. The opposing team's entire lineup loses -1 CON for the game. If the pitcher also has DEF 2 or higher: he fields his position himself on the first ball hit back to the mound, recording the out unassisted.",
+      "origin": "Trucks' fastball was reportedly clocked at up to 105 mph. His nickname 'Fire' was given specifically for velocity. During his second 1952 no-hitter, he made four putouts himself — a no-hit game record for a pitcher."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Burly, square-jawed, Southern. 5'11\", 198 lbs. The face of a man who grew up working the steel mill and throwing 100 mph before anyone figured out how to clock it. Birmingham hard.",
+    "attire": "Detroit Tigers home whites, the Old English D. Late 1940s cap style. Right-handed delivery mid-release — arm fully extended at the top of the stride, the body behind the fastball.",
+    "mood": "Pure intent. Not rage, not joy — the locked-in focus of a man who knows the ball is about to arrive faster than the batter can process it. The look before the strikeout.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Briggs Stadium outfield fence barely visible in the background. Late afternoon light on a Detroit summer evening.",
+    "reference": "The 1949 All-Star ace — the peak before the paradox year. The fire before it had to carry a 5-19 record alone."
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "card_type": "player",
+  "name": "Mort Cooper",
+  "nickname": "Mort",
+  "year": 1942,
+  "team": "St. Louis Cardinals",
+  "league": "National League",
+  "era": "1940s",
+  "ilb_team": "Allies NL1940",
+  "position": "SP",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'2\"",
+  "weight": "210 lbs",
+  "born": "March 2, 1913 — Atherton, MO",
+  "died": "November 17, 1958 — Little Rock, AR",
+  "hof": "Not inducted (Cardinals HOF, Class of 2019)",
+
+  "real_stats": {
+    "season": 1942,
+    "wins": 22,
+    "losses": 7,
+    "era": 1.78,
+    "innings_pitched": 278.2,
+    "strikeouts": 152,
+    "walks": 68,
+    "complete_games": 22,
+    "shutouts": 10,
+    "hits_allowed": 207,
+    "home_runs_allowed": 9,
+    "whip": 1.00,
+    "war": 8.2,
+    "awards": "NL MVP 1942; 3x All-Star (1942, 1943, 1946)",
+    "career": {
+      "wins": 128,
+      "losses": 75,
+      "era": 2.97,
+      "innings_pitched": 1840.2,
+      "strikeouts": 913,
+      "shutouts": 33,
+      "whip": 1.215,
+      "war": 32.7,
+      "world_series": "2 rings (1942, 1944)",
+      "notes": "Three consecutive 20-win seasons (1942–44): 22-7, 21-8, 22-7. Led NL in wins 1942 and 1943; ERA title 1942; shutout leader 1942 (10) and 1944 (7). Consecutive one-hitters May 31 and June 4, 1943. Pitched 16 innings in final start of 1944 regular season. Three elbow surgeries."
+    }
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "stf": 4,
+    "ctl": 3,
+    "sta": 3,
+    "def": 1,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "stf": "Fastball, forkball, screwball, curveball arsenal. 152 K in 278.2 IP in 1942 — elite strikeout volume for the era. Musial: 'He had a very good fastball and good fork ball.' The 1944 WS Game 5 umpire John Sears called it the greatest pitching duel he'd witnessed in 35 years — 'Cooper had perfect control of his assortment: a forkball, a screwball and a fastball.' STF 4 places him below the all-time stuff tier (Mathewson/Newhouser at 5) but firmly among the elite movement pitchers of the 1940s.",
+    "ctl": "Musial: 'He didn't walk anybody. It was a pleasure to play behind him because he knew where he was going to pitch the hitters and you could play them accordingly, confident of Cooper's control.' Career WHIP 1.215; 1942 WHIP approximately 1.00. Consecutive one-hitters in 1943. Nine HR allowed in 278.2 IP in 1942. CTL 3 reflects strong above-average command without the historic walk-suppression of CTL 4 pitchers.",
+    "sta": "Three consecutive seasons of 250+ IP and 22–24 CG: 278.2 IP/22 CG (1942), 274 IP/24 CG (1943), 252.1 IP/22 CG (1944). Pitched through bone chips while chewing aspirin by the dozen on the mound. Pitched 16 innings in a single game at end of 1944. STA 3 is the maximum in the schema; Cooper's durability under documented physical pain defines this tier for the 1940s.",
+    "def": "No specific elite fielding reputation documented. Serviceable pitcher who fielded his position adequately. DEF 1 = solid, non-notable.",
+    "clu": "First pitcher in the set to earn CLU 3. Three anchoring moments: (1) 1943 WS Game 2 — pitched a complete game six-hitter the day his father died, Cardinals won 4–3; (2) 1944 WS Game 5 — shutout with 12 K, called greatest pitching duel in 35 years; (3) the pattern of performing best in elimination stakes across three consecutive World Series. The 1943 performance — grief suppressed for an entire game in Yankee Stadium — is among the most extraordinary clutch performances in WS history."
+  },
+
+  "personality": {
+    "leadership_style": "Silent ace. Cooper didn't lead with speeches or presence — he led with the fact that the Cardinals knew exactly where the ball was going on every pitch. Stan Musial described the effect: you could position the defense with confidence because Cooper was that deliberate. The arm was the leadership.",
+    "temperament": "Simple, fun-loving, and constitutionally ill-equipped for the complications his talent created. Bob Broeg described him as 'a great pitcher and pathetic figure, a simple fun-loving man for whom life became all too complicated and all too short.' Big, burly, Missouri farm country. Not a talker. A doer — until the doing stopped.",
+    "work_ethic": "Absolute. Chewed aspirin by the dozen to numb bone chip pain and took the mound anyway. Pitched 16 innings in a single regular-season game. Three elbow surgeries, came back from each. The arm could not outlast the willingness.",
+    "lifestyle": "Excess. After his Cardinals years, Cooper drank heavily, wasted his earnings, and reportedly resorted to petty crime. Died at 45 of cirrhosis in a Little Rock hospital. The same man who pitched through indescribable arm pain with clinical focus could not manage the machinery of everyday life once the purpose was gone.",
+    "era_adaptability": "LOW. Cooper is deeply specific to his era, his team, and his brother. The Walker battery — the nonverbal communication between pitcher and catcher that had existed since childhood — was not a system that could be replicated elsewhere. After the Cardinals trade, he never found that again.",
+    "clubhouse_impact": "Anchored the greatest NL dynasty of the early 1940s. Three consecutive pennants, two World Series. The Cardinals clubhouse (Musial, Slaughter, Marion, Kurowski, Walker Cooper) was arguably the best team of the wartime era — and Mort was its starter.",
+    "dark_side": "The betrayal by Sam Breadon — told there was a Wage Stabilization ceiling, then discovering Marion had been given an exception — ignited the holdout that ended his Cardinals career. Traded for Red Barrett and $60,000. Barrett went 23–12 that season for the Cardinals. Cooper, with his elbow deteriorating, went 9–4 in 101 innings for Boston and was never the same. The man who held out for $3,000 died 13 years later penniless at 45, having wasted what little the game had paid him."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Brother Battery",
+      "desc": "When paired with Walker Cooper (catcher): +2 CLU for both players. Nonverbal communication that cannot be replicated."
+    },
+    {
+      "tag": "Aspirin and Guts",
+      "desc": "May remain in game even when injured. Performance does not drop until STA is fully depleted."
+    },
+    {
+      "tag": "Pain Threshold",
+      "desc": "Injury events that would remove other pitchers are absorbed at -1 OVR instead of removal."
+    },
+    {
+      "tag": "Shut Them Out",
+      "desc": "+1 STF in elimination games and deciding World Series contests."
+    },
+    {
+      "tag": "Cardinals Loyalty",
+      "desc": "Chemistry bonus with all Allies NL1940 teammates. Penalty: -1 morale if traded mid-season."
+    },
+    {
+      "tag": "Life of Excess",
+      "desc": "Post-peak seasons carry a hidden degradation risk: each season after age 33, roll for off-field event."
+    },
+    {
+      "tag": "For My Father",
+      "desc": "Once per career: in a World Series game following a personal tragedy, performance rises to maximum OVR."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "The mound as chess board. Cooper knew exactly where every pitch was going before he threw it — and the Cardinals defense knew it too.",
+      "note_extra": "Source labeled 'Mound / Practice Field' / affinity 'HIGH' — seventh Practice Field/HIGH in the set: Mathewson (mound precision), McGinnity (iron-man volume), Phillippe (mound pulpit/control), Plank (17-year office), Puckett (daily batting ritual), Rizzuto (bunting craft), and now Cooper (game-theory pitch placement). Cooper's Practice Field/HIGH is the first grounded specifically in the intellectual-tactical dimension of pitching — knowing where to locate each pitch against each hitter as a pre-determined system, not reactive improvisation. The Musial quote is the primary source: 'He knew where he was going to pitch the hitters and you could play them accordingly, confident of Cooper's control.' The consecutive one-hitters (May 31 and June 4, 1943) and the WS Game 5 umpire testimony ('Cooper had perfect control of his assortment') document the game-theory dimension. The stat_justification.ctl field is the mechanical cross-field expression."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "The Cardinals dynasty clubhouse. The Walker battery. The 'fun-loving' side that thrived in team company.",
+      "note_extra": "Source labeled 'Clubhouse / Locker Room' / affinity 'HIGH' — eleventh Hotel/Rest/HIGH in the set. Prior registers include: vice-social (McGraw), pastoral care (McKechnie), joy-distribution (Musial), predatory preparation (Newhouser), proprietary home-base (O'Doul), communal-emotional-center (Pesky), kinetic-social-preparation (Reiser), pregame-domain-ownership (Puckett), prank-target-beloved-presence (Rizzuto), rookie-integration-warmth (Holmes), and now dynastic-brotherhood (Cooper). Cooper's register is the first in the set where the clubhouse HIGH is anchored specifically in a familial bond — his brother Walker was his catcher for every peak season start. The 'fun-loving' personality note (Broeg) provides the general social basis; the Walker battery is the specific elevated dimension. The chemistry_trait 'Brother Battery' is the mechanical expression."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "Documented life of excess: drank heavily after his Cardinals years. The bar/nightlife domain as the destination his career decline ran toward.",
+      "note_extra": "Source labeled 'Bar / Nightlife' / affinity 'HIGH' — FIRST Bar/Nightlife/HIGH in the set. Prior Bar/Nightlife registers: Puckett MEDIUM (social drinking, hidden-edge trigger); Rizzuto NONE (crumb cake and coffee). Cooper's is the first HIGH in this sub-domain, grounded in documented alcoholism as a biographical fact — not social enjoyment or occasional indulgence. The RetroSimba source: 'Off the field, Cooper drank to excess, wasted his earnings and resorted to petty crime.' He died of cirrhosis at 45. The Bar/Nightlife/HIGH encodes a preferred location that is simultaneously a source of pleasure and the mechanism of his destruction. The chemistry_trait 'Life of Excess' (post-peak degradation risk) and the dark_side field are the cross-field mechanical expressions. This HIGH does not contradict the Clubhouse/HIGH — they operate in different social registers (team-communal vs. personal-destructive)."
+    },
+    {
+      "location": "Medical/Recovery",
+      "affinity": "HAUNTED",
+      "note": "Three elbow surgeries. Bone chips. Aspirin by the dozen on the mound. The arm was the instrument and the wound simultaneously.",
+      "note_extra": "Source labeled 'Training Room / Medical / Elbow' / affinity 'HAUNTED' — second HAUNTED in the set after Holmes/Jury Box (this batch). Holmes' HAUNTED encoded a lost fan community (the Jury Box bleachers). Cooper's HAUNTED encodes a lost physical capacity — the right arm that made him the best pitcher in the NL from 1942–1944, that required three surgeries, that he pitched through on aspirin, that finally gave out after the trade to Boston. The Medical/Recovery domain is where Cooper's career both survived (post-surgery comebacks in 1942 and 1944) and died (the 1945 elbow failure, the 1947 breakdown, the attempted 1949 comeback that ended in 0.0 IP). HAUNTED is the correct affinity because the medical domain was simultaneously where Cooper found his peak (post-surgery-1942) and where he ultimately lost everything. The chemistry_traits 'Aspirin and Guts' and 'Pain Threshold' are the mechanical expressions of the active dimension of this HAUNTED domain."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Atherton, Missouri. Rural mail-carrier father. Farm pasture baseball. The roots that produced both Cooper brothers.",
+      "note_extra": "Source labeled 'Hometown / Farm Country' / affinity 'ORIGIN' — second ORIGIN in the set as a standalone affinity (distinct from Rice's ORIGIN/WOUND compound, Batch 33). ORIGIN encodes the place from which a player's identity and career emerged — not a current preferred location but the foundational geographic-biographical source. Atherton, MO is documented in the Wikipedia bio and SABR BioProject: 'a farming community about 25 miles east of Kansas City'; father Robert was 'a rural mail carrier and former sandlot pitcher who helped foster his sons' interest in baseball from an early age'; Walker recalled 'getting up at 5 a.m., putting in 12-to-14-hour days working on his dad's farm, grabbing supper and then heading out to the pasture to play baseball.' The switch of positions between Mort and Walker — Mort originally catching, until a foul tip hit his elbow and he refused to continue, switching to pitcher — is documented as having occurred in childhood, making Atherton the origin point of the Cooper battery itself. The action card seed 'For My Father' is the most direct cross-field expression: the father died at 59 on the morning of 1943 WS Game 2, and the Cooper brothers played rather than leave for home — their deepest act of loyalty to their Atherton roots."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "World Series and elimination starts — CLU 3 activates at maximum intensity.",
+      "Pitching against the Brooklyn Dodgers specifically (5-1 with 3 shutouts against them in 1942 alone).",
+      "Walker Cooper behind the plate — nonverbal battery communication activates Brother Battery trait.",
+      "Eliminating pain physically or mentally before taking the mound."
+    ],
+    "cold_triggers": [
+      "Elbow soreness event — triggers Pain Threshold trait but begins OVR degradation.",
+      "Contract or management betrayal event — the Breadon wound is permanent.",
+      "Pitching without Walker — ERA rises measurably in non-Walker starts post-trade.",
+      "Post-season fatigue in September (documented: lost all four September 1941 decisions after carrying the team in August)."
+    ],
+    "pressure_response": "ELITE in specific contexts. Cooper is not a consistent-pressure performer — he is a peaks-and-valleys pitcher whose ceiling in the highest-stakes games (World Series, elimination) is among the highest in the set, and whose floor in contract disputes, arm-pain flare-ups, and September exhaustion can be very low. The father's-death game is the defining data point: under the most extreme personal pressure imaginable, he produced a complete game six-hitter. He was built for singular moments of heroic endurance, not sustained grinding adversity."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Aspirin on the Mound",
+      "type": "Game Action",
+      "text": "Your starting pitcher's arm is hurting before the game. He takes the ball anyway, chewing aspirin between innings. He may start — but each additional inning requires a roll: (1–4) he continues at full strength; (5–6) arm gives out, immediate removal.",
+      "origin": "Cooper chewed aspirin 'by the dozen' on the mound to numb the pain from bone chips in his elbow throughout the 1943 season — while going 21–8 with a 2.30 ERA. Musial documented it in his autobiography."
+    },
+    {
+      "title": "For My Father",
+      "type": "Drama",
+      "text": "On the morning of a World Series game, your starting pitcher learns a family member has died. He can leave the team (the game is played without him) or take the mound. If he pitches: performance rises to maximum OVR for that start only. This can be used once per career.",
+      "origin": "The morning of October 6, 1943 — WS Game 2 at Yankee Stadium — Mort and Walker Cooper received word that their father had died at home in Independence, MO. Both chose to play. Mort pitched a complete game six-hitter. Cardinals won 4–3."
+    },
+    {
+      "title": "The Salary Cap Lie",
+      "type": "Drama",
+      "text": "Management informs your star player that a federal wage ceiling applies to all salaries. Later, a teammate reveals he received a raise above the ceiling. Your player immediately goes on holdout — team chemistry drops -2 until he is traded or given the raise.",
+      "origin": "The Cardinals told Mort and Walker Cooper the Wage Stabilization Act capped all salaries at $12,000. They later discovered Marty Marion had been secretly raised to $13,500. The brothers held out for $15,000; Mort was traded to Boston three weeks into the season."
+    },
+    {
+      "title": "Traded for a Lesser Man",
+      "type": "Drama",
+      "text": "Your franchise ace is dealt mid-season for cash and a journeyman pitcher. The journeyman goes 23-12 for your team the rest of the year. Your ace, hampered by injury, goes 9-4 for his new team. Both records are correct. The trade is still a loss.",
+      "origin": "The Cardinals traded Mort Cooper for Red Barrett and $60,000. Barrett went 23–12 the rest of 1945 for St. Louis; Cooper went 9–4 in 101 innings for Boston before arm failure. Sam Breadon got the better of it statistically — and still cost himself the best pitcher the Cardinals had seen since Dizzy Dean."
+    },
+    {
+      "title": "Consecutive One-Hitters",
+      "type": "Game Action",
+      "text": "Your pitcher is locked in. He throws a one-hitter in his next start. Roll: on a (5–6) he throws another one-hitter in the following start. Both outcomes are noted as permanent milestones on the card.",
+      "origin": "Cooper threw consecutive one-hitters on May 31 (vs. Brooklyn) and June 4, 1943 (vs. Philadelphia). The only other pitchers to accomplish back-to-back one-hitters after him: Whitey Ford (1955), Sam McDowell (1966), Dave Stieb (1988)."
+    },
+    {
+      "title": "Brother Battery",
+      "type": "Action",
+      "text": "Two brothers — one pitcher, one catcher — form a battery. For every season they play together, both receive +1 CLU permanently stacked (maximum +3). If they are separated by trade or service, both lose all stacked CLU immediately.",
+      "origin": "Mort and Walker Cooper played 125 games together as a battery, second only to the Ferrell brothers in MLB history. Walker caught every key Mort Cooper start from 1942–44 — three consecutive WS appearances, two titles. When Walker was drafted in April 1945 and Mort was traded in May, the greatest brother battery in Cardinals history ended within weeks."
+    },
+    {
+      "title": "Life of Excess",
+      "type": "Drama",
+      "text": "Each season after your player turns 33, roll for an off-field event. On a (1–2): drinking incident — OVR -1 permanently. On a (3–4): financial trouble — no effect on performance. On a (5–6): nothing this year. If OVR reaches 0 from this mechanic, career ends.",
+      "origin": "Cooper's post-Cardinals years: drinking heavily, wasted earnings, petty crime. Died at 45 of cirrhosis. Bob Broeg: 'a great pitcher and pathetic figure, a simple fun-loving man for whom life became all too complicated and all too short.'"
+    }
+  ],
+
+  "art_direction": {
+    "face": "Big, burly Missouri farm boy. 6'2\", 210 lbs. Dark features, square jaw, the physical presence of a man who grew up in the fields. Not a showman — a worker. The face that just pitched a complete game the day his father died.",
+    "attire": "St. Louis Cardinals home whites with the birds-on-the-bat logo. Right-handed pitcher's follow-through — the body fully extended in the delivery, the arm at full extension pointing toward home plate.",
+    "mood": "Contained ferocity. Not rage — something colder and more deliberate. A man who has chosen to be here over every other possible place he could be.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Sportsman's Park infield visible behind him. Evening light, wartime crowd.",
+    "reference": "The 1942 NL MVP season — the best pitcher in baseball, at the top of his craft, pitching through bone chips on aspirin alone, leading the greatest Cardinals team since the Gashouse Gang."
+  }
+}

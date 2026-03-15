@@ -1,0 +1,173 @@
+{
+  "card_type": "player",
+  "name": "Dazzy Vance",
+  "nickname": "The Dazzler",
+  "year": 1924,
+  "team": "Brooklyn Robins",
+  "era": "1920s",
+  "ilb_team": "Bashers AL1920",
+  "position": "SP",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'2\"",
+  "weight": "200 lbs",
+  "born": "March 4, 1891 — Orient, Iowa. Grew up in Nebraska.",
+  "died": "February 16, 1961 — Homosassa Springs, Florida (age 69). Lied about his age during his career (claimed 1893, born 1891). The Dazzler arrived late and left early.",
+  "hof": "INDUCTED 1955 — BBWAA (205 of 251 votes). The only pitcher to lead the NL in strikeouts 7 consecutive seasons (1922-1928). The greatest pitching season of the 1920s (1924). The throw-in who became the franchise. The late bloomer who dazzled.",
+  "real_stats": {
+    "season": 1924,
+    "wins": 28,
+    "losses": 6,
+    "era": "2.16",
+    "strikeouts": 262,
+    "innings": "308.1",
+    "complete_games": 30,
+    "shutouts": 5,
+    "walks": 77,
+    "hits_allowed": 238,
+    "war": 10.3,
+    "note": "PITCHING TRIPLE CROWN + NL MVP. 28 W led NL, 2.16 ERA led NL, 262 K led NL. More K than 2nd + 3rd place combined. Beat Hornsby (.424) for MVP.",
+    "career_wins": 197,
+    "career_losses": 140,
+    "career_era": "3.24",
+    "career_k": 2045,
+    "career_seasons": "16 (over 21 years)",
+    "k_titles": "7 consecutive NL K titles (1922-1928)",
+    "no_hitter": "Sept 13, 1925 vs Phillies",
+    "immaculate_inning": "Sept 24, 1924 vs Cubs",
+    "ml_innings_before_31": 33,
+    "minor_league_wins": 117
+  },
+  "ilb_stats": {
+    "ovr": 9,
+    "stf": 5,
+    "ctl": 3,
+    "stm": 3,
+    "def": 1,
+    "clu": 1
+  },
+  "stat_justification": {
+    "stf": "Vance struck out 262 batters in 1924 — more than the second and third-place pitchers COMBINED (Grimes 135 + Luque 86 = 221). He had 1 of every 13 strikeouts in the entire National League. He led the NL in strikeouts for 7 consecutive seasons (1922-1928), the only pitcher to accomplish this. He threw an immaculate inning (Sept 24, 1924) and struck out 7 consecutive batters (then a ML record). Johnny Frederick said he 'could throw a cream puff through a battleship.' He also used a ragged shirt sleeve as a visual distraction — McGraw protested to the NL president, who found no rule against it. The stuff was overpowering: blazing fastball and devastating curve. This is the maximum possible stuff rating. Rating of 5.",
+    "ctl": "Vance walked 77 batters in 308.1 innings (2.25 BB/9) in 1924. This is respectable but not elite for the era. He completed 30 games, confirming he stayed in the zone enough to go deep. But he was primarily a power pitcher who relied on stuff over command. The strikeouts came from velocity and movement, not pinpoint location. Career: 3.24 ERA with occasional high walk rates. Rating of 3.",
+    "stm": "Vance threw 308.1 innings with 30 complete games in 1924. This is an elite workload by any standard. However, the context matters: Vance had a chronically sore arm throughout his 20s, logging only 33 ML innings before age 31. The arm was 'broken' for a decade before suddenly recovering. 'My arm came back just as quickly as it went sore on me in 1915.' The stamina was real but the history was fragile — the arm had already been through a decade of damage. Rating of 3.",
+    "def": "Vance was a pitcher — his defensive contribution was adequate but unremarkable. The famous 'three men on third' incident (1926) — where Vance, Fewster, and Babe Herman all ended up on third base — suggests his baserunning awareness was lacking. Defensive fielding stats are not notable. Rating of 1.",
+    "clu": "Vance never won a pennant with the Brooklyn Robins/Dodgers. His greatest season (1924: 28-6, 2.16 ERA, 262 K, MVP) produced no postseason baseball. Brooklyn was competitive but never first during Vance's prime. He won 1 World Series ring with the 1934 Cardinals (Frisch's Gashouse Gang) at age 43, but barely pitched. The greatest pitching season of the 1920s existed in an October vacuum. Rating of 1."
+  },
+  "personality": {
+    "leadership_style": "FUN-LOVING ALPHA. Vance was described as a 'fun-loving flake' — the life of the clubhouse, the ringleader of pranks, the personality who made a losing team bearable. The KKK prank (pillowcases over heads, invading the Braves' sleeping car, demanding signs from the terrified catcher) captures the energy: chaotic, fearless, hilarious, and slightly unhinged. The leadership was ENTERTAINMENT — Vance made losing fun, which is harder than making winning fun.",
+    "temperament": "THE DAZZLER — JOYFUL DOMINANCE. Vance threw harder than anyone and enjoyed it more than anyone. Unlike Mays's dark intensity or Coveleski's quiet efficiency, Vance's dominance was PLAYFUL. The ragged shirt sleeve was a prank on every batter who faced him. The Dazzler dazzled because he WANTED to dazzle — the showmanship was as much a part of the pitch as the fastball.",
+    "work_ethic": "PERSISTENCE THROUGH A LOST DECADE. Vance spent his entire 20s in the minor leagues with a sore arm. 117 minor league wins. Only 33 ML innings before age 31. Most pitchers would have quit. Vance kept pitching — in Nebraska, in Memphis, in New Orleans — until the arm came back. 'My arm came back just as quickly as it went sore on me in 1915.' The work ethic was PATIENCE — the willingness to wait a decade for the arm to arrive.",
+    "lifestyle": "NEBRASKA DAZZLE. Born in Iowa, raised in Nebraska, semipro baseball in the Great Plains. The Dazzler came from the middle of nowhere — and then lit up Brooklyn. The contrast between the flat Nebraska plains and the electric Brooklyn crowds is the life in miniature. After baseball: Homosassa Springs, Florida. Fishing. Died at 69. A shorter, simpler life than many Bashers.",
+    "era_adaptability": "VERY HIGH. Vance's stuff — overpowering fastball, devastating breaking ball, 262 K in 308 IP — would translate directly to modern baseball. His 7.7 K/9 in 1924 was extraordinary for the era and would be competitive (though not elite) today. His approach — power over command — is the template for modern pitching. He'd be a mid-rotation starter with a 3.30 ERA and 200 K, or a high-leverage reliever with a 2.00 ERA.",
+    "clubhouse_impact": "MAXIMUM FUN. Vance made the Brooklyn Robins enjoyable to play for despite chronic losing. He was the personality, the entertainer, the man who cut eyeholes in pillowcases. In ILB, Vance provides +2 to team morale on losing teams and +1 on winning teams. The Dazzler shines brightest in the dark.",
+    "tragic_element": "THE GREATEST SEASON WITH NO OCTOBER. 1924: 28-6, 2.16 ERA, 262 K. NL MVP. Pitching Triple Crown. The greatest single pitching season of the 1920s. And the Brooklyn Robins finished 92-62 — 1.5 games behind the Giants. No pennant. No World Series. The Dazzler dazzled and it didn't matter. Then 1925: led NL in wins again. No pennant. 1926, 1927, 1928 — led NL in K every year. No pennant. Seven consecutive years as the best strikeout pitcher alive, and zero October baseball. The arm that waited a decade to arrive was wasted on a team that couldn't get to the postseason. The Dazzler dazzled for nobody."
+  },
+  "chemistry_traits": [
+    {
+      "tag": "The Dazzler",
+      "desc": "Overpowering stuff + showmanship. In ILB, Vance has +1 to STF in high-attendance games. The bigger the crowd, the harder he throws. The Dazzler needs an audience."
+    },
+    {
+      "tag": "The Ragged Sleeve",
+      "desc": "Tattered undershirt fluttered on delivery, distracting batters. McGraw protested. NL president found no rule against it. In ILB, Vance has +1 K rate against all batters. The sleeve is the sixth pitch. Opponents may file a protest — d20: on 20, the league bans the sleeve and Vance loses the bonus."
+    },
+    {
+      "tag": "The Late Bloom",
+      "desc": "33 ML innings before age 31. 117 minor league wins. Sore arm for a decade. In ILB, Vance CANNOT be drafted before age 30. He does not exist in the majors until 31. But from 31-38, he is ELITE. The bloom is worth the wait."
+    },
+    {
+      "tag": "The Throw-In",
+      "desc": "Brooklyn wanted catcher Hank DeBerry. New Orleans said: take Vance too. In ILB, Vance costs nothing to acquire — he arrives as a secondary piece in a deal for someone else. The most dominant pitcher in the NL was a package filler."
+    },
+    {
+      "tag": "Three Men on Third",
+      "desc": "1926: Vance, Fewster, and Babe Herman all ended up on third base simultaneously. In ILB, once per season d20: on 1-2, a baserunning catastrophe occurs — runner on base with Vance results in a bizarre out. Brooklyn was chaotic."
+    },
+    {
+      "tag": "Beat the .424",
+      "desc": "1924 NL MVP — beat Rogers Hornsby, who hit .424, for the award. In ILB, Vance receives +1 to all stats when competing for awards against a batter with BA .350+. The pitcher's case was stronger than the greatest BA in modern history."
+    },
+    {
+      "tag": "Cream Puff Through a Battleship",
+      "desc": "Johnny Frederick's description of Vance's fastball. In ILB, Vance's fastball is rated UNHITTABLE on first exposure — batters facing Vance for the first time in a game have -2 to contact. The cream puff penetrates."
+    },
+    {
+      "tag": "The KKK Prank",
+      "desc": "Pillowcases. Eyeholes. The Braves' sleeping car. Demanded catcher O'Neil's signs. Got them. In ILB, Vance has a +1 to sign-reading when facing a team for the first time in a series. The intelligence operation was disguised as comedy."
+    }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Community Events",
+      "affinity": "MAXIMUM / HOME",
+      "note": "1922-1932. Eleven seasons. Seven K titles. The MVP. The no-hitter. The three men on third. The place where the Dazzler dazzled.",
+      "note_extra": "Source label: 'Ebbets Field, Brooklyn.' Mapped to Community Events (ballpark venue). Affinity MAXIMUM / HOME is the compound established in Uhle (Batch 36). Here the HOME dimension encodes franchise identity and eleven seasons of dominance rather than literal birthplace. The Dazzler's performance domain was the stadium, not his Nebraska hometown. Cross-field expression: The Dazzler chemistry trait (+1 STF in high-attendance games) and Beat the .424 trait have Ebbets as their implied stage."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "IDENTITY",
+      "note": "262 K from the rubber. 30 CG. 308.1 IP. The mound was the stage. The fastball was the performance. The sleeve was the costume.",
+      "note_extra": "Source label: 'The Mound.' Mapped to Practice Field (craft/performance domain — the pitcher's mound as the primary site of Vance's craft expression). Affinity IDENTITY established in Roush (Batch 35). Here IDENTITY encodes the convergence of self, profession, and performance — the mound is not where Vance works, it is what he is. Distinct from Roush's IDENTITY use (which encoded negotiating position); here it is purely vocational-existential. Cross-field expression: The Ragged Sleeve chemistry trait and the Cream Puff chemistry trait are both mound-specific; the whole card's mechanical identity radiates from this location."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "ORIGIN / EXILE",
+      "note": "1912-1921. A decade. 117 wins. The sore arm. The buses. Nebraska, Memphis, New Orleans. The wilderness before the bloom.",
+      "note_extra": "Source label: 'The Minor Leagues.' Mapped to Practice Field (craft/development domain — a decade of minor league pitching as the primary site where Vance's arm was developed, broken, and rebuilt). First appearance of ORIGIN / EXILE as a compound affinity in the set. The ORIGIN component encodes craft genesis (where the arm first formed); the EXILE component encodes the involuntary removal from the major leagues due to injury. The compound is distinct from ORIGIN alone (Root, Batch 34 — a single formative site) and from EXILE alone (not yet used). Cross-field expression: The Late Bloom chemistry trait is the direct mechanical expression of this affinity — Vance CANNOT be drafted before age 30, encoding the exile period as a game mechanic."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "CHARACTER",
+      "note": "The midnight train. The pillowcases. The invasion of the Braves' car. The signs extracted from O'Neil. This is where you understand Dazzy Vance.",
+      "note_extra": "Source label: 'The Pullman Car.' Mapped to Hotel/Rest (transportation — a railroad sleeping car on a road trip). First appearance of CHARACTER as a standalone affinity in the set. CHARACTER encodes a location that reveals personality rather than conferring mechanical advantage — the Pullman car is the site of the KKK prank, which is not a performance location but an identity-revelation location. Distinct from IDENTITY (vocational convergence) and from ORIGIN (formative genesis). Cross-field expression: The KKK Prank chemistry trait (+1 sign-reading on first series exposure) is the mechanical residue of this location's character-defining event."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "Strikeout streaks — Vance would lock into unhittable stretches. 7 consecutive K (ML record). 15 K in a game. 17 K in 10 innings. When the Dazzler was on, nobody could touch him.",
+      "High-stakes pitching — Vance's MVP season came while competing against Hornsby's .424. He elevated when the comparison was most demanding.",
+      "First exposure — batters facing Vance for the first time were overwhelmed by the fastball + ragged sleeve combination. The unfamiliar was unhittable.",
+      "13-game winning streak (1924) — Vance went on a 13-game win streak that propelled Brooklyn into the pennant race."
+    ],
+    "cold_triggers": [
+      "The arm — Vance's arm had a history of sudden failure. The decade of soreness never fully left. When the arm tired, the stuff dropped dramatically.",
+      "Run support — Brooklyn's offense was inconsistent. Vance's losses often came with minimal run support on a team that couldn't score.",
+      "Late-season fatigue — after 300+ innings, Vance sometimes faded in September. The workload that created the dominance also eroded it.",
+      "Repeat exposure — batters who had multiple at-bats against Vance in a game performed better in later ABs. The Dazzler was most dazzling the first time."
+    ],
+    "pressure_response": "UNKNOWN BUT TRAGIC. Vance's greatest season (1924) produced no postseason baseball. He never pitched a meaningful October game with his best teams. The one WS ring (1934 Cardinals) came as a bit player at age 43. CLU = 1 reflects not personal failure but structural absence — the greatest pitcher on a team that was never quite good enough."
+  },
+  "action_card_seeds": [
+    {
+      "title": "The Dazzler's Season",
+      "type": "Achievement / Apex",
+      "text": "1924. Your pitcher wins 28 games. He loses 6. His earned run average is 2.16. He strikes out 262 batters — more than the second-place and third-place pitchers in the National League combined. He completes 30 of his starts. He pitches 308 innings. He throws an immaculate inning — nine pitches, three strikeouts. He wins the Most Valuable Player award — over Rogers Hornsby, who is hitting .424, the highest batting average in modern baseball history. Your pitcher's season is the greatest pitching performance of the decade. Your team finishes 92-62, a game and a half behind the Giants. No pennant. No World Series. The Dazzler dazzles. Brooklyn finishes second.",
+      "origin": "Vance's 1924 pitching Triple Crown + MVP — 28-6, 2.16, 262 K — on a team that finished 1.5 GB."
+    },
+    {
+      "title": "The Throw-In",
+      "type": "Origin / Destiny",
+      "text": "Brooklyn wants a catcher. His name is Hank DeBerry. He plays for the New Orleans Pelicans. Brooklyn offers $10,000. New Orleans says: take the pitcher too. The pitcher is thirty years old. He has pitched 33 innings in the major leagues. He has a sore arm that has been sore for a decade. He has won 117 minor league games on buses and in small towns. His name is Charles Arthur Vance. They call him Dazzy. Brooklyn takes the deal. The catcher they wanted is forgotten. The pitcher they didn't want leads the National League in strikeouts for seven consecutive years.",
+      "origin": "Vance acquired as a throw-in with Hank DeBerry from New Orleans, 1922."
+    },
+    {
+      "title": "The Ragged Sleeve",
+      "type": "Innovation / Gamesmanship",
+      "text": "Your pitcher wears a tattered undershirt beneath his uniform. The sleeve is shredded — loose threads hanging from his throwing arm. When he delivers the ball, the threads flutter. The batter sees the ball emerging from a cloud of white motion. The ball is harder to pick up. The fastball arrives before the eye can separate leather from linen. John McGraw — manager of the New York Giants, the smartest man in baseball — complains to the National League president. The president examines the rulebook. There is no rule against ragged shirts. Your pitcher keeps wearing the shirt. Your pitcher keeps striking everyone out. The sleeve is the sixth pitch. Nobody can legislate against it.",
+      "origin": "Vance's tattered undershirt — McGraw's protest, NL president's ruling, continued dominance."
+    },
+    {
+      "title": "Three Men on Third",
+      "type": "Comedy / Brooklyn",
+      "text": "1926. Your pitcher is on second base. Chick Fewster is on first. Babe Herman hits a long ball to right field. The third base coach yells something. Your pitcher, rounding third, hears the yell and goes BACK to third. Fewster arrives at third. Herman, ignoring all instructions, also arrives at third. Three men stand on third base simultaneously. Two of them are out. This is the Brooklyn Robins. This is the team your pitcher pitches for. He strikes out 262 men a year and his baserunners pile up on third like a vaudeville act. He doesn't care. He's Dazzy. He throws a cream puff through a battleship and then runs the bases like a man who has never seen a diamond.",
+      "origin": "The famous 'three men on third' incident, 1926 — Vance, Fewster, Herman."
+    }
+  ],
+  "art_direction": {
+    "face": "6'2\" 200 lbs — big, strong, EXUBERANT. The face of a man having the time of his life on a baseball mound. Wide grin or pre-pitch intensity — but even the intensity is JOYFUL, not dark. This is not Mays's black pitch or Coveleski's mineshaft. This is a man who spent a decade in the minor leagues with a sore arm and then struck out 262 batters in a single season and LOVED every minute. Nebraska features — broad, open, sun-weathered. Eyes bright and slightly wild.",
+    "attire": "Brooklyn Robins 1924 home whites. In full windup — the high leg kick, the driving delivery, the arm coming forward with the ball AND the ragged sleeve fluttering behind it. The sleeve should be VISIBLE — loose threads trailing from the right arm, creating a blur of white around the pitching hand. This is the signature visual: the ball emerging from the flutter. The delivery should look VIOLENT — power pitcher, not finesse. The whole body is involved.",
+    "mood": "ELECTRIC AND JOYFUL. This card CRACKLES like Frisch's but with MORE WARMTH. The Dazzler dazzles because he LOVES dazzling. The mood is a carnival performer who also happens to be the most dominant pitcher alive. Bright, loud, fast, fun. The tragedy — no pennant, no October — lives underneath the joy, but the joy is on the surface. The card should make you SMILE before it makes you think.",
+    "style": "Full color — Bashers era — BROOKLYN BLUE AND LIGHTNING WHITE. Deep Brooklyn blue, white-hot lightning, warm cream, leather brown. The blue is ELECTRIC — not Fordham blue (that's Frisch), but BROOKLYN blue — the color of Ebbets Field seats and September afternoons. The border should be LIGHTNING WHITE — the color of the fastball emerging from the fluttering sleeve, the flash of the pitch. THE DAZZLER — the brightest, loudest, most fun pitcher card in the Bashers. The card that crackles with a different electricity than Frisch — Frisch is competitive fire, Vance is joyful lightning. Both electric. Different voltages.",
+    "reference": "Ruth is the solar system. Hornsby is the blade. Frisch is the flash. Dazzy Vance is THE DAZZLER — the lightning bolt on the mound. The hardest thrower. The loudest personality. The most dominant pitcher on the team that never won. He is the Bashers' great WHAT IF — what if Brooklyn had scored runs? What if the greatest pitching season of the 1920s had produced a pennant? The Dazzler dazzled in the void. The lightning struck and nothing caught fire."
+  }
+}

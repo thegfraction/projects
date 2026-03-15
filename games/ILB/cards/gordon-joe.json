@@ -1,0 +1,206 @@
+{
+  "card_type": "player",
+  "name": "Joe Gordon",
+  "nickname": "Flash",
+  "year": 1942,
+  "team": "New York Yankees",
+  "league": "American League",
+  "era": "1940s",
+  "ilb_team": "Allies AL1940",
+  "position": "2B",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'10\"",
+  "weight": "180 lbs",
+  "born": "February 18, 1915 — Los Angeles, CA",
+  "died": "April 14, 1978 — Sacramento, CA",
+  "hof": "Class of 2009 (Veterans Committee, posthumous)",
+
+  "real_stats": {
+    "season": 1942,
+    "games": 147,
+    "at_bats": 538,
+    "hits": 173,
+    "doubles": 29,
+    "triples": 4,
+    "home_runs": 18,
+    "rbi": 103,
+    "stolen_bases": 12,
+    "batting_avg": ".322",
+    "obp": ".409",
+    "slg": ".491",
+    "ops": ".900",
+    "ops_plus": 155,
+    "war": 7.7,
+    "all_star": 9,
+    "mvp": "AL MVP 1942",
+    "career_avg": ".268",
+    "career_hits": 1530,
+    "career_hr": 253,
+    "career_sb": 89,
+    "career_war": 50.2,
+    "career_dp": 1160,
+    "world_series": 5,
+    "notes": "First AL 2B to hit 20 HR in a season — did so 7 times. Set career AL HR record at 2B. Led AL in assists 4x, double plays 3x. Set WS records for putouts and assists (5-game and 6-game Series). Beat Ted Williams' Triple Crown season for 1942 AL MVP. Inducted posthumously, 2009."
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 4,
+    "pow": 2,
+    "spd": 1,
+    "def": 3,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "con": "Peak .322 BA (1942 MVP season) falls in the .300–.329 = 4 band. OPS+ 155 technically clears the ≥130 bonus threshold, but Gordon's career .268 average reflects his true contact profile — the 1942 .322 is an outlier peak, not a sustained contact identity. CON 4 reflects the peak season accurately while acknowledging his real offensive identity as a power hitter rather than a contact hitter of the Puckett/Holmes tier.",
+    "pow": "Peak 18 HR (1942) falls in the 10–19 = 1 band. SLG .491 falls just below the .500 bonus threshold. However, Gordon hit 20+ HR in seven of his 11 seasons (including 32 in 1948), first AL 2B to hit 20 HR in a season, and held the AL career HR record at second base for his lifetime. POW 2 is assigned as a borderline judgment reflecting his positional power identity and near-.500 SLG, noting that the 1942 snapshot underrepresents his true power ceiling (which peaks in 1948).",
+    "spd": "Approximately 12 SB in 1942 (6–15 range = 1). No Gold Glove era bonus. Career 89 SB spread over 11 seasons. SPD 1 reflects a player with functional base-stealing ability but not exceptional speed.",
+    "def": "Pre-Gold Glove era; historical reputation rule applied. Led AL in assists 4 times, double plays 3 times. Set still-standing WS records: 20 PO, 23 A, 43 TC, 1.000 FA in a five-game Series (1943); 7 DP in a six-game Series (1948). Joe McCarthy: 'The greatest all-around ballplayer I ever saw.' Doby: 'These guys must have been using midget shovels.' Grantland Rice compared Gordon-Rizzuto favorably to any DP combination in baseball. First 2B in the set to earn DEF 3.",
+    "clu": "Five World Series appearances with a documented pattern of rising performance. 1938 WS: .400, 6 RBI. 1941 WS: .500, 7 hits, 5 RBI, team-high 7 walks. 1943 WS: set five-game Series records at second base (.000 errors, 23 assists). 1948 WS Game 6: HR to give Indians the lead they held for the title. Despite a poor 1942 WS (.095), the body of WS work across five trips establishes CLU 3. The 1941 WS .500 average is the clearest WS hero moment."
+  },
+
+  "personality": {
+    "leadership_style": "Lead by example, then reach out. Gordon never made speeches. He made gestures — throwing a ball to a rookie that nobody else would warm up with, mentoring a player being groomed to replace him. Joe McCarthy's verdict: 'The greatest all-around ballplayer I ever saw, and I don't bar any of them.' The remark contains Gordon's leadership philosophy: total competence, total reliability, no self-promotion.",
+    "temperament": "Steady, confident, unflappable. Nicknamed 'Flash' for his quick feet — a reference to the comic book character rather than any showman personality. The acrobatics on the field were entirely in service of the play. He returned to the University of Oregon in the offseason to finish his physical education degree. He played violin in the college orchestra. He hunted and fished in retirement. He was content.",
+    "work_ethic": "Gymnast, halfback, long jumper, violinist, baseball player. Gordon's work ethic was inseparable from his identity as a multi-domain athlete. The acrobatic fielding did not come from natural gifts alone — it was trained, from gymnastics. Scout Bill Essick's report on signing him: 'at his best when it meant the most and the going was toughest.'",
+    "lifestyle": "Oregon-rooted, self-sufficient. After baseball: sold real estate, hunted, fished in Sacramento. No scandals, no excess, no public drama. A man whose private life matched his public character.",
+    "era_adaptability": "HIGH. Gordon was a proto-modern second baseman — power at a position historically defined by defense and slap hitting, combined with elite defense. He would thrive in any era. His integration of gymnastics into infield play was ahead of his time by decades.",
+    "clubhouse_impact": "Quietly transformative. Tony Lazzeri mentored Gordon when Gordon arrived to take Lazzeri's job. Gordon mentored Larry Doby when Doby arrived as the first Black player in the American League — and by extension, when Gordon was theoretically the player Doby was being groomed to replace. The tradition ran both ways and across color lines.",
+    "dark_side": "The 1942 MVP award over Ted Williams' Triple Crown season remains one of the most disputed in AL history. Williams had 10.5 WAR to Gordon's 7.7. The baseball writers who voted Gordon were, by many accounts, punishing Williams for his hostile relationship with the press. Gordon did not seek the controversy and did not benefit from it cleanly — the asterisk on his greatest individual honor was placed there by forces he didn't control and couldn't remove. He never fully escaped the 'undeserving MVP' narrative, despite five World Series rings and a career that clearly belongs in Cooperstown."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Flash",
+      "desc": "Acrobatic double-play turns: once per game, convert a would-be hit into a DP on a roll of 4–6."
+    },
+    {
+      "tag": "Hey Kid",
+      "desc": "When a new player joins the team and no one reaches out: Gordon does. New player gains +1 chemistry immediately."
+    },
+    {
+      "tag": "Rizzuto Partnership",
+      "desc": "When paired with Phil Rizzuto at SS: both players gain +1 DEF. The set's first explicit DP chemistry pair."
+    },
+    {
+      "tag": "Winner's Orbit",
+      "desc": "Has never lost a World Series he's participated in except 1942. Teams with Gordon gain +1 OVR in WS games."
+    },
+    {
+      "tag": "Lazzeri's Heir",
+      "desc": "If replacing a veteran at his position, Gordon gains that veteran's CLU rating for 1 season."
+    },
+    {
+      "tag": "Oregon Graduate",
+      "desc": "Off-field intelligence: once per season, may negate one management or opponent strategy event."
+    },
+    {
+      "tag": "Contested MVP",
+      "desc": "His MVP status is permanently marked controversial. Against Ted Williams specifically: Gordon performs at -1 OVR."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "The gymnastics-to-acrobatics pipeline. Double-play mechanics rehearsed to the point of instinct. Doby watched Gordon and Boudreau in practice and shook his head.",
+      "note_extra": "Source labeled 'Infield / Practice Field' / affinity 'HIGH' — eighth Practice Field/HIGH in the set: Mathewson (mound precision), McGinnity (iron-man volume), Phillippe (mound pulpit/control), Plank (17-year office), Puckett (daily batting ritual), Rizzuto (bunting craft), Cooper (game-theory pitch placement), Gordon (gymnastics-to-acrobatics pipeline). Gordon's Practice Field/HIGH is the first in the set grounded in the application of a non-baseball athletic discipline (collegiate gymnastics) to the mechanics of baseball defense. The SABR BioProject: 'In the major leagues, his play at second base was often described as acrobatic, a result of his gymnastics training.' Doby's observation ('These guys must have been using midget shovels') documents the impression this practice-field mastery made on observers. The stat_justification.def field and the HOF plaque ('acrobatic second baseman') are the cross-field mechanical expressions."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "The dynasty clubhouse. The Doby moment. The mentor presence that defined every clubhouse Gordon entered.",
+      "note_extra": "Source labeled 'Clubhouse / Locker Room' / affinity 'HIGH' — twelfth Hotel/Rest/HIGH in the set. Prior registers include dynastic-brotherhood (Cooper), and now integration-moral-leadership (Gordon). Gordon's register is the first in the set where the clubhouse HIGH is grounded in a documented act of racial integration — the moment when Gordon walked to Doby and said 'Hey kid, come on. Throw with me.' Doby: 'Joe Gordon was a class guy. He'd been a Yankee and the others looked up to him. So when he reached out to me, it really helped.' The ESPN column documents the cascade effect: 'Because Gordon was an All-Star, many of Doby's teammates fell in line after that.' The chemistry_trait 'Hey Kid' is the mechanical expression. The parallel to Pee Wee Reese/Jackie Robinson is documented in the ESPN source and makes Gordon the AL counterpart to Reese's already-established ILB card presence."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "The Doby warm-up throw. One gesture on a field that changed the history of AL integration.",
+      "note_extra": "Source labeled 'Community Events / Integration Moment' / affinity 'HIGH' — fourth Community Events/HIGH in the set grounded in a specific act rather than sustained institution (after Puckett/Branch Rickey Award, Rizzuto/St. Joseph's, Holmes/Sandlot Alliance). Gordon's Community Events/HIGH is the first in the set grounded in a single documented moment of racial integration rather than organized philanthropy or institutional service. The Community Events domain is used (not Hotel/Rest) because the warm-up throw happened on the playing field — a public shared space — rather than in the private team clubhouse, and because its consequences were community-scale: Doby later named Gordon among 'the good guys' in his career alongside Bill Veeck. The chemistry_trait 'Hey Kid' encodes the mechanical expression. The Pee Wee Reese parallel (already present in Reese's ILB card) makes Gordon the AL-side anchor of the integration-moment community events domain."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "The violin. The Oregon degree. The quiet self-sufficiency of a man content in his own company.",
+      "note_extra": "Source labeled 'Hotel Room / Personal Space' / affinity 'MEDIUM' — mapped to Hotel/Rest/MEDIUM as the private-intellectual-recuperation sub-domain. Prior Hotel/Rest/MEDIUMs: restaurant-social (Pesky, Puckett), team-dinner (Reiser). Gordon's is the first in the set grounded in solitary intellectual pursuit rather than social eating or nightlife. The violin in the college orchestra and the offseason return to Oregon to finish his physical education degree are the biographical anchors. The contrast with Rizzuto's Hotel/Rest/LOW (kinetic-personality-incompatibility with solitude) is notable: where Rizzuto could not rest, Gordon was content to. The retirement note ('sold real estate, hunted, fished in Sacramento') extends this MEDIUM across his post-playing life. The chemistry_trait 'Oregon Graduate' (negates one strategy event per season) is the mechanical expression of the intellectual dimension."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "LOW",
+      "note": "Always overshadowed: by DiMaggio in New York, by Boudreau in Cleveland, by Williams in MVP lore, by time in the HOF. Inducted posthumously, 31 years after his death.",
+      "note_extra": "Source labeled 'Media / Spotlight / Recognition' / affinity 'LOW' — second Media/Spotlight entry in the set after Rizzuto's MAXIMUM. The contrast is intentional: Rizzuto became the voice of the Yankees for 40 years; Gordon became a real estate salesman in Sacramento. Both were Hall of Famers who deserved Cooperstown. Both played on the same team at the same time. Their Media/Spotlight affinities are polar opposites. Gordon's LOW is grounded in three specific documented overshadowing events: (1) in New York, he played behind DiMaggio's shadow ('often overshadowed by his more famous Yankees teammates' — HOF); (2) in Cleveland, Lou Boudreau won the 1948 MVP while Gordon led the team in HR and RBI; (3) his 1942 MVP win is historically disputed in Williams' favor, meaning his greatest individual honor is permanently contested. The posthumous 2009 HOF induction — 31 years after death, elected 10/12 by Veterans Committee — is the ultimate expression of this LOW: the recognition arriving too late for him to hold it. The chemistry_trait 'Contested MVP' is the mechanical cross-field expression."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "World Series and elimination games — CLU 3 activates; career .400+ in multiple WS.",
+      "Double-play opportunities — the acrobatic game peaks when the defense is tested.",
+      "New team environments — Gordon thrived after the Yankees trade to Cleveland (1947–48 resurgence).",
+      "Playing alongside a shortstop with high DEF — Rizzuto partnership bonus activates."
+    ],
+    "cold_triggers": [
+      "Post-WWII service return — documented cascade of injuries in 1946.",
+      "Hostile management environment — McCarthy's departure in 1946 triggered Gordon's worst season.",
+      "Ted Williams in the same league — the Contested MVP trait applies.",
+      "Media scrutiny of the 1942 award — any public revisitation of the MVP debate drops momentum."
+    ],
+    "pressure_response": "Among the highest in the set in high-stakes moments. Scout Bill Essick's pre-career report has aged perfectly: 'at his best when it meant the most and the going was toughest.' Gordon's WS batting averages across his career (.400 in 1938, .500 in 1941, .095 in 1942 — the outlier — and strong performances in 1943 and 1948) show a player who generally rose to October. The 1942 WS was his single postseason failure; in four other trips he was consistently the best or among the best players on the field."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Hey Kid, Throw With Me",
+      "type": "Action",
+      "text": "A new player arrives and stands alone on the field — no teammates will warm up with him. Your veteran walks over. Every player who was watching now follows. New player gains +2 chemistry with the entire team. Veteran gains permanent +1 CLU.",
+      "origin": "Larry Doby's first day with the Cleveland Indians, 1947. No teammate would throw with him during warmups. Joe Gordon walked over and said: 'Hey kid, you gonna just stand there or do you want to throw a little?' Because Gordon was the All-Star, others followed. Doby: 'I will never forget that man.'"
+    },
+    {
+      "title": "Beat the Triple Crown",
+      "type": "Drama",
+      "text": "At season's end, MVP voting goes against the statistical leader — your player wins despite lower WAR. The statistical leader's fans are furious. Your player carries the asterisk for the rest of his career: -1 chemistry with the runner-up's teammates in all future matchups.",
+      "origin": "Gordon won the 1942 AL MVP with 7.7 WAR over Ted Williams' Triple Crown season and 10.5 WAR. The baseball writers, notoriously hostile to Williams, voted Gordon 21–11. Gordon's greatest individual honor came with a permanent controversy attached."
+    },
+    {
+      "title": "Midget Shovels",
+      "type": "Game Action",
+      "text": "Your second baseman and shortstop execute a double play so seamlessly it appears physically impossible. Opposing team's momentum drops to zero. Both infielders gain +1 DEF for the remainder of the game.",
+      "origin": "Larry Doby's observation watching Gordon and Lou Boudreau in practice with the 1947–48 Indians: 'I used to watch Joe and Boudreau in practice and shake my head. These guys must have been using midget shovels or something.' On August 14, 1942, Gordon and Rizzuto turned a record seven double plays in a single game against Philadelphia."
+    },
+    {
+      "title": "Lazzeri's Last Lesson",
+      "type": "Drama",
+      "text": "A veteran nearing the end of his career personally mentors the younger player brought in to replace him. The veteran is released at season's end. The younger player carries +1 CLU permanently as Lazzeri's Heir.",
+      "origin": "Tony Lazzeri, knowing Gordon had arrived to take his job, spent spring training 1937 teaching Gordon the tricks of playing second base. 'Lazzeri put it on himself to make sure that Gordon would not fail.' Gordon was handed Lazzeri's position at season's end and carried the mentorship forward — including to Larry Doby a decade later."
+    },
+    {
+      "title": "Two Torn Legs",
+      "type": "Drama",
+      "text": "Your star player returns from wartime service. In his first month back: severed tendon, charley horse, two torn leg muscles, fractured thumb. He plays through all of it. Performance drops to career low. Team trades him at season's end. New team: he rebounds to his best years.",
+      "origin": "Gordon's 1946 return from the Army Air Corps. Playing in just 112 games, he hit .210/.308/.338. Traded to Cleveland for Allie Reynolds. In 1947: .272, 29 HR, 93 RBI. In 1948: 32 HR, 124 RBI, World Series champion."
+    },
+    {
+      "title": "The Violin in Locker 14",
+      "type": "Action",
+      "text": "A teammate discovers your player has a serious non-baseball talent — music, art, academic achievement. Team chemistry rises +1 as the discovery humanizes him. The player may use this talent once per season as a free morale boost.",
+      "origin": "Gordon played violin in the University of Oregon's college orchestra while also competing in baseball, football as a halfback, gymnastics, soccer, and the long jump. He returned to Oregon in the offseason to finish his physical education degree while already a major league player."
+    },
+    {
+      "title": "The Resurrection Trade",
+      "type": "Drama",
+      "text": "After your worst season, management trades you to a team that sees potential everyone else has written off. New team: your OVR returns to career peak for two seasons. Original team's trade looks disastrous in hindsight — unless they got a pitcher.",
+      "origin": "The Yankees traded Gordon (coming off his .210 disaster year) to Cleveland for Allie Reynolds in 1946. Reynolds won 131 games in eight seasons for New York. Gordon rebounded to 29 HR (1947) and 32 HR/124 RBI (1948) and won another World Series ring."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Clean-cut, Oregon-handsome. 5'10\", 180 lbs — built like the halfback/gymnast he was. Dark hair, steady eyes. The look of a man who has done the calculation before the pitch arrives.",
+    "attire": "New York Yankees home whites, pinstripes. Mid-pivot at second base — the acrobatic double-play turn, body fully rotated, arm completing the relay throw to first.",
+    "mood": "Total concentration. Not fire — precision. The gymnast who has rehearsed this exact movement a thousand times and is now executing it in the World Series.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Yankee Stadium infield dirt. The crowd and DiMaggio visible in the background blur.",
+    "reference": "The greatest all-around ballplayer Joe McCarthy ever saw — rendered at the moment of the acrobatic pivot that defined his reputation."
+  }
+}

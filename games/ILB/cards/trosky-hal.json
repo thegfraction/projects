@@ -1,0 +1,192 @@
+{
+  "card_type": "player",
+  "name": "Hal Trosky",
+  "nickname": "The Next Babe Ruth",
+  "year": 1936,
+  "team": "Cleveland Indians",
+  "era": "1930s",
+  "ilb_team": "Crashers AL1930",
+  "position": "1B",
+  "bats": "L",
+  "throws": "R",
+  "height": "6'2\"",
+  "weight": "207 lbs",
+  "born": "November 11, 1912 — Norway, Iowa (420-acre Bohemian immigrant farm)",
+  "died": "June 18, 1979 — Cedar Rapids, Iowa (age 66)",
+  "hof": "Not inducted. Cleveland Indians Hall of Fame (1951). Top 100 Greatest Indians (2001). Best player never to make an All-Star team.",
+  "real_stats": {
+    "season": 1936,
+    "games": 151,
+    "at_bats": 629,
+    "hits": 216,
+    "doubles": 45,
+    "triples": 9,
+    "home_runs": 42,
+    "rbi": 162,
+    "stolen_bases": 4,
+    "batting_avg": ".343",
+    "obp": ".382",
+    "slg": ".644",
+    "ops": "1.026",
+    "ops_plus": 146,
+    "war": 6.9,
+    "gold_gloves": 0,
+    "silver_sluggers": 0,
+    "all_star": 0,
+    "career_avg": ".302",
+    "career_hits": 1561,
+    "career_hr": 228,
+    "career_sb": 29,
+    "career_war": 33.8
+  },
+  "ilb_stats": {
+    "ovr": 7,
+    "con": 5,
+    "pow": 5,
+    "spd": 0,
+    "def": 0,
+    "clu": 0
+  },
+  "stat_justification": {
+    "con": "Career .302 BA, peak .343 in 1936 with 216 hits and 45 doubles. Hit .300+ in six seasons. OPS+ 146 in peak year. Career .371 OBP. 28-game hitting streak in 1936. His first three years he out-produced Gehrig, Foxx, and Greenberg in RBI. Ed Barrow (Yankees GM): 'Trosky has the best chance to succeed Lou Gehrig as the powerhouse of the American League.' Maximum contact.",
+    "pow": "42 HR in 1936 — first Cleveland Indian to hit 40+ (not duplicated until Al Rosen in 1953). Led AL in RBI (162), total bases (405), extra-base hits (96). Career 228 HR in only 8 full seasons. Hit 3 HR in a game twice. Career .522 SLG, .644 in peak year. SLG bonus triggers → POW 5. Pure power, Ruthian swing from the left side.",
+    "spd": "4 SB in 1936, 29 career. Big man, slow feet. 9 triples in 1936 (decent for his size). Not a basestealing threat. SPD 0.",
+    "def": "No Gold Gloves (pre-award). Led AL first basemen in errors in 1934 and 1936 — the dubious distinction. After 1936, deliberately worked to improve footwork and fielding. Cut errors significantly by 1938-39. Competent but never a defensive asset. DEF 0.",
+    "clu": "No postseason appearances. Cleveland finished above .500 every year of his tenure but never won the pennant — competing against Yankee dynasties. Zero postseason data means CLU 0 by default. The tragedy of Trosky: he never got the October stage to show what he could do."
+  },
+  "personality": {
+    "leadership_style": "The Reluctant Captain. Trosky was named team captain in 1939 — the extra $500 and the desire to serve as a buffer between young players and the abrasive Oscar Vitt drove his acceptance. He was not a fiery leader. He was steady, decent, principled. He phoned owner Alva Bradley from the airport during the Cry-Baby Rebellion not to grandstand but to ensure his absence from the meeting wouldn't be misconstrued. He led because nobody else would. He paid for it with his reputation.",
+    "temperament": "Iowa farm boy. Quiet, modest, genuine. Married his childhood sweetheart Lorraine from Norway, Iowa. He returned to the farm every offseason. The sportswriters didn't find him difficult like Lazzeri — they found him unremarkable. He was a simple man from a simple place who hit baseballs extraordinary distances. When the migraines hit, he suffered in silence for months before admitting the pain to anyone. He once walked out to Mel Harder on the mound and asked him not to throw to first — because he knew he couldn't see the ball.",
+    "work_ethic": "Boilermaker and Bohemian farmer stock. His family worked a 420-acre farm outside Norway, Iowa. When Cy Slapnicka found him, he was still a kid sitting at his father's kitchen table. He was originally signed as a pitcher who batted cross-handed from the right side. Slapnicka told him to keep his grip but switch to batting lefty. That one adjustment created one of the most devastating left-handed power strokes in AL history. He played every inning of every game in his first two full seasons.",
+    "lifestyle": "Iowa roots, never cut. Born Harold Arthur Trojovsky, second-generation Bohemian. His family shortened the name to Trosky. He married Lorraine Glenn from Norway, Iowa, and their first son Harold Jr. was born in September 1936, two days after the regular season ended — the season of 42 HR and 162 RBI. When the migraines ended his career, he returned to the farm without complaint. Later sold agricultural real estate in Cedar Rapids. Enjoyed hunting, fishing, playing cards, active in his church. His son Hal Jr. pitched briefly for the White Sox in 1958.",
+    "era_adaptability": "MEDIUM-HIGH. Trosky's power stroke was ahead of its time — a left-handed first baseman mashing 40+ home runs with a 1.026 OPS would be a franchise cornerstone in any era. His similarity scores match Albert Pujols, Vlad Guerrero Jr., Orlando Cepeda, Eddie Murray, and Ted Kluszewski. But his defense was below average, and modern analytics would expose his low walk rate (.382 OBP with a .343 BA means limited patience). In today's game he'd be a devastating DH or a platoon-vulnerable 1B who murders right-handed pitching (.345 vs RHP, .280 vs LHP in 1934).",
+    "clubhouse_impact": "STEADY AND STABILIZING. Not a rah-rah guy, not a silent intellectual like Lazzeri. Trosky was the dependable farmer who showed up, did the work, and went home. His teammates trusted him enough to make him captain. When the Vitt situation exploded, Trosky became the face of the rebellion not because he sought attention but because he was the only one with enough credibility. The other Indians hid behind his name. He took the blame alone.",
+    "dark_side": "THE MIGRAINES. Starting in 1938, Trosky was hit with debilitating migraine headaches that blurred his vision and left him unable to play for days. The fastball — the pitch he made his living on — became 'a bunch of white feathers' he couldn't track. He told Mel Harder not to throw to first base because 'if Mel threw me a fast ball, I wouldn't even see it.' He visited doctors in every major city. None could help. He retired at 28. The migraines cost him his prime years (1941-43), at least 100 home runs, probably the Hall of Fame. They also got him rejected from military service in WWII, adding stigma to injury. The cause was eventually traced to dairy sensitivity — treated with vitamin B-1 shots and reduced dairy intake. He came back at 31 with the White Sox but was a shell of himself."
+  },
+  "chemistry_traits": [
+    { "tag": "The Forgotten Slugger", "desc": "Never makes the All-Star team. If 3+ first basemen on opposing rosters are OVR 9+, Trosky is automatically overlooked for awards regardless of stats. The curse of playing alongside Gehrig, Foxx, and Greenberg." },
+    { "tag": "Iowa Farm Boy", "desc": "Immune to city distractions. +1 morale during home stretches. But: -1 comfort in road games in major cities (New York, Chicago)." },
+    { "tag": "Cry-Baby Captain", "desc": "If manager relationship drops below 30%, Trosky can lead a player revolt. 60% chance revolt succeeds (manager fired). 40% chance it backfires (Trosky's reputation permanently damaged, -2 team morale)." },
+    { "tag": "The Migraines", "desc": "15% chance per season starting in year 3 of career. If triggered: -2 CON, -2 POW for 30 games. 25% chance worsens to season-ending. Can be treated with team doctor investment (reduces to 5%)." },
+    { "tag": "Ruthian Power", "desc": "+1 POW vs right-handed pitchers. But -1 CON vs left-handed pitchers. Extreme platoon splits that opponents can exploit." },
+    { "tag": "Bronzed Glove", "desc": "Trosky bronzed the mitt Ruth's liner nearly tore off his hand. Items of historical significance occasionally appear. When they do: +1 team chemistry from the story." },
+    { "tag": "Every Inning", "desc": "Plays every inning of every game for first two seasons. Iron man durability early in career. +1 stamina. (Deactivates once Migraines trigger.)" },
+    { "tag": "Norway, Iowa", "desc": "After career ends, Trosky returns to the farm. If released or retired: no bitterness, no drama. Clean exit. +1 team morale on departure." }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Cleveland's home grounds. 216 career HR as an Indian — 5th all-time in franchise history.",
+      "note_extra": "Source label: 'League Park / Municipal Stadium'. Mapped to Community Events — ballpark/home venue domain. Cleveland's League Park and Municipal Stadium are Trosky's career home stadiums; ballparks map to Community Events per the schema's 'Ballparks' subdomain. Consistent with prior ballpark mappings (Polo Grounds for Terry and Thomson). HIGH affinity reflects genuine territorial ownership: 216 career HRs as an Indian, 5th all-time in franchise history."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "420 acres outside Norway, Iowa. His true home. Hunting, fishing, church, cards.",
+      "note_extra": "Source label: 'Farm / Rural Area'. Mapped to Community Events — hometown/farm/personal life domain. Consistent with Travis 'Farm / Rural Area' → Community Events (Batch 36). Trosky's 420-acre Bohemian farm is his origin, offseason retreat, and post-career home; it is the geographic and emotional anchor of his identity. Cross-fields to Iowa Farm Boy and Norway, Iowa chemistry traits and lifestyle personality key. Second Community Events entry."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Worked tirelessly on his swing. Slapnicka converted him from cross-handed righty to lefty hitter — he never stopped refining.",
+      "note_extra": "Source label: 'Batting Cage / Practice Field'. Direct canonical mapping to Practice Field — batting cage/craft domain. Trosky's swing was itself a construction project (cross-handed righty → left-handed power hitter), and he continued refining it throughout his career; the Practice Field is the site of that ongoing transformation. Cross-fields to work_ethic personality key and The Cross-Handed Convert action card."
+    },
+    {
+      "location": "Medical/Recovery",
+      "affinity": "MEDIUM",
+      "note": "Visited doctors in every major city seeking migraine relief. None could help until 1945 (vitamin B-1 shots).",
+      "note_extra": "Source label: 'Doctor's Office / Hospital'. Direct canonical mapping to Medical/Recovery — injury/hospital/rehabilitation domain. MEDIUM affinity reflects Trosky's sustained, active engagement with the medical domain across years of migraine treatment — not a single hospitalization but a years-long pilgrimage to specialists that defined his later career. This contrasts with Tinker's LOW Medical/Recovery (trauma/amputation, involuntary) and Thomson's absent Medical/Recovery; Trosky's is an ongoing chronic condition. Cross-fields to The Migraines chemistry trait, dark_side personality key, and 'A Bunch of White Feathers' and 'The Vitamin B-1 Cure' action cards."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Farm boy. Not a partier. Married his childhood sweetheart.",
+      "note_extra": "Source label: 'Bar / Nightlife'. Direct canonical mapping to Hotel/Rest — bar/nightlife subdomain. LOW affinity is consistent and expected for a player of Trosky's profile; the brief note ('farm boy, married his childhood sweetheart') economically encodes the irrelevance of nightlife to his identity. Cross-fields to Iowa Farm Boy chemistry trait and temperament personality key."
+    },
+    {
+      "location": "Media/Spotlight",
+      "affinity": "LOW",
+      "note": "Not media-savvy. The Cry-Baby Incident proved the press would turn on him. He learned to distrust reporters.",
+      "note_extra": "Source label: 'Press Room / Interviews'. Mapped to Media/Spotlight — press/interview subdomain. LOW affinity reflects earned wariness rather than temperamental avoidance: the Cry-Baby Rebellion headlines (larger than the Paris invasion headline per the origin text) taught Trosky that the press was a weapon against him. This is a POST-EVENT LOW — his media relationship was neutral before the Vitt incident and hostile after. Cross-fields to Cry-Baby Captain chemistry trait and leadership_style personality key ('phoned in support… became the scapegoat')."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "NONE",
+      "note": "Never invited. Gehrig, Foxx, and Greenberg blocked him every year. The greatest snub in 1930s baseball.",
+      "note_extra": "Source label: 'All-Star Game'. Mapped to Community Events — competitive event/showcase domain. The All-Star Game is a periodic competitive event (not a stadium with a permanent address), but it is most accurately a community/showcase event analogous to ballpark or public competitive venue; Community Events is the appropriate canonical domain. NONE affinity is the fifth NONE in the set (after Mungo, Thomson/Cooperstown, Travis/Media, Traynor/Gambling Hall); this is the first *competitive exclusion NONE* — Trosky was not institutionally barred (Cooperstown), did not avoid the domain (Travis), and the domain is not irrelevant (Traynor) — he was actively excluded by the presence of superior-rated contemporaries (Gehrig, Foxx, Greenberg). A new NONE subtype: *blocked NONE*. Third Community Events entry. Cross-fields to The Forgotten Slugger chemistry trait and all_star: 0 in real_stats."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "Facing right-handed pitching — .345 vs RHP, pure devastation",
+      "28-game hitting streaks — locked-in zone where everything he swings at is crushed",
+      "Home games in Cleveland — thrived at League Park",
+      "First two seasons — iron-man energy, played every inning of every game"
+    ],
+    "cold_triggers": [
+      "Migraine episodes — blurred vision, 'white feathers' instead of fastballs",
+      "Left-handed pitching — .280 with minimal power from the wrong side",
+      "Manager conflict — the Vitt situation drained him and damaged his reputation",
+      "Awards season — never recognized, never an All-Star. The snubs compounded over years."
+    ],
+    "pressure_response": "UNKNOWN — AND THAT'S THE TRAGEDY. Trosky never played a single postseason game. Cleveland was above .500 every year he was there but never won the pennant. In 1940, the year they came closest (finished 1 game behind Detroit), Trosky was already fighting migraines and hit .295 — good, but not what he was in 1936. We'll never know if he was a postseason hero or a postseason ghost. The game never gave him the chance to show us."
+  },
+  "action_card_seeds": [
+    {
+      "title": "The Kitchen Table Signing",
+      "type": "Action",
+      "text": "Your scout arrives at a farmhouse kitchen before the competition. The prospect's father is already seated at the table. 'I liked Slap,' the kid says later. The prospect signs with your team. Rival scouts arrive three days too late.",
+      "origin": "1930: Cy Slapnicka sat in the Trojovsky kitchen in Norway, Iowa while Connie Mack and the Cardinals were still organizing their pitches. Trosky signed with Cleveland. Mack's contract arrived three days later."
+    },
+    {
+      "title": "Don't Worry About Holding Me On, Kid",
+      "type": "Drama",
+      "text": "Your rookie first baseman faces a legend who hits a screaming line drive that nearly tears off his glove. The legend whispers: 'Don't worry about holding me on, kid. I ain't going noplace. Just drop back and play it safe.' Your rookie later bronzes the glove.",
+      "origin": "September 17, 1933: Babe Ruth's line drive carried Trosky's mitt halfway into right field. Ruth told the terrified rookie to play deep against Gehrig. Trosky had the glove bronzed."
+    },
+    {
+      "title": "The 162-RBI Season",
+      "type": "Game Action",
+      "text": "Your first baseman puts together a historic season: 42 HR, 162 RBI, 405 total bases, .343 BA. He leads the league in RBI, extra-base hits, and total bases. He is not selected for the All-Star team. He is the best player in baseball who nobody votes for.",
+      "origin": "1936: Trosky's monster season. Led AL in RBI (162), total bases (405), extra-base hits (96). Not an All-Star because Gehrig, Foxx, and Greenberg existed. His RBI franchise record stood 63 years. His total bases record still stands."
+    },
+    {
+      "title": "A Bunch of White Feathers",
+      "type": "Drama",
+      "text": "Your slugger starts seeing fastballs as blurred white shapes. The migraines hit without warning — debilitating, vision-destroying pain that no doctor can diagnose. He asks his own pitcher not to throw to first base. He benches himself. He is 26 years old.",
+      "origin": "1939-41: Trosky's migraines made fastballs look like 'a bunch of white feathers.' He walked to Mel Harder on the mound and said not to throw to first — 'I knew if Mel threw me a fast ball, I wouldn't even see it.'"
+    },
+    {
+      "title": "The Cry-Baby Rebellion",
+      "type": "Drama",
+      "text": "Your team despises their manager. Players petition the owner for the manager's removal. The headline is physically larger than the one reporting the invasion of Paris. Your team captain — who wasn't even at the meeting — becomes the scapegoat. His reputation is permanently damaged.",
+      "origin": "June 1940: Cleveland players revolted against manager Oscar Vitt. Trosky, absent due to his mother's death, phoned in support. Gordon Cobbledick's headline in the Plain Dealer was larger than the one for Hitler's invasion of Paris. The 'Cry-Baby Indians' label stuck to Trosky forever."
+    },
+    {
+      "title": "A Fellow Can't Go On Like This Forever",
+      "type": "Drama",
+      "text": "Your star player announces his retirement at 28. 'If I can't find some relief, I'll simply have to give up and spend the rest of my days on my farm in Iowa.' He has visited doctors in every major city. None can help. He goes home.",
+      "origin": "July 12, 1941: Trosky told reporters and his manager he was done. The migraines had won. He returned to his Iowa farm, not knowing if he'd ever play again."
+    },
+    {
+      "title": "The Vitamin B-1 Cure",
+      "type": "Action",
+      "text": "After years of agony, your retired player discovers that vitamin shots and reduced dairy intake lessen the migraines. He attempts a comeback at 31. He is not the same player. But he walks onto the field one more time.",
+      "origin": "1945: Working at the Amana refrigeration plant, Trosky discovered that B-1 shots and less dairy helped his migraines. He returned with the White Sox in 1944 and 1946 but was a shell — .254 BA, 2 HR in his final year."
+    },
+    {
+      "title": "The Cross-Handed Convert",
+      "type": "Action",
+      "text": "Your scout finds a kid who bats cross-handed from the right side. He tells the kid: keep your grip, but switch to the left side of the plate. The kid becomes one of the most devastating left-handed power hitters in the league.",
+      "origin": "1931: Cy Slapnicka saw Trosky batting cross-handed righty. He suggested switching to a left-handed stance while keeping the same grip. This one adjustment created 228 career home runs."
+    }
+  ],
+  "art_direction": {
+    "face": "Big, powerful frame — 6'2\" 207 lbs, left-handed hitter's stance. Broad-shouldered Iowa farm kid. Honest face, not glamorous. Square jaw, light eyes, hair parted neatly. He looked like what he was: a farmer who could hit baseballs over buildings.",
+    "attire": "Cleveland Indians 1936 road grays. The old-style 'C' on the cap. No pinstripes — just plain, honest workwear of a mid-tier franchise. He's not in Yankee pinstripes or Tiger white. He's in Cleveland gray, and that says everything about his career.",
+    "mood": "Power and loneliness. The follow-through of a massive home run, bat pointing toward the sky — but the stands are half-empty because it's Cleveland in the Depression, not New York. Or: a quiet moment in the dugout, head in hands, eyes closed against the migraine. The card should feel like unrealized potential. The career that should have been.",
+    "style": "Muted Depression-era palette. Dust-bowl browns and steel grays. League Park's old concrete walls in the background. No glitz, no glamour. This is the anti-Yankee card. The card of the man who out-hit Gehrig in his first three years and never made an All-Star team.",
+    "reference": "The forgotten slugger. The card that asks: what does baseball owe the men it overlooks? 42 home runs, 162 RBI, and not even an All-Star nod. Then the migraines came, and history forgot him entirely."
+  }
+}

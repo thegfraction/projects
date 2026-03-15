@@ -1,0 +1,202 @@
+{
+  "card_type": "player",
+  "name": "Mickey Vernon",
+  "nickname": "The Quiet Senator",
+  "year": 1946,
+  "team": "Washington Senators",
+  "era": "1940s",
+  "ilb_team": "Allies AL1940",
+  "position": "1B",
+  "bats": "L",
+  "throws": "L",
+  "height": "6'2\"",
+  "weight": "170 lbs",
+  "born": "April 22, 1918 — Marcus Hook, PA",
+  "died": "September 24, 2008 — Media, PA",
+  "hof": "Not inducted. 2× AL batting champ, 7× All-Star, 2,495 hits, .286 BA, 35.3 WAR.",
+  "real_stats": {
+    "season": 1946,
+    "games": 148,
+    "at_bats": 587,
+    "hits": 207,
+    "doubles": 51,
+    "triples": 8,
+    "home_runs": 8,
+    "rbi": 85,
+    "stolen_bases": 7,
+    "batting_avg": ".353",
+    "obp": ".403",
+    "slg": ".508",
+    "ops": ".910",
+    "ops_plus": 160,
+    "war": 6.7,
+    "all_star": 7,
+    "batting_titles": 2,
+    "career_avg": ".286",
+    "career_hits": 2495,
+    "career_hr": 172,
+    "career_sb": 137,
+    "career_war": 35.3
+  },
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 5,
+    "pow": 1,
+    "spd": 1,
+    "def": 3,
+    "clu": 1
+  },
+  "stat_justification": {
+    "con": "AL batting champion in 1946 (.353) and 1953 (.337). Beat Ted Williams by 11 points in '46, edged Al Rosen by .001 in '53. Career .286 BA, 2,495 hits, 490 doubles. OPS+ 160 in peak year. Hit to all fields — studied Charlie Gehringer, Cecil Travis, and Ted Williams to master spray hitting. Maximum contact rating.",
+    "pow": "Only 8 HR in 1946 — Griffith Stadium's cavernous dimensions suppressed his power. Career-high 20 HR in 1954. 172 career HR, 101 fewer than the average HOF 1B. However, SLG .508 in 1946 meets the .500 bonus threshold. HR tier 0 + SLG bonus = POW 1. Vernon was a doubles machine (490 career), not a slugger.",
+    "spd": "7 SB in 1946 (tier 1). 137 career SB — excellent for a first baseman across 20 seasons. Described as able to steal bases, but speed was never his primary weapon. No CF/SS Gold Glove bonus applies. SPD 1.",
+    "def": "All-time ML record for double plays at 1B (2,044). AL records for career games (2,227), putouts (19,754), assists (1,444), and total chances (21,408) at first base. Bob Feller said he was 'the best first baseman in major-league baseball.' Jack Dunn said he was 'the only man in baseball who could play first base in a tuxedo.' Pre-Gold Glove era, but equivalent to 6+ GG. Maximum defense.",
+    "clu": "Never played in the World Series — 2,409 career games, 11th most all-time without a WS appearance. No postseason data to evaluate. However, he won two batting title races on the final day of the season and hit a walk-off HR vs the Yankees before President Eisenhower. Regular-season clutch reputation, but no October stage. CLU 1."
+  },
+  "personality": {
+    "leadership_style": "Quiet, steady, lead-by-example. Vernon never raised his voice, never caused controversy, never demanded attention. He was 'as silent as a night watchman, as conservative as a banker, and as well-behaved as a vicar.' His leadership came from consistency — showing up, performing, being decent. Teammates trusted him because he was incapable of selfishness.",
+    "temperament": "Gentle, humble, unfailingly kind. Roommate Walt Masterson challenged a writer: 'If anybody says anything bad about Mickey, you send him to me.' Nobody ever did. Vernon was universally beloved — by teammates, opponents, writers, umpires, and presidents. He was the opposite of a diva: shy, mild-mannered, and deeply uncomfortable with self-promotion.",
+    "work_ethic": "Student of hitting. Before 1946, Vernon was a .275 pull hitter. He studied Charlie Gehringer, Cecil Travis, Ted Williams, Joe DiMaggio, and Hank Greenberg — not to copy them, but to extract specific principles. He transformed himself into an all-fields hitter under coach Clyde Milan. His approach was analytical and patient in an era of gut instinct.",
+    "lifestyle": "Small-town Pennsylvania boy for life. Born in Marcus Hook, married Lib, lived 52 years in Wallingford. Attended Villanova. Friends with Danny Murtaugh from high school until death. Hitchhiked to the 1933 World Series as a teenager. Community fixture — Little League named after him, life-size statue in Marcus Hook. Spent 52 seasons in professional baseball.",
+    "era_adaptability": "HIGH. Vernon's all-fields approach and analytical hitting study are essentially modern batting philosophy. His spray-hitting, OBP skills, and elite defense would translate perfectly to any era. His low power would hurt him at 1B in slugger-heavy eras, but his bat control and defensive value are timeless.",
+    "clubhouse_impact": "STEADY-BELOVED. Not a rah-rah leader, but the man everyone liked and respected. His decency was his superpower. He befriended Larry Doby during wartime service, encouraged him to pursue the majors, and gave him Senators-bought bats while Doby was still in the Negro Leagues. Vernon was a bridge-builder — quietly progressive, personally generous, universally trusted.",
+    "dark_side": "The invisibility. Vernon played 20 years, won two batting titles, made seven All-Star teams, and set defensive records — and was still forgotten. He played for the perennial cellar-dwelling Senators while Williams, DiMaggio, and Mantle got the headlines. He reached 25% in HOF voting but never got in. In ILB terms: Vernon carries a 'Forgotten Star' trait — his stats are excellent, but his fame modifier is low. Teams that play him will get elite production with zero drama, but also zero buzz."
+  },
+  "chemistry_traits": [
+    {
+      "tag": "Tuxedo Fielder",
+      "desc": "Elite defensive first baseman. All-time DP record. Reduces opponent baserunner advancement by 1 base on ground balls to the right side."
+    },
+    {
+      "tag": "Spray Hitter",
+      "desc": "Hits to all fields based on pitch location. No platoon disadvantage against LHP. +1 CON when facing soft-tossing pitchers."
+    },
+    {
+      "tag": "Quiet Leader",
+      "desc": "No dramatic speeches, no ego. Prevents clubhouse drama events. -1 to team volatility."
+    },
+    {
+      "tag": "Bridge Builder",
+      "desc": "Befriended Larry Doby during WWII. +2 chemistry with players from any background or era. Reduces racial tension events."
+    },
+    {
+      "tag": "Presidential Favorite",
+      "desc": "Eisenhower's favorite player. +1 reputation in Washington/political squares. Walk-off moments gain extra publicity."
+    },
+    {
+      "tag": "Forgotten Star",
+      "desc": "Despite elite stats, Vernon generates no media buzz. -1 fame modifier, but opponents consistently underestimate him."
+    },
+    {
+      "tag": "Four-Decade Man",
+      "desc": "Played in 4 decades (1939-1960). +1 era adaptability. Compatible with players from any era square."
+    },
+    {
+      "tag": "War Veteran",
+      "desc": "Served in Navy 1944-1945. +1 chemistry with other WWII veterans. No morale penalty during hardship events."
+    }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Student of hitting. Studied opponents' approaches. Worked with coach Clyde Milan on all-fields technique.",
+      "note_extra": "Source label: 'Batting Cages / Practice Field.' The source label is near-identical to the canonical domain name. Mapped to Practice Field (craft/training domain — batting cages, film study, and technique refinement are the core Practice Field activities). Standard HIGH affinity. Cross-field expression: Spray Hitter chemistry trait (+1 CON vs soft-tossers) and the work_ethic personality key ('student of hitting, analytical and patient') are the direct mechanical and narrative expressions of this location's mastery. The transformation from .275 pull hitter to .353 all-fields champion is the Practice Field story."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Attended countless local events for decades. Little League named after him. Statue in Marcus Hook.",
+      "note_extra": "Source label: 'Community Events.' First instance in the set where the source label exactly matches the canonical domain name. Mapped to Community Events (ballparks, hometowns, public venues — the Marcus Hook community presence, Little League involvement, and life-size statue are quintessential Community Events expressions). Standard HIGH affinity. Cross-field expression: lifestyle personality key ('community fixture') and the Hitchhiking to the World Series action seed (Marcus Hook origin) ground Vernon's Community Events identity in the specific geography of his Pennsylvania hometown."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Quiet, conservative personality. Content with a book and early bedtime.",
+      "note_extra": "Source label: 'Hotel / Rest.' Source label matches canonical domain. Mapped to Hotel/Rest (rest/transit/private downtime domain). Standard MEDIUM affinity. Vernon's Hotel/Rest is a comfort location, not a social one — the medium affinity encodes functional satisfaction rather than enthusiasm. Cross-field expression: temperament personality key ('shy, mild-mannered, deeply uncomfortable with self-promotion') is the personality-layer expression of this preference."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "Social but not flashy. Enjoyed team dinners. Simple tastes.",
+      "note_extra": "Source label: 'Restaurant / Steakhouse.' Mapped to Hotel/Rest (social dining fits the Hotel/Rest domain's social-space scope alongside 'bar/nightlife, home' — a team dinner or steakhouse visit is a private social occasion rather than a public community event). Second Hotel/Rest entry at MEDIUM on this card; two MEDIUM Hotel/Rest entries is unusual but reflects the range of Vernon's comfortable domestic social settings. Cross-field expression: clubhouse_impact personality key ('the man everyone liked') is the social infrastructure that makes team dinners a natural habitat."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "As well-behaved as a vicar. Not a nightlife person.",
+      "note_extra": "Source label: 'Bar / Nightlife.' The canonical taxonomy explicitly lists 'bar/nightlife' under Hotel/Rest. LOW affinity encodes active avoidance without hostility — Vernon is not harmed by bars, he simply does not inhabit them. Cross-field expression: leadership_style personality key ('as well-behaved as a vicar') is the source of this LOW; the vicar comparison is the card's defining temperament image."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "NONE",
+      "note": "No association whatsoever.",
+      "note_extra": "Source label: 'Gambling Hall.' Mapped to Hotel/Rest (adult entertainment venue in the social-space grouping). NONE affinity encodes complete absence of connection — not avoidance by principle (which would be LOW) but a total null relationship. Vernon's NONE is the most neutral NONE in the set: no scandal, no history, no backstory, just structural irrelevance. This is the first NONE affinity on a card where it encodes emptiness rather than danger, death, or exile."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "Batting title races — Vernon's two titles both came down to the final day",
+      "Return from adversity — .275 hitter before the war, .353 after",
+      "Multi-hit games / hitting streaks — 22-game streak in 1946, hitting .411 in late May",
+      "Playing before dignitaries or large crowds — walk-off HR before President Eisenhower"
+    ],
+    "cold_triggers": [
+      "Extended losing streaks on bad teams — Senators' futility wore on him over 14 seasons",
+      "Isolation from competition — Vernon elevated when racing for titles, stagnated in non-contending years",
+      "Aging / late-career decline — effective into his 40s but periodic slumps in off-years (.251 in 1952)"
+    ],
+    "pressure_response": "PARADOXICAL. Vernon never played in a World Series, so his pressure rating is theoretical. But in regular-season pressure — final-day batting title races, Opening Day walk-offs, All-Star appearances — he was consistently excellent. His 1946 and 1953 batting crowns were won in the final week of the season against Ted Williams and Al Rosen respectively. He thrived in pressure he could see coming. In ILB: Vernon performs above his OVR in regular-season high-stakes (batting title races, rivalry games) but has no postseason modifier."
+  },
+  "action_card_seeds": [
+    {
+      "title": "Beating the Splendid Splinter",
+      "type": "Game Action",
+      "text": "Your contact hitter outduels the league's best slugger in the batting race. Your highest-CON player gains +1 CON for the remainder of the season. The slugger's owner discards 1 morale.",
+      "origin": "Vernon's .353 beat Ted Williams' .342 for the 1946 AL batting title — both men returning from WWII military service."
+    },
+    {
+      "title": "One-Thousandth of a Point",
+      "type": "Game Action",
+      "text": "The batting title comes down to the final at-bat of the season. Your player goes 2-for-4. Roll a d6: on 3+, he wins the crown and gains +2 reputation. On 1-2, the rival claims it.",
+      "origin": "Vernon's .337 edged Al Rosen's .336 on the final day of 1953, denying Rosen the Triple Crown by one one-thousandth of a point."
+    },
+    {
+      "title": "The President Wants to See You",
+      "type": "Action",
+      "text": "After a walk-off home run, a Secret Service agent escorts your player to the presidential box. The player gains +3 fame and +1 reputation permanently.",
+      "origin": "After Vernon's walk-off HR vs the Yankees on Opening Day 1954, a Secret Service agent took him to President Eisenhower's box. Ike said: 'Nice going.'"
+    },
+    {
+      "title": "Bats for a Friend",
+      "type": "Drama",
+      "text": "Your player gives equipment and encouragement to a talented player from a marginalized league. That player signs with a rival team next season — but your team gains +3 karma and the new player has permanent +1 chemistry with yours.",
+      "origin": "Vernon gave Larry Doby a dozen Senators-purchased bats while Doby was still in the Negro Leagues, and encouraged him to pursue the majors. Doby broke the AL color line in 1947."
+    },
+    {
+      "title": "The Tuxedo at First Base",
+      "type": "Game Action",
+      "text": "Your first baseman turns a spectacular double play. All ground balls to the right side for the rest of the game have a +20% chance of becoming double plays.",
+      "origin": "Vernon turned 2,044 double plays at first base — the all-time MLB record. Jack Dunn said he was 'the only man in baseball who could play first base in a tuxedo.'"
+    },
+    {
+      "title": "Hitchhiking to the World Series",
+      "type": "Drama",
+      "text": "A teenage fan hitchhikes across the state to see the big game. He stands in line all night for bleacher seats. Years later, he becomes a star — but never plays in the Series himself. Your player gains the 'Dreamer' trait: +1 in all regular-season games, but -1 morale if eliminated from postseason contention.",
+      "origin": "As a teenager, Vernon hitchhiked from Marcus Hook to Brooklyn and stood all night to get bleacher tickets for the 1933 World Series. He played 2,409 career games without ever appearing in a World Series."
+    },
+    {
+      "title": "Fifty-Two Seasons",
+      "type": "Action",
+      "text": "Your veteran player transitions seamlessly from player to coach to manager to scout. He never leaves baseball. +1 to franchise stability. If this player retires, he becomes available as a coaching bonus for 3 more seasons.",
+      "origin": "Vernon spent 52 seasons in professional baseball — as player, manager, coach, and scout — from 1937 to 1988. He was baseball's youngest player in 1939 and its oldest in 1960."
+    }
+  ],
+  "art_direction": {
+    "face": "Tall, lanky, lean build at 6'2\" 170 lbs — the opposite of the stocky slugger archetype. Long face, gentle eyes, easy smile. Clean-cut, modest appearance. The look of a small-town Pennsylvania gentleman who happens to be an elite athlete.",
+    "attire": "Washington Senators home whites, 1946 vintage. Baggy wool flannel, high socks, classic cap with the curly W. Number visible. Left-handed batting stance or smooth fielding stretch at first base. Era-appropriate loose-fitting uniform on a tall, thin frame.",
+    "mood": "Quiet confidence. Not fierce, not celebratory — serene competence. The look of a man who just went 3-for-4 and won't mention it unless asked. Gentle warmth, understated pride. The smile of someone who loves what he does and doesn't need you to notice.",
+    "style": "Warm sepia tones with soft golden light. Griffith Stadium's right-field wall faintly visible in the background. Classic 1940s baseball card composition — chest up, slight turn, bat resting on shoulder. Less dramatic than the Crashers cards; Vernon's card should feel quiet, elegant, and dignified. Like finding a forgotten treasure in a dusty attic.",
+    "reference": "Think 1946 Play Ball card aesthetic, rendered in the unified ILB sepia style. Vernon's card should feel like the most underrated card in the set — the one collectors overlook until they realize it's one of the best values."
+  }
+}

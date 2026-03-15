@@ -1,0 +1,205 @@
+{
+  "card_type": "player",
+  "name": "Elmer Valo",
+  "nickname": null,
+  "year": 1949,
+  "team": "Philadelphia Athletics",
+  "league": "American League",
+  "era": "1940s",
+  "ilb_team": "Allies AL1940",
+  "position": "RF",
+  "bats": "L",
+  "throws": "R",
+  "height": "5'11\"",
+  "weight": "190 lbs",
+  "born": "March 5, 1921 — Rybník, Czechoslovakia",
+  "died": "July 19, 1998 — Palmerton, PA",
+  "hof": "Not inducted (Philadelphia Baseball Wall of Fame, 1990; Philadelphia Phillies Wall of Fame, 1990)",
+
+  "real_stats": {
+    "season": 1949,
+    "games": 143,
+    "at_bats": 448,
+    "hits": 127,
+    "doubles": 27,
+    "triples": 12,
+    "home_runs": 5,
+    "rbi": 62,
+    "stolen_bases": 17,
+    "batting_avg": ".283",
+    "obp": ".403",
+    "slg": ".393",
+    "ops": ".796",
+    "ops_plus": 120,
+    "war": 4.2,
+    "awards": "First player in MLB history to hit two bases-loaded triples in a single game (May 1, 1949); led AL in OF putouts",
+    "career_avg": ".282",
+    "career_hits": 1420,
+    "career_hr": 58,
+    "career_sb": 110,
+    "career_war": 28.7,
+    "career_obp": ".398",
+    "career_k": 284,
+    "career_notes": "OBP exceeded .400 in 8 of 10 seasons (1946-55). Career 284 K in 5,029 AB — among lowest K rates in history. 20 MLB seasons, 1,806 games, zero postseason appearances. Pinch-hit career records: 91 BB (still-standing AL record for most PH walks in season, 1960), 90 hits. Cover of Baseball Digest Issue #1 (August 1942). Played for three franchises both before AND after they relocated (Athletics: PHI/KC; Dodgers: BKN/LA; Senators/Twins)."
+  },
+
+  "ilb_stats": {
+    "ovr": 6,
+    "con": 3,
+    "pow": 0,
+    "spd": 2,
+    "def": 2,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": "Peak BA .307 (1946); card-year BA .283 (1949) falls in the .270–.299 = 3 band. OPS+ 120 does not clear the ≥130 bonus threshold. However, CON 3 mechanically undersells Valo's true plate-discipline identity: career OBP .398, exceeding .400 in eight consecutive seasons (1946-55), with only 284 career strikeouts in 5,029 at-bats. 'In twenty years as a major league player, he reached base as often as Joe DiMaggio.' The CON stat captures contact rate; the OBP story belongs in the stat_justification as context for why this CON 3 card has unusual on-base value.",
+    "pow": "Career 58 HR across 20 seasons. Peak single-season HR: approximately 5-8. 0–9 HR = 0. SLG .391 career, well below the .500 bonus threshold. Valo was a line-drive, gap, walk-machine hitter. POW 0 is accurate and intentional — he reached base through patience and contact, not power. First RF in the set with POW 0.",
+    "spd": "Approximately 17 SB in 1949 (16–30 SB range = 2). Described as possessing a 'sprinter's speed.' Led the AL in OF putouts and range factor multiple seasons. Career 110 SB. SPD 2 reflects genuine speed used both on bases and in the outfield.",
+    "def": "Pre-Gold Glove era; historical reputation rule applied. Led AL in putouts (LF, 1949; RF multiple seasons) and range factor (RF, 1942 and 1946). Robbed Ted Williams and Yogi Berra of home runs by going over outfield walls. The Shibe Park right field wall retained his physical imprint from repeated crashes. 'Though not a graceful outfielder, he used his sprinter's speed, superior leaping ability, and sheer determination.' First RF in the set to earn DEF 2 — prior DEF 2/3 outfield entries were all CFs.",
+    "clu": "CLU 0 is accurate and significant: Valo played 20 MLB seasons and 1,806 games with zero postseason appearances. The Philadelphia Athletics were perennial also-rans. No WS performance exists to evaluate. No postseason at-bats in his career. The man who reached base as often as DiMaggio never appeared in a playoff game — the cleanest expression of CLU 0 in the set."
+  },
+
+  "personality": {
+    "leadership_style": "Service and example. Valo was the Philadelphia Athletics' player representative and goodwill ambassador — chosen by his teammates to speak for them, and chosen by the organization to represent them to the public. His immigrant story made him a natural community figure. He gave speeches to youth groups throughout his career; his theme was always 'the value of sports and their relationship to freedom and the American way of life.'",
+    "temperament": "Relentless, humble, studious. 'Being a baseball player is not a glamorous job, it's hard work.' He never considered himself a natural athlete. He hid nothing about the effort required. His roommate Pete Suder hid magazines from him so he could read them before Elmer did, because Elmer read everything to improve his English. He took the umpire examination at McGowan's school and tied for the highest grade in class.",
+    "work_ethic": "Extraordinary and principled. Two broken ribs from wall crashes in 1948 — he taped himself up and kept playing until the pain made it impossible to grip a bat. When he finally rested, the Athletics went 16–25 in three weeks. He refereed high school and collegiate basketball in the offseason. He studied the rules of the game from every angle.",
+    "lifestyle": "Slovak-American, Pennsylvania-rooted. Born Imrich Valo in Rybník, Czechoslovakia; emigrated to Palmerton, PA at age 6; parents changed his name. He never left the Lehigh Valley spiritually — died in Palmerton at 77, inducted into the Philadelphia baseball wall of fame, scouted for the Phillies in eastern Pennsylvania for 13 years until his death.",
+    "era_adaptability": "HIGH. Valo's plate discipline — career .398 OBP, 284 career K in 5,029 AB — would be valued more highly in any modern analytics era than it was in his own time. The wall-crash defense translates to any era. The immigrant work ethic is timeless.",
+    "clubhouse_impact": "Warm, respected, integrating. In the racially charged Kansas City of the mid-1950s, Valo befriended Vic Power (Puerto Rican), taught him English, and taught him practical jokes. As the Hardball Times noted, Valo was one of the lesser-known contributors to baseball's integration story — not on the field but in the clubhouse, person to person. Player representative for the Athletics for years.",
+    "dark_side": "Twenty seasons. Zero postseason appearances. Released in 1956 by the Kansas City Athletics — not traded, released — to keep Enos Slaughter, age 40. The Royals Review: 'They didn't trade him, even to the Yankees for a couple of warm bodies. They just flat-out released their best hitter. Decisions like that explain why the franchise never had a winning record in Kansas City.' The man who reached base as often as DiMaggio played his entire career without a playoff game."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Wall Crasher",
+      "desc": "Once per game, Valo may attempt a catch by going over the outfield wall. Roll: (4-6) out recorded, Valo uninjured; (2-3) out recorded, Valo loses 1 OVR for 3 games; (1) out recorded, Valo exits with injury."
+    },
+    {
+      "tag": "OBP Machine",
+      "desc": "Valo's walks count as +1 CON rather than zero in team-score calculations. His on-base presence is worth more than his BA suggests."
+    },
+    {
+      "tag": "Imrich",
+      "desc": "Bonus chemistry with all immigrant or foreign-born players in the set — the shared experience of building an American identity."
+    },
+    {
+      "tag": "Player Representative",
+      "desc": "Once per season, Valo may negotiate a team-wide morale event on behalf of all players. Success: +1 chemistry for all. Failure: management event triggered."
+    },
+    {
+      "tag": "The Umpire Student",
+      "desc": "Once per game, Valo may challenge a borderline call with elevated credibility — his umpire-school training gives a +1 to the roll."
+    },
+    {
+      "tag": "Zero Postseason",
+      "desc": "Valo's CLU 0 is permanent and irrevocable — no chemistry trait, action card, or event can override it. He will never appear in a playoff game."
+    },
+    {
+      "tag": "Teach Me English",
+      "desc": "Valo may teach any foreign-born teammate 1 language level per season, converting their -1 culture-gap chemistry penalty to neutral."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "The umpire examination. The basketball refereeing. The English grammar magazines. Valo studied baseball from every angle because he believed work, not talent, was the basis of the game.",
+      "note_extra": "Source labeled 'Study / Rules / Practice' / affinity 'HIGH' — eleventh Practice Field/HIGH in the set. Prior registers span pitching craft (Mathewson, McGinnity, Phillippe, Plank, Cooper, Blackwell, Trucks) and offensive preparation (Puckett, Rizzuto, Holmes, Gordon). Valo's Practice Field/HIGH is the first in the set grounded in multi-domain study beyond the game itself: the umpire examination (passed with the highest grade in the class at McGowan's school), basketball refereeing, and obsessive self-education in English grammar. The SABR BioProject: 'Likewise he read constantly to improve his English grammar. Roommate Pete Suder hid his magazines so he could read them before Elmer did.' The chemistry_trait 'The Umpire Student' is the mechanical expression of the rule-study dimension; the personality.work_ethic field documents the multi-domain scope. Valo treated the game as a system to be understood from every vantage — player, umpire, coach, scout. The Practice Field was never merely physical for him."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "SACRED",
+      "note": "The Shibe Park right field wall. His silhouette remained in the wood after they tore the park down. The wall was his cathedral.",
+      "note_extra": "Source labeled 'Shibe Park Right Field Wall' / affinity 'SACRED' — fifth SACRED in the set (after Gehrig/Yankee Stadium, Rice/WS fence, and two prior SACREDs). Valo's is the first SACRED in the set applied to a specific structural element of a ballpark rather than a whole stadium or historical fence. The Luzerne County Sports HOF source: 'Longtime Valo followers said you could make out his silhouette in Shibe Park's right field wall until they tore down the tradition-rich yard at 21st and Lehigh.' A player's physical imprint remaining in the infrastructure of a demolished ballpark is as close to SACRED as any location claim in the set. The Community Events domain is used because Shibe Park was a Philadelphia civic space — Valo's wall-crash identity was a public act performed for a community audience, not a private craft practice. The Wall Crasher chemistry trait and the action card seed 'The Silhouette in the Wall' are the cross-field mechanical expressions of this SACRED."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "The youth speeches on baseball and American freedom. The player-representative role. The immigrant-to-ambassador arc that ran the length of his career.",
+      "note_extra": "Source labeled 'Community / Youth Events' / affinity 'HIGH' — sixth Community Events/HIGH in the set. Prior registers: homeland-origin (Phillippe, Overall, Plank), civic-identity (O'Doul), formal-philanthropy (Puckett), named-institution (Rizzuto), sustained-teaching (Holmes), integration-moment (Gordon), community-rootedness (Trucks). Valo's Community Events/HIGH is the first in the set grounded in an explicitly immigrant-American freedom narrative — his stated theme for every youth speech was 'the value of sports and their relationship to freedom and the American way of life.' Born Imrich Valo in Czechoslovakia, he became the most vocal articulator of baseball-as-American-freedom in the set. The SABR BioProject: 'he was a popular speaker to youth groups; his theme was always the value of sports and their relationship to freedom and the American way of life.' The chemistry_trait 'Imrich' (bonus chemistry with all foreign-born players) and the chemistry_trait 'Player Representative' are the cross-field mechanical expressions."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Rybník, Czechoslovakia. Emigrated at age 6. Born Imrich Valo, became Elmer William Valo in Palmerton, Pennsylvania. The name change is the ORIGIN.",
+      "note_extra": "Source labeled 'Homeland / Immigration Origin' / affinity 'ORIGIN' — fifth standalone ORIGIN in the set (after Cooper/Atherton, Trucks/Birmingham, Rice/ORIGIN-WOUND, Blackwell/California). Valo's ORIGIN is the only one in the set grounded in a geopolitical displacement: he was born in a country that no longer exists in its 1921 form (Czechoslovakia), emigrated at age 6 to Palmerton, PA, and had his name changed from Imrich Vallo to Elmer William Valo. The ORIGIN encodes both the departure point (Rybník, Slovakia) and the arrival point (Palmerton, PA) as a single transformation event. The Wikipedia source documents: 'his parents changed his name from Imrich Vallo to Elmer William Valo.' The action card seed 'Imrich to Elmer' encodes this name-change as a game mechanic. The ORIGIN is also the basis for the chemistry_trait 'Imrich' (bonus with all foreign-born players) — the shared immigrant experience as a chemistry domain."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "The Vic Power friendship. The magazine-war with roommate Pete Suder. The player-representative meetings. Valo made every clubhouse warmer.",
+      "note_extra": "Source labeled 'Clubhouse / Locker Room' / affinity 'HIGH' — thirteenth Hotel/Rest/HIGH in the set. Prior registers span multiple sub-domains from vice-social (McGraw) through integration-moral-leadership (Gordon). Valo's register is the first in the set grounded in both linguistic integration (teaching Vic Power English) and shared humor (teaching practical jokes). The Hardball Times source: 'Valo taught Power the English language and how to pull practical jokes — especially on one another.' The magazine competition with roommate Pete Suder — Suder hiding magazines so he could read them first because Valo always got to them — documents a specific recurring team intimacy across the full span of their partnership on the Athletics. The chemistry_trait 'Teach Me English' is the mechanical cross-field expression of the Power dimension; the magazine-war detail documents the Suder dimension as a recurring clubhouse joy-event."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "On-base streaks — OBP Machine trait activates when Valo reaches base 4+ consecutive PA.",
+      "Wall-crash catch opportunities — the risk-reward of the Wall Crasher trait is its own momentum engine.",
+      "Teaching moments with foreign-born teammates — Teach Me English trait activates.",
+      "Home games at Shibe Park — SACRED domain bonus; the wall is known, the angle is familiar."
+    ],
+    "cold_triggers": [
+      "Franchise relocation announcement — documented career disruption; each relocation generates a -1 chemistry for 1 season.",
+      "Postseason qualification by his team — never happened, but the Zero Postseason trait is a permanent cold element.",
+      "Management releasing him for a player of lesser value — the KC Athletics 1956 event is a permanent wound.",
+      "Power hitting opportunities — POW 0 is structural; situations demanding extra-base power are Valo's cold zone."
+    ],
+    "pressure_response": "Paradoxical and poignant. Valo performed best in situations that rewarded discipline — working a count, taking a walk, reaching base through patience. He performed worst in situations that rewarded power or postseason experience. The irony: he was best suited for a championship team that needed a disciplined table-setter, and he spent his entire career on teams that never reached the postseason. He was the right player in the wrong franchise context for 20 years."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Two Bases-Loaded Triples",
+      "type": "Game Action",
+      "text": "In a single game, your player hits two bases-loaded triples — driving in six runs from the same scenario twice. The opposing pitcher is removed after the second. Your team gains +2 momentum for the remainder of the game.",
+      "origin": "May 1, 1949: Valo became the first player in MLB history to hit two bases-loaded triples in a game (a 15-9 win over Washington). The feat has been matched only twice in the 75 years since. He added a third bases-loaded triple that same season, matching the major-league season record set in 1918."
+    },
+    {
+      "title": "The Silhouette in the Wall",
+      "type": "Legacy",
+      "text": "A right fielder crashes into the outfield wall so many times that his physical imprint remains after he leaves the team. Any player who stands in that spot gains +1 DEF for the first catch attempt. The Legacy tag 'Silhouette' is permanent on the card.",
+      "origin": "Longtime Valo observers said you could make out his silhouette in the right field wall of Shibe Park until the ballpark was demolished. He and Pete Reiser were described as having 'raised the act of splattering into an outfield fence an art form.'"
+    },
+    {
+      "title": "Imrich to Elmer",
+      "type": "Drama",
+      "text": "An immigrant player arrives with a foreign name. His family changes it to sound American. He becomes the face of baseball's American Dream narrative — featured on magazine covers, invited to speak at schools. His OBP rises +.010 permanently as the community investment in his success creates additional at-bats and plate confidence.",
+      "origin": "Born Imrich Vallo in Rybník, Czechoslovakia; emigrated to Palmerton, PA at age 6; parents changed his name to Elmer William Valo. He became a career .398 OBP hitter and a youth-speaker on 'the value of sports and their relationship to freedom and the American way of life.' Featured on the cover of Baseball Digest Issue #1 in August 1942."
+    },
+    {
+      "title": "Released for a Forty-Year-Old",
+      "type": "Drama",
+      "text": "Your best hitter is released — not traded — to make room for an older player with a bigger name and lower production. He immediately signs elsewhere and hits .289 in 98 games. Your team finishes last. The released player gains a permanent +1 CLU from the vindication.",
+      "origin": "In May 1956, the Kansas City Athletics released Valo (.364/.460/.484 the previous season) to retain 40-year-old Enos Slaughter. Valo signed immediately with the Phillies and hit .289 in 98 games. KC never had a winning record during their franchise tenure in Missouri."
+    },
+    {
+      "title": "Tied for the Highest Grade",
+      "type": "Action",
+      "text": "A player takes the umpire school examination during the offseason and ties for the highest grade in the class. For the remainder of his career, he may challenge one borderline call per game with a +2 credibility bonus. Opponents must respect the appeal.",
+      "origin": "Valo took the examination at Bill McGowan's Umpire School and tied for the highest grade in the class. He said he hoped to become an umpire after his playing career. He also refereed high school and collegiate basketball in the off-season."
+    },
+    {
+      "title": "Teach Me English",
+      "type": "Action",
+      "text": "A veteran player teaches an immigrant or foreign-born rookie both English and practical jokes. The rookie's culture-gap chemistry penalty is removed. Both players gain +1 chemistry for the remainder of the season.",
+      "origin": "When Vic Power arrived with the Kansas City Athletics in the racially charged mid-1950s, Valo befriended him and taught him English and practical jokes. Power was one of the most charismatic players of the era; Valo was one of the reasons he thrived."
+    },
+    {
+      "title": "Twenty Years, Zero Postseasons",
+      "type": "Drama",
+      "text": "After 20 seasons, a player retires with zero postseason appearances despite a career OBP of .398. At his retirement ceremony, every former teammate in attendance gains +1 CLU. The retired player's card is marked with the Legacy tag: 'Played the Game Right.'",
+      "origin": "Valo played 1,806 games across 20 seasons with zero postseason appearances. Career OBP .398. Reached base as often as Joe DiMaggio. The Athletics, Dodgers, and Senators were never good enough while he was on their rosters."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Square-jawed, Slovak-American, solid build at 5'11\" 190 lbs. The face of a man who learned the game from zero, learned the language from zero, and built everything through work. Not glamorous — earnest and direct.",
+    "attire": "Philadelphia Athletics road grays. Mid-flight in the right field — airborne, arms fully extended, body fully committed to a catch that will probably involve the wall.",
+    "mood": "Total commitment. Not the ecstasy of the home run or the focus of the strikeout — the specific expression of a man in mid-air who has accepted that the wall is coming and has decided that does not change anything.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Shibe Park's right field wall in the background — the brick wall that holds his silhouette.",
+    "reference": "The 1949 Athletics — the last good years of a franchise on its way to becoming something else. Valo airborne, the wall behind him, the silhouette already forming."
+  }
+}

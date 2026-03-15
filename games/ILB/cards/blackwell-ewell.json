@@ -1,0 +1,206 @@
+{
+  "card_type": "player",
+  "name": "Ewell Blackwell",
+  "nickname": "The Whip",
+  "year": 1947,
+  "team": "Cincinnati Reds",
+  "league": "National League",
+  "era": "1940s",
+  "ilb_team": "Allies NL1940",
+  "position": "SP",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'6\"",
+  "weight": "195 lbs",
+  "born": "October 23, 1922 — Fresno, CA",
+  "died": "October 29, 1996 — Hendersonville, NC",
+  "hof": "Not inducted (Cincinnati Reds HOF, Class of 1960)",
+
+  "real_stats": {
+    "season": 1947,
+    "wins": 22,
+    "losses": 8,
+    "era": 2.47,
+    "innings_pitched": 273.0,
+    "strikeouts": 193,
+    "walks": 79,
+    "complete_games": 23,
+    "shutouts": 6,
+    "whip": 1.18,
+    "war": 7.8,
+    "all_star": 6,
+    "awards": "Led majors in wins (22); led NL in strikeouts (193), CG (23), K/9 (6.36); NL MVP runner-up 1947 (lost to Bob Elliott); 16-game winning streak (longest for a NL right-hander in history); no-hitter vs. Boston June 18; near back-to-back no-hitter vs. Brooklyn June 22 (broken up by Stanky single with 2 outs in 9th)",
+    "career": {
+      "wins": 82,
+      "losses": 78,
+      "era": 3.30,
+      "innings_pitched": 1321.0,
+      "strikeouts": 839,
+      "shutouts": 33,
+      "whip": 1.30,
+      "war": 26.7,
+      "world_series": "1 ring (New York Yankees, 1952)",
+      "notes": "Six consecutive All-Star Games 1946-51. Won 1950 All-Star Game (14 innings; got DiMaggio to GIDP). Led NL in HBP two consecutive years (22 total plunkings). Career cut short by shoulder tear (1948), kidney removal (1949), appendectomy (1950), arm failure (1953). Served in US Army in Europe 1943-46 as mess sergeant under General Patton's Third Army."
+    }
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "stf": 5,
+    "ctl": 2,
+    "sta": 2,
+    "def": 0,
+    "clu": 1
+  },
+
+  "stat_justification": {
+    "stf": "Sidearm snap-delivery at 6'6\" produced a release point that right-handed batters described as feeling like 'the third baseman was pitching to them.' Ralph Kiner: 'Your legs shook when you tried to dig in on him.' Roy Campanella named him the toughest pitcher he ever faced. Vin Scully: 'batters were genuinely afraid to face him.' Led NL in strikeouts (193) and K/9 (6.36) in 1947. Ted Williams, DiMaggio, Kiner, Robinson, and Campanella all documented fear responses to his delivery. STF 5 is the set's maximum; Blackwell's deception-plus-velocity earns it as the fourth pitcher at this tier.",
+    "ctl": "Career WHIP approximately 1.30. Led the NL in hit batsmen two consecutive years (22 total plunkings). When informed the Phillies manager had called all his pitches to batters, Blackwell responded: 'You'll get someone killed.' He did not consider this a control problem. CTL 2 reflects above-average but not elite command — his delivery was inherently unpredictable and he weaponized that unpredictability deliberately.",
+    "sta": "1947: 273 IP, 23 CG in 33 GS — excellent for the peak year. However, his career totals only 1,321 IP across 10 seasons (abbreviated by shoulder, kidney, appendix, and arm injuries beginning 1948). STA 2 reflects the peak-year durability without the career-sustained iron-man volume that would earn STA 3.",
+    "def": "DEF 0 is the documented result. The Stanky grounder during the near-back-to-back no-hitter on June 22, 1947 — with two outs in the ninth, four outs from matching Johnny Vander Meer's consecutive no-hitters — went between Blackwell's legs into center field. Blackwell reflected: 'Should I have gotten down quicker and stopped the ball? It seems as though I should have.' The single most consequential fielding play of his career was a failure. No positive defensive reputation documented to offset this.",
+    "clu": "Limited postseason sample. 1952 World Series Game 5: 5 IP, 4 ER, no decision. No WS hero moment. The 1950 All-Star Game win (14 innings; Blackwell retired DiMaggio and ended the game) is the basis for CLU 1 — a non-WS pressure-moment performance that earns the base level."
+  },
+
+  "personality": {
+    "leadership_style": "Fear as authority. Blackwell did not lead by example or mentorship — he led by making batters afraid to dig in. 'I was a mean pitcher.' When told opponents had all his signs, he offered menace as a response rather than adjustment. His presence in the rotation was itself a leadership statement: the ace everyone feared.",
+    "temperament": "Controlled ferocity with a haunted interior. On the mound: deliberate, physical, cruel. Off the mound: reflective — he replayed the Stanky grounder 'a thousand times' over decades. Red Smith: 'built like a slouchy flyrod, being composed largely of arms and neck and ears.' He had the body of a man assembled incorrectly and the self-awareness to know that the delivery destroying his career was the same delivery making it.",
+    "work_ethic": "Obsessive about the craft of intimidation. During WWII, when not cooking for Patton's Third Army, he pitched in army leagues and ran instructional baseball camps for European youth. He published a pitching instruction book in 1948. The mean pitcher was also the teaching pitcher — two faces of the same obsession.",
+    "lifestyle": "California working-class with a wartime European chapter. Grew up in San Dimas; father built a wooden strike-zone box in the backyard for him to throw at. Riveted aircraft at Vultee Aircraft before being signed. Served in the Army as mess sergeant ('I never boiled an egg in my life. But I became the chief cook and bottle washer.'). Retired to Hendersonville, North Carolina.",
+    "era_adaptability": "MODERATE. The sidearm delivery that made Blackwell dominant would be equally devastating in any era — the release point confusion for right-handed batters is a physical reality, not a strategic one. However, the body that housed that delivery was not built to last, in any era.",
+    "clubhouse_impact": "Limited. After the 1947 no-hitter against the Braves, 'photographers had trouble finding a teammate to give him the ritual hug.' Blackwell was not the clubhouse warmth — he was the weapon the team pointed at opponents. Respected, sometimes feared by teammates as well, rarely beloved.",
+    "dark_side": "On June 22, 1947, four outs from matching Johnny Vander Meer's consecutive no-hitters, with Vander Meer himself on the top step of the dugout waiting to shake his hand — Eddie Stanky hit a grounder that went between Blackwell's legs. The next batter was Jackie Robinson, playing his first major league season. Blackwell greeted Robinson 'with an explosion of racist insults,' according to Robinson's biographer Arnold Rampersad. Robinson answered with a single. Blackwell settled for a 2-0 two-hitter. In the moment of his career's greatest near-achievement, he chose cruelty. The 'mean pitcher' was mean in ways the mound did not require."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Whip Delivery",
+      "desc": "Right-handed batters face -2 CON against Blackwell; left-handed batters face -1 CON. The release point confusion is structural."
+    },
+    {
+      "tag": "Mean Pitcher",
+      "desc": "Opponents' morale drops -1 when Blackwell is announced as the starter. He led the league in HBP two consecutive years — intentionally."
+    },
+    {
+      "tag": "Murphy's Law",
+      "desc": "Injury events that would remove other pitchers occur on a roll of 3-6 rather than 5-6 for Blackwell, reflecting the documented medical cascade."
+    },
+    {
+      "tag": "Flyrod Frame",
+      "desc": "6'6\", 195 lbs — all limbs. The unusual physique generates an additional +1 STF bonus in every start but also triggers Murphy's Law on a lower threshold."
+    },
+    {
+      "tag": "Vander Meer's Ghost",
+      "desc": "In any start where Blackwell takes a no-hitter into the 9th: -1 to all fielding plays behind him, reflecting the documented pressure of the near-record."
+    },
+    {
+      "tag": "Army Cook",
+      "desc": "Once per season: Blackwell's mess-sergeant background generates a surprise team morale bonus (+1 chemistry) when the team most needs it — usually after a loss streak."
+    },
+    {
+      "tag": "Losing Team Ace",
+      "desc": "On teams finishing below .500: Blackwell's personal WAR increases by 1 — he is always better than the team around him."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "The sidearm delivery as craft and weapon simultaneously. The father's backyard strike-zone box. 'The Whip' is the Practice Field identity made literal.",
+      "note_extra": "Source labeled 'Mound / Bullpen / Practice Field' / affinity 'HIGH' — tenth Practice Field/HIGH in the set. Prior pitcher entries: Mathewson (mound precision), McGinnity (iron-man volume), Phillippe (control), Plank (17-year office), Cooper (game-theory pitch placement), Trucks (velocity identity). Blackwell's Practice Field/HIGH is the first in the set grounded in physical deception as the organizing principle of a delivery — the sidearm snap-action that made right-handed batters feel like 'the third baseman was pitching to them.' The biographical source: Blackwell's father built a wooden box the size of the strike zone in the backyard for the young Ewell to throw at, developing a delivery that no coach would have designed and no body would have chosen. The chemistry_trait 'The Whip Delivery' (-2 CON for RHB, -1 for LHB) is the mechanical expression. The 1948 pitching instruction book ('The Secrets of Pitching, By Ewell Blackwell') documents the Practice Field as a transmission space, not just a performance space."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "MEDIUM",
+      "note": "The pitcher no one hugged after the no-hitter. Respected, feared, not beloved. The clubhouse as a space he occupied without owning.",
+      "note_extra": "Source labeled 'Clubhouse / Team Space' / affinity 'MEDIUM' — second pitcher Hotel/Rest/MEDIUM in the set after Trucks (also MEDIUM, different basis: Southerner navigating unwritten rules). Blackwell's MEDIUM is grounded in a specific documented event: after the June 18, 1947 no-hitter against Boston, 'photographers had trouble finding a teammate to give him the ritual hug.' The ritual post-no-hitter embrace — one of baseball's most scripted public displays of clubhouse warmth — required effort to stage because no one rushed forward spontaneously. MEDIUM is the accurate affinity: not LOW (he was respected and part of the team's identity) and not HIGH (he was not a warm presence). The personality.clubhouse_impact field is the cross-field expression."
+    },
+    {
+      "location": "Medical/Recovery",
+      "affinity": "DAMNED",
+      "note": "Shoulder (1948). Kidney removal (1949). Appendectomy (1950). Arm failure (1953). Everything that could go wrong did.",
+      "note_extra": "Source labeled 'Training Room / Medical / Surgery' / affinity 'DAMNED' — second DAMNED in the set after Felsch/Black Sox (Batch 8). Felsch's DAMNED encoded volitional self-destruction (choosing to participate in the 1919 fix). Blackwell's DAMNED is entirely non-volitional — it is the medical cascade that consumed a career built on a delivery that was physiologically unsustainable. The SABR BioProject: 'Blackwell's short career foundered on Murphy's Law: Everything that could go wrong did.' The sequence: shoulder tear in exhibition game April 1948 (one year after the peak); kidney removed January 1949 (infected); emergency appendectomy September 1950; arm failure July 1953 ('my arm hurt too much'). Career total: 1,321 IP across 10 seasons — dramatically below what his peak talent warranted. The Medical/Recovery/DAMNED encodes the domain as a place of irreversible loss rather than recovery. The chemistry_trait 'Murphy's Law' (injury events trigger on a lower roll threshold) is the mechanical expression."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Fresno / San Dimas / La Verne, California. The backyard box. The aircraft riveter. The California working-class origin that produced the flyrod.",
+      "note_extra": "Source labeled 'Hometown / California' / affinity 'ORIGIN' — fourth standalone ORIGIN in the set (after Cooper/Atherton, Rice/ORIGIN-WOUND compound, Trucks/Birmingham). Blackwell's ORIGIN is the most mechanically specific of the four: it was his father's construction of a wooden strike-zone box in the San Dimas backyard that shaped the delivery. The biography documents: 'Dad built a wooden box the size of the strike zone in the backyard, and the boy threw baseballs and tennis balls at the target to develop control.' The delivery that no professional coach would have designed was first grooved by an amateur father with a box and a yard. Blackwell also worked as a riveter at Vultee Aircraft in 1941 before being signed — the physical labor of the aircraft plant is the working-class California baseline. The Bonita High School coach who noticed Ewell threw harder than anyone else and made him a pitcher is the ORIGIN's first institutional figure."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HAUNTED",
+      "note": "The Nuremberg stadium. The European championship series in front of 50,000 soldiers. The ground where Hitler held his rallies, transformed into a baseball field.",
+      "note_extra": "Source labeled 'Nuremberg Stadium / Army Baseball' / affinity 'HAUNTED' — third HAUNTED in the set after Holmes/Jury Box (lost community) and Cooper/Elbow (lost physical capacity). Blackwell's HAUNTED is the most historically weighted HAUNTED in the set — the Zeppelinfeld stadium in Nuremberg, where Adolf Hitler harangued the Nazi faithful at the Nuremberg Rallies, repurposed in September 1945 as the venue for the European championship baseball series, with 50,000 Allied soldiers watching. Blackwell won the first game of that series there. The HAUNTED affinity encodes a place whose meaning was absolutely transformed — the site of fascist spectacle becoming the site of American sport, with a young pitcher from San Dimas California throwing a baseball where history had bent. The Wikipedia source: 'In September 1945 he won the first game of the European championship series in front of more than 50,000 soldiers at the huge Nuremberg stadium where Adolf Hitler had harangued the Nazi faithful.' Community Events is the correct domain: this was a public community gathering — Allied soldiers assembled — not a personal private space. The action card seed 'The Nuremberg Mound' is the mechanical expression."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "No-hit bid in progress — Vander Meer's Ghost activates, but so does Blackwell's locked-in focus.",
+      "Right-handed heavy lineup — The Whip Delivery trait provides maximum advantage.",
+      "Losing team context — Losing Team Ace trait activates; his WAR rises when the team around him declines.",
+      "Consecutive complete games — the 16-game streak mechanic; each CG adds momentum for the next start."
+    ],
+    "cold_triggers": [
+      "Exhibition game appearances — shoulder tear in April 1948 was an exhibition game; Murphy's Law triggers here.",
+      "Jackie Robinson or other integration-era crossings — the documented dark side creates chemistry penalties.",
+      "Medical events (Murphy's Law threshold lower than other pitchers).",
+      "Vander Meer on the field or in the dugout — the Ghost trait activates as pressure, not just advantage."
+    ],
+    "pressure_response": "Paradoxical in the same way as Trucks but inverted. Trucks rose to extreme isolation on a bad team. Blackwell rose to extreme moments of individual brilliance (the 16-game streak, the no-hitter, the near-back-to-back) but fell apart in the specific moments of greatest historical significance (the Stanky grounder with the record in reach, the 1952 World Series start). The mean pitcher could manufacture fear. He could not quite harness the moments where his own fear — of history, of failure — took over."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Octopus in Labor",
+      "type": "Game Action",
+      "text": "A pitcher's delivery is so mechanically bizarre that right-handed batters cannot pick up the release point. All RHB face -2 CON for the entire game. If the pitcher also leads in hits-by-pitch this season: add -1 morale to the opposing team at the start of the game.",
+      "origin": "Joe Williams' description of Blackwell's delivery: 'A Picasso impression of an octopus in labor.' Blackwell himself: 'Some of those righties would come up to me and swear it was the third baseman pitching to them.' Ralph Kiner: 'Your legs shook when you tried to dig in on him.'"
+    },
+    {
+      "title": "Two Outs in the Ninth",
+      "type": "Drama",
+      "text": "A pitcher takes a no-hitter into the 9th inning with two outs — one out from history. Roll: on (1-3) an infield single goes through the pitcher's legs. On (4-6) the no-hitter is complete. Either way, the near-miss or the achievement marks this card permanently.",
+      "origin": "June 22, 1947 — Blackwell held Brooklyn hitless for 8⅓ innings, trying to match Johnny Vander Meer's consecutive no-hitters. Vander Meer was on the top step of the dugout waiting to shake his hand. Eddie Stanky hit a grounder that went between Blackwell's legs into center field. Two outs in the ninth. Blackwell: 'I must have replayed that moment a thousand times.'"
+    },
+    {
+      "title": "You'll Get Someone Killed",
+      "type": "Action",
+      "text": "Opposing manager has called all your pitcher's pitches to his batters. Your pitcher is informed. Instead of changing his approach: he responds that knowing the pitches makes it more dangerous, not less. Opposing lineup loses -1 morale for the game — fear of the known pitch overrides the advantage.",
+      "origin": "Blackwell, after being told that Phillies manager Ben Chapman was calling all his pitches: 'You'll get someone killed.' He knew the batters knew what was coming. He threw it anyway. He won his 16th consecutive game that day."
+    },
+    {
+      "title": "The Nuremberg Mound",
+      "type": "Legacy",
+      "text": "A pitcher wins a game at the most historically charged location in the world — a field whose previous uses are known to everyone in attendance. The win carries a Legacy tag. The pitcher's CLU increases by 1 permanently from the weight of the moment.",
+      "origin": "September 1945: Blackwell pitched at the Nuremberg stadium — where Hitler had harangued the Nazi faithful at the rally grounds — in front of 50,000 Allied soldiers, winning the first game of the European championship series. He was a 22-year-old mess sergeant from San Dimas, California. He threw a baseball where history had bent."
+    },
+    {
+      "title": "Mess Sergeant",
+      "type": "Action",
+      "text": "A player unexpectedly reveals exceptional cooking ability — enough to feed an army. Team morale rises +2 for 3 days. 'I never boiled an egg in my life. But I became the chief cook and bottle washer. And you can ask the boys if they didn't get good meals.'",
+      "origin": "Blackwell served as mess sergeant in General Patton's Third Army: 'I never boiled an egg in my life. But I became the chief cook and bottle washer.' He fed soldiers across Europe until Germany's surrender in May 1945, when he 'cooked up a celebratory feast.'"
+    },
+    {
+      "title": "Murphy's Law Career",
+      "type": "Drama",
+      "text": "In consecutive offseasons, your pitcher suffers: (Year 1) shoulder tear; (Year 2) organ removal; (Year 3) emergency surgery; (Year 4) arm failure. Each event reduces OVR by 1. If the player survives all four at OVR ≥ 5: Legacy tag — 'survived everything.' If OVR reaches 0: career ends.",
+      "origin": "Blackwell's documented medical cascade: shoulder tear in exhibition game April 1948; right kidney removed January 1949 (infected); emergency appendectomy September 1950; arm declared too painful to continue July 1953. SABR: 'Everything that could go wrong did.'"
+    },
+    {
+      "title": "The Losing Team Ace",
+      "type": "Drama",
+      "text": "A pitcher leads the majors in wins while his team finishes below .500. He finishes second in MVP voting to a player on a pennant winner. His personal statistics are exceptional; his team's are not. He receives a permanent Legacy tag: 'Best Pitcher No One Watched Win.'",
+      "origin": "Blackwell led the majors in wins (22) and the NL in strikeouts in 1947 for a Cincinnati team that finished 73-81. He finished second in MVP voting to Bob Elliott of the pennant-winning Braves. Tommy Holmes and the Braves — already in the ILB set — were on the team that beat him for the award."
+    }
+  ],
+
+  "art_direction": {
+    "face": "Lanky, angular, all neck and ears as Red Smith said. 6'6\", 195 lbs — the 'slouchy flyrod.' The face of a man who has been told his delivery looks wrong and has decided that is the point. Not handsome, not monstrous — assembled differently.",
+    "attire": "Cincinnati Reds home whites. The sidearm delivery mid-release — the arm coming from an angle that seems to originate somewhere behind the third baseman, the long frame folded into the snap.",
+    "mood": "Cold intensity. Not anger — the calculated meanness of a craftsman who has decided fear is a tool. The moment before the ball arrives and the batter's legs begin to shake.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Crosley Field visible behind him. The 1947 peak — the one season everything worked simultaneously.",
+    "reference": "Joe Falls: 'For one season — 1947 — the most intimidating pitcher of all time.' Rendered at that season's apex — June, the no-hitter just thrown, the 16-game streak running, the world not yet knowing what was about to break."
+  }
+}

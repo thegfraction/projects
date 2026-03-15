@@ -1,0 +1,225 @@
+{
+  "card_type": "player",
+  "name": "Arky Vaughan",
+  "nickname": "The Ghost of Arky",
+  "year": 1935,
+  "team": "Pittsburgh Pirates",
+  "league": "National League",
+  "era": "1930s",
+  "ilb_team": "Crashers AL1930",
+  "position": "SS",
+  "bats": "L",
+  "throws": "R",
+  "height": "5'10\"",
+  "weight": "175 lbs",
+  "born": "March 9, 1912 — Clifty, Arkansas (family moved to Fullerton, CA as infant; spoke with Arkansas accent his whole life)",
+  "died": "August 30, 1952 — Lost Lake, Eagleville, California (age 40, drowned trying to save friend in capsized boat during storm)",
+  "hof": "Inducted 1985 (Veterans Committee). Bill James: 2nd greatest SS in history behind Wagner. 9× All-Star. .318 career BA. .406 career OBP. Joe Posnanski: 'The least-known great MLB player.'",
+  "real_stats": {
+    "season": 1935,
+    "games": 137,
+    "at_bats": 499,
+    "batting_avg": ".385",
+    "hits": 192,
+    "doubles": 34,
+    "triples": 19,
+    "home_runs": 19,
+    "rbi": 99,
+    "runs": 108,
+    "stolen_bases": 4,
+    "walks": 97,
+    "strikeouts": 18,
+    "slg": ".607",
+    "obp": ".491",
+    "ops": "1.098",
+    "ops_plus": 190,
+    "war": 9.3,
+    "career_avg": ".318",
+    "career_hr": 96,
+    "career_rbi": 926,
+    "career_hits": 2103,
+    "career_war": 49.2,
+    "career_walks": 937,
+    "career_obp": ".406"
+  },
+  "ilb_stats": {
+    "ovr": 10,
+    "con": 5,
+    "pow": 2,
+    "spd": 2,
+    "def": 1,
+    "clu": 1
+  },
+  "stat_justification": {
+    "con": ".385 BA in 1935 — the highest by any NL shortstop since 1900 (still the record). .491 OBP. Only 18 strikeouts in 499 AB — a K rate of 3.6%. Career .318 BA — second among all SS in history behind only Honus Wagner (.329). Hit .300+ in 12 of 14 seasons. 2,103 career hits. 937 career walks with only 276 career K. The plate discipline is extraordinary. Rating of 5.",
+    "pow": "19 HR, .607 SLG, 19 triples in 1935. 96 career HR. Vaughan was not a traditional power hitter — he was a line-drive machine who hit gaps and ran bases. His SLG of .607 earns the bonus (+1), but the base is HR 10-19 → tier 1, so POW 2. The power came from doubles (34) and triples (19), not over-the-fence shots.",
+    "spd": "19 triples in 1935 (led NL). Led NL in triples 3 times. 118 career SB. Rip Sewell: 'When he went around second, his hip pocket was dipping sand. That's how sharp he cut those corners.' Lloyd Waner: 'For going from home plate to second base I don't think there was anybody who could match him.' Not a pure base stealer, but an elite baserunner. Triples bonus → SPD 2.",
+    "def": "Led NL SS in putouts 3 times, assists 3 times. Improved dramatically under Honus Wagner's personal mentorship (Wagner roomed with him on road trips). Finished top 3 in fielding percentage 4 times. BUT: led NL in errors in both 1932 (46) and 1933 (46). Defense was his weakness early, became solid later. Wagner: 'Of all the players I tried to help, he's the best and the one that went the farthest.' Rating of 1 — good but not elite.",
+    "clu": "Never won a World Series. Pirates never won the pennant during his decade as starting SS. But: .364 career BA in All-Star Games (best ever at the time). Hit 2 HR in the 1941 ASG (upstaged only by Ted Williams' walk-off 3-run HR). Hit .325 in 64 games helping Brooklyn win the 1947 NL pennant at age 35 after a 3-year retirement. He delivered in showcase games. Rating of 1."
+  },
+  "personality": {
+    "leadership_style": "The Quiet Principled Man. Vaughan was so quiet that Joe Posnanski called him 'the least-known great MLB player.' He let his bat speak. But when principles were at stake, he was immovable. In 1943, when Durocher suspended Bobo Newsom unfairly, Vaughan handed his uniform to Durocher and threatened to quit. The entire team followed Vaughan — only 2 players were willing to play for Durocher the next day. Vaughan then voluntarily retired for 3 years rather than play for a manager he didn't respect. This wasn't impulsiveness — it was conviction.",
+    "temperament": "Shy, modest, principled. Vaughan avoided the spotlight his entire life. He had no interest in fame, publicity, or self-promotion. After retiring, he bought a cattle ranch in northern California and never returned to baseball in any capacity. When teams called about coaching, he declined. He wanted to fish, hunt, and raise his family. The modesty that defined his life also obscured his legacy — he spent 33 years waiting for the Hall of Fame.",
+    "work_ethic": "Extraordinary natural talent refined by the greatest mentor. Wagner personally roomed with Vaughan, taught him shortstop play, and watched him become 'the best player I ever tried to help.' Vaughan's plate discipline — 937 BB vs. 276 K in his career — doesn't happen without relentless preparation. He studied pitchers. He controlled the zone. He never swung at bad pitches. .385 with 18 K in 499 AB is mastery.",
+    "lifestyle": "Simple, rural, family-centered. Married Margaret, his high school sweetheart, in 1931 — they had four children. After baseball: cattle ranch near Eagleville, CA. Hunting, fishing, farming. No interest in the baseball world. He was a rancher who had once played shortstop, not a ballplayer who retired to a ranch. The distinction mattered to him.",
+    "era_adaptability": "VERY HIGH. Vaughan's skill set — elite contact, plate discipline, speed, solid defense at SS — is exactly what modern analytics value. His 937 BB/276 K career ratio would make him a sabermetric darling. His .406 career OBP would play in any era. He'd be a modern prototype: a .310/15 HR/90 BB shortstop with plus speed and good defense. Think a left-handed Trea Turner with better OBP.",
+    "clubhouse_impact": "QUIET BUT IMMOVABLE. Vaughan was not vocal. He didn't give speeches. But when he stood up — as he did against Durocher in 1943 — the entire team followed him. His moral authority came from his character, not his volume. Pittsburgh fans coined 'The Ghost of Arky' after his trade — when times got tough, they remembered the quiet man who had always been there.",
+    "dark_side": "The drowning. August 30, 1952. Lost Lake, near Eagleville. A sudden storm capsized the fishing boat. Vaughan's friend Bill Wimer couldn't swim. Vaughan — an accomplished swimmer — tried to save him. Both men drowned, 75 feet from shore. He was 40 years old. His wife Margaret and four children survived him. The man who stood on principle died standing on principle — he wouldn't leave someone behind. It was the most Arky Vaughan way to die."
+  },
+  "chemistry_traits": [
+    {
+      "tag": "Wagner's Protégé",
+      "desc": "Honus Wagner personally mentored Vaughan, rooming with him on road trips. +1 DEF permanently. Wagner: 'Of all the players I tried to help, he's the best.' If Wagner is in the same franchise history, Vaughan gets +1 to all stats."
+    },
+    {
+      "tag": "The Invisible Star",
+      "desc": "Vaughan generates zero media attention. No controversy. No headlines. +1 team stability, -2 publicity. He is the best player nobody talks about."
+    },
+    {
+      "tag": "Principled Stand",
+      "desc": "If a teammate is unjustly punished, Vaughan can trigger a player revolt. 70% chance the team follows him. 30% chance he retires voluntarily for 1-3 years. Based on the 1943 Durocher/Newsom incident."
+    },
+    {
+      "tag": "Plate Discipline Master",
+      "desc": "18 K in 499 AB in 1935 (3.6% K rate). Vaughan walks more than he strikes out — every season, every year, always. +1 OBP permanently. Pitchers must throw strikes or he takes the base."
+    },
+    {
+      "tag": "Ghost of Arky",
+      "desc": "After trade or departure, Vaughan haunts the franchise. When the old team struggles, fans remember him. +1 morale to any team that acquires him. -1 morale to the team that trades him away."
+    },
+    {
+      "tag": "Triple Machine",
+      "desc": "Led NL in triples 3 times. 19 triples in 1935. Vaughan converts 15% of doubles into triples through elite baserunning. Rip Sewell: 'His hip pocket was dipping sand.'"
+    },
+    {
+      "tag": "Voluntary Retirement",
+      "desc": "If manager relationship drops below 20%, Vaughan will retire voluntarily rather than play for someone he doesn't respect. Can return 1-3 years later if manager changes. Based on 1944-46 retirement."
+    },
+    {
+      "tag": "The Rescue Attempt",
+      "desc": "End-of-career event. 5% chance per offseason of a fatal accident while saving someone. If triggered: permanent removal from game, +10 legacy, +5 team grief. The most heroic exit in baseball history."
+    }
+  ],
+  "preferred_locations": [
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "10 seasons. .328 BA with Pirates. Set franchise records that still stand. The Ghost of Arky.",
+      "note_extra": "Source label: 'Forbes Field / Pittsburgh.' Mapped to Community Events (ballpark/franchise home venue). Standard HIGH affinity. Cross-field expression: Ghost of Arky chemistry trait (-1 morale to team that trades him) encodes the post-departure haunting of this specific location."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Bill James: 2nd greatest SS ever. .385 BA in 1935 (NL SS record). Led NL in putouts and assists 3× each.",
+      "note_extra": "Source label: 'Shortstop.' Mapped to Practice Field (positional craft domain — the shortstop position as the defining site of Vaughan's defensive identity and craft expression). Same mapping logic as Vance's 'The Mound' (Batch 36). Standard HIGH affinity. Cross-field expression: Wagner's Protégé chemistry trait (+1 DEF permanently) is the mentorship residue of this craft domain."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": ".385 in 1935. 18 K in 499 AB. .491 OBP. He owned the strike zone.",
+      "note_extra": "Source label: 'Batter's Box.' Mapped to Practice Field (performance craft domain — the batter's box as the primary site of Vaughan's offensive mastery). Distinct from the Shortstop entry above: this encodes hitting craft, not fielding craft. Two Practice Field entries at HIGH is unusual but accurate to source. Standard HIGH affinity. Cross-field expression: Plate Discipline Master chemistry trait (+1 OBP permanently) is the mechanical expression of this location's mastery."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Cattle ranch after retirement. Hunting, fishing, family. His chosen life.",
+      "note_extra": "Source label: 'Ranch / Eagleville, California.' Mapped to Community Events (post-career hometown venue — the ranch as Vaughan's chosen post-baseball life site). Consistent with the Community Events taxonomy note 'hometowns, farms, ranches, post-career venues.' Standard HIGH affinity. Cross-field expression: lifestyle personality key and the Drowning at Lost Lake action seed both emanate from this location's geography."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": ".364 career ASG BA. 2 HR in 1941 ASG. 9 consecutive selections. His showcase.",
+      "note_extra": "Source label: 'All-Star Game.' Mapped to Community Events (showcase ballpark event — the All-Star Game as a recurring public venue rather than a regular-season home). Standard HIGH affinity. Cross-field expression: Two Home Runs in the All-Star Game action seed is the direct narrative expression of this affinity. Vaughan's ASG performance is explicitly called out in stat_justification/clu as evidence for CLU 1."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "MEDIUM",
+      "note": "Traded to Dodgers 1942. Clashed with Durocher 1943. Returned 1947-48 to help win pennant.",
+      "note_extra": "Source label: 'Brooklyn / Ebbets Field.' Mapped to Community Events (ballpark). MEDIUM affinity reflects the mixed valence of Brooklyn: a franchise Vaughan contributed to but never fully belonged to, associated with his worst professional conflict (Durocher) and his most redemptive return (1947 pennant). Standard MEDIUM affinity. Cross-field expression: Comeback at Thirty-Five action seed and Handing the Uniform action seed are both located in this franchise context."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "LOW",
+      "note": "Handed his uniform to Durocher. Retired rather than play for him. The principled stand.",
+      "note_extra": "Source label: 'Manager's Office (Durocher).' Mapped to Hotel/Rest (clubhouse/team facility domain — the manager's office as an internal team space per the taxonomy's 'Clubhouse, locker room' grouping under Hotel/Rest). LOW affinity encodes active aversion: Vaughan's relationship with this space is one of principled confrontation and rejection. Standard LOW affinity. Cross-field expression: Principled Stand chemistry trait (70% revolt / 30% voluntary retirement) and Voluntary Retirement chemistry trait are the direct mechanical expressions of this LOW affinity. Handing the Uniform to Durocher action seed is the narrative instantiation."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "NONE",
+      "note": "August 30, 1952. The storm. The capsized boat. The rescue attempt. The drowning. Age 40.",
+      "note_extra": "Source label: 'Lost Lake.' Mapped to Community Events (post-career outdoor venue near Eagleville, CA — the lake as a post-retirement recreational site consistent with the 'hometowns, farms, ranches, post-career venues' Community Events taxonomy). NONE affinity encodes fatal, annihilating absence — the location that terminates all other affinities. Consistent with prior NONE usage (Mungo, Batch 29 — a place of pure negative valence). Cross-field expression: The Rescue Attempt chemistry trait (5% chance of permanent removal) is the probabilistic mechanical encoding of this NONE location. The Drowning at Lost Lake action seed and dark_side personality key are its narrative expressions. First use of NONE affinity for a death site on a position player card."
+    }
+  ],
+  "momentum": {
+    "hot_triggers": [
+      "Hitting streaks — .385 in 1935. .300+ in 12 of 14 seasons. The bat was always warm.",
+      "All-Star Games — .364 career ASG BA. His spotlight moments were always on the big stage.",
+      "Principled teams — Vaughan performed best in stable, fair environments.",
+      "Triples — when the gaps are open and the legs are fresh, Vaughan turns doubles into triples."
+    ],
+    "cold_triggers": [
+      "Unjust management — Durocher's cruelty triggered Vaughan's rebellion and voluntary retirement.",
+      "Trade/displacement — leaving Pittsburgh devastated him and the fans who loved him.",
+      "Lack of team success — Pirates never won a pennant during his decade. The frustration was quiet but real.",
+      "Obscurity — Vaughan's modesty meant he never advocated for himself. The world forgot him."
+    ],
+    "pressure_response": "PROVEN IN SHOWCASES, UNTESTED IN OCTOBER. Vaughan's .364 career All-Star Game BA is elite. His 2 HR in the 1941 ASG (the only player to hit 2 ASG HR until 2012) proves he rose to occasions. He hit .325 in 64 games helping Brooklyn win the 1947 pennant at age 35 — returning from a 3-year voluntary retirement. But he never played in a World Series. The Pirates never gave him one. Brooklyn reached it in 1947 but lost to the Yankees. The greatest shortstop never to play in a Fall Classic."
+  },
+  "action_card_seeds": [
+    {
+      "title": "The Best Season by a Shortstop Since Wagner",
+      "type": "Game Action",
+      "text": "Your shortstop hits .385 with a .491 OBP and .607 SLG. His OPS+ is 190. He walks 97 times and strikes out only 18. He leads the league in batting, OBP, SLG, and walks. It's the best season by any NL shortstop since Honus Wagner. The same franchise. The same position. The same excellence.",
+      "origin": "1935: Vaughan's .385/.491/.607 season remains the Pirates' single-season record for BA, OBP, and OPS. His .385 is the NL SS record since 1900."
+    },
+    {
+      "title": "Two Home Runs in the All-Star Game",
+      "type": "Game Action",
+      "text": "Your quiet shortstop — the man nobody talks about — hits two home runs in the All-Star Game. No player has ever done this before. He should be the hero. But in the bottom of the 9th, with the NL leading 5-4, the AL's Ted Williams hits a walk-off 3-run HR to win it. Your player's moment is stolen. Even his greatest showcase is overshadowed.",
+      "origin": "1941 ASG: Vaughan became the first player to hit 2 HR in an All-Star Game. Ted Williams' walk-off 3-run HR in the 9th stole the headlines."
+    },
+    {
+      "title": "Handing the Uniform to Durocher",
+      "type": "Drama",
+      "text": "Your manager suspends a teammate unfairly. Your shortstop — the quietest man on the team — walks into the manager's office and hands him his uniform. 'I'm done.' The team follows him. Only 2 players show up the next day. The game starts 10 minutes late. Your shortstop then voluntarily retires for 3 years rather than play for this manager.",
+      "origin": "1943: After Durocher suspended Bobo Newsom, Vaughan led a near-mutiny. He retired voluntarily 1944-46, returning only after Durocher was suspended in 1947."
+    },
+    {
+      "title": "Wagner's Roommate",
+      "type": "Action",
+      "text": "The greatest shortstop in history becomes your young player's roommate on road trips. He doesn't teach technique — his mere presence steadies the nervous kid. 'Of all the players I tried to help, he's the best and the one that went the farthest.' The passing of the torch from one HOF Pirate SS to the next.",
+      "origin": "Wagner was hired as a Pirates coach specifically to mentor Vaughan. They roomed together on the road. Vaughan's errors dropped and his confidence soared."
+    },
+    {
+      "title": "The Ghost of Arky",
+      "type": "Drama",
+      "text": "Your franchise trades its best player. The fans are outraged. Years later, when the team struggles, they whisper about the star they let go. 'The Ghost of Arky' becomes the phrase for everything wrong with the franchise. The man is gone, but his absence haunts every losing season.",
+      "origin": "Pittsburgh fans coined 'The Ghost of Arky' after Vaughan's 1941 trade to Brooklyn. The phrase endured for years when the Pirates struggled."
+    },
+    {
+      "title": "The Drowning at Lost Lake",
+      "type": "Drama",
+      "text": "Your retired legend goes fishing with a friend. A storm hits. The boat capsizes. His friend can't swim. Your player — a strong swimmer — tries to save him. Both men drown, 75 feet from shore. He was 40 years old. He died the way he lived: putting someone else first.",
+      "origin": "August 30, 1952: Vaughan drowned in Lost Lake near Eagleville, CA, trying to save friend Bill Wimer during a sudden storm. Both men perished."
+    },
+    {
+      "title": "Eighteen Strikeouts in Five Hundred At-Bats",
+      "type": "Game Action",
+      "text": "Your shortstop strikes out 18 times in 499 at-bats. A K rate of 3.6%. He walks 97 times. He walks more than five times for every strikeout. He hits .385. Pitchers have no choice: throw it over the plate or he'll take first base. And if you throw it over the plate, he'll hit .385.",
+      "origin": "1935: Vaughan's 97 BB vs. 18 K is one of the most extreme BB/K ratios in a high-BA season in baseball history."
+    },
+    {
+      "title": "The Comeback at Thirty-Five",
+      "type": "Game Action",
+      "text": "Your retired shortstop — three years away from baseball, ranching cattle in northern California — returns at age 35. He hits .325 in 64 games. His team wins the pennant. He played because the manager he hated was suspended. He proved he could still hit. Then he retired for good.",
+      "origin": "1947: Vaughan returned from voluntary retirement after Durocher's suspension. Hit .325 in 64 games for the pennant-winning Dodgers."
+    }
+  ],
+  "art_direction": {
+    "face": "Lean, handsome, unassuming. 5'10\" 175 lbs. California kid with an Arkansas drawl. The face should show quiet intelligence — not intensity, not fury, just calm awareness. He looks like a man who knows exactly what pitch is coming and has already decided to take it or drive it into the gap.",
+    "attire": "Pittsburgh Pirates 1935 home whites with the classic 'P' on the cap. Forbes Field's spacious outfield behind him. The uniform should be clean, understated — no flash, no flair. This is the quietest superstar in baseball.",
+    "mood": "Silent mastery. The left-handed swing, compact and level, driving a line drive into the right-center gap. Or: the steal of third base, hip pocket dipping sand as he rounds the bag. The card should feel like water — smooth, calm, impossibly powerful beneath the surface.",
+    "style": "Pennsylvania steel-town palette meets California ranch warmth. Forbes Field's iron and concrete. Muted greens and browns. The card should feel understated — because Vaughan was the most understated great player in history. No fireworks. Just .385.",
+    "reference": "The card of the man Bill James called the 2nd greatest shortstop ever. The man Joe Posnanski called the least-known great player in history. The man who handed his uniform to Durocher and walked away. The man who drowned at 40 saving a friend. The Ghost of Arky."
+  }
+}

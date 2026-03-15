@@ -1,0 +1,208 @@
+{
+  "card_type": "player",
+  "name": "Mickey Mantle",
+  "nickname": "The Mick",
+  "year": 1956,
+  "team": "New York Yankees",
+  "league": "American League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "CF",
+  "bats": "S",
+  "throws": "R",
+  "height": "5'11\"",
+  "weight": "195 lbs",
+  "born": "October 20, 1931 — Spavinaw, OK",
+  "died": "August 13, 1995 — Dallas, TX",
+  "hof": "Class of 1974 (BBWAA, first ballot, 88.2%)",
+
+  "real_stats": {
+    "season": 1956,
+    "games": 150,
+    "at_bats": 533,
+    "hits": 188,
+    "doubles": 22,
+    "triples": 5,
+    "home_runs": 52,
+    "rbi": 130,
+    "stolen_bases": 10,
+    "runs": 132,
+    "batting_avg": ".353",
+    "obp": ".464",
+    "slg": ".705",
+    "ops": "1.169",
+    "ops_plus": 210,
+    "war": 12.9,
+    "all_star": 20,
+    "gold_gloves": 1,
+    "awards": "AL Triple Crown 1956 (only switch hitter ever); AL MVP 1956 (unanimous — first unanimous Yankees MVP in franchise history); AP Male Athlete of the Year 1956; Hickok Belt 1956. Led majors in BA, HR, RBI; led AL in runs (132), SLG (.705), TB (376 — AL/ML record for switch hitter).",
+    "world_series": "12 appearances, 7 championships. ALL-TIME WS records: HR (18), RBI (40), runs (42), walks (43), extra-base hits (26), total bases (123). Career WS: .257 BA in 65 games.",
+    "career_avg": ".298",
+    "career_hits": 2415,
+    "career_hr": 536,
+    "career_sb": 153,
+    "career_war": 92.8,
+    "career_rbi": 1509,
+    "career_notes": "18 seasons, one team (New York Yankees). 3x AL MVP (1956, 1957, 1962). 20 All-Star selections. 1 Gold Glove (1962). Triple Crown 1956 — only switch hitter ever. Career OBP .421 (MLB record for switch hitters). Career SLG .557 (MLB record for switch hitters). 536 HR (then 3rd all-time). Never played a full season healthy. WAR 12.9 in 1956 — highest in baseball since 1947 (topped only by Ruth's 1921 and 1923 seasons). Estimated 643-foot home run (right-handed) September 10, 1960 at Tiger Stadium. 565-foot tape-measure shot April 17, 1953 in Washington. Played entire career with torn ACL (1951 WS injury)."
+  },
+
+  "ilb_stats": {
+    "ovr": 11,
+    "con": 5,
+    "pow": 5,
+    "spd": 1,
+    "def": 3,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "con": "Peak .353 BA (1956) clears the .330+ = 5 threshold. OPS+ 210 far exceeds the ≥130 bonus — CON capped at 5. Career .298 BA across 18 seasons on a body never fully healthy. The 1956 Triple Crown batting average led both leagues. First and only switch hitter to win the Triple Crown. CON 5 is unambiguous for the 1956 peak year.",
+    "pow": "52 HR (1956) clears the 50+ = 5 tier. SLG .705 far exceeds the ≥.500 bonus — already capped at 5. POW 5 is the maximum in the set. 'No man in the history of baseball had as much power as Mickey Mantle. No man. You're not talking about ordinary power.' The 643-foot estimated blast. The 565-foot tape-measure home run. The only switch hitter to hit 150 HR from each side of the plate. Career 536 HR. Mantle joins Wilson (1930) as the only position players with POW 5 in the set — and becomes the first with both CON 5 and POW 5 simultaneously.",
+    "spd": "Approximately 10 SB in 1956 (6-15 = 1 by formula). Early career speed was legendary — reportedly clocked at 3.1 seconds home to first. Three inside-the-park HR in 1958. However, the 1951 WS knee injury (torn ACL never repaired) permanently limited his base-stealing ability. Career 153 SB over 18 seasons. SPD 1 reflects the 1956 reality despite the legendary early speed; the injured body is the determining factor.",
+    "def": "Pre-Gold Glove era for the card year (1956). Historical reputation rule applied. Gold Glove won in 1962. SABR: 'solid .984 fielding percentage when playing center field.' The 1956 WS Game 5: Mantle's running catch of Gil Hodges' deep fly in the fifth inning preserved Don Larsen's perfect game. Contemporaries compared his center field to DiMaggio's. Third consecutive Dreamers 1950 card with DEF 3 (Doby, Kaline, Mantle) — the most elite CF/RF defensive cluster in the set.",
+    "clu": "All-time World Series records: 18 HR, 40 RBI, 42 runs, 43 walks, 123 total bases — across 12 Series appearances and 65 games. The most documented postseason production in baseball history. Multiple WS hero moments: 1952 WS grand slam; 1956 WS Game 5 HR during Larsen's perfect game; 1964 WS walk-off HR off Barney Schultz. CLU 3 (maximum) reflects the most complete WS body of work in the set."
+  },
+
+  "personality": {
+    "leadership_style": "The reluctant god. Mantle never wanted the weight of DiMaggio's legacy — it was placed on him the moment he arrived in 1951. He led through sheer force of talent and presence, not through example or mentorship. In the Yankees dynasty clubhouse with Berra, Ford, and Martin, Mantle was the gravitational center because he was simply the best player alive. The leadership was the performance.",
+    "temperament": "Complicated by childhood wounds that biographer Jane Leavy connected to childhood sexual abuse, the fatalism of the Mantle family cancer curse, and the alcoholism that began after Mutt's death. On the field: electric, joyful, competitive. Off the field: drinking, gambling, and a deep conviction that he would die young. He outlived his father by 43 years and called it a mistake. 'If I knew I was going to live this long, I'd have taken better care of myself.'",
+    "work_ethic": "Prodigious natural talent constrained by a body that was never healthy. Mutt trained him from age 3 — batting left against his father (right-handed), batting right against his grandfather (left-handed). The switch-hitting was a deliberate construction, not a gift. But the osteomyelitic leg, the torn ACL, the recurring knee surgeries — by 1956 Mantle was performing at WAR 12.9 on a body that was held together with tape. The question is not how good Mantle was. The question is what the healthy version would have done.",
+    "lifestyle": "Commerce, Oklahoma boy who became the most famous athlete in America and couldn't manage either role. The lead and zinc mines that killed his family. The Yankees dynasty that made him a god. The drinking that began with Mutt's death and ended in the Betty Ford Clinic at 62. 'Don't be like me,' he said at the press conference after entering the clinic. 'I'm no role model.' The son Billy died of Hodgkin's at 36 — the family curse reaching the next generation.",
+    "era_adaptability": "MAXIMUM, healthy. A 6-foot switch hitter who could hit the ball 640 feet from either side of the plate, cover center field, and play on a torn ACL would dominate any era. The injured version — the one who actually played — was still the most talented player in the American League for most of his career.",
+    "clubhouse_impact": "The sun around which the Yankees orbited. Yogi Berra, Whitey Ford, Billy Martin, Roger Maris — they all existed in relation to Mantle. The drinking culture was real and documented; the camaraderie was also real. The Yankees dynasty of the 1950s-60s was Mantle's dynasty first.",
+    "dark_side": "The alcoholism, the financial failures, the casino ban (briefly barred from baseball), the estrangement from his family, the son Billy dead at 36 from the family's Hodgkin's disease. 'I always said God gave me a great body to play with, and I didn't take care of it. And I blame a lot of it on alcohol.' The Betty Ford Clinic in 1994. The liver transplant that came too late. Dead at 63 — older than he ever expected, younger than he should have been. He told the world at his press conference: 'Don't be like me.' They didn't listen. They never do."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Triple Crown",
+      "desc": "The only switch hitter ever. In ILB, Mantle's BA/HR/RBI can all be leading the league simultaneously — activates a once-per-season 'Triple Crown Bid' event."
+    },
+    {
+      "tag": "The Mantle Curse",
+      "desc": "The Mantle family died young of Hodgkin's disease. In ILB, after age 33, Mantle must roll each season: (1-2) accelerated physical decline, -1 OVR permanently."
+    },
+    {
+      "tag": "Both Sides",
+      "desc": "Switch hitter. Left-handed against right-handed pitchers; right-handed against lefties. No pitcher has a handedness advantage against Mantle. Unique in the set."
+    },
+    {
+      "tag": "The Torn ACL",
+      "desc": "SPD is permanently capped at 1 from the 1951 WS injury. The speed he might have had is encoded as the speed he lost."
+    },
+    {
+      "tag": "Tape Measure",
+      "desc": "Once per season, Mantle may attempt a 'Tape Measure' home run — a special roll where a successful HR is documented as exceptional distance and grants +2 morale to the team."
+    },
+    {
+      "tag": "Don't Be Like Me",
+      "desc": "Post-career: Mantle's HOF status and legend generate +1 chemistry for all young players who meet him. But his dark_side rating is the highest in the Dreamers — a model of what NOT to do encoded as what they will do anyway."
+    },
+    {
+      "tag": "Mutt's Switch",
+      "desc": "Named after Mickey Cochrane; trained from birth as a switch hitter. Mantle's career batting stats are higher from the left side. His right-handed power was legendary. The father's plan worked."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Community Events",
+      "affinity": "SACRED",
+      "note": "Yankee Stadium, center field. Monument Park. Number 7 retired. The DiMaggio inheritance. 'Joe DiMaggio's deserves to be higher.'",
+      "note_extra": "Source labeled 'Yankee Stadium / Center Field' / affinity 'SACRED' — seventh SACRED in the set (after Gehrig/Yankee Stadium, Rice/WS fence, and five subsequent SACREDs). Mantle's is the second Yankee Stadium SACRED, following Gehrig's. The two SACREDs occupy the same physical location but encode entirely different registers: Gehrig's SACRED was the exit (the farewell speech, July 4, 1939 — the moment that made the stadium permanent); Mantle's is the occupation (18 seasons in the same center field, the inheritance of DiMaggio's legacy, the retirement ceremony where he insisted DiMaggio's plaque be hung one inch higher). The Baseball Almanac documents the ceremony: 'Joe DiMaggio presented him with a bronze plaque to be hung on the center field wall near the monuments to Babe Ruth, Lou Gehrig, and Miller Huggins. In response, Mantle gave a similar plaque to DiMaggio, telling the crowd, Joe DiMaggio's deserves to be higher. In response, Joltin Joe's plaque was hung one inch higher than Mantle's.' The Community Events domain is used because Yankee Stadium was a civic New York institution across Mantle's 18 seasons — not merely a workplace but the public arena where the city projected its greatest sports identity. The chemistry_trait 'Mutt's Switch' is the biographical connection between Commerce, OK origin and this SACRED destination."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "The switch-hitting construction. Mutt's design. Batting left against his father, right against his grandfather. The only Triple Crown switch hitter in history.",
+      "note_extra": "Source labeled 'Switch Hitting / Practice / Mutt's Training' / affinity 'HIGH' — fourteenth Practice Field/HIGH in the set. Mantle's is the first Practice Field/HIGH in the set grounded in a parental design rather than self-developed craft — Mutt Mantle decided Mickey would be a switch hitter before Mickey was born, named him after a catcher, and trained him from age 3 by pitching to him right-handed from the left side and left-handed from the right side. The Triple Crown — the only switch-hitter ever to win it — is the formal institutional result of this training. The SABR BioProject: 'Among the many lessons Mutt taught Mickey was the need to develop as a switch-hitter. Mutt believed that future managers would embrace a platoon system allowing right-handed hitters to face only lefty pitchers and vice-versa.' Mutt's theory was correct: a switch hitter would never be platooned. The chemistry_trait 'Both Sides' (no handedness advantage for any pitcher) and 'Mutt's Switch' (left side stats higher; right-handed power legendary) are the mechanical cross-field expressions."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HAUNTED",
+      "note": "Lenox Hill Hospital, October 1951. Father and son in the same room. Mutt's collapse. The Hodgkin's diagnosis. Watching the rest of the World Series from their beds.",
+      "note_extra": "Source labeled 'Hospital / 1951 WS Injury / Mutt's Diagnosis' / affinity 'HAUNTED' — fifth HAUNTED in the set (after Holmes/Jury Box, Cooper/Elbow, Blackwell/Nuremberg, Doby/Comiskey 1947). Mantle's HAUNTED is the most intimate in the set — not a public civic space or a historical site but a hospital room that two people occupied simultaneously at the moment everything changed. The Wikipedia source: 'Accompanying his son to the hospital after the game, Mantle's father collapsed onto the sidewalk while trying to help his son into a taxi. The two were given hospital beds in the same room and watched the remainder of the World Series together. Mutt Mantle was diagnosed with Hodgkin's disease.' The HAUNTED affinity encodes the Lenox Hill Hospital as the location where the 1951 WS knee injury occurred (career-altering), Mutt's terminal diagnosis was made (life-altering), and the father-son dynamic that produced Mickey Mantle as a ballplayer came to its visible end. Hotel/Rest is the canonical domain because the hospital room is a private residential recovery space. The chemistry_trait 'The Mantle Curse' and the action card seed 'Both in the Same Room' are the cross-field expressions."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Commerce, Oklahoma. Spavinaw. The lead and zinc mines. Mutt Mantle, the miner who built a ballplayer. The Depression childhood that made the prodigy.",
+      "note_extra": "Source labeled 'Commerce, Oklahoma / Mutt / Mines' / affinity 'ORIGIN' — eighth standalone ORIGIN in the set. Mantle's is the most generationally layered ORIGIN: Commerce, OK encodes not just his birthplace but his father's life (Eagle-Picher zinc and lead mines, exhausting dangerous work), his grandfather's life (the first switch-hitting batting partner), the Depression poverty, and the Hodgkin's disease that killed the family across generations. The SABR BioProject: 'cancer had been the grim reaper of the Mantle family, claiming among others Mickey's uncle, his grandfather, and a couple of other relatives, all in their 40s or younger.' The ORIGIN is the source of both the gift (Mutt's training, the switch-hitting, the natural power) and the curse (the Hodgkin's disease pattern, the fatalism, the drinking). The chemistry_trait 'The Mantle Curse' is the cross-field mechanical expression of the curse dimension; 'Mutt's Switch' encodes the gift dimension. Commerce, OK is the single location where both originated."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "The Yankees dynasty clubhouse. Berra, Ford, Martin, Maris. The camaraderie that was real alongside the drinking culture that was also real.",
+      "note_extra": "Source labeled 'Clubhouse / Yankees Dynasty' / affinity 'HIGH' — seventeenth Hotel/Rest/HIGH in the set. Mantle's register is the second Yankees-dynasty HIGH after Rizzuto (prank-target-beloved-presence) and in contrast to Gordon (integration-moral-leadership). Where those prior Yankees HIGH entries encoded specific moral or social dimensions, Mantle's is the full dynasty center — the gravitational core around which Berra, Ford, Martin, and eventually Maris orbited. The Chemistry_trait 'Don't Be Like Me' encodes the dark dimension of this HIGH: the same clubhouse warmth that made Mantle beloved was also the bar culture that accelerated his decline. The HIGH and the dark_side exist simultaneously in this domain, just as they did in Cooper's Bar/Nightlife HIGH — but where Cooper's was explicitly DAMNED via the alcoholism arc, Mantle's remains HIGH because the camaraderie was the dominant register for most of his career."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "World Series appearances — all-time WS records; CLU 3 maximum; 12 Series across career.",
+      "Left-handed at-bats against right-handed pitchers — his natural side; higher career stats from the left.",
+      "Midsummer peak — 1956 described as his 'favorite summer'; the heat and the peak often aligned.",
+      "Crowd energy at Yankee Stadium — SACRED domain bonus; the Mr. Tiger parallel; 18 seasons in that center field."
+    ],
+    "cold_triggers": [
+      "Physical pain — knee, osteomyelitis, recurring injuries; SPD permanently limited; The Torn ACL trait activates.",
+      "Post-Mutt grief — the drinking that began after Mutt's death in 1952 created a recurring cold baseline.",
+      "The Mantle Curse roll — after age 33, the family curse activates the decline mechanic.",
+      "Late-career seasons (1964-1968) — OVR degrades from the accumulated injuries and alcoholism."
+    ],
+    "pressure_response": "The most explosive pressure response in the set, measured by postseason production alone. All-time WS HR (18), RBI (40), runs (42), walks (43). In 12 World Series appearances, Mantle performed above his regular-season level. This is the WS record holder — the player around whom every October narrative of the 1950s-60s was organized. CLU 3 maximum reflects the body of WS work across his career. The individual game response was binary in the Mantle way: either a tape-measure home run off a right-field roof, or a strikeout that people forget because 1,710 career strikeouts blurred into one long swing. He was the most spectacular and the most spectacular failure, often in the same at-bat."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Both in the Same Room",
+      "type": "Drama",
+      "text": "In the first game of the World Series, your center fielder tears his knee catching a drain cover in the outfield. He is carried off on a stretcher. His father, who has come to watch the Series, tries to help him into a taxi outside the stadium. The father collapses on the sidewalk. Both are taken to the hospital. They are put in the same room. They watch the rest of the World Series from their beds. The father is diagnosed with Hodgkin's disease. He dies the following May. Your center fielder never speaks about this directly. He plays the rest of his career on a torn ACL.",
+      "origin": "1951 World Series, Game 2. Mantle caught his spikes on a drain cover in center field while chasing a fly ball hit by Willie Mays, tearing his ACL. His father Mutt tried to help him into a taxi, collapsed on the sidewalk with undiagnosed Hodgkin's disease. Both were hospitalized simultaneously at Lenox Hill. Mutt died May 7, 1952."
+    },
+    {
+      "title": "The Tape Measure",
+      "type": "Game Action",
+      "text": "April 17, 1953. Washington D.C. Your switch hitter bats right-handed. He hits a pitch off the left-field bleachers facade. The ball clears the facade, lands in a backyard across the street. Yankees traveling secretary Red Patterson finds it and measures from home plate. He announces the distance: 565 feet. No one has ever done this before. Someone brought a tape measure to a baseball game and measured a home run. The tape measure home run is now a part of baseball's vocabulary.",
+      "origin": "April 17, 1953, Griffith Stadium, Washington D.C. Mantle hit a right-handed home run off Chuck Stobbs that cleared the left-field bleachers, landed in a backyard across the street. Yankees traveling secretary Red Patterson famously measured it at 565 feet — creating the concept of the 'tape measure home run.'"
+    },
+    {
+      "title": "Triple Crown",
+      "type": "Action",
+      "text": "Your switch hitter leads both leagues in batting average, home runs, and runs batted in. He is the only switch hitter ever to do this. The MVP vote is unanimous — the first time in franchise history. He later calls it his 'favorite summer.'",
+      "origin": "1956 season. Mantle led the majors in BA (.353), HR (52), and RBI (130). First and only switch hitter to win the Triple Crown. The first unanimous MVP in Yankees history. He called 1956 his 'favorite summer.'"
+    },
+    {
+      "title": "Larsen's Game",
+      "type": "Game Action",
+      "text": "In the fifth inning of Game 5 of the World Series, your center fielder makes a running catch of a deep fly ball to preserve a perfect game. The batter is Gil Hodges. The pitcher is Don Larsen. The catch is the one play that keeps the game perfect. Your center fielder scored the first run of the game, batting home run in the fourth inning. He saved the game in the fifth. In the record books, Don Larsen threw the perfect game. In center field, Mickey Mantle kept it perfect.",
+      "origin": "1956 World Series Game 5 — Don Larsen's perfect game. In the fifth inning, Mantle made a running catch of Gil Hodges' deep fly to preserve the perfecto. He had homered in the fourth inning to score the first Yankees run. The catch is the most consequential defensive play in WS history."
+    },
+    {
+      "title": "The Mantle Curse",
+      "type": "Drama",
+      "text": "Your player believes he will die before he is forty. His grandfather died young. His father died young. His two uncles died young. His son will later die at thirty-six. 'I always felt I had to live fast because I would die young,' he tells reporters. He does not die young. He outlives his expectations by more than two decades. He calls this a mistake. 'If I knew I was going to live this long, I'd have taken better care of myself.'",
+      "origin": "The Mantle family's documented pattern of early Hodgkin's disease deaths — grandfather, two uncles, Mutt at 40, son Billy at 36. Mantle believed he would die young and lived accordingly. He entered the Betty Ford Clinic at 62, received a liver transplant in 1995, and died that same year at 63."
+    },
+    {
+      "title": "Don't Be Like Me",
+      "type": "Legacy",
+      "text": "At a press conference following a liver transplant, your player tells the assembled reporters: 'Don't be like me. I'm no role model.' He is one of the most famous athletes who ever lived. The children watching the press conference idolize him. They will be like him anyway. The Legacy tag 'No Role Model' is attached to his card. His HOF plaque generates +1 chemistry for all young players who encounter it. The press conference generates -1 chemistry for him personally.",
+      "origin": "Mantle's press conference in June 1995, after his liver transplant at Baylor University Medical Center. He had entered the Betty Ford Clinic in 1994. He died August 13, 1995 — three months after the transplant."
+    },
+    {
+      "title": "Joe DiMaggio's Deserves Higher",
+      "type": "Legacy",
+      "text": "At his retirement ceremony, your center fielder gives a plaque to the player he replaced. 'His deserves to be higher,' he tells the crowd. The previous center fielder's plaque is hung one inch higher than your player's. It is the most gracious act of your player's public life. It is also, perhaps, a confession: that he spent his career feeling he had not been worthy of the space he was given.",
+      "origin": "Mickey Mantle Day, June 8, 1969, Yankee Stadium. Joe DiMaggio presented Mantle with a bronze plaque for Monument Park. Mantle then presented DiMaggio with a similar plaque, telling the crowd 'Joe DiMaggio's deserves to be higher.' DiMaggio's plaque was subsequently hung one inch higher than Mantle's."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'11\", 195 lbs — built like what a ballplayer should look like when designed from scratch. Blond, square-jawed, Oklahoma-bright. The face that launched a thousand Sports Illustrated covers. The eyes that were still the eyes of a Commerce, OK kid who didn't fully understand what had happened to him. In 1956 he is 24 years old, at the absolute peak of his powers, and he knows it — and he knows it won't last.",
+    "attire": "New York Yankees home pinstripes, number 7. The swing from the left side — the Triple Crown swing, the one that produced 52 home runs and .353 and a .705 slugging percentage in a single season from a switch hitter. The bat fully extended through the zone, the follow-through lifting the body, the ball already gone into a right-field mythology.",
+    "mood": "Pure power barely contained. The 1956 version — the favorite summer — before the second MVP and the declining knee years and the drinking that got worse and the son who died and the liver transplant too late. This is the Mantle who called it his favorite summer. The most talented player alive, in his season, unhurt enough to prove it.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Yankee Stadium right-center field visible behind him. The summer of 1956 — when the answer to 'who is the greatest player in baseball?' required no argument.",
+    "reference": "Ruth was the original. DiMaggio was the bridge. Mantle was the inheritor — the switch hitter who won the Triple Crown on a torn ACL, who hit the ball farther than anyone ever measured, who held all the WS records, who told the world not to be like him, and who nobody listened to. He is the most tragic and the most magnificent of the Dreamers — the player whose greatness we measure by what it cost."
+  }
+}
