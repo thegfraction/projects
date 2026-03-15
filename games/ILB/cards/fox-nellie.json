@@ -1,0 +1,206 @@
+{
+  "card_type": "player",
+  "name": "Nellie Fox",
+  "nickname": "Mighty Mite / Little Nel",
+  "year": 1959,
+  "team": "Chicago White Sox",
+  "league": "American League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "2B",
+  "bats": "L",
+  "throws": "R",
+  "height": "5'9\"",
+  "weight": "160 lbs",
+  "born": "December 25, 1927 — St. Thomas, PA",
+  "died": "December 1, 1975 — Baltimore, MD",
+  "hof": "Class of 1997 (Veterans Committee)",
+
+  "real_stats": {
+    "season": 1959,
+    "games": 156,
+    "at_bats": 624,
+    "hits": 191,
+    "doubles": 34,
+    "triples": 6,
+    "home_runs": 2,
+    "rbi": 70,
+    "stolen_bases": 5,
+    "runs": 84,
+    "batting_avg": ".306",
+    "obp": ".380",
+    "slg": ".389",
+    "ops": ".769",
+    "ops_plus": 118,
+    "war": 6.2,
+    "all_star": 12,
+    "gold_gloves": 3,
+    "awards": "AL MVP 1959 — first White Sox player to win AL MVP. Gold Glove 1957 (inaugural AL award at 2B), 1959, 1960 — first 2B to win three GGs. Led AL in games (156), at-bats (624), plate appearances, and singles in 1959. Led 2B in putouts, assists, fielding %, and total chances. Batted .383 with runners in scoring position in 1959. Career: 12x AL All-Star (1951-1961 consecutive + 1963). Led AL in singles seven consecutive years. Third-hardest hitter to strike out in MLB history (216 career K in 10,000+ PA). In 1962: 185 consecutive plate appearances without a strikeout (since bettered only by Dave Cash's 223 in 1976). Led AL 2B in total chances nine consecutive years (1952-1960).",
+    "world_series": "1959 WS: .375 batting average (3-for-8 hits, 6 games) — team-leading average in the Series. White Sox lost to the Los Angeles Dodgers 4-2. Only postseason appearance of his career.",
+    "career_avg": ".288",
+    "career_hits": 2663,
+    "career_hr": 35,
+    "career_war": 49.6,
+    "career_rbi": 790,
+    "career_notes": "19 seasons (1947-1965). Philadelphia Athletics (1947-1949), Chicago White Sox (1950-1963), Houston Colt .45s / Astros (1964-1965). Career .288/.348/.363. 2,663 hits. 12x All-Star. 3 Gold Gloves. 1 MVP. 216 career strikeouts in over 10,000 plate appearances. Career .984 fielding percentage. White Sox number 2 retired May 1, 1976. Fox-Aparicio considered one of the greatest DP combinations in baseball history. Mentored Joe Morgan in Houston. HOF elected 1997 (Veterans Committee) — 22 years after his death. Had received 74.7% in final writer ballot in 1985, missing the 75% threshold by conventional rounding. Died December 1, 1975, melanoma, age 47. His wife Joanne spoke at the 1997 HOF induction ceremony."
+  },
+
+  "ilb_stats": {
+    "ovr": 7,
+    "con": 4,
+    "pow": 0,
+    "spd": 0,
+    "def": 3,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": ".306 BA (1959). .300-.329 = 4 band. OPS+ 118 — below the ≥130 bonus threshold. CON 4. The contact quality is deep and structural: 216 career strikeouts in over 10,000 plate appearances; third-hardest to K in MLB history; led AL in singles seven consecutive years; 185 consecutive plate appearances without a strikeout in 1962. CON 4 accurately reflects the 1959 season quality — excellent contact without reaching the elite statistical threshold that triggers the bonus.",
+    "pow": "2 HR (1959). SLG .389 — well below the ≥.500 bonus threshold. POW formula: 0-9 HR = 0. POW 0. Career 35 HR in 19 seasons. Fox is explicitly what Al Lopez described: a player who worked to develop everything else because natural power was absent. 'He wasn't fast and didn't have an arm.' The power absence is structural, not a bad year.",
+    "spd": "5 SB (1959). Career 76 SB. The Go-Go Sox were built on speed — but Fox set the table; Aparicio ran the bases. Lopez confirmed: 'He wasn't fast.' SPD 0. The paradox of the Go-Go Sox catalyst who wasn't himself fast — Fox's value was creating the opportunities that the speed players exploited.",
+    "def": "Three Gold Gloves (1957, 1959, 1960) — including the inaugural AL GG at 2B. Led AL 2B in total chances nine consecutive years (1952-1960). Led in putouts 1952-1961. Career .984 fielding percentage. Joe Morgan: 'I learned not only technique but a kind of artistry that only comes with a real love of the game. Feel the ball. Nellie would emphasize this over and over again.' DEF 3 — the Fox-Aparicio double play tandem is the definitional defensive pair at 2B/SS in the set. First 2B in the set at DEF 3.",
+    "clu": "1959 WS: .375 batting average (led the White Sox team in the Series) in 6 games. The lone postseason appearance of his career, and he rose to it. CLU 2 reflects the exceptional individual WS performance — the team-leading .375 average against the Dodgers — on a team that ultimately lost the Series. CLU 2 is the second-highest CLU in the set for a player whose only postseason was a loss; it acknowledges the genuine hero moment without rewarding a championship that didn't happen."
+  },
+
+  "personality": {
+    "leadership_style": "The manager's player. Al Lopez: 'Fox is what you'd call a manager's player. He does his job expertly and he does it every day. He's the type of player you can count on. He's an old pro. A great many times, he is hurting pretty badly from the dumpings he's taken on the field, but he's always ready to play.' Fox led through absolute reliability — the player who would always be at second base, who would never strike out, who would put the ball in play, who would lead the league in games played. The leadership was the consistency itself.",
+    "temperament": "Gritty, determined, unpretentious. A small-town Pennsylvania kid who signed his first pro contract at 16, was signed into a uniform too small to fit him, and became a Hall of Famer by working at it. He was vocal in the clubhouse — 'a vocal leader of the White Sox' — but the voice came from earned authority, not natural charisma. The tobacco chew was part of the persona; the bottle bat was part of the craft.",
+    "work_ethic": "The entire career is the work ethic. Lopez said he 'wasn't fast and didn't have an arm' — every asset Fox had at the position was developed, not given. 216 career strikeouts across 10,000 plate appearances is not a talent; it is a skill built over 19 seasons. Leading the AL in second base total chances for nine consecutive years is not athleticism; it is preparation and positioning repeated daily until it became automatic.",
+    "lifestyle": "St. Thomas, Pennsylvania, always — the small town near Chambersburg, 30 miles west of Gettysburg. Born Christmas Day. Father's baseball glove purchased the same day. Bat boy for the St. Thomas town team at age 6. Never had much use for the major city life that baseball gave him access to. Co-owned Nellie Fox Bowl in Chambersburg after retiring. The bowling alley is the most accurate biographical detail: a small Pennsylvania town, a local business, a man who was never trying to be anything more than what he was.",
+    "era_adaptability": "HIGH for contact-and-defense within the contact era. The 216-strikeout career record translates to any era — the contact approach is fundamental, not stylistic. The SPD 0 and POW 0 would be severely penalized in the modern power-and-launch-angle game; Fox's value was specific to the Go-Go context where defense and bat-control were primary. The DEF 3 is universal.",
+    "dark_side": "The HOF wait. 74.7% in the final writer ballot (1985), missing by a single decimal point by conventional rounding. Then another 12 years of Veterans Committee balloting before election in 1997 — 22 years after his death at 47 from melanoma. He never knew he was going to Cooperstown. The cancer that killed him at 47 was characterized by teammate Jim Lemon as something that 'had to be incurable — because if it wasn't, Nellie would have beat it.' The determination that defined his playing career was the same quality that made his death at 47 seem incongruous to everyone who knew him."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Feel the Ball",
+      "desc": "Fox's instruction to Joe Morgan: 'Feel the ball.' In ILB, Fox generates a +1 CON bonus for any young 2B (under 25) on the same roster — the craft transmission. Morgan learned it. Every subsequent second baseman in Fox's professional sphere was better for the contact."
+    },
+    {
+      "tag": "Fox-Aparicio",
+      "desc": "The definitional DP combination of the 1950s. When Luis Aparicio is at SS in the same lineup, both players receive +1 DEF — the tandem bonus. The fluidity of their middle infield is the most frequently cited defensive partnership in the set."
+    },
+    {
+      "tag": "No More Than Milk",
+      "desc": "Veeck: 'We need Fox no more than your baby needs milk.' In ILB, when Fox is in the lineup, the White Sox team OBP is +.010 passive — his presence at the top of the order raises the floor of the entire lineup's on-base capacity."
+    },
+    {
+      "tag": "The Tobacco Chew",
+      "desc": "The iconic bulging cheek. Fox's distinctive plate presence: crouched, bat choked up, cheek distended. In ILB, this is the visual signature of his contact approach. No mechanical effect — the tobacco chew is encoded as a personality marker, not a stat."
+    },
+    {
+      "tag": "Consecutive Games",
+      "desc": "Fox led the AL in games played multiple seasons. In ILB, Fox never voluntarily removes himself from the lineup. He may play through minor injuries at full CON — the availability is structural."
+    },
+    {
+      "tag": "Go-Go Catalyst",
+      "desc": "The engine of the Go-Go Sox. When Miñoso is also in the lineup, the Go-Go chemistry activates: +1 SPD for Miñoso (the Fox table-setting releases Miñoso's speed). The two together are the full Go-Go identity."
+    },
+    {
+      "tag": "Eight Foxes",
+      "desc": "Lopez: 'If you had eight Nellie Foxes, all with his spirit and determination, I think you'd have a winning team.' In ILB, Fox's CHM bonus applies differently than any other card in the set: it generates team morale from pure consistency, not from a single impressive performance."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "MAXIMUM",
+      "note": "Second base at Comiskey Park, every day, for 14 years. The fielding positions developed through preparation, not athleticism. 'He worked hard to develop what he needed to make himself a good all-around ballplayer.' — Al Lopez.",
+      "note_extra": "Source labeled 'Comiskey / Daily Preparation / Position Craft' / affinity 'MAXIMUM' — sixth MAXIMUM in the set (after Holmes/Waner, Brecheen/minors, Mantle/switch-hitting, Rosen/Snead-advice, Wynn/Harder). Fox's is the only MAXIMUM in the set not attributed to a specific mentor or instruction — it is the MAXIMUM of accumulated self-directed daily preparation. Lopez's description is the definitive framing: 'He wasn't fast and didn't have an arm, but he worked hard to develop what he needed to make himself a good all-around ballplayer.' The MAXIMUM is the result of this daily work applied to a position over 14 consecutive seasons at the highest competitive level. Led AL 2B in total chances nine consecutive years (1952-1960); three Gold Gloves; career .984 fielding percentage. None of this was natural talent applied consistently — it was applied effort applied consistently. The chemistry_trait 'Eight Foxes' is the most precise encoding of what this MAXIMUM produced: Lopez's fantasy of a team built entirely from Fox's work ethic."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "St. Thomas, Pennsylvania. Jacob and Mae Fox. Born Christmas Day. Father's first gift: a baseball glove. Bat boy at age 6. Pinch hit single at age 10. The tryout where his parents hoped the A's would turn him away.",
+      "note_extra": "Source labeled 'St. Thomas / Christmas Day / Jacob / Mae / Tryout / Uniform Too Small' / affinity 'ORIGIN' — sixteenth standalone ORIGIN in the set. Fox's is the most parent-mediated ORIGIN in the set — the Baseball Almanac documents that his mother Mae wrote to Connie Mack on his behalf, and his parents drove him to the Frederick, Maryland tryout explicitly hoping the A's would discourage him from baseball and send him back to school. The opposite happened: the A's signed him, and Earle Mack 'had difficulty finding a small enough uniform to fit the boy.' The Christmas Day birth is the structural beginning: the first gift on his first day of life was a baseball glove. The bat boy role at age 6 for his father's town team placed him in the professional context of baseball before he was old enough for school. The pinch hit single at age 10 against 'one of the top pitchers in the area' is the first documented performance — and the SABR BioProject says 'this was the start of his baseball career.' The ORIGIN encodes all of this: the small Pennsylvania town, the father's team, the mother's letter, the parents' hope to be told no, and the A's who said yes."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "SACRED",
+      "note": "Comiskey Park / U.S. Cellular Field. Number 2 retired May 1, 1976. Bronze statue on the outfield concourse, unveiled 2006 — Fox flipping a ball to Aparicio, Aparicio preparing to receive. The Fox-Aparicio monument.",
+      "note_extra": "Source labeled 'Comiskey / Number 2 / Statue / Fox-Aparicio' / affinity 'SACRED' — thirteenth SACRED in the set. Fox's is the second Comiskey Park SACRED in the set (after Miñoso's), and the two SACREDs share the same stadium but different registers: Miñoso's is the civic/community naming (school, statue, eternal Mr. White Sox identity); Fox's is the double play — the statue depicts the single defining defensive moment of his career, the flip to Aparicio that was repeated ten thousand times in 14 years, frozen in bronze in 2006. Where Miñoso's SACRED is about who he was, Fox's SACRED is about what he did: the motion, the flip, the double play. The two statues stand together on the outfield concourse at the same ballpark. The chemistry_trait 'Fox-Aparicio' is the mechanical cross-field expression."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "CODA",
+      "note": "Died December 1, 1975, aged 47. Melanoma. Waited 22 more years for Cooperstown. His wife spoke at the 1997 induction. '74.7 percent' — missed by a decimal point.",
+      "note_extra": "Source labeled '74.7% / 1975 Death / 1997 Veterans Committee / Joanne' / affinity 'CODA' — third CODA in the set (after Brecheen's coaching legacy, Kuenn's Koufax final-outs, Miñoso's seven decades). Fox's is the only CODA that encodes a posthumous HOF induction — the career's last resonance happened 22 years after its last occupant died. The CODA has three specific moments: (1) the 1985 writer ballot at 74.7%, where a decimal point of conventional rounding cost him election during his lifetime; (2) his death on December 1, 1975, at 47; (3) the 1997 Veterans Committee election, where his wife Joanne Fox spoke and said: 'He played with all his heart, all his passion, and with every ounce of his being — that was the best way he could show his appreciation to all those who helped him learn the game that became his life.' The Hotel/Rest domain encodes the private domestic dimension of this wait — Fox did not attend these votes; he was not present; the HOF arrived in his house in St. Thomas via news dispatches and committee announcements. The CODA is the part of the career that happened without him."
+    },
+    {
+      "location": "Medical/Recovery",
+      "affinity": "COMPLEX",
+      "note": "The dumpings. The injuries sustained from hard slides and collisions at second base. 'A great many times, he is hurting pretty badly from the dumpings he's taken on the field, but he's always ready to play.' — Lopez. The physical cost of being the most-used second baseman in the AL for nine consecutive years.",
+      "note_extra": "Source labeled 'Dumpings / Daily Injuries / 156 Games Played / Always Ready' / affinity 'COMPLEX' — ninth COMPLEX in the set (after Brecheen, Kaline, Rizzuto, Gordon, Fain, Kuenn, Rosen, Runnels). Fox's COMPLEX is the most distributed in the set — not a single catastrophic injury (broken leg, amputation, torn ACL) but the accumulated daily cost of playing 156 games a year at second base for 14 years, taking slides and collisions at the most physically contested base on the field. Lopez's quote is the defining statement: 'a great many times, he is hurting pretty badly from the dumpings he's taken on the field, but he's always ready to play.' The COMPLEX is the gap between the visible performance (led AL in games played, never missed a game voluntarily) and the invisible cost (the daily injuries that Lopez knew about and that Fox did not discuss). The 'Consecutive Games' chemistry_trait is the mechanical cross-field expression — Fox played through it as a structural matter."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Runners in scoring position — .383 with RISP in 1959; the situational contact is highest under pressure.",
+      "Go-Go Sox context — Fox-Aparicio and Fox-Miñoso chemistry traits activate simultaneously; the Go-Go lineup creates the conditions for Fox's contact game.",
+      "World Series / postseason — .375 in the only WS of his career; CLU 2 reflects genuine postseason performance elevation.",
+      "Defensive assignments — total chances, DP, positioning; DEF 3 activates most fully in high-leverage defensive situations."
+    ],
+    "cold_triggers": [
+      "Power situations — POW 0 is absolute; the Go-Go team that needs a home run never gets it from Fox.",
+      "Extra-base situations requiring speed — SPD 0 is confirmed; 'he wasn't fast.' The Go-Go Sox's speed was generated by Aparicio and Miñoso, not Fox.",
+      "The CODA — the HOF wait, the decimal point, the 22 years after his death. Not a cold trigger during his playing career but the structural cold of his legacy arc.",
+      "Post-1959 physical decline — the dumpings accumulate; the COMPLEX triggers more frequently after the MVP season."
+    ],
+    "pressure_response": "The most reliable pressure response in the set after Berra. Fox batted .375 in the 1959 World Series — the highest average on the team — and batted .383 with runners in scoring position during the regular season. His pressure response was the contact game applied precisely when precision was most needed: no strikeouts, no pop-outs, the ball put in play toward the gaps. It was not dramatic. It was relentless."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Uniform Too Small",
+      "type": "Origin",
+      "text": "In 1944, Mae Fox writes to Connie Mack: 'My boy is baseball crazy.' She and her husband Jake drive their 16-year-old son Nelson to the A's open tryout in Frederick, Maryland. They do not tell Nelson their plan. They hope the A's will tell him he is too small, too unathletic, too young, and that he should go back to school. Earle Mack looks at the boy and has difficulty finding a uniform small enough to fit him. The A's sign him anyway. Jake and Mae drive home with their son, who is now a professional baseball player.",
+      "origin": "Documented in the Baseball Almanac and multiple biographies. Fox's parents took him to the 1944 Athletics open tryout at Frederick, Maryland, with the private intention of having the team discourage him from baseball. The A's signed him instead."
+    },
+    {
+      "title": "Eight Foxes",
+      "type": "Legacy",
+      "text": "Al Lopez says: 'If you had eight Nellie Foxes, all with his spirit and determination, I think you'd have a winning team.' He is not saying your player is the best player on the field. He is saying that the thing your player brings — the daily readiness, the professional reliability, the refusal to strike out, the willingness to take a dumping at second base and be back tomorrow — is the thing a team needs nine of. He is saying your player is irreplaceable because he is reproducible only at the cost of tremendous effort. And nobody makes that effort the way your player does.",
+      "origin": "Al Lopez's quote about Fox, widely cited in Fox's biographical materials and the SABR BioProject."
+    },
+    {
+      "title": "74.7 Percent",
+      "type": "Drama",
+      "text": "In 1985, your second baseman receives 74.7 percent of the Hall of Fame votes. The threshold is 75 percent. He does not get in. He is not eligible for future ballots. He dies in 1975, at age 47, before this ballot is cast. In 1997, the Veterans Committee elects him. His wife Joanne speaks at the induction ceremony. She says he played with all his heart, all his passion, and with every ounce of his being. He is not there to hear it. The decimal point that separated him from the threshold is not mentioned.",
+      "origin": "Fox received 74.7% in the final BBWAA ballot in 1985 — the threshold was 75%, and conventional rounding of 74.7 to 74 rather than 75 cost him induction. He died December 1, 1975, aged 47. The Veterans Committee elected him in 1997, 22 years after his death."
+    },
+    {
+      "title": "Feel the Ball",
+      "type": "Legacy",
+      "text": "Your second baseman is traded to the expansion team in Houston. There is a young second baseman there. They play together. Your second baseman tells the young player: 'Feel the ball.' He says it over and over. The young player later becomes a Hall of Famer. He says at his induction: 'I played with him, and I wouldn't be standing here today if it wasn't for what I learned from him. Feel the ball. He would emphasize this over and over again.' Your second baseman did not live to see this induction either.",
+      "origin": "Joe Morgan played with Fox on the Houston Astros in 1964-1965. Morgan's tribute to Fox at Fox's 1997 HOF induction ceremony is documented in the Baseball Almanac and HOF records. Morgan was also inducted into the HOF (1990)."
+    },
+    {
+      "title": "The Dumpings",
+      "type": "Drama",
+      "text": "Al Lopez says: 'A great many times, he is hurting pretty badly from the dumpings he's taken on the field, but he's always ready to play.' Your second baseman leads the American League in games played this season. He is also leading the American League in total chances, putouts, assists, and fielding percentage. He is taking a dumping at second base approximately every other game. He is always ready to play.",
+      "origin": "Al Lopez's quote about Fox is documented in the Baseball Hall of Fame's records. Fox led AL 2B in total chances for nine consecutive seasons, making him the most frequently challenged infielder at his position during this period."
+    },
+    {
+      "title": "No More Than Milk",
+      "type": "Legacy",
+      "text": "Bill Veeck writes in his autobiography: 'We need Fox no more than your baby needs milk.' He means this as the highest praise. Your second baseman is as fundamental to the team as a source of nutrition is to a newborn. Remove him and everything stops working. He is not the spectacular player. He is the necessary one. In 1959, the White Sox win the American League for the first time in 40 years.",
+      "origin": "Bill Veeck's quote from 'Veeck — As In Wreck,' his autobiography. Cited in multiple FOX biographies and the SABR BioProject."
+    },
+    {
+      "title": "The 1959 World Series",
+      "type": "Game Action",
+      "text": "Your second baseman bats .375 in the World Series. He leads his team in batting average across the six games. His team loses to the Dodgers, four games to two. It is the only World Series your second baseman will ever play in. He does not complain about this. He batted .375 in the World Series. That is what he could do. He did it.",
+      "origin": "1959 World Series. Fox batted 3-for-8 (.375) in 6 games, the highest average on the White Sox in the Series. The White Sox lost to the Los Angeles Dodgers 4-2."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'9\", 160 lbs — the smallest player in the Dreamers 1950 set. The bulging cheek of tobacco. The crouched, choked-up batting stance that defined an era of White Sox baseball. In 1959 he is 31 years old, winning his only MVP, leading a team that hasn't won the pennant in 40 years, batting .375 in the World Series that they still lose. The face is the face of the most reliable player in the American League — not the most spectacular, not the most discussed, the most reliable.",
+    "attire": "Chicago White Sox home whites — the distinctive early 1959 uniform. Number 2. The left-handed batting stance, the bottle bat choked up, the tobacco cheek. The second baseman's ready position: weight forward, hands low.",
+    "mood": "Quiet readiness. Fox is not Mantle's explosive joy or Wynn's territorial ferocity or Miñoso's joyful ferocity. He is the readiness of a man who has been at second base at 1:05 PM for 14 years and will be at second base tomorrow at 1:05 PM regardless of what happens today. The mood is the mood of absolute professional reliability.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Comiskey Park behind him, the infield dirt of second base in the foreground. The outfield concourse is not yet built in 1959; the statue of Fox flipping a ball to Aparicio will come in 2006. In 1959, it is just the play itself.",
+    "reference": "Joe Morgan's tribute is the art direction: 'Feel the ball.' Fox's relationship to the physical act of contact — the craft of putting a baseball bat on a baseball — was so deeply felt that the phrase became the only instruction worth giving. The portrait should show the player who felt the ball every day for 19 seasons and never struck out when he wasn't supposed to."
+  }
+}

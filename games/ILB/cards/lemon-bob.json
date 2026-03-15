@@ -1,0 +1,204 @@
+{
+  "card_type": "player",
+  "name": "Bob Lemon",
+  "nickname": "Lem",
+  "year": 1954,
+  "team": "Cleveland Indians",
+  "league": "American League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "SP",
+  "bats": "L",
+  "throws": "R",
+  "height": "6'0\"",
+  "weight": "180 lbs",
+  "born": "September 22, 1920 — San Bernardino, CA",
+  "died": "January 11, 2000 — Long Beach, CA",
+  "hof": "Class of 1976 (BBWAA, 78.6%)",
+
+  "real_stats": {
+    "season": 1954,
+    "games": 36,
+    "games_started": 33,
+    "complete_games": 21,
+    "shutouts": 2,
+    "innings_pitched": "258.1",
+    "wins": 23,
+    "losses": 7,
+    "era": "2.72",
+    "strikeouts": 110,
+    "walks": 92,
+    "whip": "1.204",
+    "era_plus": 137,
+    "war": 5.2,
+    "all_star": 7,
+    "awards": "Led AL in complete games (21) in 1954. Sporting News Pitcher of the Year 1948, 1950, 1954 — third time in 1954. Seven consecutive AL All-Stars (1948-1954). Led AL in wins 1950 (23), 1954 (23), 1955 (18). Led AL in CG 1948, 1950, 1952, 1954, 1956 (five times). Led AL in IP four times. Led AL in strikeouts 1950. Career-best 23-7 win-loss record in 1954. Stengel: 'The Indians have nine hitters in the lineup instead of eight.'",
+    "world_series": "1948 WS: 2-0, 1.65 ERA in 16.1 innings. Only pitcher from either club to win two games. Won Game 2 (4-1 vs. Braves/Spahn) and Game 6 (4-3, clinched championship). 1954 WS: 0-2, lost both starts as Indians swept 4-0 by the Giants. Game 2 loss — Willie Mays's Catch was Game 1 the day before Lemon started. Career WS: 2-2, 2.57 ERA.",
+    "career_wins": 207,
+    "career_losses": 128,
+    "career_era": "3.23",
+    "career_war": 42.0,
+    "career_strikeouts": 1277,
+    "career_ip": "2850.0",
+    "career_notes": "15 seasons (1941-1942, 1946-1958), one team: Cleveland Indians. 207 wins, career ERA 3.23. Seven 20-win seasons. 7x AL All-Star. .284 career batting average; 37 career HR (second all-time among pitchers). Led AL in CG five times, IP four times, wins three times. Career as infielder/outfielder before becoming a pitcher after WWII service in Hawaii. First came to Indians as a 3B/OF; moved to pitching 1946. No-hitter June 30, 1948 vs. Detroit (2-0). Managed 1978 Yankees to World Series championship — trailed Red Sox by 14 games in July; comeback known as the 'Boston Massacre.' Son Jerry killed in automobile accident 10 days after winning 1978 WS. HOF inducted 1976. Died Long Beach, CA, January 11, 2000."
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "stf": 4,
+    "ctl": 3,
+    "sta": 3,
+    "def": 2,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "stf": "Bob Feller: 'Bob had a good curve, a good slider, and a vicious sinker pitch. He wasn't overly fast, but he always stayed ahead of the hitters and he didn't walk many batters.' STF 4 reflects the three-pitch arsenal anchored by the sinker — not elite velocity but elite movement. ERA+ of 137 in 1954; ERA 2.72. The sinker produced ground balls rather than strikeouts (110 K in 258 IP), which is the appropriate STF 4 profile: dominant by craft rather than power.",
+    "ctl": "1954: 92 BB in 258.1 IP = 3.2 BB/9. Feller confirms low walk tendency as a career characteristic. CTL 3 reflects the 1954 control season — solid, workmanlike, ahead in the count. The sinker approach requires being ahead to deploy it effectively; Lemon's count management was the key to the 23 wins.",
+    "sta": "258.1 IP in 1954 — led AL in CG (21). Led AL in IP four times across career. Seven 20-win seasons. STA 3 (maximum). Second pitcher in the set at STA 3 alongside Wynn. The 1954 Indians rotation of Wynn and Lemon as STA 3 peers is structurally accurate — they shared the 111-win season's workload at exactly this level.",
+    "def": "Led AL pitchers in putouts five times and assists six times. Participated in 15 double plays in 1953. The infield background is the explanation: he continued to work out at third base during infield practice throughout his entire career. DEF 2 — first pitcher in the set above DEF 1. The infield reflexes of a former shortstop translated directly to fielding at the position.",
+    "clu": "1948 WS: 2-0, 1.65 ERA — only pitcher from either club to win two games; won the clinching Game 6. 1954 WS: 0-2, lost both starts as Indians were swept by the Giants. Career WS: 2-2, 2.57 ERA. CLU 2 balances the 1948 championship heroism against the 1954 collapse. The 1948 performance would earn CLU 3 in isolation; the 1954 sweep weighs against it. CLU 2 is the honest average."
+  },
+
+  "personality": {
+    "leadership_style": "The island of calm. The New York Times described Lemon's 1978 management of the Yankees as 'an island of calm in a stormy summer' — in contrast to Billy Martin's combativeness. Observers noted that his low-keyed approach with the temperamental millionaires 'served to mold a spirit of togetherness among the Yankees that did not even exist last year when they won it all.' Lemon led through equanimity: the unflappable competitor who remained steady while everything else in the room was on fire.",
+    "temperament": "The SABR BioProject nails it: 'Hardheaded, but also a hard worker. Softspoken, but with a cutting wit. A devoted family man who spent long hours in bars.' Lemon was the embodiment of baseball's hard-living professional who was also genuinely good at his job and genuinely present for the people around him. He maintained a good relationship with George Steinbrenner — a man who fired him twice — and was described as 'relieved' when Steinbrenner let him go the second time.",
+    "work_ethic": "He didn't want to be a pitcher and never stopped saying so. He worked out at third base during infield practice throughout his career. He would have been content to stay in the minors as an outfielder. And yet: 207 wins, seven 20-win seasons, seven All-Star selections, and the Hall of Fame. The work ethic was applied to a role he chose by necessity rather than desire, and it produced one of the great careers in the history of the position.",
+    "lifestyle": "Long Beach, California. His father's iceman job. The Model T Ford purchased with the $500 signing bonus. Baseball was always the way out of pumping gas, not a passion — a livelihood, chosen and maintained with craft and professionalism. After his playing career: scouting, managing, and the 1978 Yankees World Series that was followed 10 days later by his son Jerry's death in a car accident.",
+    "era_adaptability": "HIGH. A sinker-slider-curve righthander with elite control who generates ground balls and CG production adapts to any era. The DEF 2 from the infield background is an unusual secondary asset. The hitting (.284 career, 37 HR) adds a dimension no modern pitcher could match.",
+    "dark_side": "Ten days. The 1978 Yankees won the World Series on October 17. Jerry Lemon, 26 years old, was killed in an automobile accident 10 days later. Bob Lemon managed the 1979 Yankees, was fired by Steinbrenner in June after 65 games. Was hired again in 1981, won the ALCS, lost the WS to the Dodgers in 4 straight after winning the first two games. Was fired again in April 1982 after 14 games. Steinbrenner's statement: 'Lem and I talked. He said it was O.K. He said he didn't take it as a promise anyway.' Lemon had wanted to resign the week before. Ten days after winning the World Series, his son died. The quiet man's quiet grief ran through everything after 1978."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Reluctant Pitcher",
+      "desc": "Lemon never wanted to pitch. He worked out at 3B during infield practice his whole career. In ILB, once per season Lemon may be used as a pinch hitter at full batting ability (.284 career average, 37 HR rate) rather than the standard pitcher batting penalty. He is always at least half a position player."
+    },
+    {
+      "tag": "Nine Hitters",
+      "desc": "Casey Stengel: 'The Indians have nine hitters in the lineup instead of eight.' In ILB, Lemon's presence in the batting order does not reduce lineup effectiveness — he is treated as a ninth hitter, not a pitcher batting slot."
+    },
+    {
+      "tag": "The Vicious Sinker",
+      "desc": "The signature pitch. In ILB, Lemon's STF 4 generates ground ball outs rather than strikeouts when optimal — ground balls produce double plays at an elevated rate due to his DEF 2 fielding and the Wynn/Lemon Indians rotation context."
+    },
+    {
+      "tag": "Wynn's Peer",
+      "desc": "Lemon and Wynn tied for the AL lead in wins (23 each) in 1954 as part of the same rotation. In ILB, when both are in the Dreamers 1950 starting rotation, each pitcher receives +1 STA — the rotation depth reduces individual fatigue."
+    },
+    {
+      "tag": "The Knuckleball He Never Threw",
+      "desc": "Lemon developed a knuckleball so unpredictable that catchers couldn't handle it. He never threw it in a game — he was afraid to, and Lopez told him he didn't need it. In ILB, once per career Lemon may attempt to deploy the knuckleball in a desperate situation. Roll: (1-3) wild pitch, balk, or passed ball. (4-6) unhittable. The pitch exists in the set as potential only."
+    },
+    {
+      "tag": "Island of Calm",
+      "desc": "Lemon's managerial philosophy: remove the pressure, let the players play. In ILB, if Lemon is used as a manager post-career, team strikeouts decrease and batting average increases — the Go-Go approach applied to a different era."
+    },
+    {
+      "tag": "Doby's Ace",
+      "desc": "Larry Doby and Bob Lemon were Cleveland Indians teammates across the 1948-1957 dynasty. When Doby is in CF behind Lemon, Lemon's ground-ball sinker generates additional OF range credit — Doby's DEF 3 in CF reduces Lemon's effective ERA in fly-ball situations."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Third base, every day, for 15 years of pitching. The infield practice he never gave up. The position he was before he became what he became.",
+      "note_extra": "Source labeled 'Third Base / Infield Practice / Reluctant Pitcher' / affinity 'HIGH' — twentieth Practice Field/HIGH in the set. Lemon's is the only Practice Field/HIGH in the set that encodes a practice that was technically irrelevant to the player's role — he was a pitcher who practiced at third base throughout his career because he never fully accepted the transition. The SABR BioProject: 'throughout his career, he continued to work out during infield practice at third base, his position when he first came to the major leagues.' The Practice Field is where Lemon was most authentically himself: not the pitcher he became but the infielder he always considered his true identity. The chemistry_trait 'The Reluctant Pitcher' is the mechanical cross-field expression. This HIGH is unusual in the set because it encodes a practice of something that produced no competitive output — the third base drills didn't help his pitching. They helped him stay connected to what he wanted to be."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Long Beach, California. Father the iceman who had played professionally. Woodrow Wilson High School. The $500 bonus and the Model T Ford. 'If it hadn't been for baseball, I'd still be pumping gas back home in Long Beach.'",
+      "note_extra": "Source labeled 'Long Beach / Iceman Father / $500 Bonus / Model T' / affinity 'ORIGIN' — seventeenth standalone ORIGIN in the set. Lemon's is the most economically self-aware ORIGIN in the set — his own quote is the most direct statement of the baseball-as-escape motivation in any card. 'If it hadn't been for baseball, I'd still be pumping gas back home in Long Beach.' The Model T Ford is the specific object that encodes the signing bonus's immediate meaning: the $500 went to transportation, to mobility, to the physical expression of leaving Long Beach. The father (an iceman who had played professionally) provides the baseball inheritance; the quote provides the economic motivation; the Model T provides the departure vehicle. The Community Events domain encompasses the Long Beach civic context — not just a family home but the specific city and its class position that Lemon was escaping."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HAUNTED",
+      "note": "Pearl Harbor naval base, Hawaii, 1943-1945. The pitching in service games that changed the career. Bill Dickey watching. The position player who came back a pitcher because the Navy needed pitching.",
+      "note_extra": "Source labeled 'Hawaii / WWII Service / Dickey / Pitching Discovery' / affinity 'HAUNTED' — eighth HAUNTED in the set (after Holmes/Jury Box, Cooper/Elbow, Blackwell/Nuremberg, Doby/Comiskey, Mantle/Lenox Hill, Berra/D-Day, Wynn/Mabel). Lemon's is the most career-altering HAUNTED in the set — the WWII service games in Hawaii are the direct cause of his entire career as a Hall of Fame pitcher. Without those games, he remains a mediocre position player and is released by Cleveland. With them, Bill Dickey sees something and vouches for him to manager Boudreau, and Boudreau tries him as a pitcher in 1946. The HOF follows from the Hawaii games. The HAUNTED affinity is used rather than ORIGIN because this transformation happened to a grown adult (age 22-25) rather than forming him as a child — it is the disruption of an existing identity, not the formation of a new one. The Community Events domain reflects the public institutional context: the Navy's Pacific theater, the service games that were organized entertainment for servicemen, the accidental audience that included Bill Dickey."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "SACRED",
+      "note": "Cleveland Municipal Stadium. One franchise, 15 seasons. The Dreamers 1950 rotation home. Number 21 retired June 20, 1998. The stadium where the 111-win season was built.",
+      "note_extra": "Source labeled 'Cleveland Municipal Stadium / Number 21 / One Franchise' / affinity 'SACRED' — fourteenth SACRED in the set. Lemon's is the most straightforwardly franchise-loyal SACRED in the set — he played his entire MLB career for one team (Cleveland Indians), and the number retirement in 1998 is the institutional consecration. Where most SACREDs in the set encode a specific defining moment (Mantle's center field occupation, Miñoso's civic naming, Fox's bronze statue flip), Lemon's encodes the franchise itself — the relationship between one pitcher and one organization across 15 seasons and 207 wins. The Dreamers 1950 team's pitching core (Wynn OVR 9, Lemon OVR 9) is now fully present; the Cleveland Municipal Stadium SACRED is the shared home."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "DAMNED",
+      "note": "Ten days after winning the 1978 World Series, Bob Lemon's son Jerry was killed in an automobile accident. He was 26 years old. Lemon managed the 1979 Yankees and was fired in June. The quiet grief that ran through everything after October 1978.",
+      "note_extra": "Source labeled 'Jerry Lemon / 1978 / Ten Days / Automobile Accident' / affinity 'DAMNED' — seventh DAMNED in the set (after Cooper, Blackwell, Doby, Fain, Wynn, Miñoso). Lemon's is the most temporally precise DAMNED in the set: ten days. The Wikipedia entry is exact: 'Lemon's 26-year-old son, Jerry, was killed in an automobile accident in the fall of 1978, 10 days after Lemon won the World Series.' The Hotel/Rest domain is used because the death was processed in the private domestic space of a man returning home from the championship — not a public event, not a medical facility, but the hotel room or home where the news arrived after the parade. The DAMNED runs from October 1978 through the remainder of Lemon's life — the two subsequent Yankee tenures (fired 1979, fired 1982) were both shadowed by it. The chemistry_trait 'Island of Calm' is the public face; the DAMNED is what the calm was containing."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Ground ball double play situations — 'The Vicious Sinker' trait; Lemon's sinker optimizes for infield contact, and DEF 2 generates DP completions.",
+      "WS Game 2 and 6 context — the 1948 WS pattern; CLU 2 activates most fully in the elimination game / clincher context.",
+      "Yankees rotation context — 'Wynn's Peer' trait: both Dreamers 1950 STA 3 pitchers in the rotation together provide mutual durability bonus.",
+      "Count ahead situations — Feller: 'he always stayed ahead of the hitters.' First-strike efficiency is the structural hot trigger."
+    ],
+    "cold_triggers": [
+      "1954 WS shadow — the 0-2 record in the 1954 WS is encoded in CLU 2's ceiling; the Giants sweep is a documented cold pattern.",
+      "Post-1978 DAMNED context — the ten days after the championship permanently altered Lemon's relationship to winning; subsequent managerial firings were less devastating than expected.",
+      "The knuckleball roll — once per career, attempted deployment of the unused pitch. Odds favor the bad outcome. He never threw it for a reason.",
+      "Late-career physical decline — the 1957 leg injury and 1958 elbow injury ended the career at 37; the OVR degrades from the card year level after 1956."
+    ],
+    "pressure_response": "Steady through everything. The 1948 WS (2-0, 1.65 ERA, clinched the championship) and the 1978 Yankees comeback (14 games behind in July, WS champions in October, described as 'an island of calm in a stormy summer') bookend Lemon's pressure response: deliberate, unhurried, outcome-focused. He was not dramatic. He was reliable. The SABR BioProject's summary is perfect: 'his bulldog nature made him the Indians' most-feared pitcher.' The bulldog is not dramatic; it just holds."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Pumping Gas",
+      "type": "Origin",
+      "text": "Your pitcher says: 'If it hadn't been for baseball, I'd still be pumping gas back home in Long Beach.' He bought a Model T Ford with his first $500 bonus. He drove it to Springfield, Ohio, to play for the Indians' Class C affiliate. He spent the next five years in the minor leagues, playing shortstop and outfield and occasionally pitching. He went to war for three years and came back as a pitcher. He won 207 games. He is in the Hall of Fame. 'If it hadn't been for baseball, I'd still be pumping gas back home in Long Beach.'",
+      "origin": "Widely cited Lemon quote, documented in the Baseball Hall of Fame biography. The Model T Ford is documented in the SABR BioProject — he purchased it with his $500 signing bonus."
+    },
+    {
+      "title": "Nine Hitters",
+      "type": "Action",
+      "text": "Casey Stengel, manager of the New York Yankees, reviews the Cleveland Indians lineup before the game. He says: 'I see where the Indians have nine hitters in the lineup instead of eight.' He is looking at the pitcher's spot. Your pitcher is batting in the pitcher's spot. He is batting .295 with 11 extra-base hits and six home runs in August. Stengel is not complaining about this.",
+      "origin": "Documented in the SABR BioProject: 'By August 1949, Lemon was batting .295 with 11 extra-base hits and six home runs, prompting Yankees manager Casey Stengel to comment: Well, I see where the Indians have nine hitters in the lineup instead of eight.'"
+    },
+    {
+      "title": "The Knuckleball",
+      "type": "Drama",
+      "text": "Your pitcher develops a knuckleball. It moves so unpredictably that his catchers cannot handle it. He is afraid to use it in a game. His manager, Al Lopez, tells him he doesn't need it. He never throws the knuckleball in a game. In his career he wins 207 games without it. After he retires, someone asks him about the knuckleball. He says he had one. He says he never threw it. He says Lopez told him he didn't need it. He says he didn't need it.",
+      "origin": "SABR BioProject: 'By this point, he had developed a knuckleball that moved so unpredictably that the catchers couldn't handle it, so he was afraid to use it in a game. Lopez also advised him not to use the knuckleball, saying he didn't need it.'"
+    },
+    {
+      "title": "Games 2 and 6",
+      "type": "Game Action",
+      "text": "In the 1948 World Series, your pitcher wins Game 2 against Warren Spahn, 4-1. He wins Game 6, 4-3, to clinch the Indians' first championship since 1920. He is the only pitcher from either club to win two games. His earned run average in the Series is 1.65 across 16 innings. He is 27 years old. He has been a pitcher for three seasons. He was signed as a shortstop.",
+      "origin": "1948 World Series. Lemon won Games 2 and 6 against the Boston Braves, the only pitcher from either club to win two games. His ERA in 16.1 innings was 1.65. The Indians won the championship — their first since 1920."
+    },
+    {
+      "title": "Ten Days",
+      "type": "Drama",
+      "text": "On October 17, 1978, your manager's team wins the World Series. On October 27, 1978 — ten days later — his 26-year-old son Jerry is killed in an automobile accident. Your manager manages the 1979 Yankees. He is fired in June. George Steinbrenner fires him again in 1982. Steinbrenner says: 'Lem and I talked. He said it was O.K. He said he didn't take it as a promise anyway.' The New York Times had described your manager as 'an island of calm in a stormy summer' in 1978. Ten days after the championship, something was different. The calm was still there. The summer had changed.",
+      "origin": "1978 World Series: Yankees won October 17. Jerry Lemon died approximately 10 days later in an automobile accident. Lemon managed the 1979 Yankees, was fired June 30 by Steinbrenner. Was hired again in 1981, fired April 1982. Steinbrenner's quote on the promise is documented in Wikipedia."
+    },
+    {
+      "title": "Third Base",
+      "type": "Legacy",
+      "text": "Your pitcher is one of the best pitchers in the American League. He has won 200 games. He is an All-Star seven times. He works out at third base during infield practice before every game. He has done this for fifteen years. He was signed as a shortstop. He went to war and came back as a pitcher. He has not accepted this entirely. During infield practice, he is a third baseman. During the game, he is a pitcher. This is the whole career.",
+      "origin": "SABR BioProject: 'throughout his career, he continued to work out during infield practice at third base, his position when he first came to the major leagues.' Lemon was signed as an infielder in 1938 and converted to pitching in 1946-47. He practiced at 3B for 15 seasons as a pitcher."
+    },
+    {
+      "title": "Island of Calm",
+      "type": "Legacy",
+      "text": "In July 1978, the New York Yankees are 14 games behind the Boston Red Sox. Their manager has resigned. Your manager is hired to replace him. The Yankees' clubhouse has been described as a war zone. Your manager is described as 'an island of calm in a stormy summer.' The Yankees catch the Red Sox. They win the division in a one-game playoff. They win the American League Championship Series. They win the World Series. Your manager's low-keyed approach has 'served to mold a spirit of togetherness among the Yankees that did not even exist last year when they won it all.' Ten days later his son is killed in a car accident.",
+      "origin": "1978 New York Yankees. Lemon replaced Billy Martin on July 25. The New York Times quote ('island of calm in a stormy summer') is documented. The Yankees' comeback from 14 games back and the 'Boston Massacre' four-game series are documented. The World Series win: October 17. Jerry Lemon's death: approximately October 27."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'0\", 180 lbs — the California ballplayer who didn't want to be a pitcher and became one of the best in the game anyway. In 1954 he is 33 years old and has just gone 23-7 on the most dominant team in the American League. The face of a man who is thinking about third base during infield practice. The face of a man who has won more than anyone expected from him and is still a little puzzled by it.",
+    "attire": "Cleveland Indians home whites, number 21. The right-handed pitching delivery — not overly fast, the sinker with the late movement, the same motion whether fastball or curve or slider so the batter cannot tell until it's too late. The batting helmet is somewhere in the dugout because Lemon may be needed as a pinch hitter.",
+    "mood": "Quiet competence. Lemon's mood is the opposite of Wynn's territorial ferocity — the same result (23 wins, the Dreamers' ace alongside the other ace) achieved through different temperamental means. Where Wynn is the volcanic threat, Lemon is the steady sinkerballer who doesn't need to threaten anyone. He just wins 23 games and then practices at third base.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Cleveland Municipal Stadium behind him. Wynn is somewhere in the same stadium. Doby is in center field. Rosen is at third base. This is 1954 — the best regular season team in American League history — and Lemon is 23-7 in the middle of it.",
+    "reference": "The SABR BioProject is the art direction: 'Hardheaded, but also a hard worker. Softspoken, but with a cutting wit. A devoted family man who spent long hours in bars. A power hitter in the minor leagues who couldn't hit the changeup in the majors. A loyal friend of George Steinbrenner, but twice a victim of the dictatorial Yankee owner's managerial ax.' The portrait should show the man who contained all of these contradictions without ever appearing contradictory."
+  }
+}

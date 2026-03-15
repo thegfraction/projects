@@ -1,0 +1,204 @@
+{
+  "card_type": "player",
+  "name": "Whitey Ford",
+  "nickname": "The Chairman of the Board / Slick",
+  "year": 1961,
+  "team": "New York Yankees",
+  "league": "American League",
+  "era": "1960s",
+  "ilb_team": "Dreamers 1950",
+  "position": "SP",
+  "bats": "L",
+  "throws": "L",
+  "height": "5'10\"",
+  "weight": "178 lbs",
+  "born": "October 21, 1928 — New York, NY (Astoria, Queens)",
+  "died": "October 8, 2020 — Lake Success, NY",
+  "hof": "Class of 1974 (BBWAA, 77.8%)",
+
+  "real_stats": {
+    "season": 1961,
+    "games": 39,
+    "games_started": 39,
+    "complete_games": 11,
+    "shutouts": 3,
+    "innings_pitched": "283.0",
+    "wins": 25,
+    "losses": 4,
+    "era": "3.21",
+    "strikeouts": 209,
+    "walks": 92,
+    "whip": "1.139",
+    "era_plus": 127,
+    "war": 8.0,
+    "all_star": 10,
+    "awards": "Cy Young Award 1961 (single award for both leagues). World Series MVP 1961. Career-best 25-4 W-L record — first and only 20-win season in his career. Led AL in wins (25) and winning percentage (.862). First season pitching every 4th day (Ralph Houk replaced Stengel). Had 19 wins by end of July. Led AL in ERA twice (1956: 2.47, 1958: 2.01). Career .690 winning percentage — best in modern era among pitchers with 200+ wins. 10x AL All-Star (1954-1964). Broke Babe Ruth's consecutive scoreless WS innings record (33⅓) in 1961.",
+    "world_series": "11 WS appearances. All-time WS records: wins (10), innings pitched (146), strikeouts (94), games started (22). Career WS ERA 2.71. WS MVP 1961. Broke Babe Ruth's WS consecutive scoreless innings record (33⅓ innings, 1961-1962). Was Yankees Game 1 starter in 1955, 1956, 1957, 1958, 1961, 1962, 1963, 1964 — only pitcher to start four consecutive WS Game 1s, a streak he achieved twice. Mantle: 'If the World Series was on the line and I could pick one pitcher to pitch the game, I'd choose Whitey Ford every time.'",
+    "career_wins": 236,
+    "career_losses": 106,
+    "career_era": "2.75",
+    "career_war": 53.6,
+    "career_strikeouts": 1956,
+    "career_ip": "3170.1",
+    "career_notes": "16 seasons (1950-1967), one team: New York Yankees. Career .690 winning percentage — best in baseball's modern era among pitchers with 200+ wins. Career 2.75 ERA — lowest among live-ball era starters with 2,500+ IP (second only to Clayton Kershaw among active and retired pitchers as of 2020). Never threw a no-hitter. Pitched consecutive one-hit games in 1955. Set 1961 record: 243 consecutive innings without allowing a stolen base (pick-off excellence). Korean War service 1951-1952 cost two prime seasons. Under Casey Stengel (1950, 1953-1960): never exceeded 30 starts, never won 20 games, averaged ~200 IP/year. Under Ralph Houk (1961-1967): 260 IP/year average from 1961-1965. Admitted late-career ball-doctoring (autobiography 'Slick,' 1977): mudball at home, wedding ring gouge, Elston Howard's buckle scuff. The 'Whiskey Slicks' trio: Ford, Mantle, Billy Martin (named by Stengel). Paul Krichell scouted Ford — same scout who signed Lou Gehrig. Died October 8, 2020, aged 91."
+  },
+
+  "ilb_stats": {
+    "ovr": 10,
+    "stf": 4,
+    "ctl": 4,
+    "sta": 3,
+    "def": 1,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "stf": "Sal Maglie: 'good curve, good control, changeup, occasional sneaky fastball.' Ford never threw hard. His stuff was the combination — four quality pitches each effective, none overwhelming, all thrown with the same arm slot so hitters couldn't identify pitch type until it was too late. ERA+ 127 in 1961 (first season at full workload); career ERA 2.75 (lowest of any live-ball era starter with 2,500+ IP). STF 4 reflects the complete four-pitch arsenal deployed with elite craft. Not power; precision.",
+    "ctl": "Yogi Berra: 'He's so easy to catch I could do it sitting in a rocking chair.' Berra's framing is the definitive CTL statement. Career 3.1 BB/9. In 1961: 92 BB in 283 IP = 2.9 BB/9. Led the AL in ERA twice, winning percentage twice, wins three times — all downstream of the command. CTL 4 — second pitcher in the set at CTL 4 (after Brecheen). Ford is the first pitcher in the set with both STF 4 AND CTL 4 simultaneously. That combination is the mechanical foundation of his .690 winning percentage. The Chairman of the Board conducted his business by being around the plate, every pitch, every count.",
+    "sta": "283 IP in 1961 — career-high, first season at full workload after Stengel's restriction. Led AL in wins (25) and winning percentage. Averaged 260 IP/season from 1961-1965. STA 3 (maximum) reflects the Houk-era Ford — the pitcher who thrived on extra work and pitched 39 starts with 11 CG at age 32. The under-Stengel seasons are historical context (roughly STA 1-2 equivalent due to artificial restriction); the card year reflects the unrestricted ace.",
+    "def": "Set the 1961 record for consecutive innings without allowing a stolen base (243 innings) — reflecting his exceptional pick-off move. But pitching fielding statistics don't distinguish him above average for his era. DEF 1 — standard. The pick-off excellence is encoded in the chemistry_trait 'No Stolen Bases.'",
+    "clu": "Ten World Series wins — all-time record. All-time WS records: wins (10), innings (146), strikeouts (94), starts (22). Career WS ERA 2.71. WS MVP 1961. Broke Babe Ruth's consecutive scoreless innings record (33⅓). Started WS Game 1 eight times in eleven appearances. 'If the World Series was on the line and I could pick one pitcher to pitch the game, I'd choose Whitey Ford every time.' — Mantle. CLU 3 (maximum). The all-time WS wins record belongs to Ford alone. No pitcher in baseball history has a stronger postseason claim."
+  },
+
+  "personality": {
+    "leadership_style": "The Chairman of the Board. He commanded the room, the mound, and the game with craft rather than force. Mantle: 'I don't care what the situation was, how high the stakes were — the bases could be loaded and the pennant riding on every pitch, it never bothered Whitey. He pitched his game. Cool. Crafty. Nerves of steel.' The leadership was control — of himself, of the count, of the hitter's read of what was coming. He was the ace who made being the ace look effortless.",
+    "temperament": "Slick in the Stengel sense: the street-smart Queens kid who could drink with Mantle and Martin and show up the next day to pitch 25 wins. The carousing was real and legendary, but Ford was the most functional of the three Whiskey Slicks — Martin was a combustible personality who was repeatedly fired and rehired; Mantle was destroyed by alcoholism; Ford seemed to contain the lifestyle within his professional identity. He was genuinely funny, genuinely warm, and genuinely ruthless in competition.",
+    "work_ethic": "Frustrated for years by Stengel's rotation management. Ford never won 20 games under Stengel. He knew he could. He ran into Ralph Houk at a basketball game at Madison Square Garden in January 1961 and was offered every-fourth-day starts. He embraced it immediately. By the end of July he had 19 wins. The work ethic was present all along — the restriction was external. When the restriction was removed, the 25-4 season appeared in eight months.",
+    "lifestyle": "Astoria, Queens. Took the subway to Yankee Stadium. One of the rare Yankees greats who was actually from New York. Father worked for Consolidated Edison. The Manhattan High School of Aviation Trades. Married Joan Bartels at St. Patrick's Catholic Church in Astoria. Glen Cove on Long Island. The golf games with Mantle. The bars. Whitey Ford's Café near Roosevelt Field Mall in Garden City. The balls he doctored with his wedding ring late in his career. The ball he threw at Willie Mays in the All-Star Game to win a golf tab.",
+    "era_adaptability": "MAXIMUM. A left-handed command pitcher with four quality pitches, a 2.75 career ERA, and the best winning percentage in the modern era adapts to every era. The doctored baseball is a late-career adaptation — not needed when the stuff was working, used when it wasn't. The CLU 3 postseason record is era-independent: the highest-pressure situations produced the best results.",
+    "dark_side": "The Stengel years. Under Stengel for 9 seasons (with 2 years of Korean War service), Ford was restricted, saved, protected, and never given a full workload. He never won 20 games. When Stengel was finally fired — partly over the Ford usage in the 1960 World Series — Ford was 32 years old and had lost his prime. The 25-4 season in 1961 was the vindication of the frustration. But the career numbers also hide what might have been: many historians believe Ford could have won 280-300 games with consistent usage throughout his prime. The winning percentage (.690) is historically elite; the win total (236) is historically undervalued because of Stengel. The dark side is not alcoholism or tragedy — it is the squandered prime."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Rocking Chair Catcher",
+      "desc": "Yogi Berra: 'He's so easy to catch I could do it sitting in a rocking chair.' In ILB, when Berra is catching Ford, Ford's CTL bonus extends to the catcher: Berra's error rate drops by 50% on passed balls, and Berra's CLU +1 activates for any WS games where Ford starts."
+    },
+    {
+      "tag": "The Chairman",
+      "desc": "The WS ace. In ILB, Ford receives a +1 STF and +1 CTL bonus in any World Series or championship context. Mantle's quote — 'I'd choose Whitey Ford every time' — is the mechanic. The big game activates the Chairman."
+    },
+    {
+      "tag": "Every Fourth Day",
+      "desc": "Under Stengel: STA artificially reduced. Under Houk: STA 3 fully active. In ILB, Ford's STA stat is 2 when the manager uses a five-man rotation, and 3 when the manager pitches him every fourth day. The manager's decision determines the pitcher's production."
+    },
+    {
+      "tag": "Whiskey Slicks",
+      "desc": "Ford, Mantle, and Billy Martin — Stengel's Whiskey Slicks. When Mantle is in the lineup and Ford is starting, a passive +1 CLU applies to both — the dynasty chemistry of the Yankees' most famous friendship."
+    },
+    {
+      "tag": "The Mudball",
+      "desc": "Late-career ball-doctoring: the mudball, the wedding ring gouge, the shinguard scuff. Ford's late-career survival tool. In ILB, after age 34, Ford may deploy the 'Mudball' once per series: on a 1-in-6 roll, the umpire notices and issues a warning. Otherwise: +1 STF for that start."
+    },
+    {
+      "tag": "No Stolen Bases",
+      "desc": "243 consecutive innings without allowing a stolen base in 1961 — the record. In ILB, opposing base runners never attempt a steal when Ford is pitching unless they roll a 6 on a 6-sided die. The pick-off move is an active deterrent."
+    },
+    {
+      "tag": "I'm Sorry, Willie",
+      "desc": "Doctored a ball to strike out Willie Mays in the 1961 All-Star Game to win a golf tab. Ford: 'I'm sorry, Willie, but I had to throw you a spitter.' In ILB, once per All-Star Game context, Ford may deploy the spitter without a warning roll. The tab required it."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Community Events",
+      "affinity": "SACRED",
+      "note": "Yankee Stadium. Monument Park plaque (1987). Number 16 retired 1974. The fourth Yankee Stadium SACRED in the set — after Gehrig (farewell), Mantle (center field), Berra (No. 8). Ford is the fourth.",
+      "note_extra": "Source labeled 'Yankee Stadium / Monument Park / Number 16' / affinity 'SACRED' — fifteenth SACRED in the set and the fourth Yankee Stadium SACRED. The progression of Yankee Stadium SACREDs now tells the complete dynasty story: Gehrig (the exit, the farewell, 1939), Mantle (the 18-season occupation of center field, the DiMaggio inheritance), Berra (the backstop, the championships, the plaque that quotes a Yogiism), and Ford (the ace, the 10 WS wins, the Chairman of the Board). Ford's Monument Park plaque was added in 1987, 13 years after his HOF election. He was the last of the core four Yankees dynasty players to receive it. Number 16 was retired in 1974, the same year as his HOF election, the same year Mantle was also inducted — they entered together. The chemistry_trait 'Whiskey Slicks' is the cross-field mechanical expression between Ford and Mantle. The SACRED encompasses all four — the fourth plaque in the same Memorial Park series."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Astoria, Queens. The Triborough Bridge to Yankee Stadium. Father at Consolidated Edison. Paul Krichell — the same scout who signed Lou Gehrig — signing Ford for $7,000 in 1947.",
+      "note_extra": "Source labeled 'Astoria / Queens / Krichell / $7,000 / Subway to Yankee Stadium' / affinity 'ORIGIN' — eighteenth standalone ORIGIN in the set. Ford's is the most geographically proximate ORIGIN to Yankee Stadium in the set — Astoria, Queens, a few miles by the Triborough Bridge. Where Mantle's ORIGIN is Commerce, Oklahoma and Berra's is The Hill in St. Louis (both foreign places discovering a foreign stadium), Ford's ORIGIN is the same city as the stadium. He took the subway. The Paul Krichell connection is the specific biographical detail that anchors the ORIGIN — the same scout who identified Lou Gehrig identified Whitey Ford. The Krichell-Gehrig-Ford chain is implicit in the SACRED and explicit in the ORIGIN. Ford was signed for $7,000, a modest sum for a player who would become the winningest pitcher in Yankees history. The Irish-Italian-Polish neighborhood of Astoria is the social context; the Aviation Trades high school is the institutional departure point."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "The four-pitch arsenal deployed with pinpoint control. 'He's so easy to catch I could do it sitting in a rocking chair.' — Yogi Berra. The craft of deception over power.",
+      "note_extra": "Source labeled 'Pinpoint Control / Four Pitches / Berra Rocking Chair' / affinity 'HIGH' — twenty-first Practice Field/HIGH in the set. Ford's is the most explicitly control-oriented Practice Field/HIGH in the set — where Wynn's MAXIMUM encodes the transformation from thrower to pitcher, Ford's HIGH encodes the continuous maintenance of the craft that was his from the beginning. Sal Maglie described Ford in 1958: 'good curve, good control, changeup, occasional sneaky fastball.' All four pitches thrown from the same arm slot so batters couldn't read them. The Berra quote is the definitive statement of what the practice produced: a pitcher so reliable in the strike zone that the catcher's job became leisurely. In the set's taxonomy, Ford's Practice Field/HIGH is the CTL 4 embodied — the daily craft of being around the plate, every pitch, every count, for 16 seasons."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "The Whiskey Slicks. Ford, Mantle, Billy Martin. The Yankees dynasty clubhouse and the bars adjacent to it. The lifestyle that Stengel named and all three inhabited.",
+      "note_extra": "Source labeled 'Whiskey Slicks / Mantle / Martin / Bars' / affinity 'HIGH' — twenty-second Hotel/Rest/HIGH in the set. Ford's is the third Yankee dynasty clubhouse HIGH (after Rizzuto and Mantle). Where Rizzuto's HIGH encoded the pranks and the beloved-target warmth, and Mantle's HIGH encoded the darker carousing that eventually became his DAMNED, Ford's HIGH encodes the middle position — the Whiskey Slick who survived the lifestyle. The SABR BioProject notes that Ford spent 'long hours in bars' and was 'a devoted family man' simultaneously — the same paradox that runs through Lemon's SABR description. The Hotel/Rest HIGH is the genuine warmth of the Yankees dynasty friendship (Ford-Mantle-Martin), not the destructive dimension. That dimension is encoded in the dark_side but does not reach the DAMNED threshold — Ford managed it. The chemistry_trait 'Whiskey Slicks' is the cross-field expression."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "COMPLEX",
+      "note": "The Stengel years. Never won 20 games in nine seasons. Never given the full workload. The 1960 World Series rotation decision. The plane ride home when Ford wouldn't speak to Stengel. The career that might have produced 280-300 wins.",
+      "note_extra": "Source labeled 'Stengel / Rotation Restriction / 1960 WS / Frustration / 280 Wins' / affinity 'COMPLEX' — tenth COMPLEX in the set. Ford's is the most institutionally-caused COMPLEX in the set — the restriction was not physical injury (like Kaline's foot or Rosen's back) but managerial philosophy. Stengel saved Ford for tough opponents, never gave him a full rotation spot, and never allowed him to exceed 30 starts. The SABR BioProject documents Ford's frustration directly: 'Ford, who was frustrated that he'd never won 20 games in a season, embraced the idea immediately' (when Houk offered him every-fourth-day starts). The 1960 WS is the COMPLEX's defining event: Ford shut out Pittsburgh in Games 3 and 6 but was unavailable for Game 7 because of Stengel's rotation math; Mazeroski hit the walk-off HR; Stengel was fired. Ford 'wouldn't even speak to him on the plane ride back to New York.' That was the only time Ford ever admitted being angry at Stengel. The COMPLEX encodes both the frustration and the loss — the career that was held back and the championship that was lost by the holding-back. The chemistry_trait 'Every Fourth Day' is the mechanical cross-field expression."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "World Series — CLU 3 maximum; 10 all-time WS wins; 'Chairman' trait activates; the career pattern is that Ford performed best in October, not despite October pressure but because of it.",
+      "Every-fourth-day rotation — 'Every Fourth Day' trait: STF 4 / CTL 4 / STA 3 fully active. Under five-man rotation: STA reduces.",
+      "Berra catching — 'Rocking Chair Catcher' trait: full CTL bonus extends to catcher performance.",
+      "Mantle in the lineup — 'Whiskey Slicks' trait: +1 CLU for both."
+    ],
+    "cold_triggers": [
+      "Five-man rotation — STA drops to 2; Ford was never as productive under restricted usage.",
+      "Post-1965 injury cascade — the circulatory problem in the throwing shoulder; the 1966-1967 decline to 4-9 combined; career effectively ended by age 38.",
+      "The Mudball roll — once per series after age 34, the umpire catch roll (1-in-6 catches him; warning issued).",
+      "Willie Mays matchup — Mays had seven consecutive hits off Ford at one point. The one documented weakness in the Chairman's record."
+    ],
+    "pressure_response": "The defining pressure response in the set for a pitcher. Ten World Series wins. Career WS ERA 2.71. All-time records for WS wins, innings, strikeouts, starts. The consecutive scoreless innings record. WS MVP. Mantle's quote: 'If the World Series was on the line, I'd choose Whitey Ford every time.' The pressure response is the career summary — Ford did not perform despite high stakes; he performed because of high stakes. The Chairman of the Board conducted his finest business in October."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Every Fourth Day",
+      "type": "Drama",
+      "text": "At a St. John's-Kansas basketball game at Madison Square Garden in January 1961, your pitcher runs into his new manager. The manager asks: 'Would you like to pitch every fourth day?' Your pitcher, who has never won 20 games in a season despite 9 years of trying, says yes immediately. By the end of July he has 19 wins. He finishes 25-4. He wins the Cy Young Award. He wins the World Series MVP. He is 32 years old. Stengel had the same pitcher for nine seasons and never asked the question.",
+      "origin": "Documented in the SABR BioProject. Whitey Ford ran into Ralph Houk at a St. John's-Kansas basketball game at Madison Square Garden in January 1961. Houk offered him every-fourth-day starts. Ford, frustrated by never having won 20 games, accepted immediately. The 1961 season followed."
+    },
+    {
+      "title": "I'm Sorry, Willie",
+      "type": "Action",
+      "text": "Horace Stoneham promises to pay your pitcher's $1,200 golf tab if your pitcher can strike out Willie Mays in the All-Star Game. Your pitcher doctors the baseball. He strikes out Willie Mays. After the inning, Mays asks: 'What was that all about?' Your pitcher says: 'I'm sorry, Willie, but I had to throw you a spitter.' Stoneham pays the tab.",
+      "origin": "1961 All-Star Game, Candlestick Park, San Francisco. Ford doctored a baseball to strike out Willie Mays, having been promised payment of a $1,200 golf tab by Giants owner Horace Stoneham. Ford's quoted apology to Mays is documented in multiple sources."
+    },
+    {
+      "title": "The Mudball",
+      "type": "Action",
+      "text": "Your pitcher is older now. His stuff is not what it was. The Yankee groundskeepers wet down a small patch of dirt near the catcher's box. Your catcher puts his hand down on the wet dirt, coats one side of the baseball with mud, and throws it back. Your pitcher uses the wedding ring on his left hand to gouge the ball. Your catcher uses the sharpened buckle on his shinguard. Your pitcher says: 'I didn't begin cheating until late in my career when I needed something to help me survive. I didn't cheat when I won the twenty-five games in 1961. I don't want anybody to get any ideas and take my Cy Young Award away. And I didn't cheat in 1963 when I won twenty-four games. Well, maybe just a little.'",
+      "origin": "Ford's autobiography 'Slick' (1977) and post-retirement interviews. The mudball technique involved Yankees groundskeepers wetting the dirt near the catcher's box and Elston Howard transferring mud to the ball. Ford also used his wedding ring diamond to gouge the ball, and was eventually warned by an umpire. His exact quote about the cheating is documented in Baseball Almanac."
+    },
+    {
+      "title": "The 1960 World Series",
+      "type": "Drama",
+      "text": "Your ace shuts out the Pittsburgh Pirates in Game 3, 10-0. He shuts them out again in Game 6, 12-0. The Yankees have outscored the Pirates 55 to 27 in the Series. But the rotation math means your ace cannot start Game 7. In the bottom of the ninth, a shortstop named Bill Mazeroski hits a home run. The Series is over. The Pirates win. Your manager is fired five days later. Your ace does not speak to the manager on the plane ride home. It is the only time your ace has ever been angry at the manager.",
+      "origin": "1960 World Series. Ford shut out Pittsburgh 10-0 in Game 3 and 12-0 in Game 6, but Stengel's rotation management prevented Ford from starting Game 7. Mazeroski's home run won the Series for the Pirates. Stengel was fired. The SABR BioProject documents Ford's anger and his refusal to speak to Stengel on the plane."
+    },
+    {
+      "title": "Every Time",
+      "type": "Legacy",
+      "text": "Mickey Mantle says: 'If the World Series was on the line and I could pick one pitcher to pitch the game, I'd choose Whitey Ford every time.' He is the player who knew your pitcher best. He played next to him for fifteen years. He drank with him. He golfed with him. He was the most talented player of his era, and the pitcher he trusted most in October was not Bob Feller or Early Wynn or Bob Lemon or Sandy Koufax. It was Whitey Ford. Your pitcher won ten World Series games. That is the all-time record.",
+      "origin": "Mickey Mantle's quote about Ford, widely cited and documented. Ford holds the all-time WS wins record (10), WS innings record (146), WS strikeouts record (94), and WS starts record (22)."
+    },
+    {
+      "title": "The Greatest Living Yankee",
+      "type": "Legacy",
+      "text": "In 2015, Yogi Berra dies. George Vecsey of the New York Times writes that with Berra gone, Whitey Ford is now 'The Greatest Living Yankee.' Your pitcher is 87 years old. He played his entire career for one team, in the city where he was born, across the bridge from the stadium he could reach by subway. He pitched in 11 World Series. He won 6. He won more World Series games than any pitcher in history. He is 'The Greatest Living Yankee.' He has five more years.",
+      "origin": "George Vecsey, New York Times, following Yogi Berra's death in September 2015. The designation 'Greatest Living Yankee' passed from Berra to Ford. Ford died October 8, 2020, at 91."
+    },
+    {
+      "title": "Paul Krichell's Second Signing",
+      "type": "Origin",
+      "text": "In 1947, Yankees scout Paul Krichell signs a 18-year-old pitcher from Astoria, Queens for $7,000. Krichell has done this before. In 1923 he watched a Columbia University first baseman named Lou Gehrig and signed him for the Yankees. Now he has found a left-handed pitcher from Aviation Trades High School. He signs him for $7,000. The left-hander wins 236 games, all in pinstripes. His winning percentage is the best in the modern era. He is inducted into the Hall of Fame 27 years after Gehrig died and in the same class as Mickey Mantle.",
+      "origin": "Paul Krichell was the legendary Yankees scout who signed both Lou Gehrig (1923) and Whitey Ford (1947). The Bronx Pinstripes article explicitly notes this connection. Ford was inducted into the HOF in 1974 along with Mantle."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'10\", 178 lbs — the small left-hander from Queens who took the subway to Yankee Stadium. In 1961 he is 32 years old and finally pitching every fourth day, having 19 wins by the end of July. The face is the face of the Chairman of the Board: composed, self-possessed, slightly amused at how easy this is compared to how hard people think it should be.",
+    "attire": "New York Yankees home pinstripes, number 16. The left-handed delivery — the same arm slot whether it's the curve, slider, changeup, or the occasional sneaky fastball. Yogi Berra is in a rocking chair somewhere behind the plate.",
+    "mood": "Cool. Crafty. Nerves of steel. Mantle's description is the art direction. The Chairman of the Board arrives at the mound the way he arrives at a business meeting — prepared, in control, and already thinking about the next decision. The postseason amplifies this rather than disrupting it. The bigger the moment, the more composed the face.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Yankee Stadium in the background — the Bronx cathedral where Ford would become the winningest pitcher in franchise history. The Triborough Bridge connecting to his home in Queens is implied rather than visible.",
+    "reference": "Mickey Mantle's quote: 'I don't care what the situation was, how high the stakes were — the bases could be loaded and the pennant riding on every pitch, it never bothered Whitey. He pitched his game. Cool. Crafty. Nerves of steel.' The portrait should show the pitcher Mantle would choose every time — not the most physical presence on the mound, not the most intimidating, but the most reliable. The Chairman of the Board."
+  }
+}
