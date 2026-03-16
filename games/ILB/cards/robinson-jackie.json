@@ -1,0 +1,202 @@
+{
+  "card_type": "player",
+  "name": "Jackie Robinson",
+  "nickname": "Jack Roosevelt Robinson",
+  "year": 1949,
+  "team": "Brooklyn Dodgers",
+  "league": "National League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "2B",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'11\"",
+  "weight": "195 lbs",
+  "born": "January 31, 1919 — Cairo, GA",
+  "died": "October 24, 1972 — Stamford, CT",
+  "hof": "Class of 1962 (BBWAA, first ballot, first Black player inducted)",
+
+  "real_stats": {
+    "season": 1949,
+    "games": 156,
+    "at_bats": 593,
+    "hits": 203,
+    "doubles": 38,
+    "triples": 12,
+    "home_runs": 16,
+    "rbi": 124,
+    "stolen_bases": 37,
+    "runs": 122,
+    "batting_avg": ".342",
+    "obp": ".432",
+    "slg": ".528",
+    "ops": ".960",
+    "ops_plus": 157,
+    "war": 9.3,
+    "all_star": 6,
+    "gold_gloves": 0,
+    "awards": "NL MVP 1949 (first Black player so honored). NL batting title (.342). NL stolen base title (37). Career-high 124 RBI. 203 hits — second in NL to Musial. Led Dodgers to World Series (lost to Yankees). Six consecutive All-Star selections (1949-1954). Inaugural MLB Rookie of the Year 1947. Led MLB with 166 steals over first 7 seasons. From 1949-1953: led the Majors in WAR (41.6) ahead of Musial (40.4). Only player in MLB history to record at least 200 hits, 120 RBIs, 80 walks, and 30 steals in a single season (1949 — the only time this combination has occurred in the modern era). 132 OPS+ career — tied with Joe Morgan for the highest among 2B since 1947 (minimum 5,000 PA). WAR of 9.3 in 1949 ties for fifth all-time among 2B; 9.7 WAR in 1951 trails only Joe Morgan 1975. Led NL in double plays at 2B four straight years (1949-1952). Best fielding average at 2B in NL in 1948, 1950, 1951.",
+    "negro_leagues": "Kansas City Monarchs, Negro American League (1945). Short stint as shortstop. Named to Negro Leagues All-Star team 1945. Branch Rickey saw him play with the Monarchs and selected him as the player to integrate the major leagues. Monarchs received no compensation — Rickey believed Negro Leagues contracts lacked a reserve clause.",
+    "world_series": "6 WS appearances (1947, 1949, 1952, 1953, 1955, 1956), all against the Yankees. 1955 WS champion — the Dodgers' only championship. The Stolen Home: Game 1, 1955 WS, 8th inning, Dodgers trailing 6-4, Whitey Ford pitching, Yogi Berra catching. Robinson danced off third, darted for home. Umpire Bill Summers called him safe immediately. Berra protested and maintained to the end of his life that Robinson was out. Robinson: 'I was safe. No doubt in my mind at all. I could see the plate when I slid in. Yogi was back of the plate.' Robinson: 'Whether it was because of my stealing home or not, the team had a new fire.' The Dodgers lost Game 1 and won the Series in 7.",
+    "career_avg": ".313",
+    "career_hits": 1563,
+    "career_hr": 141,
+    "career_war": 63.8,
+    "career_rbi": 734,
+    "career_notes": "10 MLB seasons (1947-1956), all with Brooklyn Dodgers. Debuted April 15, 1947 at Ebbets Field, age 28. .313/.409/.474 career. 63.8 career WAR. 6 WS appearances, 1 championship (1955). 197 career stolen bases, including 19 stolen homes (tied 9th in MLB history). 13 of the 19 stolen homes came in his first three seasons. Never struck out more than 40 times in a season. 2.54 walks per strikeout over career — third in history (min 5,000 PA), behind only Nellie Fox and Ted Williams. Only player in history with at least 10 HR, 10 SB, 70 walks, and fewer than 30 strikeouts in three separate seasons (1949, 1950, 1951). Died October 24, 1972 at 53 — nine days after throwing the ceremonial first pitch at Game 2 of the 1972 World Series. Number 42 retired across all MLB teams in 1997. April 15 designated as Jackie Robinson Day across all of baseball. First Black player in the Baseball Hall of Fame. HOF plaque updated in 2008 to add: 'Displayed tremendous courage and poise in 1947 when he integrated the modern major leagues in the face of intense adversity.'"
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "con": 5,
+    "pow": 2,
+    "spd": 2,
+    "def": 3,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": ".342 BA (1949) clears the .330+ = 5 band. OPS+ 157 far exceeds the 130+ bonus — already at 5. 203 hits in 1949, only 37 strikeouts. Career .313 BA with never more than 40 K in any season. The 2.54 walks-per-strikeout ratio (third in history, behind Fox and Williams) is the purest expression of the contact-and-patience combination. CON 5 is unambiguous.",
+    "pow": "16 HR (1949). SLG .528 >= .500 gives the +1 bonus: base 1 + bonus 1 = POW 2. Career 141 HR. Robinson was not a power hitter in the Mantle/Mays sense. The POW 2 is honest — he had pop, led the league in doubles (38) in 1949, but his primary value was contact, patience, and speed. The SLG .528 in 1949 is the highest of his career and earns the SLG bonus cleanly.",
+    "spd": "37 SB (1949) — NL leader. The 20-40 SB range = SPD 2 by formula. The formula undersells the historical reality somewhat (19 career stolen homes; 13 of them in first 3 seasons; the most disruptive baserunner in the game 1947-1953), but the card year's 37 SB is definitively in the SPD 2 band. The baserunning excellence beyond the stolen base totals is encoded in chemistry_traits rather than bumping SPD to 3.",
+    "def": "Best fielding average at 2B in NL in 1948, 1950, 1951. Led NL in double plays at 2B four consecutive years (1949-1952). The Baseball Almanac: 'The Rawlings Gold Glove Award for Second Basemen was first given in 1957, but had it been done earlier, Jackie Robinson would have probably received a few of them.' Also played 1B, 3B, and LF at high quality — positional versatility across the diamond. DEF 3 at 2B, joining Nellie Fox as the second 2B at DEF 3 in the set. The pre-GG era doesn't diminish what the records show: Robinson was the best defensive 2B in the NL during his prime.",
+    "clu": "Six WS appearances (1947, 1949, 1952, 1953, 1955, 1956) — all against the Yankees. One championship (1955). The Stolen Home in Game 1 of the 1955 WS is the defining individual WS moment — the single play that Robinson said gave the team 'a new fire' even though the Dodgers lost Game 1. Career WS batting: .234, 4-for-22 in the 1955 WS specifically. CLU 2 reflects one championship, consistent WS presence over a decade, and the Stolen Home as a defining postseason act, balanced against modest overall WS offensive production."
+  },
+
+  "personality": {
+    "leadership_style": "Constrained dignity releasing into full force. From 1947-1948, Robinson played under an explicit agreement with Branch Rickey to not fight back — to absorb the abuse without response. In 1949, Rickey released him from the promise. Robinson immediately won the MVP. The leadership was always there; the constraint was institutional, not personal. After the release, he was vocal, combative in print, and fully himself on the field. Leo Durocher on Robinson's baserunning: the team was different when he was on base. Opponents were different. The infield moved differently.",
+    "temperament": "Fierce beneath the surface. Rickey's question — 'Are you looking for a Negro who is afraid to fight back?' — reveals who Robinson actually was: a man who had already been court-martialed for refusing to sit in the back of a bus, who had been banned from a filling station in Oklahoma while playing for the Monarchs, who had stood up to law enforcement at Pasadena Junior College. The constraint was not temperament — it was strategy. The SABR record of his 19 stolen homes shows the fire that was always there: he stole home five times in 1948 alone, three times in 1947. That is not a cautious man.",
+    "work_ethic": "In spring 1949, Robinson worked with Hall of Famer George Sisler (then a Dodger batting advisor) on his hitting before the season. That was the MVP season. He led the NL in double plays at 2B four consecutive years. He played all 156 games in 1949. The work ethic is also visible in the broader arc: debuted in MLB at 28 after four years of Army service and one season in the Negro Leagues; had produced 51 WAR through his first 7 seasons, sixth-most in that span in history.",
+    "lifestyle": "Cairo, Georgia to Pasadena, California to Montreal to Brooklyn to Stamford, Connecticut. Rachel Robinson was the constant — Dodger executive Bavasi told Rickey after meeting her: 'If Jackie was smart enough to pick her for his wife, he is the guy you want.' After baseball: VP at Chock full o'Nuts (first Black VP at a Fortune 500). Founded Freedom National Bank in Harlem. Hosted an annual jazz concert on their Stamford property to raise funds for King's SCLC — Dizzy Gillespie and Dave Brubeck. March on Washington, 1963. His final public appearance: October 15, 1972, throwing the ceremonial first pitch at the World Series at Riverfront Stadium, saying he would be more proud the day he saw a Black manager in a third-base coaching box.",
+    "era_adaptability": "MAXIMUM. Robinson was not only a pioneer — he was one of the best players of his era on the field independently of his historical role. From 1949-1953 he led all of baseball in WAR. His contact-and-patience profile (.313/.409 career), his defensive versatility across four positions, and his baserunning (19 stolen homes) would translate to any era. The artificial constraint — starting in MLB at 28 because the league wouldn't have him earlier — cost him his 23-27 age seasons. Robinson produced 63.8 career WAR in a compressed 10-year window.",
+    "dark_side": "The constraint. The promise to Rickey cost him two full seasons of playing as himself — 1947 and 1948, he absorbed abuse and held his tongue. The 1949 release yielded the MVP season. The missed prime years (23-27) due to the color barrier — he reached the major leagues at 28. The deteriorating health in later life: diabetes diagnosed in 1957 after retirement, complications progressing through the 1960s. He was partially blind by the time of his final public appearance in 1972. He died at 53, nine days after the World Series."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Guts Enough Not to Fight Back",
+      "desc": "Branch Rickey's requirement: two seasons of absorbing abuse without retaliation. In ILB, during Robinson's first two game-seasons on any new team, all opposition intimidation attempts fail (he cannot be rattled). From the third season onward, Robinson's CON gains +0.5 and his baserunning becomes fully active — the constraint lifted, the full player unleashed."
+    },
+    {
+      "tag": "The Stolen Home",
+      "desc": "19 career stolen homes — 13 in the first three seasons. In ILB, once per game when Robinson reaches third with fewer than two outs, he may attempt a steal of home: roll 1-3 = safe, 4-5 = out, 6 = Berra calls it out anyway but is overruled. The Dodgers receive a team morale bonus regardless of the outcome."
+    },
+    {
+      "tag": "He Was Out",
+      "desc": "Yogi Berra maintained to the end of his life that Robinson was out at home in Game 1 of the 1955 World Series. Robinson maintained he was safe. Both are Dreamers 1950 cards. In ILB, when Robinson and Berra appear in opposing lineups in a championship game, the Stolen Home trigger activates once automatically. The safe/out debate is rendered in the dice result — but the umpire's call stands."
+    },
+    {
+      "tag": "April 15",
+      "desc": "The only number retired across all of baseball. The day that belongs to everyone. In ILB, Robinson's card generates a universal team bonus on the opening game of any new era — the presence of this card in any lineup signals the moment the game changed."
+    },
+    {
+      "tag": "The New Fire",
+      "desc": "Robinson's words after stealing home in the 1955 WS: 'Whether it was because of my stealing home or not, the team had a new fire.' In ILB, any dramatic Robinson baserunning play generates a +1 team-wide offensive bonus for the next half-inning — the fire transfers."
+    },
+    {
+      "tag": "Doby's NL Mirror",
+      "desc": "Doby broke the AL color barrier on July 5, 1947 — 11 weeks after Robinson broke the NL barrier. Both are Dreamers 1950 cards. In ILB, when Robinson and Doby are both active in the same game, each receives +0.5 to their individual morale — the historical recognition of what they carried together."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Community Events",
+      "affinity": "SACRED",
+      "note": "Ebbets Field / April 15 / Number 42. The only uniform number retired across all of baseball. Every April 15, every player wears 42. The day is the SACRED.",
+      "note_extra": "Source labeled 'Ebbets Field / April 15 / Number 42 / Jackie Robinson Day' / affinity 'SACRED' — eighteenth SACRED in the set. Robinson's SACRED is structurally unique: every prior SACRED in the set is geographically fixed (a stadium, a ballpark, a wall of fame). Robinson's SACRED is the most distributed in the set — not a single place but a day that occurs every year in every ballpark in baseball. April 15 is Jackie Robinson Day across all of MLB: every player on every team wears number 42, regardless of their normal number. The Ebbets Field address is the geographic anchor — the specific building on Bedford Avenue in Brooklyn where the crowd of 26,623 was present on April 15, 1947 (more than 14,000 of them Black), where Robinson went 0-for-3 and scored the winning run in a 5-3 Dodgers victory. The building is gone. The day is permanent. Number 42 is retired everywhere — not just in Brooklyn, not just by the Dodgers, but universally. The eighteenth SACRED in the set is the one that belongs to all of baseball."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "IDENTITY",
+      "note": "The breach. April 15, 1947 is the zero point from which all other IDENTITY cards in the set derive their historical meaning. Miñoso followed. Mays followed. Doby followed on the same day in the other league. Robinson was first.",
+      "note_extra": "Source labeled 'April 15, 1947 / Color Barrier / BBWAA / Civil Rights / Rachel / King' / affinity 'IDENTITY' — third full IDENTITY in the set, and the foundational one. Miñoso's IDENTITY was the first Black White Sox player / first dark-skinned Latino in the AL. Mays's IDENTITY was the most visible Black player in the integration era. Robinson's IDENTITY is the breach itself — the structural event from which all subsequent integrations in baseball and in American public life radiate. Martin Luther King Jr.: 'Jackie Robinson made my success possible. Without him, I would never have been able to do what I did.' The IDENTITY affinity here extends beyond baseball: Robinson was also the first Black television analyst in MLB, the first Black VP of a major American corporation (Chock full o'Nuts), the founder of Freedom National Bank, and a full participant in the Civil Rights Movement including the 1963 March on Washington. The card's IDENTITY is not limited to April 15 — it is the complete arc of what the man did with the position that baseball gave him. Rachel Robinson is embedded in the IDENTITY: Michelle Obama: 'It is a sign of his character that he chose a woman who was his equal. I do not think you would have had Jackie Robinson without Rachel.'"
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Cairo, Georgia. Mallie Robinson raising five children alone on Pepper Street in Pasadena. Brother Mack's silver medal. The gang that Carl Anderson talked him out of. UCLA and four letters. The ship Lurline departing Pearl Harbor on December 5.",
+      "note_extra": "Source labeled 'Cairo / Pasadena / Mallie / Pepper Street / Mack / UCLA / Four Sports' / affinity 'ORIGIN' — twenty-first ORIGIN in the set. Robinson's is one of the most geographically and historically layered ORIGINs in the set. Born in Cairo, Georgia, January 31, 1919 — the son of a sharecropper, the grandson of slaves. His middle name honored Theodore Roosevelt, who died 25 days before Robinson was born. Father Jerry deserted the family in 1920; mother Mallie moved five children to 121 Pepper Street in Pasadena, California, working odd jobs. Robinson grew up in relative poverty in an affluent neighborhood, joining a gang briefly before his friend Carl Anderson persuaded him to leave it. Brother Mack Robinson won the silver medal at the 1936 Berlin Olympics in the 200m dash, finishing second to Jesse Owens — the family's first public athletic legacy, the model before the greater one. At UCLA, Robinson became the first athlete to letter in four sports (baseball, basketball, football, track) in the same year. In spring 1941, a few units short of his degree, he left UCLA because his mother needed income. On December 5, 1941, he departed Pearl Harbor on the ship Lurline. Congress declared war two days later."
+    },
+    {
+      "location": "Military/Fort",
+      "affinity": "HAUNTED",
+      "note": "Fort Hood, Texas, 1944. The segregated military bus. The court-martial for refusing to move to the back. The acquittal. The honorable discharge. The fight that predated the larger one.",
+      "note_extra": "Source labeled 'Fort Hood / Segregated Bus / Court-Martial / Honorable Discharge' / affinity 'HAUNTED' — tenth HAUNTED in the set (after Holmes/WWII, Cooper/elbow, Blackwell/arm, Doby/Comiskey integration, Mantle/Lenox Hill, Berra/D-Day, Wynn/Mabel, Lemon/Hawaii, Mays/Fort Eustis). Robinson's is the only HAUNTED in the set with a courtroom component. In 1944, while stationed at Fort Hood, Texas, Robinson was riding a military bus with the wife of another Black officer. The bus driver ordered Robinson to move to the back. Robinson refused. Military police were called. Robinson was court-martialed on charges of insubordination. He was acquitted of all charges and received an honorable discharge in November 1944. The HAUNTED is the moment before the barrier — the dress rehearsal for April 15, 1947. Robinson had already refused to sit in the back before Branch Rickey asked him if he could take what was coming. The court-martial was the precursor to the agreement: Robinson already knew what it cost to stand his ground, had already paid the price once, had been acquitted once. The Military/Fort domain is literal: Fort Hood, Texas, 1944."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "COMPLEX",
+      "note": "The two years of required silence, 1947-1948. Branch Rickey's explicit agreement: the most consequential psychological constraint ever imposed on a baseball player, by the man who most needed his full capabilities.",
+      "note_extra": "Source labeled 'Branch Rickey Agreement / Hold Back / 1947-1948 / Released 1949' / affinity 'COMPLEX' — tenth COMPLEX in the set (after Rube Waddell/carnivalesque, Gehrig/Laryngospasm, Blackwell/arm, Doby/integration pressure, Kaline/ankle, Mantle/father-and-son illness, Berra/D-Day psychology, Wynn/gout, Lemon/reluctance). Robinson's is the most politically constructed COMPLEX in the set — a deliberate agreement, not an injury or illness. Rickey told Robinson he needed a player 'with guts enough not to fight back.' Robinson agreed. For two full seasons (1947-1948) he absorbed verbal abuse, physical intimidation (the St. Louis Cardinals threatened to strike; the Philadelphia Phillies under Ben Chapman directed racial slurs from the dugout throughout a game; Enos Slaughter spiked him at first base), and death threats — without public retaliation. In 1949, Rickey told Robinson he was free to be himself. Robinson turned the release into the finest individual season of his career: batting title, stolen base title, MVP. The COMPLEX is the Hotel/Rest domain because the constraint lived in the private space — the silent hotel rooms, the segregated accommodations, the things he was not permitted to say or do in public. The two years of held fire."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "The release from the agreement — after the Rickey constraint lifted in 1949, Robinson had his best season. The CLU trigger that mirrors this: in any game following an opponent intimidation attempt (benches warned, brushback pitches, verbal abuse), Robinson's CON and SPD each gain +0.5.",
+      "Championship context — the Stolen Home trigger. Once per championship series, the Stolen Home activates regardless of the game situation. The historical precedent is Game 1, 1955 WS: Dodgers trailing 6-4, eighth inning, Whitey Ford and Yogi Berra.",
+      "Doby cross-card — when Doby is in the same lineup, both receive the morale bonus. The historical weight of 1947 activates as a mechanical boost.",
+      "George Sisler hitting work (SABR documented, spring 1949) — represented mechanically as: Robinson's first 20 games of any season have a batting warm-up curve that resolves upward, not flat."
+    ],
+    "cold_triggers": [
+      "The constraint years (historical) — encoded in COMPLEX; the 1947-1948 statistical production is below what Robinson would have generated freely. The COMPLEX suppresses his hot triggers for the first two game-seasons on any roster.",
+      "The missed prime (historical) — Robinson debuted in MLB at 28. The career WAR is 63.8 in 10 seasons; with the full prime years he would have been among the all-time WAR leaders.",
+      "Physical decline — diabetes diagnosed after retirement at 37; by 1972 he was partially blind. Not a playing-career cold trigger but encoded in the career arc as the reason the fire burned completely and then stopped."
+    ],
+    "pressure_response": "The Stolen Home in Game 1 of the 1955 World Series. Dodgers trailing 6-4, eighth inning, Whitey Ford and Yogi Berra — the two best players in the game at their positions — and Robinson darted for home off a Hall of Fame pitcher with his team down two runs. That is not the play a cautious man makes. Umpire Bill Summers called him safe before the dust settled. Berra protested until he died. Robinson said he could see the plate clearly as he slid in. The pressure response is the same as at Fort Hood in 1944, the same as at Pasadena Junior College, the same as in the Montreal spring training locked out of the ballpark in Sanford, Florida: Robinson ran straight at the thing that was supposed to stop him."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Guts Enough Not to Fight Back",
+      "type": "Origin",
+      "text": "In a three-hour meeting on August 28, 1945, Branch Rickey plays every role. He is a hotel manager refusing a room. He is a train conductor pointing to the back of the car. He is a sportswriter typing words that cannot be reprinted. He is a ballplayer sliding spikes-up into first base. He asks: 'What do you do now?' Each time, the man across the desk does not answer with his fists. Finally the man across the desk says: 'Are you looking for a Negro who is afraid to fight back?' Rickey says: 'I am looking for a ballplayer with guts enough not to fight back.' They shake hands. The 1947 season begins.",
+      "origin": "August 28, 1945, Brooklyn, New York. Branch Rickey's meeting with Robinson to establish the terms of the integration experiment. Documented in multiple sources and in Robinson's autobiography. The quote 'guts enough not to fight back' is among the most cited in baseball history."
+    },
+    {
+      "title": "April 15, 1947",
+      "type": "Game Action",
+      "text": "He goes 0-for-3. He scores the winning run. He is the first African American to play in the major leagues in the modern era. More than 14,000 of the 26,623 people in the ballpark are Black. He does not play especially well. The Dodgers win 5-3. Across the country, every Black newspaper in America runs the story above the fold. He does not say much. He does not have to.",
+      "origin": "April 15, 1947, Ebbets Field, Brooklyn Dodgers vs. Boston Braves. Robinson went 0-for-3 but scored the winning run in the 7th inning. Attendance figures and the composition of the crowd are documented in multiple contemporary accounts."
+    },
+    {
+      "title": "The Stolen Home",
+      "type": "Game Action",
+      "text": "Eighth inning. Dodgers trailing 6-4. He is on third base against Whitey Ford and Yogi Berra. He dances off the bag in the way he has danced off bags since 1947 — in the way that moves outfielders and pitchers and catchers to do things they had not planned to do. He goes. The plate umpire calls him safe immediately. Berra argues. Everyone in Yankee Stadium argues. He says: 'I could see the plate when I slid in. Yogi was back of the plate. I suppose Yogi figured he had me or he wouldn't have raised such a fuss. In my opinion it wasn't close.' The Dodgers lose the game. They win the Series.",
+      "origin": "Game 1, 1955 World Series, September 28, 1955, Yankee Stadium. The 19th and final steal of home of Robinson's career in the postseason. Umpire Bill Summers's quote, Robinson's quote, and Berra's quote are all documented in the SABR research."
+    },
+    {
+      "title": "He Was Out, Jackie",
+      "type": "Legacy",
+      "text": "Yogi Berra tells his son Dale: 'To his dying day, Jackie was out.' The play was in 1955. Berra dies in 2015. The safe call stands. Rachel Robinson writes a tribute to Berra on his passing. She does not mention the play. The umpire who made the call is Bill Summers. He says: 'I saw it perfectly. Yogi put the ball at the back of the plate and Robinson slid across the plate into the glove. I am satisfied I made the call right.' Two men who were there believe two different things happened. No replay. The call stands. The Dodgers win the Series in seven games.",
+      "origin": "The cross-card connection between Robinson (Dreamers 1950) and Berra (Dreamers 1950). Dale Berra's quote about his father is documented in the SABR article on the game. Rachel Robinson's tribute to Berra in 2015 is documented. Umpire Bill Summers's quote is documented in the same SABR source."
+    },
+    {
+      "title": "Mack's Silver Medal",
+      "type": "Origin",
+      "text": "In 1936, Jackie Robinson's older brother Mack Robinson finishes second in the 200-meter dash at the Berlin Olympics. He finishes behind Jesse Owens. Mack Robinson returns to Pasadena and is given a job sweeping streets by the city. He wears his Olympic jacket while he sweeps. Jackie Robinson watches his brother sweep the streets in an Olympic jacket. He does not forget this. He is seventeen years old.",
+      "origin": "Documented in multiple Robinson biographies. Mack Robinson won silver at the 1936 Berlin Olympics. The story of his post-Olympic treatment in Pasadena is documented and cited as a formative moment in Jackie Robinson's understanding of what awaited Black athletes in America."
+    },
+    {
+      "title": "The New Fire",
+      "type": "Legacy",
+      "text": "He steals home in the eighth inning of Game 1 of the World Series with his team trailing by two runs. The Dodgers lose the game. In the clubhouse, he says: 'Whether it was because of my stealing home or not, the team had a new fire.' They win the next game. They win the Series. He never says he won it with that play. He says only that the fire changed. He has been setting fires for nine years. This is the last one he sets in a World Series.",
+      "origin": "Robinson's quote is documented in multiple sources. The Dodgers lost Game 1 but won Games 3, 4, 5, and 7 to win the 1955 World Series — their only championship. Robinson played all six games he appeared in at third base; he did not play in Game 7."
+    },
+    {
+      "title": "I Want to See a Black Face Managing",
+      "type": "Legacy",
+      "text": "October 15, 1972. Nine days before he dies, he throws the ceremonial first pitch before Game 2 of the World Series. They give him a plaque marking 25 years since April 15, 1947. He accepts it. He says he will be more proud when he looks at the third-base coaching line and sees a Black face managing in baseball. He dies nine days later. He does not see it. Frank Robinson becomes manager of the Cleveland Indians following the 1974 season — two years after Jackie Robinson's death.",
+      "origin": "Robinson's final public appearance, October 15, 1972, Riverfront Stadium, Cincinnati. His statement about wanting to see a Black manager is documented in multiple sources. Jackie Robinson died October 24, 1972. Frank Robinson (no relation) was named the first Black manager in MLB history after the 1974 season."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'11'', 195 lbs — the build of a four-sport UCLA letterman, a football quarterback and safety, a man who ran the 200m at competitive speed. In 1949 he is 30 years old, in the peak of a career that was compressed by design and circumstance into a 10-year window. The face in the card year (1949) is the face of the released man — the two-year constraint is over, he is himself again, and the result is the best individual season any second baseman has produced in this era.",
+    "attire": "Brooklyn Dodgers whites — the distinctive Dodgers script, the 42. The right-handed second baseman stance, the posture that told pitchers his whole biography from sixty feet six inches away.",
+    "mood": "The fire and the discipline simultaneously. Rickey's choice of Robinson was not based on passive temperament — it was based on documented fire directed into strategic patience. The card year (1949) is the first year that both elements were fully active at the same time: the strategic patience of a man who had already been court-martialed for standing his ground, and the fire that produced the batting title, the stolen base title, and the first Black MVP in NL history. The portrait should show both.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Ebbets Field in the background — the red brick exterior on Bedford Avenue, the intimate dimensions, the specific place where the most anticipated debut in baseball history occurred. The 42 on the uniform is the dominant visual element.",
+    "reference": "The HOF plaque update is the art direction: 'Displayed tremendous courage and poise in 1947 when he integrated the modern major leagues in the face of intense adversity.' The original plaque described the player. The 2008 update described the man. The portrait should be the card that contains both."
+  }
+}

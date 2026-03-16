@@ -1,0 +1,204 @@
+{
+  "card_type": "player",
+  "name": "Vic Raschi",
+  "nickname": "The Springfield Rifle",
+  "year": 1951,
+  "team": "New York Yankees",
+  "league": "American League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "SP",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'1\"",
+  "weight": "205 lbs",
+  "born": "March 28, 1919 — West Springfield, MA",
+  "died": "October 14, 1988 — Groveland, NY",
+  "hof": "Not inducted (peak 10% of BBWAA vote)",
+
+  "real_stats": {
+    "season": 1951,
+    "games": 35,
+    "games_started": 34,
+    "complete_games": 21,
+    "shutouts": 4,
+    "innings_pitched": "258.1",
+    "wins": 21,
+    "losses": 10,
+    "era": "3.27",
+    "strikeouts": 164,
+    "walks": 83,
+    "whip": "1.217",
+    "era_plus": 117,
+    "war": 5.7,
+    "all_star": 4,
+    "awards": "Led AL in strikeouts (164) in 1951. Third consecutive 21-win season (1949-1950-1951) — last Yankees pitcher to win 20+ games three straight times. Won-loss percentage leader 1950 (.724). 4x AL All-Star (1948, 1949, 1950, 1952). Starting pitcher in both the 1950 and 1952 All-Star Games. Big Three aggregate: the three (Reynolds, Raschi, Lopat) won 53 games in 1949, 55 in 1950, 59 in 1951. Stengel: 'I thought Raschi was the best pitcher I had on the team for nine innings. Boy, he was the best on the club in the eighth and ninth inning.'",
+    "world_series": "Five consecutive WS wins (1949-1953). WS career: 5-3, 2.24 ERA in 8 starts and 60.2 innings. 1950 WS Game 1: 2-hit shutout over Phillies (the only WS game Raschi won that was not against the Dodgers). 1951 WS: 0.87 ERA in two starts. 1952 WS: 1.59 ERA, two victories over the Dodgers. Also appeared in 1947 WS in relief (before he joined the regular rotation). Tommy Henrich: 'If there was only one game I had to win, the man I'd want out there on the mound for me would be Vic Raschi.'",
+    "career_wins": 132,
+    "career_losses": 66,
+    "career_era": "3.72",
+    "career_war": 28.7,
+    "career_strikeouts": 944,
+    "career_ip": "1819.0",
+    "career_notes": "10 seasons (1946-1955). New York Yankees (1946-1953), St. Louis Cardinals (1954-1955), Kansas City Athletics (1955). Career .667 winning percentage. 132-66 record, 26 shutouts. Yankees career: 120-50, .706 winning percentage. Led AL in strikeouts 1951. Six World Series (1947, 1949-1953), winning all six as a team — 5-3 personal WS record, 2.24 ERA. Set AL record with 7 RBI in a game as a pitcher (August 4, 1953). Set ML record with 4 balks in a game (May 3, 1950). Allowed Hank Aaron's first major league hit (April 15, 1954) and first career HR (April 23, 1954). Died October 14, 1988, on the eve of the World Series, age 69, heart attack. Yankees paid for his college education (College of William and Mary); he finally graduated in 1949. Career .977 fielding percentage."
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "stf": 4,
+    "ctl": 3,
+    "sta": 3,
+    "def": 1,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "stf": "Ted Williams: 'Vic Raschi is the best pitcher alive. There just can't be anyone as good.' That is the most specific endorsement of any pitcher's stuff from the most selective hitter of the era. The Springfield Rifle: blazing fastball with a supplementary curve and slider. Led AL in strikeouts (164) in 1951. ERA 3.27 with 21 wins. STF 4 reflects the fastball-dominant power pitcher with secondary arsenal — the same tier as Wynn and Ford but from a different angle: pure power over craft.",
+    "ctl": "1951: 83 BB in 258.1 IP = 2.9 BB/9. Career: moderate walk rate, competitive for the era. CTL 3 reflects solid command without reaching Ford's elite CTL 4. The fastball power allowed Raschi to get by with less precise control than a craft pitcher — he attacked hitters rather than worked them.",
+    "sta": "258.1 IP in 1951. Averaged 253 IP per season 1949-1952. Led AL in GS twice. 21 complete games in 1951. STA 3 (maximum) — the third pitcher in the set at STA 3 alongside Wynn, Lemon, and Ford. Raschi's durability was absolute in his prime.",
+    "def": "Career .977 fielding percentage. Competent but not distinguished. DEF 1 — standard. His mound records lean toward the unusual: 4 balks in a game (ML record), 7 RBI in a game as a pitcher (AL record). The fielding is adequate; the statistical footnotes are elsewhere.",
+    "clu": "Five consecutive WS with the Yankees (1949-1953) plus the 1947 WS. Career WS: 5-3, 2.24 ERA in 8 starts. 1950 WS Game 1 shutout. 1951 WS: 0.87 ERA. 1952 WS: two victories, 1.59 ERA. CLU 3 (maximum) — the WS ERA (2.24) across multiple appearances is as dominant as any pitcher's WS record in the set. Tommy Henrich's quote is the CLU 3 rationale: 'If there was only one game I had to win, the man I'd want out there on the mound for me would be Vic Raschi.'"
+  },
+
+  "personality": {
+    "leadership_style": "The beast on the mound who was someone else entirely off it. Jerry Coleman: 'Off the field he was shy and unassuming, nothing like he was on the mound. There he was a beast.' Raschi led through sheer competitive ferocity — not management of a clubhouse, not vocal authority, but the effect of knowing that the man on the mound for you was going to bring everything he had for nine innings, every start, every time. Stengel trusted him most for nine innings. Henrich trusted him most for one game.",
+    "temperament": "The paradox of the shy beast. West Springfield, Massachusetts — an Italian immigrant family, a carpenter father, the modest origins of someone who became the anchor of the most dominant pitching staff of his era. Off the mound, the SABR BioProject documents his warmth, his friendship with Reynolds and Lopat and Berra, his affection for teammates. On the mound, the blazing fastball and the competitive fire were something different entirely.",
+    "work_ethic": "The ten-year college deal tells the story. Raschi made a unique request as a 14-year-old: finish high school, go to college, and then the Yankees could have him. He held up his end. He graduated from William and Mary in 1949 — ten years after signing the agreement, the same year he won his first 21-game season. The work ethic extended to pitching through a torn knee cartilage (1950-1951) without telling anyone, rather than compromise the team's advantage. The Yankees kept the secret and won the championship. Raschi kept the secret and won 21 games.",
+    "lifestyle": "West Springfield, Massachusetts, to Hillsdale, New Jersey with Sally. After baseball: a liquor store in Conesus, New York. The retired life of a man who had pitched in six World Series and ran a liquor store and was content with both. He died on the eve of the 1988 World Series — a detail so structurally perfect that it cannot be improved upon.",
+    "era_adaptability": "HIGH. A power fastball pitcher with secondary stuff and exceptional postseason durability adapts to any era. The postseason record (2.24 ERA, 5-3, five consecutive WS) translates directly.",
+    "dark_side": "The telegram. After 120 wins and a .706 winning percentage and five straight World Series championships, George Weiss traded Raschi to the Cardinals for a 25% salary dispute. The notification came via telegram. Raschi found out about the trade from a photographer. He said: 'It's baseball, I guess. What hurts me most is leaving the team-mates I've grown so fond of.' The quiet dignity of that statement, from a man who had been told by a telegram that he was no longer needed, is the entire story of what Weiss's penny-pinching cost. The Yankees were different after the Big Three. Raschi never went back."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Springfield Rifle",
+      "desc": "The blazing fastball that gave him his nickname. In ILB, Raschi's STF 4 activates a strikeout bonus in full counts: on 3-2 pitches, he strikes out the batter on a 1-4 roll (rather than the standard 1-3). The Rifle fires when it matters most."
+    },
+    {
+      "tag": "Big Three",
+      "desc": "Reynolds-Raschi-Lopat won 53, 55, and 59 games in 1949-1951. In ILB, when any two of the Big Three are in the Dreamers 1950 starting rotation simultaneously, both receive +1 STA — the rotation depth reduces individual fatigue. The dynasty requires the full complement."
+    },
+    {
+      "tag": "Nine Innings",
+      "desc": "Stengel: 'I thought Raschi was the best pitcher I had on the team for nine innings. Boy, he was the best on the club in the eighth and ninth inning.' In ILB, Raschi's STF does not degrade in the 7th, 8th, or 9th innings. Other pitchers face escalating batter fatigue adjustments; Raschi is at full strength at the end."
+    },
+    {
+      "tag": "The Torn Knee Secret",
+      "desc": "Raschi tore knee cartilage in 1950 and pitched through it for over a year while the Yankees kept it secret. In ILB, once per career, Raschi may conceal an injury and continue pitching at full effectiveness for up to two seasons. The secret holds until a Weiss event triggers disclosure."
+    },
+    {
+      "tag": "October Beast",
+      "desc": "WS career: 5-3, 2.24 ERA, eight starts. In ILB, Raschi's CLU 3 activates a further +1 STF in any WS start. The beast emerges in full in October — the record is the evidence."
+    },
+    {
+      "tag": "Berra Behind the Plate",
+      "desc": "Raschi and Berra were Yankees dynasty teammates across the five straight championships. In ILB, when Berra catches Raschi, Berra's 'Rocking Chair Catcher' bonus applies to Raschi as well as Ford — the effect of having the right catcher."
+    },
+    {
+      "tag": "The Diploma",
+      "desc": "Raschi graduated from William and Mary in 1949 — ten years after signing his deal with the Yankees, the same year he won his first 21-game season. In ILB, this is encoded as the only contract in the set with a genuine educational clause. Raschi's CLU +1 in the 1949-1951 period reflects the man who kept his word and delivered both outcomes simultaneously."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Practice Field",
+      "affinity": "HIGH",
+      "note": "Jim Turner at Portland, 1947. The minor league manager who taught Raschi pitching and became his pitching coach with the Yankees for the entire dynasty. Turner was the institutional bridge between minor-league Raschi and dynasty-ace Raschi.",
+      "note_extra": "Source labeled 'Jim Turner / Portland / 1947 / Pitching Craft' / affinity 'HIGH' — twenty-third Practice Field/HIGH in the set. Raschi's is the most specifically minor-league-manager attributed Practice Field HIGH in the set. Jim Turner managed the Portland Beavers in the PCL, where the Yankees sent Raschi in May 1947 (initially refusing the assignment, then relenting). Turner taught him, saw his real ability, and in 1949 became the Yankees' pitching coach — remaining in that role throughout Raschi's entire dynasty career. The SABR BioProject documents that Turner 'benefited' Raschi significantly at Portland. The High reflects 1947 specifically — the year when Raschi's professional identity as a pitcher was fully formed under Turner's guidance. Turner's subsequent role as pitching coach (1949-1953) is encoded in the 'Big Three' chemistry_trait."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "West Springfield, Massachusetts. Massimino Raschi the railroad carpenter. Italian immigrant family. Springfield Tech High School. Scout Gene McCann noticing a freshman at 14. The college deal that took ten years.",
+      "note_extra": "Source labeled 'West Springfield / Massimino / Italian Immigrant / Gene McCann / William and Mary' / affinity 'ORIGIN' — nineteenth standalone ORIGIN in the set. Raschi's is the most contractually specific ORIGIN in the set — the deal with Gene McCann at age 14 was unique in scouting history: a high school freshman who said 'not until I finish school and college.' The Yankees agreed. He enrolled at William and Mary in 1938. WWII interrupted. He pitched minor league baseball from 1941. He finished his degree in 1949 — ten years after the deal was struck — and won 21 games that same year. The ORIGIN encodes: West Springfield (working-class Italian immigrant context), Massimino (railroad carpenter who provided the stable family), and Gene McCann (the scout who recognized something in a 14-year-old and agreed to wait ten years for it). The Community Events domain encompasses the West Springfield community context and the institutional relationship between a teenager and a major league franchise."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "SACRED",
+      "note": "Yankee Stadium, five straight World Series. The dynasty ace who was traded out by telegram. The teammate they were all fond of. The man who said 'It's baseball, I guess.'",
+      "note_extra": "Source labeled 'Yankee Stadium / Five WS / Telegram / Fond of Teammates' / affinity 'SACRED' — sixteenth SACRED in the set and the fifth Yankee Stadium SACRED (after Gehrig, Mantle, Berra, Ford). Raschi's is the most elegiac of the five — the SACRED for someone who was traded out of the stadium by telegram after 120 wins and a .706 winning percentage. Where Ford's SACRED is the active Monument Park plaque, and Berra's is the number and the championship rings, Raschi's is the departure that hurt most because of 'leaving the teammates I've grown so fond of.' The five consecutive WS championships are encoded in the SACRED; the telegram that ended them is encoded in the dark_side. The Community Events domain reflects the civic and institutional dimension of Yankee Stadium as the site of five straight championships with the Big Three at the center."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "COMPLEX",
+      "note": "The torn knee, 1950-1951. Collision with Jim Hegan at home plate. The cartilage tearing. The season and a half pitching in secret. Surgery in November 1951. The injury that limited his range but not his will.",
+      "note_extra": "Source labeled 'Torn Knee / Jim Hegan / 1950 / Secret / Surgery 1951' / affinity 'COMPLEX' — eleventh COMPLEX in the set. Raschi's is the most deliberately concealed COMPLEX in the set — the torn cartilage was not just an injury but a secret jointly maintained by Raschi and the Yankees organization. The SABR BioProject: 'The Yankees kept the injury a secret, as the injury limited Raschi's range; after the 1951 season, he would have surgery to remove the cartilage.' He pitched 21 wins in 1950 (the injury year) and 21 wins in 1951 (the pre-surgery year) on a knee with torn cartilage. The COMPLEX encodes the gap between the visible performance (three straight 21-win seasons) and the invisible condition (a torn knee that limited his range and forced a playing style adjustment). The Hotel/Rest domain is used because the medical maintenance was primarily off-field — ice, rest, and concealment between starts, not a team medical facility. The chemistry_trait 'The Torn Knee Secret' is the mechanical cross-field expression."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "CODA",
+      "note": "The telegram. The liquor store in Conesus, New York. Died October 14, 1988 — on the eve of the World Series, aged 69. The shy man who was a beast on the mound, gone at the moment the season he loved most was about to begin.",
+      "note_extra": "Source labeled 'Telegram Trade / Liquor Store / October 14 1988 / World Series Eve' / affinity 'CODA' — fourth CODA in the set (after Brecheen/coaching, Kuenn/Koufax final-outs, Fox/posthumous HOF). Raschi's is the most temporally pointed CODA in the set — October 14, 1988, the eve of the World Series, a heart attack at age 69. Pinstripe Alley notes: 'On the eve of the 1988 World Series, Raschi passed away suddenly at age 69 on October 14th due to a heart attack.' He died the day before the World Series he would never see, having spent his post-baseball life running a liquor store in Conesus, New York — as far from five consecutive championships as a life could reasonably get. The CODA also encompasses the telegram-trade ending of his Yankees career: the shy man who was fond of his teammates, notified by telegram, saying 'It's baseball, I guess.' The career that ended by telegram and the life that ended on the eve of the World Series are two CODAs inside one CODA."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Late innings — 'Nine Innings' trait: STF does not degrade in the 7th-9th. Stengel's observation that Raschi was best in the 8th and 9th.",
+      "World Series context — CLU 3 maximum + 'October Beast' trait: +1 STF in any WS start. The 2.24 career WS ERA is the hot trigger evidence.",
+      "Full counts — 'The Springfield Rifle' trait: strikeout bonus on 3-2 pitches.",
+      "Yankees dynasty lineup behind him — Berra catching, Berra's CLU and chemistry active."
+    ],
+    "cold_triggers": [
+      "The Weiss event — contract negotiation cold trigger; the 25% salary cut offered after 1953 triggered the trade. Once a Weiss event occurs, Raschi's organizational loyalty is severed.",
+      "The torn knee (1950-1951 concealed period) — 'Torn Knee Secret' roll: once per season, the secret risks disclosure; if disclosed, opposing teams may bunt on him more aggressively.",
+      "Post-1951 physical decline — the 1952-1953 seasons showed diminishing production; the knee surgery helped but the 21-win pace was not sustainable.",
+      "Away from Yankee Stadium — his peak was within the dynasty context; once traded to St. Louis, the career WAR drops sharply."
+    ],
+    "pressure_response": "The best pitcher for one game. Henrich's quote is the mechanical encoding: 'If there was only one game I had to win, the man I'd want out there on the mound for me would be Vic Raschi.' His World Series ERA (2.24) is the statistical validation. The pressure response was the same as the regular-season response — maximum effort — but with the compression of importance, the Rifle fired more accurately. The shy man off the field became the beast on it when it mattered most."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Ten Years",
+      "type": "Origin",
+      "text": "In 1936, a 14-year-old pitcher from West Springfield, Massachusetts, tells a Yankees scout: I will sign with you, but first I must finish high school. Then I must go to college. You pay for the college, and I will sign when I am done. The scout agrees. The boy enrolls at the College of William and Mary in 1938. The war comes. He is a physical education instructor in the Army Air Corps for three years. He returns. He takes classes in the offseason while pitching minor league baseball. In 1949, he graduates from William and Mary with his Bachelor of Science degree — ten years after the agreement was struck. That same year, he wins 21 games for the New York Yankees. He keeps his word. They keep theirs.",
+      "origin": "Documented in the SABR BioProject and multiple sources. Gene McCann noticed Raschi as a high school freshman. Raschi's college request was unusual for the era. The Yankees paid for his education at William and Mary. He graduated in 1949, the same year as his first 21-win season."
+    },
+    {
+      "title": "The Torn Knee Secret",
+      "type": "Drama",
+      "text": "In August 1950, your pitcher collides with a catcher at home plate. He tears cartilage in his right knee. The Yankees keep the injury secret. The opposing teams do not know. His range is limited — he cannot push off the rubber the same way. He adjusts. He wins 21 games anyway. The following year, he wins 21 games again. In November 1951 he has surgery to remove the cartilage. His teammates found out from the newspapers. This is how the Yankees kept a secret for fifteen months.",
+      "origin": "SABR BioProject: 'In one of the August games against Cleveland, he collided with Indians catcher Jim Hegan at home plate, tearing cartilage in his right knee. The Yankees kept the injury a secret, as the injury limited Raschi's range; after the 1951 season, he would have surgery to remove the cartilage.'"
+    },
+    {
+      "title": "Three Predictions",
+      "type": "Drama",
+      "text": "In the winter of 1949, your pitcher is finishing his college degree. He makes three predictions about the coming season: First, the Yankees will win the American League pennant. Second, he will win 20 games. Third, he will beat the Red Sox — 'If it's the last thing I do.' He has lost seven of the nine games against Boston the year before. All three predictions come true. On October 8, 1949, he beats the Red Sox in the pennant clincher. He does not play the lottery. He does not need to.",
+      "origin": "Documented in the 'Remembering Vic Raschi' essay. The three predictions were made while Raschi was finishing his college degree in the winter of 1948-1949. All three were fulfilled: Yankees won the AL pennant, Raschi won 21 games, and Raschi beat Boston in the crucial late-season games."
+    },
+    {
+      "title": "It's Baseball, I Guess",
+      "type": "Drama",
+      "text": "After five straight World Series championships, your pitcher refuses to accept a 25 percent salary cut. He holds out. General manager George Weiss decides one of the holdouts must go. Your pitcher finds out he has been traded to the St. Louis Cardinals — from a photographer. He receives a telegram from the Yankees. He tells reporters: 'It's baseball, I guess. What hurts me most is leaving the team-mates I've grown so fond of.' He had won 120 games with a .706 winning percentage. He had gone 5-3 in the World Series with a 2.24 ERA. He said: 'What hurts me most is leaving the teammates.'",
+      "origin": "February 24, 1954. Raschi was traded to the Cardinals for $85,000 during a salary holdout. He learned about the trade from a photographer before receiving a Yankees telegram. His quote to reporters is documented in Wikipedia and the SABR BioProject."
+    },
+    {
+      "title": "The Best Pitcher Alive",
+      "type": "Legacy",
+      "text": "Ted Williams says: 'Vic Raschi is the best pitcher alive. There just can't be anyone as good.' Ted Williams hit .406. Ted Williams is the most selective hitter in baseball history. Ted Williams does not say this about many people. He says it about your pitcher. Your pitcher leads the American League in strikeouts this year. He has won 21 games three years in a row. He is shy and unassuming off the field. On the mound, he is a beast.",
+      "origin": "Ted Williams's quote about Raschi is documented in the Pinstripe Alley biography and other sources. Williams was known as one of the most discerning evaluators of pitching in the game."
+    },
+    {
+      "title": "October 14, 1988",
+      "type": "Legacy",
+      "text": "On October 14, 1988, the day before the World Series begins, your pitcher dies of a heart attack at age 69. He was running a liquor store in Conesus, New York. He had pitched in six World Series. He had gone 5-3 in them with a 2.24 earned run average. He had won five consecutive championships. He had been notified of his trade by telegram. He had said 'It's baseball, I guess.' He was shy and unassuming. He was a beast on the mound. He died on the eve of the season's final moment, having spent his retirement far from it.",
+      "origin": "Vic Raschi died October 14, 1988, of a heart attack at his home in Groveland, New York. The 1988 World Series (Oakland vs. Los Angeles) began October 15. He had operated a liquor store in Conesus, New York, after retiring from baseball."
+    },
+    {
+      "title": "First Hank Aaron",
+      "type": "Legacy",
+      "text": "On April 15, 1954, playing for the St. Louis Cardinals, your pitcher allows a base hit to a 20-year-old Milwaukee Braves outfielder named Hank Aaron. It is Aaron's first major league hit. Eight days later, on April 23, 1954, your pitcher allows a home run to the same hitter. It is Aaron's first career home run. Your pitcher has been traded from the Yankees for refusing a salary cut. He is pitching in his first season as a Cardinal. The rookie he has just launched will hit 754 more home runs.",
+      "origin": "Baseball Almanac: 'Hammerin' Hank had notched his first hit — a run scoring single in the top of the first inning off Raschi [April 15, 1954]... The 109th home run allowed by The Springfield Rifle occurred on April 23, 1954, in the top of the sixth inning, to some rookie named Hank Aaron — the first of his 755 career home runs.'"
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'1\", 205 lbs — the big Italian-American right-hander from West Springfield, Massachusetts, who was shy and unassuming off the mound and a beast on it. In 1951 he is 31 years old, leading the AL in strikeouts, winning 21 games on a torn knee that nobody knows about. The face on the mound is not the face at the press conference. The face on the mound is the Springfield Rifle in full deployment.",
+    "attire": "New York Yankees home pinstripes. The right-handed power delivery — not the Wynn territorial scowl, not the Ford composed craft, but the sheer force of the fastball from a 6'1\" frame with a delivery designed to overwhelm. The catcher in the background is Yogi Berra, who could catch this pitcher sitting in a rocking chair — but doesn't, because it is not that kind of pitcher.",
+    "mood": "Competitive ferocity containing something quiet. The beast who was shy. The Springfield Rifle who graduated from college ten years after signing. In 1951 this is the man who made three predictions in the winter and fulfilled all three in the summer — calm in his knowledge of what he was about to do and ferocious in the doing of it.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Yankee Stadium behind him. Five consecutive championships ahead of him. A telegram that will come in three years, and a liquor store in Conesus after that. But not yet. In 1951 it is still October every year.",
+    "reference": "Tommy Henrich's quote is the art direction: 'If there was only one game I had to win, the man I'd want out there on the mound for me would be Vic Raschi.' The portrait should show the pitcher Henrich would choose for one game — and the shy man who would accept the responsibility without saying much about it."
+  }
+}

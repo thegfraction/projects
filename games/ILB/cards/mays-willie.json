@@ -1,0 +1,207 @@
+{
+  "card_type": "player",
+  "name": "Willie Mays",
+  "nickname": "Say Hey Kid",
+  "year": 1954,
+  "team": "New York Giants",
+  "league": "National League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "CF",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'10\"",
+  "weight": "170 lbs",
+  "born": "May 6, 1931 — Westfield, AL",
+  "died": "June 18, 2024 — Palo Alto, CA",
+  "hof": "Class of 1979 (BBWAA, first ballot, 94.7%)",
+
+  "real_stats": {
+    "season": 1954,
+    "games": 151,
+    "at_bats": 565,
+    "hits": 195,
+    "doubles": 33,
+    "triples": 13,
+    "home_runs": 41,
+    "rbi": 110,
+    "stolen_bases": 8,
+    "runs": 119,
+    "batting_avg": ".345",
+    "obp": ".411",
+    "slg": ".667",
+    "ops": "1.078",
+    "ops_plus": 187,
+    "war": 10.5,
+    "all_star": 24,
+    "gold_gloves": 12,
+    "awards": "NL MVP 1954 (unanimous). Led NL in BA (.345), SLG (.667), triples (13). 41 HR, 110 RBI. World Series champion 1954 (swept Cleveland Indians). 13-season streak (1954-1966) of at least 7.0 WAR — the longest in MLB history. Led NL in HR four times (1955, 1962, 1964, 1965). Led NL in SB four consecutive years (1956-1959). 12 consecutive Gold Gloves (1957-1968, the first year GG was awarded through 1968). 24 All-Star selections — tied with Aaron and Musial for most in history. Ted Williams: 'They invented the All-Star Game for Willie Mays.' Leo Durocher: 'If somebody came up and hit .450, stole 100 bases, and performed a miracle in the field every day, I'd still look you right in the eye and tell you that Willie was better.' NL Rookie of the Year 1951.",
+    "negro_leagues": "Birmingham Black Barons, Negro American League (1948-1950). Played weekends while attending Fairfield Industrial High School; joined team at age 16 or 17 under manager Piper Davis, who became 'like a second father.' 1948 Negro American League championship team. Scout Eddie Montague saw him playing 'practically barefooted': 'This was the greatest young player I had ever seen in my life or my scouting career.' Giants paid $4,000 signing bonus; Mays signed his contract with his father Cat also signing because Willie was a minor.",
+    "world_series": "4 WS appearances (1951, 1954, 1962, 1973). Career WS: .248 BA, 25 games. 1954 WS champion: Giants swept Cleveland Indians 4-0. The Catch — Game 1, 1954 WS, 8th inning, Polo Grounds: over-the-shoulder running catch of Vic Wertz's drive approximately 420-460 feet from home plate, followed by immediate pivot and throw to prevent Doby from scoring from second base. Giants won Game 1 in 10th. Doby had to hold at third after The Catch; AL-record 111-win Indians swept 4-0.",
+    "career_avg": ".301",
+    "career_hits": 3293,
+    "career_hr": 660,
+    "career_war": 162.9,
+    "career_rbi": 1903,
+    "career_notes": "23 seasons (1951-1973). New York/San Francisco Giants (1951-1972), New York Mets (1972-1973). Career .301/.384/.557, 162.9 WAR (second all-time). 660 career HR (then-second all-time). 3,293 hits. 2 MVP (1954, 1965). 24 All-Stars. 12 Gold Gloves. 1 WS championship (1954). Led NL in HR 4 times, SB 4 times, SLG 5 times, triples 3 times, total bases 3 times. 13 consecutive seasons ≥7.0 WAR (1954-1966, longest in MLB history). 13 consecutive seasons ≥70 extra-base hits (no other player has more than 0 such streaks). Missed all of 1953 and most of 1952 due to Army service (Korean War). Born in Alabama, grew up near Birmingham. Three generations of baseball players. Died June 18, 2024, age 93, the day before the Juneteenth Classic at Rickwood Field where he had played for the Black Barons as a teenager."
+  },
+
+  "ilb_stats": {
+    "ovr": 11,
+    "con": 5,
+    "pow": 5,
+    "spd": 1,
+    "def": 3,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": ".345 BA (1954) clears the .330+ = 5 band. OPS+ 187 far exceeds the ≥130 bonus — already at 5. The NL batting title in his first full season. Career .301 across 23 seasons. 24 consecutive All-Star selections (tied with Aaron and Musial for most in history). CON 5 is unambiguous.",
+    "pow": "41 HR (1954). SLG .667 ≥ .500 → +1. 40-49 HR = 4 band + SLG bonus = POW 5. The true power is encoded in the 1955 season (51 HR) — Durocher confirmed Mays could alter HR totals depending on team needs, choosing average in 1954 (.345 batting title) and power in 1955 (51 HR). Career 660 HR. The SLG .667 in 1954 is the highest in the set for any player. POW 5 reflects both the 1954 season's SLG and the career-wide power that produced 51 HR in 1955.",
+    "spd": "8 SB in 1954. 6-15 range = SPD 1 by formula. The speed was historically legendary (stickball 'six sewers,' 24 SB in 1955, four consecutive NL SB titles), but the formula applies to the card year. SPD 1 for 1954. The legendary speed emerges in SPD-adjacent chemistry_traits rather than the stat.",
+    "def": "12 consecutive Gold Gloves (1957-1968). Pre-GG era for the 1954 card year (GG started 1957). Historical reputation: unanimous greatest defensive CF in baseball history. 7,095 career outfield putouts (all-time record). The Catch — Game 1 of the 1954 WS — is considered the greatest defensive play in baseball history. Mays himself called it 'The Throw' — he believed the catch was routine but the immediate pivot and throw was the key play. Led NL in outfield assists in 1955 with 23. DEF 3 (maximum) — the most documented elite defensive CF in the set. First NL player at DEF 3.",
+    "clu": "1954 WS champion — swept the 111-win Cleveland Indians 4-0. The Catch in Game 1. Career WS: .248 BA in 25 games across 4 appearances. CLU 2 reflects the 1954 championship contribution and The Catch's defining postseason moment, balanced against the career WS batting average (.248) and the limited additional October success (1-3 in WS appearances). CLU 2 is honest: one championship, one transcendent defensive play, modest overall WS offensive production."
+  },
+
+  "personality": {
+    "leadership_style": "Joyful radiance. Durocher: 'He lit up the room when he came in. He was a joy to be around.' Mays led through the energy he brought — not through authority or instruction but through the gravitational field of pure talent expressed with complete freedom. He played stickball in Harlem between games. He played multiple sports through high school. He reportedly could adjust his HR total based on what the team needed. The joy was the leadership.",
+    "temperament": "Exuberant and deeply sensitive beneath the surface. When he went 0-for-26 in his first week with the Giants, he sat in the dugout crying and told Durocher he didn't think he could play in the big leagues. Durocher's response — 'You are my center fielder, as long as I'm here' — was the reassurance that unlocked the career. He never forgot it. On the final day of the 1955 season, when Durocher told him he was the best player he'd ever seen and kissed him on the cheek, Mays said: 'But you won't be here to help me.' Durocher said: 'Willie Mays don't need help from anybody.' He was right and wrong simultaneously.",
+    "work_ethic": "Three generations of baseball. Grandfather Walter was a sharecropper and pitcher. Father Cat played semi-pro ball in the steel mill leagues. Willie was playing with grown men at age 10 (sitting on the bench), playing for the Black Barons at 16, batting .477 for Minneapolis at 20 before the call-up. The work ethic was inherited, not acquired. Baseball was not something he chose — it was what he was.",
+    "lifestyle": "Westfield → Birmingham → Harlem → San Francisco → Atherton. The stickball games in front of the house in Harlem, between games at the Polo Grounds. The Puerto Rican winter league after the 1954 season — 250 games in 10 months, leading that league in hitting and slugging. The barnstorming tours. The Ed Sullivan Show after the 1954 championship. The Donna Reed Show, The Dating Game, Bewitched. Willie Mays was the most publicly beloved figure in baseball in New York, and later in San Francisco, through the sheer force of his play and his personality.",
+    "era_adaptability": "MAXIMUM. The argument that Willie Mays is the greatest baseball player of all time rests on this: he was not good at some aspects of the game. He was the best player at every aspect of the game simultaneously. A 5'10\" right-handed switch hitter who could adjust his power output based on team needs, cover more center field than any player in history, and hit .345 with a .667 SLG in his first full season would dominate any era.",
+    "dark_side": "The lost years. The two prime seasons (1952-1953) given to the Army. The Alabama of his childhood — the segregation, the Negro Leagues because the major leagues wouldn't have him at 16, the racism he encountered in baseball that he rarely discussed directly. The late-career Mets years when the legs were gone. The gambling ban in the 1970s-80s (he was banned from baseball association activities because of ties to a casino, like Mantle) that kept him away from baseball officially. He died the day before the Juneteenth Classic at Rickwood Field — one day short of one final return to the place where he began."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Catch",
+      "desc": "The greatest defensive play in baseball history. In ILB, once per World Series, Mays may attempt an extraordinary catch on any ball hit to CF: roll 1-4 = The Catch (out recorded, any runners frozen); roll 5-6 = standard play. The memory of the play alters the opponent's approach to CF for the rest of the game."
+    },
+    {
+      "tag": "The Throw",
+      "desc": "Mays called The Catch 'The Throw' — he believed the catch was routine but the immediate pivot-and-throw with runners on base was the key play. In ILB, Mays's DEF 3 generates a 'Throw' bonus: any runner attempting to advance on a Mays flyout must beat a +2 arm throw."
+    },
+    {
+      "tag": "Say Hey",
+      "desc": "The nickname: Mays couldn't remember teammates' names early in his career, greeting everyone with 'Say who? Say what? Say hey.' In ILB, the Say Hey energy generates +1 team morale when Mays scores or makes an extraordinary play — the crowd response to Mays is encoded mechanically."
+    },
+    {
+      "tag": "Durocher's Center Fielder",
+      "desc": "Mays went 0-for-26 and Durocher told him: 'You are my center fielder. As long as I'm here, you are going to play center field.' In ILB, Mays's stats do not degrade from early-season slumps — his baseline is always the full potential. The manager's guarantee is structural."
+    },
+    {
+      "tag": "Six Sewers",
+      "desc": "In the Harlem stickball games: Mays could hit a shot that measured six sewers — approximately 300 feet with a broomstick handle. In ILB, this is encoded as the speed that underpins everything: Mays's defense and baserunning instincts derive from the same athleticism."
+    },
+    {
+      "tag": "The Doby Catch",
+      "desc": "Larry Doby was on second base when Mays made The Catch. Doby had to stop at third because of the immediate throw. Both are Dreamers 1950 cards. In ILB, when Doby and Mays are in the same game on opposing teams, a 'Catch' trigger activates: the historical moment is present in the mechanic."
+    },
+    {
+      "tag": "Birmingham's Best",
+      "desc": "Mays played for the Birmingham Black Barons at 16, in the same outfield tradition as Rickwood Field. Piper Davis was his mentor. In ILB, Mays's connection to the Negro Leagues gives him a +1 CLU in any game played at a historically Black venue — the roots of the game are visible in the play."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Community Events",
+      "affinity": "SACRED",
+      "note": "The Polo Grounds / Candlestick Park / AT&T Park. Number 24 retired. The outfield where The Catch was made. The city where he became Mr. Giant. Three generations after the first game.",
+      "note_extra": "Source labeled 'Polo Grounds / Candlestick / AT&T / Number 24 / The Catch' / affinity 'SACRED' — seventeenth SACRED in the set. Mays's is the most geographically split SACRED in the set — it begins at the Polo Grounds (New York Giants, 1951-1957, where The Catch was made), continues at Candlestick Park (San Francisco Giants, 1958-1999), and culminates at AT&T Park / Oracle Park, where his statue stands and his number is retired. Where most SACREDs in the set encode a single building or stadium, Mays's SACRED follows the franchise across the country. The Polo Grounds is the specific location of The Catch — the center field where Mays ran 420+ feet with his back to the ball and caught it over his shoulder. The SABR BioProject notes: 'The Catch transcended baseball.' The Community Events domain reflects the civic dimension: the Polo Grounds was a New York institution; Candlestick / AT&T Park made Mays San Francisco's permanent civic monument. He died the day before returning to Rickwood Field."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "IDENTITY",
+      "note": "The Say Hey Kid. Black in Alabama, Black in New York, Black in San Francisco — the joy that baseball required him to perform and the barriers the same baseball industry placed before him. The man who made the impossible look effortless.",
+      "note_extra": "Source labeled 'Black in Alabama / Negro Leagues / Integration Era / Say Hey' / affinity 'IDENTITY' — second full IDENTITY affinity for a position player in the set (after Miñoso's). Mays's is deeper and more nationally visible than Miñoso's — he is not the first to break a specific barrier but the most prominent Black player in the game's most prominent era, playing in New York and then San Francisco, and carrying the weight of representing Black excellence at the highest level of the sport at the exact moment when that weight was most public. The IDENTITY is encoded not through a single event (like Doby's Comiskey HAUNTED or Miñoso's IDENTITY as first Black White Sox player) but through the complete arc: Alabama segregation → Negro Leagues at 16 → New York Giants in 1951 → the joy that masked the discrimination he still experienced → San Francisco. The IDENTITY affinity also encodes the conversation about Mays, Mantle, and Snider — the 'Who was best?' debate in New York in the 1950s, which was also implicitly a conversation about race. The 'Birmingham's Best' chemistry_trait is the cross-field expression."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Westfield, Alabama. Cat Mays and grandfather Walter. The Birmingham Black Barons at 16. Piper Davis as second father. The steel mills and the segregation that produced the greatest baseball player anyone had ever seen.",
+      "note_extra": "Source labeled 'Westfield / Cat Mays / Walter Mays / Piper Davis / Black Barons / Steel Mills' / affinity 'ORIGIN' — twentieth standalone ORIGIN in the set. Mays's is the deepest generational ORIGIN in the set — three generations of baseball players in Westfield, Alabama. Cat Mays played semi-pro ball in the Tennessee Coal and Iron League at the steel mills. Grandfather Walter was a sharecropper and pitcher. Willie inherited the game from both of them. The scout Eddie Montague's report to Durocher — 'They got a kid playing center field practically barefooted that's the best ballplayer I ever looked at' — is the ORIGIN's public revelation moment. Piper Davis, the Black Barons manager, is the ORIGIN's institutional anchor: he became 'like a second father' to the teenager playing professional baseball on weekends while attending high school. The Community Events domain encompasses the entire Birmingham social and industrial context — not just a family home but the specific civic world of steel mills, Negro Leagues baseball, and Alabama segregation that produced this player."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HIGH",
+      "note": "Harlem, 1951-1957. The couple who took care of the young ballplayer. The stickball games in front of the house between games at the Polo Grounds. The neighborhood that claimed him.",
+      "note_extra": "Source labeled 'Harlem / Durocher Couple / Stickball / Polo Grounds' / affinity 'HIGH' — twenty-fourth Hotel/Rest/HIGH in the set. Mays's is the most specifically community-embedded clubhouse HIGH in the set. Durocher found a home for Mays with a couple in Harlem near the Polo Grounds in his first season — a young Black man from Alabama alone in New York, needing both a home and a community. The Harlem neighborhood adopted him. Magazine photographers documented the stickball games. The New World Encyclopedia: 'It was reported that in the urban game of hitting a rubber ball with an adapted broomstick handle, Mays could hit a shot that measured six sewers.' One afternoon he hit two home runs at the Polo Grounds, came home to Harlem, and played stickball with the local boys — reportedly hitting another homer in that game with a broomstick. The HIGH reflects the genuine warmth of the Harlem years: the neighborhood that housed him, the children who played with him, the community that gave him a home outside the stadium."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HAUNTED",
+      "note": "Fort Eustis, Virginia, 1952-1953. The Army years that cost him the prime seasons where he would almost certainly have broken Ruth's home run record. Baseball at Fort Eustis while the world waited.",
+      "note_extra": "Source labeled 'Fort Eustis / Korean War Service / 266 Lost Games / Army Baseball' / affinity 'HAUNTED' — ninth HAUNTED in the set (after Holmes, Cooper, Blackwell, Doby, Mantle/Lenox Hill, Berra/D-Day, Wynn/Mabel, Lemon/Hawaii). Mays's is the most quantifiably costly HAUNTED in the set: approximately 266 games missed, almost certainly enough to surpass Babe Ruth's career HR record had he played. He learned the basket catch at Fort Eustis from Al Fortunato. He played approximately 180 games for the Fort Eustis Wheels. He spent his age-21 and age-22 seasons pitching to servicemen instead of professional hitters. The WAR analysis: with those lost seasons at his established production rate, Mays might have had 162+ career WAR (already second all-time without them). The HAUNTED is the Fort Eustis gymnasium and baseball diamond — the private institutional space where the greatest player in baseball spent two years playing military baseball instead of professional baseball, emerging in 1954 to have perhaps the most complete first full season of any player in MLB history."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "World Series context — The Catch trigger activates once per WS; CLU 2 generates genuine postseason performance though not the sustained CLU 3 tier.",
+      "Durocher managing — 'Durocher's Center Fielder' trait: no early-season stat degradation; the guarantee is structural.",
+      "Harlem home games / SACRED domain — the Polo Grounds is where The Catch was made; the CF home field advantage is encoded.",
+      "Opposing defense overplaying him — Mays could reportedly adjust HR output based on team needs; the offensive versatility is a documented hot trigger."
+    ],
+    "cold_triggers": [
+      "Post-Durocher management — without the foundational guarantee, Mays had friction with Bill Rigney (1956); the CLU floor without Durocher is lower.",
+      "The Army years (historical) — encoded in HAUNTED; the career WAR that would have been is the cold of what wasn't.",
+      "Late-career Mets (1972-1973) — OVR degrades significantly; the famous stumble in the 1973 WS is the career endpoint.",
+      "The gambling ban — not a playing-career cold trigger but a post-career echo; Mays was banned from baseball association activities like Mantle."
+    ],
+    "pressure_response": "Transcendent. The Catch was made in the 8th inning of Game 1 of the 1954 World Series, tied 2-2, runners on first and second, no outs, against a team that had won 111 games. Mays ran 420+ feet with his back to the ball, caught it over his shoulder, pivoted immediately, and threw to hold the runner at third. The Giants won in extra innings and swept the series. That is the pressure response. Everything else in the card notes the same quality in different contexts: the 0-for-26 slump converted to a career by one manager's guarantee, the batting title and WS championship in the first full season, the stickball homer after two home runs at the Polo Grounds. The pressure response is joy operating at maximum capacity."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Catch",
+      "type": "Game Action",
+      "text": "The 8th inning of Game 1 of the World Series. The score is tied 2-2. The Cleveland Indians have runners on first and second with nobody out. Vic Wertz hits a drive to deep center field at the Polo Grounds, perhaps 460 feet from home plate. Your center fielder, running with his back to the plate, catches the ball over his shoulder. He does not look at the ball for the last twenty feet. He pivots immediately and throws. The runner on second has to stop at third. The Giants win the game in the 10th inning and sweep the Series. Your center fielder says: 'I always call it The Throw, not The Catch. The catch was simple. The throw was the play.'",
+      "origin": "Game 1, 1954 World Series, September 29, 1954, Polo Grounds. Mays's over-the-shoulder catch of Vic Wertz's drive, followed by his immediate pivot and throw, is considered the greatest defensive play in baseball history. Larry Doby was the runner held at third by the throw. The Giants won in the 10th on a Dusty Rhodes three-run homer."
+    },
+    {
+      "title": "Practically Barefooted",
+      "type": "Origin",
+      "text": "In 1950, Giants scout Eddie Montague goes to Birmingham to look at a first baseman named Alonzo Perry for the Class-A Sioux City club. In center field he sees a kid he wasn't sent to watch. He sends a report back to New York: 'They got a kid playing center field practically barefooted that's the best ballplayer I ever looked at. You better send somebody down there with a barrelful of money and grab this kid.' The Giants pay $4,000 as a signing bonus. The kid signs with his father because he is a minor. Alonzo Perry is never mentioned again.",
+      "origin": "Documented in the SABR BioProject, citing Leo Durocher's autobiography 'Nice Guys Finish Last.' Giants scout Eddie Montague's report is quoted directly. The $4,000 bonus is documented in Mays's autobiography 'Say Hey.'"
+    },
+    {
+      "title": "You Are My Center Fielder",
+      "type": "Drama",
+      "text": "In his first seven games in the major leagues, your center fielder has one hit in 26 at-bats. He sits in the dugout crying. He tells his manager: 'I don't think I can play in this league.' His manager says: 'You are my center fielder. As long as I'm here, you are going to play center field. Tomorrow, next week, next month. As long as I'm manager of this team, you will be on this club.' On his 27th at-bat, your center fielder hits a home run over the left field fence off Warren Spahn. Warren Spahn later says: 'I'll never forgive myself. We might have gotten rid of Willie forever if I'd only struck him out.'",
+      "origin": "May 1951. Mays went 1-for-26 in his first week with the Giants. Durocher's guarantee speech is documented in multiple sources and in Mays's autobiography. Warren Spahn's quote is widely documented."
+    },
+    {
+      "title": "Willie Mays Don't Need Help",
+      "type": "Legacy",
+      "text": "On the last day of the 1955 season, the manager calls your center fielder into a small bathroom just off the dugout. He says: 'You are the best ballplayer I ever saw.' He says he won't be returning as manager. Your center fielder says: 'But you won't be here to help me.' The manager says: 'Willie Mays don't need help from anybody.' He kisses your center fielder on the cheek. He is right and wrong simultaneously. He is right about what your center fielder can do. He is wrong about what anyone needs.",
+      "origin": "September 25, 1955, final day of the NL season, Polo Grounds. Documented in the SABR BioProject citing Mays's autobiography. Durocher was not returning as Giants manager after 1955. The bathroom meeting is the final private moment between them."
+    },
+    {
+      "title": "Six Sewers",
+      "type": "Legacy",
+      "text": "Between games at the Polo Grounds, your center fielder goes home to Harlem and plays stickball with the neighborhood kids in the street in front of the house. He uses the handle of a modified broomstick to hit a rubber ball. He hits the ball six sewers — the distance of six consecutive New York City manhole covers, nearly 300 feet. He has already hit two home runs today. He hits another one. These are the things that are documented about your center fielder. He is doing this because it is fun.",
+      "origin": "Documented in multiple sources. Durocher found Mays a home with a couple in Harlem during his first seasons with the Giants. The stickball games were regularly photographed by magazine photographers. The 'six sewers' measurement is documented in the New World Encyclopedia and other sources."
+    },
+    {
+      "title": "June 18, 2024",
+      "type": "Legacy",
+      "text": "Willie Mays dies on June 18, 2024, in Palo Alto, California, at the age of 93. The following day, June 19 — Juneteenth — the San Francisco Giants and St. Louis Cardinals play the Juneteenth Classic at Rickwood Field in Birmingham, Alabama, where Mays played for the Birmingham Black Barons as a teenager. The ceremony that was planned as a celebration of his return becomes a tribute to his life. He was one day short of completing the circle. He played at Rickwood Field before anyone knew his name. Now everyone knows his name and he cannot come back. The circle remains open by one day.",
+      "origin": "Willie Mays died June 18, 2024. The Juneteenth Classic at Rickwood Field was played June 19, 2024. Mays had been expected to participate. Multiple sources document the timing and the tribute that replaced the planned celebration."
+    },
+    {
+      "title": "They Invented the All-Star Game",
+      "type": "Legacy",
+      "text": "Ted Williams says: 'They invented the All-Star Game for Willie Mays.' Willie Mays plays in 24 All-Star Games — tied with Hank Aaron and Stan Musial for the most in baseball history. He wins the All-Star Game MVP twice. He scores 23 career All-Star Game hits and 6 stolen bases — the all-time records for both. Ted Williams played in 19 All-Star Games. He knows what he is talking about.",
+      "origin": "Ted Williams's quote is documented in the Baseball Almanac and multiple sources. Mays played in 24 All-Star Games, tied with Aaron and Musial for the most in history. He holds the All-Star career records for hits (23) and stolen bases (6)."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'10\", 170 lbs — the perfect athletic body for baseball, built for speed and power simultaneously in proportions that neither dominates. In 1954 he is 23 years old and returning from two years of Army service, leading the National League in batting average and slugging percentage simultaneously, making over-the-shoulder catches in the World Series that would be shown for the next 70 years. The face is the face of joy operating at maximum capacity — not the forced performance of charisma but the natural expression of someone who is doing exactly what they were born to do.",
+    "attire": "New York Giants home whites — the distinctive NY logo, number 24. The right-handed CF stance — ready to move in any direction, the basket catch glove position that he learned in the Army and perfected over three years. The hat that will fly off his head as he runs toward The Catch.",
+    "mood": "Pure joy at full power. Durocher: 'He lit up the room when he came in.' The Mays mood is the mood that other players described as a physical presence — the atmosphere changed when he arrived. In 1954 he is 23 years old and has already been declared by his manager to be the best player alive. He agrees, though he won't say it directly. He will say: 'I don't mean to be bashful, but I was.'",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. The Polo Grounds in the background — the deep center field where The Catch was made, the vast expanse that the best CF of any era needed to patrol. The Harlem streets are encoded in the posture, not the background.",
+    "reference": "Durocher's complete description is the art direction: 'He could do the five things you have to do to be a superstar: hit, hit with power, run, throw, and field. And he had that other ingredient that turns a superstar into a super superstar. He lit up the room when he came in. He was a joy to be around.' The portrait should show the player who lit up the room — and the specific room he lit up was the Polo Grounds in 1954, in a World Series that the Cleveland Indians (111 wins) were supposed to win."
+  }
+}
