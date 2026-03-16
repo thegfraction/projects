@@ -1,0 +1,203 @@
+{
+  "card_type": "player",
+  "name": "Ernie Banks",
+  "nickname": "Mr. Cub / Mr. Sunshine",
+  "year": 1958,
+  "team": "Chicago Cubs",
+  "league": "National League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "SS",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'1\"",
+  "weight": "180 lbs",
+  "born": "January 31, 1931 — Dallas, TX",
+  "died": "January 23, 2015 — Chicago, IL",
+  "hof": "Class of 1977 (BBWAA, first ballot, 83.8%)",
+
+  "real_stats": {
+    "season": 1958,
+    "games": 154,
+    "at_bats": 617,
+    "hits": 193,
+    "doubles": 23,
+    "triples": 11,
+    "home_runs": 47,
+    "rbi": 129,
+    "stolen_bases": 4,
+    "runs": 119,
+    "batting_avg": ".313",
+    "obp": ".366",
+    "slg": ".614",
+    "ops": ".980",
+    "ops_plus": 168,
+    "war": 9.4,
+    "all_star": 14,
+    "gold_gloves": 1,
+    "awards": "NL MVP 1958. First MVP winner in NL history on a below-.500 team. Led NL in HR (47 — NL SS record, stood until Steroid Era), RBI (129), total bases (379 — all-time NL SS record), slugging (.614). NL MVP again in 1959 (.304 / 45 HR / 143 RBI, WAR 10.2 — sixth all-time for a SS). First NL player to win consecutive MVP awards. From 1955-1960, Banks hit more home runs than any player in baseball — surpassing Mays, Mantle, and Aaron. 5 seasons of 40+ HR as a shortstop. Led NL in fielding percentage at SS three times. Gold Glove 1960. Set SS fielding percentage record of .985 in 1959. 14 All-Star Game appearances. 424 consecutive games from career start (ML record at time). 717-game consecutive games streak (1956-1961). Career: 512 HR, 2,583 hits, .274 BA. 2,528 career games — MLB record for most games without a postseason appearance. First Black player in Cubs history (September 17, 1953). Number 14 retired by Cubs in 1982, first Cub so honored.",
+    "negro_leagues": "Kansas City Monarchs, Negro American League (1950, 1953). Recruited by Cool Papa Bell and Buck O'Neil at age 17-18 after being discovered in a church softball league in Dallas. Under manager Buck O'Neil. Hit .255 in 1950 first year; .347 in 1953 after Army service. Jackie Robinson invited Banks on the Jackie Robinson All-Stars tour in 1950 and personally taught him the mechanics of turning a double play. Banks: 'Playing for the Kansas City Monarchs was like my school, my learning, my world. It was my whole life.' Cubs paid approximately $10,000-20,000 for his contract from the Monarchs. Banks went directly from the Monarchs to the major leagues — no minor league time, like Doby, Satchel Paige, and a handful of others.",
+    "world_series": "None. 2,528 career games played — the MLB record for most games played without a single postseason appearance. In 19 seasons (1953-1971), the Chicago Cubs finished fifth or below in the NL standings during his prime years. In 1969, the Cubs held an 8.5-game division lead in August and collapsed, finishing second. Banks never played in October. He held the record for most career games without a postseason appearance when he retired; he still holds it. His two MVP seasons (1958, 1959) came while the Cubs finished 5th in the NL both years.",
+    "career_avg": ".274",
+    "career_hits": 2583,
+    "career_hr": 512,
+    "career_war": 67.6,
+    "career_rbi": 1636,
+    "career_notes": "19 seasons (1953-1971), all with Chicago Cubs. SS 1953-1961, 1B 1962-1971. .274/.330/.500 career, 67.6 WAR. 512 HR (15th all-time at retirement). 2,583 hits. 5 seasons of 40+ HR. 2 NL MVP awards (1958, 1959). 14 All-Star appearances. 1 Gold Glove (1960). Led NL in HR twice (1958, 1960), RBI twice (1958, 1959). 2,528 career games — ML record without postseason appearance. Number 14 retired by Cubs. Presidential Medal of Freedom (2013). Statue at Wrigley Field (2008). Died January 23, 2015 in Chicago; buried at Graceland Cemetery, less than half a mile from Wrigley Field."
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "con": 5,
+    "pow": 5,
+    "spd": 0,
+    "def": 2,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": ".313 BA (1958). OPS+ 168 clears the 130+ bonus: base band 4 + bonus = CON 5. The contact was sustained and real: .300+ in five seasons, career .274 over 19 seasons, never a strikeout-heavy profile. Ralph Kiner worked with Banks on his quick wrists and seeing the ball deep into the zone — the batting eye was the foundation of the power production. CON 5 reflects both the 1958 peak and the career-long contact quality.",
+    "pow": "47 HR (1958), ML leader. SLG .614 clears the .500 bonus: base band 4 + bonus 1 = POW 5. NL SS record for HR in a season (stood until Steroid Era). 379 total bases (all-time NL SS record). From 1955-1960, Banks hit more HR than any player in baseball — more than Mays, Mantle, Aaron. 5 seasons of 40+ HR entirely as a shortstop. The power is the defining attribute of the card and the most unusual statistical fact in the set: a shortstop at POW 5. First SS at POW 5.",
+    "spd": "4 SB in 1958. Career 50 SB over 19 seasons. SPD 0 by formula and by historical reality — Banks was a power hitter who did not run. SPD 0 at SS is unusual; the position typically selects for athleticism and range. Banks's defensive value came from footwork, positioning, and wrists (the same quick-wrist mechanics that powered his HR), not from foot speed. The first CON 5 / POW 5 / SPD 0 / SS combination in the set.",
+    "def": "Three times NL fielding percentage leader at SS. Gold Glove 1960 (first year GG was awarded at SS). Set SS fielding percentage record of .985 in 1959. Above-average range — the BR Bullpen: 'above average in range and fielding percentage, though it is never given the credit due.' DEF 2 reflects well-documented elite defensive SS performance without reaching the transcendent DEF 3 tier (reserved for Mays-level universal recognition). Banks was very good; he was not the defensive icon Mays was or Robinson was.",
+    "clu": "0. Banks played 2,528 career games — the ML record for most games without a postseason appearance. Both MVP seasons (1958, 1959) came while the Cubs finished 5th in the NL. In 19 seasons, the Cubs reached the postseason exactly zero times. CLU 0 is the honest rendering of a career spent entirely outside October. The CLU 0 reduces OVR from the raw 10 (which his offensive stats warrant) to OVR 9 — the no-postseason penalty makes the gap between Banks's individual excellence and his franchise's failures legible in the stat line. No other card in the set has CON 5 / POW 5 / CLU 0."
+  },
+
+  "personality": {
+    "leadership_style": "Joy as practice. Banks arrived at the ballpark each morning as if the Cubs had a chance, regardless of the standings. Mayor Daley called him 'an incurable optimist.' He did not perform the optimism — it was structural. His annual slogans ('The Cubs will be great in '68,' 'The Cubs will shine in '69') were not cynical: he believed them, said them publicly, and endured the results without visible bitterness. The leadership was the model: you can love a losing enterprise fully and without reservation if the enterprise deserves your love.",
+    "temperament": "Serene and resilient. His father had to pay him a nickel to play catch. Basketball was his first love. The game found him through a church softball league. By the time he was at Wrigley Field in 1953, he was playing a sport he had come to through indirect routes, and the indirection showed: he never confused the game with its outcomes. 'Let's play two' is not the slogan of a man who thinks winning is the point. It is the slogan of a man who thinks playing is the point.",
+    "work_ethic": "Ralph Kiner, working with Banks on his swing in the early years, taught him to see the ball deep and respond with quick wrists. That single technical adjustment unlocked everything: the 47 HR in 1958, the NL SS record, the two MVP awards. The wrist mechanics were learned, not natural. The discipline to apply them game after game across 2,528 games — that was Banks's work ethic. He led the NL in games played six times in a seven-year period (1954-1960), appearing in 1,068 of a possible 1,086 Cubs games.",
+    "lifestyle": "Dallas to the Kansas City Monarchs to Chicago, and never leaving Chicago. He opened the first Black-owned Ford dealership in America on Chicago's south side. He became an ordained minister. He established a foundation for healthcare access for children and the elderly. He was buried less than half a mile from Wrigley Field. When he died in January 2015, his final wishes were disputed: his caretaker said he wanted his ashes scattered over Wrigley; his ex-spouse's will did not reflect this. Even in death, the question of whether he would be at Wrigley remained open.",
+    "era_adaptability": "MAXIMUM as a power hitter, but the SS at POW 5 profile is uniquely mid-century. In any era, the quick-wrist mechanics and contact quality would produce. In the modern era, the positional rarity would make him even more valuable: a .313 hitter with 47 HR at shortstop would be the most valuable player in baseball in any era, not just 1958.",
+    "dark_side": "The Cubs. The record. 2,528 games. The 1969 collapse from 8.5 games up in August. The annual slogans that never came true. Banks said in his memoir he did not regret signing with the Cubs rather than a winning franchise — and the historical record suggests he meant it. But the regret belongs to the record, not the man. The dark side is the institution, not the player. Leo Durocher reportedly disliked Banks from the moment he arrived as manager in 1966 — would try to bench him, give his job to younger players; Banks would win it back. The friction between the manager who wanted to win at any cost and the aging icon who represented everything the franchise had not won is the dark side rendered in a personnel dispute."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Let's Play Two",
+      "desc": "The most famous catchphrase in baseball. In ILB, Banks's presence in any lineup generates a team-wide morale bonus at the start of every doubleheader. The joy is structural, not situational — it does not require a winning record to activate."
+    },
+    {
+      "tag": "The No-October Record",
+      "desc": "2,528 career games without a postseason appearance — the ML record. In ILB, this is encoded inversely: Banks's CLU 0 activates a unique mechanic where his individual stats in any simulation remain at full peak, but the team around him will never automatically qualify for a championship series. The best player on the worst team, always."
+    },
+    {
+      "tag": "Quick Wrists",
+      "desc": "Ralph Kiner taught Banks to see the ball deep and respond with quick wrist snap — the mechanical adjustment that produced the NL SS home run record. In ILB, Banks generates an additional +0.5 POW bonus in any late-count (2-strike) situation, representing the deep-look discipline that made the power work."
+    },
+    {
+      "tag": "Buck O'Neil's Shortstop",
+      "desc": "Banks played under Buck O'Neil at the Kansas City Monarchs in 1953. O'Neil was his first professional manager. Cool Papa Bell recruited him; O'Neil developed him. In ILB, when any Monarchs-lineage card is in the same game, Banks receives the mentorship bonus from the Negro Leagues chain."
+    },
+    {
+      "tag": "Robinson's Double Play Lesson",
+      "desc": "In 1950, Banks toured with the Jackie Robinson All-Stars. Robinson personally taught him the mechanics of turning a double play. Both are Dreamers 1950 cards. In ILB, when Banks and Robinson are on the same roster, Banks receives a DEF +0.5 at 2B — the specific skill Robinson taught him."
+    },
+    {
+      "tag": "The Chicago Mirror",
+      "desc": "Banks was the first Black player in Cubs history (1953). Miñoso was the first Black player in White Sox history (1951). Both are Dreamers 1950 cards. In ILB, when Banks and Miñoso appear in the same game, both receive a historical resonance bonus — the two men who integrated Chicago baseball in the same decade."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Community Events",
+      "affinity": "SACRED",
+      "note": "Wrigley Field. The statue since 2008, the only one. Number 14 retired in 1982, first Cub honored. Buried less than half a mile up Clark Street from the park. He wanted his ashes scattered over Wrigley. The SACRED is also the request that may not have been honored.",
+      "note_extra": "Source labeled 'Wrigley Field / Statue / Number 14 / Graceland Cemetery / Ashes Dispute' / affinity 'SACRED' — twentieth SACRED in the set. Banks's SACRED is the most personally attached in the set — not a monument to a single game moment (like Aaron's Fulton County Stadium) or a distributed day (like Robinson's April 15), but a literal lifelong address. Banks played all 2,528 of his ML games at or away from Wrigley Field, but only ever in the Cubs organization. Number 14 was the first number ever retired by the Cubs organization (1982). The first Cubs player to receive a statue at Wrigley (2008). Buried at Graceland Cemetery, less than half a mile north of Wrigley up Clark Street. When Banks died on January 23, 2015 — one day shy of his 84th birthday — his final wishes were disputed: his longtime caretaker said Banks had expressed a wish to have his ashes scattered over Wrigley Field; the terms of his most recent will, which his ex-spouse sought to enforce, did not include this wish. The dispute was litigated. The SACRED is the ballpark that claimed him in life and was disputed in death. The HOF dedication: 'Perhaps no player defines his team as thoroughly as Mr. Cub.' The Friendly Confines of Wrigley Field, the last outpost of exclusively day baseball — Banks played his entire career in the daylight, never under Wrigley's lights (they weren't installed until 1988)."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "HOME",
+      "note": "The Friendly Confines. Day baseball only. Every morning at the ballpark a reason to say it. 'It's a beautiful day for a ballgame. Let's play two.' The HOME is not the wins. The HOME is the game itself.",
+      "note_extra": "Source labeled 'Day Baseball / Wrigley Daily Affinity / Let-s Play Two / No Night Games / Incurable Optimist' / affinity 'HOME' — first standalone HOME affinity deployed in the set. Banks's HOME is structurally different from the SACREDs around him: it is not about a monument or a moment but about the daily condition of playing baseball at the same ballpark for 19 years. The HOF entry: 'His sunny disposition was perfect for the Friendly Confines of Wrigley Field, last outpost of exclusively day baseball.' Banks played his entire career in daylight. There were no lights at Wrigley Field until 1988 — 17 years after Banks retired. The HOME affinity is also the 'Let's play two' energy: the expression of a man who wanted more of the game, not more of the winning. The Practice Field domain reflects this — not the game itself but the orientation before the game, the readiness for the game, the daily anticipation. Mayor Richard J. Daley called Banks 'an incurable optimist.' The HOME is that incurability encoded as a location affinity."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "NIGHTMARE",
+      "note": "2,528 games. No October. The 1969 collapse from 8.5 games up. The annual slogans. The record that no one wanted to hold.",
+      "note_extra": "Source labeled '2528 Games / No Postseason / 1969 Collapse / Annual Slogans / ML Record' / affinity 'NIGHTMARE' — second or third NIGHTMARE in the set. Banks's NIGHTMARE is the most structurally documented in baseball history: MLB record for most career games without a postseason appearance. The record is not about a single failure but about sustained institutional failure across 19 seasons. The 1969 season is the peak of the NIGHTMARE: the Cubs held an 8.5-game lead in August and collapsed, finishing second to the 'Miracle Mets.' Banks hit .253 with 23 HR in 1969 at age 38 — he did his part. The team did not. His annual slogans ('The Cubs will be great in 68,' 'The Cubs will shine in 69') read now as documents of impossible optimism meeting structural impossibility. The NIGHTMARE is the gap between the man and the franchise — the best individual talent in the NL from 1955-1960 (more HR than Mays, Mantle, Aaron) on the worst team in the NL. Community Events domain: the NIGHTMARE is not private — it was performed publicly each season in front of the Chicago fans who also never saw Banks in October."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Dallas, Texas. Twelve children. A father who paid a nickel to play catch. A church softball league. Cool Papa Bell. The Kansas City Monarchs as school, learning, world.",
+      "note_extra": "Source labeled 'Dallas / Church Softball / Nickel to Play Catch / Cool Papa Bell / Buck O-Neil / Monarchs as School' / affinity 'ORIGIN' — twenty-third ORIGIN in the set. Banks's is the most indirectly arrived-at ORIGIN in the set. Unlike Aaron (who practiced by hitting bottle caps) or Mays (who was born into baseball through three generations), Banks actively resisted baseball as a child. His father had to pay him a nickel to play catch. Basketball was his first love — he averaged nearly 20 points per game in high school and could have played for the Harlem Globetrotters. His school had no baseball program. His route to the game ran through a church softball league, where a scout named Bill Blair saw him and recommended him to Cool Papa Bell. Bell recommended him to Buck O'Neil. O'Neil offered him a spot with the Kansas City Monarchs at age 17-18 after he completed high school. His father Eddie had played for the Dallas Green Monarchs and Black Giants — the baseball blood was there, but the son had to find it on his own. Banks: 'Playing for the Kansas City Monarchs was like my school, my learning, my world. It was my whole life.' The ORIGIN is the discovery of a vocation through an indirect route: the boy paid a nickel to play catch who became the most beloved player in the history of the Chicago Cubs."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "COMPLEX",
+      "note": "Leo Durocher (1966-1972). The manager who reportedly disliked Banks from arrival — would try to bench him, give his position to younger players. Banks would win it back. The friction between the aging icon and the man who wanted to win at any cost.",
+      "note_extra": "Source labeled 'Leo Durocher / Bench Threat / Win It Back / Constant Friction / Ferguson Jenkins Account' / affinity 'COMPLEX' — eleventh COMPLEX in the set. Banks's is the most personnel-specific COMPLEX in the set — not an injury, not a psychological constraint, not a physical condition, but a management relationship. Durocher arrived as Cubs manager in 1966 when Banks was 35, still a productive player but clearly in decline from his 1958-1960 peak. The BR Bullpen: 'Durocher disliked Banks from the get-go. He was just too big a name for Leo. Ferguson Jenkins remembered that Durocher and Banks feuded constantly. Leo would give his job away, and Banks would win it back.' Banks was named a player-coach in 1967, a partial concession. He remained a starting 1B through 1969. The COMPLEX is the tension between the franchise symbol and the impatient manager: Durocher wanted to win, believed Banks was holding a spot a better younger player could occupy, and was constrained by Banks's iconic status with the ownership and fans. Banks endured the friction without visible public bitterness — consistent with his overall temperament. The Hotel/Rest domain reflects the private nature of the conflict: the dugout, the manager's office, the daily negotiation over a roster spot that was never truly at risk but was never truly secure."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Doubleheaders — the Let's Play Two trait activates for all doubleheaders; the morale bonus is unconditional.",
+      "Late-count situations — Quick Wrists trait: +0.5 POW at 2-strike counts. The 47 HR in 1958 were built on deep-look discipline.",
+      "Wrigley home games — HOME affinity activates; the Friendly Confines day-baseball energy is the optimal condition.",
+      "Monarchs-lineage teammates — Buck O'Neil's Shortstop trait activates when any player in the set with a Kansas City Monarchs connection is in the game."
+    ],
+    "cold_triggers": [
+      "October / postseason context (historical) — CLU 0 is the structural cold. Banks never got here. The cold trigger is the absence of trigger.",
+      "Night games — Banks played his entire career in daylight. Wrigley lights were installed in 1988; Banks retired in 1971. The night-game cold is historical.",
+      "Durocher managing — the COMPLEX activates; Banks's stats do not degrade but his role security becomes conditional on performance rather than status.",
+      "August collapses — the 1969 NIGHTMARE pattern: peak performance in the regular season, no conversion to postseason."
+    ],
+    "pressure_response": "Banks won two consecutive MVP awards on a fifth-place team. The pressure response is the most unusual in the set: he performed at peak under the pressure of leading a franchise that could not support him to October, year after year, for 19 years, while maintaining the 'Let's play two' disposition publicly and the 2,528-game attendance streak internally. That is not the absence of pressure — that is a specific kind of pressure, sustained and unresolved, absorbed and converted into daily presence at the ballpark. The 1969 collapse is the pressure response's negative: an 8.5-game August lead that dissolved without Banks's performance being the cause."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "A Nickel to Play Catch",
+      "type": "Origin",
+      "text": "His father wants him to play baseball. His son would rather play basketball. His father offers him a nickel to play catch. The son takes the nickel. He throws and catches. He is not interested in this. He will become the greatest shortstop in the history of the National League. His father does not know this yet. Neither does the son. A nickel changes hands. The Wrigley Field statue begins, thirty years from now, at this moment.",
+      "origin": "Documented in the EBSCO Research Starters biography: 'as a child, Banks had little interest in baseball; his father reportedly had to pay him a nickel to play catch. Basketball was his first love.' The statue outside Wrigley Field has stood since 2008."
+    },
+    {
+      "title": "The Kansas City Monarchs Were My School",
+      "type": "Origin",
+      "text": "Cool Papa Bell sees him playing and recommends him to Buck O'Neil. O'Neil offers him a spot with the Kansas City Monarchs if he finishes high school. He finishes high school. He joins the Monarchs. He hits .255 in his first year. Jackie Robinson invites him on the All-Stars tour and teaches him how to turn a double play. He is drafted into the Army. When he comes back, he hits .347. He says later: 'Playing for the Kansas City Monarchs was like my school, my learning, my world. It was my whole life.' The Cubs pay ten thousand dollars for him. He goes to Chicago without playing a single minor league game.",
+      "origin": "Documented in the NLBM biography and multiple sources. Banks's quote about the Monarchs is widely cited. The Cool Papa Bell / Buck O'Neil / Jackie Robinson chain is documented. He went directly from the Monarchs to the major leagues."
+    },
+    {
+      "title": "Let's Play Two",
+      "type": "Legacy",
+      "text": "Every morning. Every day. For nineteen years. The Cubs have not won a pennant since before he was born. They will not win one while he plays. He comes to Wrigley Field each day and says it: 'It's a beautiful day for a ballgame. Let's play two.' He says it at his Hall of Fame induction. He means it. The Chicago Cubs are not a baseball team. They are a reason to play baseball. He has never confused these two things.",
+      "origin": "Banks's catchphrase is among the most famous in baseball history. He reprised it at his 1977 Hall of Fame induction speech, documented in the HOF biography. The Cubs last won a pennant in 1945, eight years before Banks's debut. He retired in 1971; they did not win until 2016."
+    },
+    {
+      "title": "47",
+      "type": "Game Action",
+      "text": "In 1958, your shortstop leads the major leagues in home runs with 47. No shortstop in National League history has ever hit that many in a single season. The record will stand for almost half a century, until the Steroid Era of the late 1990s. Your shortstop also leads the league in RBI (129), slugging percentage (.614), and total bases (379 — an all-time NL shortstop record). He wins the Most Valuable Player Award. His team finishes in fifth place. He does this on quick wrists and a 34-ounce bat.",
+      "origin": "1958 season statistics are documented. Banks's 47 HR is still the NL SS record. He led the NL in HR, RBI, SLG, and total bases. The Cubs finished 5th. Banks won the MVP — the first time in NL history a below-.500 team's player won the award."
+    },
+    {
+      "title": "The 1969 Cubs",
+      "type": "Drama",
+      "text": "August 1969. The Cubs have an 8.5-game lead in the NL East. Your shortstop-turned-first-baseman is 38 years old. He has been waiting for this moment for 16 years. The lead disappears. The Mets win the NL East and go on to win the World Series. The Cubs finish second. Your first baseman finishes the season with 23 home runs. He does not retire. He comes back in 1970. He comes back in 1971. He says: 'The Cubs will be great next year.' He always says this.",
+      "origin": "The 1969 Cubs collapse is one of the most documented moments in baseball history. Banks hit .253 with 23 HR in 1969 at age 38. The Cubs held an 8.5-game lead in August. The Mets won the NL East. Banks returned for two more seasons (1970, 1971) before retiring."
+    },
+    {
+      "title": "The Ashes",
+      "type": "Legacy",
+      "text": "He is buried at Graceland Cemetery in Chicago, less than half a mile up Clark Street from Wrigley Field. Before he dies, he tells his caretaker that he wants his ashes scattered over Wrigley. His ex-spouse has a will that does not include this wish. The dispute is litigated. The question of whether he would be at Wrigley in the end mirrors the question of whether he would be at Wrigley in October, which was never answered. He is half a mile away. That is the distance.",
+      "origin": "Documented in the BR Bullpen entry and multiple obituaries. Banks died January 23, 2015. The ashes dispute between his caretaker and his ex-spouse is documented. Graceland Cemetery is located on Clark Street, the same street as Wrigley Field, less than half a mile north of the park."
+    },
+    {
+      "title": "2,528",
+      "type": "Legacy",
+      "text": "He plays 2,528 games. This is the most games any player in major league baseball history has played without appearing in a single postseason game. He is Mr. Cub. He is the Cubs' all-time leader in games, at-bats, home runs, total bases, and extra-base hits. He is the only player in Cubs history to have his number retired for decades before a World Series was won. The number is 14. The record is 2,528. The record will stand until there is a player more devoted to a losing franchise than Ernie Banks was devoted to the Chicago Cubs, which may never happen.",
+      "origin": "Banks's 2,528 career games without a postseason appearance is the ML record, documented in the Baseball Almanac. He remains the Cubs' all-time leader in multiple offensive categories. Number 14 was retired in 1982. The Cubs won the World Series in 2016, 45 years after Banks retired."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'1'', 180 lbs — the build of a high school basketball star who found baseball in a church softball league. In 1958 he is 27 years old, the best shortstop in the NL, the league's HR leader, the MVP on a fifth-place team. The face in the card year has not yet performed the optimism that will define his public image — it is the face before the slogans became annual rituals of beautiful futility. It is the face of a player who is simply very good and whose team is very bad.",
+    "attire": "Chicago Cubs home whites — the distinctive Cubs logo, number 14. The SS stance, the quick-wrist setup at the plate that Kiner taught him. The wrists that hit 47 home runs from the shortstop position.",
+    "mood": "Serene and fully present. The 'Let's play two' energy is not performed here — it is the condition before the performance, the daily readiness for the game regardless of what the game is likely to produce. The portrait should show the player who wanted to play more baseball, not the player who wanted to win more baseball.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Wrigley Field in the background — the ivy, the bleachers, the particular light of a Chicago afternoon when there are no lights because it is 1958 and there are never lights at Wrigley. The only ballpark in the set that appears in daylight because it was the only ballpark he ever played in.",
+    "reference": "The HOF biography: 'Perhaps no player defines his team as thoroughly as Mr. Cub.' The portrait should show the player who could have gone somewhere else — Robinson and Doby were after him, the Giants were interested, the Dodgers — and stayed. The face of a man who chose Wrigley and never reconsidered."
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "card_type": "player",
+  "name": "Duke Snider",
+  "nickname": "The Duke of Flatbush / The Silver Fox",
+  "year": 1955,
+  "team": "Brooklyn Dodgers",
+  "league": "National League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "CF",
+  "bats": "L",
+  "throws": "R",
+  "height": "6'0\"",
+  "weight": "179 lbs",
+  "born": "September 19, 1926 — Los Angeles, CA",
+  "died": "February 27, 2011 — Escondido, CA",
+  "hof": "Class of 1980 (BBWAA, 86.5%, eleven years on ballot)",
+
+  "real_stats": {
+    "season": 1955,
+    "games": 148,
+    "at_bats": 538,
+    "hits": 166,
+    "doubles": 34,
+    "triples": 6,
+    "home_runs": 42,
+    "rbi": 136,
+    "stolen_bases": 9,
+    "runs": 126,
+    "batting_avg": ".309",
+    "obp": ".418",
+    "slg": ".628",
+    "ops": "1.046",
+    "ops_plus": 166,
+    "war": 8.7,
+    "all_star": 8,
+    "gold_gloves": 0,
+    "awards": "NL RBI leader (136), NL runs leader (126) in 1955. World Series champion 1955. 4 HR in 1955 World Series — second time hitting 4 HR in a single World Series (first was 1952), the only player to accomplish this feat twice. Sporting News NL Player of the Year 1955. Lost NL MVP 226-221 to teammate Campanella — a five-point margin due to a hospitalized Philadelphia writer's ballot that the BBWAA ruled could not be amended; had the ballot been disallowed, Snider would have won 221-212. Hit 40 or more HR in five consecutive seasons (1953-1957). Hit more HR during the 1950s (326) than any other player in baseball, including Mays, Mantle, and Aaron. NL career records for World Series HR (11), RBI (26), and total bases (79). Only player in baseball history to hit four home runs in two different World Series (1952 and 1955). Hit the last home run in Ebbets Field history (September 22, 1957, off Robin Roberts). Career 19 HR off Roberts — more than any batter off any single pitcher in ML history.",
+    "world_series": "6 WS appearances (1949, 1952, 1953, 1955, 1956, 1959). 2 WS championships — 1955 (Brooklyn) and 1959 (Los Angeles). Career WS: .286 BA, 11 HR (NL record), 26 RBI (NL record), .594 SLG in 36 games. 1955 WS: .320 / 4 HR / 7 RBI in 7 games. In Game 6 at Yankee Stadium, stepped on a wooden sprinkler cover in the outfield and twisted his left knee; was forced to leave after three innings. Played anyway in Game 7. Johnny Podres shut out the Yankees 2-0 to give Brooklyn its only World Series championship. Snider was the last living Brooklyn Dodger who was on the field for the final out when he died in 2011.",
+    "career_avg": ".295",
+    "career_hits": 2116,
+    "career_hr": 407,
+    "career_war": 66.0,
+    "career_rbi": 1333,
+    "career_notes": "18 seasons (1947-1964). Brooklyn/Los Angeles Dodgers (1947-1962), New York Mets (1963), San Francisco Giants (1964). .295/.380/.540 career, 66.0 WAR. 407 HR, 2,116 hits. Led all hitters in HR and RBI in the 1950s decade. Ebbets Field career: .313/.396/.603, HR every 16.7 PA. The Coliseum collapse: 40 HR in 1957 to 15 in 1958, driven by the 440-foot right-center fence and knee injuries. Died February 27, 2011. The last living Brooklyn Dodger on the field for the final out of the 1955 World Series."
+  },
+
+  "ilb_stats": {
+    "ovr": 10,
+    "con": 5,
+    "pow": 5,
+    "spd": 1,
+    "def": 2,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "con": ".309 BA (1955). OPS+ 166 clears the 130+ bonus: base band 4 + bonus = CON 5. Ebbets Field career .313/.396/.603. The contact at Ebbets was structurally assisted — 297-foot right-field fence for a left-handed pull hitter — but the plate discipline (OBP .418 in 1955) was genuine. Career .295 over 18 seasons. CON 5 reflects both the peak performance in 1955 and the OPS+ that validates the bonus.",
+    "pow": "42 HR (1955). SLG .628 clears the .500 bonus: base band 4 + bonus 1 = POW 5. Hit more HR in the 1950s (326) than Mays, Mantle, or Aaron — the most prolific power decade of any player in baseball. Five consecutive 40+ HR seasons (1953-1957). Career record: 19 HR off Robin Roberts alone. 92% of career HR came against right-handed pitchers. POW 5 is the correct rendering of the decade's HR leader.",
+    "spd": "9 SB in 1955 (6-15 range = SPD 1). Described by contemporaries as a five-tool player with 'springs in his legs' and genuine speed. The modest stolen base totals reflect team strategy and era, not physical limitation. SPD 1 is the formula-correct reading of the card year; the speed is real but secondary to the power profile.",
+    "def": "Highly regarded defensively — Ralph Kiner: 'I would say Duke covers more ground, wastes less motion, and is more consistent than anyone since DiMaggio.' The 1954 Connie Mack Stadium catch (climbing the fence, one-handed, twelfth inning, potential tying and winning runs on base) was compared favorably by contemporaries to Mays's WS Catch. Strong arm. One documented structural weakness: rarely charged groundballs, allowing runners to take extra bases consistently. DEF 2 reflects exceptional CF defense with one chronic flaw — below the transcendent DEF 3 tier (Mays, Robinson) and at the same level as Aaron and Doby.",
+    "clu": "6 WS appearances, 2 championships. NL career records for WS HR (11), RBI (26), total bases (79). The only player to hit four home runs in two different World Series (1952 and 1955). WS career .286 BA with .594 SLG across 36 games. CLU 3 reflects the deepest sustained postseason offensive production by any NL position player in this era — six appearances, eleven home runs, the defining clutch record of the Boys of Summer era."
+  },
+
+  "personality": {
+    "leadership_style": "Beautiful and combustible. Snider was the biggest bat in a lineup that included Robinson, Campanella, Hodges, and Reese — he was the power source, the cleanup hitter, the man opposing pitchers feared. But the leadership was uneasy: he was described as 'immature, moody, and temperamental' in his early career, and the big-mouth incidents (worst fans, money not fun) complicated his standing with the Brooklyn public he genuinely loved. He was the hero of the 1955 WS who had called the Brooklyn fans the worst in the league that same year. The contradiction was never resolved.",
+    "temperament": "Mercurial. The petition refusal in 1947 — the second-year man outraged when Dodger veterans tried to block Robinson, refusing to sign on the grounds that he had grown up near Robinson in Southern California and admired his courage and athleticism — reveals the Snider beneath the big-mouth reputation. The same man who called the Brooklyn fans the worst in the league also ate with Robinson daily to ease the burden of the 1947 season. Both are authentic. He acknowledged his 'big mouth' in later interviews; it was not a character flaw but a character full of contradictions.",
+    "work_ethic": "Gifted rather than self-made. The pure left-handed swing that one writer called Beethoven, another the Louvre. The five-tool skill set that made him a Compton high school star in basketball, football, and baseball simultaneously. He did not work toward talent; he was given it and he expressed it. The late career decline — the knee injuries, the Coliseum wall — came because the infrastructure of his talent was physical, and physicality erodes.",
+    "lifestyle": "Compton to Brooklyn to Los Angeles and back to Southern California in the end. He married Beverly Null in 1947. He had a daily radio show as the biggest name on the Los Angeles Dodgers in 1958. He was fined a day's pay for trying to throw a ball over the LA Coliseum wall during warm-ups. He became a broadcaster for the Montreal Expos for 13 years after his career ended. He was the last Brooklyn Dodger on the field for the final out in 1955, and he was still alive and available to be interviewed about it until 2011 when he died at 84.",
+    "era_adaptability": "MAXIMUM at Ebbets Field. The park was architecturally his. At the Coliseum or in a modern park with deep dimensions, the same swing produced 15 HR instead of 42. This is the most park-dependent career in the set — the specific building on Bedford Avenue in Brooklyn was the condition of his greatness. In any era with symmetrical dimensions, Snider is a 30-HR player. In Ebbets Field, he is the decade's HR leader.",
+    "dark_side": "The mouth. 1955: called Brooklyn fans the worst in the league after being booed during a slump. 1956: 'I play baseball for money, not fun.' Both comments were honest, neither was careful, and both permanently marked his public image as ungrateful — particularly compared to the unimpeachable Campanella and the dignified Reese. He won the championship the same year he insulted the fans. He led the NL in RBI the same year he implied baseball was just a job. The dark side is the authentic self-expression of a complicated man who happened to play the sport beautifully while talking about it carelessly."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Ebbets Architecture",
+      "desc": "297-foot right-field fence, 40-foot screen, Bedford Avenue beyond. In ILB, when Snider plays at any home venue designated as a hitter's park (short RF fence for a LHB), his POW gains +0.5 and his HR rate increases by one tier. At neutral or pitcher's parks, this bonus does not apply — the Coliseum pattern is encoded."
+    },
+    {
+      "tag": "Four in Two",
+      "desc": "The only player to hit four home runs in two different World Series (1952, 1955). In ILB, once per championship series, Snider's CLU 3 activates a Four in Two trigger: if he hits his third WS HR of a series, roll for the fourth — 1-3 = fourth HR occurs, 4-6 = standard at-bat. No other card in the set has this trigger."
+    },
+    {
+      "tag": "The Last Brooklyn Homer",
+      "desc": "September 22, 1957. Two home runs off Robin Roberts — the last home runs ever hit in Ebbets Field. In ILB, when Snider plays the final game of any era (franchise move, ballpark closure), his last at-bat automatically generates a HR trigger: roll 1-4 = HR. He closes the ballpark the way he closed Ebbets."
+    },
+    {
+      "tag": "He Refused to Sign",
+      "desc": "In spring training 1947, Snider refused to sign Dixie Walker's petition against Jackie Robinson. He grew up near Robinson in Southern California and admired him. In ILB, Snider and Robinson on the same roster generate a mutual morale boost — the solidarity of 1947 becomes a mechanical bond."
+    },
+    {
+      "tag": "The New York Troika",
+      "desc": "Mays (Giants), Mantle (Yankees), Snider (Dodgers) — the three Hall of Fame CFs playing simultaneously in New York in the 1950s. In ILB, when all three appear in the same game, a Troika bonus activates: each generates +0.5 to their primary stat. The debate belongs to the era; the encounter belongs to the game."
+    },
+    {
+      "tag": "The Knee on the Sprinkler Cover",
+      "desc": "Game 6, 1955 World Series, Yankee Stadium: Snider stepped on a wooden sprinkler cover in the outfield and twisted his left knee. He played anyway in Game 7. In ILB, once per WS series, after a Snider injury trigger, he may continue playing at -1 to all physical stats but +1 to CLU — the championship context overrides the physical limit."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Community Events",
+      "affinity": "SACRED",
+      "note": "Ebbets Field. The 297-foot right field fence. The 40-foot screen. Bedford Avenue. The last HR in the building's history, September 22, 1957. The park that made him.",
+      "note_extra": "Source labeled 'Ebbets Field / 297-foot RF / Last HR / September 22 1957 / Robin Roberts / Bedford Avenue' / affinity 'SACRED' — twenty-first SACRED in the set. Snider's SACRED is the most architecturally specific in the set: not just a ballpark but the specific geometry that enabled his career. The right-field fence at Ebbets Field was 297 feet from home plate, with a 40-foot screen beyond which lay Bedford Avenue. For a left-handed pull hitter, this was a 337-foot effective wall — reachable with authority. Snider hit .313/.396/.603 at Ebbets over his career, with a home run every 16.7 plate appearances. Translated to 154 games, that rate produces approximately 38 HR per season, simply from the architecture. He is also the player who closed the building: two home runs off Robin Roberts of the Phillies on September 22, 1957 — the last homers ever hit at Ebbets Field. He was present for the building's entire run as a Dodger venue and was the last man to make it count offensively. The Community Events domain reflects the civic dimension: Ebbets Field was not a corporate stadium but a neighborhood institution, surrounded by the Irish, Italian, and Jewish working-class community of Brooklyn that made the Dodgers what they were. The SACRED is also the DAMNED's context: what the Coliseum was not, Ebbets Field was."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "COMPLEX",
+      "note": "The big mouth. The worst fans comment. The money-not-fun article. The man who refused the Robinson petition and ate with Robinson daily, and also called the Brooklyn fans the worst in the league and said he played for money, not fun.",
+      "note_extra": "Source labeled 'Worst Fans / Money Not Fun / Temperament / Robinson Petition Refusal / Contradiction' / affinity 'COMPLEX' — twelfth COMPLEX in the set. Snider's is the most publicly visible COMPLEX in the set — not an injury or a private psychological constraint but a documented series of public statements that contradicted each other and his own values. The 1947 petition refusal: second-year man Snider refused to sign Dixie Walker's petition against Robinson joining the team because he had grown up near Robinson in Southern California and idolized his athletic talents. He ate with Robinson and kidded with him at the batting cage daily in 1947 to ease the burden. These are the actions of a man of genuine character. Then 1955: during a hitting slump, Snider told reporters that Brooklyn fans were the worst in the league and did not deserve a pennant. He won the championship the same year. Then 1956: the Collier's article 'I Play Baseball for Money, Not Fun,' written with Roger Kahn, created a backlash that reinforced the perception of Snider as ungrateful and immature. He acknowledged his 'big mouth' in later years. The SABR BioProject: 'But for all Snider's gifts, he was immature, moody, and temperamental.' The COMPLEX is the authentic self — both the petition-refusing solidarity of 1947 and the worst-fans combustibility of 1955 are real. They exist in the same person. Community Events domain: the COMPLEX was performed publicly, in newspapers and magazines, in front of the city that adored him."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Compton, California. The father who gave him his name because he strutted like royalty at age 5. The sports polymath — basketball, football (QB who could throw 70 yards), baseball. The scout who found him. The Navy years that delayed everything by two seasons.",
+      "note_extra": "Source labeled 'Compton / Duke Nickname / QB Arm / Navy Service / Tom Downey Scout / Compton Near Pasadena' / affinity 'ORIGIN' — twenty-fourth ORIGIN in the set. Snider's ORIGIN contains the deepest Southern California athletic context in the set: born in Los Angeles, raised in Compton, the same South Bay working-class town where the prewar and early postwar youth sports culture was producing multi-sport stars. His father nicknamed him 'Duke' when he was 5 years old because he strutted around with enough confidence that his parents said he moved like royalty — and the name stuck for the rest of his life. He was a basketball player, a football player (a strong-armed QB reportedly able to throw 70 yards), and a baseball player at Compton High School. Branch Rickey's scout Tom Downey found him there and signed him at 17 in 1943. He entered the US Navy in 1945 and missed the full 1945 season and most of 1946 — the ORIGIN contains the two lost years that positioned him behind his contemporaries. The specific Compton/Pasadena geography is also the Robinson connection: Robinson grew up in Pasadena, a few miles from Compton, and Snider's admiration for him was grounded in specific geographic and cultural proximity — they were from the same place."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HAUNTED",
+      "note": "Game 6, 1955 World Series, Yankee Stadium. The wooden sprinkler cover in the outfield. The twisted knee. Three innings and then the dugout. Playing anyway in Game 7.",
+      "note_extra": "Source labeled 'Yankee Stadium Sprinkler Cover / Game 6 1955 WS / Twisted Knee / Game 7 Played Through' / affinity 'HAUNTED' — eleventh HAUNTED in the set. Snider's is the only HAUNTED in the set that occurs during a championship game. In Game 6 of the 1955 World Series at Yankee Stadium, Snider stepped on a wooden sprinkler cover embedded in the outfield grass and twisted his left knee badly enough that he was forced to leave the game after three innings. The Dodgers lost Game 6, tying the Series at 3-3. Despite the injury, Snider was in the lineup for Game 7. He went 0-for-3 as Johnny Podres shut out the Yankees 2-0 — the only shutout in a Brooklyn Dodgers World Series Game 7 in franchise history. The Hotel/Rest domain is the Yankee Stadium outfield in the evening of October 4, 1955: a piece of infrastructure in an opponent's ballpark that ended Snider's physical peak, accelerated the knee deterioration that would destroy his numbers in Los Angeles, and left him to play the clinching game of Brooklyn's only championship on one healthy leg. The SABR BioProject: 'A series of knee injuries finally took their toll as Duke passed the age of thirty.' The sprinkler cover is the physical origin of the decline. He played through it anyway."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "DAMNED",
+      "note": "The Los Angeles Memorial Coliseum, 1958. A converted football stadium with a 440-foot right-center fence. The left-handed pull hitter's structural elimination. 15 home runs.",
+      "note_extra": "Source labeled 'LA Coliseum / 440-foot Fence / 40 to 15 HR / Ebbets to Coliseum / Park Eliminates Hitter' / affinity 'DAMNED' — ninth DAMNED in the set. Snider's is the most architecturally specific DAMNED in the set. The Los Angeles Memorial Coliseum was built to host the 1932 Olympics and adapted for baseball when the Dodgers arrived in 1958. Its right-center field fence was 440 feet from home plate — compared to Ebbets Field's 297-foot right-field fence. For a left-handed pull hitter, this was not a different ballpark; it was a different sport. Snider's HR total fell from 40 in 1957 to 15 in 1958 — the largest single-season decline in a player's prime HR output in the set. He was also dealing with a bad knee from a spring training auto accident in 1958, a back injury, and an arm strain. He was the only Dodger regular to hit over .300 that year (.312) while producing almost no power. The Baseball Prospectus analysis shows his splits: .294/.335/.441 at the Coliseum, .331/.407/.573 everywhere else. He was still the same hitter; the park had eliminated the tool. The Hotel/Rest domain is the Coliseum as living space — the stadium where Snider spent the years from 32 to 36 having his career architecturally dismantled while being fined a day's pay for trying to throw a ball over the wall."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Short right field — Ebbets Architecture trait: POW +0.5 at hitter-friendly venues. The 1950s Brooklyn Dodgers home schedule was the peak condition.",
+      "World Series context — CLU 3 / Four in Two trigger. The postseason is where Snider's accumulated records live: 11 HR, 26 RBI, .594 SLG in 36 WS games.",
+      "Robinson in the lineup — He Refused to Sign trait activates. The 1947 solidarity is a mechanical bond in ILB.",
+      "Troika games — when Mays and Mantle are both in the same game, all three CFs receive the bonus. The New York troika debate becomes a performance condition."
+    ],
+    "cold_triggers": [
+      "Deep outfield dimensions — Ebbets Architecture trait inverts: at parks with 400+ foot right-center fences, POW -0.5. The Coliseum pattern.",
+      "Left-handed pitching — 92% of Snider's HR came against right-handed pitchers (the highest figure for anyone with 250+ HR). Against LHP, his power profile significantly degrades.",
+      "Post-knee (historical) — the 1955 WS sprinkler cover began the decline. The HAUNTED encodes this: after the knee injury trigger fires in any series, Snider's physical stats carry a -1 modifier for the remainder of that postseason.",
+      "The big mouth — the COMPLEX triggers when Snider is booed or when a slump extends beyond 15 games; a temperament check may result in a public controversy that costs team morale."
+    ],
+    "pressure_response": "Four home runs in the 1952 World Series. Four home runs in the 1955 World Series. .286 BA, 11 HR, 26 RBI in 36 career WS games. Game 6, 1955 WS: knee twisted on a sprinkler cover, three innings, forced to leave. Game 7: in the lineup, 0-for-3, Brooklyn wins anyway. The pressure response is the WS record that no NL player has matched. It is also the willingness to play Game 7 on one healthy leg."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "He Refused to Sign",
+      "type": "Origin",
+      "text": "In spring training 1947, some of the Dodger veterans are passing around a petition. The petition says the team should not let Jackie Robinson play. The veterans are signing it. Duke Snider is a 20-year-old second-year man. He grew up in Compton, California. Jackie Robinson grew up in Pasadena, a few miles away. Snider has watched Robinson play. He admires his courage and his athleticism. The petition comes to Snider. He does not sign it. He will eat with Robinson and kid with him at the batting cage throughout the 1947 season. He is not a hero. He is doing what he believes. These two things are not always separate.",
+      "origin": "Documented in the SABR BioProject and the BR Bullpen biography. Ralph Branca's 2011 New York Times tribute to Snider also documents the petition refusal. Snider's stated reason for refusing was his Southern California connection to Robinson."
+    },
+    {
+      "title": "The Architecture",
+      "type": "Game Action",
+      "text": "297 feet down the right-field line. A 40-foot screen. Bedford Avenue beyond. The pitcher throws. Your center fielder pulls it. Left-handed. The ball hits the screen. Or it clears it. It does not matter which — in this park, the power is structural. He will hit more home runs in the 1950s than Willie Mays, Mickey Mantle, and Hank Aaron. He will do it in this specific box on this specific street in Brooklyn. The geometry is the career.",
+      "origin": "The right-field dimensions of Ebbets Field (297 feet, 40-foot screen) are documented in multiple sources. Snider's career at Ebbets Field: .313/.396/.603, HR every 16.7 PA. Baseball Prospectus analysis of his 1958 Coliseum splits confirms the architecture was the primary variable."
+    },
+    {
+      "title": "The Worst Fans in the League",
+      "type": "Drama",
+      "text": "He is in a slump. The Brooklyn fans are booing him. He turns to the press and says it: the Brooklyn fans are the worst fans in the league and they do not deserve a pennant. It makes the front pages. His manager is furious. His teammates say nothing publicly. That same year, he leads the NL in RBI with 136. That same year, he leads the NL in runs with 126. That same year, he hits four home runs in the World Series. That same year, Brooklyn wins the championship for the first and only time in history. He stands on the field for the final out. He still believes what he said about the fans. They still cheer for him anyway.",
+      "origin": "The incident is documented in the Britannica biography and multiple other sources. The exact quote varies slightly across sources but the substance — that he called Brooklyn fans the worst in the league during a 1955 slump — is consistently documented. The championship context (same year) makes it the most ironic confrontation in the set."
+    },
+    {
+      "title": "The Sprinkler Cover",
+      "type": "Drama",
+      "text": "Game 6, 1955 World Series, Yankee Stadium. The Dodgers and Yankees are tied three games each. In the third inning, your center fielder steps on a wooden sprinkler cover embedded in the Yankee Stadium outfield grass. He twists his left knee. He leaves the game. The Dodgers lose Game 6. In Game 7, he is in the lineup. He goes 0-for-3. Johnny Podres shuts out the Yankees. Brooklyn wins its only World Series championship. Your center fielder plays Game 7 on one healthy leg. He does not mention this publicly.",
+      "origin": "Documented in the SABR BioProject. The sprinkler cover incident in Game 6 of the 1955 WS is documented. The subsequent knee decline is documented as the beginning of the physical deterioration that accelerated after the move to Los Angeles in 1958."
+    },
+    {
+      "title": "The Last Homer at Ebbets Field",
+      "type": "Legacy",
+      "text": "September 22, 1957. The Brooklyn Dodgers' last season in Brooklyn. Robin Roberts is pitching for the Philadelphia Phillies. Your center fielder hits two home runs off him. They are the last home runs ever hit in Ebbets Field. The building will be demolished in 1960. He hit the first of his career home runs here in 1948. He hit 389 of them over his career for this franchise. He was the last one out.",
+      "origin": "Documented in the Baseball Hall of Fame biography and multiple sources. Snider hit two home runs off Robin Roberts on September 22, 1957, the final game ever played at Ebbets Field. He holds the career record of 19 HR off Roberts — more than any batter off any single pitcher in ML history."
+    },
+    {
+      "title": "I Play Baseball for Money",
+      "type": "Drama",
+      "text": "In 1956, a magazine article appears in Collier's with Duke Snider's name on it: 'I Play Baseball for Money, Not Fun.' The backlash is significant. He is perceived as ungrateful, immature, whiny — a man who has been given everything and cannot appreciate it. He has 43 home runs that year, the most in the NL. He has been in five World Series. He has spent nine seasons playing in a bandbox for a franchise and a city that loves him. What the article does not say, because the magazine does not ask: he also refused to sign the petition against Jackie Robinson in 1947. He also ate with Robinson every day that first season to ease the burden. He has a big mouth. He is also right about most things.",
+      "origin": "The article 'I Play Baseball for Money, Not Fun' was published in Collier's in May 1956, written with Roger Kahn. It is documented in multiple sources as having created significant backlash. Snider acknowledged his 'big mouth' in later interviews."
+    },
+    {
+      "title": "The Coliseum",
+      "type": "Drama",
+      "text": "1958. The Dodgers have moved to Los Angeles. The city does not yet have a baseball stadium, so they play in the Los Angeles Memorial Coliseum — a converted football stadium built for the 1932 Olympics. The right-center field fence is 440 feet away. He is a left-handed pull hitter. In Brooklyn he hit 40 home runs. In Los Angeles he hits 15. He bats .312. He is the only regular to hit over .300. He tries to throw a baseball over the Coliseum wall during warm-ups. The Dodgers fine him a day's pay. He is not surprised by this.",
+      "origin": "The Coliseum dimensions (440-foot right-center) and Snider's 1958 HR collapse (40 to 15) are documented in multiple sources. The warm-up throwing incident and the day's fine are documented in the Classic Baseball Broadcasts obituary."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'0'', 179 lbs — the five-tool athlete, the left-handed swing that one writer called Beethoven and another the Louvre. In 1955 he is 28 years old, at the absolute peak — the NL RBI leader, the WS champion, the four-HR World Series performance, the five-point MVP loss. The face in the card year is the face before the Coliseum, before the knee fully gives, before the move to Los Angeles changes everything. It is the face of the Duke of Flatbush.",
+    "attire": "Brooklyn Dodgers home whites — the distinctive Dodgers script, number 4. The left-handed CF stance, the pull-hitter's posture aimed at the right-field line, the sweet swing that was specifically calibrated to the 297-foot Ebbets fence.",
+    "mood": "Beautiful and unsettled. 'He played center field as if he owned it,' wrote Jim Murray. 'Duke ran up walls, dived in the grass and never even seemed to get his uniform dirty.' The portrait should show the grace — the owned outfield, the owned swing, the owned position. The unsettled part lives in the action cards.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Ebbets Field in the background — the specific geometry of the right-field wall, the 40-foot screen, the Bedford Avenue beyond. The only portrait in the set where the background architecture is the mechanical explanation for the career.",
+    "reference": "Stan Musial named Snider to his all-time NL outfield alongside Mays and Aaron. Ralph Kiner: 'I would say Duke covers more ground, wastes less motion, and is more consistent than anyone since DiMaggio.' The portrait contains the player those two men were describing: the decade's HR leader, the six-time WS performer, the man who refused the petition, the man who called the fans the worst in the league, the last man to hit a home run in Ebbets Field."
+  }
+}
