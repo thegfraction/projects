@@ -1,0 +1,202 @@
+{
+  "card_type": "player",
+  "name": "Hank Aaron",
+  "nickname": "Hammerin' Hank / Hammer",
+  "year": 1957,
+  "team": "Milwaukee Braves",
+  "league": "National League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "RF",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'0\"",
+  "weight": "180 lbs",
+  "born": "February 5, 1934 — Mobile, AL",
+  "died": "January 22, 2021 — Atlanta, GA",
+  "hof": "Class of 1982 (BBWAA, first ballot, 97.8%)",
+
+  "real_stats": {
+    "season": 1957,
+    "games": 151,
+    "at_bats": 615,
+    "hits": 198,
+    "doubles": 27,
+    "triples": 6,
+    "home_runs": 44,
+    "rbi": 132,
+    "stolen_bases": 1,
+    "runs": 118,
+    "batting_avg": ".322",
+    "obp": ".378",
+    "slg": ".600",
+    "ops": ".978",
+    "ops_plus": 166,
+    "war": 7.8,
+    "all_star": 25,
+    "gold_gloves": 3,
+    "awards": "NL MVP 1957. Led NL in HR (44), RBI (132), total bases (369), runs (118). World Series champion 1957 (.393 BA, 3 HR, 7 RBI in 7 games — one of the best individual WS performances in the set). September 23, 1957: 11th-inning walk-off HR vs. Cardinals clinched the pennant — the only pennant-clinching walk-off HR in non-playoff regular-season history. Changed to a 34-oz bat and moved to cleanup spot behind Mathews in 1957 — both changes coincided with the MVP season. Led NL in batting (.328) in 1956. 25 All-Star selections (most in MLB history). 3 Gold Gloves (1958-1960). 24+ HR in 19 consecutive seasons (1955-1973). Led NL in HR 4 times, RBI 4 times, runs scored 3 times, doubles 4 times. Mickey Mantle: 'As far as I am concerned, Aaron is the best ball player of my era. He is to baseball of the last fifteen years what Joe DiMaggio was before him. He has never received the credit he is due.' Muhammad Ali: 'The only man I idolize more than myself.'",
+    "negro_leagues": "Indianapolis Clowns, Negro American League (1952). Signed by scout Bunny Downs for $200/month at age 18 after quitting school. Boston Braves acquired his contract from the Clowns for $10,000, outbidding the New York Giants by $50/month. Aaron was the last player to move directly from the Negro Leagues to the major leagues. He batted cross-handed with the Clowns — left hand above right on a right-handed swing — which had caused Brooklyn Dodger scouts to overlook him at age 15.",
+    "world_series": "2 WS appearances (1957, 1958). 1957 WS champion: Milwaukee Braves defeated New York Yankees 4 games to 3. Aaron hit .393 with 3 HR and 7 RBI — one of the finest individual WS performances by a position player in the set. The 1957 Yankees lineup included Ford, Berra, and Mantle — three other Dreamers 1950 cards. The Braves upset the defending champions. 1958 WS: lost rematch to Yankees 4-3.",
+    "career_avg": ".305",
+    "career_hits": 3771,
+    "career_hr": 755,
+    "career_war": 143.1,
+    "career_rbi": 2297,
+    "career_notes": "23 seasons (1954-1976). Milwaukee/Atlanta Braves (1954-1974), Milwaukee Brewers (1975-1976). Career .305/.374/.555, 143.1 WAR (fifth all-time for position players). All-time records: 755 HR (held record 33 years until Bonds 2007), 2,297 RBI, 6,856 total bases, 1,477 extra-base hits. Third all-time in hits (3,771). 24+ HR in 19 consecutive seasons (1955-1973). Even removing all 755 HR from his hit total, he still had 3,016 hits — more than Wade Boggs. 1,383 career strikeouts (fewer than his 1,402 walks). Led NL 4 times each in HR and RBI. 25 All-Star selections (MLB record). 3 Gold Gloves. April 8, 1974: HR #715 off Al Downing broke Babe Ruth's all-time record. Died January 22, 2021 in Atlanta, age 86."
+  },
+
+  "ilb_stats": {
+    "ovr": 10,
+    "con": 5,
+    "pow": 5,
+    "spd": 0,
+    "def": 2,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "con": ".322 BA (1957). OPS+ 166 clears the 130+ bonus: base band 4 + bonus = CON 5. The contact across a 23-year career is the real story: .300+ in 14 seasons, career .305, 3,771 hits third all-time, 1,383 career strikeouts (fewer than his 1,402 walks). Removing every home run from his hit total still leaves him with 3,016 hits, more than Wade Boggs. The contact never degraded — his two highest single-season OPS figures came at ages 37 and 39. CON 5 is the floor, not the ceiling.",
+    "pow": "44 HR (1957), NL leader. SLG .600 clears the .500 bonus: base band 4 + bonus 1 = POW 5. Career 755 HR, all-time record for 33 years. 24+ HR in 19 consecutive seasons. 30+ HR in 15 seasons. 6,856 career total bases — 722 more than second-place Musial. Mantle: 'the best ball player of my era.' POW 5 with the SLG bonus is unambiguous.",
+    "spd": "1 SB in 1957. SPD 0 by formula. Aaron's speed was real in his younger years — he hit 30-30 in 1963 — but the 1957 card year records essentially no base-stealing activity. SPD 0 reflects the card year honestly. The first CON 5 / POW 5 / SPD 0 combination in the set (Rosen was CON 5 / POW 5 / SPD 1).",
+    "def": "3 Gold Gloves (1958, 1959, 1960) — the first three years the award was given. Pre-GG era for the 1957 card year; his Gold Glove run begins the following season. Strong arm, reliable range in right field. DEF 2 reflects the documented elite outfield defense (3 GG in the first 3 years they were awarded) without reaching the transcendent DEF 3 tier (Mays, Robinson). First RF at DEF 2 in the set alongside Kaline — Aaron and Kaline are the two best defensive RF of this era, both at DEF 2.",
+    "clu": "1957 WS: .393 BA, 3 HR, 7 RBI in 7 games — one of the finest individual WS performances in the set (comparable to Raschi-level dominance, but as a hitter). The pennant-clinching walk-off HR on September 23, 1957 is the only such play in non-playoff regular-season history. CLU 3 reflects this singular championship performance: one WS title, one walk-off pennant clincher, a dominant individual WS series. No other card in the set has a pennant-clinching walk-off HR in its action card seeds."
+  },
+
+  "personality": {
+    "leadership_style": "Quiet accumulation. Aaron was described consistently as reserved, private, and quietly dominant — not the showman Mays was, not the talker Robinson was. The public relations director gave him the name 'Hank' to make him seem more accessible; those close to him called him Henry. The leadership was expressed through sustained production across 23 seasons rather than dramatic single performances. What Aaron said about the HR record pursuit: 'I just thank God it is all over.' That is the leadership — not the fireworks but the relief, the endurance, the refusal to stop.",
+    "temperament": "Internally fierce, externally contained. The CNN interview: his mother would have the family hide under the bed while the KKK marched down their dirt street. As a child, Aaron learned that the world's hostility required containment, not confrontation. The same man who absorbed death threats for two years while breaking Ruth's record was the same boy who hid under the bed in Mobile. The containment was real and documented; the fierceness inside it was visible in the statistics and in the few times he spoke directly: 'I just want them to know they cannot stop me.'",
+    "work_ethic": "Made his own bats and balls from street materials. Hit bottle caps with a stick to train his batting eye. Learned the game without equipment because the equipment was not available. Spent the winter of 1953 playing in Puerto Rico (like Mays) to improve his position — moved from infield to outfield, corrected his batting stance. Changed from a 36-oz bat to a 34-oz bat before the 1957 MVP season. Produced 24 or more HR in 19 consecutive seasons. No player in baseball history has produced at that level for that duration.",
+    "lifestyle": "Mobile Alabama dirt street to Milwaukee to Atlanta. Private man in a public role — the PR director renamed him, the record pursuit put him on national television, the death threats split his family. He lived in hotels. His children attended private school for security. He had a government bodyguard for the 1974 season. He said afterward: 'I just thank God it is all over.' After baseball: VP of the Atlanta Braves organization, the first minority in MLB upper-level management. Chasing the Dream Foundation. Presidential Medal of Freedom (2002). He was still a Braves executive and public figure when he died in 2021 at 86.",
+    "era_adaptability": "MAXIMUM. The career statistics tell you: fifth all-time in WAR (143.1), all-time records in RBI, total bases, extra-base hits. In the five seasons from age 35-39 he led all of baseball in slugging and OPS. No player in history has produced at a high level for a longer sustained period. In any era, Aaron's contact discipline (fewer strikeouts than walks, career .305) combined with his power (755 HR) would produce the same result: accumulation without interruption.",
+    "dark_side": "The two years before HR 715. Aaron received 930,000 pieces of mail in 1973-1974 — much of it hate mail, some of it death threats specific enough that the FBI assigned him security. He lived in a hotel. His children attended private schools for their safety. His family was split. He said: 'For two years, I had to live in a hotel, my children had to go to private schools and my entire family was split up because people were mad that I was going to break the record.' When he finally broke it on April 8, 1974, his first words were relief, not triumph. The DAMNED is structural: the record pursuit cost two years of a family's normal life. The dark side is also the underrecognition Mantle named: the greatest accumulator in the history of the game received less credit than the dramatic players around him because accumulation does not make newspaper front pages the way single moments do."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Consistency Machine",
+      "desc": "24 or more home runs in 19 consecutive seasons (1955-1973). In ILB, Aaron's POW stat does not degrade from age-related decline for the duration of any campaign — the consistency is structural. The floor is always the floor. No other card in the set has this trait."
+    },
+    {
+      "tag": "The Walk-Off Pennant",
+      "desc": "September 23, 1957, 11th inning, Milwaukee — the only pennant-clinching walk-off HR in non-playoff regular-season history. In ILB, once per pennant race, Aaron may attempt a Walk-Off trigger in extra innings: roll 1-3 = walk-off HR, carried off the field by teammates. Roll 4-6 = standard at-bat."
+    },
+    {
+      "tag": "Henry",
+      "desc": "Those who knew Aaron called him Henry; the public knew him as Hank — a name a PR director gave him to seem more accessible. In ILB, this duality is encoded: Aaron's stats appear as the public player's numbers, but the note_extra contains Henry's version of the story. The quiet man and the record-breaker are the same person."
+    },
+    {
+      "tag": "Raschi's First",
+      "desc": "Aaron's first ML HR came off Vic Raschi of the Cardinals in 1954. Both are Dreamers 1950 cards. In ILB, when Aaron faces a pitcher in the set who gave up his first HR, a historical callback triggers — the game is briefly the game of April 23, 1954."
+    },
+    {
+      "tag": "The 1957 Fall Classic",
+      "desc": "The 1957 World Series matched four Dreamers 1950 players directly: Aaron (Braves) against Ford, Berra, and Mantle (Yankees). Aaron hit .393 with 3 HR and 7 RBI; the Braves won. In ILB, when Aaron plays against any Dreamers 1950 Yankees card in a championship context, his CLU 3 activates fully with no roll required."
+    },
+    {
+      "tag": "Jackie's Heir",
+      "desc": "Aaron skipped school in 1947 to attend a talk given by Jackie Robinson when the Dodgers came to Mobile for an exhibition. Robinson was his boyhood idol. In ILB, when Robinson and Aaron are on the same roster, both receive a +1 morale bonus — the chain from Cairo/Pasadena to Mobile/Toulminville is present in the lineup."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Community Events",
+      "affinity": "SACRED",
+      "note": "Fulton County Stadium, Atlanta / HR 715 / April 8, 1974. The most documented SACRED in the set — 53,775 in attendance, national NBC broadcast, preserved in the National Recording Registry. His mother was at home plate before he arrived.",
+      "note_extra": "Source labeled 'Fulton County Stadium / April 8, 1974 / HR 715 / Al Downing / Estella Aaron' / affinity 'SACRED' — nineteenth SACRED in the set. Aaron's is the SACRED with the most documented opposition. The moment itself: 4th inning, April 8, 1974, Fulton County Stadium, Atlanta. Aaron hit his second at-bat of the season off Dodgers pitcher Al Downing, depositing it into the Braves bullpen where reliever Tom House caught it. Two college students ran onto the field alongside Aaron as he rounded the bases. His mother Estella, who had hidden the family under the bed on a dirt street in Mobile while the KKK marched by, reached home plate before her son did. Aaron's words: 'I just thank God it is all over.' The SACRED is also the DAMNED's resolution — two years of death threats, hotels, split family, FBI security, and then this. The CNN account and Aaron's own words document the specific weight of 'all over': not triumph, but relief. The Library of Congress selected the WSB broadcast of this game for preservation in the National Recording Registry in 2022. The record stood 33 years, until Barry Bonds in 2007. Among the Dreamers 1950 SACREDs — Yankee Stadium (Gehrig, Berra, Ford, Mantle/Raschi), Comiskey (Miñoso, Fox), Polo Grounds/Candlestick (Mays), Ebbets Field/April 15 (Robinson), Shibe Park (Fain), County Stadium (Kuenn, Aaron) — Aaron's is the most nationally documented in the moment it occurred."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "IDENTITY",
+      "note": "930,000 pieces of mail in 1973-1974. The most visible Black man in America. Pursuing a record that some people did not want a Black man to hold. 'I just want them to know they cannot stop me.'",
+      "note_extra": "Source labeled 'Death Threats / HR Record Pursuit / 930000 Mail / FBI / Hotel / Split Family' / affinity 'IDENTITY' — fourth full IDENTITY in the set (after Miñoso, Mays, Robinson). Aaron's IDENTITY is distinct from the others: Robinson's is the barrier breach; Mays's is the visibility; Aaron's is the sustained target. The death threats began seriously in 1973 as Aaron approached 714. By 1973-1974 he was receiving approximately 930,000 pieces of mail per year. Some were death threats specific enough that the FBI assigned him security and he traveled with a bodyguard. His children attended private schools. His family was split. He lived in a hotel. The IDENTITY is the experience of being the most prominent Black man in America in a specific two-year window, pursuing a record that a documented portion of the country wanted to remain white. Aaron never performed bitterness in public; he contained it and continued to hit. The IDENTITY is also the underrecognition Mantle named: the greatest accumulator in baseball history, receiving less recognition than the men who surrounded him because accumulation is harder to witness than a single moment. Mickey Mantle calling Aaron the best player of his era — from a Yankee, from the man Aaron's Braves beat in the 1957 World Series — is the IDENTITY's most unexpected external validation."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Down the Bay, Mobile, Alabama. A dirt street. The family hiding under the bed while the KKK marched past. Bottle caps hit with a stick. Jackie Robinson ducked school to see. The Indianapolis Clowns for $200 a month.",
+      "note_extra": "Source labeled 'Down the Bay / Toulminville / KKK / Bottle Caps / Estella / Herbert / Jackie Robinson 1947 / Indianapolis Clowns' / affinity 'ORIGIN' — twenty-second ORIGIN in the set. Aaron's is the ORIGIN that contains the most complete through-line to the SACRED: born in Down the Bay, a poor Black section of Mobile; moved to Toulminville at 8; mother hid the family under the bed while the KKK marched down the dirt street; practiced baseball by hitting bottle caps with a stick because the family could not afford equipment; made his own bats and balls from street materials; batted cross-handed because no one corrected him. In 1947, thirteen-year-old Aaron ducked school to attend a talk given by Jackie Robinson when the Dodgers came to Mobile for an exhibition. Robinson shaped his motivations and convictions. The Indianapolis Clowns at 18 — $200/month, $10,000 contract sale to the Braves, the last player to move from the Negro Leagues to the major leagues. The ORIGIN is also the bottle caps: Aaron honed his batting eye by hitting them with a stick. The wrists that produced the quickest, most precise bat speed of his era — faster than Mantle's, faster than most — were developed on a dirt street in Alabama by a boy who could not afford a baseball. The through-line from the bottle caps to the 715th home run is straight."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "DAMNED",
+      "note": "Two years in a hotel. His children in private schools for their safety. His family split apart. A bodyguard. 930,000 pieces of mail, many of them threats. All of it because he was going to break the record.",
+      "note_extra": "Source labeled 'Death Threats / Hotel / Private Schools / FBI Bodyguard / Split Family / 715 Pursuit' / affinity 'DAMNED' — eighth DAMNED in the set (after Rube Waddell/carnivalesque, Doby/integration isolation, Blackwell/elbow, Fain/bar fights, Miñoso/segregated South, Wynn/gout, Lemon/Jerry). Aaron's is the most directly documented DAMNED in the set — sourced from his own words in a 2014 CNN interview: 'For two years, I had to live in a hotel, my children had to go to private schools and my entire family was split up because people were mad that I was going to break the record.' The Hotel/Rest domain is literal: Aaron could not safely live in his home during the two years he was most publicly visible as the man approaching Babe Ruth's record. The DAMNED is not a single acute event (like Lemon's son's death) but a sustained structural condition lasting two full seasons. The FBI assigned him a bodyguard; he traveled with security; death threats were specific enough to require government protection. After HR 715 and the end of the 1974 season, Aaron transferred to the Milwaukee Brewers — away from Atlanta, a partial geographic escape from the preceding two years."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "MAXIMUM",
+      "note": "24 or more home runs in 19 consecutive seasons. More career total bases than any player in baseball history by 722. More career RBI than any player in baseball history. 3,016 hits even removing all 755 home runs. The MAXIMUM that does not announce itself.",
+      "note_extra": "Source labeled 'Consistency / 19 Consecutive Seasons / Total Bases Record / RBI Record / No Announcement' / affinity 'MAXIMUM' — seventh MAXIMUM in the set (after Waddell, Brecheen, Gehrig, Wynn/Harder transformation, Fox/self-directed prep, Doby/daily work). Aaron's is the MAXIMUM of pure accumulation without a single catalyzing event. The franchise is not a single technique or a single transformation but a 23-year practice of showing up and hitting. Waddell's MAXIMUM was about a single pitch perfected. Gehrig's was about consecutive games. Fox's was about daily self-directed preparation. Aaron's is different: it is the sustained output of a man who made his own equipment from street materials at age 8, hit bottle caps to train his batting eye, and then produced 24 or more home runs in every season from his age-21 season (1955) through his age-39 season (1973) — the longest such streak in baseball history. The Practice Field domain is where the MAXIMUM lives: not in the spotlight (where Mays's SACRED is, where Robinson's IDENTITY is) but in the daily commitment that made the records possible. The MLB stats note: 'Aaron's two highest single-season OPS figures actually came at ages 37 and 39.' The MAXIMUM did not peak and decline. It accumulated."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Cleanup spot — moved to cleanup behind Mathews in 1957, immediately won MVP. The lineup position is encoded mechanically: Aaron's stats are at their ceiling when batting fourth.",
+      "Championship context — CLU 3 activates fully in the 1957 WS pattern (vs. Dreamers 1950 Yankees cards). The walk-off pennant trigger.",
+      "The Raschi cross-card — when facing a pitcher in the set who gave up his first ML HR, the historical callback activates.",
+      "Robinson teammate boost — the Jackie's Heir trait: both receive morale bonus when on the same roster."
+    ],
+    "cold_triggers": [
+      "The HR record pursuit (historical) — encoded in DAMNED; the two hotel years do not appear in the playing stats but are present in the card's biographical weight.",
+      "SPD 0 — corner outfielder at this career stage; no baserunning contribution. The CON 5 / POW 5 / SPD 0 combination is honest about what kind of player he was in 1957.",
+      "Single MVP (historical underrecognition) — Aaron finished third in MVP voting six times in his career without winning. The consistency machine is not rewarded the way the single-season peak is. The MAXIMUM/IDENTITY tension: the accumulator vs. the moment-maker."
+    ],
+    "pressure_response": "September 23, 1957, 11th inning, pennant on the line. Aaron hits the walk-off HR — the only pennant-clinching walk-off in non-playoff regular season history. April 8, 1974, two years of death threats resolved in a single swing, his mother at home plate. The words afterward: 'I just thank God it is all over.' The pressure response is the opposite of showmanship — it is endurance converting to a single moment of release, documented in those seven words, and then continuation."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Get Under the Bed",
+      "type": "Origin",
+      "text": "On a dirt street in Down the Bay, Mobile, Alabama, at 6 or 7 in the evening when you can hardly see, a mother calls her children inside. The children come. She says: 'Get under the bed.' The children ask why. She says: 'Get under the bed.' They get under the bed. The KKK marches past, burns a cross, and goes on about their business. The mother says: 'You can come out now.' The children come out. One of them will hit 755 home runs. Tonight that is not yet true.",
+      "origin": "Documented by Aaron himself in a 2014 CNN interview, describing his childhood in Down the Bay, Mobile, Alabama. Aaron told CNN: 'When I was growing up in Mobile, Alabama on a little dirt street, I remember my mother about 6 or 7 o'clock in the afternoon. You could hardly see and I would be trying to throw a baseball and she would say Come here, come here! And I would say, For what? She said, Get under the bed.' This is the ORIGIN's foundational scene."
+    },
+    {
+      "title": "The Bottle Caps",
+      "type": "Origin",
+      "text": "He has no baseball. He has no bat. He has bottle caps and a stick and a dirt street in Toulminville. He hits the bottle caps with the stick until his wrists are the fastest in baseball. Nobody teaches him this. Nobody corrects him when he bats cross-handed because nobody is there to correct him. The Brooklyn Dodger scouts will overlook him because of the cross-handed grip. The Boston Braves will not. He hits bottle caps until they are baseballs.",
+      "origin": "Multiple documented sources note Aaron's practice of hitting bottle caps with sticks as a child due to the family's inability to afford baseball equipment. The cross-handed grip (left hand above right for a right-handed hitter) is documented in his BR Bullpen entry and multiple biographical sources as the reason Brooklyn Dodger scouts failed to properly evaluate him at age 15."
+    },
+    {
+      "title": "He Ducked School",
+      "type": "Origin",
+      "text": "In 1947, when the Brooklyn Dodgers come to Mobile for an exhibition, a thirteen-year-old boy in Toulminville ducks school to hear Jackie Robinson speak. Robinson has broken the color barrier in baseball that April. He is the first Black man to play in the major leagues in the modern era. The boy from Toulminville listens. He takes Robinson as his boyhood idol. Ten years later, the boy from Toulminville beats the Brooklyn Dodgers and everything they represent — Ford, Berra, Mantle, the Yankees — in seven games.",
+      "origin": "Documented in the MLB career timeline for Aaron: 'In 1947, Aaron ducked school to attend a talk given by Jackie Robinson, a man who would shape his motivations and convictions, when Robinson's Dodgers came to Mobile for an exhibition.' Aaron explicitly named Robinson as his boyhood idol in multiple interviews."
+    },
+    {
+      "title": "The Walk-Off That Clinched It",
+      "type": "Game Action",
+      "text": "September 23, 1957. Milwaukee County Stadium. The 11th inning. The Braves need a win to clinch the National League pennant. Your right fielder comes to bat against the Cardinals. He hits a two-run home run. The pennant belongs to Milwaukee. His teammates carry him off the field. No other moment like this one has occurred before in baseball. No other moment like this one has occurred since.",
+      "origin": "September 23, 1957, Milwaukee County Stadium. Aaron's 11th-inning walk-off HR clinched the NL pennant for Milwaukee. It is documented as the only pennant-clinching walk-off home run in a non-playoff regular-season game in major league history."
+    },
+    {
+      "title": "The 1957 World Series",
+      "type": "Game Action",
+      "text": "The Milwaukee Braves versus the New York Yankees. The Yankees have Berra, Ford, and Mantle. They are the defending champions. Your right fielder hits .393 with three home runs and seven runs batted in over seven games. The Braves win. Ford, Berra, and Mantle lose. The four men who will share a team in the Dreamers 1950 era have played against each other in the World Series. Three of them lost.",
+      "origin": "1957 World Series, Milwaukee Braves vs. New York Yankees, won by Milwaukee 4-3. Aaron's .393 BA, 3 HR, 7 RBI in 7 games are documented. Ford, Berra, and Mantle were the three Dreamers 1950 Yankees cards in the opposing lineup. This is the in-set cross-card action card for the 1957 WS."
+    },
+    {
+      "title": "For Two Years",
+      "type": "Drama",
+      "text": "He lives in a hotel. His children attend private schools because their normal schools are not safe. His family is split. He has a government bodyguard. He receives 930,000 pieces of mail in one year. He goes to the ballpark and hits home runs. He does this for two years. The people who sent the letters are mad that he is going to break the record. On April 8, 1974, he breaks it. His mother reaches home plate before he does. He says: 'I just thank God it is all over.' That night, the hotel.",
+      "origin": "Aaron's two-year period of death threats and FBI security (1973-1974) is documented in multiple sources. Aaron's own words: 'For two years, I had to live in a hotel, my children had to go to private schools and my entire family was split up because people were mad that I was going to break the record.' His words after HR 715 ('I just thank God it is all over') are documented. The detail of his mother reaching home plate first is documented in the CNN anniversary account."
+    },
+    {
+      "title": "I Just Thank God It Is All Over",
+      "type": "Legacy",
+      "text": "April 8, 1974. The home run leaves the bat and goes over the left field wall. The record is broken. Two college students run onto the field alongside him. His mother reaches home plate before he does. She grabs him. His teammates grab him. The band plays. The cannons fire. President Nixon calls. He says seven words: 'I just thank God it is all over.' After twenty years of professional baseball and two years of death threats and one government bodyguard and 930,000 pieces of mail and one hotel room after another, the man whose boyhood idol was Jackie Robinson says seven words. He does not say triumph. He says relief.",
+      "origin": "April 8, 1974, Atlanta-Fulton County Stadium. Aaron's HR #715 off Al Downing. The details of the celebration — the college students, the mother, the band, the Nixon call — are documented in multiple sources including the CNN anniversary account. Aaron's seven words are among the most widely quoted in baseball history."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'0'', 180 lbs — the build that produced more total bases than any player in baseball history. In 1957 he is 23 years old, in his fourth season, the year he became the best player in baseball. The face in the card year is the face of a man who is not yet famous in the way he will be — he is the best player in the NL this year, the MVP, the World Series champion, but the larger story (the record, the hotel, the 930,000 letters) has not yet happened. The portrait contains the potential for all of it.",
+    "attire": "Milwaukee Braves home whites — the distinctive Braves script, number 44. The right-handed RF stance. The wrists that began by hitting bottle caps with sticks on a dirt street in Toulminville, Alabama.",
+    "mood": "Contained and complete. Aaron was not a showman — the PR director gave him a nickname to make him more accessible because the actual man was private. The Mantle quote is the art direction: 'He has never received the credit he is due.' The portrait should show the player Mantle was describing — not the spectacle, but the thing itself.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Milwaukee County Stadium in the background — the park where the 1957 pennant was clinched on a walk-off in the 11th, where the Braves won the World Series, where Aaron's mother would eventually watch him hit home runs. The 44 on the uniform is the organizing element.",
+    "reference": "Muhammad Ali: 'The only man I idolize more than myself.' Mickey Mantle: 'As far as I am concerned, Aaron is the best ball player of my era. He is to baseball of the last fifteen years what Joe DiMaggio was before him. He has never received the credit he is due.' The portrait contains what those two men were describing: the most complete accumulator in baseball history, quiet and precise, produced by a boy on a dirt street who hit bottle caps with a stick."
+  }
+}
