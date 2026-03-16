@@ -1,0 +1,205 @@
+{
+  "card_type": "player",
+  "name": "Eddie Mathews",
+  "nickname": "Cap'n Eddie / The Santa Barbara Bomber",
+  "year": 1953,
+  "team": "Milwaukee Braves",
+  "league": "National League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "3B",
+  "bats": "L",
+  "throws": "R",
+  "height": "6'1\"",
+  "weight": "190 lbs",
+  "born": "October 13, 1931 — Texarkana, TX",
+  "died": "February 18, 2001 — San Diego, CA",
+  "hof": "Class of 1978 (BBWAA, first ballot, 79.4%)",
+
+  "real_stats": {
+    "season": 1953,
+    "games": 157,
+    "at_bats": 579,
+    "hits": 175,
+    "doubles": 31,
+    "triples": 8,
+    "home_runs": 47,
+    "rbi": 135,
+    "stolen_bases": 1,
+    "runs": 110,
+    "batting_avg": ".302",
+    "obp": ".406",
+    "slg": ".627",
+    "ops": "1.033",
+    "ops_plus": 182,
+    "war": 9.6,
+    "all_star": 9,
+    "gold_gloves": 0,
+    "awards": "NL home run title 1953 (47 HR — single-season 3B record at the time, stood until Mike Schmidt hit 48 in 1980). NL MVP runner-up 1953 (behind Roy Campanella) and 1959 (behind Ernie Banks). Led NL in walks four times. 512 career HR — seventh all-time when he retired. Nine consecutive seasons of 30+ HR (1953-1961). Five seasons of 100+ RBI. On the cover of the first-ever issue of Sports Illustrated, August 16, 1954. Ty Cobb: 'I have only known three or four perfect swings in my time. This lad has one of them.' Rogers Hornsby (1954): 'Mathews is the most dangerous hitter in baseball today. And he is going to get better because he wants to learn, because he is always asking questions.' 96.0 career WAR — fifth-highest ever by a 3B. The only player to represent the Braves in all three cities: Boston (1952), Milwaukee (1953-1965), Atlanta (1966).",
+    "world_series": "3 WS appearances (1957, 1958, 1968). 2 WS championships — 1957 (Milwaukee Braves) and 1968 (Detroit Tigers, pinch-hit role). Career WS: .200 BA, 1 HR, 7 RBI in 16 games. 1957 WS Game 4: with the Series tied 1-1 and Game 4 tied 4-4 in the 10th inning, Mathews hit a two-run walk-off HR off Bob Grim to give Milwaukee a 7-5 victory. 1957 WS Game 7: made a backhanded stab of a hard Bill Skowron ground ball with the bases loaded to end the Series — the final defensive play of the Braves' only Milwaukee championship.",
+    "career_avg": ".271",
+    "career_hits": 2315,
+    "career_hr": 512,
+    "career_war": 96.0,
+    "career_rbi": 1453,
+    "career_notes": "17 seasons (1952-1968). Boston/Milwaukee/Atlanta Braves (1952-1966), Houston Astros (1967), Detroit Tigers (1967-1968). .271/.376/.509 career, 96.0 WAR. 512 HR, 2,315 hits. NL HR leader 1953 and 1959. Nine consecutive 30+ HR seasons (1953-1961). With Hank Aaron as teammates (1954-1966): 863 combined HR — the all-time record for two teammates in baseball history, surpassing Ruth and Gehrig. ML records at retirement: most games by a 3B (2,181), most assists by a 3B (4,322), most chances by a 3B (6,371). Managed Atlanta Braves 1972-1974; was the manager when Aaron broke Babe Ruth's career HR record on April 8, 1974. Died February 18, 2001 in San Diego."
+  },
+
+  "ilb_stats": {
+    "ovr": 10,
+    "con": 5,
+    "pow": 5,
+    "spd": 0,
+    "def": 2,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": ".302 BA (1953). OPS+ 182 clears the 130+ bonus: base band 4 + bonus = CON 5. OBP .406 in 1953 was the first of six times Mathews topped .400 OBP in a season. He led the NL in walks four times — the plate discipline was structural. Career .271 BA over 17 seasons, but the peak OPS+ (182) and the sustained walk rate place this at CON 5. Warren Spahn: 'Mathews uses his wrists more' — the quick-wrist mechanics that his mother trained into him produced the plate presence.",
+    "pow": "47 HR (1953), NL leader, single-season 3B record. SLG .627 clears the .500 bonus: base band 4 + bonus 1 = POW 5. 512 career HR. Nine consecutive 30+ HR seasons. Ty Cobb called the swing perfect. 863 combined HR with Aaron as teammates — the all-time record. The most powerful 3B in the set and the first bats-L position player at POW 5.",
+    "spd": "1 SB in 1953. 68 career SB over 17 seasons. SPD 0 by formula and by historical reality. The third bats-L position player at SPD 0 in the set (alongside Berra and a few others). Mathews was a pull hitter whose value was entirely in the contact-power combination, not the legs.",
+    "def": "ML career records for 3B games (2,181), assists (4,322), and chances (6,371) — the durability records establish elite sustained fielding. Career defensive WAR 5.6. Led NL 3B in putouts twice, top three nine times. Strong arm, quick reflexes. The 1957 WS Game 7 backhanded grab of Skowron's bases-loaded grounder — the final defensive play of Milwaukee's only championship — is the definitive DEF moment. DEF 2 reflects excellent defensive 3B without the transcendent DEF 3 tier. Second 3B at DEF 2 alongside Rosen.",
+    "clu": "2 WS championships (1957, 1968). 1957 WS Game 4 walk-off HR in the 10th inning off Bob Grim — evened the Series and changed its momentum. Career WS: .200 BA, 1 HR, 7 RBI in 16 games. CLU 2 reflects the walk-off HR and the two championships balanced against a modest overall WS batting average (.200). The Game 7 backhanded grab is also CLU-encoded — the championship-ending defensive play contributes to CLU 2 without reaching the CLU 3 tier."
+  },
+
+  "personality": {
+    "leadership_style": "Physical. Mathews led through the bat and the body — the perfect swing, the rocket arm, the durability records, the nine consecutive 30+ HR seasons. Not a talker by reputation, not a politician; a hitter. Rogers Hornsby said he was always asking questions, always wanting to learn — the intellectual curiosity beneath the physical talent. The leadership was expressed through showing up every day and hitting the ball hard.",
+    "temperament": "Direct and competitive. The SABR biography documents his fight with Jackie Robinson at Ebbets Field in 1953 — Lew Burdette had knocked Robinson down; Robinson and Mathews scrapped. He admitted that drinking cost him coaching jobs after his career. He was fired as Braves manager during Aaron's record-pursuit season and expressed hurt but not bitterness publicly. Mathews later admitted that he was not entirely sober through portions of his managerial career.",
+    "work_ethic": "Built from childhood. His mother pitched to him while his father shagged. When he hit the ball back through the middle too close to his mother, he got a chore. He credits this arrangement with making him a pull hitter. He signed with the Braves just after midnight on his high school graduation night in 1949 — the earliest legally permissible moment. He hit 17 HR for Class D Hi-Toms that summer. The work ethic was inherited from a father who played semi-pro ball and channeled through a mother who understood the mechanics of a pull swing.",
+    "lifestyle": "Texarkana to Santa Barbara to Boston to Milwaukee to Atlanta to San Diego. The franchise with him the whole way. He married four times. His third wife was the daughter of Gussie Busch, the brewing executive — the irony that the man whose drinking cost him coaching jobs married into the Busch family is real. He died in San Diego in 2001, having outlived his career by 33 years and the team's Milwaukee era by 36. He admitted in later interviews that the drinking was a problem; he did not dramatize the admission.",
+    "era_adaptability": "MAXIMUM. The swing Ty Cobb called perfect would produce in any era. The quick-wrist mechanics that Spahn identified — the ability to wait on the pitch and pull with authority — are era-agnostic. 512 career HR with 30+ every year for nine consecutive seasons. The one adjustment in a modern context: he was a pure pull hitter (his mother trained him that way), which made him vulnerable to the modern shift. But Mathews also had the walk rate to compensate: led NL in walks four times.",
+    "dark_side": "The drinking. He admitted it publicly in later years, stating that it cost him coaching jobs after his career ended. The tuberculosis scare in 1982 (a spot on his lung, initially feared cancer). The firing as manager in July 1974 — during the most significant season in the franchise's history, the Aaron 715 pursuit — with a 50-49 record. He was hurt by the firing; Aaron publicly criticized the decision. The quiet sadness beneath the perfect swing was real and documented in his own words."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Perfect Swing",
+      "desc": "Ty Cobb: 'I have only known three or four perfect swings in my time. This lad has one of them.' In ILB, Mathews's POW stat does not degrade from pitcher adjustments or scouting reports — the swing is not correctable. Opposing pitchers know the mechanics and cannot stop it."
+    },
+    {
+      "tag": "863",
+      "desc": "Mathews and Aaron as teammates (1954-1966) hit 863 combined HR — the all-time record for two teammates, surpassing Ruth and Gehrig. In ILB, when Mathews and Aaron are in the same lineup, both receive a +0.5 POW bonus — the battery of 863 activates when they share the field."
+    },
+    {
+      "tag": "The Walk-Off in the Tenth",
+      "desc": "1957 WS Game 4, 10th inning, tie game: Mathews hit a two-run walk-off HR off Bob Grim to even the Series and change its momentum. In ILB, once per championship series, Mathews may attempt a Walk-Off trigger in extra innings with the score tied: roll 1-3 = walk-off HR, 4-6 = standard at-bat."
+    },
+    {
+      "tag": "The Mother's Chore",
+      "desc": "His mother pitched to him; hitting the ball back through the middle close to her earned an extra chore. He became a pull hitter through this domestic training. In ILB, Mathews's pull-hit tendency is encoded: at parks with short right-center fences for a LHB, his effective POW is +0.5 — the Ebbets Architecture mirror for a 3B.",
+      "note": "Note: Ebbets Field favored Snider. This trait is for Mathews at County Stadium and other parks with favorable LHB pull dimensions."
+    },
+    {
+      "tag": "The Last Boston Brave",
+      "desc": "When the Braves moved to Atlanta in 1966, Mathews was the last player on an active ML roster who had played for the Boston Braves. In ILB, Mathews carries a franchise continuity bonus: in any game during a franchise's transition era (move or ownership change), he receives +0.5 CLU — the institutional memory of the franchise lives in the player.",
+      "note": "He is also the first player to have played for the same franchise in three different cities — Boston, Milwaukee, Atlanta."
+    },
+    {
+      "tag": "The Game 7 Grab",
+      "desc": "1957 WS Game 7, final out: with the bases loaded, Mathews made a backhanded stab of Bill Skowron's hard grounder to end the Series. In ILB, once per championship series, Mathews may attempt an extraordinary 3B defensive play: roll 1-3 = backhanded grab (out recorded), 4-6 = standard defensive play. The championship context doubles the probability of the trigger activating.",
+      "note": "Cross-reference with aaron-hank.json '1957 Fall Classic' chemistry trait. Both encode the same WS from different positions."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Community Events",
+      "affinity": "SACRED",
+      "note": "Milwaukee County Stadium / the Sports Illustrated cover / the only World Series in Milwaukee's baseball history. The franchise's Milwaukee era is Mathews's era.",
+      "note_extra": "Source labeled 'County Stadium / Milwaukee / Sports Illustrated Cover August 1954 / First Issue / Only WS' / affinity 'SACRED' — twenty-second SACRED in the set. Mathews's is the second Milwaukee County Stadium SACRED in the set (Kuenn's card also uses County Stadium). But where Kuenn's SACRED is about the 1982 Harvey's Wallbangers Brewers and his Walk of Honor recognition, Mathews's is about the Braves' Milwaukee era (1953-1965) — the franchise's Milwaukee incarnation, which produced the only World Series championship in Milwaukee Braves history and Mathews's most productive seasons. The Sports Illustrated dimension: Mathews appeared on the first-ever cover of Sports Illustrated in August 1954, the most publicly defining photograph of his career. He was identified as the promising young face of baseball at the moment a new magazine was defining what sports could look like in print. He then injured his hand and missed seven games — the first documented subject of what became known as the SI cover curse. The SACRED is not just a ballpark but a specific civic moment: the Milwaukee Braves arrived from Boston in 1953 and 'became the darlings not only of the city but the entire upper Midwest region in a brief but intense romance unparalleled in baseball history' (SABR biography). Mathews was the first star of that romance."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "MAXIMUM",
+      "note": "Nine consecutive seasons of 30+ HR. Ty Cobb's perfect swing. The mother who pitched to him and gave him a chore every time he hit it back through the middle. The pull hitter built by a domestic training apparatus in Santa Barbara.",
+      "note_extra": "Source labeled 'Nine Consecutive 30-Plus HR / Perfect Swing / Wrist Mechanics / Mother Pitcher / Domestic Training' / affinity 'MAXIMUM' — eighth MAXIMUM in the set (after Waddell, Brecheen, Gehrig, Wynn/Harder, Fox/self-prep, Doby/daily, Aaron/accumulation). Mathews's is the most domestically sourced MAXIMUM in the set — the mechanics that produced the nine consecutive 30+ HR seasons were trained into him not by a professional coach or a system but by his mother throwing him pitches in a parking lot and assigning chores when he hit the ball back through the middle. He credits this in his Hall of Fame induction speech, verbatim: 'She used to pitch to me and my dad would shag and as I got older every time I hit a ball back through the middle, close to my mother I got an additional chore to do, so my mother was instrumental in making me a pull hitter.' The MAXIMUM is the pull swing — the mechanics behind the 512 HR, the 47 in 1953, the perfect swing Cobb praised, the wrist mechanics Spahn described as distinct from Mantle's. Rogers Hornsby's 1954 assessment: 'Mathews is the most dangerous hitter in baseball today. And he is going to get better because he wants to learn, because he is always asking questions.' The MAXIMUM includes the learning posture — the hitter who always asked questions — as well as the physical gift."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Texarkana, Texas. Santa Barbara, California. The father's semi-pro background. The mother's pitching and the chores. The midnight signing after graduation — the first legally permissible moment.",
+      "note_extra": "Source labeled 'Texarkana / Santa Barbara / Father Semi-Pro / Mother Pitcher / Midnight Signing / High School Field Named' / affinity 'ORIGIN' — twenty-fifth ORIGIN in the set. Mathews's ORIGIN contains the clearest through-line of any in the set from a childhood training apparatus to a specific major league skill. Born in Texarkana, Texas, October 13, 1931. Family moved to Santa Barbara when he was 6. His father, a former semi-pro baseball player, took him to a junior high school field for workouts at age 6. His mother pitched to him regularly; the chore penalty for hitting through the middle trained him to pull. He became all-state in football and baseball at Santa Barbara High School. The high school baseball field is named after him. Scout Johnny Moore signed him on his graduation night in 1949, just after midnight, to comply with rules prohibiting minors from signing contracts — midnight after graduation was the earliest legal moment. He hit 17 HR for Class D Hi-Toms that first summer. The ORIGIN is the Santa Barbara High School field and the junior high parking lot where his mother pitched and his father shagged — the domestic laboratory that produced the most powerful swing Ty Cobb ever praised in a young player."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "COMPLEX",
+      "note": "The drinking. The coaching jobs lost. The firing during Aaron's 715 pursuit. The quiet admission in later years: he was not always sober, and it cost him.",
+      "note_extra": "Source labeled 'Drinking / Lost Coaching Jobs / Firing 1974 / Aaron Pursuit / Quiet Admission' / affinity 'COMPLEX' — thirteenth COMPLEX in the set (after Robinson, Waddell, Gehrig, Blackwell, Doby, Kaline, Mantle/father-son, Berra, Wynn/gout, Lemon/reluctance, Banks/Durocher, Snider/temperament). Mathews's is the most private COMPLEX in the set — not a public incident or a personnel conflict but a quietly documented personal struggle. He admitted in later interviews that his drinking cost him coaching jobs after his career ended. He was fired as Braves manager on July 21, 1974 — during the most historically significant season in the franchise's history, the Aaron 715 pursuit — when the team fell to fourth place with a 50-49 record. Aaron and Darrell Evans both publicly criticized the firing decision. Aaron: 'It was a blow to me.' Mathews was hurt by the decision but did not dramatize it publicly. The COMPLEX is the man who managed Aaron's record pursuit, who had his own 863 HR partnership with Aaron, who was the franchise's last Boston Brave, and who was managing the team's most historically significant season while dealing with a personal problem he acknowledged but did not resolve publicly. The Hotel/Rest domain is the quiet space — not the ballpark but the hotel room, the offseason, the years after the career when the coaching jobs did not materialize."
+    },
+    {
+      "location": "Ballpark",
+      "affinity": "HIGH",
+      "note": "The daily pleasure of playing. Mathews said: 'The one thing I am proudest of is that every day I played, I gave the best I had.' He played 2,181 career games at 3B — the ML record at retirement.",
+      "note_extra": "Source labeled 'Every Day / Best I Had / 2181 Games / Career ML Record / Daily Devotion' / affinity 'HIGH' — twenty-sixth HIGH affinity in the set. Mathews's is the only Ballpark/HIGH in the set that is grounded in a specific HOF quote. He said at his HOF induction: 'The one thing I am proudest of is that every day I played, I gave the best I had.' The 2,181 career games at 3B — the ML record at retirement — is the numerical expression of this daily devotion. No 3B had played more games at the position in the history of baseball. The Ballpark domain is appropriate for the HIGH: the stadium as daily commitment, not as sacred monument or SACRED event. The HIGH is the emotional texture of 2,181 days of showing up and doing the job. This affinity acknowledges Mathews's career as a practice of physical and professional commitment that was recognized in the HOF plaque text."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Hitter's parks with favorable pull dimensions — The Mother's Chore trait activates: pull-friendly parks give Mathews POW +0.5. County Stadium was moderately favorable for LHB.",
+      "Aaron in the lineup — 863 trait activates: both Mathews and Aaron receive POW +0.5 when they share a lineup. The partnership chemistry is structural.",
+      "Extra innings championship context — Walk-Off in the Tenth trigger: once per championship series in extra innings with the score tied, the walk-off HR trigger rolls.",
+      "Always asking questions — the Hornsby description of his intellectual curiosity. In multi-game series, Mathews's stats trend upward after the first game as he adjusts to the opposing pitcher: +0.25 CON per consecutive game against the same pitcher."
+    ],
+    "cold_triggers": [
+      "The low curve on three-and-two — Sal Maglie noted this tendency. In ILB, when an opposing pitcher successfully throws three consecutive low breaking balls in an at-bat, Mathews's CON degrades by 0.5 for that at-bat.",
+      "SPD 0 — no baserunning contribution. The pull hitter who doesn't run.",
+      "The drinking (historical) — encoded in COMPLEX; does not appear in the playing stats but is present in the post-career arc.",
+      "Post-30 injury pattern — knee and other injuries began to accumulate after age 30 (injuries are why the 30+ HR streak ended in 1961 rather than extending further)."
+    ],
+    "pressure_response": "1957 WS Game 4, 10th inning. The Braves had lost the first game, won the second, lost the third. Game 4, tied 4-4, October. Mathews hit a two-run HR off Bob Grim to give Milwaukee a 7-5 victory and even the Series. Then in Game 7, the bases loaded, the final out, the backhanded stab of Skowron's grounder. The pressure response is the walk-off and the grab — the two championship moments that bracket the 1957 Braves' only title."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Chore",
+      "type": "Origin",
+      "text": "His mother is pitching to him. His father is shagging. Every time he hits the ball back through the middle, too close to his mother, he gets an additional chore. He learns not to hit the ball back through the middle. He learns to pull the ball. Ty Cobb will later say his swing is perfect. Rogers Hornsby will say he is the most dangerous hitter in baseball. His mother will say nothing. She knows.",
+      "origin": "Directly from Mathews's HOF induction speech, August 7, 1978: 'She used to pitch to me and my dad would shag and as I got older every time I hit a ball back through the middle, close to my mother I got an additional chore to do, so my mother was instrumental in making me a pull hitter.' The Ty Cobb and Rogers Hornsby quotes are documented in multiple sources."
+    },
+    {
+      "title": "Midnight",
+      "type": "Origin",
+      "text": "Boston Braves scout Johnny Moore wants to sign Eddie Mathews to a professional contract. There is a rule: you cannot sign a minor. Eddie Mathews graduates from Santa Barbara High School on a June evening in 1949. One minute after midnight — no longer a minor, legally — Johnny Moore signs him. The signing bonus is $6,000. He will play 63 games that summer and hit 17 home runs. He will hit 512 more over the next seventeen years. The contract begins at one minute after midnight.",
+      "origin": "The midnight signing is documented in the Grokipedia source: 'Boston Braves scout Johnny Moore signed him to a professional contract at age 17 in June 1949, immediately following his high school graduation and just after midnight to comply with rules prohibiting signings of minors.' The $6,000 bonus is also documented there."
+    },
+    {
+      "title": "The First Issue",
+      "type": "Legacy",
+      "text": "August 16, 1954. Sports Illustrated publishes its first issue. On the cover: your third baseman, swinging. He is 22 years old. He hit 47 home runs last year. He has been described by Ty Cobb as one of the three or four perfect swings of his lifetime. The magazine will publish for 70 more years. He will injure his hand and miss seven games shortly after the cover appears. The magazine's staff will not know for several decades that they have invented a curse.",
+      "origin": "Mathews appeared on the cover of the first issue of Sports Illustrated, published August 16, 1954. The 'SI Curse' origin from this first cover is documented in the Baseball Almanac entry and multiple sports journalism sources. He had hit 47 HR in 1953. The hand injury and seven missed games following the cover are documented."
+    },
+    {
+      "title": "Three or Four Perfect Swings",
+      "type": "Legacy",
+      "text": "Ty Cobb, who has seen more baseball than almost any living person, watches the young third baseman swing. He says: 'I have only known three or four perfect swings in my time. This lad has one of them.' Warren Spahn, who faces batters every four days and has faced more than most, says of Mathews and Mantle: 'Mathews is just as strong as Mantle. They do not hit the same — Mantle gets all of his weight into his swing; Mathews uses his wrists more.' Rogers Hornsby says he is the most dangerous hitter in baseball and will get better because he always asks questions. Three Hall of Famers describe the same swing. They are all right.",
+      "origin": "The Ty Cobb quote is documented in multiple sources. The Warren Spahn quote is from Wikipedia citing a sports publication. The Rogers Hornsby quote ('Mathews is the most dangerous hitter in baseball today') is documented in the Baseball Hall of Fame biography (1954). All three men who spoke were HOF players evaluating a fourth HOF player."
+    },
+    {
+      "title": "The Walk-Off in the Tenth",
+      "type": "Game Action",
+      "text": "Game 4, 1957 World Series, County Stadium, Milwaukee. The Braves have lost the third game. The Series is 2-1 Yankees. This game is tied 4-4 in the 10th inning. Your third baseman is at bat against Bob Grim. He hits the ball over the fence for two runs. Milwaukee wins 7-5. The Series is now 2-2. The Braves will go on to win in seven games. Your third baseman will make the final out with a backhanded grab of a hard grounder with the bases loaded. Milwaukee will never win another World Series. This is their only one.",
+      "origin": "1957 WS Game 4, October 6, 1957, County Stadium. The two-run walk-off HR by Mathews off Bob Grim in the 10th inning is documented in multiple sources including The Astros Daily obituary and Wikipedia. The Game 7 backhanded grab of Skowron's grounder is also documented."
+    },
+    {
+      "title": "The Last Boston Brave",
+      "type": "Legacy",
+      "text": "When the Braves moved from Milwaukee to Atlanta before the 1966 season, Eddie Mathews was the only active major league player who had also played for the team when it was in Boston. He had been a rookie in 1952. The Braves had played in Boston since 1876. In 1966, the last connection to that history was a 34-year-old third baseman who was no longer the player he had been. He was traded to Houston after the 1966 season. He was not in Atlanta when the franchise settled. The connection ended there.",
+      "origin": "Documented in multiple sources. Mathews is identified as the only player to appear for the Braves in all three cities (Boston, Milwaukee, Atlanta). He was traded to the Houston Astros after the 1966 season. When the Braves moved to Atlanta in 1966, Mathews was 'the last Boston Brave still on an active roster' (Wikipedia)."
+    },
+    {
+      "title": "863",
+      "type": "Legacy",
+      "text": "From 1954 to 1966, Eddie Mathews and Hank Aaron are teammates on the Milwaukee Braves, and then the Atlanta Braves. Together they hit 863 home runs. This is more than any two teammates in baseball history, including Babe Ruth and Lou Gehrig. Mathews says of Aaron: 'At the start, Hank was not the home run hitter he ended up to be. I was two years ahead of him but we were both starry-eyed kids. Later it became a friendly rivalry. It was not that we tried to hit home runs because I do not think you can. But we were in our own little competition.' The record stands.",
+      "origin": "The 863 combined HR record is documented in the Baseball Almanac and multiple sources (Aaron 442, Mathews 421 over 1954-1966). Mathews's quote about Aaron is documented in the Baseball Hall of Fame biography. The record surpassed Ruth and Gehrig's total."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'1'', 190 lbs — the physical archetype of a power hitter at third base. In 1953 he is 21 years old, in his second season, in the Braves' first season in Milwaukee, having just hit 47 home runs to lead the National League. Ty Cobb has said his swing is perfect. Next year he will be on the cover of the first Sports Illustrated. The face in the card year is the face of the most dangerous young hitter in baseball — before the partnership with Aaron, before the 1957 championship, before the drinking, before the manager's firing in 1974.",
+    "attire": "Milwaukee Braves home whites — the distinctive Braves script, number 41. The left-handed 3B stance, the pull hitter's setup, the quick wrists that Spahn described as distinct from Mantle's.",
+    "mood": "Physical confidence, intellectual curiosity. Hornsby's description — always asking questions, wanting to get better — is the mood: the gifted hitter who knows he is good and wants to know why, and wants to know more. The perfect swing, worn without self-consciousness.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Milwaukee County Stadium in the background — the upper Midwest ballpark that the franchise and the city fell in love with from 1953 onward. The card year is Milwaukee's first: the romance between a franchise and a city that lasted thirteen seasons and produced one championship.",
+    "reference": "Three Hall of Famers on the same swing: Cobb ('three or four perfect swings'), Hornsby ('most dangerous hitter in baseball'), Spahn ('uses his wrists more' than Mantle). The portrait contains the player all three were describing: the young man on the first Sports Illustrated cover, the Milwaukee Brave, the pull hitter his mother trained with chores."
+  }
+}
