@@ -1,0 +1,199 @@
+{
+  "card_type": "player",
+  "name": "Robin Roberts",
+  "nickname": "Robbie",
+  "year": 1952,
+  "team": "Philadelphia Phillies",
+  "league": "National League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "SP",
+  "bats": "S",
+  "throws": "R",
+  "height": "6'0\"",
+  "weight": "190 lbs",
+  "born": "September 30, 1926 — Springfield, IL",
+  "died": "May 6, 2010 — Temple Terrace, FL",
+  "hof": "Class of 1976 (BBWAA, 86.9%)",
+
+  "real_stats": {
+    "season": 1952,
+    "games": 39,
+    "games_started": 37,
+    "complete_games": 30,
+    "shutouts": 3,
+    "wins": 28,
+    "losses": 7,
+    "era": "2.59",
+    "innings_pitched": "330.0",
+    "hits_allowed": 292,
+    "walks": 45,
+    "strikeouts": 148,
+    "whip": "1.02",
+    "era_plus": 136,
+    "war": 9.3,
+    "all_star": 7,
+    "awards": "28-7, ERA 2.59, 330 IP, 45 BB (1.23 BB/9), 148 K. Most wins in the NL since Dizzy Dean's 28 in 1935. The Sporting News MLB Player of the Year AND NL Pitcher of the Year, 1952. Led NL in wins (1952-1955 — four consecutive years). Led NL in IP (1951-1955). Led NL in complete games (1952-1956). 28 consecutive complete games streak, August 28, 1952 through July 5, 1953 — still the longest CG streak since 1920. Six consecutive 20-win seasons (1950-1955). Never missed a start in the 1950s. 12 consecutive Opening Day starts for the same team (1950-1961) — ML record. Lost the 1952 NL MVP to Hank Sauer (who led the league in HR and RBI on the last-place Cubs). Commissioner Ford Frick was reportedly so bothered by Roberts's snub that he told Roberts at a dinner he was going to create a separate award for pitchers — the Cy Young Award was inaugurated in 1956. Second-most career HR allowed in ML history (505, behind only Jamie Moyer). Ralph Kiner: 'Probably the best fastball I ever saw was Robin Roberts. His ball would rise around six or eight inches, and with plenty on it. And he had great control.'",
+    "world_series": "1 WS appearance (1950 World Series). Phillies swept 4-0 by the Yankees. Roberts started Game 2, pitched 10 innings in a 2-1 loss — Joe DiMaggio hit a walk-off HR off Roberts in the 10th. He had pitched three games in the final five days of the season to clinch the pennant; the WS came too quickly for his arm to recover fully. The 1952 season was his best by any measure but the Phillies did not reach the postseason.",
+    "career_era": "3.41",
+    "career_wins": 286,
+    "career_losses": 245,
+    "career_war": 81.7,
+    "career_ip": "4688.2",
+    "career_notes": "19 seasons (1948-1966). Philadelphia Phillies (1948-1961), Baltimore Orioles (1962-1965), Houston Astros (1965-66), Chicago Cubs (1966). 286-245, 3.41 ERA, 2,357 K, 305 CG, 45 SHO, 81.7 WAR. Six consecutive 20-win seasons. 12 consecutive Opening Day starts (same team record). 505 career HR allowed (second-most in ML history). First NL pitcher to defeat the Braves in all three cities (Boston, Milwaukee, Atlanta). Coached University of South Florida baseball for 9 seasons after his ML career. Died May 6, 2010 in Temple Terrace, Florida."
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "stf": 4,
+    "ctl": 5,
+    "sta": 3,
+    "def": 1,
+    "clu": 1
+  },
+
+  "stat_justification": {
+    "stf": "The rising fastball that Ralph Kiner described as 'probably the best fastball I ever saw' — rising six to eight inches with excellent command. A two-pitch pitcher (fastball + curve) who dared hitters to make contact. Willie Stargell on the late-career Roberts: 'looks like the kind of pitcher you can't wait to swing at, but you swing, and the ball is not where you thought it was.' STF 4 reflects the elite but not historically anomalous peak fastball — the same tier as Wynn and Lemon in the set, appropriate for the NL's dominant starter of the early 1950s.",
+    "ctl": "45 walks in 330 innings (1952) — 1.23 BB/9. The most elite walk rate in the set by any pitcher. In 1953: 66 BB in 346⅔ IP (still under 2.0 BB/9). Led NL in strikeouts twice. The SABR biography: 'He rarely walked anyone, forcing the opposition to swing the bat.' CTL 5 — first SP at CTL 5 in the set (Ford was CTL 4, the prior record). The walk rate in 1952 is historically exceptional and warrants the maximum control rating.",
+    "sta": "30 complete games in 1952 (led NL). 330 innings. 28 straight complete games streak. Led NL in innings pitched 1951-1955, complete games 1952-1956. 305 career complete games. Six consecutive seasons of 300+ innings and 20+ wins. Never missed a start in the 1950s. STA 3 (maximum) — the most documented iron-horse workload in the set for a pitcher.",
+    "def": "Switch hitter but not known for exceptional fielding. Standard pitcher DEF 1.",
+    "clu": "One WS appearance (1950). Swept by the Yankees. Game 2 loss in 10 innings off a DiMaggio walk-off HR. The 1950 pennant-clinching game is the CLU-defining moment: he started the final day of the season and beat the Dodgers in 10 innings at Ebbets Field for his 20th win, the Phillies' first pennant in 35 years. CLU 1 reflects: one championship appearance (none won), no championship, but one definitive pennant-clinching start that belongs in the ILB record."
+  },
+
+  "personality": {
+    "leadership_style": "Solitary concentration. Roberts: 'I don't think anyone was ever able to concentrate in a baseball game any better than I was. I stood out there in total isolation, just throwing that ball as well as I could. Nothing bothered me.' The leadership was not through communication or inspiration but through the example of showing up and finishing. Never missed a start in the 1950s. 12 consecutive Opening Day starts. The iron-horse model of leadership: reliability as authority.",
+    "temperament": "Direct and confrontational — in the pitcher/hitter relationship. The philosophy of daring hitters to hit his fastball and accepting the consequences (505 career HR allowed) is the clearest statement of temperament in the set for a pitcher. He didn't try to fool hitters; he threw the ball and let them hit it. Off the field: outspoken critic of Little League baseball; ran a seafood company; toured with a basketball team against the Harlem Globetrotters. The confrontational quality applied to institutions as well as hitters.",
+    "work_ethic": "The 17-inning complete game on September 6, 1952 against the Braves — 71 batters faced, approximately 284-355 pitches by contemporary estimates — is the work ethic's extreme document. Six consecutive seasons of 300+ innings and 20+ wins. Led NL in IP five consecutive years. The Michigan State scout who signed him: 'I wanted to sign you right then. I knew anybody with that hard a head would be a whale of a pitcher.' (The 'hard head' referred to Roberts taking a line drive off his skull.) The work ethic is the skull that absorbed the line drive and kept pitching.",
+    "lifestyle": "Springfield, Illinois to Michigan State to Philadelphia to the rest of the NL. Married and settled in Philadelphia during his career. Ran Gold King Seafood Company in Philadelphia while pitching (appeared on What's My Line trying to hide this). Toured with Robin Roberts All-Stars basketball team against the Globetrotters in the off-season. Outspoken critic of Little League after retirement. Coached college baseball for nine seasons at University of South Florida with six conference titles. The pitcher who never missed a start became the coach who always showed up.",
+    "era_adaptability": "MAXIMUM for the pre-ERA-analysis era. Roberts pitched in an era that valued complete games, innings, and wins — and he dominated all three. The 45 walks in 330 innings in 1952 translates to a roughly 1.2 BB/9 in any era. The rising fastball would play in any generation. The 505 career HR allowed would be viewed differently today — the philosophy of daring contact rather than avoiding it was era-specific but the underlying control metrics are timeless.",
+    "dark_side": "The 1952 MVP snub. He went 28-7. He didn't win. Hank Sauer, who led the last-place Cubs in HR and RBI, won instead. Commissioner Frick's eventual creation of the Cy Young Award is the documented consequence of this specific injustice — Roberts was the reason a new award was created, and he never won it. The Cy Young Award was inaugurated in 1956; Roberts's best years (1950-1955) predated the award. He finished third in the 1956 Cy Young voting. He was the inspiration for an award he never received."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Total Isolation",
+      "desc": "Roberts: 'I stood out there in total isolation, just throwing that ball as well as I could. Nothing bothered me.' In ILB, Roberts's CTL 5 does not degrade from crowd noise, baserunner presence, or late-inning pressure. The isolation is structural — not a situational boost but a permanent baseline condition."
+    },
+    {
+      "tag": "28 Straight",
+      "desc": "28 consecutive complete games, August 1952 through July 1953 — still the longest CG streak since 1920. In ILB, Roberts's STA 3 gains a streak bonus: after completing two consecutive games, each subsequent game generates a +0.5 STA bonus until the streak is broken. The historical streak is the mechanic.",
+      "note": "The streak included a 17-inning complete game on September 6, 1952."
+    },
+    {
+      "tag": "Dare to Hit It",
+      "desc": "Roberts's pitching philosophy: dared hitters to hit his fastball, accepted the consequences. In ILB, Roberts generates a contact-rate bonus — opposing batters make contact more often than against other STF 4 pitchers, but the quality of that contact is reduced by the CTL 5 control. Solo HRs happen; games are won.",
+      "note": "Career 505 HR allowed — second-most in ML history."
+    },
+    {
+      "tag": "The Last Brooklyn Homer",
+      "desc": "Duke Snider's seventh-inning homer off Roberts on September 22, 1957 was the last home run ever hit at Ebbets Field. Both are Dreamers 1950 cards. In ILB, when Roberts faces Snider in any game, a historical trigger activates: the final inning of the Ebbets Field era is present in the matchup.",
+      "note": "Cross-reference snider-duke.json: 'The Last Brooklyn Homer' action card and 'The Last Brooklyn Homer' chemistry trait."
+    },
+    {
+      "tag": "The Cy Young He Never Won",
+      "desc": "Roberts's 1952 MVP snub — going 28-7 and losing to Hank Sauer — reportedly led Commissioner Frick to create the Cy Young Award in 1956. Roberts never won it. In ILB, this is encoded as: Roberts's CLU 1 reflects the career achievement/recognition gap; when he faces a lineup with multiple MVP-caliber hitters, his STF gains +0.5 — the underrecognition converts to intensity.",
+      "note": "The Cy Young Award was inaugurated in 1956 because of Roberts's 1952 snub. He finished third in the first Cy Young vote."
+    },
+    {
+      "tag": "Hard Head",
+      "desc": "The Michigan State scout's report after Roberts took a line drive off his head and kept pitching: 'I wanted to sign you right then. I knew anybody with that hard a head would be a whale of a pitcher.' In ILB, when Roberts is hit hard in an inning (3+ ER allowed), his next inning starts with a CLU reset — the hard head absorbs the damage and continues.",
+      "note": "The line drive to the head is documented in the SABR biography and the Roberts autobiography."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballpark",
+      "affinity": "SACRED",
+      "note": "Connie Mack Stadium / Shibe Park. The 12 consecutive Opening Day starts. The 28-straight CG streak. The statue at Citizens Bank Park at the first-base gate. The franchise's career records in games, CG, and IP. Philadelphia's permanent first baseman of the pitching staff.",
+      "note_extra": "Source labeled 'Connie Mack Stadium / 12 Opening Days / 28 Straight CG / Citizens Bank Statue / Phillies Career Records' / affinity 'SACRED' — twenty-fifth SACRED in the set. Roberts's SACRED is the most institutionally comprehensive in the set for a pitcher: he held the Phillies franchise career records in games pitched, complete games, and innings pitched until Steve Carlton arrived. He holds the ML record for most consecutive Opening Day starts for the same team (12, 1950-1961). The 28-consecutive-complete-games streak from August 1952 through July 1953 is still the longest since 1920 — an endurance record that belongs to this specific park, this specific rotation, this specific era. The Citizens Bank Park statue at the first-base gate (since 2004) is the SACRED's permanent expression. The Ballpark domain is appropriate: Roberts's relationship with Philadelphia's baseball venues was the entire length of his prime, 1948-1961 — 14 seasons in the same park, on the same mound, making the same Opening Day starts. He was also the first inductee into the Phillies Baseball Wall of Fame in 1978."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "MAXIMUM",
+      "note": "45 walks in 330 innings in 1952. Never missed a start in the 1950s. Six consecutive 300+ IP seasons with 20+ wins. Total isolation on the mound. The work is the man.",
+      "note_extra": "Source labeled '45 BB in 330 IP / Six 300-Plus IP Seasons / Never Missed a Start / 28 Straight CG / 17-Inning Game' / affinity 'MAXIMUM' — ninth MAXIMUM in the set (after Waddell, Brecheen, Gehrig, Wynn/Harder, Fox/self-prep, Doby/daily, Aaron/accumulation, Mathews/mother's chore). Roberts's is the MAXIMUM of pitching workload extended to extremes. The specific data points: 45 walks in 330 innings (1.23 BB/9) is the elite control that allows the workload to be sustained — you cannot pitch 300+ innings six consecutive years without elite control or you would simply walk batters through the innings. The 17-inning complete game on September 6, 1952 (facing 71 batters, approximately 284-355 pitches) is the MAXIMUM's single extreme moment. The 28-consecutive-complete-games streak is the MAXIMUM's sustained expression. Roberts's quote is the MAXIMUM's internal description: 'I don't think anyone was ever able to concentrate in a baseball game any better than I was. I stood out there in total isolation, just throwing that ball as well as I could. Nothing bothered me.' The Practice Field domain: the MAXIMUM lives in the daily routine of preparation and execution, not in a single game moment."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Springfield, Illinois. Tom Roberts, Welsh immigrant coal miner, Gallipoli veteran, Lancashire strike refugee. The son grows up listening to Cubs games on the radio. Michigan State basketball. The hard head. The $25,000 signing bonus.",
+      "note_extra": "Source labeled 'Springfield Illinois / Welsh Coal Miner Father / Gallipoli / Lancashire Strike / Michigan State Basketball / Hard Head Scout Story / 25000 Signing Bonus' / affinity 'ORIGIN' — twenty-eighth ORIGIN in the set. Roberts's is the most geographically and historically layered non-American ORIGIN in the set. His father Tom Roberts was Welsh — born in Bolton, Lancashire, England. Tom had fought in the British Army at Gallipoli during WWI (one of the war's most catastrophic campaigns). After the war, Tom returned to the coal mines in Bolton but a strike in 1921 drove the family to emigrate. A friend told him about steady employment in the soft-coal fields around Springfield, Illinois. Tom and Sarah brought their family to Springfield — and found the mines operating only one day a week. The family expanded their two-room farmhouse as the family grew. Robin grew up listening to Cubs games on the radio, a Welsh coal miner's son in the Illinois prairie. He went to Michigan State on a basketball scholarship (not baseball), became a star in field-goal percentage and team captain, then was persuaded to try out for the baseball team because coach John Kobs needed a pitcher. During a practice, he took a line drive off his skull; the scout who saw it said: 'I wanted to sign you right then. I knew anybody with that hard a head would be a whale of a pitcher.' The Phillies signed him for $25,000 and deferred the bonus so he could finish his basketball season. The ORIGIN runs from Gallipoli to the soft-coal fields to a line drive off the skull to the mound at Connie Mack Stadium."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "VOLATILE",
+      "note": "505 career home runs allowed. The philosophy of daring hitters to hit his fastball. He accepted the consequences. He never changed the philosophy.",
+      "note_extra": "Source labeled '505 Career HR Allowed / Dare to Hit / Accept the Consequences / Fly Ball Pitcher / Solo HR Philosophy' / affinity 'VOLATILE' — third VOLATILE in the set (after Waddell's unpredictability and Wynn's mound aggression). Roberts's VOLATILE is unique in the set — not aggression or unpredictability but a deliberate philosophical commitment to contact. He allowed 505 career HR — second-most in ML history behind only Jamie Moyer. His SABR biography: 'His great control, especially for one who threw so hard and relied so heavily on his fastball, was also a key to his success. He was able to throw down and away and up and in and paint the black. He rarely walked anyone, forcing the opposition to swing the bat.' The VOLATILE is the consequence: when you force everyone to swing, sometimes they connect solidly. Roberts's attitude toward this is documented and consistent — he gave up solo HRs with the game in hand, accepted the result, and maintained the approach. The Practice Field domain: the VOLATILE lives in the philosophy behind the pitch selection, not in emotional outbursts. 'I stood out there in total isolation, just throwing that ball as well as I could.' The isolation accepted the HR as part of the methodology."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "CODA",
+      "note": "The Cy Young Award was created because Robin Roberts was snubbed for the 1952 MVP. He never won it. The award named for Cy Young exists because of Roberts. Roberts was the inspiration for an award he could not receive.",
+      "note_extra": "Source labeled 'Cy Young Award Origin / 1952 MVP Snub / Hank Sauer / Commissioner Frick Dinner / Roberts Never Won It / Award Created For Him' / affinity 'CODA' — sixth CODA in the set (after Brecheen late career, Kuenn/Koufax, Fox/posthumous HOF, Raschi/WS-eve death, Hodges/50-year wait). Roberts's is the most institutionally resonant CODA in the set: a rule change named after him that he could not personally benefit from. The sequence: in 1952 Roberts went 28-7 with a 2.59 ERA. He did not win the NL MVP because Hank Sauer of the last-place Cubs led the league in HR and RBI. The SABR biography: 'A couple of years later Commissioner Ford Frick told Roberts at a dinner that he was going to create an award just for pitchers, since he did not think that pitchers got enough recognition. Thus, in 1956, major-league baseball inaugurated the Cy Young Award, in large part because Roberts was snubbed for the MVP after his remarkable 1952 season.' Roberts finished third in the first Cy Young vote in 1956, behind Don Newcombe (20-7) and Sal Maglie. He never won the award he inspired. The award named for Cy Young — not for Roberts — was created because of Roberts. He went 19-18 in 1956, the year the award was inaugurated, with an ERA of 4.45 in his worst season in years. The CODA is the legacy outliving the record: Roberts gave us the Cy Young Award, the Cy Young Award gave us a way to recognize pitchers, and Roberts's career ended without one."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Total isolation — CTL 5 never degrades under pressure; the 28-straight CG streak bonus activates after two consecutive complete games.",
+      "Dare to Hit It — when Roberts's fly ball rate is high (contact-heavy), his CLU resistance to lineup pressure improves: the HR allowed is accepted as strategy.",
+      "Snider matchup cross-card — the Last Brooklyn Homer trigger activates when Roberts faces Snider in any game.",
+      "Hard Head recovery — after an inning with 3+ ER allowed, the next inning resets CLU baseline. The damage is absorbed, the mound is reclaimed."
+    ],
+    "cold_triggers": [
+      "CLU 1 — no WS championships; the 1950 WS sweep by the Yankees is the cold ceiling. In championship contexts, Roberts's CLU 1 does not boost as other pitchers' CLU scores do.",
+      "The 505 HR pattern — VOLATILE activates when Roberts faces a lineup with multiple power hitters (POW 4-5 cards); each extra power hitter in the opposing lineup has a +0.5 HR probability against Roberts.",
+      "Velocity loss (late career) — the CODA encodes the career arc: after the peak (1950-1955), Roberts needed to reinvent as a finesse pitcher. In extended ILB seasons, his STF degrades by 0.5 per 5 simulated seasons.",
+      "The MVP snub pattern — the Cy Young CODA is also a motivational cold/hot: in years without formal recognition (CLU 1 seasons), Roberts's STF gains +0.5 but his CLU-based contributions to team momentum remain capped."
+    ],
+    "pressure_response": "The pennant-clinching game on October 1, 1950: the last day of the season, the Dodgers needed a win to force a playoff. Roberts pitched 10 innings, beat them at Ebbets Field, got his 20th win. The Phillies' first pennant in 35 years. Three weeks later he lost Game 2 of the World Series in 10 innings on a DiMaggio walk-off. The pressure response is both things: the pennant at Ebbets Field and the DiMaggio HR in the World Series. He threw both games in their entirety."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Hard Head",
+      "type": "Origin",
+      "text": "At Michigan State, during practice, Robin Roberts takes a line drive off his skull. He keeps pitching. The scout watching the practice decides right then: he is signing this pitcher. The scout tells him later: 'I wanted to sign you right then. I knew anybody with that hard a head would be a whale of a pitcher.' The Phillies defer the signing bonus so he can finish his basketball season. He signs. He will pitch 4,688 and two-thirds innings in the major leagues. The line drive that hit him in the head was the decisive scouting report.",
+      "origin": "Documented in the SABR BioProject, citing Roberts's autobiography and Chuck Ward's scouting account. Ward's quote is nearly verbatim in the SABR source."
+    },
+    {
+      "title": "The Coal Miner's Son from Gallipoli",
+      "type": "Origin",
+      "text": "Tom Roberts fought in the British Army at Gallipoli during the First World War. After the war he returned to the coal mines of Bolton, Lancashire, England. A strike in 1921 put him out of work. A friend told him about work in the soft-coal fields around Springfield, Illinois. Tom and Sarah emigrated with their children. In Springfield they found the mines operating one day a week. They lived in a two-room farmhouse. Tom gradually expanded it as the family grew. In 1929 he found a job with the Sangamo Electric Company. His son Robin grew up listening to Cubs games on the radio. His son will win 28 games in a single season for a baseball team in Pennsylvania. Tom does not hear this on the radio. He sees it.",
+      "origin": "Tom Roberts's biography is documented in the SABR BioProject. Gallipoli service, Bolton coal mines, 1921 strike, Springfield move, two-room farmhouse, and Sangamo Electric are all documented there."
+    },
+    {
+      "title": "Ten Innings on the Last Day",
+      "type": "Game Action",
+      "text": "October 1, 1950. The last day of the season. The Brooklyn Dodgers need a win to force a playoff with Philadelphia. Your pitcher starts the game. If he wins, the Phillies win the pennant for the first time in 35 years. In the 10th inning, with the score tied, your pitcher is still on the mound. He wins. He records his 20th win of the season. The Phillies celebrate their first pennant since 1915. Your pitcher finishes what he started.",
+      "origin": "The 1950 pennant-clinching game on October 1, 1950 at Ebbets Field, Brooklyn. Roberts's complete game victory in 10 innings and his 20th win are documented in the SABR BioProject and multiple other sources."
+    },
+    {
+      "title": "Total Isolation",
+      "type": "Legacy",
+      "text": "Robin Roberts says: 'I don't think anyone was ever able to concentrate in a baseball game any better than I was. I stood out there in total isolation, just throwing that ball as well as I could. Nothing bothered me.' He pitched 28 consecutive complete games. He led the National League in innings pitched five consecutive years. He never missed a start in the 1950s. He dared hitters to hit his fastball. He accepted the consequences. 505 home runs were hit off him in his career. He was in total isolation. Nothing bothered him.",
+      "origin": "Roberts's quote is from the HOF research. The career statistics (28 CG streak, five IP titles, 505 HR allowed) are documented."
+    },
+    {
+      "title": "The Award He Inspired",
+      "type": "Legacy",
+      "text": "In 1952, Robin Roberts goes 28-7 with a 2.59 ERA. He does not win the National League Most Valuable Player Award. Hank Sauer of the Chicago Cubs, who hit 37 home runs on a last-place team, wins instead. A reporter for the United Press International writes: 'Anybody who knows the difference between a bunt and a punt must be completely flabbergasted at the selection of Hank Sauer in the National League.' Two or three years later, Commissioner Ford Frick tells Roberts at a dinner that he is going to create a separate award for pitchers because he did not think pitchers got enough recognition. The first Cy Young Award is given in 1956. Robin Roberts finishes third. He never wins it. The award exists because of him.",
+      "origin": "The 1952 MVP snub is documented. Commissioner Frick's dinner conversation with Roberts and subsequent creation of the Cy Young Award is documented in the SABR BioProject. The Oscar Fraley UPI quote is documented in the Boy of Summer blog research. Roberts finishing third in the first Cy Young vote (1956) is documented."
+    },
+    {
+      "title": "The Last Homer at Ebbets Field",
+      "type": "Legacy",
+      "text": "September 22, 1957. Duke Snider hits a seventh-inning home run off Robin Roberts. It is the last home run ever hit at Ebbets Field. The Brooklyn Dodgers are playing their last season in Brooklyn; they will move to Los Angeles next year. Roberts is on the mound for the moment that closes the building offensively. He gives up the homer as he has given up 504 others — he accepts the consequence of daring the hitter to swing. The building that has housed the Boys of Summer records its final home run. Roberts pitches on.",
+      "origin": "Duke Snider's seventh-inning homer off Roberts on September 22, 1957 as the last HR ever hit at Ebbets Field is documented in the This Day in Baseball entry for Roberts and in multiple Snider biographical sources. Cross-reference snider-duke.json 'The Last Brooklyn Homer' action card and chemistry trait."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'0'', 190 lbs — the coal miner's son from Springfield, Illinois, who came to Michigan State on a basketball scholarship and became the best pitcher in the NL. In 1952 he is 25 years old, going 28-7, pitching 330 innings with 45 walks. The face in the card year has the 'total isolation' quality he described — the internal focus that allowed 28 consecutive complete games and a 17-inning performance that was not remarkable enough for him to mention as unusual.",
+    "attire": "Philadelphia Phillies home whites — the distinctive Phillies script, number 36. The right-handed delivery stance, the rising fastball grip. The arms that absorbed 330 innings in 1952.",
+    "mood": "The concentrated equanimity of total isolation. Not coldness — he was described as warm and collegial off the field — but the specific focused state that allowed him to dare hitters to contact his fastball and accept the consequences without changing his approach. The portrait should show the pitcher who was going to throw his fastball, accept the result, and do it again.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Connie Mack Stadium / Shibe Park in the background — the Philadelphia ballpark of the 1950s, the context for 12 consecutive Opening Day starts and the career that defined the Phillies franchise for a generation.",
+    "reference": "Ralph Kiner: 'Probably the best fastball I ever saw was Robin Roberts. His ball would rise around six or eight inches, and with plenty on it. And he had great control, which made him very difficult to hit.' Commissioner Frick told Roberts the Cy Young Award was created in part because of his 1952 snub. The portrait contains the pitcher Kiner was describing and the career that produced the snub."
+  }
+}

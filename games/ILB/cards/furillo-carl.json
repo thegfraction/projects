@@ -1,0 +1,202 @@
+{
+  "card_type": "player",
+  "name": "Carl Furillo",
+  "nickname": "The Reading Rifle / Skoonj",
+  "year": 1953,
+  "team": "Brooklyn Dodgers",
+  "league": "National League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "RF",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'0\"",
+  "weight": "190 lbs",
+  "born": "March 8, 1922 — Stony Creek Mills, PA",
+  "died": "January 21, 1989 — Stony Creek Mills, PA",
+  "hof": "Not inducted",
+
+  "real_stats": {
+    "season": 1953,
+    "games": 132,
+    "at_bats": 479,
+    "hits": 165,
+    "doubles": 38,
+    "triples": 6,
+    "home_runs": 21,
+    "rbi": 92,
+    "stolen_bases": 2,
+    "runs": 82,
+    "batting_avg": ".344",
+    "obp": ".392",
+    "slg": ".580",
+    "ops": ".972",
+    "ops_plus": 163,
+    "war": 6.5,
+    "all_star": 2,
+    "gold_gloves": 0,
+    "awards": "NL batting title 1953 (.344 — highest by a right-handed Dodger since 1900). 21 HR, 92 RBI, 38 doubles (3rd in NL). The season ended September 6 when Furillo charged the Giants' dugout after Leo Durocher called for him to be hit; in the ensuing brawl, Monte Irvin stepped on Furillo's hand, fracturing a knuckle. He watched the remainder of the season from the sideline and secured the batting title without playing the final weeks. Led NL in outfield assists in 1950 (18) and 1951 (24). 10 or more assists in nine consecutive seasons. Retired with the fifth-most games in right field in NL history (1,408). Roger Kahn: 'Right field in Brooklyn was his destiny.' Roger Kahn also found him installing elevator doors at the World Trade Center in fall 1970. 'I cannot imagine Carl Furillo in his prime as anything other than a ballplayer.' If he had had one more career hit, his batting average would have been .300.",
+    "world_series": "7 WS appearances (1947, 1949, 1952, 1953, 1955, 1956, 1959). 2 championships (1955, 1959). Career WS: .266 BA, 34 hits, 2 HR, 13 RBI in 40 games. 1952 WS Game 5: caught Johnny Mize's drive over the right-field fence in the 11th inning (a would-be HR) to preserve a 6-5 lead — Mize had already hit 3 HR in the Series. 1953 WS Game 6: 2-run homer in the 9th tied the game 3-3; Yankees scored in the bottom of the inning to win the Series. 1955 WS: solo HR in his first at-bat of Game 1.",
+    "career_avg": ".299",
+    "career_hits": 1910,
+    "career_hr": 192,
+    "career_war": 38.3,
+    "career_rbi": 1058,
+    "career_notes": "15 seasons (1946-1960), all with Brooklyn/Los Angeles Dodgers. .299/.355/.458 career, 38.3 WAR. One hit from .300. 192 HR, 1,910 hits. Seven WS appearances, two championships. After retiring: owned a deli in Flushing, Queens; night watchman; installed Otis Elevator doors at the World Trade Center (found there by Roger Kahn in fall 1970); deputy sheriff in Berks County PA. Died January 21, 1989 in Stony Creek Mills — the same Pennsylvania town in which he was born. Sandy Koufax (his former roommate) attended his funeral."
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 5,
+    "pow": 4,
+    "spd": 0,
+    "def": 3,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": ".344 BA (1953). OPS+ 163 clears the 130+ bonus: base band 4 + bonus = CON 5. Career .299 — one hit from .300. Carl Erskine called him a 'Bible hitter': first pitch, anywhere, he swings. The contact was instinctive and powerful rather than disciplined, but the result was the highest batting average by a right-handed Dodger since 1900. He batted .290 or better nine times in his career. CON 5 reflects both the peak season and the sustained contact quality.",
+    "pow": "21 HR (1953). SLG .580 clears the .500 bonus: base band 3 + bonus 1 = POW 4. Career 192 HR over 15 seasons — moderate power, not a dominant slugger. He was primarily a gap hitter with a line-drive swing. The SLG bonus in 1953 is real (career-high SLG .580) but the underlying 21 HR power profile is correctly at POW 3 base, reaching POW 4 through the SLG.",
+    "spd": "2 SB in 1953. Vin Scully: 'I guess you would call him a cautious base runner. That is why his nickname among his teammates was Skoonj, which was short for the Italian word meaning snail.' SPD 0. Career 48 SB over 15 seasons. He was not slow in a physical sense but he was slow in a baserunning philosophy sense — he did not run when in doubt. The snail nickname from his own teammates is the stat justification.",
+    "def": "Led NL in outfield assists in 1950 (18) and 1951 (24). 10+ assists in nine consecutive seasons. Near-300 angles on the Ebbets Field right-field wall mastered. Mel Queen thrown out at first from 300 feet (1951). Johnny Mize caught over the fence in the 1952 WS. Roger Kahn: 'Furillo never attended high school. Plane geometry remained a mystery to him. But he knew every angle, every carom. The way Furillo played the wall describes an art form.' DEF 3 reflects the combination of the elite throwing arm and the mastery of the specific architecture of right field at Ebbets Field — a DEF 3 that is as much positional intelligence as physical tool.",
+    "clu": "7 WS appearances, 2 championships. The 1952 WS catch over the fence, the 1953 WS 9th-inning game-tying HR in Game 6, the 1955 WS solo HR in Game 1. Career WS .266 BA in 40 games. CLU 2 reflects the sustained WS presence (seven appearances), two championships, and the specific memorable postseason moments without the sustained WS dominance (like Snider's 11 HR / 26 RBI across six Series) that would justify CLU 3."
+  },
+
+  "personality": {
+    "leadership_style": "By performance and proximity. Furillo was not a vocal leader — the eighth-grade dropout who felt socially awkward among better-educated teammates led through the excellence that was obvious every day: the arm, the wall, the batting title won while on the sideline. Roger Kahn's placement of him as a central figure in The Boys of Summer reflects his teammates' affection and respect rather than a formal leadership role.",
+    "temperament": "Intense, suspicious of slights, capable of violence against genuine provocation. The Durocher headlock (1953) was not impulsive — it was the culmination of years of documented hostility, including a 1950 beaning where a Giants coach reportedly warned Furillo: 'Tonight we get you, Dago.' Furillo grabbed Durocher and didn't let go until the brawl separated them. His teammates' accounts of his character emphasize that the intensity was earned and the grievances were real. Sandy Koufax attended his funeral. The man who felt baseball forgot him was remembered by his teammates.",
+    "work_ethic": "The wall. He studied the 300 angles of the Ebbets Field right-field wall until mastery was complete. He could not have studied them in school because he had left school in the eighth grade. He learned them through repetition, memory, and the same physical intelligence that made him a pitcher too dangerous to use before Fresco Thompson said it was an act of public safety to put him in the outfield. The work ethic was applied intelligence rather than formal learning.",
+    "lifestyle": "Stony Creek Mills to Reading to Brooklyn to Flushing, Queens to Stony Creek Mills. He married Fern Reichart and settled in Brooklyn during his career. When the Dodgers moved to Los Angeles, he followed reluctantly. After his retirement from baseball — which he believed was forced on him through blackballing — he installed Otis Elevator doors at the World Trade Center, owned a deli, worked as a night watchman, became a deputy sheriff in Berks County, and returned to die in the same Pennsylvania town he was born in. He felt baseball forgot him and said so. His teammates didn't forget.",
+    "era_adaptability": "The arm translates to any era. The wall mastery is specific to Ebbets Field and cannot be translated — it was a unique piece of architecture that no longer exists. In any era, Furillo's throwing arm and his contact hitting (.299 career, .344 peak) would produce. Without the wall, his DEF 3 degrades to DEF 2 — the wall was the architecture that made the intelligence extraordinary.",
+    "dark_side": "The feeling that baseball forgot him. The blackballing claim — after a 1959 salary dispute with the Dodgers, Furillo contended he was blacklisted, unable to find a job in baseball. Commissioner Ford Frick denied the charges. The truth of the claim is uncertain; the experience of being unable to find work in baseball after retirement was real. Roger Kahn found him installing elevator doors at the World Trade Center. The batsman champion who won the title on the sideline, with a fractured knuckle, because Leo Durocher told his pitcher to throw at Furillo's ear and then Durocher's own player stepped on Furillo's hand in the ensuing brawl. The dark side is the accumulation of slights, real and perceived, that left him bitter toward the game he had served completely."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Wall",
+      "desc": "Nearly 300 angles. The Ebbets Field right-field wall — 19 feet of concrete, 19 feet of screen, angled bottom, vertical top, scoreboard with a Bulova clock. In ILB, at any stadium designated as a hitter's park with an irregular RF wall, Furillo's DEF gains +0.5 — the wall intelligence translates wherever there is wall. At standard dimensions, DEF stays at 3.",
+      "note": "Roger Kahn: 'Plane geometry remained a mystery to him. But he knew every angle, every carom. The way Furillo played the wall describes an art form.'"
+    },
+    {
+      "tag": "The Reading Rifle",
+      "desc": "The arm. Mel Queen thrown out at first base from 300 feet. Runners stopped testing the arm. In ILB, Furillo's DEF 3 generates a Throw Behind trigger: once per game, any runner who rounds a base on a ball hit to RF may be thrown out if they hesitate — a separate DEF roll applies. Furillo's career 151 outfield assists are encoded in the arm stat.",
+      "note": "His minor league manager Fresco Thompson tried to convert him to pitching. The attempt resulted in broken ribs and wrists on batters. The arm was redirected to the outfield as an act of public safety."
+    },
+    {
+      "tag": "The Batting Title on the Sideline",
+      "desc": "On September 6, 1953, Furillo charged the Giants' dugout after Ruben Gomez hit him under Durocher's instruction. Monte Irvin stepped on his hand. He fractured a knuckle. His season ended. His batting title (.344) was secured without playing the final weeks. In ILB, when Furillo is injured and placed on the sideline, his batting average at the time of injury is locked as his season-end average — the batting title wins itself.",
+      "note": "This trait encodes the unusual mechanics of the 1953 batting title."
+    },
+    {
+      "tag": "Skoonj",
+      "desc": "The snail. Vin Scully: 'I guess you would call him a cautious base runner. That is why his nickname among his teammates was Skoonj.' The SPD 0 is the snail. But the snail who won the batting title, caught Mize over the fence, and put Durocher in a headlock is not simply slow — he is specific about when to move.",
+      "note": "Skoonj is derived from scungilli — the edible part of a conch shell, Furillo's favorite Italian dish."
+    },
+    {
+      "tag": "The Headlock",
+      "desc": "September 6, 1953. Furillo put Leo Durocher in a headlock in a brawl at Ebbets Field. Roger Kahn (The Era): Durocher's bald head 'turned pink, then red, then purple.' In ILB, when Furillo faces any team managed by a card with the VOLATILE affinity or a documented hostile history, a Headlock trigger activates in extra-bases situations: roll 1-3 = Furillo confrontation (ejection + VOLATILE penalty for both teams), 4-6 = standard play.",
+      "note": "This trait deliberately references the ongoing Durocher feud, documented across multiple sources and years."
+    },
+    {
+      "tag": "The Boys of Summer",
+      "desc": "Roger Kahn's Boys of Summer features Furillo prominently — the Italian kid from Pennsylvania who became right field in Brooklyn. When Furillo, Hodges, Campanella, Robinson, and Snider are all in the same lineup, the Boys of Summer bonus activates: +1 morale for the entire team. The specific roster is the mechanic.",
+      "note": "Campanella, Robinson, Snider, and Hodges are all Dreamers 1950 Dodgers. The Boys of Summer bonus cross-references four other cards."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Community Events",
+      "affinity": "SACRED",
+      "note": "The right-field wall at Ebbets Field. 300 angles. The Bulova clock atop the scoreboard. Roger Kahn called it an art form. It no longer exists. It was Furillo's destiny.",
+      "note_extra": "Source labeled 'Ebbets Field RF Wall / 300 Angles / Bulova Clock / Art Form / Furillo Mastery / Philip Lowry Green Cathedrals' / affinity 'SACRED' — twenty-sixth SACRED in the set. Furillo's is the only SACRED in the set defined by a specific piece of architectural geometry rather than a game moment or a tribute. The Ebbets Field right-field wall was 19 feet of concrete with a 19-foot screen on top (in play), and the scoreboard with a Bulova clock atop it in right-center. The concrete was concave — vertical top half, angled bottom half. Philip J. Lowry's Green Cathedrals documented nearly 300 possible angles a ball could take after hitting different parts of the wall. Furillo's description of mastering it: 'Will it hit above the cement and hit the screen? Then you run like hell toward the wall, because it is gonna drop dead. Will it hit the cement? Then you gotta run like hell to the infield, because it is gonna come shooting out. I cannot even tell you if it is gonna hit the scoreboard.' Roger Kahn's description is the SACRED's inscription: 'Furillo never attended high school. Plane geometry remained a mystery to him. But he knew every angle, every carom. The way Furillo played the wall describes an art form.' The wall was demolished with Ebbets Field in 1960. The SACRED is a destroyed building that existed in the form of a man's knowledge of it."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Stony Creek Mills, Pennsylvania. Italian immigrants from Campania. The eighth grade. Apple picking and the woolen mill. His mother's death at eighteen. The arm that was too dangerous as a pitcher. The Reading franchise purchased by the Dodgers for one player.",
+      "note_extra": "Source labeled 'Stony Creek Mills / Campania Immigrants / Eighth Grade Dropout / Apple Picking / Woolen Mill / Mother Died at 18 / Reading Franchise Purchase / Pitching Too Dangerous' / affinity 'ORIGIN' — twenty-ninth ORIGIN in the set. Furillo's is the most working-class ORIGIN in the Dreamers 1950 set. Born in Stony Creek Mills, Pennsylvania, a town of approximately 1,048 people located four miles east of Reading. His parents were Italian immigrants from Campania — his father from the province of Caserta, his mother from Benevento. He dropped out of school in the eighth grade and worked various jobs: apple picking and work in a woolen mill. After his mother's death when he was eighteen, he was able to leave the family to pursue baseball professionally. He signed with the Reading Chicks of the Class D Eastern Shore League in 1940 for $80 a month. His manager Fresco Thompson tried to convert him to pitching; he broke four ribs and two wrists on batters and they made him an outfielder. The Dodgers were so impressed by his arm that they purchased the entire Reading franchise to acquire one player. The ORIGIN is the arm so powerful it was too dangerous to pitch, redirected into the art form that Roger Kahn would describe in 1972."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "DAMNED",
+      "note": "The batting title won on the sideline. The blackballing claim. Installing Otis Elevator doors at the World Trade Center. Baseball forgot him. He felt it. His teammates didn't.",
+      "note_extra": "Source labeled 'Batting Title on Sideline / Blackballing Claim / World Trade Center Elevators / Baseball Forgot / Night Watchman / Roger Kahn Found Him' / affinity 'DAMNED' — tenth DAMNED in the set (after Rube Waddell, Doby/integration isolation, Blackwell/elbow, Fain/bar fights, Miñoso/segregated South, Wynn/gout, Lemon/Jerry, Aaron/death threats, Snider/Coliseum). Furillo's is the most post-career DAMNED in the set — the grievance that extended beyond his playing days and defined how he remembered himself. The sequence: in 1959 Furillo had a salary dispute with the Dodgers. He contended afterward that he was blacklisted from baseball — unable to find work in the sport after his retirement. Commissioner Frick denied the charges. The truth is uncertain; the experience was real. Roger Kahn found him installing Otis Elevator doors at the World Trade Center in fall 1970. Furillo felt baseball had forgotten him and his accomplishments. He owned a deli in Flushing, worked as a night watchman, became a deputy sheriff in Berks County. He eventually, his former teammates reported, overcame his bitterness and became a regular at Dodgertown fantasy camps. But the bitterness was documented and real. The batting title won while on the sideline — won because Durocher had his pitcher aim at Furillo's head, and Irvin accidentally stepped on Furillo's hand — is encoded in the DAMNED: the championship performance achieved through injury inflicted by the opposition in a controlled brawl."
+    },
+    {
+      "location": "Military/Fort",
+      "affinity": "HAUNTED",
+      "note": "The Pacific Theater, 1942-1945. Three battle stars. Wounded in combat. Reportedly declined the Purple Heart because he felt he hadn't been sufficiently valiant. He came back and played baseball.",
+      "note_extra": "Source labeled 'Pacific Theater WWII / Three Battle Stars / Wounded / Purple Heart Declined / Combat / 1942-1945' / affinity 'HAUNTED' — fourteenth HAUNTED in the set. Furillo's is the most self-deprecatory HAUNTED in the set. He served in the Pacific Theater from 1942 to 1945, receiving three battle stars, and was wounded. The SABR BioProject documents that he was offered the Purple Heart for his wounds and reportedly declined it, saying he hadn't been sufficiently valiant. Whether this is exactly accurate or simplified in the retelling, the document of the self-assessment is itself the HAUNTED: the man who played the Ebbets Field wall with an art form's precision did not think his battlefield service was enough to merit recognition. The military service interrupted his career from 1942 through most of 1945, costing him three prime years (ages 20-23). He returned in 1946. The HAUNTED lives in the Military/Fort domain as the specific Pacific Theater experience — the three battle stars, the wounds, and the medal he reportedly refused."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "VOLATILE",
+      "note": "The headlock. September 6, 1953. Durocher's bald head turned pink, then red, then purple. The ongoing feud that began with 'Tonight we get you, Dago.' The batting title secured through an injury in a brawl.",
+      "note_extra": "Source labeled 'Durocher Headlock / September 6 1953 / Ruben Gomez HBP / Bald Head Pink Red Purple / Ongoing Feud / Dago Warning 1950 / VOLATILE Fourth' / affinity 'VOLATILE' — fourth VOLATILE in the set (after Waddell/carnivalesque, Wynn/mound aggression, Roberts/HR philosophy). Furillo's is the most historically documented violent VOLATILE in the set — a specific witnessed event with multiple corroborating sources. On September 6, 1953, Ruben Gomez hit Furillo on the wrist with Durocher calling from the dugout for Gomez to 'stick it in his ear.' Furillo took first base, then on a 2-2 count to the next batter, charged the Giants' bench. He grabbed Durocher. Roger Kahn's The Era: Durocher's bald head 'turned pink, then red, then purple.' In the brawl, Monte Irvin stepped on Furillo's hand, fracturing a knuckle. The season ended. The batting title was secured. The backstory: the 1950 beaning, when a Giants coach reportedly warned Furillo 'Tonight we get you, Dago' and 'We had you skipping rope with the left hander last night.' The VOLATILE is the accumulated provocation converting to a specific physical act with documented color commentary. Hotel/Rest domain: the VOLATILE lives in the spaces between games where the grudges accumulated — the hotel rooms where Furillo knew what was coming the next day."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "The Wall — at parks with irregular RF walls, DEF gains +0.5. The Ebbets Field architecture is the optimal condition; similar walls elsewhere activate the same intelligence.",
+      "Boys of Summer lineup — when Furillo, Hodges, Campanella, Robinson, and Snider are all in the same lineup, the Boys of Summer bonus activates for all five (+1 morale team-wide).",
+      "The Reading Rifle throw — once per game, runners rounding RF bases trigger a Throw Behind roll. DEF 3 makes this mechanically powerful.",
+      "Contact — Carl Erskine's 'Bible hitter': first pitch, anywhere, he swings. Furillo does not get into pitcher's counts; he attacks early. In ILB, first-pitch swinging generates a slight CON bonus in favorable count situations."
+    ],
+    "cold_triggers": [
+      "Durocher opponents — the VOLATILE trait activates when facing teams managed by aggressive VOLATILE-affinity managers. The headlock trigger is a risk in brawl-prone situations.",
+      "SPD 0 — the snail. No baserunning contribution. Against a team with deep outfield gaps, the Skoonj nickname limits Furillo's offensive ceiling.",
+      "The blackballing (post-career, historical) — encoded in the DAMNED; does not affect playing stats but the career arc shows the accumulation of unresolved grievances.",
+      "Cataracts pattern (1952 historical) — in any season following a major injury, Furillo's CON degrades 0.5 before the season-opening adjustment. The 1952 cataract year (CON degraded to .247) then the 1953 recovery (.344) is the pattern."
+    ],
+    "pressure_response": "He won the 1953 NL batting title while sitting on the sideline with a fractured knuckle. He caught Johnny Mize's drive over the right-field fence in the 11th inning of the 1952 WS to save a victory. He hit a 9th-inning game-tying HR in the 1953 WS. He put Leo Durocher in a headlock. The pressure response is physical, instinctive, and specific — not the strategic patience of a Robinson or the technical concentration of a Roberts, but the arm that threw Mel Queen out at first from 300 feet without hesitation."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Wall",
+      "type": "Game Action",
+      "text": "The right-field wall at Ebbets Field is nineteen feet of concrete with a nineteen-foot screen on top. It is concave. It has a vertical upper half and an angled lower half. The scoreboard with the Bulova clock sits in right-center. According to Philip Lowry's Green Cathedrals, there are nearly 300 angles a ball can take after hitting different parts of the wall. Your right fielder, who dropped out of school in the eighth grade, knows all of them. Roger Kahn says: 'Plane geometry remained a mystery to him. But he knew every angle, every carom. The way Furillo played the wall describes an art form.'",
+      "origin": "Documented in the SABR BioProject, Philip J. Lowry's Green Cathedrals, and Roger Kahn's The Boys of Summer. Furillo's own description of the wall is quoted in the SABR BioProject."
+    },
+    {
+      "title": "The Arm That Was Too Dangerous to Pitch",
+      "type": "Origin",
+      "text": "His manager Fresco Thompson tries to make him a pitcher. He throws too hard and too wild. He breaks four ribs and two wrists on batters before Thompson makes a decision. Thompson says: it is an act of public safety to make him spend all his time in the outfield. The Brooklyn Dodgers are impressed enough by the arm to purchase the entire Reading franchise in order to acquire one player. The arm is redirected to right field. On August 27, 1951, Pittsburgh pitcher Mel Queen hits what appears to be a single into right field. Furillo throws him out at first base from approximately 300 feet.",
+      "origin": "Fresco Thompson's quote about 'an act of public safety' is documented in the SABR BioProject and the BR Bullpen entry. The Reading franchise purchase to acquire Furillo is documented in multiple sources. The Mel Queen throw on August 27, 1951 is documented in Wikipedia and multiple other sources."
+    },
+    {
+      "title": "The Headlock",
+      "type": "Drama",
+      "text": "September 6, 1953. Ruben Gomez of the New York Giants hits Carl Furillo on the wrist. Leo Durocher, managing the Giants from the dugout, had called for Gomez to throw at Furillo's ear. Furillo takes first base. On a 2-and-2 count to the next batter, he charges the Giants' bench. He grabs Durocher. Roger Kahn, in The Era, describes what happens to Durocher's bald head: it turns pink, then red, then purple. In the brawl, Monte Irvin steps on Furillo's hand. A knuckle on his little finger fractures. His season ends. He watches the remaining weeks from the dugout. He wins the National League batting title.",
+      "origin": "The September 6, 1953 incident is documented in Wikipedia, the SABR BioProject, This Day in Baseball, and Roger Kahn's The Era. The color of Durocher's head is from The Era. The sequence — hit by pitch, charge, headlock, Irvin stepping on hand, fractured knuckle, batting title — is documented."
+    },
+    {
+      "title": "The 1952 World Series Catch",
+      "type": "Game Action",
+      "text": "Game 5 of the 1952 World Series. The 11th inning. Brooklyn leads 6-5. Johnny Mize comes to bat. He has already hit three home runs in this Series. He hits the ball to right field. It is going over the fence. Your right fielder goes over the fence. He catches it. Brooklyn wins the game. Johnny Mize has hit three home runs in this World Series. He does not have four.",
+      "origin": "The Furillo catch over the right-field fence off Mize in Game 5 of the 1952 World Series is documented in Wikipedia, the This Day in Baseball entry, and multiple other sources. Mize had hit three HR in the Series; this catch prevented what would have been his fourth."
+    },
+    {
+      "title": "Baseball Forgot About Him",
+      "type": "Legacy",
+      "text": "In the fall of 1970, Roger Kahn is writing The Boys of Summer. He looks for Carl Furillo, who won the NL batting title in 1953 and played on seven Brooklyn Dodgers pennant winners. He finds him installing Otis Elevator doors at the World Trade Center. Furillo believes baseball blacklisted him after a salary dispute in 1959. He felt that the game had forgotten about him entirely. He was not wrong about being forgotten. He was probably wrong about being blacklisted. He installed the elevators in both towers. He is one of the people who built the World Trade Center. Roger Kahn writes: 'I cannot imagine Carl Furillo in his prime as anything other than a ballplayer. Right field in Brooklyn was his destiny.'",
+      "origin": "Roger Kahn's location of Furillo at the World Trade Center in fall 1970 is documented in Wikipedia, The Boys of Summer (1972), and multiple secondary sources. Furillo's belief in being blacklisted is documented. Commissioner Frick's denial is also documented. The quote from Kahn ('Right field in Brooklyn was his destiny') is from The Boys of Summer. Both towers of the WTC were under construction from 1966-1972."
+    },
+    {
+      "title": "One More Hit",
+      "type": "Legacy",
+      "text": "Carl Furillo's career batting average is .299. If he had collected one more hit in his fifteen-year career — one single, one double, one home run, one infield hit, anything — he would have had a .300 average. He did not. He retired with .299. His batting title season was .344. His second-best season was .322. He batted .344 and .322 and .314 and .306 and .299 and hit .247 when he had cataracts. He needed one hit. He did not get it. He is not in the Hall of Fame.",
+      "origin": "Furillo's career batting average of .299 and the one-hit threshold to .300 is documented in the Wikipedia article and multiple other sources including This Day in Baseball and the BR Bullpen."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'0'', 190 lbs — the son of Italian immigrants who dropped out of school in the eighth grade, served in the Pacific, and became the most precise defender of an irregular wall in baseball history. In 1953 he is 31 years old, winning the batting title while on the sideline with a fractured knuckle. The face in the card year is not the face of triumph — it is the face of the man who put Durocher in a headlock and had his season ended by a brawl that gave him the batting crown.",
+    "attire": "Brooklyn Dodgers home whites — the distinctive Dodgers script, number 6. The right-handed batting stance of a 'Bible hitter' — first pitch, anywhere, he swings. The arm that was too dangerous to pitch, redirected into right field.",
+    "mood": "Precise and volatile simultaneously. Roger Kahn's two descriptions of Furillo contain the portrait: 'Close mechanical perfection' (New York Journal-American, 1952) and 'Plane geometry remained a mystery to him. But he knew every angle, every carom.' The portrait should show both: the mechanical precision of the man who mastered 300 wall angles without formal education, and the intensity that put Leo Durocher in a headlock.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Ebbets Field in the background — specifically the right-field corner, the high wall, the screen, the Bulova clock. The architecture that made Furillo's intelligence visible. The only element of the background that matters is the wall.",
+    "reference": "Roger Kahn's epitaph for Furillo is the art direction: 'I cannot imagine Carl Furillo in his prime as anything other than a ballplayer. Right field in Brooklyn was his destiny.' The portrait contains the player Kahn was describing when he found him installing elevator doors at the World Trade Center."
+  }
+}

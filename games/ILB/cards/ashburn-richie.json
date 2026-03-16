@@ -1,0 +1,202 @@
+{
+  "card_type": "player",
+  "name": "Richie Ashburn",
+  "nickname": "Whitey / Putt-Putt / The Tilden Flash",
+  "year": 1951,
+  "team": "Philadelphia Phillies",
+  "league": "National League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "CF",
+  "bats": "L",
+  "throws": "R",
+  "height": "5'10\"",
+  "weight": "170 lbs",
+  "born": "March 19, 1927 — Tilden, NE",
+  "died": "September 9, 1997 — New York, NY",
+  "hof": "Class of 1995 (Veterans Committee)",
+
+  "real_stats": {
+    "season": 1951,
+    "games": 154,
+    "at_bats": 643,
+    "hits": 221,
+    "doubles": 43,
+    "triples": 5,
+    "home_runs": 4,
+    "rbi": 63,
+    "stolen_bases": 29,
+    "runs": 92,
+    "batting_avg": ".344",
+    "obp": ".394",
+    "slg": ".437",
+    "ops": ".831",
+    "ops_plus": 124,
+    "war": 7.3,
+    "all_star": 5,
+    "gold_gloves": 0,
+    "awards": "NL hits leader 1951 (221 — third-highest single-season total in Phillies history). 538 putouts in 1951 — second-most ever by an outfielder in a single season. Led NL in putouts nine times. Nine seasons of 400+ putouts (ML record). Four seasons of 500+ putouts (ML record). Career 5,803 putouts — third among CFs in ML history behind only Mays and Speaker. Most hits in the 1950s decade (1,875). Two NL batting titles (.338 in 1955, .350 in 1958). Four NL OBP leaders (career best .449 in 1955). Four NL walks leaders (career best 125 in 1954). 1958: first time a leadoff hitter led the NL in both batting average and walks in the same season. Robin Roberts: 'The only complaint I have about him is he was not tall enough to catch the balls that went into the seats. He caught everything else.' HOF induction speech (1995): 'I am flattered that so many baseball people think I am a Hall of Famer. But what is hard to believe is how one hundred and fifty-plus people have changed their minds about me since I became eligible because I have not had a base hit since then.'",
+    "world_series": "1 WS appearance (1950). Swept 4-0 by the Yankees. Career WS: .176 BA (3-for-17). Three of the four games were decided by a single run. Ashburn said after the final game, declining refreshment: 'I could not swallow a cornflake.'",
+    "career_avg": ".308",
+    "career_hits": 2574,
+    "career_hr": 29,
+    "career_war": 59.9,
+    "career_rbi": 586,
+    "career_notes": "15 seasons (1948-1962). Philadelphia Phillies (1948-1959), Chicago Cubs (1960-1961), New York Mets (1962). .308/.396/.382 career, 59.9 WAR. 2,574 hits, 29 HR, 234 SB. Most hits in the 1950s (1,875). Two batting titles. ML records for most seasons leading league in outfield putouts (9), most seasons 400+ putouts (9), most seasons 500+ putouts (4). After playing career: 35 years as Phillies broadcaster (1963-1997), one of the most beloved figures in Philadelphia sports history. Died of a heart attack in his New York hotel room after broadcasting a Phillies-Mets game at Shea Stadium on September 9, 1997, age 70."
+  },
+
+  "ilb_stats": {
+    "ovr": 7,
+    "con": 4,
+    "pow": 0,
+    "spd": 2,
+    "def": 3,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": ".344 BA (1951). OPS+ 124 — below the 130+ threshold for the bonus. Base band 4 for .330-349 BA. CON 4 reflects consistently excellent contact (career .308, ten seasons over .300, more hits in the 1950s than any other player) without reaching the elite OPS+ that would push to CON 5. He was a singles and doubles hitter with minimal walks in 1951; the walk discipline that elevated his OBP came later (career-best 125 BB in 1954). The most honest CON 4 in the set: excellent contact, no power, the entire offensive value in reaching base.",
+    "pow": "4 HR in 1951. Career 29 HR in 15 seasons. POW 0. Ashburn is the only position player at POW 0 in the set. Robin Roberts: 'The only complaint I have about him is he was not tall enough to catch the balls that went into the seats.' The balls didn't go into the seats. The POW 0 is the most accurate stat in the card.",
+    "spd": "29 SB in 1951 (some sources say 32). Career 234 SB. Ted Williams gave him 'Putt-Putt' because he ran like he had twin motors. Leo Durocher (1948): 'Ashburn is the fastest man I have ever seen getting down to first base. He is even faster than Pete Reiser in his prime.' SPD 2 (20-40 SB range). The formula and the historical reputation align precisely.",
+    "def": "538 putouts in 1951 — second-most ever by an outfielder in a single season. Led NL in putouts nine times. ML records for consecutive seasons leading the league in outfield putouts, seasons with 400+ putouts, and seasons with 500+ putouts. Career 5,803 putouts — third among CFs behind only Mays and Tris Speaker. In 1957, Ashburn led Mays in every defensive category (putouts, assists, fielding percentage, double plays, errors, range factor) but Mays won the first Gold Glove. DEF 3 reflects the most documented defensive CF in the set — the records that show he was the equal or superior of Mays defensively despite being permanently in Mays's shadow.",
+    "clu": "0. One WS appearance (1950), swept 4-0 by the Yankees. Career WS batting .176. He said after the final game, declining refreshment: 'I could not swallow a cornflake.' CLU 0 is the honest rendering — the player who made the pennant-clinching throw but couldn't translate that moment into a championship. The leadoff hitter who never won, whose career was defined by individual excellence on non-championship teams. OVR 7 reflects the CLU 0 penalty on a career that was defensively and offensively elite in specific categories."
+  },
+
+  "personality": {
+    "leadership_style": "The broadcaster's leadership — through voice and storytelling and warmth. As a player his leadership was the example of the leadoff hitter: get on base, get out of the way of the middle of the order, cover every inch of center field. As a broadcaster: 35 years of building trust with the toughest fans in sports. His advice to Tim McCarver before their first broadcast: 'If you don't have anything to say, don't say it.' This is the leadership philosophy of the man who hit singles for a living.",
+    "temperament": "Warm, self-deprecating, and quietly certain of his own quality. The HOF speech joke — 'I have not had a base hit since then' — is the character document. He waited 27 years after first eligibility; the BBWAA gave him 2.1% in 1968. He made a joke about it at Cooperstown and moved on. He visited Alice Roth in the hospital after hitting her with two consecutive foul balls and they became friends. He called Phillies games for 35 years and became more beloved as a broadcaster than he ever was as a player.",
+    "work_ethic": "Officiated high school basketball games in Nebraska during the offseason to stay in playing condition. Hit singles and drew walks for 15 years on teams that were frequently bad. Had more hits in the 1950s than any other player. The work ethic is the kind that produces putout records: showing up in center field every day and catching everything that didn't go into the seats.",
+    "lifestyle": "Tilden, Nebraska to Philadelphia for the season, back to Tilden for the offseason — every year of his playing career. His father owned the largest general store in town. He officiated basketball. He became the Phillies broadcaster for 35 years. He died in a New York hotel room after broadcasting a game at Shea Stadium — the broadcaster's death that was almost exactly parallel to Don Drysdale's death four years earlier in Montreal. 40,000 fans attended his viewing in Philadelphia.",
+    "era_adaptability": "MAXIMUM as a leadoff hitter — the OBP discipline, the speed, the defensive range translate to any era. The POW 0 is era-specific in one sense: in the modern era his hitting profile would be even more valued (OBP over slugging), and his defensive range would be measured and recognized more precisely. In 1957 he led Mays in every defensive category and Mays won the Gold Glove. He would not have lost that comparison in a modern analytical context.",
+    "dark_side": "The CLU 0 and the HOF wait. One pennant (1950), swept in the WS. The Phillies were bad for most of the 1950s. He had the most hits in the decade on teams that had no chance. He got 2.1% of the BBWAA vote in 1968. He waited until 1995. He made a joke about it. But the waiting was real."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Putt-Putt",
+      "desc": "Ted Williams gave him the nickname because 'he ran as if he had twin motors in his pants.' In ILB, Ashburn's SPD 2 generates a first-to-third bonus: any single hit to CF or LF allows Ashburn to take an extra base at a rate normally reserved for SPD 3 players. The twin motors are operational.",
+      "note": "Leo Durocher (1948): 'Ashburn is the fastest man I have ever seen getting down to first base. He is even faster than Pete Reiser in his prime.'"
+    },
+    {
+      "tag": "He Caught Everything Else",
+      "desc": "Robin Roberts: 'The only complaint I have about him is he was not tall enough to catch the balls that went into the seats. He caught everything else.' In ILB, Ashburn's DEF 3 activates a putout guarantee: any ball hit to CF that stays in the field of play is automatically caught (no roll required). The balls that go into the seats are POW 0's consequence; the balls that stay in play are DEF 3's domain.",
+      "note": "The 538 putouts in 1951 are the mechanical expression of this trait."
+    },
+    {
+      "tag": "The Pennant-Clinching Throw",
+      "desc": "October 1, 1950. Cal Abrams running from second, Ashburn's throw to home plate. Dick Sisler's 3-run HR in the 10th. In ILB, once per season in a win-or-go-home situation, Ashburn may attempt a Pennant Throw: when a runner attempts to score from second on a single to CF, Ashburn's throw generates an Out trigger (roll 1-3 = runner thrown out, 4-6 = runner scores). The historical precedent is the play.",
+      "note": "Cross-reference with Roberts's card — Roberts was pitching that game."
+    },
+    {
+      "tag": "I Could Not Swallow a Cornflake",
+      "desc": "After the 1950 World Series sweep, Ashburn declined refreshment after the final game and said: 'I could not swallow a cornflake.' In ILB, when the team is swept in a postseason series, Ashburn's next regular-season game begins with a CON -0.5 (the cornflake penalty) that resolves after three consecutive hits.",
+      "note": "This trait encodes the CLU 0's emotional context — the single WS appearance, the sweep, the cornflake."
+    },
+    {
+      "tag": "More Hits Than Anyone",
+      "desc": "Ashburn had 1,875 hits in the 1950s — more than any other player in baseball that decade. In ILB, in any multi-game series, Ashburn's CON 4 activates a Decade Leader bonus: after 5 consecutive games with at least one hit, his CON rises to 5 for the remainder of the series — the accumulator outperforms his peak rating under sustained conditions.",
+      "note": "The 1950s hit total includes Mantle, Mays, Musial, and Aaron in the comparison set."
+    },
+    {
+      "tag": "Alice Roth",
+      "desc": "August 17, 1957. Ashburn hit a foul ball that broke Alice Roth's nose. While she was being carried off on a stretcher, he fouled off another pitch that broke her leg. He visited her in the hospital. They became friends. Her son became the Phillies batboy. In ILB, this is encoded as a comic mechanical condition: twice per season, any foul ball Ashburn hits generates a random check — roll 1-6; on a 1, the foul ball strikes the same spectator twice in the same game. No gameplay consequence; pure historical acknowledgment.",
+      "note": "The Alice Roth incident is documented as one of the most improbable events in baseball spectator history."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballpark",
+      "affinity": "SACRED",
+      "note": "Connie Mack Stadium / the pennant throw / the statue at Citizens Bank Park. The specific play that made the Whiz Kids' pennant possible. The broadcaster who came back and became more beloved than the player.",
+      "note_extra": "Source labeled 'Connie Mack Stadium / October 1 1950 / Cal Abrams Throw / Whiz Kids / Citizens Bank Statue / Broadcaster / Ashburn Alley' / affinity 'SACRED' — twenty-seventh SACRED in the set. Ashburn's SACRED is the most layered in the Phillies franchise: the specific throw on October 1, 1950, plus the 35 years of broadcasting, plus the Citizens Bank Park statue and the section named Ashburn Alley. The pennant throw is the playing-career SACRED: in the bottom of the 9th inning of the last game of the season, the Phillies leading the Dodgers by one game, Cal Abrams running from second on a single to center, Ashburn threw him out at home plate to preserve a 1-1 tie, and Dick Sisler hit the pennant-clinching 3-run HR in the 10th inning. It is the most decisive single defensive play in Phillies history to that point. The broadcasting SACRED is what followed: 35 years as the Phillies' voice, one of the most beloved figures in Philadelphia sports history, the statue at Citizens Bank Park at the same opening (2004) alongside Robin Roberts's statue. Citizens Bank Park's outfield section is called Ashburn Alley in his honor. The Ballpark domain covers both the playing-career throw and the broadcasting presence — Ashburn's connection to the Philadelphia baseball venue spans more than 60 years."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Tilden, Nebraska. His father's general store, the largest in town. Born one of two sets of twins. Landis voided two contracts. Eddie Sawyer moved him from catcher to center field in 1945. The basketball officiating in the Nebraska offseasons.",
+      "note_extra": "Source labeled 'Tilden Nebraska / Largest General Store / Twin Birth / Landis Voided Contracts / Eddie Sawyer / Catcher to CF / Nebraska Basketball Officiating' / affinity 'ORIGIN' — thirtieth ORIGIN in the set. Ashburn's is the most institutionally resisted ORIGIN in the set — two contracts voided by Commissioner Kenesaw Mountain Landis before the third one stuck. The Cleveland Indians contract (1943) was voided because he was still in high school. The Chicago Cubs contract (1944) was voided because of an illegal clause that would have paid Ashburn if the Nashville franchise was sold. The Philadelphia Phillies' contract was the third attempt and it succeeded. His father owned the largest general store in Tilden, a Nebraska prairie town. He and his twin sister Donna were the younger of two sets of twins his mother gave birth to. He began as a catcher because his father advised it as the fastest route to the major leagues. In 1945, at Utica, Eddie Sawyer converted him to center field based on his speed. He went home to Tilden every offseason and officiated high school basketball games to stay in playing shape. The ORIGIN is the prairie town, the general store, the baseball bureaucracy that rejected him twice before it couldn't anymore."
+    },
+    {
+      "location": "Practice Field",
+      "affinity": "CODA",
+      "note": "The broadcaster. 35 years as the Phillies' voice. The HOF induction 27 years after first eligibility. 'I have not had a base hit since then.' The heart attack after a game at Shea Stadium. 40,000 fans at his viewing.",
+      "note_extra": "Source labeled '35 Years Broadcasting / HOF 1995 / 2.1% BBWAA 1968 / Shea Stadium Death / Harry Kalas / 40000 Fans Viewing / Beloved' / affinity 'CODA' — seventh CODA in the set (after Brecheen, Kuenn/Koufax, Fox/posthumous, Raschi/WS-eve, Hodges/50-year wait, Roberts/Cy Young origin). Ashburn's is the most publicly beloved CODA in the set: 35 years as a broadcaster that made him more beloved in Philadelphia than his playing career had. The HOF sequence: 2.1% of BBWAA votes in 1968 (first year of eligibility), under 10% for six years, 41% peak in 1978, inducted by the Veterans Committee in 1995. At his HOF speech: 'I am flattered that so many baseball people think I am a Hall of Famer. But what is hard to believe is how one hundred and fifty-plus people have changed their minds about me since I became eligible because I have not had a base hit since then.' He died on September 9, 1997 — two years after his HOF induction — of a heart attack in his New York hotel room after broadcasting a Phillies-Mets game at Shea Stadium. The death mirrored Don Drysdale's death four years earlier in Montreal after a Dodgers road broadcast. His viewing in Philadelphia drew an estimated 40,000 fans. Harry Kalas, his broadcasting partner and best friend, wrote a poem for the occasion. The Practice Field domain is the broadcaster's domain: not the game itself but the daily preparation for the game, the daily practice of communicating what was already known, the 35 years of showing up and saying things worth saying."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "COMPLEX",
+      "note": "The CON 4 / POW 0 / CLU 0 against the DEF 3 and the Most Hits of the Decade. The 1957 Gold Glove he led Mays in every category but didn't win. The World Series sweep and the cornflake. The player who was better than his era recognized.",
+      "note_extra": "Source labeled 'DEF 3 Not Recognized / 1957 Gold Glove / Led Mays Every Category / 2.1% HOF Vote / CON 4 / POW 0 / CLU 0 / Decade Hits Leader / 1950 WS Cornflake' / affinity 'COMPLEX' — sixteenth COMPLEX in the set. Ashburn's is the most analytically constructed COMPLEX in the set — the gap between what his statistics show and what his era recognized. In 1957, the first year the Gold Glove was awarded, Ashburn led Willie Mays in every measured defensive category: center field putouts (Ashburn 499 vs. Mays 407), assists (Ashburn 17 vs. Mays 14), fielding percentage (Ashburn .987 vs. Mays .979), double plays (Ashburn 7 vs. Mays 4), errors (Ashburn 7 vs. Mays 9), range factor (Ashburn led the league; Mays was fourth in his). Mays won the Gold Glove. The BBWAA gave Ashburn 2.1% in his first HOF ballot year — and eventually inducted him 27 years later when the growing understanding of his fielding records changed the analysis. He had more hits in the 1950s than anyone (1,875) on teams that were frequently bad. He made the pennant-clinching throw in 1950 and then watched the WS sweep from the field. The COMPLEX is the career that required 1995 to properly evaluate what 1960 had missed. Hotel/Rest domain: the COMPLEX lives in the private calculation — the players who knew they were good, who kept the statistics, who waited."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Tilden, Nebraska. The offseason basketball officiating. The general store family. The man who was from somewhere and went back every year.",
+      "note_extra": "Source labeled 'Tilden Nebraska / Offseason Return / Basketball Officiating / Hometown / Neil Ashburn Store / Prairie Roots' / affinity 'HIGH' — twenty-seventh HIGH affinity in the set. Ashburn's is the most rural HIGH in the set. Throughout his 12-year Phillies career, he returned to Tilden, Nebraska every offseason. He officiated high school basketball games throughout Nebraska during those winters as a way to stay in playing condition. His father Neil owned the largest general store in Tilden. The Community Events domain covers the civic dimension of this routine: the baseball player who came back every year to referee basketball games in the same state where the Cleveland Indians and Chicago Cubs had been blocked from signing him. The HIGH is the commitment to place — the Nebraska roots that shaped the broadcaster's warmth and the player's fundamental decency."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Putt-Putt speed bonus — first-to-third on singles activates at SPD 3 rate for Ashburn despite SPD 2 baseline.",
+      "He Caught Everything Else — automatic putout on any ball hit to CF within the field of play (no roll required).",
+      "More Hits Than Anyone — after 5 consecutive games with a hit, CON rises to 5 for the remainder of the series. The accumulator's hot trigger.",
+      "Pennant Throw — once per season in a win-or-go-home situation, the Pennant Throw trigger activates for runners attempting to score from second on a CF single."
+    ],
+    "cold_triggers": [
+      "CLU 0 — no WS championships; the 1950 WS cornflake penalty activates after a sweep (CON -0.5 for three games).",
+      "POW 0 — no power contributions of any kind. The balls that go into the seats belong to someone else.",
+      "1957 Gold Glove shadow — when Mays is in the same game, the COMPLEX activates a subtle narrative pressure: Ashburn's DEF 3 is challenged by historical comparison, though mechanically his stats are equal.",
+      "Bad team pattern — on teams below .500, the CLU 0 / POW 0 combination produces limited offensive ceiling; his value concentrates in OBP and defense."
+    ],
+    "pressure_response": "October 1, 1950. The pennant on the line. Cal Abrams running. Ashburn threw him out at home plate. Dick Sisler hit the HR. The pennant was won. Three weeks later in the World Series he batted .176 and couldn't swallow a cornflake. The pressure response is exact: perfect in the regular season's highest moment, insufficient in the postseason's highest moment. Both are documented."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Contracts Kenesaw Mountain Landis Voided",
+      "type": "Origin",
+      "text": "In 1943, Commissioner Kenesaw Mountain Landis voids Richie Ashburn's contract with the Cleveland Indians because he is still in high school. In 1944, Landis voids his contract with the Chicago Cubs because of an illegal clause. In 1945 Ashburn signs with the Philadelphia Phillies. This contract is not voided. He will play for them for twelve seasons, have more hits in the 1950s than any other player, throw out Cal Abrams in the pennant-clinching game, and become a broadcaster so beloved that 40,000 fans attend his viewing. The third contract stuck.",
+      "origin": "The two voided contracts are documented in Wikipedia and the BR Bullpen biography. The Kenesaw Mountain Landis era of contract enforcement is documented. The subsequent career with the Phillies is well-documented."
+    },
+    {
+      "title": "The Pennant-Clinching Throw",
+      "type": "Game Action",
+      "text": "October 1, 1950. The Philadelphia Phillies lead the Brooklyn Dodgers by one game on the final day of the season. Your center fielder is Richie Ashburn. In the bottom of the 9th, with the score tied 1-1, Dodgers runner Cal Abrams rounds second base and heads for home on a single to center field. Ashburn throws him out by several feet. The Phillies survive. Dick Sisler hits a 3-run homer in the 10th. The Phillies win the National League pennant for the first time in 35 years. Your center fielder threw that ball.",
+      "origin": "The October 1, 1950 game is documented in Wikipedia, the SABR BioProject, and multiple secondary sources. Ashburn's throw of Abrams at home, the survival of the 1-1 tie, and Sisler's pennant-clinching HR are all documented."
+    },
+    {
+      "title": "Alice Roth",
+      "type": "Drama",
+      "text": "August 17, 1957. Richie Ashburn hits a foul ball that strikes Alice Roth in the stands, breaking her nose. She is the wife of the Philadelphia Bulletin sports editor. While she is being carried from the stadium on a stretcher, Ashburn fouls off another pitch. This ball strikes Alice Roth again, breaking her leg. He visits her in the hospital the next day. They become friends. Her son becomes the Phillies batboy. She continues to attend games. This is documented and real. No explanation for its occurrence has been offered that is not simply the acknowledgment that it happened.",
+      "origin": "The Alice Roth incident on August 17, 1957 is documented in Wikipedia, the History.com article, and multiple other sources. Ashburn's hospital visits, the friendship, and the son becoming the Phillies batboy are all documented."
+    },
+    {
+      "title": "He Caught Everything Else",
+      "type": "Legacy",
+      "text": "Robin Roberts says: 'The only complaint I have about him is he was not tall enough to catch the balls that went into the seats. He caught everything else.' He had 538 putouts in 1951 — the second-most ever by an outfielder in a single season. He led the NL in putouts nine times. His career 5,803 putouts are third among center fielders in baseball history, behind only Willie Mays and Tris Speaker. In 1957 he led Willie Mays in every defensive category. Mays won the first Gold Glove. Roberts's complaint stands as the most concise evaluation of a center fielder's career in the set.",
+      "origin": "Robin Roberts's quote is documented in the HOF biography. The putout statistics (538 in 1951, career 5,803) are documented in the HOF biography and multiple other sources. The 1957 comparison to Mays is documented in the Baseball: Past and Present analysis."
+    },
+    {
+      "title": "I Could Not Swallow a Cornflake",
+      "type": "Drama",
+      "text": "October 1950. The Philadelphia Phillies have just been swept in four games by the New York Yankees in the World Series. Three of the four games were decided by one run. Your center fielder batted .176. He declined refreshment after the final game. He said: 'I could not swallow a cornflake.' The Phillies will not appear in the World Series again until 1980. He will play for them until 1959. He will have more hits than anyone in the 1950s. He will not get another World Series at-bat.",
+      "origin": "Ashburn's quote after the 1950 World Series sweep is documented in the SABR BioProject. The Phillies' absence from the postseason until 1976 (pennant) and 1980 (championship) is documented."
+    },
+    {
+      "title": "I Have Not Had a Base Hit Since Then",
+      "type": "Legacy",
+      "text": "In 1968, in his first year of Hall of Fame eligibility, Richie Ashburn receives 2.1% of the vote. He had more hits in the 1950s than any other player. He led the NL in putouts nine times. He won two batting titles. He had 2,574 career hits. In 1995, the Veterans Committee elects him. At his Hall of Fame induction he says: 'I am flattered that so many baseball people think I am a Hall of Famer. But what is hard to believe is how one hundred and fifty-plus people have changed their minds about me since I became eligible because I have not had a base hit since then.'",
+      "origin": "The 2.1% BBWAA vote in 1968 is documented in the Baseball Almanac. The 1995 Veterans Committee election is documented. Ashburn's HOF speech quote is documented in multiple sources."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'10'', 170 lbs — the Tilden Flash, the leadoff hitter, the fastest man getting to first base Leo Durocher had ever seen. In 1951 he is 24 years old, leading the NL in hits and putouts, the most complete expression of what he was: a contact hitter, a center fielder, a man who got on base and caught everything else. The white hair that gave him 'Whitey' at an early age is visible.",
+    "attire": "Philadelphia Phillies home whites — the distinctive Phillies script, number 1. The left-handed batting stance of the spray hitter who stroked the ball equally well to all fields, the leadoff hitter's setup, the posture of a man who will foul off 14 pitches if necessary.",
+    "mood": "Pure hustle and warmth. The man who was 'always the first to arrive at his outfield position' when the team ran between innings. The man who visited Alice Roth in the hospital. The broadcaster who became more beloved than the player. The portrait should show the player that the broadcaster became famous for having been.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Connie Mack Stadium in the background — the vast center field where 538 putouts were recorded in one season, where the pennant-clinching throw was made, where the most hits in a decade were accumulated.",
+    "reference": "Robin Roberts's quote is the art direction: 'The only complaint I have about him is he was not tall enough to catch the balls that went into the seats. He caught everything else.' The portrait contains the player that Roberts described — the center fielder of Ashburn Alley, the man who caught everything else."
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "card_type": "player",
+  "name": "Alvin Dark",
+  "nickname": "Blackie / The Swamp Fox",
+  "year": 1953,
+  "team": "New York Giants",
+  "league": "National League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "SS",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'11\"",
+  "weight": "185 lbs",
+  "born": "January 7, 1922 — Comanche, OK",
+  "died": "November 13, 2014 — Easley, SC",
+  "hof": "Not inducted",
+
+  "real_stats": {
+    "season": 1953,
+    "games": 155,
+    "at_bats": 647,
+    "hits": 194,
+    "doubles": 41,
+    "triples": 6,
+    "home_runs": 23,
+    "rbi": 88,
+    "stolen_bases": 7,
+    "runs": 126,
+    "batting_avg": ".301",
+    "obp": ".352",
+    "slg": ".488",
+    "ops": ".840",
+    "ops_plus": 108,
+    "war": 5.2,
+    "all_star": 3,
+    "gold_gloves": 0,
+    "awards": "1948 Rookie of the Year (Boston Braves — last year both leagues combined for a single award). Three-time NL All-Star (1951, 1952, 1954). NL doubles leader 1951 (41). NL AB leader 1953 (647) and 1954. Led NL SS in DP turned 1952 (116). First NL shortstop to hit 20+ HR in two different seasons (23 in 1953, 20 in 1954). Career WS: .323 BA in 16 games across three Series (.417 in 1951, .412 in 1954). Two World Series championships — once as player (1954 Giants), once as manager (1974 Oakland A's). One of only three managers to win pennants in both leagues (with Joe McCarthy and Yogi Berra). Managerial record: 994-954 across five franchises (Giants, Kansas City/Oakland A's, Cleveland Indians, San Diego Padres). Inducted into the Louisiana Sports Hall of Fame.",
+    "world_series": "Three WS appearances as player (1948 Braves, 1951 Giants, 1954 Giants). Career WS .323 BA (21-for-65, 16 games). 1948: 4-for-24 as Braves lost to Cleveland. 1951: .417 BA (10-for-24), HR off Allie Reynolds in Game 1, RBI single off Raschi in Game 3 — Giants lost to Yankees. 1954: .412 BA (7-for-17) as Giants swept Cleveland — WS champion. Two WS appearances as manager (1962 Giants, lost to Yankees in seven; 1974 A's, beat Dodgers in five — WS champion).",
+    "career_avg": ".289",
+    "career_hits": 2089,
+    "career_hr": 126,
+    "career_war": 43.1,
+    "career_rbi": 757,
+    "career_notes": "14 seasons (1946-1960). Boston/Milwaukee Braves, New York Giants, St. Louis Cardinals, Chicago Cubs, Philadelphia Phillies. .289/.333/.411 career, 43.1 WAR, OPS+ 98. 2,089 hits, 126 HR, 358 doubles, 59 SB. In the five-year window 1950-1954, led all New York shortstops (Dark, Rizzuto, Reese) in WAR. Higher career batting average and more HR than either Rizzuto or Reese, both of whom are in the HOF. After playing career: managed 13 seasons (994-954). Died at home in Easley, South Carolina, November 13, 2014, age 92."
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 3,
+    "pow": 3,
+    "spd": 0,
+    "def": 2,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "con": ".301 BA in 1953. OPS+ 108 — solid but below the 130+ bonus threshold. Career .289 in 14 seasons. CON 3 is the contact hitter who put the ball in play relentlessly (647 AB in 1953, leading the NL) without reaching elite hit-tool territory. The defining contact moment of his career is the 0-2 at-bat in the bottom of the ninth of Game 3, October 3, 1951: he fouled off six or seven pitches against Don Newcombe before getting a scratch infield single. That at-bat — grinding through an 0-2 count with six or seven foul balls until the pitch he could reach — is the CON 3 in action. Not brilliance, not instinct, just refusal.",
+    "pow": "23 HR in 1953. Career 126 HR. First NL shortstop to hit 20+ HR in two different seasons (23 in 1953, 20 in 1954). In the context of shortstops in the early 1950s, 23 HR was genuinely unusual power. In absolute terms for the set, POW 3 correctly places Dark well below Banks (POW 5) while recognizing real power for his position. The .488 slugging average in 1953 is the mechanical expression: a shortstop who hit for power in an era when shortstops did not hit for power.",
+    "spd": "7 SB in 1953 (career high). Career 59 SB in 14 seasons. SPD 0. Dark's speed on the basepaths was not a weapon — his footwork was in DEF, turning double plays and reaching balls, not in SPD. The error totals confirm the range (45 errors in 1951 — leading the NL, but also leading in putouts and assists) but the SB totals confirm the offensive speed profile. SPD 0 is honest.",
+    "def": "Led NL SS in putouts twice (1951, 1952). Led NL SS in DP turned 1952 (116). Led NL SS with 45 errors in 1951 — a number that reflects aggressive range rather than carelessness. Named team captain by Leo Durocher. Described analytically as 'solid, not gifted' — the workmanlike DEF 2 that wins championships and turns double plays without generating individual defensive highlights. Not the record-breaking DEF 3 of Ashburn; the dependable, championship-winning DEF 2 of a captain.",
+    "clu": "3. Three WS appearances as a player (.323 career WS BA in 16 games). One WS championship as player (1954). One WS championship as manager (1974). The man who fouled off six or seven pitches on an 0-2 count to get the infield single that started the Shot Heard rally. The man who hit .417 in the 1951 WS (on the losing team) and .412 in the 1954 WS (on the winning team). CLU 3 places Dark in the same tier as Campanella and Snider — multiple WS appearances, elite individual WS performance, at least one championship. It is the highest CLU in the set for a player who also won a ring as a manager."
+  },
+
+  "personality": {
+    "leadership_style": "The captain's leadership — assigned formally by Durocher, earned practically through example and presence. Dark was named team captain because Durocher needed someone who could hold the locker room steady while the Giants made their 1951 run. He helped young Willie Mays during his transition to the big leagues. He turned double plays with whatever second baseman was available. He fouled off pitches on an 0-2 count until he found a ball he could reach. Orlando Cepeda, who was mistreated by Dark as a manager, said: 'He made me play hard, because he said I had so much talent.' The leadership that harmed also motivated.",
+    "temperament": "Intense and devout and capable of significant error. The man who went to dinner with Charlie Finley and quoted Psalms after Finley publicly chastised him. The man who soaked the infield dirt to stop Maury Wills and called it the job of a manager. The man who asked his Latin players not to speak Spanish at the ballpark and spent decades trying to account for that. The religious faith and the racial prejudice and the baseball intelligence all coexisted. He was aware of the coexistence.",
+    "work_ethic": "The 647 AB in 1953 — leading the NL. The 196 hits in 1951. The fouled-off pitches on 0-2. The football tailback who led LSU in rushing and passing who chose baseball because baseball was his business and his life. He played all four sports at Southwestern Louisiana. He continued playing when his range was diminishing at the end of his career. He went 994-954 as a manager across five franchises spanning 13 seasons.",
+    "lifestyle": "Lake Charles, Louisiana to the major leagues, back to Easley, South Carolina in retirement. Devout Baptist who took his Bible on road trips — except during the period in the 1960s when his first marriage was collapsing and he found it easier not to. After the Indians job he started attending Bible study with his second wife Jackie. Married Jackie Troy in 1970; they were together 44 years until his death in 2014. He told the SF Chronicle: 'Baseball was my business and my life. I gave it all I had. I feel very fortunate. And very happy. God blessed me.'",
+    "era_adaptability": "The 0-2 at-bat with six foul balls in the ninth inning of the most important game of the season is completely era-neutral. The power production (23 HR at SS in 1953) would be less historically notable in a modern context but would still represent real value. The defensive profile (solid, rangy, double-play oriented) translates across eras. The managerial intelligence (the soaked infield, the understanding of Cepeda's talent) is ahead of its time in one register and behind it in another.",
+    "dark_side": "The Latino player language episode. As manager of the early 1960s Giants — a team with Cepeda, Marichal, and Felipe Alou — Dark reportedly asked them to refrain from speaking Spanish at the ballpark. Cepeda said: 'Every time he saw me he felt very sorry for what he did to the Latino players.' Dark wrote in 1980 about his first marriage collapsing: 'There are people in Lake Charles who have not spoken to me since, much less forgiven me.' The dark side is a man of genuine faith who understood his failures and spent decades in their company."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "I Must Have Fouled Off Six or Seven",
+      "desc": "October 3, 1951. Giants trailing 4-1, ninth inning, Game 3. Dark at the plate against Don Newcombe, 0-2 count. He fouled off six or seven pitches. He got a scratch infield single. The rally began. In ILB, once per postseason, Dark may activate the Scratch Single trigger: on any 0-2 count in an elimination situation, Dark may foul off up to three additional pitches (extending his at-bat by up to three rolls) before a final outcome roll. The statistical representation of refusing to give an at-bat away.",
+      "note": "Dark recalled the at-bat in his own words: 'I must have fouled off six or seven pitches with two strikes before getting that hit.'"
+    },
+    {
+      "tag": "The Captain",
+      "desc": "Named team captain by Leo Durocher in 1950, Dark held the Giants locker room together through the 1951 pennant run, mentored young Willie Mays, and led the club in at-bats in 1953 and 1954. In ILB, Dark's CLU 3 generates a Captain's Aura: any player on his team in a postseason game with a WAR above 5.0 receives a +0.5 CLU bonus while Dark is in the starting lineup. The captain makes the stars perform better in October.",
+      "note": "Durocher's decision to name Dark captain was based on his read of the locker room — he needed someone who would take responsibility and not complain. Dark was that player."
+    },
+    {
+      "tag": "The Swamp Fox",
+      "desc": "In 1962, Dark had the groundskeepers soak the infield dirt around first base before a Dodger series to slow Maury Wills, who had stolen 104 bases. The muddy infield took away footing for baserunners. Dark was unapologetic. In ILB, once per season as a tactical action, Dark may call The Swamp Fox: the opposing team's highest-SPD runner has their effective SPD reduced by 1 for the series (minimum 0). The historical expression of the manager's ability to change the field itself.",
+      "note": "The incident earned Dark his famous nickname. The 1962 Dodgers had a four-game lead with seven games remaining and Dark's Giants still pulled into a tie on the final day."
+    },
+    {
+      "tag": "The 1954 Catch",
+      "desc": "Game 1, 1954 World Series. Vic Wertz hit a deep drive to center field. Mays caught it over his shoulder in the deepest part of the Polo Grounds. Dark was playing shortstop behind Mays on that play — the captain positioned in the field for the most famous defensive play in baseball history. In ILB, when Dark and Mays appear in the same postseason lineup, both receive a +0.5 CLU bonus — the WS teammates who were on the field for that catch.",
+      "note": "Dark hit .412 in the 1954 WS. Mays hit .286. The Giants swept Cleveland. Dark was the captain who helped Mays transition to the big leagues in 1951 and was behind him at shortstop when Mays made the catch in 1954."
+    },
+    {
+      "tag": "Great Peace",
+      "desc": "After Charlie Finley publicly chastised Dark in the clubhouse in 1974, Dark went to dinner with Finley that evening and responded by quoting Psalms: 'Great peace have they which love thy law, and nothing shall offend them.' In ILB, when Dark's team loses a game in which he is visibly at fault (manager overrides, bad calls), his CLU rating does not decrease for that game. The faith is load-bearing.",
+      "note": "Ken Holtzman observed: 'I knew Alvin Dark was a religious man, but he is worshipping the wrong god — Charles O. Finley.' Dark managed the A's to the 1974 World Series title despite Finley's interference throughout the season."
+    },
+    {
+      "tag": "He Was Ahead of His Time",
+      "desc": "Orlando Cepeda on Dark, years after the Spanish-language episode: 'He was ahead of his time. He was a great baseball man. He made me play hard, because he said I had so much talent.' In ILB, this is encoded as a manager's contradiction trait: Dark's cards generate both a +0.5 offensive output bonus for any player he identifies as talented, and a permanent narrative flag — the HAUNTED marker that cannot be removed. The talent evaluation and the harm coexisted. Neither cancels the other.",
+      "note": "Cepeda also said: 'Every time he saw me he felt very sorry for what he did to the Latino players. I said, that is in the past now, that is in the past.'"
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballpark",
+      "affinity": "SACRED",
+      "note": "The Polo Grounds / October 3, 1951 / the infield single / the Shot Heard Round the World. The most famous rally in baseball history started with Dark's 0-2 at-bat.",
+      "note_extra": "Source labeled 'Polo Grounds / October 3 1951 / 0-2 Count / Six or Seven Fouls / Infield Single / Don Newcombe / Bobby Thomson / Shot Heard Round the World' / affinity 'SACRED' — twenty-eighth SACRED in the set. The SACRED is the most famous single at-bat in the set — not the home run but the at-bat before it. On October 3, 1951, the Giants were trailing the Dodgers 4-1 in the bottom of the ninth inning of Game 3 of the NL playoff, the winner going to the World Series. Dark led off against Don Newcombe on an 0-2 count. He fouled off six or seven pitches. He got a scratch infield single. Don Mueller singled. Whitey Lockman doubled, Dark scored. Bobby Thomson hit the home run. Dark said afterward: 'I must have fouled off six or seven pitches with two strikes before getting that hit.' Without that at-bat — the 0-2 count, the six or seven fouls, the scratch single — the Shot Heard Round the World does not happen. The SACRED is the Polo Grounds, the ninth inning, the infield dirt, the foul balls, the man who refused to make an out on 0-2. The Ballpark domain covers both the stadium and the specific play that defines its mythology."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HAUNTED",
+      "note": "The Latino player episode. The Spanish language restriction. The decades of remorse. Cepeda's forgiveness. The HAUNTED that involves an act of prejudice, a genuine reckoning, and a public accounting.",
+      "note_extra": "Source labeled 'Latino Players / Spanish Language Restriction / Cepeda Marichal Alou / Decades of Remorse / Public Apology / Forgiveness / 1960s Giants' / affinity 'HAUNTED' — fifteenth HAUNTED in the set. Dark's HAUNTED is the most morally complex in the set — an act of prejudice committed in the early 1960s by a man who also managed Cepeda with genuine appreciation for his talent, told him he had so much talent, and made him play hard. As manager of the San Francisco Giants, Dark reportedly asked his Latin players — Cepeda, Marichal, Felipe Alou — to refrain from speaking Spanish at the ballpark. Cepeda told the AP on the day of Dark's death (2014): 'Every time he saw me he felt very sorry for what he did to the Latino players. I said, that is in the past now, that is in the past.' Cepeda also said: 'He was ahead of his time. He was a great baseball man. He made me play hard, because he said I had so much talent.' Dark wrote in his 1980 memoir about his first marriage collapsing: 'There are people in Lake Charles who have not spoken to me since, much less forgiven me.' The HAUNTED covers the weight a man carries who understands what he did and cannot undo it. The Hotel/Rest domain — the private space, the road trips where he found it easier not to take his Bible — is where the HAUNTED lives."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Comanche, Oklahoma / Lake Charles, Louisiana / LSU and Southwestern Louisiana / Oil Bowl quarterback / Marine Corps / Pacific Theater / the three-sport athlete who chose baseball.",
+      "note_extra": "Source labeled 'Comanche Oklahoma / Lake Charles Louisiana / LSU Football / Oil Bowl / Marine Corps V-12 / Pacific Theater / Southwestern Louisiana Degree / Three Sports / Chose Baseball' / affinity 'ORIGIN' — thirty-first ORIGIN in the set. Dark's ORIGIN is the most athletically complete in the set: three sports at two Louisiana colleges, football at LSU leading the team in rushing and passing in 1942 (the last LSU player to accomplish that), then transferring to Southwestern Louisiana for the Marine Corps V-12 officer training program, quarterbacking SLI to an undefeated season in 1943 and a New Year's Day Oil Bowl victory over Arkansas A&M. He was commissioned at Quantico in January 1945 and sent to the Pacific. At Pearl Harbor awaiting deployment, he tried out for the Marine Corps baseball team, made it easily, and never saw combat. He returned to Southwestern to complete his bachelor's degree in 1947 before signing with the Braves. His father worked for oil companies in Oklahoma and Louisiana. Pro football wanted him; he chose baseball. Community Events domain: the civic athlete who represented his region in football, basketball, baseball, track, and golf — the complete athletic biography of the rural South."
+    },
+    {
+      "location": "Church/Meditation",
+      "affinity": "HIGH",
+      "note": "The Baptist faith. The Bible on road trips. The Psalms quoted to Charlie Finley. The second marriage of 44 years. The man who said God blessed me.",
+      "note_extra": "Source labeled 'Baptist Faith / Bible Road Trips / Psalms 119:165 / Charlie Finley / Jackie Troy Second Marriage 44 Years / Bible Study Indians / God Blessed Me / Lake Charles Church' / affinity 'HIGH' — twenty-eighth HIGH in the set. Dark's is the most theologically articulate HIGH in the set — a faith that was present when it was easy, absent when it was hard, and returned when he chose it. He said his parents took him to church since he was old enough to breathe. During the 1960s, when his first marriage was collapsing and he was having an affair, he found it easier not to attend church and not to take his Bible on road trips. After his time managing the Cleveland Indians, he began attending Bible study with his second wife Jackie and took his faith more seriously again. When Charlie Finley publicly chastised him in the clubhouse during the 1974 season, Dark went to dinner with Finley afterward and responded to the reporter's question about his reaction by quoting Psalms 119:165: 'Great peace have they which love thy law, and nothing shall offend them.' He married Jacolyn Troy in 1970 and was with her 44 years until his death. He told the San Francisco Chronicle: 'Baseball was my business and my life. I gave it all I had. I feel very fortunate. And very happy. God blessed me.' The Church domain covers both the institutional faith and the private reckoning — the man who knew when he had set his faith down and picked it up again."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "COMPLEX",
+      "note": "The HOF case that wasn't. Higher average and more HR than Rizzuto and Reese, both inducted. Career WAR 43.1. The Shot Heard single. The WS rings as player and manager. Not in Cooperstown.",
+      "note_extra": "Source labeled 'HOF Case / Rizzuto Reese Comparison / Career WAR 43.1 / OPS+ 98 / Not Inducted / Shot Heard / WS Rings Player Manager / 1951 WS .417 / 1954 WS .412' / affinity 'COMPLEX' — seventeenth COMPLEX in the set. Dark's is the most structurally clear HOF COMPLEX in the set: he had a higher career batting average (.289 vs. Rizzuto's .273, Reese's .269) and more HR (126 vs. Rizzuto's 38, Reese's 84) than either of the HOF shortstops of his era in New York. In the five-year window 1950-1954, he rated a slight WAR lead over Rizzuto and Reese among all three. He sparked the most famous rally in baseball history with an infield single. He hit .323 in three WS as a player. He won a WS ring as a player and as a manager. His career WAR (43.1) is comparable to multiple inducted shortstops. He is not in the HOF, and there has been no sustained campaign for his induction. The COMPLEX is the gap between the historical record and the historical recognition — a gap that exists in his case without the analytical closure that eventually came for Ashburn or Roberts. Hotel/Rest domain: the private calculation, the numbers that don't translate to a plaque."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "I Must Have Fouled Off Six or Seven — on any 0-2 count in elimination situations, Dark may extend his at-bat up to three additional rolls before final outcome.",
+      "The Captain bonus — any teammate with WAR above 5.0 receives +0.5 CLU in postseason games while Dark is in the lineup.",
+      "The 1954 Catch — when paired with Mays in any postseason lineup, both receive +0.5 CLU.",
+      "CLU 3 base — the highest CLU in the set for a non-championship-winning regular season team. The postseason is where Dark's career concentrates."
+    ],
+    "cold_triggers": [
+      "SPD 0 — no base-stealing contribution. The captain does not run.",
+      "OPS+ 98 — career offensive production just below league average when adjusted for era. The CON 3 / POW 3 combination is not dominant in any single category.",
+      "The HAUNTED marker — permanently attached per the Cepeda/He Was Ahead of His Time chemistry_trait. The harm is encoded alongside the talent evaluation.",
+      "HOF COMPLEX — the statistical gap between career performance and historical recognition produces a pressure effect in ILB: Dark's OVR 8 can feel like a 7 on bad nights when the history intrudes."
+    ],
+    "pressure_response": "Documented. October 3, 1951, the ninth inning, 0-2 count. Six or seven foul balls. Infield single. The best-documented pressure response in the set is also the most modest: not a home run, not a double, not even a clean single. A scratch hit off the end of the bat after fouling off half a dozen pitches. The Captain's response to pressure was to refuse to give the at-bat away."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "I Must Have Fouled Off Six or Seven",
+      "type": "Game Action",
+      "text": "October 3, 1951. The Polo Grounds. The Giants trail the Brooklyn Dodgers 4-1 in the bottom of the ninth inning. The winner goes to the World Series. Alvin Dark is at the plate against Don Newcombe. The count goes to 0-2. He fouls off the next pitch. He fouls off another. He keeps fouling them off. He will say later: 'I must have fouled off six or seven pitches with two strikes before getting that hit.' He gets a scratch infield single. Don Mueller singles. Whitey Lockman doubles — Dark scores. Bobby Thomson is at the plate. The rest is the most famous moment in baseball history. It started here, with a man who would not make an out on 0-2.",
+      "origin": "Dark's own account of the at-bat is documented in multiple sources. The sequence of the ninth inning rally (Dark single, Mueller single, Lockman double, Thomson HR) is documented. Dark's quote is sourced from Wikipedia citing his own recollection."
+    },
+    {
+      "title": "The Swamp Fox",
+      "type": "Tactics",
+      "text": "1962. Alvin Dark is managing the San Francisco Giants. Maury Wills has stolen 104 bases. The Dodgers come to Candlestick Park with a four-game lead and seven games to go. Before the series begins, Dark has the groundskeepers soak the infield dirt around first base until it is muddy. No one can get a foothold. Wills cannot run. The Dodgers complain. Dark is unapologetic. The Giants pull into a tie on the final day of the season and force a tiebreaker. The nickname sticks. There are rules and there are the rules. Dark understood the difference.",
+      "origin": "The soaked infield incident is documented in Wikipedia. The 1962 pennant race — the Dodgers' lead, the Giants' comeback — is documented. The Swamp Fox nickname originating from this incident is documented."
+    },
+    {
+      "title": "Great Peace",
+      "type": "Character",
+      "text": "1974. Oakland. Charlie Finley calls a clubhouse meeting and publicly chastises Alvin Dark in front of the team. Shouts that they won two World Series without Dark and if he does not improve he will be gone. Dark says nothing. After the meeting, Ken Holtzman tells a reporter: 'I knew Alvin Dark was a religious man, but he is worshipping the wrong god — Charles O. Finley.' That evening, Dark goes to dinner with Finley. When asked how he responded to the tirade, Dark quotes Psalms 119:165: 'Great peace have they which love thy law, and nothing shall offend them.' In October, the Oakland A's beat the Los Angeles Dodgers in five games for the World Series championship. The apparently unflappable Dark had managed them there.",
+      "origin": "The Finley/Dark clubhouse incident and Holtzman's quip are documented in the Baseball Almanac. Dark's Psalms response and the subsequent dinner with Finley are documented. The 1974 WS result is documented."
+    },
+    {
+      "title": "He Was a Great Baseball Man",
+      "type": "Legacy",
+      "text": "In the early 1960s, Alvin Dark managed a San Francisco Giants team that included Orlando Cepeda, Juan Marichal, and Felipe Alou. He reportedly asked his Latin players to refrain from speaking Spanish at the ballpark. Decades later, Cepeda told the Associated Press on the day of Dark's death: 'Every time he saw me he felt very sorry for what he did to the Latino players. I said, that is in the past now, that is in the past. I do not have grudges against nobody.' Cepeda also said: 'He was ahead of his time. He was a great baseball man. He made me play hard, because he said I had so much talent.' Both things were said in the same conversation. Both things were true.",
+      "origin": "The Spanish language episode and Cepeda's AP comments on the day of Dark's death (November 13, 2014) are documented in the Sports Illustrated and TSN obituaries. Cepeda's full quote is sourced from the AP via TSN."
+    },
+    {
+      "title": "The First Three",
+      "type": "Legacy",
+      "text": "Three managers have won pennants in both the National and American Leagues: Joe McCarthy. Yogi Berra. Alvin Dark. Dark won the NL pennant in 1962 with the San Francisco Giants. He won the AL pennant (and the World Series) in 1974 with the Oakland Athletics. In the seventh game of the 1962 World Series, with two outs and Mays on second and Matty Alou on third, Willie McCovey lined hard to Bobby Richardson to end the Series 1-0. The Giants had been one ball in the air from a championship. In 1974, the A's were united — as one writer put it — by their hatred of owner Charlie Finley, and they beat the Dodgers in five games. Dark managed both of those teams. He is in neither league's Hall of Fame.",
+      "origin": "The three-manager NL/AL pennant list (McCarthy, Berra, Dark) is documented in the Baseball Almanac. The 1962 seventh-game ending (McCovey line drive to Richardson) is documented. The 1974 WS result is documented. The HOF non-induction is documented."
+    },
+    {
+      "title": "The Trade That Built the 1954 Giants",
+      "type": "Origin",
+      "text": "December 14, 1949. The New York Giants send outfielders Willard Marshall and Sid Gordon — popular power hitters, Gordon a fan favorite as one of the league's foremost Jewish sluggers — plus shortstop Buddy Kerr and pitcher Sam Webb to the Boston Braves. In return, the Giants receive Alvin Dark and Eddie Stanky. The trade is criticized. The Giants gave up power. What the Giants got back: the shortstop who would be named team captain, the keystone combination that made their defense, the man who cleared the outfield for a young player from Alabama who would arrive in 1951 named Willie Mays. Sometimes the trade that looks like a loss is the trade that builds everything.",
+      "origin": "The December 14, 1949 trade is documented in the SABR BioProject. The criticism of the trade and the subsequent narrative (clearing the way for Mays) is documented. Gordon's status as a fan favorite and Jewish slugger is documented."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'11'', 185 lbs — the Swamp Fox, the team captain, the man who quarterbacked an undefeated Louisiana football team and chose baseball instead. In 1953 he is 31 years old at his offensive peak: career highs in HR, RBI, and runs, leading the NL in AB. The intensity is visible — the man who foul balls his way through 0-2 counts, who soaks infields, who quotes Psalms after being dressed down. The face of a captain who has been through the 1951 playoffs and the 1954 WS and is still leading the league in at-bats.",
+    "attire": "New York Giants home whites — the distinctive Giants script, the classic cap. The right-handed batter's stance of a man who hit 23 HR at shortstop in 1953, which was unusual enough to be a record. Not a power hitter's stance — a shortstop's stance, compact and functional.",
+    "mood": "Contained intensity. Not joy, not fury — the captain's equilibrium. The man who fouled off seven pitches on 0-2 and got a scratch single and said nothing except to recount it factually afterward. The man who quoted Psalms when Finley screamed at him. The portrait should show the player who was hard to put away.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. The Polo Grounds outfield in the background — the deep center field where Mays made the catch in 1954, where Thomson hit the home run after Dark's single in 1951. The field that was demolished in 1964, the year Dark was fired as Giants manager.",
+    "reference": "The defining visual element is the scratch single — not the home run but the infield hit. The portrait contains the player at the moment of refusing to make an out: the 0-2 count, the foul ball, the compact swing that found the gap in the infield. The Shot Heard started here."
+  }
+}

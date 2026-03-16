@@ -1,0 +1,195 @@
+{
+  "card_type": "player",
+  "name": "Curt Simmons",
+  "nickname": "none",
+  "year": 1950,
+  "team": "Philadelphia Phillies",
+  "league": "National League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "SP",
+  "bats": "L",
+  "throws": "L",
+  "height": "5'11\"",
+  "weight": "175 lbs",
+  "born": "May 19, 1929 — Egypt, PA",
+  "died": "December 13, 2022 — Ambler, PA",
+  "hof": "Not inducted",
+
+  "real_stats": {
+    "season": 1950,
+    "wins": 17,
+    "losses": 8,
+    "era": 3.40,
+    "innings_pitched": 214.2,
+    "strikeouts": 146,
+    "walks": 87,
+    "complete_games": 14,
+    "shutouts": 3,
+    "win_pct": ".680",
+    "war": 5.9,
+    "all_star": 3,
+    "awards": "1950 NL pennant (Philadelphia Phillies — Whiz Kids). Simmons went 17-8, 3.40 ERA, 146 K before being called to active military service in September. Both Roberts and Simmons were 17-7 by late August with the Phillies holding a seven-game lead. Three-time NL All-Star (1952, 1953, 1957 — starting pitcher in both 1952 and 1957 Midsummer Classics). Led Major League Baseball with six shutouts in 1952. Led NL in innings pitched in 1954 (253). Career-best 21 complete games in 1954. 1952 season: 14-8, 2.82 ERA (comeback from Korea). 1964 Cardinals: 18-9, 3.43 ERA — his career-best win total at age 35. First Major League player to leave the game for active duty in the Korean War. Named the toughest pitcher he ever faced by both Hank Aaron and Stan Musial. Inducted into Phillies Wall of Fame 1993. Hank Aaron (2016): 'Who was the toughest pitcher you ever faced? Curt Simmons. Baseball players are trained to watch for the pitch up here. Curt Simmons never did that. He would pitch right from his leg, and I could never adjust to that.' Simmons on Aaron: 'Trying to throw a baseball by Hank Aaron is like trying to sneak the sunrise past a rooster.'",
+    "world_series": "Missed the 1950 World Series — National Guard activated for Korean War. Simmons was stationed at Camp Atterbury and received leave to attend the Series as a spectator. He had gone 17-8 to help the Phillies win the NL pennant. The Phillies chose not to request Commissioner Chandler rule him WS-eligible. Without him, the Phillies were swept in four games by the Yankees. He waited 14 years for his World Series appearance. 1964 WS with Cardinals: started Games 3 and 6. Game 3: 8 innings, 4 hits, 1 ER — the Cardinals pinch-hit for him in the top of the 9th with the game tied 1-1. Barney Schultz came in. Mickey Mantle hit Schultz's first pitch into the third tier. Simmons was walking through the tunnel to the locker room when he heard the roar. He received a no-decision. Game 6: took the loss. Cardinals won the Series in 7 games — his only WS championship. Career WS: 0-1, 1 no-decision, 2.51 ERA in 14.1 IP.",
+    "career_record": "193-183",
+    "career_era": 3.54,
+    "career_k": 1697,
+    "career_war": 42.0,
+    "career_notes": "20 MLB seasons (1947-1967). Philadelphia Phillies (1947-1960), St. Louis Cardinals (1960-1966), Chicago Cubs (1966-1967), California Angels (1967). 193-183, 3.54 ERA, 163 CG, 36 SO, 1,697 K in 3,348.1 IP. One of only 17 players to complete a major league career without a single day in the minor leagues (debuted from high school under the bonus baby rule; Korea served as substitute seasoning). Career interrupted by Korean War (1951 entire season; partial 1950) and lawnmower injury (1953 — sliced left big toe on pivot foot, walked with limp for rest of career). After playing career: co-owned and operated Limekiln Golf Club in Ambler, PA with Robin Roberts (sold to developers 2019). Died December 13, 2022, Ambler, PA, age 93 (Alzheimer's disease). Last living member of the 1950 Phillies Whiz Kids."
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "stf": 4,
+    "ctl": 4,
+    "sta": 4,
+    "def": 1,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "stf": "Left-handed power pitcher before 1953. The across-the-body delivery that turned his backside to the hitter before the release. Hank Aaron — who named Simmons the toughest pitcher he ever faced — said: 'He would turn his body, give me a view of his backside, then he would throw and I would not see the ball until a split second before he would let it go — then it came floating in like plastic.' In 1950 he struck out 146 batters at age 21, equal to Roberts on the same staff. STF 4 reflects the pre-lawnmower power pitcher — the fastball and the deception working together before the July 1953 accident changed his pivot foot and cost him velocity. The HAUNTED (lawnmower) is the event that reduced his effective STF; the card year (1950) captures the peak.",
+    "ctl": "Career 3.54 ERA. 2.82 in 1952 (comeback year). 3.40 in 1950. 3.36 in 1956. The across-the-body delivery was itself a control instrument — the deception Aaron described was built into the mechanical release, not a separate repertoire. CTL 4 sits between Roberts and Burdette (CTL 5) and Newcombe (CTL 3). Both NL LHPs in the set (Antonelli CTL 4, Simmons CTL 4) share the same control tier — the solid but non-elite command that supported good ERAs across long careers. Simmons's career BB/9 of approximately 2.9 supports CTL 4.",
+    "sta": "Led the ML in IP in 1954 (253). Career-best 21 CG in 1954. 163 career CG. Consistently above 200 IP across his peak from 1950-1957 (with the Korea gap). STA 4 matches Newcombe and Burdette — the NL ace who finished what he started without the iron-man durability of the AL workhorses (Wynn/Lemon at STA 5). The 253 IP season and 21 CG year are the STA 4 evidence.",
+    "def": "Career batting average as a pitcher not notable. No power seasons. DEF 1 is standard. His quote about Aaron ('trying to sneak the sunrise past a rooster') is the card's best DEF-adjacent material but it belongs to the personality section, not the stat.",
+    "clu": "2. 1964 World Series champion (Cardinals). One ring. But the 1950 pennant — earned through 17-8 — was denied its WS expression by the Korean War call-up. The CLU 2 acknowledges the 1964 ring while the SACRED and HAUNTED encode the 1950 WS absence. His Game 3 performance (8 IP, 1 ER, 4 H) deserved a win he never got — Mantle's walkoff off Schultz in the 9th eliminated the possibility. CLU 2 is honest: the ring is real, the individual WS contributions were solid but not MVP-level, and the career's defining WS moment was a no-decision on 8 brilliant innings."
+  },
+
+  "personality": {
+    "leadership_style": "The workmanlike ace — no announcement, no performance, just the across-the-body delivery and the ball coming from where Aaron couldn't find it. He pitched from his natural motion after two years of trying to adjust it to make coaches comfortable. The natural motion was the leadership — the refusal to be standardized.",
+    "temperament": "Pessimistic by self-description but resilient by record. 'I am usually a pessimistic kind of guy. But I felt I could still pitch, that I was not even close to being washed up' — said two days before his 31st birthday when the Phillies released him. He went 15-9, then 18-9 for the Cardinals. The pessimism was the weather; the pitching was the fact.",
+    "work_ethic": "253 innings in 1954. 21 complete games. 163 CG career. He returned from Korea at 23 and led the ML in shutouts. He returned from the lawnmower in 1953 and went 16-13 with a reconstructed delivery. He pitched for 20 years through a Korea gap, a lawnmower, and a sore arm. He was still useful at 35.",
+    "lifestyle": "Egypt, Pennsylvania to Philadelphia, then back to the Lehigh Valley after the career. He married his childhood sweetheart Dorothy Ludwig from Egypt, PA — they had known each other since grammar school. Three children. He and Roberts co-owned the Limekiln Golf Club in Ambler, PA, from 1966 until selling it to developers in 2019. After a third hip surgery in 2012 made golfing impossible, he sat behind his house and watched the fourth hole. Then the developers bought the course and the fairways filled with weeds. He died in Ambler on December 13, 2022, at 93, of Alzheimer's disease — the last living member of the 1950 Phillies Whiz Kids.",
+    "era_adaptability": "The across-the-body delivery that hid the ball until release is completely era-proof — the deception is mechanical, not technological. STF 4 and CTL 4 across 20 seasons is the durability profile of a pitcher who adapts. His 1964 season at age 35 (18-9) is the evidence of era adaptability: the same essential pitcher, the same delivery, finessing where he had previously powered.",
+    "dark_side": "He heard the roar from the tunnel. 1964 WS, Game 3. He had given 8 innings of one-run ball — the Cardinals tied the game in the 8th. Keane pinch-hit for him. Schultz came in. Mantle hit the first pitch into the third tier. Simmons was already in the tunnel when it happened. He had waited 14 years to pitch in a World Series — finally did it at 35 — gave his best outing — and heard the result from the wrong side of the door. He also sliced his toe off with a lawnmower in 1953, which is a different kind of dark."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Sunrise",
+      "desc": "Simmons's most famous quote: 'Trying to throw a baseball by Hank Aaron is like trying to sneak the sunrise past a rooster.' Aaron, for his part, named Simmons the toughest pitcher he ever faced. In ILB, when Simmons faces any CON 5/POW 5 hitter, the Sunrise trait activates: for the duration of their confrontation, Simmons's CTL rises from 4 to 5 (the specific deception of the delivery that baffled Aaron is fully operational). The rooster doesn't miss the sunrise, but the sun takes longer to come up when Simmons is pitching.",
+      "note": "Aaron (2016): 'He would turn his body, give me a view of his backside, then he would throw and I would not see the ball until a split second before he would let it go — then it came floating in like plastic.' Stan Musial separately named Simmons the toughest pitcher he ever faced."
+    },
+    {
+      "tag": "The Natural Motion",
+      "desc": "The Phillies tried to adjust Simmons's across-the-body delivery in 1948-49. He went 7-12 and 4-10. In 1950 he returned to his natural motion and went 17-8. In ILB, Simmons may not be subject to manager in-game adjustments to his pitching mechanics. If a manager attempts to adjust his delivery, the adjustment roll is ignored and Simmons's STF 4 is maintained. The natural motion is non-negotiable. The coaches were wrong; 17-8 proved it.",
+      "note": "Hank Aaron: 'Baseball players are trained to watch for the pitch up here. Curt Simmons never did that. He would pitch right from his leg, and I could never adjust to that.'"
+    },
+    {
+      "tag": "Roberts Next Door",
+      "desc": "Robin Roberts lived next door. When Simmons sliced his left big toe with the lawnmower in 1953, Roberts heard the commotion and rushed his friend to the hospital. They co-owned the Limekiln Golf Club together for decades after their careers ended. In ILB, when Simmons and Roberts appear in the same starting rotation, both receive a +0.5 CLU bonus and Simmons's STA rises from 4 to 5 for the season (the Whiz Kids partnership elevates the workhorse capacity of both). The partnership that survived the lawnmower and ended only when the golf course was sold to developers.",
+      "note": "The Roberts-Simmons friendship is documented as one of baseball's most durable: neighbors, pitching partners, co-owners of the Limekiln Golf Club (1966-2019). Roberts preceded Simmons in both the set and in Phillies history."
+    },
+    {
+      "tag": "The Lawnmower",
+      "desc": "July 1953. Simmons slipped while using his new lawnmower. His left foot — his pivot foot, his push-off foot — went under the blade. His big toe was cut to the bone and several other toes were severed. Roberts rushed him to the hospital. He returned to pitch on July 4th. He walked with a limp for the rest of his career. His delivery was never silky smooth again. In ILB, the Lawnmower marker is permanently attached to Simmons's card: in any season after 1953, his STF is reduced from 4 to 3 for calculations involving left-foot push-off mechanics (sinker, low-and-away breaking ball). The HAUNTED is mechanical — it lives in the foot.",
+      "note": "The lawnmower injury is one of the most documented career-altering accidents in the set. Simmons: 'I had my ups and downs, arm problems and some tough luck like cutting my toe with a lawn mower in 1953 when I was having a good year.' The card year (1950) predates the injury — the card shows the pre-lawnmower Simmons."
+    },
+    {
+      "tag": "The Tunnel",
+      "desc": "Game 3, 1964 World Series, Yankees vs. Cardinals. Simmons pitches 8 innings, allows 1 run, 4 hits. Cardinals pinch-hit for him in the top of the 9th, game tied 1-1. He walks through the tunnel toward the visitors' locker room at Yankee Stadium. Barney Schultz comes in. Mickey Mantle hits the first pitch into the third tier. Simmons hears the roar from the tunnel. He had waited 14 years for a World Series start. He gave 8 brilliant innings. He gets a no-decision. In ILB, when Simmons pitches 7+ innings and leaves with a tie game in progress, the Tunnel mechanic activates: the reliever who replaces him rolls with a +0.5 ERA penalty (the roar the pitcher heard from the tunnel is permanent).",
+      "note": "The SABR biography documents Simmons walking through the tunnel and hearing the crowd. Mantle's walkoff is documented across multiple sources. Simmons had missed the 1950 WS due to Korea and waited until 1964 — age 35 — to pitch in one."
+    },
+    {
+      "tag": "The Last Whiz Kid",
+      "desc": "When Curt Simmons died on December 13, 2022, he was the last living member of the 1950 Philadelphia Phillies National League pennant team — the Whiz Kids. He was 93. In ILB, when Simmons's career ends, the Whiz Kids era of the Dreamers 1950 franchise closes: Roberts's card generates a memorial marker, Ashburn's card generates a memorial marker, and all three cards' CLU ratings rise by 0.5 permanently in tribute to the era they collectively represented. The last Whiz Kid's death is acknowledged in the cards of the two teammates who outlasted him — and in his own card, which he has outlasted.",
+      "note": "Roberts died on May 17, 2010. Ashburn died on September 9, 1997. Simmons died on December 13, 2022 — the last of the three. The 1950 Whiz Kids pennant team now has three cards in the set."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballpark",
+      "affinity": "SACRED",
+      "note": "Shibe Park/Connie Mack Stadium / the 1950 pennant / the September call-up / attending the World Series as a spectator at 21 years old, in uniform, having helped earn the pennant.",
+      "note_extra": "Source labeled 'Shibe Park / Connie Mack Stadium / 1950 NL Pennant / Whiz Kids / 17-8 Before Korea / September Call-Up / WS Spectator Camp Atterbury Leave / Swept by Yankees Without Him / First ML Player Korean War Active Duty' / affinity 'SACRED' — thirty-third SACRED in the set. Simmons's SACRED is the 1950 pennant and its specific wound: the championship he earned and the World Series he could not play. He went 17-8 as a 21-year-old, equal to Roberts, as the Phillies held a seven-game lead in August. In September, his National Guard unit was activated — he was the first Major League player to leave the game for active duty in the Korean War. He received leave from Camp Atterbury to attend the World Series. He sat in the stands. He watched the Yankees sweep his team in four games. The Phillies chose not to request Commissioner Chandler rule him eligible for the WS roster. His place was taken by Jocko Thompson. Simmons: 'Going into the service was just something you did back then. It was just my bad luck that I got called when I did.' The SACRED is Shibe Park — the ballpark where he helped win the pennant, where he watched the WS he should have pitched in, where the 1950 pennant banner hangs above the career of a pitcher who waited 14 years for a World Series start and got it at 35. Ballpark domain."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Egypt, Pennsylvania / Whitehall High School / the natural delivery / the $65,000 bonus / the Egypt Memorial Park exhibition / Babe Ruth and Ty Cobb All-Star game.",
+      "note_extra": "Source labeled 'Egypt Pennsylvania / Whitehall High School / Natural Delivery Coaches Tried Adjust / $65000 Bonus Phillies / Giants Offered 125000 Family Promise / Egypt Memorial Park Exhibition 11K / Babe Ruth Ty Cobb High School All-Star Game / Father Cement Mill / No Coaching Growing Up / Four Mile Walk to Play / Dorothy Ludwig Childhood Sweetheart' / affinity 'ORIGIN' — thirty-sixth ORIGIN in the set. Simmons's is the most geographically settled ORIGIN in the set: he was born in Egypt, Pennsylvania, married his childhood sweetheart Dorothy Ludwig from Egypt, and died in the adjacent Lehigh Valley town of Ambler. The exhibition game at Egypt Memorial Park on June 2, 1947 — where he struck out 11 Phillies in a 4-4 tie — is the origin event. The $65,000 bonus (tied with Antonelli as the largest in baseball history at the time) was offered by a Phillies owner who had arranged the showcase. The Giants had offered $125,000 — more than double the Phillies' offer — but the Simmons family had made a promise to the Phillies. Simmons: 'Some kids had bats, we used tire-tap balls or some kid had a real ball. I remember us walking four miles to play another town. We did not have coaching then — my father was working in a cement mill and did not have time for baseball. Times were different. A lot of my stuff comes natural to me.' The natural motion that Aaron found impossible to track was, literally, natural — it developed on open fields in Egypt, Pennsylvania, without coaching, because the father was working in a cement mill and didn't have time. Community Events domain."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HAUNTED",
+      "note": "The lawnmower. The left big toe. The pivot foot. Robin Roberts next door. Walking with a limp forever after. The delivery that was never silky smooth again.",
+      "note_extra": "Source labeled 'Lawnmower 1953 / Left Big Toe Severed / Pivot Foot / Robin Roberts Next Door Hospital / July 4th Return / Limp Forever / Silky Smooth to Herky-Jerky / Lost Velocity / Lost Curve Bite / 9-9 After Return' / affinity 'HAUNTED' — sixteenth HAUNTED in the set. Simmons's is the most physically comic-tragic HAUNTED in the set: a professional pitcher cut his big toe to the bone with a lawnmower while using the lawnmower incorrectly on his front yard. The foot was his pivot foot — the left foot that pushes off the mound and generates the delivery's velocity. His neighbor Robin Roberts heard the commotion and rushed him to the hospital for emergency surgery. Simmons returned to pitch on July 4th — remarkable. But he walked with a limp for the rest of his career and his delivery changed from 'silky smooth' to 'herky-jerky.' He lost velocity and some of the break on his curve. He finished the 1953 season 16-13 but went only 9-9 after the July 4th return. He told an interviewer in 2014: 'I had my ups and downs, arm problems and some tough luck like cutting my toe with a lawn mower in 1953 when I was having a good year.' The understatement is the HAUNTED's signature register. Hotel/Rest domain: the private injury, the lawn, the domestic accident that changed the pitcher's body permanently."
+    },
+    {
+      "location": "Ballpark",
+      "affinity": "CODA",
+      "note": "The Cardinals years. 19-6 against his former Phillies team after his release. 18-9 at age 35. The 1964 championship. Proving the Phillies wrong, against the Phillies specifically, for six years. The golf course. The last Whiz Kid.",
+      "note_extra": "Source labeled '1960 Phillies Release Before 31st Birthday / Cardinals Three Days Later / 19-6 Against Phillies After Release / 18-9 Age 35 1964 / Cardinals Pennant Contribution Phillies 10-Game Losing Streak / WS Champion 1964 / Limekiln Golf Club With Roberts 1966-2019 / Last Whiz Kid Until 2022' / affinity 'CODA' — ninth CODA in the set (after Brecheen, Kuenn, Fox, Raschi, Hodges, Roberts, Ashburn, Newcombe). Simmons's is the most personally vindicated CODA in the set: the Phillies released him two days before his 31st birthday in 1960, and he spent the next six years proving they were wrong, specifically against the Phillies (19-6 record vs. his former team post-release). In 1964, his final win of the season contributed to the Phillies' infamous 10-game losing streak and the Cardinals' pennant surge — a detail the SABR biography notes with care. He went 18-9 at age 35, earned his only WS ring, and spent the last years of his career finessing where he had once powered. The post-baseball CODA is co-ownership of the Limekiln Golf Club with Roberts — the friendship that began on the 1950 Phillies, survived the lawnmower, and ended only when developers bought the course in 2019. He died on December 13, 2022, at 93, the last living member of the 1950 Whiz Kids. Ballpark domain: the Cardinals years were still the ballpark, still the game — the CODA is the second career inside the same career."
+    },
+    {
+      "location": "Home",
+      "affinity": "HIGH",
+      "note": "The Lehigh Valley. Egypt, Pennsylvania. Dorothy Ludwig from grammar school. Ambler. The fourth hole at Limekiln. The weeds growing over the fairways after the sale.",
+      "note_extra": "Source labeled 'Egypt Pennsylvania / Whitehall Township / Lehigh Valley / Dorothy Ludwig Childhood Sweetheart / Ambler PA / Limekiln Golf Club 1966-2019 / Third Hip Surgery 2012 / Fourth Hole / Developers 2019 Weeds Fairways / I Do Not Like to Sit Out There Anymore' / affinity 'HIGH' — thirty-second HIGH in the set. Simmons's is the most quietly elegiac HIGH in the set: the man who came from Egypt, Pennsylvania, married his grammar-school sweetheart, pitched for 20 years, came home to Ambler (seven miles from Egypt), co-owned a golf course with his former pitching partner, and sat behind his house watching the fourth hole until the developers bought the course and the grass grew over the fairways. He told a Morning Call interviewer in 2020 — two years before his death: 'I do not like to sit out there anymore.' After a third hip surgery in 2012 made golfing impossible, the course was the window, and when the developers took it, the window closed. He died in Ambler on December 13, 2022. He was born in Egypt, PA. He died seven miles away in Ambler. Dorothy — his wife of more than 60 years, married September 23, 1951, in Egypt, PA — had preceded him in 2012. The Lehigh Valley was the whole of his life's geography. Home domain."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "The Sunrise — vs. CON 5/POW 5 hitters, CTL rises from 4 to 5. The delivery that baffled Aaron specifically operates at its peak against the best hitters.",
+      "The Natural Motion — manager adjustment attempts are ignored; STF 4 is maintained regardless of coaching intervention.",
+      "Roberts Next Door — when paired with Roberts in the same rotation, STA rises to 5 for the season.",
+      "STF 4/CTL 4/STA 4 — the balanced ace profile. No extreme, no weakness. Consistent across all three pitching dimensions."
+    ],
+    "cold_triggers": [
+      "The Lawnmower — post-1953, STF is reduced from 4 to 3 for push-off mechanics (sinker, low-and-away breaking ball).",
+      "The Tunnel — when Simmons leaves a tied game in the 7th inning or later, the reliever who replaces him rolls with a +0.5 ERA penalty.",
+      "1950 WS absence — the SACRED wound generates a CLU -0.5 penalty in any simulation of the 1950 World Series specifically.",
+      "Korea gap (1951) — the STA history includes two absent years; career accumulated STA reflects the full peak, not the career total."
+    ],
+    "pressure_response": "Two documented pressure responses on opposite ends of the spectrum. The 1964 World Series, Game 3: 8 innings, 1 run, 4 hits — the best-pitched game of a 35-year-old pitcher in the first WS start of his career. He got a no-decision. The 1950 pennant race: 17-8 by September with the Phillies seven games up, then Korea called. Both responses are complete — maximum effort, maximum quality, result not in the pitcher's control. The pressure response was always the same. The outcomes varied."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Egypt Memorial Park",
+      "type": "Origin",
+      "text": "June 2, 1947. The opening day of Egypt Memorial Park in Egypt, Pennsylvania. Seven miles northwest of Allentown. A crowd of 4,500 comes to watch an exhibition between the Phillies and a team of Lehigh Valley high school all-stars. Curt Simmons is 18 years old. He strikes out the first two batters. He ends with 11 strikeouts in a 4-4 tie. An error in the late innings is the only thing that keeps the Phillies from losing to the high school team. Phillies scout Hans Lobert calls the Phillies' owner: 'He is by far the best prospect I have ever seen.' The Giants have offered $125,000. The Simmons family keeps their promise to the Phillies. He signs for $65,000. His father works in a cement mill. He learned to play on open fields and walked four miles to play the next town.",
+      "origin": "The Egypt Memorial Park exhibition is documented in the SABR BioProject and Wikipedia. The $65,000 bonus and the Giants' $125,000 offer (declined due to family promise) are documented. The Simmons family background (father in cement mill, walk four miles to play) is from the SABR BioProject quote from Simmons."
+    },
+    {
+      "title": "The Natural Motion",
+      "type": "Character",
+      "text": "The Phillies look at Curt Simmons's delivery and decide it needs to be fixed. He turns his backside to the hitter. He comes across his body. He releases from a strange angle. They adjust it. He goes 7-12 in 1948, 4-10 in 1949. In 1950, at 21 years old, he returns to his natural motion. He goes 17-8. Hank Aaron will later say: 'He would turn his body, give me a view of his backside, then he would throw and I would not see the ball until a split second before he would let it go — then it came floating in like plastic.' Aaron names Simmons the toughest pitcher he ever faced. Stan Musial does the same, independently. The coaches who tried to fix the motion are not named in any source on this subject.",
+      "origin": "Simmons's delivery adjustment by the Phillies and his return to the natural motion in 1950 are documented in the Philadelphia Inquirer obituary and SABR BioProject. Aaron's quote (2016 interview, Desert Sun) and his naming of Simmons as the toughest pitcher he faced are documented. Musial's independent naming of Simmons is documented in Wikipedia."
+    },
+    {
+      "title": "Curt Simmons Versus the Lawnmower",
+      "type": "Drama",
+      "text": "1953. Curt Simmons has a new lawnmower. He is having a good year — 7-4, among the NL ERA leaders. He is using the lawnmower when he slips. His left foot goes under the blade. The blade cuts his big toe to the bone and severs several other toes. His neighbor Robin Roberts hears the commotion and rushes him to the hospital. Simmons returns to pitch on July 4th. He walks with a limp for the rest of his career. His delivery changes from silky smooth to herky-jerky. He loses velocity. He loses bite on his breaking ball. He finishes the season 16-13 but goes only 9-9 after the return. He later says: 'I had my ups and downs, arm problems and some tough luck like cutting my toe with a lawn mower in 1953 when I was having a good year.'",
+      "origin": "The lawnmower incident is documented in the Barry Bowe article (Blame My Father blog), the SABR BioProject, and the Philadelphia Inquirer obituary. Roberts living next door and rushing Simmons to the hospital is from the Barry Bowe article. The July 4th return, the limp, and the changed delivery are documented. Simmons's 2014 quote is from the Philadelphia Inquirer."
+    },
+    {
+      "title": "Just Something You Did",
+      "type": "Character",
+      "text": "September 1950. The Philadelphia Phillies hold first place. Curt Simmons has won 17 games at age 21. He is the equal of Robin Roberts on the same staff. His National Guard unit is activated for the Korean War. He is the first Major League baseball player to leave the game for active duty in that conflict. He is stationed at Camp Atterbury. He receives leave to attend the World Series as a spectator. He watches the Yankees sweep his team in four games. The Phillies chose not to request that Commissioner Chandler rule him eligible for the roster. He says, decades later: 'Going into the service was just something you did back then. It was just my bad luck that I got called when I did.'",
+      "origin": "Simmons's Korean War call-up in September 1950 and his status as the first ML player to leave for active duty in Korea are documented in Wikipedia and the SABR BioProject. His Camp Atterbury leave to attend the WS is documented. His quote about the service is from the Philadelphia Inquirer obituary (1990 Daily News interview)."
+    },
+    {
+      "title": "The Tunnel",
+      "type": "Drama",
+      "text": "October 10, 1964. Yankee Stadium. Game 3 of the World Series. Curt Simmons is 35 years old. He has waited 14 years for a World Series start. He pitches eight innings. He allows one run. He allows four hits. Cardinals manager Johnny Keane pinch-hits for him in the top of the ninth inning with the game tied 1-1. Simmons walks through the tunnel toward the visitors' locker room. Barney Schultz comes in from the bullpen. Mickey Mantle says to Jim Bouton: 'I am gonna hit one outta here.' Mantle hits Schultz's first pitch, a knuckleball, into the third tier of the right-field stands. Simmons hears the roar from the tunnel. He gets a no-decision. The Cardinals win the Series in seven games. Simmons gets his ring.",
+      "origin": "The Game 3 sequence is documented in the SABR BioProject. Mantle's prediction and the walkoff HR are documented across multiple sources. Simmons's tunnel exit is from the SABR BioProject. The Cardinals winning the Series in 7 is documented."
+    },
+    {
+      "title": "The Sunrise",
+      "type": "Legacy",
+      "text": "Andrew Johns interviews Hank Aaron on February 13, 2016, for The Desert Sun. He asks: 'Who was the toughest pitcher you ever faced?' Aaron immediately says: 'Curt Simmons.' He explains: 'Baseball players are trained to watch for the pitch up here. Curt Simmons never did that. He would pitch right from his leg, and I could never adjust to that.' He describes the delivery: 'He would turn his body, give me a view of his backside, then he would throw and I would not see the ball until a split second before he would let it go — then it came floating in like plastic.' Stan Musial has independently said the same. Curt Simmons has his own formulation: 'Trying to throw a baseball by Hank Aaron is like trying to sneak the sunrise past a rooster.'",
+      "origin": "Aaron's 2016 interview with The Desert Sun is documented in Baseball Almanac and multiple other sources. The delivery description is from Aaron. The sunrise-and-rooster quote is attributed to Simmons in multiple sources. Musial's independent naming of Simmons as toughest is from Wikipedia."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'11'', 175 lbs — the left-hander from Egypt, Pennsylvania. In 1950 he is 21 years old, 17-8, equal to Roberts on the same staff, and about to be called to Korea. The face shows what 21 looks like on a pitcher who learned on open fields, walked four miles to play the next town, and returned to his natural motion after two years of being told to fix it. The delivery is the portrait: the backside turned toward the hitter, the ball hidden, the release coming from somewhere Aaron couldn't find.",
+    "attire": "Philadelphia Phillies home whites — the 1950 version of the uniform, the Whiz Kids' year. The left-handed delivery pose at the moment of maximum deception: the backside turned, the ball just released from the angle that hitters called impossible. The motion that coaches tried to fix and that Aaron, 60 years later, still called the hardest thing he ever faced.",
+    "mood": "The workmanlike ace with the natural motion nobody could teach. Not the brooding intensity of Newcombe or the calculated agitation of Burdette — Simmons's is the quiet determination of a man who walked four miles to play baseball as a kid, turned his backside to the best hitters in baseball, and let the ball float in like plastic. The portrait should show the delivery at the moment of release — the deception in full operation.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Shibe Park visible in the background — the ballpark where the 1950 pennant was earned, where the WS was watched from the stands, where the career's defining wound and its partial healing both live. The background should suggest the 1950 pennant without the 1950 World Series — the achievement without the moment.",
+    "reference": "Aaron's description is the art direction: 'He would turn his body, give me a view of his backside, then he would throw and I would not see the ball until a split second before he would let it go — then it came floating in like plastic.' The portrait is the moment between the turn and the release — the gap where the ball disappears from the hitter's sight."
+  }
+}

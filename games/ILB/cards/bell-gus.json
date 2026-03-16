@@ -1,0 +1,201 @@
+{
+  "card_type": "player",
+  "name": "Gus Bell",
+  "nickname": "Gus",
+  "year": 1953,
+  "team": "Cincinnati Reds",
+  "league": "National League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "CF",
+  "bats": "L",
+  "throws": "R",
+  "height": "6'1\"",
+  "weight": "190 lbs",
+  "born": "November 15, 1928 — Louisville, KY",
+  "died": "May 7, 1995 — Montgomery, OH",
+  "hof": "Not inducted",
+
+  "real_stats": {
+    "season": 1953,
+    "games": 153,
+    "at_bats": 610,
+    "hits": 183,
+    "doubles": 26,
+    "triples": 9,
+    "home_runs": 30,
+    "rbi": 105,
+    "stolen_bases": 7,
+    "runs": 91,
+    "batting_avg": ".300",
+    "obp": ".340",
+    "slg": ".487",
+    "ops": ".827",
+    "ops_plus": 115,
+    "war": 4.2,
+    "all_star": 4,
+    "awards": "Four-time NL All-Star (1953-54, 1956-57). Four seasons of 100+ RBI. 103 HR from 1953-1956. First Cincinnati Reds player in team history with two three-homer games (July 21, 1955 and May 29, 1956). In 1956, Bell, Ted Kluszewski, and Bob Thurman became the second trio of teammates each to have three-homer games in the same season (matching the 1950 Dodgers: Snider, Campanella, Tommy Brown). Three consecutive HR on May 29, 1956 at Wrigley Field (5-for-5, 7 RBI). Led NL in triples 1951 (12). Hit for the cycle June 4, 1951. Member of Cincinnati Reds 1961 NL pennant team. First hit in New York Mets franchise history (April 11, 1962, second inning single off Larry Jackson). Also first base runner, first right fielder, and first man left on base in Mets history. Inducted Cincinnati Reds Hall of Fame 1964. Patriarch of first three-generation MLB family along with the Boone family: Gus Bell → Buddy Bell (2,916 career games, five All-Stars, six Gold Gloves, manager) → David Bell (1,403 career games, 2002 WS with Giants, managed Reds 2019-2024) and Mike Bell. Bell and David Bell are the only grandfather-grandson duo to each hit for the cycle (Gus 1951, David 2004). Cincinnati uniform #25 worn by Gus, carried by Buddy through his career, worn by David as Reds manager.",
+    "world_series": "Participated in 1961 World Series as part-time player (54 regular season starts). Went 0-for-3 as pinch hitter in Games 3, 4, and 5. Yankees won the Series 4-1.",
+    "career_avg": ".281",
+    "career_hits": 1823,
+    "career_hr": 206,
+    "career_war": 32.8,
+    "career_rbi": 942,
+    "career_notes": "15 seasons (1950-1964). Pittsburgh Pirates (1950-1952), Cincinnati Reds (1953-1961), New York Mets (1962), Milwaukee Braves (1962-1964). .281/.329/.448 career, 32.8 WAR, OPS+ 108. 206 HR, 942 RBI, 1,823 H. Six seasons batting .292+. Hit 24 HR against former Pirates team — most by any former Pirate until Moises Alou surpassed him. After playing career: worked at auto dealership, ran employment agency, scout for Cleveland Indians and Texas Rangers. Died May 7, 1995, near Cincinnati. Heart attack, age 66. Survived by seven children and 36 grandchildren."
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 3,
+    "pow": 4,
+    "spd": 1,
+    "def": 1,
+    "clu": 1
+  },
+
+  "stat_justification": {
+    "con": ".300 BA in 1953. Career .281. Six seasons at .292+. OPS+ 115 in 1953, career OPS+ 108. CON 3 reflects the solid but not elite contact profile — a consistently good hitter who batted .300 four times but was not a .320+ regular. The gap between Bell (CON 3) and Campanella (CON 5) or Aaron (CON 5) is the gap between a very good hitter and an elite one. The career .281 and the OPS+ 108 bracket him in the CON 3 tier accurately.",
+    "pow": "30 HR in 1953 (career high). Career 206 HR. 103 HR from 1953-1956. Three consecutive HR on May 29, 1956. Four 100+ RBI seasons. POW 4 reflects real, consistent power without reaching the 40+ HR tier that earns POW 5 in the set. He hit HR with authority when the moment came but the career peak of 30 HR in a single season places him below the Mathews/Campanella/Aaron/Colavito POW 5 tier. POW 4 is the mid-power tier: substantial, respected, consistent.",
+    "spd": "Led NL in triples in 1951 (12). Hit for the cycle. Not primarily a base-stealer but capable of the extra base. SPD 1 is the occasional triple, the hustle, but not a true speed threat. The cycle completes the SPD 1 profile — you need some speed to hit a triple, you don't need elite speed to not steal bases.",
+    "def": "Career .985 fielding percentage. 57 career assists. Adequate center fielder described as 'a good all-around ballplayer.' Not defensively remarkable in the set's terms — he did not define his career through the glove. DEF 1 is honest: he played the position solidly without generating defensive highlights.",
+    "clu": "1. Member of 1961 NL pennant team (part-time role). Went 0-for-3 as pinch hitter in the WS. Yankees won the Series 4-1. CLU 1 is the pennant without the ring, the WS appearance without the hit. Same tier as Wynn, Lemon — the solid performers on non-championship teams who got one ring shot and came up short."
+  },
+
+  "personality": {
+    "leadership_style": "The family man whose career was shaped by family. He went back to the minors in 1952 because he insisted his infant son Buddy be allowed to travel with him. He named his son Buddy. Buddy wore his number. Buddy's son David wore his number managing the Reds. The leadership was generational — the example set for the son who set the example for the grandson. He was Cincinnati's fan favorite because he was consistent and present and theirs, year after year.",
+    "temperament": "Good-natured and resilient. When Commissioner Frick removed him from the 1957 All-Star starting lineup and replaced him with Willie Mays, Bell took it in stride. Buddy Bell's recollection: 'How can you complain when Willie Mays replaces you?' The temperament was the temperament of a father who understood perspective — getting replaced by Mays is not the same as being wronged.",
+    "work_ethic": "15 seasons. .281 career. 942 RBI. Four 100+ RBI seasons. He reported to Cincinnati as the best acquisition GM Gabe Paul made and delivered nine solid years. The work ethic produced consistency rather than brilliance: six seasons at .292+, four seasons of 100+ RBI, the same uniform number every year.",
+    "lifestyle": "Louisville, Kentucky to the major leagues, back to the Cincinnati area in retirement. Seven children, 36 grandchildren. He ran a car dealership and an employment agency after baseball. He scouted for the Cleveland Indians and Texas Rangers. He was close to his granddaughter Traci, who has Down Syndrome. He hosted the Gus Bell Celebrity Golf Tournament annually in her honor. He died in 1995 at 66 of a heart attack near Cincinnati — the city that made him their own.",
+    "era_adaptability": "CON 3/POW 4 at the CF position in the NL in the 1950s is the complete package of a good-not-great outfielder. The power translates to any era. The contact is adequate for any era. The family legacy (three generations) is also era-neutral — the Bell family's baseball continuity spans from 1950 to 2024. That is not an era. That is a dynasty.",
+    "dark_side": "The 0-for-3 World Series as a pinch hitter at age 32. The removal from the 1957 All-Star starting lineup. The career spent on non-contending teams through most of his prime. The HOF case that never materialized. He was very good for a long time on teams that were not very good, and the game moved on without giving him the recognition the sustained excellence deserved."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Number Twenty-Five",
+      "desc": "Gus Bell wore #25 for his nine Cincinnati years. Buddy Bell wore #25 throughout much of his playing and managing career, including his 1985-88 tenure with the Reds, in tribute to his father. David Bell wore #25 as Reds manager from 2019 to 2024. Three generations, one number. In ILB, the #25 generates a Dynasty Bond: any Bell-family player who appears in subsequent set generations wearing #25 receives Gus Bell's CON 3 and POW 4 as a minimum floor for their career baseline. The number is a promise.",
+      "note": "This is the set's only cross-generational uniform number trait. The continuity is documented: Gus wore it, Buddy wore it in tribute, David wore it managing."
+    },
+    {
+      "tag": "The Ballot Box",
+      "desc": "1957. Cincinnati fans voted seven Reds into the NL All-Star starting lineup. The bartender at the Z-Bar in Clifton would not serve beer until you voted. Ballots were signed on cocktail napkins, bank slips, and wooden swizzle sticks. Commissioner Frick removed Bell and Wally Post, replacing them with Willie Mays and Hank Aaron. NL manager Walter Alston still took Bell as a reserve. In the seventh inning, pinch-hitting for Frank Robinson against Early Wynn, Bell doubled in two runs. In ILB, whenever Frick removes Bell from a starting lineup for any reason, the Ballot Box activates: Bell enters as a reserve and receives a +0.5 CON bonus for his next at-bat. The fans were not wrong about his ability. The commission was wrong about the process. Bell was still useful.",
+      "note": "Buddy Bell: 'How can you complain when Willie Mays replaces you?' Bell doubled in two runs off Early Wynn in the 7th inning of the 1957 All-Star Game after being removed from the starting lineup."
+    },
+    {
+      "tag": "Three in a Row",
+      "desc": "May 29, 1956. Wrigley Field. Bell hits three home runs in consecutive at-bats. Five hits, seven RBI. He, Ted Kluszewski, and Bob Thurman each hit three-HR games that season — matching the 1950 Dodgers (Snider, Campanella, Tommy Brown) as the only trios of teammates to accomplish this in the same season. The first Reds player with two three-HR games in franchise history. In ILB, once per season, if Bell hits a HR in any at-bat, a Three in a Row check activates: roll 1-6; on a 1-2, his next consecutive at-bat generates another HR roll at +1 bonus. If that HR occurs, roll again for the third consecutive. Maximum three consecutive HR activations per game.",
+      "note": "The three consecutive HR game on May 29, 1956 is documented. The Kluszewski-Bell-Thurman three-team three-HR record is documented."
+    },
+    {
+      "tag": "Buddy",
+      "desc": "Gus Bell went back to the minors in 1952 in part because he insisted his infant son Buddy be allowed to travel with him during the season. The Pirates objected. Bell went to Triple-A Hollywood briefly. He was then traded to Cincinnati. His son grew up to play 2,916 games, win five All-Stars and six Gold Gloves at third base. In ILB, the Buddy trait encodes the family: in any simulation extending across multiple eras, Buddy Bell's career baseline includes a CON +0.3 bonus ('the son who grew up watching') and any stadium where Gus Bell played as a Pirate generates a slight CON -0.1 penalty for Gus (the minor-league stint was a detour, and detours leave marks).",
+      "note": "The 1952 dispute with the Pirates over family travel is documented in This Day in Baseball and other sources. Buddy Bell's career is documented."
+    },
+    {
+      "tag": "The First Hit",
+      "desc": "April 11, 1962. The New York Mets play their first game in franchise history, at Busch Stadium in St. Louis. Gus Bell is 33 years old, in the final years of his career, starting in right field. In the top of the second inning, he faces Larry Jackson of the Cardinals and hits a line-drive single to center field. He is the first hit in Mets history. Also the first base runner, first right fielder, and first man left on base. The franchise that would become the 1969 Miracle Mets began with a Bell single in the second inning of an 11-4 loss. In ILB, once per career, Bell may be designated as First Hit — in any franchise's inaugural season, his CON is treated as 4 for the first game.",
+      "note": "Bell's first-hit status in Mets history is documented in the Baseball Almanac and multiple other sources. The April 11, 1962 box score is documented."
+    },
+    {
+      "tag": "How Can You Complain",
+      "desc": "When Buddy Bell was asked about the 1957 ballot stuffing controversy and his father being removed from the All-Star starting lineup and replaced by Willie Mays, he said: 'How can you complain when Willie Mays replaces you?' In ILB, this trait generates a perspective marker: whenever Bell is replaced in a lineup (by a superior player, by managerial decision, by injury), his CLU does not decrease. The replacement is acknowledged as appropriate or at least acceptable. The man who raised Buddy Bell raised him to understand scale.",
+      "note": "Buddy Bell's quote is documented in both the CBC Sports piece and the ESPN retrospective on the 1957 ballot stuffing."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballpark",
+      "affinity": "SACRED",
+      "note": "Crosley Field / nine Cincinnati years / uniform #25 / the Reds Hall of Fame induction 1964 / the fan loyalty that organized the ballot stuffing on his behalf.",
+      "note_extra": "Source labeled 'Crosley Field / Nine Cincinnati Years / Uniform 25 / Reds Hall of Fame 1964 / Fan Favorite / Ballot Stuffing On His Behalf / Four All-Star Seasons / 100 RBI Four Times / Gabe Paul Best Acquisition' / affinity 'SACRED' — thirty-fifth SACRED in the set. Bell's is the most civic SACRED in the NL set: the Cincinnati fans who stuffed the ballot box for him were expressing genuine love, not just civic pride. The bartender at the Z-Bar who wouldn't serve beer until you voted, Ruth Lyons who flashed ballots between recipes on her TV show, Waite Hoyt on WLW radio urging action 'in the best interests of the National League' — all of this was organized on Gus Bell's behalf because the fans believed he deserved All-Star recognition. He delivered nine consistent years to Cincinnati: .288 average, four 100+ RBI seasons, four All-Star appearances, the first two three-HR games in franchise history. The Cincinnati Reds Hall of Fame inducted him in 1964. He wore #25, and two generations of Bells wore it after him. Crosley Field is the SACRED: the ballpark where the nine-year career concentrated, where the fans organized the ballot stuffing, where the family legacy began accumulating. Ballpark domain."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Louisville, Kentucky / Bishop Flaget High School / named 'Gus' after Gus Mancuso / infant Buddy on the Pittsburgh road / the family dispute that preceded the Cincinnati trade.",
+      "note_extra": "Source labeled 'Louisville Kentucky / Bishop Flaget High School / Gus Mancuso Fan Named After / Pittsburgh Pirates 1947 / Triple-A Indianapolis .400 38 Games 1950 / Infant Buddy 1952 Family Travel Dispute Pirates / Triple-A Hollywood / Traded Cincinnati October 1952 / Father Is Always the Start' / affinity 'ORIGIN' — thirty-eighth ORIGIN in the set. Bell's is the most domestically grounded ORIGIN in the set: the name 'Gus' was given because his parents admired catcher Gus Mancuso — he grew up to be an outfielder, not a catcher, which is the small irony of admiring someone for what they do rather than what you'll become. The Pittsburgh Pirates signed him in 1947. He was hitting .400 in 38 games at Triple-A Indianapolis in 1950 when he was called up. He spent two-and-a-half seasons in Pittsburgh, hitting behind Ralph Kiner. In 1952, he was sent to Triple-A Hollywood briefly because of a dispute with the Pirates over whether his family, including his infant son Buddy, could travel with him. The Pirates objected. Bell went to Triple-A. That dispute, and its resolution, is the origin point of everything: the Pittsburgh stubbornness led to the Cincinnati trade, the Cincinnati trade led to nine years of sustained excellence, the nine years led to the Reds Hall of Fame induction, and Buddy Bell went on to a Hall of Fame-caliber career as a result of the family the Pirates didn't want on the road. Community Events domain."
+    },
+    {
+      "location": "Home",
+      "affinity": "VOLATILE",
+      "note": "The 1957 ballot stuffing. The Z-Bar bartender. Ruth Lyons and the cocktail napkins. Commissioner Frick replaces Bell with Mays. The fans' passionate misproportion.",
+      "note_extra": "Source labeled '1957 All-Star Ballot Stuffing / Times-Star Newspaper Campaign / WLW Radio Waite Hoyt / Ruth Lyons TV Recipes Ballots / Z-Bar Bartender No Beer Until Vote / Swizzle Sticks Cocktail Napkins Bank Slips / Seven Reds Starting Lineup / Frick Removes Bell Post / Replaces with Mays Aaron / Bell Doubles in Two Runs Reserve Anyway / Fan Voting Revoked 13 Years' / affinity 'VOLATILE' — seventh VOLATILE in the set (after Roberts, Furillo, Wynn, Newcombe/Berra, Burdette, Burgess). Bell's is the most civic VOLATILE in the set — not a personal explosion but an entire city's organized misbehavior on his behalf. In 1957, Cincinnati fans submitted so many ballots (signed on cocktail napkins, bank slips, and wooden swizzle sticks, organized by the Times-Star newspaper, WLW radio, and Ruth Lyons's daytime TV show) that seven Reds were voted into the NL All-Star starting lineup. Commissioner Frick removed Bell and Wally Post, replacing them with Willie Mays and Hank Aaron. The Cincinnati franchise called it 'a thing where they decided our little old town in the Midwest was not supposed to have that kind of production.' Bell took it in stride, pinch-hit for Frank Robinson against Early Wynn in the seventh inning, and doubled in two runs. The consequence: Frick revoked public All-Star voting for 13 years. Home domain: the VOLATILE lives in the civic space — the bar, the TV, the newspaper, the city organized around its player."
+    },
+    {
+      "location": "Home",
+      "affinity": "CODA",
+      "note": "Three generations of Bells. Buddy, David, Mike. The number #25 carried forward. The grandfather-grandson cycle. The family that became a dynasty.",
+      "note_extra": "Source labeled 'Three Generation Family / Buddy Bell Five All-Stars Six Gold Gloves Manager / David Bell 2002 WS Giants Managed Reds 2019-2024 / Mike Bell 2000 / Uniform 25 All Three Generations / Grandfather Grandson Cycle 1951 2004 / Bell Boone Only Three-Gen Families / 6125 Combined Major League Games' / affinity 'CODA' — eleventh CODA in the set. Bell's is the most generational CODA in the set: the career that became a family legacy. His son Buddy played 2,916 career games, won five All-Stars and six Gold Gloves at third base, and managed in the majors. His grandson David played 1,403 career games including the 2002 World Series with the Giants, and managed the Reds from 2019 to 2024 wearing #25 in tribute. His grandson Mike played 19 games with the Reds in 2000. The Bell family and the Boone family are the only three-generation major league families in baseball history. Bell and David Bell are the only grandfather-grandson duo to each hit for the cycle (Gus in 1951, David in 2004). The combined Bell family games: 6,125 in the major leagues. The CODA is the career that did not end with Gus Bell. Home domain: the family house, the number 25, the son who wore it and the grandson who wore it managing."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "The Cincinnati community that organized the ballot stuffing. The nine years as a fan favorite. The Gus Bell Celebrity Golf Tournament for granddaughter Traci. The car dealership, the employment agency, the scout work after baseball.",
+      "note_extra": "Source labeled 'Cincinnati Fan Favorite Nine Years / Seven Children 36 Grandchildren / Granddaughter Traci Down Syndrome / Gus Bell Celebrity Golf Tournament / Cincinnati Reds Hall of Fame / Auto Dealership Employment Agency / Scout Indians Rangers / Louisville Catholic Sports Hall of Fame 2011 / Gates of Heaven Cemetery Cincinnati' / affinity 'HIGH' — thirty-fourth HIGH in the set. Bell's is the most community-embedded HIGH in the set — not a single place but the relationship between a player and a region maintained through his career and continued after it. He spent nine years as Cincinnati's fan favorite. After baseball he ran a car dealership and an employment agency in the Cincinnati area. He was close to his granddaughter Traci, who has Down Syndrome, and the Gus Bell Celebrity Golf Tournament was held annually in her honor. He was inducted into the Cincinnati Reds Hall of Fame in 1964 and the Louisville Catholic Sports Hall of Fame in 2011 — honoring both cities that claimed him. He is buried at Gate of Heaven Cemetery in Cincinnati. The HIGH is the sustained relationship between a Louisville-born player and a Cincinnati community — the kind of relationship that produces ballot stuffing, golf tournaments, and a cemetery near the ballpark. Community Events domain."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Three in a Row — any HR has a 1-in-3 chance of activating consecutive HR rolls with +1 bonus for subsequent at-bats (maximum three per game).",
+      "The Ballot Box — whenever Bell is removed from a starting lineup, his next reserve at-bat generates a +0.5 CON bonus.",
+      "POW 4 — consistent mid-tier power. Four 100+ RBI seasons. Reliable production in the lineup.",
+      "CON 3 — solid contact across six seasons at .292+. Consistent presence."
+    ],
+    "cold_triggers": [
+      "CLU 1 — one pennant, no ring, 0-for-3 in WS as PH. The career's postseason record is limited.",
+      "DEF 1 — not a defensive standout. The glove does not compensate for off days.",
+      "SPD 1 — occasional extra base, not a baserunning threat.",
+      "How Can You Complain — when replaced by a clearly superior player, Bell's CLU does not decrease (the trait prevents the sting), but the replacement itself signals a ceiling."
+    ],
+    "pressure_response": "The 1957 All-Star Game, 7th inning. He had been removed from the starting lineup by Commissioner Frick and replaced by Willie Mays. He was taken as a reserve anyway. In the 7th inning, pinch-hitting for Frank Robinson against Early Wynn, he doubled in two runs. That is the pressure response: the man who was replaced by Mays and still came up with the hit when called upon. OVR 8 players deliver when given the chance. They sometimes don't get the chance."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Gus",
+      "type": "Origin",
+      "text": "Louisville, Kentucky. The boy's parents are fans of catcher Gus Mancuso. They name their son Gus. He grows up to be an outfielder. He hits .400 in 38 games at Triple-A Indianapolis in 1950 and is called up to join Ralph Kiner's outfield in Pittsburgh. He hits .282 with 53 RBI as a rookie. His son, whom he will also name after a baseball consideration — Buddy — will be born during his second Pirates season. The number 25 will travel through three generations. None of this is planned. It happens the way a baseball family happens: one generation decides something, and the next generation decides something adjacent, and the generation after that manages the team in the city where the great-grandfather was a fan favorite.",
+      "origin": "Bell's nickname origins (Gus Mancuso) are documented in Wikipedia and Baseball Almanac. His Triple-A performance and debut stats are documented. The three-generation family history is documented."
+    },
+    {
+      "title": "The Ballot Box",
+      "type": "Drama",
+      "text": "1957. Cincinnati. The bartender at the Z-Bar in Clifton has a rule: no beer until you vote. He slides the Times-Star ballot across the mahogany. The paper under the banner reads 'LET'S BACK THE REDLEGS.' Waite Hoyt on WLW radio urges listeners to act 'in the best interests of the National League.' Ruth Lyons flashes ballots between recipes on her daytime TV show. Ballots arrive at the commissioner's office signed on cocktail napkins, bank slips, envelopes, and wooden swizzle sticks. Seven Cincinnati Reds are voted into the NL All-Star starting lineup. Commissioner Frick removes Gus Bell and Wally Post, replacing them with Willie Mays and Hank Aaron. Bell takes it in stride. NL manager Walter Alston still selects him as a reserve. In the seventh inning, Gus Bell pinch-hits for Frank Robinson against Early Wynn and doubles in two runs. Cincinnati loses 6-5. Public All-Star voting is revoked for 13 years.",
+      "origin": "The 1957 ballot stuffing controversy is documented in the Cincinnati Magazine piece, ESPN retrospective, and multiple other sources. The Z-Bar detail is from the Cincinnati Magazine. Bell's pinch-hit double off Wynn is documented. Frick's consequence (public voting revoked until 1970) is documented."
+    },
+    {
+      "title": "How Can You Complain",
+      "type": "Legacy",
+      "text": "Colorado Rockies manager Buddy Bell is asked about 1957 — about his father being removed from the National League All-Star starting lineup and replaced by Willie Mays. Buddy Bell says: 'I was six years old at the time, so I do not remember much about it. But I do know my dad did not take it to the grave with him. How can you complain when Willie Mays replaces you?' Gus Bell wore number 25 for nine years in Cincinnati. Buddy Bell wore number 25 for much of his career, including his four seasons with the Reds. David Bell wore number 25 managing the Reds from 2019 to 2024. Gus Bell hit for the cycle in 1951. David Bell hit for the cycle in 2004. They are the only grandfather-grandson duo in baseball history to do so. You cannot complain about Willie Mays. But the number 25 is still yours.",
+      "origin": "Buddy Bell's quote is from the CBC Sports article (2001). The uniform #25 three-generation tradition is documented in Wikipedia. The grandfather-grandson cycle is documented in the Baseball Almanac."
+    },
+    {
+      "title": "The First Hit in Mets History",
+      "type": "Historic First",
+      "text": "April 11, 1962. Busch Stadium. The New York Mets play their first game in franchise history. Gus Bell is 33 years old, starting in right field in the lineup's fifth position. In the top of the second inning, he faces Larry Jackson of the St. Louis Cardinals. He hits a line-drive single to center field. He is the first hit in Mets franchise history. Also the first base runner, first right fielder, and first man left on base in Mets history. The Mets lose 11-4. In 1969, seven years later, the Mets will win the World Series. The franchise that became the Miracle Mets began with a Bell single in the second inning of a blowout loss to the Cardinals.",
+      "origin": "Bell's first-hit status in Mets history is documented in the Baseball Almanac, the centerfieldmaz.com piece, and multiple other sources. The April 11, 1962 game result and box score context are documented."
+    },
+    {
+      "title": "Buddy",
+      "type": "Origin",
+      "text": "1952. The Pittsburgh Pirates object to Gus Bell bringing his family, including his infant son Buddy, on road trips. Bell refuses to comply. He is sent to Triple-A Hollywood. He is traded to Cincinnati that October for Cal Abrams, Gail Henley, and Joe Rossi. He becomes a four-time All-Star for the Reds. His son Buddy grows up and plays 2,916 games in the major leagues, winning five All-Star selections and six Gold Gloves at third base. Buddy's son David manages the Cincinnati Reds from 2019 to 2024, wearing uniform #25 in tribute to his grandfather. The Pirates objected to one infant on the road. The infant became the reason the family dynasty exists.",
+      "origin": "The 1952 Pirates dispute over family travel is documented in This Day in Baseball. The subsequent trade to Cincinnati is documented. Buddy Bell's career is documented. David Bell's managing career and #25 are documented in Wikipedia."
+    },
+    {
+      "title": "Three in a Row",
+      "type": "Rare Feat",
+      "text": "May 29, 1956. Wrigley Field. Gus Bell comes to the plate and hits a home run. He hits another home run his next at-bat. He comes up again. He hits a third consecutive home run. He goes five for five with seven RBI in a 10-4 Cincinnati win. He, Ted Kluszewski, and Bob Thurman each hit three-homer games that season — matching the 1950 Brooklyn Dodgers (Duke Snider, Roy Campanella, and Tommy Brown) as the only trios of teammates to accomplish this in the same season. It is the second time Bell has hit three home runs in a game; the first was July 21, 1955, making him the first Reds player in franchise history with two such games. The Cincinnati Reds led the major leagues with 221 home runs that season, tying the all-time record.",
+      "origin": "The May 29, 1956 three-consecutive-HR game is documented. The Bell-Kluszewski-Thurman trio matching the 1950 Dodgers (Snider, Campanella, Tommy Brown) is documented in Wikipedia. The 1955 three-HR game and his being the first Reds player with two such games is documented in the Baseball Almanac."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'1'', 190 lbs — the Louisville outfielder named after a catcher he admired. In 1953 he is 24 years old at his career peak: .300, 30 HR, 105 RBI, four times over 100 RBI in four seasons. The face of a consistent, present performer — not the overwhelming force of Mays or the historical weight of Aaron, but a solid, dependable player who showed up for nine years in Cincinnati and earned the loyalty of a city that stuffed the ballot box for him.",
+    "attire": "Cincinnati Redlegs (known as 'Redlegs' from 1953-1958 due to McCarthy-era concerns about 'Reds') — the distinctive uniform of the mid-1950s Crosley Field team. Uniform #25. The left-handed batting stance of a power hitter who hit for the cycle, hit three consecutive HRs, and drove in over 100 runs four times. The stance should carry the confidence of a man who knew Cincinnati was his.",
+    "mood": "The dependable power hitter — not the star who demands attention but the player who earns it over nine years. The man who said his only comment on being replaced by Mays was taught by the son he raised: 'How can you complain?' The mood is competent warmth. He was Cincinnati's player. Cincinnati was his city.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Crosley Field visible in the background — the Cincinnati ballpark where nine years of sustained excellence happened, where the fans stuffed the ballot box, where the Hall of Fame induction came in 1964. The background should show the outfield of a mid-sized ballpark that belonged to a city that cared about its players.",
+    "reference": "The art direction is the number: #25. The portrait should include visible evidence of the uniform number — the number that traveled through three generations, that Buddy wore in tribute, that David wore managing. The baseball dynasty began with this player in this uniform in this park."
+  }
+}

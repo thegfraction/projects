@@ -1,0 +1,195 @@
+{
+  "card_type": "player",
+  "name": "Lew Burdette",
+  "nickname": "Nitro Lew",
+  "year": 1957,
+  "team": "Milwaukee Braves",
+  "league": "National League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "SP",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'2\"",
+  "weight": "180 lbs",
+  "born": "November 22, 1926 — Nitro, WV",
+  "died": "February 6, 2007 — Winter Garden, FL",
+  "hof": "Not inducted",
+
+  "real_stats": {
+    "season": 1957,
+    "wins": 17,
+    "losses": 9,
+    "era": 3.72,
+    "innings_pitched": 256,
+    "strikeouts": 78,
+    "walks": 33,
+    "complete_games": 13,
+    "shutouts": 4,
+    "win_pct": ".654",
+    "war": 5.4,
+    "all_star": 2,
+    "awards": "1957 World Series MVP. First pitcher in 37 years to win three complete games in a single World Series. First pitcher since Christy Mathewson (1905) to throw two shutouts in a World Series. WS line: 27 IP, 21 H, 2 ER, 0.67 ERA across Games 2, 5, and 7 — all complete-game victories. Two-time All-Star (1957, 1959). NL ERA leader 1956 (2.70). NL shutouts leader 1956 (6) and 1959. NL wins and games started leader 1959 (21 wins). Career BB/9 rate of 1.84 — second-best among pitchers with 3,000+ IP since 1920, behind only Robin Roberts (1.73). Milwaukee Braves franchise wins, games, and innings leader behind only Warren Spahn and Kid Nichols. Winning pitcher in the Harvey Haddix 12-perfect-innings game (May 26, 1959 — 13-inning 1-0 complete-game victory). No-hitter vs. Philadelphia Phillies, August 18, 1960 (1-0, faced minimum 27 batters). Red Smith: 'There should be 3 pitching statistics for Burdette: Wins, Losses, and Relative Humidity.'",
+    "world_series": "Two WS appearances. 1957: WS MVP — 3 starts, 3 CG, 3 W, 27 IP, 21 H, 2 ER, 0.67 ERA, 2 shutouts (Games 5 and 7). The Milwaukee Braves' only World Championship. 1958: 3 starts, 1 CG, 1-2 record, 5.64 ERA — the Yankees won the rematch in seven games. Burdette holds the WS record for most HR allowed in a series (5 HR, 1958). Career WS: 4-2, 2.86 ERA in 6 starts.",
+    "career_record": "203-144",
+    "career_era": 3.66,
+    "career_k": 1074,
+    "career_war": 47.0,
+    "career_notes": "18 MLB seasons (1950-1967). New York Yankees (1950), Boston/Milwaukee Braves (1951-1963), St. Louis Cardinals (1963-64), Chicago Cubs (1964-65), Philadelphia Phillies (1965), California Angels (1966-67). 203-144, 3.66 ERA, 158 CG, 33 SO, 1.84 BB/9 in 3,067.1 IP. 15+ wins eight times. Two 20-win seasons (1958, 1959). Paired with Warren Spahn for 443 victories between them across 13 Milwaukee seasons — called the fifth-best pitching combo of all time. After playing career: scout and Atlanta Braves coach (1972-73); worked in cable television development in Florida. Died of lung cancer, February 6, 2007, Winter Garden, FL. Cremated."
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "stf": 3,
+    "ctl": 5,
+    "sta": 4,
+    "def": 1,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "stf": "Sinker, slider, changeup, and — if you believed his opponents — a spitball. Career 1,074 K in 3,067 IP. Not a strikeout pitcher. Don Hoak said: 'Only once did I ever see water fly off a spitball, and the man who threw me that pitch was Burdette.' Gene Conley: 'Lew had ice water in his veins.' The stuff was deception and location, not velocity. STF 3 is the set's most accurate rendering of a pitcher whose physical inventory was modest and whose psychological inventory was enormous. He induced ground balls, generated double plays, and made hitters feel unsettled by things they couldn't quite identify. The Yankees hit only two earned runs off him in 27 WS innings in 1957. STF 3 is what produced that.",
+    "ctl": "1.84 career BB/9 — second-best among pitchers with 3,000+ IP since 1920, behind only Robin Roberts (1.73). Better than Maddux, Hubbell, and Marichal. The control was the pitch. 'I make my living off the hungriness of the hitters.' In the 1957 WS, 27 IP against the defending champion Yankees: minimal walks, ground balls, double plays, and two shutouts. CTL 5 ties Roberts in the set — both among the elite five in BB/9 rate all-time — and it is the correct rendering. Burdette and Roberts are opposite pitchers with the same CTL ceiling: Roberts had STF 4 and precision mechanics; Burdette had STF 3 and the spitball suspicion and the fidget. Both got to the same place through completely different means.",
+    "sta": "Three complete games in a single World Series — on a compressed schedule, with Game 7 on two days' rest. Career 158 CG. 15+ wins eight times. Two 20-win seasons. STA 4 reflects the workhorse capacity without the AL iron-man profiles of Wynn and Lemon (STA 5). He finished what he started. In 1957 he started three WS games and finished all three. That is STA 4 in action.",
+    "def": "Career .183 BA as a pitcher, 12 HR, 75 RBI. First two HR in the same 1957 regular-season game. Two more two-HR games. Hit a 3-run HR in Game 2 of the 1958 WS. Not Newcombe-level at the plate but not an automatic out. DEF 1 for a pitcher who could hit for occasional power while contributing solid but unremarkable glove work.",
+    "clu": "3. 1957 WS MVP. Three complete games, two shutouts, 0.67 ERA in 27 WS IP against the defending World Champions. The first pitcher in 37 years to win three CGs in a single WS. The only championship in Milwaukee Braves history. Burdette's CLU 3 is the most concentrated in the set — the entire score derives from seven October games. Mathewson (1905), Burdette (1957), Gibson (1967), Lolich (1968), R. Johnson (2001): the list of three-win WS pitchers. He belongs to that company."
+  },
+
+  "personality": {
+    "leadership_style": "The psychological leader — the one who made the other team think about things they couldn't prove. He talked to himself, to the batter, to the umpire, and sometimes to the ball. He fidgeted constantly. He cultivated a reputation for throwing a pitch he said he didn't throw. 'Let them think I throw it. That gives me an edge because it is another pitch they have to worry about.' The leadership was entirely about occupying space in the opponent's head before the pitch was thrown.",
+    "temperament": "Ice water with a chatterbox overlay. Gene Conley's characterization is precise: nothing bothered him and he never stopped talking. The fidgeting looked like nervousness and was the opposite. Red Smith described him as having 'a striking air of assurance about him, a cool, deliberate efficiency.' Fred Haney said he would make coffee nervous. The same behavior that Haney described as making coffee nervous, Conley described as the behavior of a man with ice water in his veins. Both were right about the behavior; both drew opposite conclusions. Burdette was the one who understood what was actually happening.",
+    "work_ethic": "158 complete games. Game 7 of the 1957 WS on two days' rest. 'I don't go out there to lose.' The Haddix game: he scattered 12 hits in 13 innings, didn't walk anyone, and won 1-0. He pitched on the same day as the greatest pitched game in baseball history and won it. He asked for a $10,000 raise. The work ethic was invisible — not the dominating strikeout pitcher but the one who kept the ball in play, induced the double play, finished the game.",
+    "lifestyle": "Nitro, West Virginia to the major leagues and back. During his minor-league and early career years he returned to Nitro each offseason. He and Mary Ann — a Charleston telephone operator he married in 1949 — moved to Sarasota, Florida, where he worked as a vice president at a local real estate firm during the offseason. Third daughter Mary Lou was born days before the 1957 WS. He helped deliver a second daughter, Madge Rhea, born on Christmas Day 1954, in a police ambulance on the way to the hospital. He worked in cable television development in Florida after baseball. He died of lung cancer in Winter Garden, Florida in 2007.",
+    "era_adaptability": "CTL 5 is era-proof. The control pitcher who induces ground balls and generates double plays is perpetually valuable. The spitball reputation would be harder to sustain in the modern era's technology and replay review, but the sinker/slider combination underneath it was real and did not require an illegal pitch. The lack of strikeouts (STF 3) would be more penalized in modern analytics, but the BB/9 rate (1.84 career, second-best all-time) would generate substantial value in any era.",
+    "dark_side": "The pitch he said he didn't throw. Don Hoak said he saw water fly off a Burdette pitch once. Birdie Tebbetts commissioned a motion picture. NL President Giles commissioned a motion picture. Neither showed evidence. Burdette said it was his best pitch and he didn't throw it. He said let them think he threw it. He said they were starting to hit the dry side of the ball when he retired. The dark side and the talent are the same thing — the psychological advantage that may or may not have had a physical component, maintained for 18 years, never proven, never abandoned."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "My Best Pitch Is One I Do Not Throw",
+      "desc": "Burdette's complete reply to the spitball accusations: 'It is the best pitch I have got — and I do not throw it.' Also: 'Let them think I throw it. That gives me an edge because it is another pitch they have to worry about.' In ILB, once per game, Burdette may declare the Phantom Pitch: the opposing batter's next roll is made with a -1 penalty (the pitch they cannot identify). The phantom pitch has no mechanical delivery; it is entirely psychological. No ball movement is logged. The batter simply hits less well.",
+      "note": "Red Smith: 'There should be 3 pitching statistics for Burdette: Wins, Losses, and Relative Humidity.'"
+    },
+    {
+      "tag": "Would Make Coffee Nervous",
+      "desc": "Fred Haney: 'Burdette would make coffee nervous.' Gene Conley: 'Lew had ice water in his veins. Nothing bothered him, on or off the mound. He was a chatterbox out there. He would talk to himself, to the batter, the umpire, and sometimes even to the ball.' In ILB, Burdette's CTL 5 generates a Tempo Control bonus: he may extend his pre-pitch preparation time by one additional roll delay per inning, forcing the opposing batter's momentum rating to reset. He makes coffee nervous. The coffee is the opposing lineup.",
+      "note": "The fidgeting was documented as a deliberate psychological strategy by both Burdette himself and by Yankee coach Burleigh Grimes, who specifically advised Burdette to use his habits as a weapon."
+    },
+    {
+      "tag": "I Don't Go Out There to Lose",
+      "desc": "Burdette after Game 5 of the 1957 WS, his second shutout of the Yankees: 'I do not go out there to lose.' Three starts, three complete games, two shutouts, 0.67 ERA. In ILB, in any elimination game (WS or postseason), Burdette's CLU 3 activates the Closer's Finish: he cannot be removed from a game in which he enters the seventh inning with a lead. The ILB mechanical expression of a pitcher who pitched Game 7 on two days' rest because that was the game that decided it.",
+      "note": "Burdette became the first pitcher in 37 years to win three complete games in a single World Series. Only Bob Gibson (1967), Mickey Lolich (1968), and Randy Johnson (2001) have done it since."
+    },
+    {
+      "tag": "The Greatest Game Was Not Good Enough",
+      "desc": "May 26, 1959. Harvey Haddix pitched 12 perfect innings against the Braves. Burdette scattered 12 hits in 13 innings, walked no one, and won 1-0 in the 13th. That winter, Burdette asked for a $10,000 raise: 'I am the greatest pitcher that ever lived. The greatest game that was ever pitched in baseball was not good enough to beat me, so I have got to be the greatest!' In ILB, in any game where Burdette allows 10+ hits but no earned runs, the Haddix Effect activates: his CTL 5 generates a no-decision immunity — the outcome of that game is always a win regardless of the hit total.",
+      "note": "While Haddix pitched perfect baseball for 12 innings, Burdette did not walk a single batter in 13 innings. The CTL 5 is the mechanical reason Burdette won a game that Haddix pitched perfectly and lost."
+    },
+    {
+      "tag": "Nitro Lew",
+      "desc": "Pittsburgh announcer Bob Prince gave Burdette the nickname 'Nitro Lew' for his hometown — Nitro, West Virginia, the industrial town named for nitrocellulose. Burdette returned home on November 1, 1957 to a Nitro city celebration. 'Lew Burdette Day.' Milwaukee's championship was also Nitro's championship. In ILB, once per season, when Burdette wins a game of particular significance, the Nitro Lew marker activates: the home region's CLU bonus (normally 0 for pitchers) rises to 1 for the following game, encoding the energy of the hometown claiming the victory.",
+      "note": "Nitro was named for the nitrocellulose plant built during WWI. Bob Prince called Burdette 'Nitro Lew' throughout the 1950s. The November 1, 1957 Nitro celebration followed the WS victory."
+    },
+    {
+      "tag": "Spahn and Me",
+      "desc": "Warren Spahn and Lew Burdette: 443 combined victories in 13 Milwaukee seasons — ranked as the fifth-best pitching tandem in baseball history. Spahn (LH) and Burdette (RH) gave the Braves a one-two punch from both sides of the mound. In ILB, when Burdette and Spahn appear in the same starting rotation, both receive a +0.5 CLU bonus for the season and Burdette's STF rises from 3 to 4 (the tandem elevates each other's effectiveness). 443 wins is the mechanical expression of what two pitchers can do across 13 years together.",
+      "note": "The fifth-best pitching combo designation is from the BR Bullpen. Spahn is not in the Dreamers 1950 set (he is not a Dreamers 1950 player) but this trait is available for cross-set or future set matching."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballpark",
+      "affinity": "SACRED",
+      "note": "Milwaukee County Stadium / the 1957 World Series / Milwaukee's only championship / 'Lew Burdette Day' in Nitro. Three complete games against the Yankees. Two shutouts in four days.",
+      "note_extra": "Source labeled 'Milwaukee County Stadium / 1957 World Series MVP / Three CG Two Shutouts / Milwaukee Only Championship / Nitro Lew Burdette Day November 1 1957' / affinity 'SACRED' — thirtieth SACRED in the set. Burdette's SACRED is the most concentrated in the set: a single seven-game series that represents the entire meaning of his career. He started Games 2, 5, and 7. He won all three. He allowed two earned runs in 27 innings. He shut out the defending World Champions twice in four days, including Game 7 in Yankee Stadium. It was Milwaukee's first championship in 43 years of franchise history and remains the only title the Milwaukee Braves ever won. On November 1, 1957, Nitro, West Virginia celebrated 'Lew Burdette Day' for the hometown pitcher who had just beaten the Yankees three times. The SACRED is not the single great performance but the total elimination of the best franchise in baseball over seven games, in the most concentrated act of pitching dominance the set contains. The Ballpark domain covers both Milwaukee County Stadium (where Games 1, 2, 5, and 6 were played) and Yankee Stadium (where Burdette won Games 2 and 7 on the road), but the SACRED lives in Milwaukee — the city, the county stadium, the championship that still has no successor."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Nitro, West Virginia / American Viscose Corporation company team / University of Richmond / Johnny Sain trade / Yankee farm system / Burleigh Grimes's advice on the psychological advantage.",
+      "note_extra": "Source labeled 'Nitro West Virginia / American Viscose Corporation / No Baseball at Nitro High / University of Richmond 1946 / Yankees Signed 1947 / Johnny Sain Trade August 1951 / Burleigh Grimes Advice / Roomed with Whitey Ford' / affinity 'ORIGIN' — thirty-third ORIGIN in the set. Burdette's is the most industrially rooted ORIGIN in the set: Nitro, West Virginia was built around a nitrocellulose plant during WWI. His high school had no baseball team — he learned to pitch in 1944 at 17 on the American Viscose Corporation company team after graduation, parallel to Newcombe (Jefferson High, no team) and Dark (various multi-sport paths). He attended the University of Richmond in 1946 and was signed by the Yankees in 1947. In the Yankees' minor-league system, he roomed with Whitey Ford and absorbed the winning culture. Yankee coach Burleigh Grimes — himself a former legal spitball pitcher — specifically advised Burdette to use his nervous habits as a psychological advantage, whether or not he was throwing anything illegal. The entire spitball mythology has its origin in Grimes's advice. On August 29, 1951, the Yankees traded Burdette plus $50,000 to the Braves for Johnny Sain. The trade sent the pitcher who would beat the Yankees three times in 1957 away from the franchise he would dismantle. Community Events domain: the industrial Kanawha River town, the company team, the Yankee organization that trained him and then traded him."
+    },
+    {
+      "location": "Ballpark",
+      "affinity": "VOLATILE",
+      "note": "The spitball. The pitch he said he did not throw. The pitch Don Hoak said he saw water fly off of. The reputation cultivated by design for 18 years.",
+      "note_extra": "Source labeled 'Spitball / My Best Pitch Is One I Do Not Throw / Don Hoak Water Testimony / Birdie Tebbetts Motion Picture / NL President Motion Picture / Burleigh Grimes Advice / Red Smith Three Statistics / Relative Humidity / Dry Side of the Ball' / affinity 'VOLATILE' — fifth VOLATILE in the set (after Roberts's HR philosophy, Furillo's Durocher headlock, Wynn's brushback philosophy, and the Newcombe/Berra postseason match-up). Burdette's VOLATILE is the most legally ambiguous in the set: a pitch that may or may not have been thrown, a reputation that was simultaneously plausible (Don Hoak's testimony) and unprovable (two separate motion pictures). NL President Warren Giles commissioned a film of Burdette pitching. Cincinnati manager Birdie Tebbetts commissioned a film. Neither showed evidence. Giles: 'Until someone presents evidence that Burdette is using the spitter, I will do nothing about it.' Burdette: 'It is the best pitch I have got — and I do not throw it.' Also: 'Let them think I throw it. That gives me an edge because it is another pitch they have to worry about.' Red Smith: 'There should be 3 pitching statistics for Burdette: Wins, Losses, and Relative Humidity.' Burdette on retirement: 'They were starting to hit the dry side of the ball.' The VOLATILE is not the pitch but the uncertainty — 18 years of leverage extracted from something that was never proven to exist. The Ballpark domain: the charge lived and died on the mound, in the specific motions of touching his lips and wiping his forehead, where it was visible and unresolvable."
+    },
+    {
+      "location": "Open Field/Stadium",
+      "affinity": "MAXIMUM",
+      "note": "Three complete games in one World Series. Two shutouts in four days. 27 IP, 2 ER, 0.67 ERA. Game 7 on two days' rest. The most concentrated single-series dominance in the set.",
+      "note_extra": "Source labeled 'Three CG One WS / Two Shutouts Four Days / 27 IP 2 ER 0.67 ERA / Game 7 Two Days Rest / First Since Christy Mathewson / Only Pitcher 1957-2001 / Haddix Game 12 Perfect Innings Not Enough / No-Hitter 1960' / affinity 'MAXIMUM' — tenth MAXIMUM in the set (after Aaron, Mathews, Roberts, Wynn, Lemon, Ford, Raschi, Newcombe, and others). Burdette's is the most event-concentrated MAXIMUM in the set: three complete games in seven days, two shutouts in four days, Game 7 on two days' rest, 0.67 ERA against the defending World Champions. Between Christy Mathewson's three WS wins in 1905 and Burdette's in 1957, no pitcher had done it (37 years). Between Burdette and Bob Gibson in 1967, no one did it (another 10 years). The MAXIMUM extends beyond the 1957 WS: on May 26, 1959, Harvey Haddix pitched 12 perfect innings against the Braves and Burdette won 1-0 in the 13th. On August 18, 1960, he no-hit the Phillies 1-0, facing the minimum 27 batters, and scored the only run himself. The MAXIMUM is the complete picture of a pitcher who won games that should not have been winnable by the conventional math of his stuff. Open Field domain: the maximum is on the mound, in the open, under scrutiny, where the fidgeting and the CTL 5 and the maybe-spitball converged into 0.67 ERA across 27 World Series innings."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "HIGH",
+      "note": "Nitro, West Virginia. 'Lew Burdette Day' November 1, 1957. The industrial Kanawha River town claiming the championship.",
+      "note_extra": "Source labeled 'Nitro West Virginia / Lew Burdette Day November 1 1957 / Kanawha River / Industrial Town / Nitrocellulose Plant WWI / Company Baseball / Bob Prince Nitro Lew' / affinity 'HIGH' — twenty-ninth HIGH in the set. Burdette's is the most geographically specific HIGH in the set — Nitro, West Virginia: a company town on the Kanawha River, built around a nitrocellulose plant during World War I, named for the explosive it produced. Pittsburgh announcer Bob Prince nicknamed Burdette 'Nitro Lew' throughout the 1950s, connecting the pitcher's competitive edge to his hometown's industrial identity. On November 1, 1957 — three weeks after Game 7 — Nitro celebrated 'Lew Burdette Day' for its son who had just beaten the New York Yankees three times. The HIGH is the working-class Appalachian town's claim on the championship — Milwaukee's WS trophy was also Nitro's trophy, because the man who won it had learned to pitch on the American Viscose Corporation company team after his high school closed its doors without a baseball program. Community Events domain: the civic celebration, the hometown day, the industrial river town that produced the pitcher who won the greatest individual postseason performance of the decade."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "CTL 5 — the second-best BB/9 rate in the set (tied with Roberts, both elite all-time). The control generates outcomes regardless of stuff.",
+      "My Best Pitch Is One I Do Not Throw — once per game, the Phantom Pitch applies a -1 penalty to the next opposing batter roll.",
+      "I Don't Go Out There to Lose — in elimination games with a lead entering the seventh inning, Burdette cannot be removed.",
+      "Would Make Coffee Nervous — CTL 5 generates one additional pre-pitch tempo reset per inning, forcing opposing batter momentum resets.",
+      "CLU 3 — highest CLU in the set for a pitcher. The WS MVP rating activates the full complement of postseason bonuses."
+    ],
+    "cold_triggers": [
+      "STF 3 — limited strikeout capacity. The fidgeting and spitball reputation compensate in most situations, but against batters who are not susceptible to psychological pressure, the STF 3 ceiling is real.",
+      "1958 WS VOLATILE — the rematch. In any second consecutive WS against the same opponent, Burdette's CLU bonus is reduced by 0.5 (the 1958 pattern: 5 HR allowed, 5.64 ERA).",
+      "Game 7 fatigue — when starting a game with fewer than three days' rest, STA drops from 4 to 3 for that start (encoding the two-days-rest risk that Haney was widely criticized for accepting)."
+    ],
+    "pressure_response": "The most concentrated positive pressure response in the set. Three games, three complete games, two shutouts, 0.67 ERA in the 1957 WS. 'I do not go out there to lose.' He then pitched Game 7 on two days' rest and shut out the Yankees 5-0 in their own stadium. Red Smith described him as having 'a cool, deliberate efficiency' under pressure. Gene Conley said nothing bothered him. He talked to himself, to the batter, and sometimes to the ball — and the ball did what he needed it to do."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Johnny Sain Trade",
+      "type": "Origin",
+      "text": "August 29, 1951. The New York Yankees need pennant insurance. They trade a young pitcher named Lew Burdette plus $50,000 cash to the Boston Braves for Johnny Sain, a four-time 20-game winner. The Yankees get the veteran they need for October. The Braves get a pitcher from Nitro, West Virginia who will win 203 games, beat the Yankees three times in the 1957 World Series, and earn the Series MVP award in Milwaukee. This Day in Baseball noted: 'It is another late-season insurance measure for the New Yorkers.' The insurance was correct. The irony was better.",
+      "origin": "The August 29, 1951 trade is documented in multiple sources including This Day in Baseball. The $50,000 cash component is documented. Sain's four 20-win seasons are documented. The 1957 WS result and its irony are widely documented."
+    },
+    {
+      "title": "Wins, Losses, and Relative Humidity",
+      "type": "Character",
+      "text": "Lew Burdette brings his fingers to his lips. He wipes his forehead. He adjusts his jersey. He tugs at his trousers. He fixes his cap. He talks to himself. He talks to the batter. He talks to the umpire. He talks to the ball. Fred Haney says Burdette would make coffee nervous. Gene Conley says he has ice water in his veins and nothing bothers him. Both men are watching the same pitcher. Don Hoak says: 'Only once did I ever see water fly off a spitball, and the man who threw me that pitch was Burdette.' Lew Burdette says: 'It is the best pitch I have got — and I do not throw it.' Red Smith of the New York Times writes: 'There should be 3 pitching statistics for Burdette: Wins, Losses, and Relative Humidity.' When asked how he knew it was time to retire, Burdette says: 'They were starting to hit the dry side of the ball.'",
+      "origin": "All quotes are documented: Haney's 'make coffee nervous' is in multiple sources. Conley's ice-water quote is from This Day in Baseball and the BR Bullpen. Hoak's water testimony is in Wikipedia. Burdette's 'best pitch I do not throw' is widely documented. Red Smith's three-statistics quote is from the NY Times/Wikipedia. The 'dry side of the ball' retirement quote is from the BR Bullpen."
+    },
+    {
+      "title": "Three Complete Games",
+      "type": "Historic Feat",
+      "text": "October 1957. The New York Yankees are the defending World Series champions. They have won five of the last six titles. The Milwaukee Braves send Lew Burdette to start Game 2, Game 5, and Game 7. He pitches nine innings in each game. He allows two earned runs across 27 innings — a 0.67 ERA. He shuts out the Yankees twice, including Game 7 in Yankee Stadium. The first pitcher to win three complete games in a single World Series since 1920. The first to throw two WS shutouts since Christy Mathewson in 1905. The Milwaukee Braves win their only championship. Burdette is the Series MVP. He says: 'I do not go out there to lose.'",
+      "origin": "The 1957 WS game-by-game results are documented. Burdette's 3-0 record, 27 IP, 2 ER, 0.67 ERA are documented. The historical comparisons to Mathewson (1905) and the 37-year gap are documented. The Milwaukee championship being their only one is documented."
+    },
+    {
+      "title": "The Haddix Game",
+      "type": "Rare Feat",
+      "text": "May 26, 1959. Harvey Haddix of the Pittsburgh Pirates pitches 12 perfect innings against the Milwaukee Braves. Twenty-four consecutive outs. Then 27. Then 33. No hits, no walks, no errors. Lew Burdette, meanwhile, is scattering 12 hits across 12 innings and not walking anyone and not giving up a run. In the 13th inning, the Braves win 1-0. Haddix has pitched the greatest game in baseball history and lost it. That winter, Burdette requests a $10,000 raise. He explains: 'I am the greatest pitcher that ever lived. The greatest game that was ever pitched in baseball was not good enough to beat me, so I have got to be the greatest!'",
+      "origin": "The May 26, 1959 Haddix game is documented. Burdette's 13-inning shutout (12 hits, 0 walks, 0 ER) is documented. His $10,000 raise request and quote are documented in the BR Bullpen, Baseball Almanac, and SABR BioProject."
+    },
+    {
+      "title": "Nitro Lew Comes Home",
+      "type": "Legacy",
+      "text": "November 1, 1957. Nitro, West Virginia. 'Lew Burdette Day.' The town named for a WWI explosives plant, where Lew Burdette graduated from a high school with no baseball team, where he learned to pitch on the American Viscose Corporation company team — that town is celebrating the Milwaukee Braves' first World Series championship. Pittsburgh announcer Bob Prince had been calling him 'Nitro Lew' for years. Today the name belongs to the town again. Burdette grew up here. He won three games against the New York Yankees. Milwaukee won its only championship. Nitro hosted the day. The industrial Kanawha River town claimed the trophy.",
+      "origin": "The November 1, 1957 'Lew Burdette Day' in Nitro is documented in the West Virginia Encyclopedia. Nitro's origin as a WWI nitrocellulose plant town is documented. The high school with no baseball team (parallel to Newcombe's Jefferson High) is documented. Bob Prince's 'Nitro Lew' nickname is from the BR Bullpen."
+    },
+    {
+      "title": "The Dry Side of the Ball",
+      "type": "Legacy",
+      "text": "Lew Burdette is asked when he knew it was time to retire. He says: 'They were starting to hit the dry side of the ball.' He has never admitted to throwing a spitball. He has never denied that the reputation gave him an edge. He was the winning pitcher in the greatest game Harvey Haddix ever pitched and lost. He won three complete games in one World Series against the New York Yankees. He was the first since Christy Mathewson to throw two shutouts in a single Series. He won 203 games. He is not in the Hall of Fame. The dry side of the ball was, apparently, hittable.",
+      "origin": "The retirement quote about the dry side of the ball is from the BR Bullpen. Career stats are documented. HOF non-induction is documented."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'2'', 180 lbs, 'a rangy tower of muscle with sandy blond hair and cold blue eyes' (Red Smith). In 1957 he is 30 years old at the peak of his career — 17-9 regular season, then the WS MVP performance that defines everything. The eyes are the detail: Gene Conley said he had ice water in his veins. Red Smith said cold blue eyes. The face of a man who was making coffee nervous while being completely unperturbed, who was talking to himself, to the batter, and to the ball, and for whom none of it indicated nervousness.",
+    "attire": "Milwaukee Braves road grays — the WS card is set in Yankee Stadium for Games 2 and 7. The right-handed delivery pose mid-fidget: cap tugged, fingers at the bill, the moment before the pitch where no one could tell what he was thinking or what he was about to throw. The ball visible in the grip — dry or wet, that is the question.",
+    "mood": "Deliberate calm with a visible edge of mischief. Not Newcombe's contained power, not Roberts's precision — Burdette's is the calm of a man who is doing something you cannot prove, who knows you cannot prove it, and who is willing to talk about this at length while you think about it. The portrait should make the viewer wonder about the ball.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Yankee Stadium visible in the background — the road venue where he won twice in 1957, where the championship was clinched. The background carries the weight of the visiting team winning in the home of the most successful franchise in the game.",
+    "reference": "Red Smith's description is the art direction: 'a rangy tower of muscle with sandy blond hair and cold blue eyes' with 'a striking air of assurance about him, a cool, deliberate efficiency.' The portrait is the pitcher who won Game 7 on two days' rest in Yankee Stadium with a shutout and then said he did not go out there to lose."
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "card_type": "player",
+  "name": "Roy Campanella",
+  "nickname": "Campy / The Cat",
+  "year": 1953,
+  "team": "Brooklyn Dodgers",
+  "league": "National League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "C",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'9\"",
+  "weight": "205 lbs",
+  "born": "November 19, 1921 — Philadelphia, PA",
+  "died": "June 26, 1993 — Woodland Hills, CA",
+  "hof": "Class of 1969 (BBWAA, second Black player inducted after Robinson)",
+
+  "real_stats": {
+    "season": 1953,
+    "games": 144,
+    "at_bats": 519,
+    "hits": 162,
+    "doubles": 26,
+    "triples": 3,
+    "home_runs": 41,
+    "rbi": 142,
+    "stolen_bases": 4,
+    "runs": 103,
+    "batting_avg": ".312",
+    "obp": ".395",
+    "slg": ".611",
+    "ops": "1.006",
+    "ops_plus": 154,
+    "war": 8.2,
+    "all_star": 8,
+    "gold_gloves": 0,
+    "awards": "NL MVP 1953 (second of three — 1951, 1953, 1955). First catcher to win two NL MVP awards. In 1955 he and Yogi Berra both won their leagues' MVP — the first year catchers won both MVPs simultaneously. Led NL in RBI (142) in 1953 — a single-season catcher record until Johnny Bench in 1970 (in a 162-game schedule vs. Campanella's 154). Set single-season catcher HR record with 41 (stood until 1970). Career caught-stealing rate of 57% — the all-time record for catchers with 100+ games. Caught three no-hitters (Carl Erskine twice, Sal Maglie once). Led NL catchers in CS% five times. For five consecutive years (1949-1953), caught every inning of every NL All-Star game. 'To play this game good, a lot of you has to be a little boy.' — Campanella's most famous statement of his philosophy. Career started late due to the baseball color line; ended at 36 due to a car accident. The HOF plaque: 'A career started late due to the color of his skin, and ended early after a tragic auto accident.'",
+    "negro_leagues": "Baltimore Elite Giants, Negro National League (1937-1942, 1944-1945). Eight full seasons as a teenager through young adult — signed at age 15 by the Washington Elite Giants (1937). Dropped out of high school on his 16th birthday to play full-time. Mentored by future HOF catcher Biz Mackey. Won the batting title with .388 in 1944. Caught four games in a single day as a Negro Leaguer. Claimed to have caught three doubleheaders in one day in winter league competition. Left Baltimore in 1942 in a dispute with owner Tom Wilson; played 1942-1943 for the Monterrey Sultans in the Mexican League. Returned to Baltimore for 1944-1945. In 1946 signed with the Dodgers minor league system — took a substantial pay cut from $600 (Baltimore) to $180/month (Nashua) for the opportunity to reach the major leagues.",
+    "world_series": "5 WS appearances (1949, 1952, 1953, 1955, 1956). 1 WS championship (1955 — Brooklyn's only). Career WS: 5 WS appearances, all against the New York Yankees. In the 1955 WS, after the Dodgers fell 0-2, Campanella hit a two-run HR in Game 3 and another HR in Game 4 to help tie the Series. Brooklyn won Game 7 (Johnny Podres shutout, 2-0). Jackie Robinson stole home in Game 1 of that 1955 Series — Berra insists to this day that Robinson was out; Campanella was in the Dodgers lineup.",
+    "career_avg": ".276",
+    "career_hits": 1215,
+    "career_hr": 242,
+    "career_war": 49.3,
+    "career_rbi": 856,
+    "career_notes": "10 ML seasons (1948-1957), all with Brooklyn Dodgers. .276/.360/.500 career, 49.3 WAR. 242 HR, 856 RBI in 1,215 ML games. Three NL MVP Awards (1951, 1953, 1955). Five WS appearances (all against the Yankees). One championship (1955). January 28, 1958: car accident on Dosoris Lane, Glen Cove, NY — hit a telephone pole on an icy S-curve at 1:30 a.m. after closing his Harlem liquor store. Fractured fifth and sixth cervical vertebrae; paralyzed from shoulders down. Never played a major league game in Los Angeles. May 7, 1959: Roy Campanella Night at the LA Coliseum drew 93,103 fans — then the largest crowd in ML history. Inducted into the HOF in 1969. Autobiography: It's Good to Be Alive (1959). Mentored Roseboro, Scioscia, Piazza as a Dodgers coach. Died June 26, 1993 in Woodland Hills, California."
+  },
+
+  "ilb_stats": {
+    "ovr": 10,
+    "con": 5,
+    "pow": 5,
+    "spd": 0,
+    "def": 3,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": ".312 BA (1953). OPS+ 154 clears the 130+ bonus: base band 4 + bonus = CON 5. All three of his MVP seasons were .300+ (.325, .312, .318). The consistent contact from a catcher who absorbed daily punishment — broken fingers, hand injuries, the occupational hazards of the position — makes CON 5 particularly meaningful. Career .276 over 10 seasons in which he missed significant time to injuries.",
+    "pow": "41 HR (1953), catcher record. SLG .611 clears the .500 bonus: base band 4 + bonus 1 = POW 5. The first and only catcher in the set at POW 5 (Berra was POW 2 for the contrast). The 41 HR stood as the single-season catcher record for 17 years until Bench in 1970. Career 242 HR in 10 seasons, despite the positional and physical toll of catching. The power came from the same muscular arms and torso — Roger Kahn likened him to a little sumo wrestler — that made him the best defensive catcher in the NL.",
+    "spd": "4 SB in 1953. Catchers do not run. SPD 0. Second catcher at SPD 0 in the set (after Berra). The position selects against speed; the body Campanella built for catching was not built for baserunning.",
+    "def": "Career caught-stealing rate of 57% — the all-time record for catchers with more than 100 games in ML history. Led NL catchers in CS% five times. Caught three no-hitters. Tom Meany: 'More than one observer has likened Campanella's quickness behind the plate to that of a cat.' He was called The Cat for the feline quickness blocking stray pitches and pouncing on bunts. The SABR biography: 'arguably the greatest NL catcher in history, at least in terms of offense, with Gabby Hartnett being the closest competition.' DEF 3 reflects the best-documented defensive catcher in the NL in the set's era. Second catcher at DEF 3 alongside Berra.",
+    "clu": "5 WS appearances, 1 championship (1955). Key 1955 WS HR in Games 3 and 4 to help Brooklyn come back from 0-2 down. Career WS batting was modest overall but the 1955 HR contributions were decisive in the series' momentum. CLU 2 reflects one championship, five appearances, and key postseason moments without the sustained WS HR record of Snider (11 HR, 26 RBI across six WS) that would justify CLU 3."
+  },
+
+  "personality": {
+    "leadership_style": "Warmth and technical mastery. Campanella managed the pitching staff the way he managed everything — by building trust and knowing his people. Dodger scout Clyde Sukeforth: 'Nobody discovered Campanella. We looked at him and there he was. There was never any question about his ability.' His easy-going personality was the specific attribute Branch Rickey cited when explaining why Campanella could move between racial worlds in the early integration years. He was elected captain of every sports team he played on in high school. He managed (unofficially) the Nashua team in 1946 when Alston was ejected — the first Black manager in organized professional baseball in the 20th century.",
+    "temperament": "Joyful and equable with occasional private fire. The most famous quote: 'To play this game good, a lot of you has to be a little boy.' He meant it. The joy was structural, not performed. After being paralyzed at 36, he titled his autobiography *It's Good to Be Alive* — not a statement of forced optimism but an actual assessment. His relationship with Robinson was complicated: Robinson believed Campanella was insufficiently militant about civil rights; Campanella felt baseball itself was his contribution and he could not fight on two fronts simultaneously. Both were right about something the other was wrong about.",
+    "work_ethic": "Caught four games in one day in the Negro Leagues. Caught three doubleheaders in one day in winter league. At Nashua in 1946, he took a pay cut from $600/month (Baltimore) to $180/month to get the opportunity to reach the major leagues. Bill James rated him the third-best catcher of all time. He established the all-time record for caught-stealing percentage. He played through broken fingers, hand injuries, and the daily physical punishment of catching across eight Negro League seasons before playing ten more in the major leagues. He was still mentoring Dodger catchers from a wheelchair after 1958.",
+    "lifestyle": "Nicetown, Philadelphia to the Negro Leagues to Mexico to Nashua to Brooklyn to Glen Cove. He owned a liquor store in Harlem — the income source that brought him to the S-curve on Dosoris Lane on January 28, 1958. He married three times. His second marriage (Ruthe Willis) did not survive the paralysis — they separated in 1960; Ruthe died in 1963. His third wife Roxie survived him. He remained employed by the Dodgers as a scout and coach. He mentored three generations of Dodger catchers from his wheelchair: Roseboro, Scioscia, Piazza.",
+    "era_adaptability": "MAXIMUM — except the era stole a decade from him. He started professional baseball at 15 in 1937. He reached the major leagues at 26 in 1948. The missed years (16-25) due to the color line represent not just his own lost prime seasons but a structural injustice encoded in the career statistics. Bill James: third-best catcher of all time. In any era without the color line, with a full career from his age-16 debut onward, Campanella's numbers would be among the greatest ever for any position, not just catcher.",
+    "dark_side": "The night of January 28, 1958. He closed his Harlem liquor store, began his drive home to Glen Cove. Something about that drive — documented ambiguously in Neil Lanctot's biography, involving exhaustion and possibly a lover whose identity remains unknown — led to the S-curve at 1:30 a.m. The telephone pole. The fractured vertebrae. The biographer's thesis: exhaustion from a long day and possibly a recent encounter that left him drained. He said in strict confidence that he was doing 'something he shouldn't have been doing.' The full story is not known. He is in a wheelchair for the remaining 35 years of his life and writes a book titled *It's Good to Be Alive.*"
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Cat",
+      "desc": "The feline quickness behind the plate — blocking, pouncing on bunts, reading the pitch. In ILB, Campanella's DEF 3 generates a Cat bonus: any passed ball attempt by the opposing team triggers a +1 defensive roll, representing his instinctive blocking. The career 57% CS rate is the mechanically highest in the set for a catcher."
+    },
+    {
+      "tag": "A Little Boy",
+      "desc": "'To play this game good, a lot of you has to be a little boy.' In ILB, Campanella's morale contribution to any lineup he joins is +1 — the joy is structural. When a slump extends beyond 10 games, Campanella's morale bonus activates specifically: the little boy who still wants to play overrides the accumulated frustration."
+    },
+    {
+      "tag": "The 1949 All-Star Game",
+      "desc": "In 1949, Campanella was one of the first four Black players to appear in an MLB All-Star Game, alongside Robinson, Newcombe, and Doby. In ILB, when Campanella, Robinson, and Doby are all in the same game, a Four First All-Stars bonus activates for all three — the historical weight of 1949 is a mechanical condition."
+    },
+    {
+      "tag": "The Ballot Controversy",
+      "desc": "Campanella won the 1955 NL MVP 226-221 over Snider — a five-point margin due to a hospitalized Philadelphia writer's ballot that the BBWAA accepted without amendment. Had the ballot been disallowed, Snider would have won 221-212. Both are Dreamers 1950 Dodgers. In ILB, when Campanella and Snider are on the same roster, a Teammates / Rivals bonus activates — the competition that made both better.",
+      "note": "See snider-duke.json 'The Ballot Controversy' cross-reference."
+    },
+    {
+      "tag": "The Two Lives",
+      "desc": "Neil Lanctot's biography: 'The Two Lives of Roy Campanella' — before and after January 28, 1958, and before and after the color line, and as Black and Italian simultaneously. In ILB, Campanella's CLU 2 reflects the career that should have been longer but was cut by structural injustice on one end and physical catastrophe on the other. The mechanic: Campanella's overall contribution to any championship run is rated one tier higher than his CLU stat suggests — the potential WS CLU 3 lives in the card as latent credit.",
+      "note": "This trait acknowledges that the ML career was compressed from both ends (color line: lost ages 16-25; car accident: lost ages 36+)."
+    },
+    {
+      "tag": "Biz Mackey's Pupil",
+      "desc": "Campanella was tutored by future HOF catcher Biz Mackey during his Negro Leagues years. Mackey taught him the fundamentals that produced the all-time CS rate. In ILB, when any card with a Negro Leagues connection is in the same game, Campanella receives a defensive mentorship bonus: DEF rolls gain +0.5.",
+      "note": "Cross-reference with Robinson, Doby, Miñoso, Banks, and Mays — all Negro Leagues cards in the Dreamers 1950 set."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Community Events",
+      "affinity": "SACRED",
+      "note": "93,103 fans. The Los Angeles Memorial Coliseum, May 7, 1959. He had never played a game in Los Angeles. The city came to honor him anyway.",
+      "note_extra": "Source labeled 'Campanella Night / LA Coliseum / 93103 Fans / May 7 1959 / ML Attendance Record / Never Played in LA' / affinity 'SACRED' — twenty-third SACRED in the set. Campanella's is the most unusual SACRED in the set: not a ballpark where he played or a day that commemorates a game he played in, but a tribute night at a stadium where he never competed in a regular season game. On May 7, 1959, the Dodgers and Yankees played an exhibition game at the Los Angeles Memorial Coliseum to honor Campanella, then 37 years old and in a wheelchair after the January 1958 accident. The attendance was 93,103 — the largest crowd ever to attend a major league game at that point in history (the record stood for 49 years). More than 15,000 additional fans were turned away. Campanella received approximately $60,000 in gate receipts to help pay for his medical costs. The Yankees turned their share of the gate over to New York City charities. The attendance record was established in a city that had never seen Campanella play a regular season game. This is the SACRED of civic recognition: not a stadium where greatness was demonstrated but a stadium where it was remembered and honored by a crowd that had only ever known him as the man in the wheelchair who might have been the greatest catcher they'd never seen play. The HOF plaque: 'A career started late due to the color of his skin, and ended early after a tragic auto accident.'"
+    },
+    {
+      "location": "Community Events",
+      "affinity": "IDENTITY",
+      "note": "Italian father, African American mother. Called 'half-breed' by other children in Nicetown. Barred from the major leagues because he was classified as Black. The two lives, the two identities, neither accepted by the structures that claimed to define him.",
+      "note_extra": "Source labeled 'Italian-African American / Half-Breed Taunts / Color Line / Dual Racial Identity / Two Lives' / affinity 'IDENTITY' — fifth full IDENTITY in the set (after Miñoso, Mays, Robinson, Aaron). Campanella's IDENTITY is structurally distinct from the others: not the barrier-breaker (Robinson), the visibility (Mays), the sustained target (Aaron), or the first of a specific category (Miñoso), but the man who was both things simultaneously and was only classified as one of them. His father John was the son of Italian immigrants; his mother Ida was African American. In the racial taxonomy of 1920s Philadelphia, he was Black — which meant he was barred from the major leagues regardless of what his father was. He was taunted as 'half-breed' by neighborhood children. The Italian-American community did not claim him as Italian; the Black community claimed him as Black; the baseball establishment excluded him as Black. The IDENTITY affinity encodes the dual heritage and the structural classification that determined his life: not the identity he might have chosen but the identity assigned to him by institutions and enforced through the color line. Neil Lanctot's biography title captures it: 'The Two Lives of Roy Campanella.' He had two racial heritages, two baseball careers (Negro Leagues and MLB), and two existences (before and after January 28, 1958). The IDENTITY is the first two; the HAUNTED is the third."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Nicetown, North Philadelphia. The Polish and Italian immigrants in the row houses. Biz Mackey. Dropping out at 16 on his birthday. Four games in one day. The pay cut to $180 a month for the chance.",
+      "note_extra": "Source labeled 'Nicetown Philadelphia / Italian-American Row Houses / Biz Mackey / Dropped Out 16th Birthday / Four Games One Day / 180 Dollars Nashua' / affinity 'ORIGIN' — twenty-sixth ORIGIN in the set. Campanella's is the most directly traceable ORIGIN from a specific neighborhood to a specific career trajectory. He grew up in Nicetown, North Philadelphia, in a neighborhood of Polish and Italian immigrants — his father's people were there, but not his mother's world in the same way. He was elected captain of every sports team he played on in high school. He dropped out of Simon Gratz High School on his 16th birthday — not just on his 16th birthday, but on the specific day he became old enough to play full-time professionally. He signed that same birthday. He was mentored by Biz Mackey, a future HOF catcher, in the fundamentals of the position. The Negro Leagues physicality — four games in one day, claimed three doubleheaders in one winter league day — is the ORIGIN's extreme test: the Campanella of the 1953 ML record (41 HR, 142 RBI) was built by a body trained to catch four games in a single day as a teenager. The Nashua pay cut ($600/month at Baltimore → $180/month at Nashua) is the ORIGIN's commitment document: he took a 70% pay cut to have the chance to play in the major leagues. The community of Nicetown is the origin point."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HAUNTED",
+      "note": "January 28, 1958. After closing the Harlem liquor store. The S-curve on Dosoris Lane in Glen Cove. The telephone pole. The fifth and sixth cervical vertebrae. The wheelchair for the rest of his life.",
+      "note_extra": "Source labeled 'January 28 1958 / Dosoris Lane / Glen Cove / S-curve / Telephone Pole / Fractured Vertebrae / Paralysis' / affinity 'HAUNTED' — twelfth HAUNTED in the set (after Holmes/WWII, Cooper/elbow, Blackwell/arm, Doby/Comiskey, Mantle/Lenox Hill, Berra/D-Day, Wynn/Mabel, Lemon/Hawaii, Mays/Fort Eustis, Robinson/Fort Hood, Snider/Yankee Stadium sprinkler cover). Campanella's is the only HAUNTED in the set that ended the career and the mobile life permanently. All prior HAUNTEDs in the set — even Berra's D-Day — allowed the player to continue playing. The Dosoris Lane S-curve on January 28, 1958 is the night that the two lives became permanently divided. He was 36 years old, in good health heading into what he expected would be a full recovery season at the new Los Angeles stadium. After closing his liquor store in Harlem he began the drive home to Glen Cove. About 1:30 in the morning, on an S-curve approximately a mile and a half from his home, the rented 1957 Chevrolet hit a patch of ice, skidded into a telephone pole, and overturned. The neurosurgeon gave a fifty-fifty chance that the paralysis would be temporary. It was not. He was in a wheelchair for the remaining 35 years of his life. The title of his autobiography — *It's Good to Be Alive* — is the HAUNTED's resolution: the man's response to the location that ended his career was gratitude for survival."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "COMPLEX",
+      "note": "The two lives. Before and after January 28. The dual racial identity. The eight Negro League seasons the color line removed from his ML career. The relationship with Robinson that was mutual respect and genuine tension simultaneously.",
+      "note_extra": "Source labeled 'Two Lives / Before and After 1958 / Racial Duality / Robinson Relationship / Eight Lost ML Seasons / Color Line / Nashua First Manager' / affinity 'COMPLEX' — fourteenth COMPLEX in the set. Campanella's is the most structurally embedded COMPLEX in the set — not a single incident or a personal struggle but the entire architecture of his career. Neil Lanctot's biography title is the COMPLEX's thesis: *The Two Lives of Roy Campanella*. The duality operates at multiple levels: he was Black and Italian and neither label was accepted fully; he played eight seasons in the Negro Leagues and ten in the major leagues, with the career divided by a structural barrier; his life was divided before and after January 28, 1958; and his approach to civil rights — through baseball, not through protest — put him in genuine tension with Robinson, who believed Campanella was insufficiently public about the injustices both experienced. The Robinson/Campanella disagreement is the COMPLEX's most documented interpersonal dimension: both men were right about something the other was wrong about, and both had to live with the consequences of the other's choices. The Nashua 1946 episode — Campanella becoming the first Black manager in organized professional baseball when Alston was ejected — is a COMPLEX within the COMPLEX: he led and won while being denied the ML career that should have been his for nine prior years."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Three-time MVP pattern — Campanella's peak performance comes in odd-numbered years (1951, 1953, 1955). The ILB mechanic: in any season where the team is in contention (top two in standings), Campanella's stats gain +0.5 to all offensive categories — the championship context unlocks his best work.",
+      "Boys of Summer lineup — when Robinson, Snider, and Campanella are all in the same lineup, a Boys of Summer team bonus activates: +1 morale for the entire lineup, reflecting the specific chemistry of the 1950s Brooklyn Dodgers.",
+      "The Cat defensive trigger — any stolen base attempt against Campanella generates a DEF roll with his all-time 57% CS rate encoded: roll 1-3 = caught stealing, 4-6 = safe.",
+      "A Little Boy morale bonus — Campanella's presence generates +1 morale at all times; this bonus is unconditional."
+    ],
+    "cold_triggers": [
+      "Hand injuries — catchers accumulate finger and hand damage; Campanella's worst seasons (1952, 1954) were injury-driven. In ILB, after 100 games behind the plate in a single season, Campanella's CON degrades by 0.5 — the physical toll of catching is real.",
+      "1954 pattern (historical) — Campanella had a terrible season sandwiched between two MVPs. The inconsistency pattern: after a peak season, there is a rebound risk. In ILB, the odd-year momentum is real; even years carry slightly reduced offensive projection.",
+      "SPD 0 — no baserunning contribution, no speed-based plays.",
+      "The two lost decades — the color line (1937-1947) and the car accident (1958) bracket the career. The career WAR (49.3) dramatically understates the full talent because the career was compressed from both ends."
+    ],
+    "pressure_response": "He won three MVP awards. He hit two HR in the 1955 WS to help Brooklyn come back from 0-2. He wrote *It's Good to Be Alive* after being paralyzed at 36. He sat in a wheelchair at the Coliseum on May 7, 1959, while 93,103 people came to honor a career they had only seen half of. The pressure response is: gratitude. Not as a performance, not as a forced quality — as an actual response to what his life was."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Half-Breed",
+      "type": "Origin",
+      "text": "In Nicetown, North Philadelphia, in the row houses of the Polish and Italian immigrants, other children have a word for him. His father is Italian. His mother is African American. The word they use is 'half-breed.' He is elected captain of every sports team he plays on in high school. He drops out of school on his 16th birthday to play baseball for the Washington Elite Giants. The word stays in the neighborhood. He takes his baseball with him.",
+      "origin": "Documented in the Walter O'Malley website tribute and Wikipedia: 'Because of their mixed-race, Campanella and his siblings were sometimes taunted by other children in school who called them half-breed.' He attended integrated schools in Nicetown but faced the racial taunting documented across multiple sources."
+    },
+    {
+      "title": "Four Games in One Day",
+      "type": "Origin",
+      "text": "He is a Negro Leaguer. He catches four games in one day — an early doubleheader in Cincinnati, then a twi-night doubleheader in Middletown, Ohio. He claims to have caught three doubleheaders in one day in winter league competition. The major leagues will not have him for nine more years. He spends those years catching as many games as can be fit into a single calendar day. In 1953 he will hit 41 home runs and drive in 142 runs as a major league catcher. This is where those numbers come from.",
+      "origin": "Documented in the Baseball Almanac entry: 'As a Negro Leaguer, he was purported to have once caught four games in one day — an early doubleheader in Cincinnati and a twi-nighter in Middletown, Ohio. And he claimed to have caught three doubleheaders in one day in winter league competition.' The juxtaposition with his 1953 ML records is implicit in the source material."
+    },
+    {
+      "title": "Branch Rickey's Second Choice",
+      "type": "Origin",
+      "text": "Branch Rickey is looking for the player who will break baseball's color line. He considers Roy Campanella. He decides on Jackie Robinson instead. His reasoning: Robinson can handle the specific pressure of being first; Campanella's easy-going personality is a gift but he is not the man for this particular moment. Campanella follows Robinson by one year. He becomes the second Black player to win an NL MVP award. He becomes the only Black player to win three. His easy-going personality, the quality Rickey believed was insufficient for the barrier, is the quality that allows him to survive nine years of what comes after.",
+      "origin": "Branch Rickey's consideration of Campanella before selecting Robinson is documented in multiple sources. Rickey's reasoning about Campanella's 'easy-going personality' as both an asset and a reason he was not chosen first is documented in the Wikipedia article and Neil Lanctot's biography."
+    },
+    {
+      "title": "The First Black Manager",
+      "type": "Origin",
+      "text": "Nashua, New Hampshire, 1946. Walter Alston is ejected from a game. As he leaves the field he tells Roy Campanella to take over. Campanella is 24 years old, in Class B baseball, making $180 a month. He manages the rest of the game. His team is trailing by three runs. He pinch hits Don Newcombe in the seventh inning. Newcombe hits a two-run home run. The team comes back to win. He is, by this act, the first African American to manage white players in organized professional baseball in the 20th century. Nobody in Nashua is writing about what this means. The game goes in the books.",
+      "origin": "Documented in multiple sources including Wikipedia and the Baseball Almanac entry: 'In 1946, Walter Alston, manager of the Nashua Dodgers, was ejected from a game. As he left the field he told Roy Campanella to take over. Thus, Campanella became the first African-American to manage (though unofficially) a regular season game in organized white baseball.'"
+    },
+    {
+      "title": "A Little Boy",
+      "type": "Legacy",
+      "text": "Roy Campanella says: 'To play this game good, a lot of you has to be a little boy.' He says this in Brooklyn in the 1950s and he means it. He is the best catcher in the National League. He has won two MVP awards. He will win a third. He has been playing professional baseball since he was 15 years old. He will play until the night of January 28, 1958, when his car hits a telephone pole. The little boy plays until then. After that, the little boy is still present but the game is not accessible to him in the same way. He titles his autobiography It's Good to Be Alive.",
+      "origin": "Campanella's quote is from his Hall of Fame entry and is widely cited. The biographical context — from age 15 to the car accident — is documented across multiple sources."
+    },
+    {
+      "title": "Dosoris Lane",
+      "type": "Drama",
+      "text": "January 28, 1958. About 1:30 in the morning. He has closed his liquor store in Harlem. He is driving home to Glen Cove. On Dosoris Lane, about a mile and a half from his home, there is an S-curve. There is also a patch of ice. His car hits the patch of ice. The car strikes a telephone pole. The car overturns. He fractures his fifth and sixth cervical vertebrae. He compresses his spinal cord. He will be paralyzed from the shoulders down for the remaining 35 years of his life. The Dodgers are moving to Los Angeles. Spring training is one month away. He will not be there. He has never played a game in Los Angeles. He never will.",
+      "origin": "The accident details are documented in multiple sources. The specific road name (Dosoris Lane), location (Glen Cove), time (about 1:30 a.m.), and circumstances (driving home from the Harlem liquor store) are consistent across sources. The Dodgers' move to LA and the spring training context are documented."
+    },
+    {
+      "title": "93,103",
+      "type": "Legacy",
+      "text": "May 7, 1959. The Dodgers play an exhibition game against the Yankees at the Los Angeles Memorial Coliseum. The purpose of the game is to honor Roy Campanella. He has never played a regular season game in Los Angeles. He never will. 93,103 people attend. More than 15,000 are turned away at the gates. He receives approximately $60,000 in gate receipts to help with his medical bills. The Yankees donate their share to New York City charities. He is in a wheelchair. The crowd is larger than any crowd ever assembled for a major league game. It is a tribute to a career that is over. It is the largest crowd the game has ever seen.",
+      "origin": "Roy Campanella Night is documented in the SABR game project article. The 93,103 attendance figure, the 15,000 turned away, the gate receipts to Campanella, and the Yankees' charitable donation are all documented. The record stood for 49 years."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'9'', 205 lbs (perhaps more) — Roger Kahn likened him to a little sumo wrestler. The massive arms, the bulky torso built for absorbing foul tips and blocking pitches and throwing out 57% of base stealers. In 1953 he is 31 years old, in the middle of three MVP awards, the best catcher in the National League, the most feared power hitter at his position in the history of the game to that point.",
+    "attire": "Brooklyn Dodgers home whites — the distinctive Dodgers script, number 39. The catcher's stance — not yet in gear for the portrait, but with the posture of a man whose body has been shaped by catching. The massive forearms visible. The alert eyes that saw every pitch.",
+    "mood": "The Cat — quickness and joy simultaneously. The mood is both things Campanella was publicly: the feline defensive catcher who could anticipate where the ball would be before it arrived, and the man who said a lot of you has to be a little boy to play this game well. The portrait should contain both the physical alertness and the joy.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Ebbets Field in the background — the right-field wall and the bleachers, the specific Brooklyn geography of the Boys of Summer. The card year is 1953: the franchise's last full decade in Brooklyn, the best catcher in the NL, the record 41 HR, the 142 RBI that stood for 17 years.",
+    "reference": "The HOF plaque text: 'A career started late due to the color of his skin, and ended early after a tragic auto accident. In between, Roy Campanella blazed across the baseball landscape with 10 years of catching perfection.' The portrait contains the player who produced those 10 years of catching perfection — and the man who titled his autobiography *It's Good to Be Alive.*"
+  }
+}

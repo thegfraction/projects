@@ -1,0 +1,196 @@
+{
+  "card_type": "player",
+  "name": "Johnny Antonelli",
+  "nickname": "none",
+  "year": 1954,
+  "team": "New York Giants",
+  "league": "National League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "SP",
+  "bats": "L",
+  "throws": "L",
+  "height": "6'1\"",
+  "weight": "185 lbs",
+  "born": "April 12, 1930 — Rochester, NY",
+  "died": "February 28, 2020 — Rochester, NY",
+  "hof": "Not inducted",
+
+  "real_stats": {
+    "season": 1954,
+    "wins": 21,
+    "losses": 7,
+    "era": 2.30,
+    "innings_pitched": 258.2,
+    "strikeouts": 152,
+    "walks": 94,
+    "complete_games": 11,
+    "shutouts": 6,
+    "win_pct": ".750",
+    "war": 7.2,
+    "all_star": 6,
+    "awards": "1954 NL ERA leader (2.30). 1954 NL shutouts leader (6). 1954 NL W% leader (.750). 1954 Sporting News Pitcher of the Year (Cy Young Award did not exist until 1956). Third in 1954 NL MVP voting. Six-time NL All-Star (1954, 1956, 1957, 1958, 1959). Two 20-win seasons (21-7 in 1954, 20-13 in 1956). NL shutouts leader 1954 and 1959. First player born in the 1930s to appear in a major league game (July 4, 1948). Last New York Giants pitcher to win an ERA title (1954). WS: 1-0 with a save in 1954 World Series (10.2 IP, 1 ER, 12 K across Game 2 start and Game 4 save). Stan Musial: 'In his 20-game peak he came up with a terrific change of pace that made him outstanding.' Carl Hubbell described Antonelli as one of the most balanced pitchers he had ever seen.",
+    "world_series": "1954 WS champion (Giants swept Cleveland in four games). Game 2 start: 9 IP, 8 H, 1 ER, 9 K, won 3-1 over Early Wynn. Gave up a leadoff HR to Al Smith on the first pitch of the game; allowed no more runs. Said afterward: 'The Good Lord was on my side that game. I do not think I had my best stuff that day.' Game 4: 1.2 IP relief, 0 H, 0 ER, earned save in 7-4 clincher. WS line: 10.2 IP, 1 ER, 12 K. Career WS: 1-0, 1 save, 0.84 ERA.",
+    "career_record": "126-110",
+    "career_era": 3.34,
+    "career_k": 1162,
+    "career_war": 36.7,
+    "career_notes": "12 MLB seasons (1948-1961). Boston/Milwaukee Braves (1948-1953), New York/San Francisco Giants (1954-1960), Cleveland Indians (1961), Milwaukee Braves (1961). 126-110, 3.34 ERA, 1,162 K in 1,992.1 IP. One of only 17 players in MLB history to complete a career without a single day in the minor leagues (bonus baby rule kept him on the major league roster; Army service at Fort Myer functioned as substitute development). Declined to join expansion 1962 New York Mets when his contract was sold; retired instead. Ran Firestone/Michelin tire distributorship in Rochester for 40 years (sold 1994). Died February 28, 2020, Rochester, NY, age 89."
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "stf": 3,
+    "ctl": 4,
+    "sta": 3,
+    "def": 1,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "stf": "Left-handed finesse pitcher — curve, changeup, fastball. Not a strikeout pitcher (career average approximately 97 K/season in peak years). Stan Musial: 'In his 20-game peak he came up with a terrific change of pace that made him outstanding.' Carl Hubbell called him one of the most balanced pitchers he had seen. STF 3 is the finesse lefty tier in the set, shared with Burdette. The difference between Antonelli (STF 3/CTL 4) and Burdette (STF 3/CTL 5) is exactly the control margin — Burdette's 1.84 BB/9 is historically elite; Antonelli's control was good but not record-setting. The STF 3 is honest: what made him special was location and the changeup, not velocity.",
+    "ctl": "NL ERA leader at 2.30 in 1954. Career 3.34 ERA across 12 seasons. Career BB/9 approximately 2.8 — solid control, above league average, supporting his ERA title but not reaching Burdette or Roberts levels. CTL 4 places him between the set's two CTL 5 control pitchers (Roberts, Burdette) and Newcombe (CTL 3). The ERA title is the CTL 4 product: good-enough command combined with his changeup and curve produced the NL's lowest ERA in 1954.",
+    "sta": "21 wins in 1954. 20 wins in 1956. Six seasons with the Giants averaging 17 wins. 11 CG in 1954. STA 3 reflects the reliable innings-eater without the workhorse durability of Burdette or Newcombe (STA 4). Army service removed 1951-52; pneumonia disrupted 1953. The career arc has a clear peak (1954-1959) with a genuine decline on both sides. STA 3 is honest.",
+    "def": "Career batting average approximately .165-170 as a pitcher. No notable power seasons. DEF 1 is standard for a pitcher without special offensive contributions. Unlike Newcombe (DEF 2) or Burdette (DEF 1 with two-homer games), Antonelli contributed nothing special with the bat.",
+    "clu": "2. 1954 WS champion. Game 2 start: 9 complete innings, 1 ER, 3-1 victory over Cleveland and Early Wynn. Save in Game 4. WS career line: 10.2 IP, 1 ER, 0.84 ERA. One championship, solid WS contributions, no postseason failures of the Newcombe variety. CLU 2 correctly places him among the set's genuine WS contributors who did not reach the MVP level of Burdette (CLU 3)."
+  },
+
+  "personality": {
+    "leadership_style": "The quiet player rep — the man who acted without informing ownership. In the 1950s, when the Giants stayed at the Chase Hotel in St. Louis, the hotel would not allow Black players in the restaurant. Antonelli, as the Giants' player representative, told the hotel manager that if they didn't allow his Black teammates into the restaurant, the Giants would move to another hotel. He did not consult team ownership. He did not announce it publicly. He simply made the call. That is the leadership style of the man who had been ostracized for his bonus and came out the other side.",
+    "temperament": "Self-possessed and not particularly forgiving about the ostracism, but professionally direct about it. He called the trade to the Giants 'the best break of my career.' He beat Spahn twice in 1954 and let the outcomes speak. He opened a tire business in Rochester and ran it for 40 years. He was done with traveling at 31 and said so plainly: 'I have been thinking of this for a long time, and I have made up my mind. I am tired of traveling and I want to be home with my family.' Casey Stengel's comment about the black doughnuts was not wrong — Antonelli was doing fine in Rochester.",
+    "work_ethic": "42-2 at Fort Myer. 11 straight wins from May 25 through August 1, 1954. Nine complete innings in Game 2 of the WS on a day he said he didn't have his best stuff. The work ethic is consistent and unannounced — the pitcher who won 11 straight because he showed up every five days and did the work.",
+    "lifestyle": "Rochester, New York — birthplace, home between seasons, retirement destination, grave. His father Gus was an Italian immigrant railroad contractor who wrote letters to scouts, brought his son to spring training, and rented a stadium to showcase him. Antonelli returned to Rochester after the 1954 WS parade and invested his WS bonus in a Firestone tire shop. He served on the Rochester Red Wings board. His widow Gail established the Johnny Antonelli Memorial Equipment Fund for the Challenger Miracle Field. He wanted to be home with his family. He was.",
+    "era_adaptability": "The lefty changeup-and-curve pitcher has no expiration date. The 2.30 ERA in 1954 would be elite in any era. The STF 3/CTL 4 combination — deception over velocity — is permanently valuable. The army service gaps (1951-52) and the bonus baby system that prevented minor league development are era-specific obstacles. In a modern context, Antonelli would have had a proper development arc and potentially a longer peak.",
+    "dark_side": "He was deeply unhappy in San Francisco. The SABR biography describes him as 'one of the most despised players in San Francisco Giants history' at a certain point during his tenure. The city was wrong, the adjustment was painful, and the unhappiness contributed to his 1960 decline. He was a Rochester man playing on the West Coast, which is a specific kind of wrong geography."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Best Break of My Career",
+      "desc": "Antonelli called the trade from Milwaukee to the Giants 'the best break of my career.' He was traded for Bobby Thomson, the man whose Shot Heard Round the World the Giants would never forget — a deeply unpopular deal. Giants fans were hostile. He went 21-7 and won the ERA title. In ILB, when Antonelli joins a new franchise through trade, his first season with that franchise generates a +0.5 ERA bonus (reduced ERA) as the change-of-scenery effect. The chip on the shoulder is load-bearing.",
+      "note": "The Giants traded Bobby Thomson for Antonelli on February 1, 1954. Thomson had been the 1951 Shot Heard hero. Antonelli immediately had his best season."
+    },
+    {
+      "tag": "The Good Lord Was on My Side",
+      "desc": "After Game 2 of the 1954 World Series — 9 complete innings, 1 ER, 3-1 over Early Wynn — Antonelli said: 'The Good Lord was on my side that game. I do not think I had my best stuff that day.' In ILB, once per WS, Antonelli may invoke the Good Lord modifier: in a game where his STF generates below-average rolls, his CLU 2 compensates by treating all run-prevention rolls as if STF were 4 for that start. He wins games he shouldn't on days when the stuff isn't there.",
+      "note": "Antonelli allowed a leadoff HR to Al Smith on the first pitch of Game 2 and then allowed no more runs across 8 more innings. The Indians had 8 hits off him. He won 3-1."
+    },
+    {
+      "tag": "The Player Rep",
+      "desc": "In St. Louis in the 1950s, the Giants stayed at the Chase Hotel, which refused to allow Black players in the restaurant. Antonelli, as the Giants' player representative, told the hotel manager that if they didn't allow his Black teammates into the restaurant, the Giants would move to another hotel. He did this without informing team ownership. In ILB, once per season, Antonelli may call a Club Standard: any teammate carrying a segregation penalty or IDENTITY burden has that penalty reduced by 0.5 for the game immediately following the Club Standard declaration. The action is not announced and generates no credit.",
+      "note": "The Chase Hotel incident is documented in the Hardball Times piece citing SABR research. Antonelli made the decision as player rep without consulting the Giants' owners or executives."
+    },
+    {
+      "tag": "The Changeup",
+      "desc": "Stan Musial: 'In his 20-game peak he came up with a terrific change of pace that made him outstanding.' The changeup was the pitch that turned a good-not-great repertoire into an NL ERA title. In ILB, Antonelli's CTL 4 generates a Changeup Lock: against any batter with SPD 2+ (the aggressive contact hitters prone to getting out in front of a pitch), Antonelli's ERA is reduced by 0.3 for that at-bat. The changeup kills aggressive hitters.",
+      "note": "Carl Hubbell described Antonelli's repertoire as the most balanced he had seen. The changeup was the signature weapon that elevated the curve and fastball."
+    },
+    {
+      "tag": "Forty Years",
+      "desc": "After the 1954 WS, Antonelli invested his WS bonus in a Firestone tire shop in Rochester. He ran it for 40 years, selling the business in 1994. He chose the tire business over the expansion 1962 Mets. Casey Stengel: 'I guess Johnny Antonelli is doing alright selling those black doughnuts in Rochester.' In ILB, Antonelli's retirement decision generates a second-career marker: after his playing career ends, the Dreamers 1950 franchise receives a permanent +1 CLU bonus for all subsequent NL championship appearances — the WS champion pitcher who built something durable after the career ended.",
+      "note": "Antonelli's quote on retirement: 'I quit baseball because I did not like traveling. Not for any other reason. I had no injuries or anything. I had had my fill of traveling.' He was 31."
+    },
+    {
+      "tag": "The Silver Stadium Showcase",
+      "desc": "In 1948, Gus Antonelli rented Silver Stadium in Rochester — home of the Triple-A Rochester Red Wings — to showcase his son to nine major league scouts. Seven thousand fans attended. Johnny struck out 17 batters and threw a no-hitter against a strong semipro team. Every team wanted him. The Braves paid the most. In ILB, this is encoded as an Origin Pressure trait: in any first-career appearance in a major setting (first WS game, first All-Star appearance), Antonelli's STF rises from 3 to 4 for that game. The showcase was the template for performing when it matters with everyone watching.",
+      "note": "Gus Antonelli wrote letters to scouts and brought Johnny to spring training for years before the Silver Stadium event. The nine scouts and 7,000 fans were the result of deliberate preparation."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballpark",
+      "affinity": "SACRED",
+      "note": "The Polo Grounds / 1954 WS / Rochester hero's welcome / Sporting News Pitcher of the Year. The triumphant season after the ostracism — the bonus baby who became the champion.",
+      "note_extra": "Source labeled 'Polo Grounds / 1954 World Series / NL ERA Leader 2.30 / Sporting News Pitcher of the Year / Rochester Hero Welcome / Buick Italian American Businessmen / Chip on Shoulder / Best Year / Beat Spahn Twice' / affinity 'SACRED' — thirty-first SACRED in the set. Antonelli's SACRED is the 1954 season and the postseason that closed it. He had been the most resented bonus baby in the game — voted out of the World Series share by his own teammates in 1948, ostracized by Spahn and Sain, discarded by the Braves on Spahn's recommendation. Then, in 1954 as a New York Giant, he went 21-7 with a 2.30 ERA, led the NL in shutouts, won the Sporting News Pitcher of the Year Award (the Cy Young did not yet exist), finished third in MVP voting, helped the Giants win the championship, started Game 2 of the World Series and won 3-1 over Hall of Famer Early Wynn, and returned to Rochester to a parade, an assembly at Jefferson High School, and a Buick from the Italian-American Businessmen's Association. The SACRED is the complete arc: the ostracism and the vindication, the 21-7 and the championship and the hometown claiming what was always theirs. The Polo Grounds is where the 1954 arc happened — the pennant clinched, the WS played, the career defined. Ballpark domain."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Rochester / Gus Antonelli's railroad work and letters to scouts / Silver Stadium no-hitter / the $65,000 bonus / Fort Myer 42-2 / the Army as the minor leagues the bonus rule denied him.",
+      "note_extra": "Source labeled 'Rochester NY / Gus Antonelli Italian Immigrant Railroad Contractor 1913 / Letters to Scouts / Silver Stadium 7000 Fans 9 Scouts 17 K No-Hitter / $65000 Bonus Largest Ever / Bonus Baby Rule Two Years Major League / Johnny Sain Walkout / Warren Spahn Ostracism / Fort Myer Army 42-2 / WS Share $571 Commissioner Chandler' / affinity 'ORIGIN' — thirty-fourth ORIGIN in the set. Antonelli's is the most institutionally structured ORIGIN in the set: every element is a system's encounter with a person. The bonus rule made him a pariah — the rule existed to prevent wealthy teams from signing all the top prospects, but its mechanism (keeping bonus babies on the major league roster for two years) deprived them of minor league development and made them resented by teammates. His $65,000 bonus exceeded the combined 1948 salaries of Spahn and Sain. Sain threatened to walk out; Braves management gave him a $30,000 raise. Spahn refused to speak to the 18-year-old. The WS share vote was orchestrated to exclude the bonus baby who had pitched only 3 innings. Commissioner Chandler intervened to give him $571.34 — less than the bat boys received. Then the Army happened, which was accidentally the best thing: 42-2 at Fort Myer was the minor league development the bonus rule had denied him. The ORIGIN is Gus Antonelli's plan — the letters to scouts, the Silver Stadium rental, the nine teams — combined with the system that made that plan's success a liability inside the clubhouse. Community Events domain: the Rochester Italian-American immigrant community, the stadium showcase, the father's railroad-worker biography."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "COMPLEX",
+      "note": "The bonus baby rejected by his own team. Voted out of the WS share. Traded by Spahn's recommendation. Then 21-7, NL ERA leader, beat Spahn twice. The arc from institutional rejection to vindication.",
+      "note_extra": "Source labeled 'Bonus Baby Resentment / Spahn Ostracism 1948 / Sain Walkout / WS Share $571 Chandler / Spahn Too Many Lefties Trade 1954 / 21-7 NL ERA Leader / Beat Spahn Twice 1954 / Not In HOF / San Francisco Despised' / affinity 'COMPLEX' — eighteenth COMPLEX in the set. Antonelli's is the most institutionally constructed COMPLEX in the set: every obstacle was placed by the institution he was trying to succeed in. His bonus was the largest in baseball history; the rule that governed it made him a pariah. His own teammates voted him out of the WS share. His own team's ace — Warren Spahn — recommended he be traded. The club listened. In 1954, the year after the trade, Antonelli went 21-7 and led the NL in ERA. He beat Spahn twice. He won the WS. He was the Sporting News Pitcher of the Year. The SABR biography notes that Antonelli was, at one point, 'one of the most despised players in San Francisco Giants history' — the second iteration of the COMPLEX, in which his unhappiness on the West Coast produced a decline that undid some of the 1954 vindication. He is not in the HOF. Career WAR 36.7, 126-110, 12 seasons. The HOF case exists on the margins. Hotel/Rest domain: the private calculation of a man who was on the outside of the institution that employed him for most of his career and had the best year of his life when someone else's judgment put him somewhere new."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "IDENTITY",
+      "note": "The Italian-American immigrant son. The Chase Hotel incident — the player rep who told the hotel to let his Black teammates into the restaurant or the Giants would move, without informing ownership.",
+      "note_extra": "Source labeled 'Italian American Immigrant Son / Gus Antonelli 1913 Immigrant / Rochester Italian American Community / Chase Hotel St Louis 1950s / Black Teammates Restaurant / Player Rep Action Without Ownership / Giants Would Move / No Announcement No Credit' / affinity 'IDENTITY' — seventh IDENTITY in the set (after Robinson, Doby, Miñoso, Mays, Campanella, Newcombe). Antonelli's IDENTITY is the quietest in the set — not the documentary record of integration firsts, but a single action by the player rep who grew up in Rochester's Italian immigrant community and arrived in a major league baseball world that was still deeply segregated off the field. He told the Hardball Times writer: growing up in Rochester's immigrant enclave, he was unaware of racial segregation until he arrived in the majors. He was shocked by how his Black teammates were treated, especially when they traveled in the South. In St. Louis in the 1950s, staying at the Chase Hotel, the hotel would not allow his Black teammates in the restaurant. Antonelli told the hotel manager that if they didn't allow them in, the Giants would move. He did not consult team ownership. He did not announce it publicly. It is documented in SABR research as a quiet act of solidarity by a man who was himself from an immigrant community that understood what it meant to be on the outside of a system's ordinary procedures. Community Events domain: the Italian-American community of Rochester, the immigrant father's railroad work, the son who acted when the institution didn't."
+    },
+    {
+      "location": "Home",
+      "affinity": "HIGH",
+      "note": "Rochester, New York. The Firestone tire shop. The Red Wings board. The Italian-American Businessmen's Buick. The family he wanted to be home with.",
+      "note_extra": "Source labeled 'Rochester NY / Firestone Tire Shop WS Bonus 1954 / 40 Years Business / Red Wings Board / Italian American Businessmen Buick / Retired Not Mets / Tired of Traveling / Family / Challenger Miracle Field Fund' / affinity 'HIGH' — thirtieth HIGH in the set. Antonelli's is the most precisely realized HIGH in the set — the man who always knew where home was and chose it over everything. After the 1954 WS, he invested his World Series bonus in a Firestone tire distributorship in Rochester. He ran it for 40 years and sold it in 1994. He served on the Rochester Red Wings (Triple-A) board of directors. He was given a Buick by the local Italian-American Businessmen's Association after the 1954 championship. When the 1962 Mets offered him a contract, he declined. His stated reason: 'I quit baseball because I did not like traveling. Not for any other reason. I had no injuries or anything. I had had my fill of traveling.' He wanted to be home with his family. He was. His widow Gail established the Johnny Antonelli Memorial Equipment Fund for the Challenger Miracle Field of Greater Rochester after his death in 2020. Home domain: Rochester is not just where he was born and died but where every significant decision pointed."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "The Best Break of My Career — first season with any new franchise generates a +0.5 ERA bonus (change-of-scenery chip-on-shoulder effect).",
+      "The Good Lord Was on My Side — once per WS, STF treated as 4 for run-prevention rolls even on below-average-stuff days.",
+      "The Changeup — against SPD 2+ aggressive contact hitters, ERA reduced by 0.3 per at-bat.",
+      "The Silver Stadium Showcase — in first career appearance in major settings (WS, All-Star), STF rises from 3 to 4.",
+      "CLU 2 WS history — solid postseason contributor who performed well in the one championship he reached."
+    ],
+    "cold_triggers": [
+      "STF 3 — limited raw stuff. Without the changeup advantage and the CTL 4 control, the baseline velocity is ordinary.",
+      "STA 3 — not a 280-inning workhorse. The Army service and pneumonia and West Coast unhappiness all left marks.",
+      "San Francisco COMPLEX — when playing outside of New York/New England contexts, the COMPLEX marker activates a -0.5 CLU penalty (the documented unhappiness in San Francisco contributed to his 1960 decline).",
+      "Not in HOF — career WAR 36.7 places him on the margins; ILB reflects this as a 0.5 CLU penalty in any simulated HOF consideration event."
+    ],
+    "pressure_response": "Documented positively for the single biggest moment of his career: Game 2 of the 1954 WS, facing Early Wynn, giving up a leadoff HR on the first pitch, and then not allowing another run for eight innings. 'The Good Lord was on my side that game. I do not think I had my best stuff that day.' The pressure response was quiet competence — not Burdette's three CGs and two shutouts, but nine solid innings on a day he didn't feel right, in the most important game he had ever pitched, with a championship on the line. He won 3-1."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Silver Stadium Showcase",
+      "type": "Origin",
+      "text": "June 1948. Gus Antonelli rents Silver Stadium in Rochester, New York — home of the Triple-A Rochester Red Wings — and invites nine major league scouts to watch his son pitch. Seven thousand fans attend. Johnny Antonelli, 17 years old, ink barely dry on his Jefferson High School diploma, strikes out 17 batters and throws a no-hitter against a strong semipro team. Braves scout Jeff Jones calls club president Lou Perini: 'He is by far the best big-league prospect I have ever seen.' Nine teams want him. The Braves pay $65,000 — the largest signing bonus in baseball history. His bonus exceeds the combined 1948 salaries of Warren Spahn and Johnny Sain. Sain threatens to quit. Johnny Antonelli is 18 years old and has never pitched a professional game.",
+      "origin": "The Silver Stadium showcase is documented in the SABR BioProject, the Hardball Times piece, and multiple secondary sources. The $65,000 bonus as the largest in baseball history at the time is documented. Sain's walkout threat and subsequent $30,000 raise are documented."
+    },
+    {
+      "title": "The Commissioner's $571",
+      "type": "Drama",
+      "text": "October 1948. The Boston Braves have won the National League pennant. Johnny Antonelli, 18 years old, has pitched 3 innings all season. His teammates vote on the World Series share distribution. Antonelli is not voted a share. He is given nothing. Commissioner Happy Chandler intervenes. Antonelli receives $571.34. The bat boys each received more than $400 apiece. The pitcher who received the largest signing bonus in baseball history, who is making more than Warren Spahn and Johnny Sain combined, has been given less than the bat boys. The Commissioner decided this was not appropriate. The clubhouse had decided it was.",
+      "origin": "The WS share vote excluding Antonelli and the Commissioner's $571.34 intervention are documented in the Baseball Almanac and multiple sources. The specific amount ($571.34) and the bat boys' comparison are documented."
+    },
+    {
+      "title": "Forty-Two and Two",
+      "type": "Origin",
+      "text": "1951-1952. Johnny Antonelli is drafted into the United States Army. Korean War. He is assigned to Fort Myer, Virginia, where he pitches for the base baseball team. He goes 42-2. He wins 42 games and loses 2. These are the minor league seasons the bonus rule denied him — two years of development in Army khakis, against competition that is not quite major league, against pitching situations that are not quite games, but that are close enough to turn a talented teenager who never played in the minors into a starter who will win 21 games in the majors. The Army did accidentally what the Boston Braves' management refused to do deliberately.",
+      "origin": "The Fort Myer 42-2 record is documented in multiple sources. The context of the Army service as substitute minor league development — denied by the bonus rule — is documented in the SABR BioProject and the Call to the Pen piece."
+    },
+    {
+      "title": "The Good Lord Was on My Side",
+      "type": "Game Action",
+      "text": "October 2, 1954. Polo Grounds. Game 2 of the World Series. Al Smith leads off the game against Johnny Antonelli and hits a home run on the first pitch. The score is 1-0 Cleveland. Antonelli gets back to the mound and does not allow another run for eight innings. He scatters eight hits. He strikes out nine Indians. He beats Hall of Famer Early Wynn 3-1. Afterward, in the clubhouse, he says: 'The Good Lord was on my side that game. I do not think I had my best stuff that day.' He pitched nine innings. He won. He had the championship. He did not have his best stuff. That is what he had to say about it.",
+      "origin": "Game 2 box score and Antonelli's WS line are documented. Al Smith's leadoff HR is documented. Antonelli's quote about not having his best stuff is from the Wikipedia article citing the SABR BioProject."
+    },
+    {
+      "title": "If You Don't Let Them In",
+      "type": "Character",
+      "text": "The 1950s. The New York Giants are in St. Louis to play the Cardinals. They are staying at the Chase Hotel. The Chase Hotel does not allow African American players in the restaurant. They are required to eat in the kitchen. Johnny Antonelli is the Giants' player representative. He does not consult team ownership. He does not make an announcement. He tells the hotel manager: if you do not allow my Black teammates into the restaurant, the Giants will move to another hotel. He grew up in Rochester's Italian immigrant community. He was unaware of racial segregation until he arrived in the major leagues. He was shocked by how his Black teammates were treated. He made the call.",
+      "origin": "The Chase Hotel incident and Antonelli's role as player rep making the decision without informing ownership are documented in the Hardball Times piece citing SABR research. Antonelli's statement about growing up unaware of segregation and being shocked by how his Black teammates were treated is documented."
+    },
+    {
+      "title": "The Black Doughnuts",
+      "type": "Legacy",
+      "text": "After the 1961 season, the expansion New York Mets buy Johnny Antonelli's contract from the Milwaukee Braves. Antonelli is 31. He says he is tired of traveling and wants to be home with his family. He retires. He goes back to Rochester and runs the Firestone tire shop he opened with his 1954 World Series bonus. He runs it for 40 years. Casey Stengel, the new Mets manager, says: 'I guess Johnny Antonelli is doing alright selling those black doughnuts in Rochester.' He was. He sold the business in 1994. He served on the Rochester Red Wings board. He died in Rochester on February 28, 2020, at age 89. He had been right about the traveling.",
+      "origin": "Antonelli's retirement decision and stated reason are documented. Casey Stengel's quote about the black doughnuts is documented in the MPL blog piece. The 40-year Firestone business (sold 1994), the Red Wings board service, and his death in Rochester in 2020 are documented."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'1'', 185 lbs — left-handed, the first lefty in the set. In 1954 he is 24 years old at the peak of his career: 21-7, NL ERA leader, Sporting News Pitcher of the Year. The face of a man who came from Rochester, got ostracized by Spahn, spent two years in the Army, returned to win the ERA title and the championship, and called it the best break of his career. Carl Hubbell said he was one of the most balanced pitchers he had seen. The balance is visible.",
+    "attire": "New York Giants home whites — the distinctive Giants script, the left-handed delivery pose. The changeup grip is the signature: the pitch Stan Musial said made him outstanding in his 20-win peak. The southpaw angle distinguishes him immediately from every other pitcher card in the set.",
+    "mood": "Quiet self-possession. Not Burdette's calculated agitation or Newcombe's contained power — Antonelli's is the calm of a man who had been told he wasn't wanted and went 21-7 anyway. Red Smith described the 1954 Giants' rotation as capable of inducing dread in opposing hitters; Antonelli was the rotation's leading ERA. The portrait should show the pitcher who won Game 2 of the WS on a day he didn't have his best stuff.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. The Polo Grounds visible in the background — the ballpark where the 1954 championship was built, where the last ERA title in New York Giants history was won, before the team moved to San Francisco and the championship moment became history.",
+    "reference": "The defining visual element is the left hand — the first southpaw in the set. The changeup grip, the balanced delivery Carl Hubbell recognized as exceptional, the craftsman's precision of a 2.30 ERA season. The portrait is the NL ERA champion at 24, on the mound, with the Polo Grounds behind him."
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "card_type": "player",
+  "name": "Smoky Burgess",
+  "nickname": "Smoky / The Round Man / The Walking Laundry Bag",
+  "year": 1960,
+  "team": "Pittsburgh Pirates",
+  "league": "National League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "C",
+  "bats": "L",
+  "throws": "R",
+  "height": "5'8\"",
+  "weight": "187 lbs",
+  "born": "February 6, 1927 — Caroleen, NC",
+  "died": "September 15, 1991",
+  "hof": "Not inducted",
+
+  "real_stats": {
+    "season": 1960,
+    "games": 105,
+    "at_bats": 275,
+    "hits": 81,
+    "doubles": 12,
+    "triples": 2,
+    "home_runs": 7,
+    "rbi": 39,
+    "stolen_bases": 0,
+    "runs": 26,
+    "batting_avg": ".294",
+    "obp": ".381",
+    "slg": ".418",
+    "ops": ".799",
+    "ops_plus": 110,
+    "war": 2.4,
+    "all_star": 6,
+    "awards": "Six-time All-Star (nine All-Star game appearances due to dual game era). 1960 World Series champion (Pittsburgh Pirates). WS line: .333 BA (6-for-18) in 5 games — Pirates were 4-1 in games Burgess played. NL catchers fielding percentage leader 1953 (.993), 1960 (.994), 1961 (.991). Career-best .368 BA in 1954 (would have led NL by wide margin had he qualified; led NL in OBP at .432 that season). Career ML record 145 pinch hits (held until broken by Manny Mota in 1979; currently fourth all-time). 16 career pinch-hit HR. 147 career pinch-hit RBI. In 1964, became the only player to make the All-Star team primarily on the basis of pinch-hitting ability. Led AL in pinch hits 1965 and 1966 with the White Sox (hitting .286 and .313 at ages 38-39). Career 477 walks vs. only 270 strikeouts — exceptional plate discipline for a power hitter across 18 seasons. Caught all 13 innings of Harvey Haddix's 12-perfect-innings game on May 26, 1959. Joe Garagiola: 'You could wake Burgess up at 3 a.m. on Christmas morning, with two inches of snow on the ground, throw him a curveball, and he would hit a line drive.'",
+    "world_series": "1960 WS champion (Pittsburgh Pirates defeated New York Yankees 4-3). Burgess hit .333 (6-for-18, 1 double) in 5 of 7 games. Pirates were 4-1 in games he played; 0-2 in games he did not (the two 10-0+ losses). Game 7: Burgess led off the 7th inning with a single off Bobby Shantz, then was replaced by pinch-runner Joe Christopher. He never saw the field again as Hal Smith hit a 3-run HR to give Pittsburgh a 9-7 lead, and Bill Mazeroski ended the Series with a walkoff HR off Ralph Terry. Burgess on the speaking circuit: 'I got a hit off of Bobby Shantz. Everybody can hit a home run off Ralph Terry.'",
+    "career_avg": ".295",
+    "career_hits": 1318,
+    "career_hr": 126,
+    "career_war": 25.1,
+    "career_rbi": 673,
+    "career_notes": "18 MLB seasons (1949-1967). Chicago Cubs (1949, 1951), Philadelphia Phillies (1952-1955), Cincinnati Reds (1955-1958), Pittsburgh Pirates (1959-1964), Chicago White Sox (1964-1967). .295 career BA, .362 OBP, 477 walks vs. 270 K in 1,691 games. Career pinch-hit record 145 (broken 1979). After playing career: ran car dealership in North Carolina; later scout and coach in Atlanta Braves organization. Inducted Cincinnati Reds Hall of Fame 1975, North Carolina Sports Hall of Fame 1978. Died September 15, 1991, age 64. Statue unveiled in hometown November 9, 2024."
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 4,
+    "pow": 2,
+    "spd": 0,
+    "def": 2,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": ".295 career BA, .362 career OBP, 477 walks vs. 270 strikeouts across 18 seasons. The walk/strikeout ratio is exceptional — a 1.76:1 walk-to-strikeout ratio across a long power-hitting career. Card year .294, OPS+ 110. Career peak .368 in 1954 with NL-leading .432 OBP. CON 4 is accurate for the contact-first catcher: below Campanella's CON 5 (the pure peak catcher) but clearly above the CON 3 power hitters. Joe Garagiola's quote encodes the CON 4 mechanically: the ability to hit a curveball on Christmas morning at 3 a.m. is the contact hitter's skill, not the power hitter's. The set's best contact catcher below Campanella.",
+    "pow": "7 HR in 1960. Career 126 HR over 18 seasons. Career high 21 HR in 1955. 16 pinch-hit HR (career record at time of retirement). POW 2 reflects real but secondary power — he could hit the home run when needed but the bat was built for contact, not power. Between Campanella's POW 5 and a pure contact bat. The 16 career pinch-hit HR required genuine pop; he just didn't have Campanella's volume.",
+    "spd": "0. Described as 'portly, slow, and too valuable to get injured on the base paths.' He was routinely replaced by pinch-runners. In Game 7 of the 1960 World Series, he singled and was immediately replaced by Joe Christopher. He sat in the dugout while Mazeroski hit the walkoff. SPD 0 is the accurate rendering of a catcher who had size 6.5 feet and a 38-inch waistline.",
+    "def": "Led NL catchers in fielding percentage three times (1953, 1960, 1961). Career .988 fielding percentage. Caught all 13 innings of Harvey Haddix's perfect game bid on May 26, 1959. Army jeep accident weakened his throwing arm and his throws to second early in his career bounced past the pitcher's mound. Improved significantly over time. Burgess himself: 'I am no Roy Campanella. Campy could do things I cannot. He was always able to keep the ball in front of him. He was quick. When pitchers throw the ball in the dirt to me, it always seems to carom off my shins to the left or right. But I will tell you one thing. I am not as bad a catcher as most people think.' DEF 2 is the self-assessment made mechanical: solid, not gifted, improved from early career.",
+    "clu": "2. 1960 World Series champion. .333 in the WS, 5 games played. Pirates went 4-1 when he played. The Game 7 single off Bobby Shantz to lead off the 7th inning. CLU 2 is the WS champion's assessment — one ring, meaningful individual WS contribution, not the MVP-level CLU 3. His speaking-circuit joke captures the CLU 2 precisely: he got the single, someone else got the HR, the championship is still his."
+  },
+
+  "personality": {
+    "leadership_style": "The chatterbox behind the plate. He ran the pitching staff through conversation — telling hitters what was coming (to distract them), heckling his own teammates (to keep them sharp), and generally maintaining a verbal environment that made everyone in the park think about what he was saying. Richie Ashburn asked the umpire for a rule to make him shut up. There isn't one.",
+    "temperament": "Jovial and self-aware about his limitations without being bothered by them. 'If they get on me, that means they're leaving somebody else alone.' He gave the most honest self-assessment of any catcher in the set: 'I am no Roy Campanella.' He also said he wasn't as bad as people thought. Both were true. He worked for 18 years in a position that required athleticism from a body that inspired comparisons to laundry bags. He hit .295. He got the hit off Bobby Shantz. He was not bothered.",
+    "work_ethic": "18 seasons. 477 walks. 270 strikeouts. You learn to hit by swinging the bat — that's what Forrest Hunt told him and what he did for 18 years. At 38-39 he was hitting .286 and .313 as a pinch hitter for the White Sox. The career pinch-hit record was built one appearance at a time, often with the game on the line, off pitchers who knew he was coming.",
+    "lifestyle": "Caroleen, North Carolina to the major leagues and back to North Carolina. He worked in the cotton mill at 16 to support his family. He became a catcher because his favorite player, Bill Dickey, was a catcher. He ate too much in the Army and became Smoky Burgess. He ran a car dealership in North Carolina after baseball. He coached and scouted for the Atlanta Braves. He died at 64 in 1991. A statue was unveiled in his hometown in November 2024.",
+    "era_adaptability": "The elite contact catcher (CON 4 at C) and pinch-hit specialist are both completely era-neutral. The specific skill — hitting any pitch, in any situation, having not swung a bat in days or weeks — is if anything more valued in the modern era, where the DH and pinch-hit roles are carefully managed. The 477 walk, 270 strikeout ratio would generate enormous OBP value in a modern analytical context. The body type is the only era-specific element.",
+    "dark_side": "He was in the dugout when Mazeroski hit the walkoff. He had given the hit that started the rally. He was then replaced by Joe Christopher because he could not run the bases. He sat and watched. The CLU 2 is the medal; the pinch-runner is the cost. He turned it into a speaking-circuit joke. That is the dark side of being Smoky Burgess: the most important things happen while you're sitting down."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Three in the Morning",
+      "desc": "Joe Garagiola: 'You could wake Burgess up at 3 a.m. on Christmas morning, with two inches of snow on the ground, throw him a curveball, and he would hit a line drive.' In ILB, Burgess's CON 4 activates a Pinch-Hit Guarantee: when inserted as a pinch hitter in any situation regardless of game context (leading, trailing, tied, clutch, non-clutch), his CON is treated as 5 for that single at-bat. He cannot be caught sleeping. The Christmas morning guarantee applies.",
+      "note": "The Garagiola quote is the most succinct statement of a player's essence in the set. It replaces all statistical qualification with a single image."
+    },
+    {
+      "tag": "I Got a Hit Off Bobby Shantz",
+      "desc": "Game 7, 1960 World Series. Burgess singles off Bobby Shantz to lead off the 7th inning. He is replaced by pinch-runner Joe Christopher. Mazeroski hits the walkoff HR off Ralph Terry in the 9th. On the speaking circuit, Burgess says: 'I got a hit off of Bobby Shantz. Everybody can hit a home run off Ralph Terry.' In ILB, when Burgess reaches base in any WS game and is replaced by a pinch-runner, the pinch-runner's subsequent baserunning generates a +0.3 run-scoring probability for the remainder of the game. The single matters even after the man who hit it is no longer on the field.",
+      "note": "Burgess's speaking-circuit joke encodes the CLU 2 philosophy: the contribution was real, someone else got the glory, the ring belongs to both of them."
+    },
+    {
+      "tag": "The Chatterbox",
+      "desc": "Burgess was the world-champion dugout heckler. From behind the plate, he would tell batters what pitch was coming. From the dugout, he was Richie Ashburn's particular tormentor: 'Get ready, Rich; it is a fastball.' Then: 'You did not do too well on the fastball, Richie; let us try a curve.' Ashburn asked the umpire: 'Is there not some rule that will make that guy shut up?' In ILB, once per game, Burgess may declare a Chatter at a specific opposing batter: that batter's CON is reduced by 0.5 for their next two at-bats (the chatter activates whether or not the information is accurate).",
+      "note": "The Ashburn heckling is documented in the Baseball Almanac and BR Bullpen. Burgess was known on multiple teams for this behavior. The chatter was not limited to his catcher's crouch — it was an all-game activity."
+    },
+    {
+      "tag": "I Caught Every Pitch",
+      "desc": "May 26, 1959. Harvey Haddix pitched 12 perfect innings against the Milwaukee Braves. Smoky Burgess caught every pitch — all 36 perfect outs, then the 13th inning, then the Braves' walk-off. Lew Burdette, pitching for Milwaukee, won the game 1-0 with 12 hits allowed. Haddix asked for the game ball. Burgess caught every pitch of the greatest game ever pitched and lost. In ILB, when Burgess catches any pitcher who achieves 9+ perfect innings (no base runners), Burgess's DEF 2 generates a Perfect Game Stabilizer: passed balls and wild pitches roll at half the normal rate for the duration of the perfect game bid. He caught every pitch. He can catch perfect.",
+      "note": "Burgess was the catcher of record for both the May 26, 1956 near no-hitter (three Reds pitchers held the Braves hitless for 9+ innings before losing in the 11th) and the May 26, 1959 Haddix game — two historically heartbreaking near-perfections, exactly three years apart to the day."
+    },
+    {
+      "tag": "Not as Bad as They Think",
+      "desc": "Burgess's self-assessment: 'I am no Roy Campanella. Campy could do things I cannot. He was always able to keep the ball in front of him. He was quick. When pitchers throw the ball in the dirt to me, it always seems to carom off my shins to the left or right. But I will tell you one thing. I am not as bad a catcher as most people think.' In ILB, Burgess's DEF 2 generates a baseline that is specifically not penalized by the low reputation: any negative DEF modifier applied by opposing strategy cards is reduced by half, because the chatter and the reputation absorb the damage that should go to the actual defense.",
+      "note": "He led NL catchers in fielding percentage three times despite the reputation as a defensive liability. The self-awareness is the key: knowing exactly where you stand without being deflated by others' assessments."
+    },
+    {
+      "tag": "The Cotton Mill",
+      "desc": "At 16, Burgess worked in the cotton mill in Caroleen to support his family while his father was sick and his brothers were in service. He later said: 'If I had not played baseball, I would have probably had to work in the cotton mills. That is real hard work. I am certainly glad I had baseball.' In ILB, the Cotton Mill trait encodes the stakes: in any season simulation, if Burgess's team finishes last or his individual performance falls below replacement level (.295 baseline), his next season's CON automatically rebounds to 4 (the floor set by what he was pitching against). He knew what the alternative was. He did not fall below it for long.",
+      "note": "Burgess's quote about the cotton mills is from the BR Bullpen, cited from The Phillies Encyclopedia. The industrial landscape of Caroleen, NC — a textile mill town — is the ORIGIN context."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballpark",
+      "affinity": "SACRED",
+      "note": "Forbes Field / the 1960 World Series / the Mazeroski walkoff / the 7th-inning single off Bobby Shantz / 'I got a hit off of Bobby Shantz.'",
+      "note_extra": "Source labeled 'Forbes Field / 1960 World Series Champion / .333 WS BA / 4-1 Pirates When Burgess Played / Game 7 7th-Inning Single Bobby Shantz / Pinch Runner Joe Christopher / Mazeroski Walkoff / Dugout When It Happened / Speaking Circuit Joke' / affinity 'SACRED' — thirty-fourth SACRED in the set. Burgess's is the most publicly self-aware SACRED in the set: the man who knew he was in the dugout when the most famous moment happened, who had already made the contribution that mattered, and who turned the sequence into the best self-deprecating WS line in the set. Forbes Field is the location. October 13, 1960 is the date. His 7th-inning single off Bobby Shantz (a Hall of Fame-caliber pitcher, not a setup man) is the contribution. He was replaced by Joe Christopher because he could not run. He sat in the dugout. Hal Smith hit a 3-run HR. Mazeroski hit the walkoff. The Pirates were 4-1 in the five games Burgess played and 0-2 in the two he did not. The SACRED is not the walkoff HR — that belongs to Mazeroski. The SACRED is the single, the substitution, the dugout, and the joke that turned the sequence into the most honest account of a WS contribution in the set. Ballpark domain."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Caroleen, North Carolina / cotton mill at 16 / Forrest Hunt's advice / the father's nickname passed to the son / Cardinals deal voided by Landis / Cubs signing to protect brother Grady.",
+      "note_extra": "Source labeled 'Caroleen North Carolina / Rutherford County / Cotton Mill Age 16 / Father Sick Brothers In Service / Forrest Hunt Never Hit Unless Swing Bat / Father Lloyd Semipro Smoky on Basepaths / Cardinals Deal Voided Landis 1943 / Cubs Signed 1944 Brother Grady / Army Postal Clerk Germany Ate Too Much Jeep Shoulder' / affinity 'ORIGIN' — thirty-seventh ORIGIN in the set. Burgess's is the most economically direct ORIGIN in the set: the textile mill town, the family working through hard times, the 16-year-old in the cotton mill, the coach's advice that gave him a career. Forrest Hunt — himself a former catcher in the Yankees minor league system — told him: 'You will never be a hitter unless you swing the bat.' He swung the bat for 18 years and hit .295. His father Lloyd was known as 'Smoky' for his speed on the bases; the nickname passed to the son who would become famous for not running at all. Commissioner Landis voided his Cardinals deal in 1943 (too young — the fourth Dreamers 1950 player to have a Landis-voided deal, alongside Antonelli, Ashburn, Simmons). He signed with the Cubs largely because, he said, the Cubs were interested in his brother Grady; Grady had great promise but didn't want to leave home. The Army: he was made a postal clerk in Germany, ate too much, didn't exercise ('I'd just hand the boys out their mail'), got into a jeep accident that weakened his throwing arm, and became the round man who caught for 18 years. Community Events domain."
+    },
+    {
+      "location": "Dugout/Bench",
+      "affinity": "VOLATILE",
+      "note": "The chatter. Ashburn asking the umpire for a rule to make him stop. Telling hitters what pitch was coming. The world-champion heckler of his era.",
+      "note_extra": "Source labeled 'Chatterbox Catcher / Dugout Heckler / Richie Ashburn Favorite Target / Get Ready Rich Fastball / You Did Not Do Well Fastball Try Curve / Is There Not Some Rule / Told Hitters Pitches / World Champion Heckler' / affinity 'VOLATILE' — sixth VOLATILE in the set (after Roberts's HR philosophy, Furillo's headlock, Wynn's brushback, Newcombe/Berra RIVAL, Burdette's spitball). Burgess's VOLATILE is the most comedic in the set and the only one that operates through words rather than actions. From behind the plate he would tell batters what pitch was coming — not as a genuine tip but as a distraction, a psychological edge that made them think instead of react. From the dugout, he targeted Richie Ashburn specifically: 'Get ready, Rich; it is a fastball.' Ashburn would pop up. Burgess: 'You did not do too well on the fastball, Richie; let us try a curve.' Ashburn to the umpire: 'Is there not some rule that will make that guy shut up?' The rule does not exist. The Baseball Almanac describes him as 'some catchers like to chatter at the hitters to see if they can mess them up while they're trying to hit — Smoky was the world's champion.' The VOLATILE is not anger or violence but relentless verbal friction that occupied the mental space other pitchers and catchers needed. Dugout/Bench domain: the chatter lives on the bench and in the crouch, not in the field."
+    },
+    {
+      "location": "Dugout/Bench",
+      "affinity": "CODA",
+      "note": "The pinch-hitting years. ML record 145 career pinch hits. Still hitting .286 and .313 at 38-39. The only player to make the All-Star team primarily as a pinch hitter. 'You could wake him up at 3 a.m. on Christmas morning.'",
+      "note_extra": "Source labeled 'ML Pinch Hit Record 145 / 16 Pinch Hit HR / AL Pinch Hits Leader 1965-1966 / .286 and .313 Age 38-39 / Only Player All-Star Primarily Pinch Hitter / 3AM Christmas Morning Curveball Line Drive / Career 477 Walks 270 Strikeouts / Portly Slow Too Valuable Base Paths' / affinity 'CODA' — tenth CODA in the set (after Brecheen, Kuenn, Fox, Raschi, Hodges, Roberts, Ashburn, Newcombe, Simmons). Burgess's is the most specialized CODA in the set: the second career that developed inside the first career. As his catching declined (the arm, the speed, the age), his pinch-hitting value concentrated and intensified. He became the prototype of the specialist who exists only to hit — portly, slow, too valuable to run. When he retired in 1967, he held the ML career record for pinch hits with 145, having shattered the previous record of 114. He was the AL pinch-hit leader in 1965 and 1966 at ages 38 and 39, hitting .286 and .313. In 1964, he became the only player in history to make the All-Star team primarily because of pinch-hitting ability. Joe Garagiola's quote is the CODA document: 'You could wake Burgess up at 3 a.m. on Christmas morning, with two inches of snow on the ground, throw him a curveball, and he would hit a line drive.' Dugout/Bench domain: the CODA lives in the dugout — the bench player who was not the starter but who was the most dangerous person in the building with a bat in his hand."
+    },
+    {
+      "location": "Home",
+      "affinity": "HIGH",
+      "note": "Caroleen, North Carolina. The cotton mill he escaped. The car dealership after baseball. The Braves coaching. The statue unveiled November 9, 2024.",
+      "note_extra": "Source labeled 'Caroleen North Carolina / Cotton Mill at 16 / Escaped Baseball / Car Dealership After Career / Atlanta Braves Scout Coach / North Carolina Sports Hall of Fame 1978 / Rutherford County Sports Hall of Fame 2017 / Statue November 9 2024 Hometown / If Not Baseball Cotton Mills Real Hard Work' / affinity 'HIGH' — thirty-third HIGH in the set. Burgess's is the most economically grounded HIGH in the set: the escape from the cotton mills is specific and documented. He said: 'If I had not played baseball, I would have probably had to work in the cotton mills. That is real hard work. I am certainly glad I had baseball.' He went back to Caroleen after his career. He ran a car dealership. He coached in the Braves' minor league system. He was inducted into the North Carolina Sports Hall of Fame in 1978 and the Rutherford County Sports Hall of Fame in 2017 as part of its inaugural class. On November 9, 2024, a statue of him was unveiled in his hometown — 33 years after his death, 97 years after his birth in a cotton mill town in the foothills of the Smoky Mountains. Home domain: Caroleen is the fixed point of the entire career — the place the career was for, the place he returned to, the place that claimed him in bronze three decades after he was gone."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Three in the Morning — as pinch hitter, CON is treated as 5 regardless of game context. The Christmas morning guarantee.",
+      "I Got a Hit Off Bobby Shantz — when reaching base in a WS game and replaced by pinch-runner, that runner's subsequent baserunning generates +0.3 run-scoring probability for the game.",
+      "CON 4 at C position — the highest contact rating for a catcher in the set except Campanella (CON 5). The bat is always the weapon.",
+      "477 walks, 270 strikeouts — plate discipline generates walk probability at 1.5× the standard rate for his slugging tier."
+    ],
+    "cold_triggers": [
+      "SPD 0 — he is pinch-run for. Always. This is not a metaphor.",
+      "POW 2 — the power is secondary. He hit 7 HR in 1960 at the peak of his Pirates career. The bat wins by contact, not by distance.",
+      "The Arm — the jeep accident in Germany weakened his throwing arm; stolen base attempts against Burgess roll with +0.3 success probability for the runner.",
+      "CLU 2 — one ring, meaningful contribution, the joke on the speaking circuit. Not the Burdette/Campanella/Snider elite CLU 3 tier."
+    ],
+    "pressure_response": "The Garagiola Quote is the pressure response: you cannot surprise him, you cannot catch him unprepared, the curveball at 3 a.m. is what he lives for. The 1960 WS .333 average. The career pinch-hit record built one clutch situation at a time. The pressure response is the entire second half of his career — 18 seasons of being the man they call when they need a hit, who delivers the hit, who is then pinch-run for, who sits in the dugout while someone else gets the walkoff."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "You Will Never Be a Hitter Unless You Swing the Bat",
+      "type": "Origin",
+      "text": "Forrest Hunt coached at Tri High School in Caroleen, North Carolina. He had been a catcher in the New York Yankees minor league system. He tells Smoky Burgess one piece of advice that Burgess will carry for 18 years: 'You will never be a hitter unless you swing the bat.' Burgess swings the bat. He hits .295 for his career. He walks 477 times and strikes out only 270 times. He accumulates 145 career pinch hits. He hits .333 in the World Series at age 33. He hits .286 and .313 at ages 38 and 39. He is never not a hitter. He swings the bat.",
+      "origin": "Forrest Hunt's advice is documented in the SABR BioProject. The advice being the foundational piece of Burgess's hitting approach is from the SABR biography."
+    },
+    {
+      "title": "I Caught Every Pitch",
+      "type": "Historic Feat",
+      "text": "May 26, 1959. Harvey Haddix of the Pittsburgh Pirates pitches 12 perfect innings against the Milwaukee Braves. Smoky Burgess catches every pitch. In the 13th inning, the Braves win 1-0. Lew Burdette, who had scattered 12 hits, asks for the game ball. Haddix asks for the game ball. Burgess had caught every pitch of the greatest game ever pitched and lost. He had been the catcher of record on May 26, 1956, when three Cincinnati pitchers held the Braves hitless for 9+ innings before losing in the 11th inning. Three years to the day. He caught perfect — both times — and watched perfect lose — both times.",
+      "origin": "The Haddix game is documented. Burgess catching all 13 innings is documented across multiple sources. The three-years-to-the-day parallel (May 26, 1956 near no-hitter) is documented in the SABR BioProject."
+    },
+    {
+      "title": "Get Ready, Rich; It's a Fastball",
+      "type": "Character",
+      "text": "From the catcher's crouch or from the dugout, Smoky Burgess is talking. He tells batters what pitch is coming. He tells his own teammates what pitch is coming. Richie Ashburn is his favorite target. 'Get ready, Rich; it is a fastball.' Ashburn pops up. Burgess: 'You did not do too well on the fastball, Richie; let us try a curve.' Of course Ashburn cannot believe him and cannot ignore him. Ashburn turns to the umpire: 'Is there not some rule that will make that guy shut up?' There is no such rule. Burgess is still talking.",
+      "origin": "The Ashburn/Burgess chatter exchange is documented in the Baseball Almanac, citing The New Bill James Historical Baseball Abstract. The world-champion heckler designation is from the BR Bullpen."
+    },
+    {
+      "title": "I Got a Hit Off Bobby Shantz",
+      "type": "Legacy",
+      "text": "For the rest of his life, when asked about the 1960 World Series Game 7, Smoky Burgess tells the same story: he led off the 7th inning with a single off Bobby Shantz. He was replaced by a pinch-runner. He sat in the dugout. He watched Hal Smith hit a 3-run home run. He watched the Yankees tie it back up. He watched Bill Mazeroski hit the walkoff home run off Ralph Terry to give the Pittsburgh Pirates the World Series. Burgess says: 'I got a hit off of Bobby Shantz. Everybody can hit a home run off Ralph Terry.' Bobby Shantz was a Hall of Fame-caliber pitcher. Ralph Terry served up the most famous home run in baseball. Burgess hit off the difficult one. Someone else got the memorable one. He got the ring.",
+      "origin": "Burgess's speaking-circuit quote is documented in the SABR BioProject. The Game 7 sequence (his single, the pinch-runner, Hal Smith's HR, Mazeroski's HR) is documented in multiple sources. Bobby Shantz's career is documented."
+    },
+    {
+      "title": "Three in the Morning",
+      "type": "Legacy",
+      "text": "Joe Garagiola tells Rick Cushing: 'You could wake Burgess up at 3 a.m. on Christmas morning, with two inches of snow on the ground, throw him a curveball, and he would hit a line drive.' At 38 years old, Smoky Burgess hits .286 for the Chicago White Sox as a pinch hitter. At 39, he hits .313. He is portly, slow, and too valuable to get injured on the base paths. He has not played catcher in any significant way for years. He holds the Major League career pinch-hit record with 145. The pitchers know he is coming. The pitchers know they cannot throw a pitch past him. The pitchers throw the pitch anyway. He hits the line drive.",
+      "origin": "Garagiola's quote is documented in the SABR BioProject, citing Rick Cushing's book. Burgess's 1965-1966 White Sox batting averages (.286 and .313) are documented. His career pinch-hit record of 145 is documented."
+    },
+    {
+      "title": "The Cotton Mill",
+      "type": "Origin",
+      "text": "Caroleen, North Carolina. 1943. Smoky Burgess is 16 years old. His father is sick. His brothers are in service. He goes to work in the cotton mill to help support the family. He plays baseball when he can. The Cardinals want to sign him; Commissioner Landis voids the deal because he is too young. The Cubs sign him in 1944 instead. He eventually says: 'If I had not played baseball, I would have probably had to work in the cotton mills. That is real hard work. I am certainly glad I had baseball. Everything went well, I have no regrets. I do not know a thing I would have changed.' He hit .295 for his career. He caught Harvey Haddix's perfect game. He was in the dugout when Mazeroski hit the home run. He was glad for all of it.",
+      "origin": "The cotton mill work at 16 is documented in the Sports Illustrated vault piece (1959). Burgess's quote is from the BR Bullpen, citing The Phillies Encyclopedia. The Cardinals deal voided by Landis is documented in the SABR BioProject and Wikipedia."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'8'', 187 lbs — 'a jolly 187 pounds.' 'A walking laundry bag.' 'A round little catcher with size 6.5 feet.' 'Not baseball fat like Mickey Lolich or Early Wynn. But FAT. Like the mailman or your Uncle Dwight.' In 1960 he is 33 years old, still the primary catcher, about to hit .333 in the World Series. The face shows the man behind the physique: the world-champion heckler, the contact hitter who could hit a curveball at 3 a.m., the round little catcher who caught every pitch of the greatest game ever pitched and lost. He is not bothered.",
+    "attire": "Pittsburgh Pirates home whites — the Pirates script across the barrel chest, the catcher's gear partially visible (shinguards, chest protector). The stance is the batting stance, not the defensive crouch: the left-handed contact hitter who has spent 18 years making pitchers uncomfortable. The swing is compact and aggressive. Forrest Hunt told him to swing the bat. He swings.",
+    "mood": "Good-natured menace. The chatterbox who knows he is the fat man in the room and is completely at ease with that information. The Sports Illustrated piece from 1959: 'Sometimes the sharks on the Pirates rag Smoky about his 38-inch waistline, but the round little catcher shrugs it off: If they get on me, that means they are leaving somebody else alone.' The portrait should show that shrug.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Forbes Field visible in the background — the ballpark where he hit .333 in the WS, where he singled off Bobby Shantz in the 7th inning of Game 7, where he sat in the dugout when Mazeroski hit the walkoff. The background should be warm with the particular light of October 13, 1960.",
+    "reference": "The art direction is the body: 5'8'', round, completely comfortable, the bat held with the compact grip of a man who was told to swing it and never stopped. Bill James: 'I would venture to say that Smoky Burgess was probably the fattest man ever to play professional baseball.' The portrait confirms this without apology."
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "card_type": "player",
+  "name": "Gil Hodges",
+  "nickname": "The Quiet Man",
+  "year": 1954,
+  "team": "Brooklyn Dodgers",
+  "league": "National League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "1B",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'1\"",
+  "weight": "200 lbs",
+  "born": "April 4, 1924 — Princeton, IN",
+  "died": "April 2, 1972 — West Palm Beach, FL",
+  "hof": "Class of 2022 (Golden Days Era Committee, 12/16 — 50 years after his death)",
+
+  "real_stats": {
+    "season": 1954,
+    "games": 154,
+    "at_bats": 579,
+    "hits": 176,
+    "doubles": 26,
+    "triples": 5,
+    "home_runs": 42,
+    "rbi": 130,
+    "stolen_bases": 1,
+    "runs": 106,
+    "batting_avg": ".304",
+    "obp": ".386",
+    "slg": ".579",
+    "ops": ".965",
+    "ops_plus": 141,
+    "war": 6.8,
+    "all_star": 8,
+    "gold_gloves": 3,
+    "awards": "Career highs in 1954: BA (.304), HR (42), RBI (130), hits (176), runs (106), SLG (.579). Set still-standing ML record with 19 sacrifice flies in 1954. Second in NL in HR and RBI. Three consecutive Gold Gloves (1957-1959). Eight All-Star selections. From 1949-1957 averaged 32 HR and 108 RBI per season. August 31, 1950: hit four home runs in a single game off four different pitchers — second in NL modern history after Lou Gehrig (1932). NL career record of 14 grand slams at retirement. Managed the 1969 'Miracle Mets' to the World Series championship — one of the greatest upsets in sports history — over the heavily favored Baltimore Orioles. Tom Seaver: 'No one had more impact on my career than Gil Hodges.' Inducted into the HOF in 2022, 50 years after his death.",
+    "world_series": "7 WS appearances as a player (1947, 1949, 1952, 1953, 1955, 1956, 1959). 2 WS championships as a player — 1955 (Brooklyn) and 1959 (Los Angeles). 1 WS championship as manager — 1969 (Miracle Mets). The 1952 WS: hitless in all 7 games (0-for-21) as Brooklyn lost to the Yankees; the most famous slump in WS history. The 1955 WS: caught the final out (Reese to Hodges, Elston Howard's groundout in the 9th of Game 7) — the first World Series championship in Brooklyn Dodgers history. The 1959 WS: .391 BA to help Los Angeles defeat the White Sox in 6 games.",
+    "career_avg": ".273",
+    "career_hits": 1921,
+    "career_hr": 370,
+    "career_war": 52.0,
+    "career_rbi": 1274,
+    "career_notes": "18 seasons (1943, 1947-1963). Brooklyn/Los Angeles Dodgers (1943, 1947-1961), New York Mets (1962-1963). .273/.359/.487 career, 52.0 WAR. 370 HR, 1,921 hits. Third-most HR by any right-handed hitter at retirement (behind Foxx and Mays). Seven WS appearances as a player (all against the Yankees or White Sox). Two championships as a player. Won WS as manager of the 1969 Miracle Mets. April 2, 1972: died of a heart attack on Easter Sunday, two days before his 48th birthday, after 27 holes of golf in Florida. Buried at Holy Cross Cemetery in East Flatbush, Brooklyn — approximately a mile and a half from the former site of Ebbets Field. Inducted into the HOF in 2022 by the Golden Days Era Committee."
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "con": 5,
+    "pow": 5,
+    "spd": 0,
+    "def": 3,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": ".304 BA (1954). OPS+ 141 clears the 130+ bonus: base band 4 + bonus = CON 5. He averaged 32 HR and 108 RBI across nine seasons (1949-1957) while maintaining .273 career BA with 70-90 walks per year. The consistent contact and plate discipline — never leading the NL in any category but consistently in the top five — produces CON 5 at peak season with the OPS+ bonus.",
+    "pow": "42 HR (1954), second in NL. SLG .579 clears the .500 bonus: base band 4 + bonus 1 = POW 5. Career 370 HR. Third-most by any right-handed NL hitter at retirement. Nine consecutive seasons of 20+ HR (1947-1955). Four HR in a single game (1950) off four different pitchers. The power was the primary attribute — he never led the league but the sustained level across nine seasons and the single-game record moment justify POW 5.",
+    "spd": "1 SB in 1954. Career minimal baserunner. SPD 0. Right-handed power hitter at first base who did not run. Second 1B at SPD 0 in the set (alongside other heavy hitters).",
+    "def": "Three consecutive Gold Gloves (1957-1959). Led NL in putouts three times, assists three times, double plays four times, fielding percentage three times. Hands so large that teammates joked he only wore a glove because it was fashionable. DEF 3 reflects the sustained elite defensive 1B in the set — equal to Fain (the other 1B at DEF 3) and consistent with the first basemen who set NL records for defensive categories across a career. The 1955 WS final out — Hodges catching the championship-ending throw at first — is the DEF 3 moment encoded in postseason history.",
+    "clu": "7 WS appearances, 2 championships as player. The 1955 WS final out (caught at first base). The 1959 WS .391 BA. Balanced against the catastrophic 1952 WS (0-for-21) which remains the most famous WS slump in the set. CLU 2 reflects: genuine championship contributions (two rings, the final-out catch, the 1959 WS .391) against the 1952 failure and never winning an MVP award. OVR reduces to 9 (from the raw 10) because Hodges, despite peak-season statistical excellence, never led the NL in any offensive category across his career — the accumulation without a single signature offensive title."
+  },
+
+  "personality": {
+    "leadership_style": "Quiet authority. Pee Wee Reese: 'If you had a son, it would be a great thing to have him grow up to be just like Gil Hodges.' Carl Erskine: 'Gil was a peacekeeper. Everybody respected him, teammates and opponents alike.' Walter Alston: 'He never gave me any trouble and he was as great a man off the field as he was on it.' Tom Seaver on Hodges as manager: 'His attitude was, if you are at 80 percent, give me 100 percent of that 80 percent. That is what he got.' The leadership did not announce itself. It was structural, like the first base position itself — the authority came from being present, reliable, and capable.",
+    "temperament": "Reserved and internally deep. He served in the Pacific in World War II — Okinawa, Tinian — and never discussed the dark memories publicly. His biographer notes that he 'carried with him some dark memories from his war experience but never said what they were.' He responded to the 1952 WS slump with humility: not defensiveness, not bitterness, but accurate self-assessment ('it had a tremendous effect on my morale, if not my batting average') and genuine appreciation for the hundreds of supportive letters without a single nasty message. The temperament is the coal miner's son from Indiana who went to Okinawa and came back and became the most beloved Dodger who never won an MVP award.",
+    "work_ethic": "The nine consecutive 100+ RBI seasons (1949-1957). The 2,181 career games — the sustained daily presence at first base, the same Catholic church every Sunday with Joan and the four kids, the bowling alley investments in Brooklyn, the career that said: I am here, every day, doing the thing. He was never the loudest name in the lineup but he was always in the lineup. Appeared in all 154 games in 1954.",
+    "lifestyle": "Princeton, Indiana to Petersburg, Indiana to the Marines to Brooklyn, and Brooklyn permanently. Married Joan Lombardi, a local Brooklyn girl. Lived on Bedford Avenue, three miles from Ebbets Field. The Brooklyn fans knew where to find him: Our Lady Help of Christians Church on Sunday morning. He owned bowling alleys in Brooklyn after his playing career. When the Dodgers moved to Los Angeles, he went reluctantly. When he returned to New York to manage the Mets, he came home. He died in Florida during spring training — away from Brooklyn — but is buried at Holy Cross Cemetery in East Flatbush, about a mile and a half from where Ebbets Field used to stand.",
+    "era_adaptability": "MAXIMUM as a first baseman — the hands, the power, the professional consistency. The specific era context of Brooklyn in the 1950s was ideal for Hodges: a lineup full of great hitters (Robinson, Campanella, Snider, Furillo) that made him simultaneously protected and somewhat overlooked. In any era he would have been among the premier 1B — the power, the defense, the leadership. The war cost him the 1944-1946 seasons (ages 20-22) in which he would likely have established himself sooner.",
+    "dark_side": "The 1952 WS slump — 0-for-21 across seven games. In all of Brooklyn sports history, few individual failures were more public and more widely observed. He absorbed it with a grace that his teammates and opponents documented across decades. The dark memories of Tinian and Okinawa that he never discussed publicly — the biographer mentions them and says they stayed with him. The 50-year HOF wait: a man widely acknowledged as one of the finest players and managers of his era, receiving near-majority votes multiple times, never inducted by the BBWAA that he served. He died waiting. The Golden Days Era Committee inducted him in 2022 — 50 years after Easter Sunday, 1972."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Final Out",
+      "desc": "Game 7, 1955 World Series. Pee Wee Reese fields Elston Howard's grounder. He throws to first. Gil Hodges catches it. Brooklyn wins. In ILB, Hodges generates a championship-ending defensive bonus: in any Game 7 or championship-final scenario, his DEF 3 activates a First Base Final Out trigger — if an opponent grounds to the left side of the infield, the throw goes to Hodges, and the probability of an error on the play is reduced to zero."
+    },
+    {
+      "tag": "Four in One Game",
+      "desc": "August 31, 1950. Four home runs off four different pitchers in one game at Ebbets Field. In ILB, once per season, Hodges may attempt a Four in One trigger: when he homers in his first at-bat of a game, each subsequent at-bat that day has a +0.5 POW bonus. The historical precedent is real; the mechanic is the cascade.",
+      "note": "Only the second NL player in the modern era to hit four HR in a nine-inning game, after Lou Gehrig."
+    },
+    {
+      "tag": "Say a Prayer",
+      "desc": "The Brooklyn priest in 1952: 'It is too hot for a sermon. Just go home and say a prayer for Gil Hodges.' In ILB, when Hodges is in a slump (0-for-10 or worse), the Say a Prayer mechanic activates: the next at-bat receives a morale reset — the team's collective support converts to a statistical baseline restoration.",
+      "note": "Cross-reference the 1952 WS COMPLEX. The prayer was answered. The slump ended."
+    },
+    {
+      "tag": "The Peacekeeper",
+      "desc": "Carl Erskine: 'I give him strong credit for Jackie Robinson's success. On the other side of Jackie, Gil Hodges played, and Gil was a peacekeeper. Everybody respected him, teammates and opponents alike.' In ILB, when Robinson and Hodges are in the same lineup, the team's overall morale bonus gains +0.5 — the specific dynamic Erskine described is a mechanical condition.",
+      "note": "Cross-reference with robinson-jackie.json."
+    },
+    {
+      "tag": "The Quiet Man",
+      "desc": "He was called The Quiet Man — the coal miner's son who landed on Okinawa, came back to Brooklyn, and never discussed the dark memories. In ILB, Hodges's presence does not generate visible morale bonuses in the score — but it reduces opposing team morale by 0.5 simply from his presence. The quiet is not the absence of force.",
+      "note": "The nickname was the title of a 2000 documentary about his life. The phrase describes his entire career."
+    },
+    {
+      "tag": "The Miracle Mets",
+      "desc": "He managed a team that had never won more than 66 games to 100 wins and a World Series championship in 1969. In ILB, when Hodges is designated as a manager rather than a player, his CLU stat rises to 3 — the managerial version of the player exceeds the playing record's CLU in the postseason context.",
+      "note": "ILB cards may be used in both player and manager roles for appropriate era simulations. Hodges's manager trait is encoded here."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Community Events",
+      "affinity": "SACRED",
+      "note": "Ebbets Field / The Final Out / Holy Cross Cemetery. Hodges caught the last out in Brooklyn's only World Series championship. He is buried a mile and a half from where the ballpark used to stand.",
+      "note_extra": "Source labeled 'Ebbets Field / 1955 WS Final Out / Holy Cross Cemetery / Bedford Avenue / Mile and a Half' / affinity 'SACRED' — twenty-fourth SACRED in the set. Hodges's SACRED is the most geographically precise in the set: the throw from Reese to Hodges at first base in Game 7 of the 1955 World Series, and the cemetery 1.5 miles from the site of that catch. He was not the only one who caught the final out — Reese fielded the grounder. But Hodges caught the throw. He held the ball that ended the Brooklyn Dodgers' perpetual September heartache. He is buried approximately 1.5 miles from where Ebbets Field stood at the intersection of McKeever Place and Sullivan Place in East Flatbush. The cemetery is Holy Cross Cemetery, the same Catholic cemetery in East Flatbush where many Brooklyn Dodgers fans are buried. His funeral Mass was held at Our Lady Help of Christians Church — his own parish in Flatbush — rather than St. Patrick's Cathedral in Manhattan, which his biographer notes 'would not have been in keeping with his unassuming ways.' The SACRED is the specific geography of Brooklyn loyalty: the first base bag where the final out was caught, and the ground less than two miles away where he is permanently located. The Community Events domain encompasses the civic dimension — Hodges was not just a baseball player in Brooklyn but a resident, a parishioner, a businessman, a neighbor."
+    },
+    {
+      "location": "Military/Fort",
+      "affinity": "HAUNTED",
+      "note": "Tinian and Okinawa, 1944-1945. Anti-aircraft gunner for the 16th Battalion. Bronze Star. The dark memories he never discussed publicly. The big guy from Indiana.",
+      "note_extra": "Source labeled 'Okinawa / Tinian / Marine Corps / Bronze Star / Dark Memories / Don Hoak Account' / affinity 'HAUNTED' — thirteenth HAUNTED in the set. Hodges's is the only HAUNTED in the set involving direct assault landing on a Pacific island in World War II. He left the Brooklyn Dodgers after one game in October 1943 and entered the Marine Corps. He served as an anti-aircraft gunner for the 16th Anti-Aircraft Battalion. He was sent to Pearl Harbor, then Kauai, then Tinian (the island from which the Enola Gay would later launch), then landed with the assault echelon on Okinawa in April 1945. He received the Bronze Star for courage. Future Dodgers teammate Don Hoak said: 'We kept hearing stories about this big guy from Indiana who killed Japanese soldiers with his bare hands.' Hodges's biographer notes he 'carried with him some dark memories from his war experience' but 'never said what they were.' He was discharged in February 1946 and reported to spring training with Brooklyn. He never discussed the Pacific to the media. The dark memories are real and documented — their specific content is not. The HAUNTED is the Marine Parkway Bridge (later renamed the Marine Parkway–Gil Hodges Bridge) connecting Marine Park, Brooklyn, to the Rockaways in Queens — the name honors the Marine, not the ballplayer. The Military/Fort domain is Okinawa, 1945: the assault landing, the combat, the memories that stayed and were never shared."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Princeton, Indiana. Petersburg, Indiana. The coal miner's father. The four-sport letters. The one game in 1943. The 29 months in the Pacific. The famous hands.",
+      "note_extra": "Source labeled 'Princeton Indiana / Petersburg Indiana / Coal Miner Father / Petersburg High School / Four Sports / One Game Then Marines / Famous Hands' / affinity 'ORIGIN' — twenty-seventh ORIGIN in the set. Hodges's ORIGIN is the most Midwestern in the set: coal country Indiana, a seven-year-old's move from Princeton to Petersburg, a father who taught his sons baseball the way coal miners teach things — practically and physically. He earned seven varsity letters in four sports at Petersburg High School. He declined the Detroit Tigers' contract to attend college. He was spotted by scout Stanley Feezle and signed in 1943. He played one game — October 3, 1943, at Crosley Field in Cincinnati, going 0-for-2 with two errors at third base — before entering the Marines. The famous hands are the ORIGIN's physical expression: 'He had hands so large teammates half-jokingly claimed he only wore a glove because it was fashionable.' The hands that were too big for a conventional glove were also the hands that wrapped around the final out in 1955, the hands that hit four HR in one game in 1950, the hands that held the ball while Brooklyn celebrated. The ORIGIN is those hands in 1924 in Princeton, Indiana, the coal miner's son."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "COMPLEX",
+      "note": "The 1952 World Series. 0-for-21. The Brooklyn priest who told his congregation to pray for him. Not a single nasty letter. He said: 'It had a tremendous effect on my morale, if not my batting average.'",
+      "note_extra": "Source labeled '1952 World Series / 0-for-21 / Father Redmond / Pray for Gil Hodges / Not a Single Nasty Message / Morale Not Average' / affinity 'COMPLEX' — fifteenth COMPLEX in the set. Hodges's is the most publicly witnessed COMPLEX in the set — an 0-for-21 slump played out over seven World Series games in front of the entire nation, followed by a Brooklyn priest's sermon that became the most famous prayer in baseball history. Father Herbert Redmond of St. Francis Roman Catholic Church told his flock: 'It is too hot for a sermon. Just go home and say a prayer for Gil Hodges.' The slump continued into the early 1953 season. The response from Brooklyn fans was documented by Hodges himself: 'There was not a single nasty message. Everybody tried to say something nice.' The SABR BioProject notes: 'Undoubtedly, his experience of the slump helped him later in his managerial career, when he took over struggling expansion teams.' The COMPLEX is the transformation of a personal failure into a managerial philosophy: the man who was 0-for-21 in the World Series became the man who led the Miracle Mets to a championship, bringing the same steady grace to other struggling players that Brooklyn brought to him in 1952-1953. The Hotel/Rest domain is appropriate: the slump lived in the private moments between at-bats — the hotel rooms in Yankee territory where the hits weren't coming and the mail kept arriving with only kind words."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "CODA",
+      "note": "The 1969 Miracle Mets. The death on Easter Sunday, 1972. The 50-year HOF wait. In 2022, the Golden Days Era Committee finally answered the prayer that started in 1952.",
+      "note_extra": "Source labeled 'Miracle Mets 1969 / Easter Sunday Death 1972 / 50-Year HOF Wait / 2022 Golden Days Committee / Prayer Answered' / affinity 'CODA' — fifth CODA in the set (after Brecheen's late career, Kuenn's Koufax final out, Fox's posthumous HOF, Raschi's WS-eve death). Hodges's is the most historically extended CODA in the set: 50 years between his death (April 2, 1972) and his Hall of Fame induction (December 2021, ceremony 2022). The CODA has three movements: (1) The Miracle Mets (1969) — took a team that had never won more than 66 games to a World Series championship over the heavily favored Baltimore Orioles, one of the greatest upsets in sports history. (2) Easter Sunday, 1972 — heart attack after 27 holes of golf, two days before his 48th birthday. His funeral was at his own parish, Our Lady Help of Christians, rather than St. Patrick's Cathedral. Father Curley's words at the funeral: 'This morning, in a far different setting, I repeat that suggestion of long ago: Let us all say a prayer for Gil Hodges.' The prayer of 1952, repeated at his funeral. (3) The 50-year HOF wait — the man who received more HOF votes without getting in than any other player for decades, finally inducted in 2022 by a committee that got to answer the question the BBWAA never could. The Studio Gary C. piece summarizes it: 'This time his fans prayed that Gil's life of quietly doing the right thing the right way at the right time would be rewarded with a plaque in Cooperstown.' The prayer was answered."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Boys of Summer lineup — when Robinson, Campanella, Snider, and Hodges are all in the same lineup, the Peacekeeper and Boys of Summer bonuses both activate.",
+      "Championship game context — The Final Out trigger: in Game 7 or any championship-final scenario, Hodges's first base defense generates a zero-error probability on all throws to first base.",
+      "Four in One Game cascade — once per season, after a first-at-bat HR, each subsequent at-bat gains +0.5 POW for the game.",
+      "Slump recovery — Say a Prayer mechanic: after 0-for-10, the next at-bat receives a statistical baseline reset rather than continuing to degrade."
+    ],
+    "cold_triggers": [
+      "Yankees WS (historical) — the 1952 pattern. In ILB championship series against a Dreamers 1950 Yankees card combination (Ford + Berra + Mantle), Hodges's CLU 2 generates a slump risk after 5 consecutive hitless at-bats.",
+      "SPD 0 — no baserunning contribution. The power hitter who does not run.",
+      "The dark memories — not encoded in stats but present in the HAUNTED: the war experience that he carried and never shared creates a private cold trigger. After high-pressure situations, Hodges's morale resets more slowly than other players — the equanimity is real but not unlimited.",
+      "The HOF wait (historical) — never led the NL in any offensive category. The gap between his individual excellence and his statistical leadership creates an OVR 9 ceiling even with CON 5 / POW 5 / DEF 3."
+    ],
+    "pressure_response": "He caught the final out of Brooklyn's only World Series. He managed a team with no winning history to a championship. He went 0-for-21 in a World Series and responded with: 'There was not a single nasty message. Everybody tried to say something nice.' He died on Easter Sunday two days before his 48th birthday and was buried a mile and a half from Ebbets Field. The pressure response is the entire career — the quiet man who did what was needed and never announced it."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "One Game Before the War",
+      "type": "Origin",
+      "text": "October 3, 1943. The last game of the season. Crosley Field, Cincinnati. A 19-year-old from Petersburg, Indiana, plays third base for the Brooklyn Dodgers. He goes 0-for-2. He makes two errors. Eleven days later he enters the Marine Corps. He will not play organized baseball for 29 months. He will land with the assault echelon at Okinawa. He will receive the Bronze Star. He will carry certain memories home from the Pacific that he will never discuss publicly. When he comes back to Brooklyn in 1946, he is moved to first base because Roy Campanella is coming up to catch. He will anchor that first base for the next sixteen years. His career begins with two strikeouts and two errors. It does not stay that way.",
+      "origin": "Hodges's debut is documented as October 3, 1943 at Crosley Field against the Reds. He went 0-for-2 with two errors at third base. His Marine service (1943-1946), Okinawa landing, and Bronze Star are documented in the SABR BioProject and multiple sources."
+    },
+    {
+      "title": "Say a Prayer for Gil Hodges",
+      "type": "Drama",
+      "text": "The year is 1952. The Brooklyn Dodgers are in the World Series against the Yankees for the third time in six years. Your first baseman goes 0-for-21 across seven games. Brooklyn loses. The slump carries into the spring of 1953. Father Herbert Redmond of St. Francis Roman Catholic Church tells his congregation on a hot Sunday: 'It is too hot for a sermon. Just go home and say a prayer for Gil Hodges.' The letters and telegrams come from across the country. He reads them all. He says later: 'There was not a single nasty message. Everybody tried to say something nice. It had a tremendous effect on my morale, if not my batting average.' The following year, he hits career highs in every offensive category.",
+      "origin": "The 1952 WS slump (0-for-21) is documented in multiple sources. Father Redmond's sermon is documented in the SABR BioProject, the official Hodges website, and multiple books. Hodges's own account is from his book The Game of Baseball. The 1954 career-high season following the slump is documented."
+    },
+    {
+      "title": "Four in One Game",
+      "type": "Game Action",
+      "text": "August 31, 1950. Ebbets Field. Your first baseman hits a home run in the second inning off Warren Spahn. He hits a home run in the third inning off Normie Roy. He hits a home run in the sixth inning off Bob Hall. He hits a home run in the eighth inning off Johnny Antonelli. Four home runs off four different pitchers. The Dodgers win 19-3. He goes 5-for-6 with 9 RBI and 17 total bases — a major league record at the time. He is the second National League player in the modern era to hit four home runs in a nine-inning game, after Lou Gehrig in 1932. He is asked about the accomplishment and says something in the manner of a man from Petersburg, Indiana.",
+      "origin": "August 31, 1950, Ebbets Field. The game is documented in detail in the Baseball Almanac, the Baseball Hall of Fame biography, and Wikipedia. The four pitchers are documented. The 17 total bases at the time were described as a ML record."
+    },
+    {
+      "title": "The Final Out",
+      "type": "Game Action",
+      "text": "October 4, 1955. Game 7 of the World Series. The Brooklyn Dodgers have never won the championship. They have come to this game before — 1941, 1947, 1949, 1952, 1953 — and lost each time to the New York Yankees. The score is 2-0, Dodgers. Johnny Podres is pitching. The ninth inning. Two out. Elston Howard hits a grounder to Pee Wee Reese at shortstop. Reese throws to first base. Gil Hodges catches the ball. Brooklyn wins the World Series for the first and only time in its history. He has the ball. He holds it. Everybody comes to him.",
+      "origin": "The final out of Game 7 of the 1955 World Series — Elston Howard's grounder to Reese, throw to Hodges — is documented in multiple sources including the Baseball Fandom wiki and the SABR BioProject. It is the defining moment of Hodges's playing career."
+    },
+    {
+      "title": "He Was Not Satisfied with That",
+      "type": "Legacy",
+      "text": "He takes over a team that has never won more than 66 games in a season. They are called the Mets. In 1969 he leads them to 100 wins and the World Series championship over the Baltimore Orioles, who were heavily favored. His outfielder Cleon Jones, who catches the final out of the 1969 World Series, says of Hodges: 'Everybody I have talked to says he is the guy who made the difference between being World Champions and a second-rate ballclub. We would have been real happy to finish second. But he was not satisfied with that.'",
+      "origin": "The 1969 Miracle Mets are documented in the HOF biography. Cleon Jones's quote is documented in the HOF biography and multiple sources. The team's prior record ('never won more than 66 games') is documented."
+    },
+    {
+      "title": "Easter Sunday",
+      "type": "Legacy",
+      "text": "April 2, 1972. Easter Sunday. He is playing golf in West Palm Beach, Florida. He finishes 27 holes. He walks off the course. He collapses. He dies of a heart attack. He is 47 years old, two days short of his 48th birthday. When word reaches New York, thousands of his fans offer their prayers for Gil Hodges again. The funeral Mass is held at Our Lady Help of Christians Church in Flatbush — his own parish, not St. Patrick's Cathedral, because that would not have been in keeping with his ways. He is buried at Holy Cross Cemetery in East Flatbush. The cemetery is approximately a mile and a half from where Ebbets Field used to stand. He has been waiting for the Hall of Fame for 10 years. He will wait 50 more. The Golden Days Era Committee will answer the prayer in 2022.",
+      "origin": "Hodges died on April 2, 1972, of a heart attack following 27 holes of golf in West Palm Beach. The Easter Sunday detail and the 48th birthday proximity are documented in multiple sources. His funeral at Our Lady Help of Christians is documented in the SABR BioProject. The distance from Holy Cross Cemetery to Ebbets Field's former site is documented. The 2022 HOF election is documented."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'1'', 200 lbs — the coal miner's son, built with hands too large for an ordinary glove. In 1954 he is 30 years old, at the peak of his career, the first baseman who anchored the Boys of Summer infield. The face in the card year has been to Okinawa and come back, has been 0-for-21 in a World Series, has received hundreds of kind letters. The face contains all of this without displaying any of it — that is what the nickname 'The Quiet Man' means.",
+    "attire": "Brooklyn Dodgers home whites — the distinctive Dodgers script, number 14. The right-handed first baseman's stance. The famous large hands, the glove that he wore even though he arguably didn't need it.",
+    "mood": "Grounded solidity. The man everyone else in the Boys of Summer lineup leaned on — the peacekeeper, the backbone. Pee Wee Reese's quote defines the portrait: 'If you had a son, it would be a great thing to have him grow up to be just like Gil Hodges.' The portrait should contain the player Reese was describing.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Ebbets Field in the background — the first base bag, specifically, the location of the final out of the 1955 World Series and the position of the famous hands that defined the career.",
+    "reference": "Rachel Robinson's observation is the art direction: 'In his own quiet way, Gil was a mainstay of the team; a slugger, an outstanding fielder, a man of strong character. Jack counted on him.' The portrait contains the player that Robinson counted on — the peacekeeper, the man who caught the final out, the man the Brooklyn priest prayed for in 1952 and who was prayed for again at his own funeral in 1972."
+  }
+}

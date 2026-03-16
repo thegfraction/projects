@@ -1,0 +1,197 @@
+{
+  "card_type": "player",
+  "name": "Don Newcombe",
+  "nickname": "Newk / Big Newk",
+  "year": 1956,
+  "team": "Brooklyn Dodgers",
+  "league": "National League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "SP",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'4\"",
+  "weight": "220 lbs",
+  "born": "June 14, 1926 — Madison, NJ",
+  "died": "February 19, 2019 — Los Angeles, CA",
+  "hof": "Not inducted",
+
+  "real_stats": {
+    "season": 1956,
+    "wins": 27,
+    "losses": 7,
+    "era": 3.06,
+    "innings_pitched": 268,
+    "strikeouts": 139,
+    "walks": 46,
+    "complete_games": 18,
+    "shutouts": 5,
+    "win_pct": ".794",
+    "ops_plus_as_hitter": null,
+    "war": 8.1,
+    "all_star": 4,
+    "awards": "1949 NL Rookie of the Year (first pitcher to win ROY). 1956 NL MVP. 1956 Cy Young Award (first-ever awarded — given to the single best pitcher in both major leagues). First player to win ROY, Cy Young, and MVP in a career until Justin Verlander in 2011. Four-time All-Star (1949, 1950, 1951, 1955). NL winning percentage leader 1955 (.800) and 1956 (.794). 1955: 7 HR as a pitcher (NL record), .359 BA, .632 slugging percentage — only Willie Mays among qualified position players had higher slugging that season. Career batting average .271 — ninth-best among pitchers in baseball history. Used as a pinch hitter, a rarity for pitchers. 1949: first Black pitcher to start a World Series game. 1951: first Black pitcher to win 20 games in a season. Three 20-win seasons (1951, 1955, 1956). Started 14-1 in 1955 — best first-half record by any pitcher with 15+ decisions until Ubaldo Jimenez in 2010.",
+    "world_series": "Career WS record: 0-4 in four starts across three Series. 1949: Started Game 1 (first Black pitcher to start a WS game), lost 1-0 on Tommy Henrich's leadoff HR in the bottom of the 9th. 1955: WS champion (Dodgers beat Yankees), but Newcombe had a damaged arm — started Game 1, did not pitch again. 1956: NL MVP and Cy Young Award winner. Game 2: knocked out in 5-run second inning (Berra grand slam), though Dodgers rallied to win 13-8. On leaving Ebbets Field, punched Brooklyn parking lot attendant Mike Brown in the gut — charges brought, ultimately dismissed. Game 7: Berra hit two-run HRs in the 1st and 3rd innings, Elston Howard added a leadoff HR in the 4th, final score 9-0 Yankees. Newcombe said: 'In 1956, I won 27 games. I was 27 and 7! We win the pennant, and because in the World Series Yogi Berra hits a couple of home runs off me, they say I choke up. You know, that knocked the hell out of me that year. That is when I started drinking. That is where my whole career came to an end. Really to an end. I went over to New Jersey and crawled into a shell and stayed there.'",
+    "career_record": "149-90",
+    "career_era": 3.56,
+    "career_k": 1129,
+    "career_war": 41.4,
+    "career_notes": "10 MLB seasons (1949-1960). Brooklyn/Los Angeles Dodgers, Cincinnati Reds, Cleveland Indians. 149-90, 3.56 ERA, 136 CG, 24 SO, 1,129 K in 2,154 IP. Career W-L% .623. Missed 1952-1953 (Korean War). Career batting: .271/.338/.390, 15 HR, 108 RBI in 878 AB — ninth-best batting average among pitchers in history. Acknowledged that alcoholism played a significant role in the decline of his career. Pawned his 1955 World Series ring in 1965 to afford alcohol. Quit drinking in 1966. After playing career: rejoined Dodgers organization in late 1970s as director of community affairs; role expanded to special adviser to the chairman in 2009. Spent 40+ years helping players and others with addiction. President Obama (2010): 'I would not be here if it were not for Jackie and if it were not for Don Newcombe.' Died February 19, 2019, age 92. Interred at Los Angeles National Cemetery."
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "stf": 5,
+    "ctl": 3,
+    "sta": 4,
+    "def": 2,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "stf": "The first STF 5 in the set. 6'4'', 220 lbs, the fastball pitcher who was the NL's best starter in 1956. 27-7 with 139 K and 18 CG. In 1955, his .632 slugging percentage at the plate outranked every qualified position player except Willie Mays — which says something about the force he brought to everything he did. The Dodger Thoughts obituary identifies him as 'the first Black Ace.' STF 5 is the full expression of that: the pitcher whose stuff set the standard for the role in the set.",
+    "ctl": "Career 3.56 ERA, 3.06 in 1956. He self-described as 'a control pitcher in addition to being a power pitcher.' 46 BB in 268 IP in 1956 (1.55 BB/9 — better than CTL 3 would suggest, but his career walk rates were higher and the 1956 number is the peak). CTL 3 reflects the combination of elite stuff and serviceable command — not Roberts-level precision (CTL 5) but the control that enabled 136 career CGs and a .623 career W-L%. The two NL SP cards define opposite ends of the pitcher archetype: Roberts is CTL 5/STF 4; Newcombe is STF 5/CTL 3.",
+    "sta": "Three 20-win seasons. 27 wins in 1956. 18 CG in 1956. Career 136 CG. Started 14-1 in 1955, the best first-half record by any pitcher with 15+ decisions until 2010. 244 IP as a rookie in 1949. STA 4 is the workhorse — not the all-weather durability of Wynn or Lemon (STA 5 AL workhorses) but the ace who finished what he started in his peak years and accumulated complete games in volume.",
+    "def": "Career .271 batting average — ninth-best among pitchers in history. Seven HR in 1955 (NL pitcher record). Used as a pinch hitter. In 1955, .359 BA and .632 slugging — Mays was the only qualified player in baseball with higher slugging that year. DEF 2 encodes the hitting pitcher's contribution to his own cause. His fielding was solid (twice posted 1.000 fielding percentage) but the DEF stat here carries both aspects — the glove and the bat he brought to the field every time he started.",
+    "clu": "0. Career 0-4 in four World Series starts. 1949: first WS start by a Black pitcher, lost 1-0 on a 9th-inning HR. 1956: the defining season. NL MVP, Cy Young winner, 27-7 regular season — then Game 2 (knocked out in the 5-run second, Berra grand slam), the parking lot assault charge, Game 7 (two Berra HRs, 9-0 loss). Newcombe identified the 1956 WS failures as the direct cause of his alcoholism: 'That is when I started drinking. That is where my whole career came to an end.' CLU 0 is not the absence of a ring — he has the 1955 ring. CLU 0 is the documented pattern of postseason failure by the set's most dominant regular-season pitcher, and the documented human cost of that pattern. The most significant CLU 0 in the set."
+  },
+
+  "personality": {
+    "leadership_style": "The ace's leadership — through sheer force of presence and performance. Newcombe was the first Black pitcher to win 20 games, the first to start a WS game, the first to win three major awards. He led by being first and by being dominant. After his playing career, he led differently: 40 years of helping people with addiction, saving Bob Welch's life, telling his own story without euphemism. He said the post-baseball work meant more to him than his records. That was not false modesty. It was the calculation of a man who understood what the records had cost.",
+    "temperament": "Volatile under pressure of a specific kind. The volatility was postseason volatility — the pattern that Newcombe recognized and named. He punched the parking lot attendant after Game 2 of the 1956 WS. He crawled into a shell in New Jersey after Game 7. The day-to-day temperament was professional and dominant. The WS temperament was something else. He spent his later life understanding the difference.",
+    "work_ethic": "27-7. Eighteen complete games. Seven home runs as a pitcher. Used as a pinch hitter. He played at 6'4'' and 220 lbs and hit for power and pitched 268 innings. The work ethic that produced three ROY/CY/MVP awards across a career was genuine and documented. The Korean War took two years in the middle of his prime. The 1953 Dodgers won 105 games without him.",
+    "lifestyle": "Madison NJ to Elizabeth NJ to Newark Eagles to Nashua to Brooklyn to the World Series to New Jersey crawling into a shell to Japanese baseball to sobriety in 1966 to the Dodgers community office for 40 years. The 1968 dinner with Martin Luther King. Obama's statement in 2010. He said he wanted to be remembered for the post-baseball work, not the records. He is buried at the Los Angeles National Cemetery.",
+    "era_adaptability": "STF 5 is era-proof. The fastball that produced a .794 winning percentage in 1956 would produce wins in any era. The hitting (nine-best batting average among pitchers) would make him uniquely valuable in modern NL rules pre-DH. The CLU 0 pattern is also era-proof — postseason failure under the specific pressure of racial visibility, military service gaps, and alcohol dependency is not a product of era.",
+    "dark_side": "His father gave him beer at age 8. He pawned his 1955 World Series ring in 1965 to afford alcohol. He quit in 1966 when his wife threatened to leave. Between 1956 and 1966: a parking lot assault charge, a car accident that seriously injured a 4-year-old boy, his marriage failing, his career declining. He spent 20 years with alcoholism. He spent 40 years in recovery helping others. He described himself as 'a stupefied, wife-abusing' former person — the full quote is a document of a man who did not allow himself euphemisms about what he had been."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The First Black Ace",
+      "desc": "Third Black pitcher in the major leagues. First to start a World Series game (1949). First to win 20 games in a season (1951). First to win ROY, Cy Young, and MVP. In ILB, Newcombe's STF 5 generates a Historical First bonus in any game designated as a milestone event: his ERA is reduced by 0.5 for the entire game, acknowledging that Newcombe consistently produced his best performances under the conditions that would have broken other pitchers.",
+      "note": "President Obama (2010): 'I would not be here if it were not for Jackie and if it were not for Don Newcombe.'"
+    },
+    {
+      "tag": "Twenty-Seven and Seven",
+      "desc": "The 1956 regular season: 27-7, .794 W%, NL MVP, first Cy Young Award. In ILB, Newcombe's STF 5/STA 4 combination generates a Dominant Season marker: in any season where his team wins 90+ games, Newcombe's STF increases to 6 (above scale, applied only to win probability rolls) — the set's only above-scale stat expression, reserved for the season that produced the first Cy Young Award.",
+      "note": "The Cy Young Award was created in 1956. Newcombe won the first one. He remains the only pitcher to win the inaugural award. Justin Verlander matched the ROY/CY/MVP triple in 2011."
+    },
+    {
+      "tag": "The Hitting Pitcher",
+      "desc": "Career .271 BA — ninth-best among pitchers in baseball history. Seven HR in 1955 (NL pitcher record). In 1955, .632 slugging — only Willie Mays among qualified hitters had higher slugging that year. In ILB, Newcombe may bat in any position in the lineup rather than the pitcher's slot. When batting in a non-pitcher slot, he uses position-player batting mechanics with his career .271 BA and 7 HR season serving as baseline. He is the only pitcher in the set eligible for the pinch-hit role.",
+      "note": "DEF 2 partially encodes this. The Hitting Pitcher trait extends it to active gameplay."
+    },
+    {
+      "tag": "The 1951 Ninth Inning",
+      "desc": "October 3, 1951. Newcombe pitched eight complete innings against Brooklyn's archrival in a pennant-deciding game, then faced the bottom of the Dodgers' order in the ninth with a 4-1 lead. Alvin Dark got a scratch infield single. Don Mueller singled. Whitey Lockman doubled. Chuck Dressen pulled Newcombe for Ralph Branca. Bobby Thomson hit the home run. In ILB, this is encoded as a tactical marker: when Newcombe has held a lead for 8+ innings, the CLU 0 penalty activates — on the manager's in-game decision roll, there is a 1-in-6 chance the lead evaporates regardless of Newcombe's current pitch count or performance.",
+      "note": "Cross-reference: Dark's chemistry_trait 'I Must Have Fouled Off Six or Seven' is the same play from the offensive side."
+    },
+    {
+      "tag": "What I Have Done After Baseball",
+      "desc": "Newcombe said: 'What I have done after my baseball career — being able to help people with their lives and getting their lives back on track so they become productive human beings again — that means more to me than all the things I did in baseball.' He helped Bob Welch, Maury Wills, and numerous others through addiction. In ILB, this is encoded as a CODA activation: after Newcombe's playing career ends, any player on the same franchise who carries an addiction flag has that flag's penalty halved. The post-baseball work is load-bearing.",
+      "note": "Bob Welch credited Newcombe for saving his life in Welch's book, 'Five O'Clock Comes Early.'"
+    },
+    {
+      "tag": "Yogi",
+      "desc": "Yogi Berra hit three HR off Newcombe in the 1956 World Series: two in Game 7 (first and third innings), one in Game 2. This is the most documented pitcher-batter match-up in the set. In ILB, when Newcombe faces Berra as teammates — both Dreamers 1950 — the RIVAL flag activates: Berra's CLU bonus does not apply when coaching against Newcombe's CLU 0 in joint simulations. Newcombe's CLU 0 deepens by 0.5 specifically against Berra's plate appearance records. They are on the same team. The history is in the card.",
+      "note": "Newcombe directly attributed his alcoholism to the 1956 WS: Berra's HRs were the precipitating event. Berra and Newcombe are both Dreamers 1950 players."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballpark",
+      "affinity": "SACRED",
+      "note": "Ebbets Field / 1955 World Series / Brooklyn's only championship / the Boys of Summer. The 27-7 season made the pennant possible. The WS ring is the SACRED even though Newcombe's arm ended his Series before it ended.",
+      "note_extra": "Source labeled 'Ebbets Field / 1955 World Series / Brooklyn Championship / Boys of Summer / 27 Wins / First Cy Young / NL MVP' / affinity 'SACRED' — twenty-ninth SACRED in the set. Newcombe's SACRED is the 1955 championship — the singular event the Dodgers had been building toward through four previous WS losses to the Yankees (1941, 1947, 1949, 1952, 1953). Newcombe's 1955 season (20-5, .800 W%, 3.20 ERA, 7 HR as a pitcher) was the foundation of the pennant. His arm gave out before Game 1 of the WS — 'The whole night before the opening game of that World Series my wife sat up putting hot compresses to my arm,' he said — but the ring was real. Johnny Podres won Game 7. The championship was Brooklyn's. Newcombe was on the team that got there. Ebbets Field is the SACRED: the ballpark that housed the Boys of Summer, the only championship the Brooklyn Dodgers ever won, the field where Newcombe's career reached its apex and then, in 1956, began its documented collapse. The Ballpark domain covers the building and the moment — the 1955 WS trophy and the 1956 WS parking lot, both at Ebbets Field."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "IDENTITY",
+      "note": "Third Black pitcher in the majors. First Black pitcher to start a WS game. First Black pitcher to win 20 games. The Nashua integrated team with Campanella. The integration chain the set is built around.",
+      "note_extra": "Source labeled 'Third Black Pitcher Majors / First WS Start Black Pitcher / First 20-Win Black Pitcher / Nashua 1946 Campanella / Integration Chain / Branch Rickey / Effa Manley / Newark Eagles' / affinity 'IDENTITY' — sixth IDENTITY in the set (after Robinson, Doby, Miñoso, Mays, Campanella). Newcombe's is the most layered in terms of firsts: third Black pitcher in the major leagues (after Dan Bankhead and Satchel Paige); among the first four Black players named to an All-Star team (with Robinson, Campanella, and Doby in 1949); first Black pitcher to start a World Series game (1949); first Black pitcher to win 20 games in a season (1951); first pitcher to win ROY, Cy Young, and MVP. The IDENTITY begins in 1944 at the Newark Eagles, where Effa Manley let Branch Rickey sign Newcombe without compensation — 'The Dodgers don't deserve to win for what they did to Negro baseball,' Manley said. It runs through Nashua 1946, the integrated Class B team that existed only because the Three-I League refused to accept Black players at Danville. It runs through Brooklyn 1949, the Polo Grounds 1951, and Ebbets Field 1956. Dr. Martin Luther King at Newcombe's home in 1968: 'Don, you will never know how easy you and Jackie and Larry Doby and Campy made it for me to do my job by what you did on the baseball field.' Community Events domain: the civic dimension of being first, the integration work that was not voluntary but was genuinely historic."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "DAMNED",
+      "note": "The 1956 World Series. Yogi Berra. The parking lot. New Jersey. The shell. Career 0-4 in WS starts. The pawned World Series ring. 'That is when I started drinking.'",
+      "note_extra": "Source labeled '1956 WS / Yogi Berra Three HR / Game 7 9-0 / Parking Lot Assault / New Jersey Shell / Alcoholism Origin / Pawned Ring 1965 / 0-4 WS Record' / affinity 'DAMNED' — eleventh DAMNED in the set. Newcombe's is the most precisely documented DAMNED in the set — the man himself identified the origin event: 'In 1956, I won 27 games. I was 27 and 7! We win the pennant, and because in the World Series Yogi Berra hits a couple of home runs off me, they say I choke up. You know, that knocked the hell out of me that year. That is when I started drinking. That is where my whole career came to an end. Really to an end. I went over to New Jersey and crawled into a shell and stayed there.' Game 2, 1956 WS: Newcombe was knocked out in the 5-run second inning, Berra hit a grand slam, Newcombe exited Ebbets Field and punched parking lot attendant Mike Brown in the gut (charges brought, ultimately dismissed). Game 7: Berra's two HR in the 1st and 3rd, Elston Howard's HR in the 4th, final 9-0. The most successful regular-season performance in the set (27-7, first Cy Young Award, NL MVP) followed immediately by a 0-4 postseason career and the origin of 20 years of alcoholism. He pawned his 1955 World Series ring in 1965 to afford alcohol. Hotel/Rest domain: the private unraveling — the hotel rooms and bars and the New Jersey shell where the career ended."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Madison NJ / Elizabeth NJ / father's beer at age 8 / Newark Eagles at 17 / Nashua with Campanella / Branch Rickey / Effa Manley's uncompensated release.",
+      "note_extra": "Source labeled 'Madison NJ / Elizabeth NJ / Father Beer Age 8 / Jefferson High No Baseball / Newark Eagles 1944 / Nashua Campanella 1946 / Branch Rickey / Effa Manley Compensation / Walter Alston Nashua Manager' / affinity 'ORIGIN' — thirty-second ORIGIN in the set. Newcombe's is the most causally compressed ORIGIN in the set: the father who gave him beer at age 8 (believing it would help him grow strong) is the first link in the chain that ends with the pawned World Series ring in 1965. He attended Jefferson High School, which had no baseball team, and played semiprofessionally instead. At 15 he was 6 feet tall and 200 pounds. He tried twice to enlist after Pearl Harbor using a falsified birth date; was turned down both times. At 17, through an acquaintance, he met Abe and Effa Manley and joined the Newark Eagles for $170/month. In October 1945 he pitched at Ebbets Field in an exhibition game; Dodgers scout Clyde Sukeforth was there and invited him to try out. Branch Rickey signed him without compensating Effa Manley for his release from the Eagles. Rickey sent Newcombe and Campanella to Nashua in the New England League because the Three-I League refused to accept Black players at Danville. Walter Alston managed both of them there. Community Events domain: the Newark community, the Eagles, the baseball network that connected a 17-year-old pitcher from Elizabeth NJ to the integration of professional baseball."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "CODA",
+      "note": "Sobriety (1966). 40+ years as Dodgers community director. Bob Welch. The MLK dinner. Obama. 'That means more to me than all the things I did in baseball.'",
+      "note_extra": "Source labeled 'Sobriety 1966 / Dodgers Community Director 1970s / Bob Welch / Maury Wills / MLK Dinner 1968 / Obama 2010 / Means More Than Baseball' / affinity 'CODA' — eighth CODA in the set (after Brecheen, Kuenn, Fox, Raschi, Hodges, Roberts, Ashburn). Newcombe's is the most personally costly CODA in the set — it required 20 years of alcoholism, the pawned ring, and the nearly-drowned son before the recovery that produced it. He quit drinking in 1966 when his second wife threatened to leave him. He rejoined the Dodgers organization in the late 1970s and served as the team's director of community affairs for over 40 years. He helped Bob Welch, Maury Wills, and numerous other players with addiction; Welch credited Newcombe with saving his life. He hosted Dr. Martin Luther King at his Los Angeles home on March 6, 1968 — 28 days before King's assassination. At that dinner, King told him: 'Don, you will never know how easy you and Jackie and Larry Doby and Campy made it for me to do my job by what you did on the baseball field.' On April 19, 2010, President Obama said: 'I would not be here if it were not for Jackie and if it were not for Don Newcombe.' Newcombe said: 'What I have done after my baseball career — being able to help people with their lives and getting their lives back on track so they become productive human beings again — that means more to me than all the things I did in baseball.' Hotel/Rest domain: the long private work of sobriety — the daily practice of not drinking that made the 40 years of public service possible."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "STF 5 / STA 4 — the most dominant pitching combination in the set. Regular-season win probability is the highest of any pitcher card.",
+      "Twenty-Seven and Seven — in any 90+ win season, STF rises to 6 (above scale) for win probability rolls.",
+      "The First Black Ace — in milestone-designated games, ERA reduced by 0.5.",
+      "The Hitting Pitcher — eligible to bat in position-player slot; DEF 2 generates offensive contributions no other pitcher can produce.",
+      "Captain bond with Campanella — the Nashua battery generates a historical pairing bonus in any lineup containing both Newcombe and Campanella."
+    ],
+    "cold_triggers": [
+      "CLU 0 — career 0-4 in WS starts. The postseason penalty is the most documented in the set.",
+      "Yogi RIVAL flag — Berra's plate appearances against Newcombe generate a specific CLU 0 deepening of 0.5.",
+      "The 1951 Ninth Inning — when Newcombe holds a lead for 8+ innings, 1-in-6 chance the CLU 0 activates regardless of performance.",
+      "DAMNED marker — the alcoholism narrative that is permanent in the card's metadata and cannot be removed by any in-game action."
+    ],
+    "pressure_response": "The most documented negative pressure response in the set. Regular season: 27-7. World Series: 0-4 in four starts. The gap is not arguable. Newcombe himself documented it, named its cause, and spent 40 years accounting for it. The pressure response is also documented in the positive direction: in the face of racial segregation and military service gaps and public hostility, he was the dominant NL pitcher of his era. The World Series was a specific pressure of a specific kind, and it broke him in a specific, documented way."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The First Black Pitcher in a World Series",
+      "type": "Historic First",
+      "text": "October 5, 1949. Don Newcombe takes the mound at Yankee Stadium for Game 1 of the World Series. He is the first African American pitcher ever to start a World Series game. He pitches eight complete innings. He holds the Yankees scoreless. In the bottom of the ninth inning, with the game tied 0-0, Tommy Henrich leads off. Newcombe throws. Henrich hits a home run. Game over: Yankees 1, Dodgers 0. Newcombe said of that day: 'That was probably one of my greatest memories.' He lost 1-0 in the first WS start by a Black pitcher in baseball history. The game was that close. The memory was that good.",
+      "origin": "Newcombe's 1949 WS Game 1 start is documented. The 1-0 loss on Henrich's walkoff HR in the 9th is documented. Newcombe's quote about the memory is from the Baseball Almanac interview."
+    },
+    {
+      "title": "That Is When I Started Drinking",
+      "type": "Drama",
+      "text": "In 1956, Don Newcombe won 27 games and lost 7. He won the Cy Young Award — the first one ever given — and the National League MVP. In October, Yogi Berra hit three home runs off him in the World Series. The Yankees won Game 7, 9-0. Newcombe said: 'In 1956, I won 27 games. I was 27 and 7. We win the pennant, and because in the World Series Yogi Berra hits a couple of home runs off me, they say I choke up. You know, that knocked the hell out of me that year. That is when I started drinking. That is where my whole career came to an end. Really to an end. I went over to New Jersey and crawled into a shell and stayed there.' He pawned his 1955 World Series ring in 1965 to afford alcohol. He quit drinking in 1966. He spent 40 years helping others do the same.",
+      "origin": "Newcombe's direct quote is sourced from the Dodger Thoughts obituary (2019), which cited Newcombe's own account. The ring pawning in 1965, the 1966 sobriety, and the 40 years of community work are documented in multiple sources."
+    },
+    {
+      "title": "Nashua, 1946",
+      "type": "Origin",
+      "text": "Branch Rickey needs a place to put Don Newcombe and Roy Campanella. The Three-I League has threatened to shut down if Black players are assigned to Danville. Rickey finds Nashua, New Hampshire: the New England League's Class B affiliate. Walter Alston will manage. Newcombe and Campanella will become, together, the first Black players on a racially integrated professional baseball team in the United States in the 20th century. The pitcher is 19 years old. The catcher is 24. Newcombe goes 14-4. Campanella hits .290. They will be teammates for the next decade, from Class B New Hampshire to the 1955 World Series. The battery that integrated baseball began in Nashua.",
+      "origin": "The 1946 Nashua Dodgers as the first integrated professional team in the United States is documented. The Three-I League's threat regarding Danville is documented in the Walter O'Malley website. Alston managing Nashua is documented. The stats for the Nashua season are documented."
+    },
+    {
+      "title": "Don, You Will Never Know",
+      "type": "Legacy",
+      "text": "On March 6, 1968, Don Newcombe hosted Dr. Martin Luther King, Jr. for dinner at his home in Los Angeles. Twenty-eight days later, Dr. King was assassinated in Memphis. Newcombe remembered what King told him that evening: 'Don, you will never know how easy you and Jackie and Larry Doby and Campy made it for me to do my job by what you did on the baseball field. Imagine, here is Martin getting beaten with billyclubs, bitten by dogs, and thrown in jail, and he says we made his job easier.' In 2010, President Obama, at a fundraiser attended by Newcombe, said: 'I would not be here if it were not for Jackie and if it were not for Don Newcombe.'",
+      "origin": "The March 6, 1968 dinner between Newcombe and MLK is documented in the Walter O'Malley tribute and multiple other sources. MLK's quote is documented. Obama's 2010 statement at the Barbara Boxer fundraiser is documented in Wikipedia and the Walter O'Malley website."
+    },
+    {
+      "title": "That Means More to Me Than Baseball",
+      "type": "Legacy",
+      "text": "After his career ended, Don Newcombe worked for the Dodgers as director of community affairs for over 40 years. He helped Maury Wills with addiction. He helped Bob Welch — Welch credited Newcombe with saving his life. He counseled military personnel. He spoke at schools and events about alcohol and substance abuse. He said: 'What I have done after my baseball career — being able to help people with their lives and getting their lives back on track so they become productive human beings again — that means more to me than all the things I did in baseball.' He is buried at the Los Angeles National Cemetery.",
+      "origin": "Newcombe's post-baseball community work is documented across multiple sources. Bob Welch's credit to Newcombe is documented in Welch's book. Newcombe's quote is from the Walter O'Malley tribute. His burial at the LA National Cemetery is documented."
+    },
+    {
+      "title": "Only Mays Had a Higher Slugging",
+      "type": "Rare Feat",
+      "text": "In 1955, Don Newcombe batted .359 with 7 home runs and posted a .632 slugging percentage. He was a starting pitcher. Among all qualified position players in Major League Baseball that season — every center fielder, left fielder, first baseman, shortstop — only Willie Mays had a higher slugging percentage. Duke Snider hit .628 in 538 at-bats and finished below Newcombe. Newcombe had 117 plate appearances. He is also the ninth-best batting average among pitchers in baseball history at .271. He was used as a pinch hitter, which pitchers were not. He pitched 268 innings in 1956 and batted .271. This is documented. It is not unusual for a pitcher to hit. It is unusual for a pitcher to hit like this.",
+      "origin": "Newcombe's 1955 batting statistics (.359, 7 HR, .632 SLG) are documented in the BR Bullpen biography. The comparison to Mays and Snider is from the BR Bullpen. The ninth-best career batting average among pitchers (.271) is documented across multiple sources."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'4'', 220 lbs — Big Newk, the first Black Ace, the most physically imposing pitcher in the set. In 1956 he is 30 years old at his absolute peak: 27-7, NL MVP, first Cy Young Award. The face shows both the dominance and the edge — the man who would punch a parking lot attendant in October, who fouled off six pitches with Don Mueller on deck, who crawled into a shell in New Jersey when the WS was over. The eyes carry the gap between the 27-7 and the 0-4.",
+    "attire": "Brooklyn Dodgers home whites — the distinctive script across the chest, the cap tilted at the ace's angle. The right-handed delivery pose of a 6'4'' fastball pitcher whose slugging percentage outranked Duke Snider's. The bat might be in his hand: he is the only pitcher in the set whose hitting belongs in the art direction.",
+    "mood": "Contained power with a visible edge. Not triumph — the card year is 1956 and Newcombe knows what October will bring. The portrait should carry the regular-season dominance (27 wins, first Cy Young) and the specific quality of a man who has been first at things that should not have required courage and had to carry that weight while also winning baseball games.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Ebbets Field visible in the background — the ballpark where Newcombe pitched his greatest seasons, where the 1955 ring was earned, and where the 1956 WS failure began. The light should be late-afternoon Brooklyn, the quality of a season that went 27-7 before October came for it.",
+    "reference": "The Dodger Thoughts obituary identifies Newcombe as 'the first Black Ace.' The art direction is built from that phrase: not just the first, not just the pitcher, but the archetype — the role that Newcombe created and that every subsequent dominant Black pitcher in baseball was measured against."
+  }
+}

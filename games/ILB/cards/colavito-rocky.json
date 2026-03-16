@@ -1,0 +1,202 @@
+{
+  "card_type": "player",
+  "name": "Rocky Colavito",
+  "nickname": "The Rock / Don't Knock the Rock",
+  "year": 1959,
+  "team": "Cleveland Indians",
+  "league": "American League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "RF",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'3\"",
+  "weight": "190 lbs",
+  "born": "August 10, 1933 — The Bronx, NY",
+  "died": "December 10, 2024 — Bernville, PA",
+  "hof": "Not inducted",
+
+  "real_stats": {
+    "season": 1959,
+    "games": 154,
+    "at_bats": 588,
+    "hits": 151,
+    "doubles": 24,
+    "triples": 0,
+    "home_runs": 42,
+    "rbi": 111,
+    "stolen_bases": 3,
+    "runs": 90,
+    "batting_avg": ".257",
+    "obp": ".339",
+    "slg": ".512",
+    "ops": ".851",
+    "ops_plus": 133,
+    "war": 5.8,
+    "all_star": 9,
+    "awards": "1959 AL HR leader (42, tied with Harmon Killebrew). 1959 AL total bases leader (301). 1959 AL extra-base hits leader (66). 1958 AL slugging leader (.620 — highest by an Indians right-handed hitter until Albert Belle in 1994). Fourth in 1959 AL MVP voting. Third in 1958 AL MVP voting. Nine-time All-Star. June 10, 1959: four consecutive HR in a single game at Baltimore — one of only six players in baseball history to accomplish this. Cover of Time magazine 1959: 'BASEBALL: Here Come the Kids.' First Cleveland Indian to hit 40+ HR in back-to-back seasons (41 in 1958, 42 in 1959). First AL outfielder in history to complete a season with a perfect 1.000 fielding percentage (1965). Third among AL right-handed hitters in career HR at time of retirement (374). Fifth player in AL history with 11 consecutive 20-HR seasons (1956-1966). Average 33 HR and 109 RBI per 162 games over career. Del Crandall on Colavito's arm: 'I saw you throw and I saw Clemente throw — you got him head over heels.' Cleveland statue unveiled August 10, 2021 (his 88th birthday) in Tony Brush Park, Little Italy.",
+    "world_series": "None. Career postseason appearances: 0. Never appeared in a World Series or ALCS. Closest: 1959 Indians finished second, five games behind the Chicago White Sox. The Curse of Rocky Colavito: Terry Pluto's 1994 book documented that after the April 17, 1960 trade to Detroit, the Indians did not finish within 11 games of first place for 34 seasons.",
+    "career_avg": ".266",
+    "career_hits": 1730,
+    "career_hr": 374,
+    "career_war": 44.9,
+    "career_rbi": 1159,
+    "career_notes": "14 seasons (1955-1968). Cleveland Indians (1955-59, 1965-67), Detroit Tigers (1960-63), Kansas City Athletics (1964), Chicago White Sox (1967), Los Angeles Dodgers (1968), New York Yankees (1968). .266/.359/.489 career, 44.9 WAR, OPS+ 132. 374 HR, 1,159 RBI, 1,730 H. Also pitched: career ERA 0.00 in 5.1 IP — including 3 hitless innings vs. Detroit (1958) and beating the Tigers for the Yankees (1968) while also hitting a crucial HR in that game — reportedly the last non-pitcher to win a game as a relief pitcher until catcher Brent Mayne in 2000. Inducted into Cleveland Indians Hall of Fame 2006. Voted one of the 100 greatest Indians players in 2001. Died December 10, 2024, Bernville, PA, age 91."
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "con": 3,
+    "pow": 5,
+    "spd": 0,
+    "def": 3,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": ".257 BA in 1959. OPS+ 133 — solid but the contact wasn't elite. Career .266. Prone to slumps that Cleveland fans would get on him for. 'Don't Knock the Rock' was coined during a slump. He struck out in the normal power-hitter range but the contact quality was not the story — power was. CON 3 is accurate: above average but not in the elite contact tier. The gap between Colavito (CON 3) and Aaron (CON 5) is real and the set reflects it honestly.",
+    "pow": "42 HR in 1959, AL leader. 41 HR in 1958, AL slugging leader (.620). Career 374 HR, averaging 33 per 162 games. Three 40+ HR seasons. Eleven consecutive 20+ HR seasons. Third among AL right-handed hitters in career HR at retirement. POW 5 is correct — Colavito was a dominant power force, one of the three or four most feared right-handed power hitters in the AL during his peak. The 162-game average of 33 HR in the second dead ball era is the POW 5 in numerical form.",
+    "spd": "19 career SB in 14 seasons. Described repeatedly as a liability on the bases. Flat-footed. SPD 0 reflects the power hitter who did not run. This is the set's second CON 3/POW 5/SPD 0 combination profile (Mathews was CON 5/POW 5/SPD 0; Colavito is CON 3/POW 5/SPD 0 — the pure slugger variant).",
+    "def": "One of the great outfield arms in baseball history. Del Crandall: 'I saw you throw and I saw Clemente throw — you got him head over heels.' Indians catcher J.W. Porter when manager Gordon asked how hard Colavito threw: 'Faster than anybody. Faster than Score or Duren.' First AL outfielder with a perfect 1.000 fielding percentage for a full season (1965). Career .980 fielding percentage. 14 assists from right field in 1958. Led all outfielders with six double plays in 1958. DEF 3 is the arm — the same tier as Ashburn (putout records) and Furillo (the Wall). Three different expressions of DEF 3, all historically justified.",
+    "clu": "0. No WS appearances. No pennants. Closest: 1959, second place, five games out. Career CLU 0 — the greatest player in Cleveland Indians history of his era never played in a World Series. The Curse of Rocky Colavito is the franchise-level consequence of this CLU 0: trading away the OVR 9/CLU 0 player cost the Indians 34 years of mediocrity. The CLU 0 is not just a personal statistic — it became a civic wound."
+  },
+
+  "personality": {
+    "leadership_style": "The fan's player — the man who insisted autograph-seeking children line up properly and say please and thank you. The man Frank Lane despised because Lane preferred players who lived and drank hard, and Colavito was nothing like that. He was charismatic, accessible, and maintained the on-deck ritual that a generation of Cleveland kids imitated. He led by being exactly what he was: a 6'3'' Italian-American from the Bronx who hit home runs and threw out baserunners and cared about the people in the stands.",
+    "temperament": "Composed under pressure and genuinely angry about the trade. He never said Kuenn wasn't good enough (that was Gordon's lie). He was in shock. He told Herb Score what had happened from the bullpen. Forty years later he told an interviewer: 'I was in total shock and very disappointed. I just couldn't believe they did it.' The anger at Frank Lane was sustained and specific: 'Rocky Colavito (the 42 homers) thinks Frank Lane is a seven-letter euphemism for a male sexual prophylactic.' The composure and the anger lived together.",
+    "work_ethic": "11 consecutive 20+ HR seasons. Career .480 slugging. Pitched three hitless innings against Detroit in 1958 (as a position player). Won a game for the Yankees in 1968 as a relief pitcher while also hitting a crucial HR. Perfect 1.000 fielding percentage in 1965 over 162 games. Threw from home plate past the outfield wall during tryouts. The work ethic was visible and sustained.",
+    "lifestyle": "Bronx Italian immigrant family, Cleveland Indians, then everywhere Frank Lane and subsequent GMs sent him, then back to Cleveland — 'I always felt this is my town. I love Cleveland. It's my favorite town in the world. That's the God's honest truth. I'm not blowing smoke to anybody, because I don't have to.' He retired to Pennsylvania, maintained close ties to Cleveland, threw out the first pitch on his 80th birthday (2013), attended the Little Italy statue unveiling on his 88th birthday (2021). He died December 10, 2024, in Bernville, Pennsylvania, at age 91.",
+    "era_adaptability": "POW 5 is era-proof. The arm (DEF 3) is era-proof — the best arms translate to any century. The CON 3/SPD 0 combination would be somewhat more penalized in modern analytics (OBP over slugging, baserunning value), but the raw power output (33 HR per 162 games in a pitcher-dominant era) would be elite in any context. His 374 HR came during one of the most pitcher-friendly eras in baseball history.",
+    "dark_side": "Standing on first base in Memphis while Joe Gordon told him he'd been traded. 'There I was, still standing on first base, and this guy is telling me that I am traded.' He went into the dugout. He went down to the bullpen to tell Herb Score. They had heard there might be a trade in spring training but had been told it was dead. Then the fire. Russwood Park, built in 1896, burned to the ground four hours after the last game Colavito played as a Cleveland Indian."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Arm",
+      "desc": "Del Crandall: 'I saw you throw and I saw Clemente throw — you got him head over heels.' Indians catcher J.W. Porter: 'Faster than anybody. Faster than Score or Duren.' In ILB, Colavito's DEF 3 generates the Colavito Arm activation: on any throw from RF to home plate, runners attempting to score from second are automatically out (no roll required) — the same mechanic as Furillo's Wall but applied to the throw rather than the knowledge of geometry. The arm is not the best in the set's canon; it is the fastest.",
+      "note": "Colavito's arm is historically documented alongside Clemente and Furillo as among the greatest ever. His 14 assists in 1958 and league-leading 6 double plays among outfielders that year are the mechanical expression."
+    },
+    {
+      "tag": "Four Consecutive",
+      "desc": "June 10, 1959. Baltimore's Memorial Stadium. Four home runs in four consecutive at-bats. One of only six players in baseball history. Colavito called it the highlight of his career in 2021. In ILB, once per season, when Colavito hits a HR in any at-bat, the Four Consecutive trigger may activate: roll 1-6; on a 1-2, the next at-bat generates another HR roll at +2 bonus (the momentum carries). Once activated, the sequence continues until the roll fails. Maximum four consecutive activations per game.",
+      "note": "Colavito hit the four consecutive HRs in a single game on June 10, 1959, at Baltimore. He hit them in the third, fifth, sixth, and ninth innings."
+    },
+    {
+      "tag": "Point the Bat",
+      "desc": "The on-deck ritual: Colavito would kneel, then step into the batter's box, stretch the bat over his shoulders, and slowly point it at the pitcher. Every kid in Cleveland imitated it. Jim Thome later adopted a similar gesture. In ILB, Colavito's signature ritual generates a Pitcher's Pressure effect: before his first at-bat each game, the opposing pitcher's ERA increases by 0.3 for that at-bat only. The bat pointing was not intimidation — it was a statement of intention, which amounted to the same thing.",
+      "note": "Guardians SVP Bob DiBiasio: 'Sandlot ballplayers everywhere imitated Rocky's on-deck circle routine of kneeling, then as he stepped into the batter's box the stretching the bat over the shoulders and pointing the bat at the pitcher. I can proudly say I was one of them.'"
+    },
+    {
+      "tag": "Don't Knock the Rock",
+      "desc": "During slumps, Cleveland fans would get on Colavito. A sportswriter coined the phrase to defend him. Lane preferred players who 'lived and drank hard'; Colavito insisted autograph-seeking children say please and thank you. In ILB, during any slump period (3+ consecutive games without an XBH), Colavito's POW does not drop — it remains at 5 regardless of the slump's length. Don't knock the Rock. The power is still there. The slump is temporary. The fans who came to see the home run will see the home run eventually.",
+      "note": "The 'Don't Knock the Rock' watchword developed organically among Cleveland fans during slumps. Lane's dislike of Colavito was partly personal — Colavito's clean-living reputation was the opposite of what Lane admired."
+    },
+    {
+      "tag": "Hamburger for Steak",
+      "desc": "Frank Lane, after the trade: 'I have just traded hamburger for steak.' Also: 'Forty home runs for forty doubles.' Cleveland fans hung Lane in effigy. Attendance dropped by over half a million in 1960. In ILB, when Colavito is traded to any franchise mid-career, that franchise's CLU is reduced by 0.5 for three seasons (the Lane Curse mechanism). The franchise that trades him has a 1-in-6 chance per season of receiving the Curse of Rocky Colavito marker, which reduces all subsequent OVR calculations by 0.5 until the marker is removed by reacquiring Colavito or trading equal or greater value.",
+      "note": "The Curse of Rocky Colavito is the subject of Terry Pluto's 1994 book. The Indians didn't finish within 11 games of first place for 34 seasons after the trade. The ILB mechanic encodes the documented franchise-level cost."
+    },
+    {
+      "tag": "I Always Felt This Is My Town",
+      "desc": "On his return to Cleveland in 1965, and in interviews decades later: 'I always felt this is my town. I love Cleveland. It is my favorite town in the world. That is the God's honest truth. I am not blowing smoke to anybody, because I do not have to.' In ILB, when Colavito plays for the Cleveland franchise (his original or return stint), his CLU 0 generates a Home Crowd bonus that partially offsets the CLU penalty: Cleveland home games provide a +0.5 POW bonus and a +0.3 DEF bonus. The love is specific and the ballpark responds to it.",
+      "note": "Colavito was voted the most memorable player in Cleveland Indians history in 1976. He was inducted into the Cleveland Indians Hall of Fame in 2006. A statue was unveiled in Cleveland's Little Italy on his 88th birthday in 2021."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballpark",
+      "affinity": "SACRED",
+      "note": "Cleveland's Little Italy / the statue / the on-deck ritual / 'I always felt this is my town.' The Italian-American Bronx kid who became Cleveland's most beloved player.",
+      "note_extra": "Source labeled 'Cleveland Little Italy / Tony Brush Park Statue August 10 2021 / On-Deck Ritual / Don't Knock the Rock / Most Memorable Player 1976 / Indians Hall of Fame 2006 / I Love Cleveland / 88th Birthday Ceremony' / affinity 'SACRED' — thirty-second SACRED in the set. Colavito's is the most civic SACRED in the set — not a single game or moment but a sustained relationship between a player and a city. He was born in the Bronx, signed with Cleveland at 17, became the most beloved player in Indians history, was traded in the most hated deal in franchise history, came back, and maintained the relationship for the rest of his life. On August 10, 2021 — his 88th birthday — a statue was unveiled in Tony Brush Park in Cleveland's Little Italy neighborhood, the Italian-American community that claimed him as their own. He was there for the ceremony. He had thrown out the first pitch on his 80th birthday in 2013. He told interviewers repeatedly: 'I always felt this is my town. I love Cleveland. It is my favorite town in the world. That is the God's honest truth.' He was voted the most memorable player in Indians history in 1976. He was inducted into the Indians Hall of Fame in 2006. The SACRED is the city — not the stadium, not the specific game, but the bond between the Italian-American power hitter from the Bronx and the Cleveland fans who imitated his on-deck ritual in sandlots across Northeast Ohio. Ballpark domain: Cleveland Stadium and its successors are the physical expression of the SACRED, but the bond exists in the neighborhood, the Italian-American community, the kids who pointed the bat at the pitcher."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "The Bronx / Theodore Roosevelt High School dropout / DiMaggio devotion / semipro arm that threw past outfield walls / $3,000 signing bonus / Herb Score friendship.",
+      "note_extra": "Source labeled 'The Bronx NY / Italian American Family / Theodore Roosevelt High School Dropout 16 / Joe DiMaggio Fan / Semipro Mohawks Crotona Park / Arm 400 Feet Home Plate Past Wall / Yankees Tryout 1951 / Scout Mike McNally / $3000 Signing Bonus / Herb Score Best Friend' / affinity 'ORIGIN' — thirty-fifth ORIGIN in the set. Colavito's is the most classically Italian-American immigrant-family ORIGIN in the set: the Bronx, the drop out at 16 (parallel to Newcombe who also didn't graduate), the devotion to DiMaggio as the model for what an Italian-American ballplayer could be, the arm that threw baseballs from home plate past the outfield wall in tryouts (a demonstration that went beyond baseball skill into something closer to mythology). Cleveland scout Mike McNally signed him at a Yankees tryout in 1951 for $3,000 despite his youth and lack of high school completion. He was drawn to Cleveland despite growing up a Yankees fan because the Indians made him feel wanted — and because his best friend and eventual roommate, Herb Score, was already there. The ORIGIN is the Italian-American community of the Bronx, the dropout who threw past the wall, the scout who recognized what the arm meant even before the bat showed up. Community Events domain: the neighborhood, the semipro games at Crotona Park, the community that shaped the player before Cleveland claimed him."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "DAMNED",
+      "note": "Standing on first base in Memphis. Frank Lane. 'Hamburger for steak.' The Curse of Rocky Colavito. Russwood Park burning four hours after the last game.",
+      "note_extra": "Source labeled 'Memphis Exhibition Game April 17 1960 / Standing on First Base / Joe Gordon Trade Announcement / Frank Lane Hamburger Steak / Fans Effigy / 34 Year Curse / Russwood Park Fire / Tommy John Tommie Agee Return Trade Cost / Hall of Fame Still Missing' / affinity 'DAMNED' — twelfth DAMNED in the set. Colavito's is the most structurally named DAMNED in the set: the Curse of Rocky Colavito is a documented phenomenon with a book, a 34-year measurable consequence, and a specific fire. On April 17, 1960, the Cleveland Indians played their last spring training exhibition game against the White Sox in Memphis. Colavito hit a HR in his first at-bat. In his next plate appearance he reached first on a fielder's choice and manager Joe Gordon came out to him standing on first base: 'That is the last time you will bat in a Cleveland uniform.' Colavito: 'I was in total shock and very disappointed. I just could not believe they did it.' Lane's public justification: 'I have just traded hamburger for steak.' Cleveland fans hung Lane in effigy. Attendance dropped by more than half a million in 1960. The Indians did not finish within 11 games of first place for 34 seasons. Four hours after the final game, Russwood Park — the 64-year-old ballpark in Memphis, constructed primarily of wood in 1896 — burned to the ground in a five-alarm fire. The Curse of Rocky Colavito is not a metaphor; it is the specific, documented consequence of the worst trade in one of baseball's oldest franchises' history. Hotel/Rest domain: the private shock — standing on first base, then the bullpen with Herb Score, then checking out of the Cleveland hotel to meet his new Detroit teammates."
+    },
+    {
+      "location": "Open Field/Stadium",
+      "affinity": "MAXIMUM",
+      "note": "Four consecutive HR on June 10, 1959. The arm that threw faster than Herb Score and Ryne Duren. The on-deck ritual an entire generation imitated. The 42 HR in the year they traded him.",
+      "note_extra": "Source labeled 'June 10 1959 Four Consecutive HR Baltimore / Only Six Players Ever / AL HR Leader 42 1959 / AL Slugging Leader .620 1958 / Arm Faster Than Score or Duren / Del Crandall Faster Than Clemente / 162-Game Average 33 HR / 1.000 Fielding 1965 / Cover of Time Magazine' / affinity 'MAXIMUM' — eleventh MAXIMUM in the set (the power/arm dual MAXIMUM). Colavito's is the most physically total MAXIMUM in the set: both the bat and the arm reach historically documented maximums. The June 10, 1959 four consecutive HR game at Baltimore was the highlight of his career (he said so himself in 2021) and one of only six such games in all of baseball history. The arm: Del Crandall (Hall of Fame catcher) said Colavito's arm exceeded Clemente's in pure strength; Indians catcher J.W. Porter said it was faster than anyone, including pitcher Herb Score and reliever Ryne Duren — two of the hardest throwers in the game. The batting average over his peak 11 seasons: 33 HR per 162 games in one of the most pitcher-dominated eras in the sport's history. The 1958 AL slugging percentage (.620) was the highest by an Indians right-handed hitter until Albert Belle in 1994. The 1965 perfect 1.000 fielding percentage — the first AL outfielder to accomplish it — was the final expression of the defensive maximum. Open Field domain: these maximum performances are visible, crowd-stopping events. The fans jumped to their feet for his throws. They came to the park to see his HR. They knew what they were watching."
+    },
+    {
+      "location": "Home",
+      "affinity": "HIGH",
+      "note": "Cleveland. 'I love Cleveland. It is my favorite town in the world. That is the God's honest truth.' The Italian-American community that welcomed him and the city that kept him as a SACRED long after the trade.",
+      "note_extra": "Source labeled 'Cleveland My Town / Italian American Community / 1976 Most Memorable Player Vote / 2006 Indians Hall of Fame / 80th Birthday First Pitch 2013 / 88th Birthday Statue Little Italy 2021 / I Am Not Blowing Smoke / God Honest Truth / Pennsylvania Retirement But Cleveland Heart' / affinity 'HIGH' — thirty-first HIGH in the set. Colavito's is the most documented post-career HIGH in the set: he maintained an active, visible relationship with Cleveland for decades after his playing career ended, through multiple organizations, ceremonies, and public events. He served as a TV color commentator for WJW in Cleveland after his career, then as an Indians coach (1973, 1976-78). He threw out the first pitch at 80. He was present at the Little Italy statue unveiling at 88. He told every interviewer who asked: 'I always felt this is my town. I love Cleveland. It is my favorite town in the world. That is the God's honest truth. I am not blowing smoke to anybody, because I do not have to.' He retired to Pennsylvania but the declaration of love for Cleveland was a standing statement. Home domain: not the place he was born (the Bronx) or the place he died (Pennsylvania) but the place he chose and that chose him — Cleveland, specifically the Italian-American community of Cleveland, specifically the neighborhood that eventually put up his statue."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "POW 5 — the raw power is the highest ceiling in the set for a non-Mantle/Mays player. Every game, the potential for a HR is real.",
+      "Four Consecutive — any HR has a 1-in-3 chance of activating a consecutive HR roll with a +2 bonus on the next at-bat.",
+      "The Arm — automatic out on any runner attempting to score from second on a ball hit to RF with Colavito fielding.",
+      "I Always Felt This Is My Town — Cleveland home games generate +0.5 POW and +0.3 DEF bonus.",
+      "Point the Bat — before the first at-bat each game, the opposing pitcher's ERA is increased by 0.3 for that at-bat only."
+    ],
+    "cold_triggers": [
+      "CLU 0 — never reached the postseason in 14 seasons. The franchise-level consequence of trading him (the Curse) is encoded in the Hamburger for Steak chemistry trait.",
+      "SPD 0 — no baserunning value. The Rock does not run.",
+      "CON 3 — slump vulnerability. 'Don't Knock the Rock' was coined during slumps. The three-game XBH drought activates the Don't Knock the Rock trait to maintain POW 5, but the contact limitation is real.",
+      "Frank Lane marker — when the Dreamers 1950 franchise carries the Hamburger for Steak curse marker, all CLU calculations are reduced by 0.5."
+    ],
+    "pressure_response": "The on-deck ritual was designed for exactly this. He would kneel, stretch the bat over his shoulders, and point it at the pitcher. The pressure response was public, physical, and deliberate. Four consecutive HR in Baltimore on June 10, 1959 — in what the Sporting News had called the most likely season to break Babe Ruth's record — is the documented pressure response. He hit .290 with 45 HR and 140 RBI for Detroit in 1961, his best overall season, in the year after the trade. The Rock performed."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Four Consecutive",
+      "type": "Historic Feat",
+      "text": "June 10, 1959. Baltimore's Memorial Stadium. Rocky Colavito comes to the plate in the third inning and hits a home run. He hits another in the fifth. Another in the sixth. He comes up in the ninth inning. He hits another home run. Four home runs in four consecutive at-bats. One of only six players in baseball history to accomplish this. Colavito called it the highlight of his career in an interview 62 years later. That year, the Sporting News had run an article touting him as the most likely player to break Babe Ruth's record. The Indians finished second, five games behind the White Sox. He was traded the following spring.",
+      "origin": "The June 10, 1959 four-consecutive-HR game at Baltimore is documented across multiple sources. The specific innings (3rd, 5th, 6th, 9th) are documented. The six-players-ever context is documented. Colavito's 2021 statement calling it the highlight of his career is from Wikipedia."
+    },
+    {
+      "title": "Standing on First Base",
+      "type": "Drama",
+      "text": "April 17, 1960. Memphis, Tennessee. The Cleveland Indians play their last spring training game against the Chicago White Sox. Rocky Colavito hits a home run in his first at-bat — the last home run he will hit as a Cleveland Indian. In his next plate appearance he reaches first base on a fielder's choice. Manager Joe Gordon comes out to him. 'That is the last time you will bat in a Cleveland uniform.' Gordon says he has been traded to Detroit for Harvey Kuenn. Colavito says: 'I was in total shock and very disappointed. I just could not believe they did it.' He is removed from the game for a pinch runner. He walks down to the right-field bullpen. His best friend Herb Score is there. He tells him what has happened. Four hours later, Russwood Park — the ballpark where the game was played — burns to the ground.",
+      "origin": "The sequence of events on April 17, 1960 is documented in the Terry Pluto book excerpt and SABR sources. Colavito's quote about shock and disbelief is from the Vintage Detroit piece citing a direct Colavito interview. The Russwood Park fire is documented in the Curse of Rocky Colavito Wikipedia article. Score's presence in the bullpen and Colavito going to tell him is from the Pluto book excerpt."
+    },
+    {
+      "title": "Hamburger for Steak",
+      "type": "Drama",
+      "text": "Frank Lane, General Manager of the Cleveland Indians, explains his trade of the 1959 American League home run champion for the 1959 American League batting champion: 'I have just traded hamburger for steak.' Cleveland fans hang Lane in effigy. Attendance drops by more than half a million the following year. The Indians do not finish within eleven games of first place for thirty-four seasons. Terry Pluto publishes a book about it in 1994. Rocky Colavito, decades later, thinks Frank Lane is a seven-letter euphemism for a male sexual prophylactic. Lane also says he has traded 'forty home runs for forty doubles.' What Lane means is that singles and doubles win just as many games as home runs. He is wrong. The people who came to the park to see Rocky hit home runs stop coming to the park.",
+      "origin": "Lane's quotes ('hamburger for steak,' 'forty home runs for forty doubles') are documented across multiple sources including the SABR trade analysis and the Throneberry Fields piece. The 34-year statistic is from the Curse of Rocky Colavito. Colavito's sustained anger at Lane is from the Throneberry Fields piece. The attendance decline is documented."
+    },
+    {
+      "title": "Faster Than Score or Duren",
+      "type": "Rare Feat",
+      "text": "Indians manager Joe Gordon asks his catcher J.W. Porter one day, curious about how hard Colavito throws. 'Faster than anybody,' Porter replies. 'Faster than Score or Duren?' Gordon asks, referring to Herb Score and fireballing reliever Ryne Duren. 'Faster than anybody,' Porter repeats. Herb Score is one of the fastest pitchers in the American League. Ryne Duren throws so hard he deliberately bounces his warm-up pitches to terrorize hitters. Rocky Colavito is a right fielder. Del Crandall, who has seen both Colavito and Roberto Clemente throw, says: 'I saw you throw and I saw Clemente throw — you got him head over heels.' His arm was one of three things people came to the park to see: the home runs, the on-deck ritual, and the throw.",
+      "origin": "The Gordon/Porter exchange is documented in the Baseball Almanac, citing Marc Sommers' biography Rocky Colavito: Cleveland's Iconic Slugger. Del Crandall's quote is from the Italian Americans in Baseball piece citing Baseball Digest. The Clemente comparison for Colavito's arm is documented across multiple sources."
+    },
+    {
+      "title": "I Love Cleveland",
+      "type": "Legacy",
+      "text": "Rocky Colavito is asked, in 2013, during his 80th birthday celebration at a Cleveland Indians game, how he feels about the city. He says: 'I always felt this is my town. I love Cleveland. It is my favorite town in the world. That is the God's honest truth. I am not blowing smoke to anybody, because I do not have to.' He was born in the Bronx. He grew up a Yankees fan. He was traded away on first base in Memphis. He was brought back in 1965 in a deal that cost the Indians Tommy John and Tommie Agee. He was eventually traded again. He retired to Pennsylvania. But in 2013 and in every interview thereafter, the answer is the same: Cleveland. On August 10, 2021 — his 88th birthday — a statue of him is unveiled in Tony Brush Park in Cleveland's Little Italy neighborhood. He is there for the ceremony.",
+      "origin": "Colavito's 2013 birthday quote is from the Guardians' MLB.com obituary. The statue unveiling on August 10, 2021 is documented. His persistent declaration of love for Cleveland across multiple interviews is documented."
+    },
+    {
+      "title": "The Last Win by a Non-Pitcher",
+      "type": "Rare Feat",
+      "text": "Rocky Colavito has always been a pitcher. He was signed as a pitcher-outfielder. On August 13, 1958, he pitched three hitless innings for Cleveland against Detroit. In 1968, playing for the New York Yankees, he comes in to pitch against the Detroit Tigers. He pitches. He hits a crucial home run. The Yankees win. Colavito is the winning pitcher. His career ERA is 0.00. This is reportedly the last time a non-pitcher wins a game in relief in the expansion era until catcher Brent Mayne does it in 2000. The man who was traded for Harvey Kuenn has a perfect career ERA and at least one pitching win. Frank Lane did not consider this.",
+      "origin": "Colavito's 1958 three hitless innings for Cleveland are documented. His 1968 pitching win for the Yankees is documented in the This Day in Baseball piece and multiple other sources. The career 0.00 ERA is documented. The 'last non-pitcher to win' distinction until Mayne in 2000 is from the This Day in Baseball piece."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'3'', 190 lbs — 'the 6-foot-3, boyishly handsome strongman from the Bronx.' In 1959 he is 25 years old, the AL HR champion, on the cover of Time magazine. The face of a man who will point a bat at a pitcher and mean it, who will sign every autograph, who will call Cleveland his favorite town in the world for the next 60 years. Not the brooding power hitter — the charismatic one, the one the kids in the sandlots imitated.",
+    "attire": "Cleveland Indians home whites with the distinctive Chief Wahoo — the bat extended in the pre-swing pose, the moment just after he has finished pointing it at the pitcher and is loading for the swing. Number 6. The Italian-American kid from the Bronx who is about to hit a home run.",
+    "mood": "Pure charisma and contained power. The on-deck ritual is the mood: the deliberate, public declaration of intent before every at-bat. Not Newcombe's compressed force or Mantle's tragic beauty — Colavito's is the accessible hero, the guy who made the fans stand up both when he hit a home run and when he threw someone out at home plate.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Cleveland Municipal Stadium visible in the background — the stadium where 165,000 fans watched the Indians and White Sox in that final August 1959 series, where Colavito played the last five seasons of his first Indian tenure. The background carries the weight of the city that loved him and the franchise that traded him.",
+    "reference": "The defining visual is the bat-point: stretched over the shoulders, then leveled and aimed at the pitcher before the swing. The portrait should show the moment just after the point, as he sets his stance — the declaration made, the power loaded, the home run as yet unhit but already inevitable."
+  }
+}
