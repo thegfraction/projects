@@ -1,0 +1,193 @@
+{
+  "card_type": "player",
+  "name": "Norm Cash",
+  "nickname": "Stormin' Norman",
+  "year": 1961,
+  "team": "Detroit Tigers",
+  "league": "American League",
+  "era": "1960s",
+  "ilb_team": "Swingers 1960",
+  "position": "1B",
+  "bats": "L",
+  "throws": "R",
+  "height": "6'0\"",
+  "weight": "195 lbs",
+  "born": "November 10, 1933 — Justiceburg, TX",
+  "died": "October 11, 1986 — Beaver Island, MI",
+  "hof": "Not inducted. Career OPS+ 139 — tied all-time with Reggie Jackson. 7th most home runs in the 1960s (278). Two of the eleven players with 250+ HR in the 1960s are not in the Hall of Fame; Cash and Frank Howard.",
+
+  "real_stats": {
+    "season": 1961,
+    "batting_avg": ".361",
+    "obp": ".487",
+    "slg": ".662",
+    "ops": "1.148",
+    "hits": 193,
+    "doubles": 22,
+    "triples": 8,
+    "home_runs": 41,
+    "rbi": 132,
+    "runs": 119,
+    "walks": 124,
+    "total_bases": 354,
+    "extra_base_hits": 71,
+    "war": 8.3,
+    "all_star": 1,
+    "awards": "AL batting champion 1961 (.361 — highest batting average by any ML player in the entire decade of the 1960s; not surpassed by a Tiger until Magglio Ordóñez hit .363 in 2007). AL OBP leader 1961 (.487). AL hits leader 1961 (193). 4th in AL MVP voting 1961. On June 11, 1961, became the first Detroit Tiger to hit a home run out of Tiger Stadium, clearing the right-field roof (estimated 480 feet, off Joe McClain). Hit the Tiger Stadium roof a total of four times in his career. The last American League player to hit 40+ home runs and bat .350+; only four AL players ever did it before him: Mickey Mantle, Lou Gehrig, Jimmie Foxx, and Babe Ruth. Only American League player to hit 20+ home runs every season from 1961 to 1969. Finished second in AL home runs three times (1962, 1965, 1971). Sporting News Comeback Player of the Year 1965. Career .271 BA, .374 OBP, .488 SLG, 377 HR, 1,103 RBI, OPS+ 139. Led AL 1B in assists three times (1965-67) and fielding percentage twice (1964, 1967). Set Tigers franchise records at first base in games, putouts, assists, and double plays — breaking marks set by Hank Greenberg and Rudy York. Bill James ranked Cash the 20th best first baseman in baseball history. Cash on the 1961 season: 'It was a freak. Even at the time, I realized that. Everything I hit seemed to drop in, even when I did not make good contact. I never thought I would do it again.' Cash on his career: 'I owe my success to expansion pitching, a short right-field fence, and my hollow bats.'",
+    "world_series": "1968 World Series champion (Detroit Tigers over St. Louis Cardinals in seven games). Cash hit .385 (10-for-26) with 1 HR. In Game 7 with two out in the seventh inning and the game scoreless, Cash singled off Bob Gibson to start a three-run rally that gave the Tigers the lead and their first championship since 1945. Career postseason: .311 BA, 2 HR, 7 RBI across 16 games in three postseason series (1959 WS, 1968 WS, 1972 ALCS)."
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "con": 3,
+    "pow": 4,
+    "spd": 0,
+    "def": 2,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": "Career .271 BA with a career .374 OBP — the walk rate is the contact quality story. Cash walked 1,043 times against 1,091 strikeouts, one of the most disciplined ratios in the era. He was not a .300 hitter (peak career seasons outside 1961 were .280s), but his plate patience was elite. CON 3 reflects the disciplined contact hitter: the 1961 .361 was a freak by his own admission; the authentic contact level is the .270s hitter who drew 100+ walks multiple times.",
+    "pow": "Career 377 HR. 278 HR in the 1960s alone — 7th most of any player that decade. Hit 30+ HR four more times after 1961 and 20+ in ten of eleven seasons from 1961-1971. Four balls completely cleared the Tiger Stadium roof. Career .488 SLG. Learned the Tiger Stadium right-field porch perfectly as a left-handed hitter. POW 4 is the consistent decade-long power threat: a player who finished second in the AL in HR three separate times, whose career total places him in the all-time tier with the strongest left-handed hitters in AL history (fourth behind Ruth, Williams, and Gehrig when he retired).",
+    "spd": "Career 43 SB. SPD 0. The pure stand-and-deliver left-handed power hitter. His relationship with speed is documented entirely through anecdote: he once tried to steal a base during a rain delay and called time-out when caught in a rundown. Neither worked.",
+    "def": "Led AL 1B in fielding percentage twice (1964, 1967) and assists three times (1965-67). Set Tigers franchise records in games, putouts, assists, and double plays at first base. Career records compared to Hank Greenberg and Rudy York. Regarded by contemporaries as one of the best defensive first basemen of the 1960s — quick and sure-handed, especially in chasing foul balls near the stands. DEF 2 reflects genuine defensive quality without the Gold Glove award; the same tier as other strong but non-award-winning defenders in the set.",
+    "clu": "1968 World Series champion. .385 WS batting average (10-for-26). The Game 7 single off Bob Gibson that started the decisive three-run rally in a scoreless game. Career postseason .311 with 2 HR and 7 RBI across three series appearances. CLU 2 reflects the player who showed up in October (.385 in the only WS he played) and delivered the biggest hit of the Tigers' championship year."
+  },
+
+  "personality": {
+    "leadership_style": "The team's unofficial morale officer. The SABR BioProject calls him 'a larger than life first baseman from Texas who lived, drank, and played hard, sang country and western in the clubhouse, and could be depended upon in clutch situations.' When Nolan Ryan was one out from a no-hitter and Cash had struck out three times, he went to the plate with a table leg. When told he could not use it, he said: 'Why not? I won't hit him anyway.' Then he popped out with a real bat and completed the no-hitter. The leadership style was the table leg: acknowledge the situation honestly, make everyone laugh about it, and do what you can with the actual bat available.",
+    "temperament": "Candid to a fault, funny to his last day, and constitutionally incapable of pretending. He admitted to corking his bats on the record in Sports Illustrated and demonstrated the method for a writer. He named his cabin cruiser Stormin' Norman after himself. He wore cowboy boots on a wet dock. He tried to steal a base during a rain delay. The temperament is the table leg: a man who saw a hopeless situation and decided to make it memorable rather than merely losing.",
+    "work_ethic": "Drove a tractor on his family's 250-acre Texas farm from sunup to sundown at age 10. 'You get strong wrists,' he told Sport magazine. Played 2,000+ games for the Tigers over 15 seasons. Led the league in assists three times. Set franchise defensive records. Missed 15-20 games per year due to his lifestyle — the one exception being 1961, 1966, and 1967, when he was healthy enough to play 150+ games.",
+    "lifestyle": "Hard-living Texan. Country and western in the clubhouse. Announced for ABC and Tigers cable TV after his playing career. Played professional slow-pitch softball for the Detroit Caesars (won championships in both seasons). Named his boat after himself. Four vodka tonics at dinner on October 11, 1986, on Beaver Island. Cowboy boots on a wet dock. The lifestyle was the career, generously defined.",
+    "dark_side": "The 118-point drop. He went from the highest batting average in the 1960s to .243 the following year — the largest single-season decline ever by a batting champion. Detroit fans booed him in subsequent seasons, believing he was underachieving after abandoning the cork. He had been, by his own cheerful admission, cheating when he hit .361. He drowned at 51 with a BAC of 0.18. Alex Karras told a writer he had been murdered due to gambling debts; there is no evidence for this. The dark side is the same as the light side, just at different hours."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Hollow Bats",
+      "desc": "In 1981, Norm Cash told Sports Illustrated: 'I owe my success to expansion pitching, a short right-field fence, and my hollow bats.' He then demonstrated for the writer how he drilled a hole in his bats and filled the cavity with a mixture of cork, sawdust, and glue. He had been using corked bats, by his account, throughout his career. In ILB, Hollow Bats is the set's first documented cheating mechanic: in any regular season, Oliva may activate the Hollow Bat once per series. The activation raises his effective POW from 4 to 5 for that series. However, on a 1-in-4 result, the cork is detected — and the current at-bat result is reversed to an automatic out, the opposing team receives a warning, and Cash's CLU drops by 1 for the remainder of the season. He knew the risk. He took it anyway.",
+      "note": "Cash's Sports Illustrated admission (1981) and his demonstration of the corking method are documented in multiple sources. His self-description of using corked bats throughout his career is documented in Wikipedia."
+    },
+    {
+      "tag": "It Was a Freak",
+      "desc": "Cash on his 1961 season: 'It was a freak. Even at the time, I realized that. Everything I hit seemed to drop in, even when I did not make good contact. I never thought I would do it again.' He was right. He never hit above .283 again. In ILB, It Was a Freak is the set's most honest career-disclaimer trait: once per career, the 1961 statistical floor (.361 BA, .487 OBP, .662 SLG) may be invoked as a single-season performance guarantee — but only if the Hollow Bats mechanic has been activated. The freak season was the corked bat season. The cork explains the freak. The freak cannot occur without the cork.",
+      "note": "Cash's self-assessment of 1961 as a freak season is documented in Wikipedia and the SABR BioProject."
+    },
+    {
+      "tag": "Why Not? I Won't Hit Him Anyway",
+      "desc": "July 15, 1973. Nolan Ryan is working on his second no-hitter of the season. Norm Cash has struck out three times. He goes to the Tigers clubhouse, unscrews a table leg from a piece of furniture, and walks to the plate with it. Umpire Ron Luciano spots it and orders him to use a legal bat. Cash argues: 'Why not? I won't hit him anyway.' He is forced to use a real bat. He pops out. Ryan completes the no-hitter. In ILB, Why Not? I Won't Hit Him Anyway is the set's only in-game prop-substitution trait: once per career, when facing a pitcher with STF 5 or higher and having struck out twice already, Cash may declare the table leg. The declaration automatically generates a maximum CLU result for the next teammate at-bat (the team is laughing; they play loose; someone behind him gets a hit). Cash pops out. The legacy is the clubhouse.",
+      "note": "The July 15, 1973 table leg incident, Luciano's reaction, Cash's response, and Ernie Harwell's 'piano leg' call are all documented in multiple sources."
+    },
+    {
+      "tag": "Jim Campbell Pays Me to Hit Home Runs",
+      "desc": "Mickey Lolich once asked Cash why he never hit for a high average after 1961. Cash replied: 'Jim Campbell pays me to hit home runs.' Then said: 'I can get hits if I want to, just watch tomorrow.' The next day he went 3-for-4. In ILB, Jim Campbell Pays Me encodes Cash's deliberate power-over-average approach: at the start of any season, Cash's manager may choose Power Mode (POW treated as 5, CON treated as 2) or Contact Mode (CON treated as 4, POW treated as 3). The default is Power Mode. In Contact Mode, Cash may invoke 'I can get hits if I want to' once per week of play — generating an automatic 3-for-4 game that day.",
+      "note": "The Lolich-Cash exchange is documented in Wikipedia."
+    },
+    {
+      "tag": "First Tiger Over the Roof",
+      "desc": "June 11, 1961. Tiger Stadium. Joe McClain of the Washington Senators is pitching. Norm Cash hits a home run estimated at 480 feet that clears the right-field roof — the first time any Tiger player had done so. The ball lands on Trumbull Avenue. Cash would clear the roof three more times in his career (the longest estimated at 515 feet off Bob Botz on July 29, 1962). In ILB, First Tiger Over the Roof is a POW landmark trait: at Tiger Stadium (or any park with an equivalent short right-field dimension for left-handed hitters), Cash's HR probability increases by one tier above the standard POW 4 roll. He knew the park. He used the park. The roof shots were the park understanding its hitter.",
+      "note": "The June 11, 1961 roof shot (first ever by a Tiger, estimated 480 feet) and the four total roof shots in Cash's career are documented in Wikipedia and multiple sources."
+    },
+    {
+      "tag": "Stormin' Norman",
+      "desc": "He named his boat after himself. He played for the Detroit Caesars professional slow-pitch softball team after his baseball career. He sang country and western in the clubhouse. He tried to steal a base during a rain delay. He called time-out when caught in a rundown. He drowned in Lake Michigan wearing cowboy boots after four vodka tonics, from a dock beside a boat named Stormin' Norman. In ILB, Stormin' Norman is the set's most comprehensive character-in-aggregate trait: whenever Cash is on the active roster, all team morale rolls are made at +1 tier regardless of win-loss record, stadium, or lineup context. He makes every room better. He makes every team looser. The cowboy boots are always on.",
+      "note": "Cash's nickname, the boat's name, his country music clubhouse singing, and the circumstances of his death are documented in Wikipedia, the SABR BioProject, and the Texas Handbook."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballpark",
+      "affinity": "SACRED",
+      "note": "Tiger Stadium / the 1961 season / the roof shot off Joe McClain / .361 batting average / 'first Tiger to clear the roof.'",
+      "note_extra": "Source labeled 'Tiger Stadium Detroit / 1961 Season .361 BA .487 OBP .662 SLG / June 11 First Tiger Clear Roof 480 Feet Joe McClain / Four Roof Shots Career / Short Right Field Porch Left-Handed Hitter / AL Batting Leader 37 Points Ahead Kaline / Maris 61 HR Year Cash Led Batting Race / 101-61 Tigers Best Record Since 1934 / 1968 WS .385 Game 7 Single Gibson / Only AL Player 20+ HR 1961-1969 Every Year' / affinity 'SACRED' — forty-third SACRED in the set, second Swingers 1960 SACRED. Cash's SACRED is Tiger Stadium specifically and completely: the short right-field porch that was made for a left-handed power hitter, the first roof shot in franchise history, the four roof shots across his career, the .361 season in the year Roger Maris hit 61 home runs and overshadowed everyone. The 1968 WS Game 7 single off Gibson belongs here too — the same ballpark, seven years later, the biggest hit of the championship. Ballpark domain."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Justiceburg, Garza County, Texas / 250-acre farm / tractor sunup to sundown / 'you get strong wrists' / Sul Ross State / Chicago Bears draft / the trade that haunted Chicago and Cleveland.",
+      "note_extra": "Source labeled 'Justiceburg Garza County Texas / 250 Acres Good Fertile Land / Tractor Sunup Sundown Age Ten / Strong Wrists / Sul Ross State Teachers College / All-Lone Star Conference Football / Chicago Bears Draft 1955 Declined / White Sox Signed 1955 / Military 1957 / 1959 White Sox Pennant 0 For 4 WS / Traded To Cleveland Minoso Deal / Frank Lane Traded Cash Detroit For Demeter Four Games / Both Chicago Cleveland Haunted By Cash 15 Years' / affinity 'ORIGIN' — forty-sixth ORIGIN in the set, first for the Swingers 1960 from West Texas. Cash's is the most physically specific ORIGIN in the set: the 250-acre farm, the tractor driven from sunup to sundown at age 10, the wrists built from the machinery before any baseball. He told Sport magazine in 1961: 'We had 250 acres of good, fertile land and it has to be worked. I can remember driving a tractor some days from sunup to sundown when I was ten. You get strong wrists.' Then he grew up to be a left-handed power hitter who cleared the Tiger Stadium roof four times. The farm is the bat speed. Community Events domain: the West Texas ranching community that produced the man."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "VOLATILE",
+      "note": "Corked bats throughout his career, demonstrated for Sports Illustrated. The table leg vs. Nolan Ryan. The rain-delay stolen base. Hard living. The boat named after himself. Cowboy boots on a wet dock.",
+      "note_extra": "Source labeled 'Corked Bat Hollow Bat Shown Sports Illustrated 1981 / Cork Sawdust Glue Method / Used Whole Career By Own Account / Table Leg Vs Nolan Ryan July 15 1973 / Why Not I Won T Hit Him Anyway / Rain Delay Stolen Base / Call Time Rundown / Stormin Norman Boat Named After Himself / Country Western Clubhouse / Hard Living Missed 15-20 Games Per Year / BAC 0.18 Time Of Death / Cowboy Boots Wet Dock / Four Vodka Tonics Dinner' / affinity 'VOLATILE' — eighth VOLATILE in the set, first for the Swingers 1960. Cash's is the most behaviorally comprehensive VOLATILE in the set: every documented rule-adjacent action (corked bats, table leg, rain-delay stolen base, calling time-out in a rundown) is in the same category as every documented off-field characteristic (the boat, the country music, the hard living, the cowboy boots). He was not selectively VOLATILE. He was VOLATILE as a lifestyle. Hotel/Rest domain: the private choices that defined the public persona."
+    },
+    {
+      "location": "Open Field/Stadium",
+      "affinity": "DAMNED",
+      "note": "The 118-point drop — .361 to .243. The largest decline ever by a batting champion. Detroit fans booed him. The corked bat's permanent asterisk on 1961.",
+      "note_extra": "Source labeled '.361 To .243 Decline 118 Points / Largest Ever By Batting Champion Still Record / Detroit Fans Booed Underachieving / Abandoned Cork After 1961 / Corked Bat Asterisk On Career Year / Never Hit Above .283 Again After 1961 / Everything Dropped In Even Without Good Contact / Freak By Own Admission / 1961 Overshadowed By Maris 61 HR / Cash Fourth In MVP Voting / Never Won Gold Glove / Not In Hall Of Fame / Cheerfully Admitted Cheating' / affinity 'DAMNED' — fourteenth DAMNED in the set, first for the Swingers 1960. Cash's is the most self-inflicted DAMNED in the set: the corked bat produced the .361 season, the .361 season produced the batting title, the batting title produced the 118-point drop that is still the record, and the 118-point drop produced the booing from fans who believed he was capable of the .361 and simply refused to produce it. The DAMNED was built into the cork from the beginning. He knew it. He said so. Open Field domain: the stadium where the record was set and where the crowd turned."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "COMPLEX",
+      "note": "Career OPS+ 139 — tied with Reggie Jackson. 7th in 1960s HR. Not in the HOF. Cheerfully admitted cheating. The .361 season's permanent asterisk.",
+      "note_extra": "Source labeled 'Career OPS Plus 139 Tied Reggie Jackson / 7th Most HR 1960s 278 / 11 Players 250 Plus HR 1960s Two Not HOF Cash Howard / Bill James 20th Best First Baseman All Time / Ahead HOF First Basemen Connor Sisler Chance Bottomley Beckley / Not In Hall Of Fame / No Hall Of Fame Campaign / Admitted Corked Bat Cheerfully / 118 Point Drop Still Record / Freak Season Own Admission / Never Approached 1961 Again / Tiger Stadium His Park / Overshadowed By Kaline Maris / Died Age 51' / affinity 'COMPLEX' — twenty-fifth COMPLEX in the set, first for the Swingers 1960. Cash's is the most self-aware COMPLEX in the set: he knew the .361 was a freak while it was happening, said so publicly, admitted the cork cheerfully, and accepted that the career would be defined by the gap between the .361 and everything after it. Bill James ranked him the 20th best first baseman in baseball history — ahead of five Hall of Famers. He is not in the Hall of Fame. He is also the man who showed Sports Illustrated how to cork a bat. The COMPLEX is the simultaneous excellence and disqualification, and his total comfort with both. Hotel/Rest domain: the private reckoning."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Hollow Bats — once per series, activates POW 5 with a 1-in-4 detection risk.",
+      "First Tiger Over the Roof — at Tiger Stadium (or equivalent short right-field park), HR probability rises one tier above standard POW 4.",
+      "Jim Campbell Pays Me — Power Mode default (POW 5, CON 2) or Contact Mode (CON 4, POW 3); Contact Mode activates the 3-for-4 guarantee once per week.",
+      "Why Not? I Won't Hit Him Anyway — once per career vs. STF 5+ pitchers, table leg declaration generates maximum CLU result for next teammate at-bat.",
+      "Stormin' Norman — all team morale rolls made at +1 tier regardless of context when Cash is on the active roster."
+    ],
+    "cold_triggers": [
+      "SPD 0 — no baserunning value. The rain-delay stolen base and the rundown time-out call are both documented failures.",
+      "118-point drop pattern — in any season following a BA above .320, CON drops by 0.5 for the first half of the following season (the reversion-to-mean is built in).",
+      "Hollow Bats detection — on a 1-in-4 result when corked bat is active, current at-bat reversed to automatic out, CLU drops by 1 for the season."
+    ],
+    "pressure_response": "The 1968 World Series, Game 7. The game is scoreless through six innings. Bob Gibson on the mound. Two out, bottom of the seventh. Cash singles. Three runs score. Tigers win 4-1. Their first championship since 1945. Cash hit .385 for the Series. He had been the batting champion in 1961 using a corked bat. He got the championship hit in 1968 with a real one. He said of 1961 that it was a freak. The 1968 single was not a freak. It was just a hit when a hit was needed, which is what he had been doing for 15 years in Detroit when Jim Campbell was paying him to do it."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Last One to Do It",
+      "type": "Historic Feat",
+      "text": "1961. Norm Cash hits .361 with 41 home runs. He is the last American League player to hit 40+ home runs and bat .350+ in the same season. Before him, only four AL players had ever done it: Mickey Mantle, Lou Gehrig, Jimmie Foxx, and Babe Ruth. He does it in the year Roger Maris hits 61 home runs. His .361 is the highest batting average by any major league player in the entire decade of the 1960s. He is using a corked bat. He finishes fourth in the MVP voting. He never hits above .283 again.",
+      "origin": "The historical context (last AL player to hit 40+ HR and .350+; highest ML batting average of the 1960s; four prior AL players who did it: Mantle, Gehrig, Foxx, Ruth) is documented in the Baseball Almanac and Wikipedia."
+    },
+    {
+      "title": "Hollow Bats",
+      "type": "Revelation",
+      "text": "In 1981, twenty years after his .361 season, Norm Cash told Sports Illustrated: 'I owe my success to expansion pitching, a short right-field fence, and my hollow bats.' He then showed the writer how he made one. He drilled a hole in the top of the bat, filled it with cork, sawdust, and glue. He said he had used corked bats his whole career, not just 1961. The American League chose not to investigate even after he demonstrated the method on the record for a national magazine. Cash on 1961: 'It was a freak. Even at the time, I realized that. Everything I hit seemed to drop in, even when I did not make good contact. I never thought I would do it again.' He was correct.",
+      "origin": "Cash's Sports Illustrated admission and demonstration are documented. His self-assessment of the 1961 season as a freak is documented in Wikipedia and the SABR BioProject."
+    },
+    {
+      "title": "The Table Leg",
+      "type": "Game Action",
+      "text": "July 15, 1973. Tiger Stadium. Nolan Ryan is one out from his second no-hitter of the season. Norm Cash has struck out three times. He goes to the clubhouse, unscrews a table leg from a piece of furniture, and walks to home plate with it. Umpire Ron Luciano spots what Cash is carrying and orders him to use a legal bat. Cash says: 'Why not? I won not hit him anyway.' He is forced to use a real bat. He pops out. Ryan completes the no-hitter. Ernie Harwell, calling the game on the radio, describes the implement as a piano leg. The entire stadium knows this will be the story. Cash knew it too.",
+      "origin": "The July 15, 1973 incident (table leg, Luciano, Cash's response, Harwell's piano leg call, the pop-out) is documented in multiple sources."
+    },
+    {
+      "title": "The Strong Wrists",
+      "type": "Origin",
+      "text": "Norm Cash told Sport magazine in 1961: 'We had 250 acres of good, fertile land and it has to be worked. I can remember driving a tractor some days from sunup to sundown when I was ten. You get strong wrists. Sitting there driving that thing ten or fifteen hours a day takes a tremendous amount of strength.' He grew up in Justiceburg, Garza County, Texas. He attended Sul Ross State on a football scholarship. The Chicago Bears drafted him in 1955. He declined. He signed with the White Sox instead, for considerably less money. The wrists that drove the tractor cleared the Tiger Stadium roof four times.",
+      "origin": "Cash's Sport magazine quote about the tractor and strong wrists is documented in the Baseball Almanac. His Sul Ross State career, Bears draft (1955), and White Sox signing are documented."
+    },
+    {
+      "title": "Singled Off Gibson",
+      "type": "Game Action",
+      "text": "October 10, 1968. Game 7. World Series. Tiger Stadium. Detroit and St. Louis are scoreless through six innings. Bob Gibson is pitching. With two out in the seventh, Norm Cash singles to center field. Mickey Stanley scores from second. Jim Northrup follows with a two-run triple. The Tigers score three runs. They win 4-1. It is the Tigers' first championship since 1945. Cash, who admitted to using a corked bat in 1961, hit .385 for the Series with a real one. The single off Gibson was the biggest hit of his career, and he made it count.",
+      "origin": "Cash's Game 7 single off Gibson (starting the three-run seventh-inning rally), the Tigers' 4-1 win, and Cash's .385 WS batting average are documented."
+    },
+    {
+      "title": "Both Haunted for the Next 15 Years",
+      "type": "Trade History",
+      "text": "December 1959. The Chicago White Sox trade Norm Cash (along with Bubba Phillips and Johnny Romano) to the Cleveland Indians for Minnie Miñoso. The White Sox had just won the AL pennant with Cash on the roster. Cash had gone 0-for-4 in the World Series as a pinch hitter. Cleveland's general manager Frank Lane then trades Cash to the Detroit Tigers for Steve Demeter — a player who would appear in only four more major league games. Both Chicago and Cleveland would be haunted by Cash for the next 15 years, as he won a batting title in 1961 and a World Series ring in 1968 while wearing Detroit's uniform.",
+      "origin": "The trade chain (White Sox to Cleveland to Detroit), Steve Demeter's career (four remaining ML games), and the 'haunted for 15 years' formulation are documented in Wikipedia."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'0'', 195 lbs — the Texan who drove a tractor from sunup to sundown at age 10 and grew up to clear the Tiger Stadium roof four times. In 1961 he is 27 years old. The face of the man who knew it was a freak while it was happening and hit .361 anyway. The face of the man who would show Sports Illustrated how he corked his bats twenty years later with complete cheerfulness. The face of Stormin' Norman, who was the same person in the clubhouse as he was on the dock in cowboy boots.",
+    "attire": "Detroit Tigers home whites — the 1961 uniform, the Old English D on the cap, number 25. The left-handed batting stance at Tiger Stadium's home plate, the short right-field porch visible in the background. The bat in his hands is unexamined. It could be hollow. The art does not resolve this.",
+    "mood": "Cheerful certainty. He hit .361 and knew it was a freak while it was happening. He cleared the roof for the first time in franchise history and hit three more roof shots afterward. He went to the plate with a table leg. He was never not himself. The mood is the personality: the same energy at .361 as at .243, the same energy with the table leg as with the real bat. He was always Stormin' Norman.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style, consistent with the Swingers 1960 palette established with Oliva — slightly cooler than the Dreamers 1950 cards, the early 1960s AL sensibility. Tiger Stadium looming in the background: the right-field porch, the double-decked stands, the roof that he cleared four times.",
+    "reference": "Cash's own summary as the art anchor: 'I owe my success to expansion pitching, a short right-field fence, and my hollow bats.' The art should show the man who could say that on the record, twenty years later, to a Sports Illustrated writer, and be laughing. The cork is implied. The smile is documented."
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "card_type": "player",
+  "name": "Lou Brock",
+  "nickname": "The Franchise",
+  "year": 1967,
+  "team": "St. Louis Cardinals",
+  "league": "National League",
+  "era": "1960s",
+  "ilb_team": "Swingers 1960",
+  "position": "LF",
+  "bats": "L",
+  "throws": "L",
+  "height": "5'11\"",
+  "weight": "170 lbs",
+  "born": "June 18, 1939 — El Dorado, AR",
+  "died": "September 6, 2020 — St. Louis, MO",
+  "hof": "Inducted 1985 — first ballot (79.7% of votes).",
+
+  "real_stats": {
+    "season": 1967,
+    "batting_avg": ".299",
+    "obp": ".354",
+    "slg": ".472",
+    "ops": ".826",
+    "hits": 206,
+    "doubles": 32,
+    "triples": 12,
+    "home_runs": 21,
+    "rbi": 76,
+    "runs": 113,
+    "stolen_bases": 52,
+    "war": 5.9,
+    "all_star": 1,
+    "awards": "First player in MLB history to steal 50 bases and hit 20 home runs in the same season. Led NL in runs scored (113). Led NL in stolen bases (52). Career-high 206 hits. 1967 World Series: .414 BA, 7 SB (WS single-series record), 3 HR, helped defeat Boston Red Sox in 7 games. Babe Ruth Award winner for outstanding performance in the 1967 World Series. Career stats: .293 BA, 3,023 hits (3,000-hit club), 938 SB (ML record held until Rickey Henderson 1991, NL record still standing). Led NL in stolen bases 8 of 9 years (1966-1974). 12 seasons of 50+ steals (ML record). 118 SB in 1974 — ML single-season record at the time (broken by Henderson 1982). Career World Series (21 games): .391 BA, 4 HR, 14 SB — .391 is the WS career BA record; 14 SB tied WS career record with Eddie Collins. Two World Series rings (1964 Cardinals over Yankees, 1967 Cardinals over Red Sox). Tom Seaver: 'Lou Brock, along with Maury Wills, are probably the two players most responsible for the biggest change in the game over the last fifteen years.' Tim McCarver on Brock's physique: 'It was a body that looked as if it had been chiseled out of marble.' Senator Eugene McCarthy at the 1968 World Series (covering for Life magazine): 'I was ashamed to be in the same locker room with him.' Brock on his philosophy: 'Baserunning arrogance is just like pitching arrogance or hitting arrogance.'",
+    "world_series": "Three World Series (1964, 1967, 1968). Two rings. Career WS: .391 BA (WS career average record), 4 HR, 13 RBI, 14 SB (tied WS career record with Eddie Collins) in 21 games. 1964 WS vs. Yankees: .300, 1 HR, 5 RBI, Cardinals won in 7. 1967 WS vs. Red Sox: .414, 3 HR, 8 runs scored, 7 SB (WS single-series record) — Cardinals won in 7; won Babe Ruth Award as outstanding player. 1968 WS vs. Tigers: .464 (high mark on both teams), 2 HR, 7 SB — Cardinals lost in 7 despite Brock's performance. Bob Gibson won the 1967 WS MVP, but a St. Louis radio station gave Brock a Cadillac in recognition of his performance."
+  },
+
+  "ilb_stats": {
+    "ovr": 10,
+    "con": 3,
+    "pow": 2,
+    "spd": 5,
+    "def": 2,
+    "clu": 4
+  },
+
+  "stat_justification": {
+    "con": "Career .293 BA. Eight full seasons above .300. 3,023 career hits — averaged 193 per season over his 10 full-time campaigns. .348 after the trade in 1964. He was a leadoff hitter who got on base to run, not a pure contact specialist. CON 3 reflects the consistent genuine contact over a long career — not elite average peaks, but reliable and sustainable production from the top of the order.",
+    "pow": "Career 149 HR. Career-high 21 HR in 1967 (first player in ML history with 20 HR/50 SB in the same season). Hit a 485-foot home run to dead center at the Polo Grounds, one of only four players to ever do so. Hit 5 HR in the first 4 games of 1967. But fundamentally a singles and doubles hitter — the power existed and surprised people when it appeared. POW 2 is honest: he was not a power hitter by design, though he was more powerful than his reputation.",
+    "spd": "938 career SB — NL career record, still standing. 118 SB in 1974 — ML single-season record at time (broken by Henderson 1982). Led NL in SB 8 of 9 years (1966-1974). 12 seasons of 50+ steals (ML record). 14 career WS stolen bases (tied WS record). 7 SB in the 1967 WS alone. He shortened his lead and went hard — not long leads but total commitment on the break. SPD 5 is the set's maximum speed tier, introduced here for the first time. The NL career SB record that still stands, the 8 NL titles, and the 118 single-season total at age 35 justify the maximum.",
+    "def": "Not known for defense. His outfield play was described as erratic with the Cubs. Moved from CF (Cubs) to LF (Cardinals). Made it work in left field but was never a Gold Glove outfielder. DEF 2 is the competent LF who was not exceptional defensively.",
+    "clu": "Two WS rings. Career WS BA .391 — the WS career BA record. 14 career WS SB — tied WS career record. Three WS appearances. 1967 WS: .414, 7 SB (WS single-series record). 1968 WS: .464. CLU 4 is the maximum postseason performance tier for a position player in the set — the documented evidence across 21 WS games is the most comprehensive postseason statistical record of any non-pitcher in the set. Frank Robinson (CLU 4, OVR 11) is the other CLU 4 position player."
+  },
+
+  "personality": {
+    "leadership_style": "The arrogance of the basepath. Brock described his own approach: 'Baserunning arrogance is just like pitching arrogance or hitting arrogance.' He was an early adopter of film study — bought an 8mm camera in late 1964 and filmed pitchers from the dugout to study their pickoff moves and windups. He did not take long leads like Maury Wills; he shortened his lead and went hard, relying on the jump and the commitment rather than the distance. He was the leadoff man who triggered everything the Cardinals did offensively for 15 years in St. Louis. When he stepped onto the field at Busch Stadium, the crowd gave a long, low-pitched cheer: 'Loooouuuuuuuuuuuu.'",
+    "temperament": "Driven, disciplined, and internally motivated in a way that came from where he grew up. He told teammates over and over: 'I've got to make it here. I just can't go back to Louisiana and Arkansas. I've been there, and I know what's there.' He grew up in a sharecropper family in El Dorado, Arkansas. The school he attended had one teacher and no running water. He was bused past white schools to reach the Black school. He got an academic scholarship to Southern University — a historically Black college — and lost it to poor grades. He stayed by hitting five consecutive pitches for home runs in a baseball tryout. Every decision after that was: make it.",
+    "work_ethic": "He filmed pitchers from the dugout with an 8mm camera before anyone else was doing it. Don Drysdale, when asked what he was doing: 'I'm taking home movies.' Drysdale: 'I don't want to be in your goddamn movies, Brock.' Drysdale then threw at him the next time up. Brock kept filming. He went on to lead the NL in stolen bases 8 of the next 9 years. He stole 118 bases at age 35. He studied the craft of baserunning with the rigor of someone who understood that the basepath was where he lived, and he was not going to be evicted.",
+    "lifestyle": "El Dorado, Arkansas → Collinston, Louisiana → Baton Rouge (Southern University) → Chicago (Cubs) → St. Louis (Cardinals, 15 years). After retiring from baseball, he prospered as a florist in the St. Louis area. He and his wife Jackie became ordained ministers at Abundant Life Fellowship Church. He was a spring training baserunning instructor for the 1982 Cardinals, 1987 Twins, 1988 Dodgers, and 1993 Expos — three of the four teams won the World Series. He invented the Brockabrella, a miniature umbrella hat for wearing at games during rain. He had his left leg amputated below the knee in 2015 due to a diabetes infection. He died September 6, 2020, at 81, in St. Louis, still a Cardinal.",
+    "dark_side": "He was the greatest steal in baseball history — traded for a pitcher who won 7 games for the rest of his career. When the trade was made, Lou Brock was hitting .251 for the Cubs. 'I guess that fewer than two percent of the people in baseball thought it was a good trade for us,' said Cardinals third baseman Ken Boyer. The Cubs' reason for trading him — beyond needing a pitcher — may have involved the organization's documented bias against Black players in the early 1960s, as identified by longtime scout Buck O'Neil. The school he attended as a child had one teacher and no running water. He made it here. He always made it here."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Baserunning Arrogance",
+      "desc": "Lou Brock described his philosophy: 'Baserunning arrogance is just like pitching arrogance or hitting arrogance.' He did not take long leads like Maury Wills. He shortened his lead and went hard — total commitment on the break. The result: 938 career SB (NL record still standing), 118 in 1974 at age 35, 8 NL SB titles in 9 years, 14 career World Series stolen bases (tied WS record). He did not steal bases with fear. He stole them with certainty. In ILB, Baserunning Arrogance is the set's maximum speed activation trait: whenever Brock is on base, the opposing pitcher must make a declared SB attempt decision before each pitch — if they don't, Brock gets automatic movement to the next base (the arrogance means the other team is always responding to him, never controlling him).",
+      "note": "Brock's baserunning philosophy quote, his NL career SB record, 8 NL titles, 118 in 1974, and 14 career WS SB are documented."
+    },
+    {
+      "tag": "The 8mm Camera",
+      "desc": "Late 1964. Lou Brock hears that Maury Wills keeps a black book of pitcher tendencies. He asks Wills to share it. Wills declines. So Brock buys an 8mm movie camera and begins filming opposing pitchers from the dugout — studying their windups and pickoff moves frame by frame to detect the tells that reveal when to break for the next base. Don Drysdale, noticing the camera, asks what he's doing. Brock replies he's taking home movies. 'I don't want to be in your goddamn movies, Brock,' says Drysdale, who then throws at him the next time up. Brock keeps filming. He leads the NL in stolen bases 8 of the next 9 years. In ILB, The 8mm Camera is the set's film-study baserunning trait: once per series, Brock may declare a specific opposing pitcher as 'studied' — against that pitcher for the rest of the series, his SB attempt success rate is treated as one tier higher (the jump is better; the break is earlier; the camera did its work).",
+      "note": "Brock's 8mm camera purchase in 1964, the Wills book-request, the Drysdale exchange, and Drysdale throwing at him are documented in the SABR BioProject and multiple sources."
+    },
+    {
+      "tag": "The Greatest Steal in Baseball History",
+      "desc": "June 15, 1964. Cardinals general manager Bing Devine trades pitchers Ernie Broglio, Bobby Shantz, and outfielder Doug Clemens to the Chicago Cubs for outfielder Lou Brock and pitchers Jack Spring and Paul Toth. At the time, Brock is hitting .251 for the Cubs. Broglio won 18 games in 1963. Cardinals third baseman Ken Boyer: 'I guess that fewer than two percent of the people in baseball thought it was a good trade for us.' Within four months, Brock is batting .348 for St. Louis, the Cardinals have won the NL pennant, and they defeat the Yankees in the World Series. Broglio goes 7-19 over the rest of his career. In ILB, The Greatest Steal is the set's franchise-arrival bonus: in any first full season with a new team, Brock's CON is treated as 4 instead of 3 and his SPD generates one additional SB attempt per game (the arrival of the player no one wanted transforms the team).",
+      "note": "The Brock-for-Broglio trade details, the Cardinals' eighth-place standing at the time, Boyer's quote, and the subsequent WS win are documented."
+    },
+    {
+      "tag": "I've Got to Make It Here",
+      "desc": "Lou Brock told his Cardinals teammates over and over, after the trade: 'I've got to make it here. I just can't go back to Louisiana and Arkansas. I've been there, and I know what's there.' He grew up in a family of sharecroppers in El Dorado, Arkansas. His school had one teacher and no running water. He was bused past white schools to the Black school. He got an academic scholarship to Southern University — a historically Black college — and lost it to poor grades. He hit five consecutive pitches for home runs in a tryout and stayed. In ILB, I've Got to Make It Here is the set's internal-drive resilience trait: after any slump of 10 or more consecutive games below .200, Brock's CON and SPD both rise by 0.5 effective tier for the following 20 games (the memory of what's at home does not allow for the alternative).",
+      "note": "Brock's internal motivation quote, his El Dorado/Collinston childhood, the one-teacher school, and the Southern University tryout are documented in the SABR BioProject."
+    },
+    {
+      "tag": "Seven in 1967",
+      "desc": "1967 World Series. Cardinals vs. Boston Red Sox. Seven games. Lou Brock steals seven bases — a single-World-Series record. He bats .414 with three home runs and eight runs scored. Bob Gibson wins the WS MVP. A St. Louis radio station gives Brock a Cadillac in recognition of his performance. He scores both Cardinals runs in Game 1 off Jose Santiago (leading off the third with a single, advancing on a Curt Flood double, and scoring on a Roger Maris groundout). In ILB, Seven in 1967 is the set's World Series escalation trait: in any WS game (the ILB equivalent), Brock's SPD is treated as 6 — the only instance in the full set where a base-running SPD exceeds the maximum. Seven in 1967.",
+      "note": "Brock's 7 SB in the 1967 WS (single-series record), his .414 BA, and the Cadillac from the radio station are documented. The Game 1 play sequence involving Maris scoring him is in the SABR BioProject."
+    },
+    {
+      "tag": "Chiseled Out of Marble",
+      "desc": "Tim McCarver, Brock's Cardinals teammate, describing Brock's physique: 'It was a body that looked as if it had been chiseled out of marble.' Senator Eugene McCarthy, covering the 1968 World Series for Life magazine, was in the Cardinals clubhouse. He looked at Lou Brock and said: 'I was ashamed to be in the same locker room with him.' At 5'11'' and 170 pounds, Brock was described by David Halberstam as 'almost devoid of body fat.' John Curtis: 'He's the greatest single offensive force I've seen.' In ILB, Chiseled Out of Marble is the set's physical-peak trait: in any WS or pennant-clinching context, Brock's SPD is treated as 6 and his CON is treated as 4 — the body built for this specific application, at this specific moment.",
+      "note": "McCarver's 'chiseled out of marble' quote and McCarthy's 'ashamed to be in the same locker room' quote are documented in Halberstam's October 1964 and the BR Bullpen piece."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballpark",
+      "affinity": "SACRED",
+      "note": "Busch Stadium / the 1967 WS / seven stolen bases / .414 BA / 'Loooouuuuuuuuuuuu' / the arrogance of the basepath.",
+      "note_extra": "Source labeled 'Busch Stadium St Louis / 1967 WS 7 SB Single Series Record / .414 BA 3 HR 8 Runs 1967 WS / Cardinals Won 7 Games Boston / Babe Ruth Award Outstanding 1967 WS / Cadillac From St Louis Radio Station / 1964 WS .300 5 RBI Championship / 1968 WS .464 7 SB / Career WS .391 BA Record / 14 Career WS SB Tied Collins / 21 WS Games Two Rings Three Appearances / Loooouuuuuuuu Busch Stadium Greeting / NL Career SB Record 938 Still Standing / 118 SB 1974 Age 35 / Led NL SB 8 Of 9 Years 1966-1974' / affinity 'SACRED' — fifty-sixth SACRED in the set, fourteenth for the Swingers 1960. Brock's is the most basepath-specific SACRED in the set: the seven stolen bases in the 1967 WS are the SACRED moment — a single-series record that still stands, achieved with .414 contact alongside them. 'Loooouuuuuuuuuuuu' is the crowd's SACRED delivery each time he stepped onto the field. Ballpark domain."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "El Dorado, Arkansas / sharecropper family / Collinston, Louisiana / one-teacher school / Southern University / five consecutive HR tryout / 'I've got to make it here.'",
+      "note_extra": "Source labeled 'El Dorado Arkansas June 18 1939 / Sharecropper Family / Father Left Shortly After Birth / Collinston Louisiana Mixed Race Town 300 Population / One Teacher School No Running Water / Bused Past White Schools To Black School / El Dorado Arkansas Then Collinston Louisiana Very Poor / Academic Scholarship Southern University HBCU Baton Rouge / Lost Scholarship Poor Grades / Stayed Hit Five Consecutive Pitches Home Runs Tryout / I Got To Make It Here Cannot Go Back Quote / Halberstam October 1964 / Signed Cubs Amateur Free Agent 1960 / Struggled Cubs Never Given Green Light Steal' / affinity 'ORIGIN' — fifty-ninth ORIGIN in the set, eleventh for the Swingers 1960. Brock's is the most poverty-specific ORIGIN in the set: the sharecropper family, the one-teacher school with no running water, the bus past white schools, the academic scholarship that ran out, and the five consecutive home runs in a tryout that let him stay. The ORIGIN is the alternative that made the determination. Community Events domain."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "IDENTITY",
+      "note": "El Dorado, Arkansas. HBCU background. 'I've got to make it here.' The ordained minister. The florist. The Brockabrella. The Lou Brock Award for NL stolen base leaders.",
+      "note_extra": "Source labeled 'El Dorado Arkansas Sharecropper Family / Southern University HBCU Baton Rouge / Ordained Minister Abundant Life Fellowship Church St Louis / Florist Business St Louis After Career / Brockabrella Mini Umbrella Hat Invention / Loooouuuuuuuu Crowd Greeting Busch Stadium / First Player Bat Regular Season Game Canada April 14 1969 / NL Stolen Base Award Named Lou Brock Award While Still Active / First Active Player Award Named After Them / Spring Training Baserunning Instructor 1982 Cardinals 1987 Twins 1988 Dodgers 1993 Expos Three Won WS / Scholarship Foundation For Young Adults / I Got To Make It Here Cannot Go Back' / affinity 'IDENTITY' — seventeenth IDENTITY in the set, sixth for the Swingers 1960. Brock's is the most occupation-diverse IDENTITY in the set: the ordained minister, the florist, the Brockabrella inventor, the baserunning instructor whose teams won three World Series — the player who made it here and then built a life in the city that received him. Hotel/Rest domain."
+    },
+    {
+      "location": "Open Field/Stadium",
+      "affinity": "MAXIMUM",
+      "note": "First SPD 5 in the full set. NL career SB record (938). 118 SB in 1974 (ML record). 8 NL SB titles. .391 career WS BA (WS career BA record). 14 WS SB (tied WS career record).",
+      "note_extra": "Source labeled 'First SPD 5 Full ILB Set / NL Career SB Record 938 Still Standing / 118 SB 1974 Age 35 ML Record Until Henderson 1982 / 8 NL Stolen Base Titles 1966-1974 / 12 Seasons 50 Plus SB ML Record / Career WS .391 BA Record / 14 Career WS SB Tied Eddie Collins / 21 WS Games Two Rings / CLU 4 Only Second CLU 4 Position Player Set After Frank Robinson / First 20 HR 50 SB Same Season 1967 / 3023 Career Hits 3000 Hit Club / NL Award Named After Him While Active / Tom Seaver Most Responsible Change Game Quote' / affinity 'MAXIMUM' — twenty-seventh MAXIMUM in the set, eighth for the Swingers 1960. Brock's is the most speed-specific MAXIMUM in the set: the NL career SB record that still stands, the 118 in a single season at age 35, the 8 NL titles, and the SPD 5 — the set's first maximum speed tier — justify the MAXIMUM unambiguously. He is the speed in this set in a way no other player is. Open Field domain."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "COMPLEX",
+      "note": "Hitting .251 when traded. 'Fewer than two percent thought it was a good trade for us.' The greatest steal in baseball history — for the team that received him.",
+      "note_extra": "Source labeled 'Hitting .251 Cubs When Traded / Two Percent Thought Good Trade Cardinals Boyer Quote / Cubs Desperate Pitching Traded For Broglio 18 Wins 1963 / Broglio 7-19 After Trade Retired 1966 / Brock .348 Rest 1964 Led Cardinals Eighth To First WS Champs / Greatest Steal Baseball History Description / Cubs Bias Against Black Players Buck O Neil Unwritten Quota Essay 2002 / Struck Out A Lot Cubs / Fielding Erratic Cubs / Never Given Green Light Steal Cubs / Johnny Keane Specifically Requested Brock Cardinals / Bing Devine Job On Line GM Made Trade' / affinity 'COMPLEX' — thirty-first COMPLEX in the set, eighth for the Swingers 1960. Brock's is the most trade-specific COMPLEX in the set: the greatest steal in baseball history was achieved by the team that received him, not the team that gave him up. The Cubs had Brock for three years and could not find him. The Cardinals had him for 15 years and he was The Franchise. Hotel/Rest domain."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Baserunning Arrogance — opposing pitcher must declare SB response before each pitch; failure to respond gives Brock automatic advancement.",
+      "The 8mm Camera — once per series, declare one pitcher 'studied': SB attempt success rate treated as one tier higher against that pitcher.",
+      "The Greatest Steal — in first full season with any new team, CON treated as 4 and SPD generates one additional SB attempt per game.",
+      "Seven in 1967 — in any WS game (ILB equivalent), SPD treated as 6 instead of 5.",
+      "Chiseled Out of Marble — in any pennant-clinching or WS context, SPD treated as 6 and CON treated as 4.",
+      "I've Got to Make It Here — after any 10-game slump below .200, CON and SPD each rise 0.5 effective tier for the following 20 games."
+    ],
+    "cold_triggers": [
+      "POW 2 baseline — the power surprised people precisely because it wasn't the expectation; it's not consistent.",
+      "DEF 2 — erratic defensively early career; LF competence without exceptional range.",
+      "Pre-Cardinals pattern — in any season where Brock is not given the green light to steal (manager must explicitly designate his baserunning freedom at season start), SPD is treated as 3 instead of 5 (the Cubs had him for three years; they never gave him the light; the speed was always there; it was wasted)."
+    ],
+    "pressure_response": "1967 World Series, Game 1. Fenway Park. Lou Brock leads off the top of the third inning with a single off Jose Santiago. He advances to third on a Curt Flood double. He scores on a Roger Maris groundout. That is the first of seven stolen bases in the series. He hits .414 with three home runs. Bob Gibson wins the WS MVP. A radio station gives Brock a Cadillac. In 21 career WS games, he hits .391 with 14 stolen bases. The pressure response is always the same: he gets on base and then he runs."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Greatest Steal in Baseball History",
+      "type": "Origin",
+      "text": "June 15, 1964. The trading deadline. Bing Devine, Cardinals general manager, has his job on the line. The Cardinals are 28-31, in eighth place, trailing even the Cubs. Devine trades Ernie Broglio — an 18-game winner in 1963 — and two other players to Chicago for Lou Brock and two pitchers. At the time of the trade, Brock is hitting .251. Cardinals third baseman Ken Boyer: 'I guess that fewer than two percent of the people in baseball thought it was a good trade for us.' Lou Brock bats .348 for the rest of the season. The Cardinals win the NL pennant on the final day. They defeat the Yankees in seven games. Broglio goes 7-19 over the remainder of his career and retires after 1966. The trade is called the greatest steal in baseball history.",
+      "origin": "The Brock-for-Broglio trade details, the Cardinals' standing at the time, Boyer's quote, Broglio's post-trade record, and Brock's .348 second-half BA are documented."
+    },
+    {
+      "title": "I've Got to Make It Here",
+      "type": "Character",
+      "text": "Lou Brock told his Cardinals teammates over and over, after the trade: 'I've got to make it here. I just can't go back to Louisiana and Arkansas. I've been there, and I know what's there.' He grew up in a sharecropper family in El Dorado, Arkansas. The school he attended had one teacher and no running water. He was bused past white schools to the Black school. He got an academic scholarship to Southern University — a historically Black college — and lost it to poor grades. He hit five consecutive pitches for home runs in a tryout and stayed. He batted .348 in his first 103 Cardinals games. He made it here.",
+      "origin": "Brock's internal motivation quote from Halberstam's October 1964, his El Dorado/Collinston childhood, the one-teacher school, the Southern University tryout, and the five consecutive home runs are documented."
+    },
+    {
+      "title": "I Don't Want to Be in Your Goddamn Movies",
+      "type": "Character",
+      "text": "Late 1964. Lou Brock has asked Maury Wills to share his black book of pitcher tendencies. Wills declines. So Brock buys an 8mm movie camera and starts filming opposing pitchers from the dugout — their windups, their pickoff moves, the tells that give away when they're going to the plate. Don Drysdale notices the camera and asks what he's doing. 'I'm taking home movies,' says Brock. 'I don't want to be in your goddamn movies, Brock,' says Drysdale. Drysdale then throws at him the next time Brock bats. Brock keeps filming. He leads the NL in stolen bases for 8 of the next 9 years.",
+      "origin": "The 8mm camera purchase, the Wills book-request, the Drysdale exchange, and Drysdale throwing at him are documented."
+    },
+    {
+      "title": "Seven in 1967",
+      "type": "Historic Feat",
+      "text": "1967 World Series. St. Louis Cardinals vs. Boston Red Sox. Seven games. Lou Brock steals seven bases — a single-World-Series record. He bats .414 with three home runs and eight runs scored across the series. Bob Gibson wins the World Series Most Valuable Player Award for his three complete-game victories. A St. Louis radio station, unconvinced that Gibson was the only story, gives Lou Brock a Cadillac. In Game 1 at Fenway Park, Brock leads off the third inning with a single, advances to third on a Curt Flood double, and scores on a Roger Maris groundout. Both Cardinals runs in the 2-1 victory come from Lou Brock being on base. He goes on to steal six more. Seven in 1967.",
+      "origin": "Brock's 7 WS SB (single-series record), his .414 BA, the Cadillac from the radio station, and the Game 1 play sequence are documented."
+    },
+    {
+      "title": "Chiseled Out of Marble",
+      "type": "Character",
+      "text": "The 1968 World Series. Senator Eugene McCarthy, a former minor league baseball player, is covering the series for Life magazine. He is in the Cardinals clubhouse before a game. He looks at Lou Brock — 5 feet 11 inches, 170 pounds, almost completely devoid of body fat — and says later: 'I was ashamed to be in the same locker room with him.' Tim McCarver, Brock's teammate, once told David Halberstam: 'It was a body that looked as if it had been chiseled out of marble.' In the 1968 World Series, Brock hit .464 and stole seven bases. The Cardinals lost in seven games to the Detroit Tigers. The Tigers' pitching held. The body chiseled out of marble ran seven times and hit .464 and the Cardinals still lost.",
+      "origin": "McCarver's 'chiseled out of marble' quote, McCarthy's 'ashamed to be in the same locker room' quote, and Brock's .464 BA and 7 SB in the 1968 WS are documented."
+    },
+    {
+      "title": "Baserunning Arrogance",
+      "type": "Legacy",
+      "text": "Lou Brock described his philosophy: 'Baserunning arrogance is just like pitching arrogance or hitting arrogance.' He did not take long leads. He shortened his lead and went hard. He stole 938 bases in his career — the National League record, still standing. He stole 118 in 1974 at age 35. He led the National League in stolen bases eight of nine years. He stole 14 in three World Series (tied for the WS career record). He did not steal with fear. He stole with certainty that the opposing pitcher could not stop him — that the camera had done its work, the tendencies were known, the jump was better than the arm. The NL gives an award to its annual stolen base leader. They named it after Lou Brock while he was still active — the first time that had been done for a living player.",
+      "origin": "Brock's baserunning philosophy quote, his NL career SB record, 8 NL SB titles, 118 in 1974, 14 career WS SB, and the Lou Brock Award being named for an active player are documented."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'11'', 170 lbs — the body Tim McCarver said was chiseled out of marble, the body that made Senator Eugene McCarthy ashamed to be in the same locker room. In 1967 he is 28 years old, in the best year of his career: 206 hits, 21 HR, 52 SB, first player in history with 20 HR and 50 SB in the same season. The face of the sharecropper's son from El Dorado who told himself he had to make it here. He made it here.",
+    "attire": "St. Louis Cardinals home whites — the 1967 uniform, the Cardinals birds on the bat across the chest, number 20. The leadoff stance with the left-handed swing, the compact body coiled. Then immediately: the secondary picture is mid-steal — the body diving into second base, the low center of gravity, the SPD 5 in motion. Busch Stadium's turf in the background.",
+    "mood": "Controlled aggression. He is on base. He is studying the pitcher. He already has the film. He knows the tell. He knows when the pitcher is going to the plate. The lead is shorter than you expect. The break is faster than you can react. The mood is the arrogance: not recklessness but certainty. He has done the work. The steal is already decided.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. The Swingers 1960 palette. Busch Stadium's artificial turf in the background — the 1967 Cardinals, the pennant year, the seven WS stolen bases coming four months later. The card year is 1967: the career-high 206 hits, the first 20 HR/50 SB player, and the seven stolen bases in October that still stand as the single-series record.",
+    "reference": "Brock's own philosophy quote as the art anchor: 'Baserunning arrogance is just like pitching arrogance or hitting arrogance.' The art should show the arrogance — not the theft in progress, but the moment before the break: the leadoff position, the shortened lead, the eyes on the pitcher, the commitment already made. He is going. The pitcher doesn't know it yet."
+  }
+}

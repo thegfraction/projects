@@ -1,0 +1,187 @@
+{
+  "card_type": "player",
+  "name": "Denny McLain",
+  "nickname": "Sky King",
+  "year": 1968,
+  "team": "Detroit Tigers",
+  "league": "American League",
+  "era": "1960s",
+  "ilb_team": "Swingers 1960",
+  "position": "SP",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'1\"",
+  "weight": "185 lbs",
+  "born": "March 29, 1944 — Markham, IL",
+  "hof": "Not inducted. McLain's 1968 glove and the game ball from his 30th victory are on display at the National Baseball Hall of Fame.",
+
+  "real_stats": {
+    "season": 1968,
+    "wins": 31,
+    "losses": 6,
+    "era": "1.96",
+    "innings_pitched": "336.0",
+    "complete_games": 28,
+    "shutouts": 6,
+    "strikeouts": 280,
+    "walks": 63,
+    "war": 10.2,
+    "all_star": 1,
+    "awards": "Unanimous AL Cy Young Award 1968. Unanimous AL MVP 1968 — the first pitcher in American League history to win both awards in the same season. The only year in baseball history in which a pitcher won the MVP in both leagues (Bob Gibson won the NL MVP the same year; it was also the only time both Cy Young Award winners were voted unanimously until 2022). First 30-game winner since Dizzy Dean in 1934. Last 30-game winner in Major League Baseball history. Inaugural winner of The Sporting News Sportsman of the Year. Led the AL in wins, complete games, and innings pitched. Won the Cy Young Award again in 1969 (shared with Mike Cuellar) with a 24-9 record and team-record 9 shutouts. World Series champion 1968. 4.44 K:BB ratio — Tigers franchise record until Justin Verlander broke it in 2016. Time magazine cover 1968: 'a high-school wise guy.' His father-in-law is Hall of Fame shortstop Lou Boudreau. He might have won 33 games in 1968 if not for two consecutive 2-1 losses late in the season.",
+    "world_series": "1968 World Series (defeated the St. Louis Cardinals in 7 games). McLain went 1-2: lost Game 1 (Bob Gibson struck out 17, a still-standing World Series record) and Game 4, both in dominant Gibson performances. Won Game 6 on two days' rest after 336 regular-season innings — a complete game allowing 1 run, the foundation of the Tigers' comeback from a 3-1 series deficit. Mickey Lolich won Games 5 and 7 (including Game 7 against Gibson) and won the World Series MVP. After the series, when asked about Lolich's performance, McLain said: 'I wouldn't trade one Bob Gibson for 12 Mickey Loliches.'"
+  },
+
+  "ilb_stats": {
+    "ovr": 11,
+    "stf": 4,
+    "ctl": 4,
+    "sta": 4,
+    "def": 2,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "stf": "1968: 280 K, 1.96 ERA, 31 wins in the Year of the Pitcher. The fastball was the primary weapon; the delivery was deceptive and the location was precise. STF 4 reflects the most dominant single-season pitching performance of any pitcher in the set: 31 wins, unanimous MVP and Cy Young, the only pitcher in the set with the triple peak.",
+    "ctl": "63 BB in 336 IP in 1968 — a 4.44 K:BB ratio that was the Tigers franchise record until Verlander broke it in 2016. He threw strikes. He challenged hitters. He did not walk the ballpark. CTL 4 reflects the control behind the stuff: the K:BB ratio is the specific evidence, and it held across his peak seasons.",
+    "sta": "28 complete games in 1968. 336 innings pitched. 41 starts. He went the distance. By the World Series, his arm was taxed from the most innings pitched by any AL starter — which contributed to the Gibson losses. STA 4 is the workhorse peak: the most complete games of any pitcher in the set for a single season.",
+    "def": "Converted a Boog Powell line drive into a triple play on September 1, 1968 to preserve his 27th win — a documented, specific fielding play that prevented a rally. General fielding was solid but unremarkable. DEF 2 is the standard pitcher fielding with one documented spectacular play.",
+    "clu": "WS champion 1968. Won Game 6 on two days' rest after 336 innings (complete game, 1 run). Brought the Tigers back from 3-1 down to give Lolich the chance to win Games 5 and 7. CLU 2 reflects the ring, the Game 6 rescue, and the honest accounting of the mixed WS record: two losses to Gibson (including a 17-strikeout Game 1), followed by the one decisive win when the season was on the line."
+  },
+
+  "personality": {
+    "leadership_style": "Sky King. He flew his own Cessna. He headlined Las Vegas. He wore a white mink coat. He got a standing ovation from 53,863 fans when he returned from his first suspension in 1970. His idol was Frank Sinatra: not just for the voice, but because Sinatra exuded wealth and power. 'Sinatra doesn't give a damn about anything, and neither do I.' He was the first $100,000 player in Tigers history. He played the organ during Tiger games while he was still the pitcher. The Denny McLain Quartet performed on The Ed Sullivan Show in 1968 — and Bob Gibson, his World Series opponent, played guitar alongside McLain's organ. He did things no one else would do because no one else was Denny McLain.",
+    "temperament": "Brash, cocky, charming, and reckless. Time magazine put him on the cover in 1968 and called him a 'high-school wise guy.' He was 24 years old and had just won 31 games. He called Detroit's fans 'the world's worst.' He showed up to the All-Star Game in the fourth inning, having flown there himself in his private Cessna. He doused two sportswriters with buckets of water. He carried a gun on a team flight. He grooved a pitch to his childhood idol at 6-1 in the eighth inning of his 31st win of the season because he could, and because Mantle's career was almost over, and because the pennant was already clinched. He repudiated Mickey Lolich — the teammate who saved his World Series — on a Las Vegas stage three months later.",
+    "work_ethic": "336 innings in 1968. 28 complete games. 41 starts. He went the distance every time. His best quality as a pitcher — beyond the stuff and the control — was that he never left the mound by choice. He was winless after August 29 in 1967 (for reasons likely connected to Tony Giacalone's heel on his toes), but in 1968 he led the AL in both complete games and innings pitched. The work ethic in 1968 was genuine, excessive, and ultimately contributed to the arm fatigue that produced the WS losses to Gibson.",
+    "lifestyle": "Markham, Illinois (a suburb of Chicago) / Detroit / Las Vegas / the airspace between all three, in his own Cessna. His father Tom — a frustrated shortstop, a truck driver, an insurance man, a beer drinker, a chain smoker — taught him the electric organ. McLain turned the instrument into a career within a career. He cut two LPs for Capitol Records: 'Denny McLain at the Organ' and 'Denny McLain in Las Vegas.' He performed on The Ed Sullivan Show. He headlined in Las Vegas while still the reigning Cy Young winner. He hustled golf games after his career ended (easily attracting marks due to his baseball fame). He bought a meat packing firm in 1993. He embezzled from its employee pension fund. He was convicted again and returned to prison. His father-in-law was Lou Boudreau.",
+    "dark_side": "The mob connections preceded his peak. In early 1967, McLain invested $15,000 in a bookmaking operation in Flint, Michigan, run with Syrian mob partners. When a gambler named Edward Voshen won $46,000, McLain's partners couldn't pay. Tony Giacalone, the mob enforcer, came to collect. One account — accepted by most baseball historians — is that Giacalone brought his heel down on McLain's toes during the meeting. McLain was winless after August 29, 1967, and the Tigers lost the pennant on the final day. The toe 'injury' was the 1967 pennant race. The 1984 indictment (racketeering, extortion, cocaine trafficking) produced a 23-year sentence of which he served 29 months before an appeals court overturned it on procedural grounds. The government declined to retry. McLain was doing well — radio, card shows, reportedly earning $400,000 a year. It wasn't enough. In 1993 he bought Peet Packing and embezzled from the employee pension fund. Convicted again. More prison time. The bankruptcy in 1970, the same year he became the first $100,000 Tiger, is the financial capsule of his career: the peak and the collapse simultaneous."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Last 30-Game Winner",
+      "desc": "September 14, 1968. National television. Oakland Athletics. Denny McLain wins his 30th game. He is in the dugout when the Tigers rally for the walk-off win, getting the decision without throwing the final pitch. No pitcher had won 30 games since Dizzy Dean in 1934. No pitcher has won 30 games since McLain in 1968. The milestone is 34 years in the making when he achieves it. It has now been 57 years since anyone has matched it. The game is played differently now. In ILB, The Last 30-Game Winner is a season-long momentum trait: in any season where McLain reaches 25 wins, the national audience effect activates — his STA is treated as 5 for all remaining games of that season (the whole country is watching, and he pitches like it).",
+      "note": "McLain's 30th win on September 14, 1968, on national television against Oakland, and its status as the last 30-game winning season in MLB history are documented."
+    },
+    {
+      "tag": "The Grooved Pitch",
+      "desc": "September 19, 1968. Tiger Stadium. McLain has a 6-1 lead over the Yankees in the eighth inning. It is his 31st win. Mickey Mantle — his childhood idol, tied with Jimmie Foxx for third place on the all-time home run list, nine days from his final ML game — comes to bat. McLain calls catcher Jim Price to the mound. He tells him to tell Mantle he will throw only fastballs. Mantle signals for a fastball letter high. McLain delivers it. Mantle hits it into the right-field seats for his 535th career home run, passing Foxx into sole possession of third place all-time. Mantle tips his cap rounding third. The next batter, Joe Pepitone, waves his bat at the plate signaling for the same gift. McLain throws the next pitch over his head. In ILB, The Grooved Pitch is a once-per-career act of deliberate generosity to an opponent: McLain may declare a specific opposing batter as his gifted opponent and intentionally deliver a batting-practice fastball. If the batter hits a home run, McLain's CLU rises by 1 for the remainder of the series (the crowd recognizes the grace of the gesture). If the batter does not hit a home run, McLain's CTL drops by 1 for his next start (he has revealed his hand for nothing).",
+      "note": "The Mantle grooved pitch — the mound conversation with Jim Price, Mantle's signal, McLain's delivery, the 535th HR, and Mantle's cap tip — are documented in multiple sources including McLain's own later admission in his 1974 autobiography."
+    },
+    {
+      "tag": "Sinatra Doesn't Give a Damn",
+      "desc": "Denny McLain's idol was Frank Sinatra: not just for the legendary singing voice, but because Sinatra exuded wealth and power. 'Sinatra doesn't give a damn about anything,' McLain said in 1968, 'and neither do I.' He paraded in a white mink coat. He flew his own Cessna. He headlined Las Vegas during the baseball season. He was 24 years old and had just won 31 games and the Commissioner was sending him angry letters about pitches he grooved to Mickey Mantle, and he did not care. In ILB, Sinatra Doesn't Give a Damn is the set's prestige-authority trait: once per season, McLain may declare a reprimand by a manager, umpire, or league official irrelevant — that official's penalty is nullified for the current game. It cannot be invoked against suspensions lasting more than one game.",
+      "note": "McLain's Sinatra idolization, the 'Sinatra doesn't give a damn' statement, the white mink coat, and the general demeanor are documented in the SABR BioProject."
+    },
+    {
+      "tag": "The Organ",
+      "desc": "Tom McLain — Denny's father, the frustrated shortstop who married at 18 and gave up baseball at his wife's demand — gave organ lessons to make extra money. He taught Denny. The instrument became a second career: Denny McLain recorded two albums for Capitol Records ('Denny McLain at the Organ' and 'Denny McLain in Las Vegas'), headlined in Las Vegas while the reigning AL MVP, performed on The Ed Sullivan Show (the Denny McLain Quartet, with World Series opponent Bob Gibson playing guitar alongside McLain on guitar), and played the organ during Detroit Tiger games as an active pitcher. In ILB, The Organ generates the McLain Performance Bonus: in any home game where McLain pitches, the home crowd receives a +0.5 morale bonus (he has entertained them between innings; they are his audience, not just his fans).",
+      "note": "McLain's organ career, the two Capitol Records LPs, the Ed Sullivan Show appearance (with Bob Gibson on guitar), and playing during Tiger games as an active player are documented."
+    },
+    {
+      "tag": "I Wouldn't Trade One Bob Gibson for 12 Mickey Loliches",
+      "desc": "After the 1968 World Series, McLain was asked about teammate Mickey Lolich's performance. Lolich had won three games — including the decisive Game 7 against Bob Gibson — and was the World Series MVP, the unambiguous reason the Tigers won the championship. McLain, headlining Las Vegas in his white mink coat, responded: 'I wouldn't trade one Bob Gibson for 12 Mickey Loliches.' He was comparing his teammate favorably to one person: Gibson. He was comparing his teammate unfavorably to no person. It was the most precisely and publicly contemptuous compliment in baseball history. In ILB, this quote is the set's team-morale penalty: in any season where McLain makes a public statement repudiating a teammate's achievement, team CLU drops by 0.5 for the following season (the locker room remembers).",
+      "note": "McLain's Las Vegas quote about Lolich and Gibson after the 1968 WS is documented in multiple sources."
+    },
+    {
+      "tag": "Giacalone's Heel",
+      "desc": "In early 1967, Denny McLain invested in a bookmaking ring based out of a restaurant in Flint, Michigan. Several of his partners were part of the Syrian mob. When a gambler named Edward Voshen won $46,000 on a horse race, the bookie could not pay. Voshen enlisted mob enforcer Tony Giacalone. According to multiple accounts accepted by baseball historians, Giacalone brought his heel down on McLain's toes during their meeting in early September 1967. McLain reported a toe injury caused by stubbing them while his foot fell asleep. He was winless after August 29, 1967. The Tigers needed a win on the final day to force a one-game playoff with the Red Sox. McLain pitched ineffectively and they lost. The 1967 pennant was Giacalone's heel. In ILB, Giacalone's Heel is the set's external consequence trait: in any season where McLain has a documented off-field gambling connection, his STA drops by 1 effective tier in the final month of that season (the debt comes due in September).",
+      "note": "The bookmaking ring in Flint, the Voshen bet, the Giacalone meeting, and the likely connection to McLain's late-1967 toe injury and winless August-September are documented in the Baseball Prospectus and SABR BioProject pieces."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballpark",
+      "affinity": "SACRED",
+      "note": "Tiger Stadium / the 1968 season / 31 wins / unanimous Cy Young + MVP / the grooved pitch to Mantle / WS ring / the last 30-game winner.",
+      "note_extra": "Source labeled 'Tiger Stadium Detroit / 1968 31-6 1.96 ERA / 280 K 63 BB 28 CG 336 IP / Unanimous Cy Young AND MVP First AL Pitcher Both Same Season / Last 30-Game Winner ML History Since Dizzy Dean 1934 / Only Year Both Leagues MVP Were Pitchers 1968 With Gibson / Game Ball 30th Win In HOF / WS Champion 1968 / Won Game 6 On Two Days Rest / 4.44 K-BB Ratio Tigers Record Till Verlander 2016 / Sporting News Sportsman Of Year Inaugural / Time Magazine Cover High School Wise Guy / First 100000 Tiger' / affinity 'SACRED' — fiftieth SACRED in the set, first for a Swingers 1960 pitcher. McLain's SACRED is the most quantitatively exceptional in the set: 31 wins in 1968 is a record that has stood for 57 years and may stand forever. The unanimous double award — Cy Young AND MVP in the same season, a feat no AL pitcher had achieved before — is the ILB SACRED for the Year of the Pitcher. The game ball from win 30 is in Cooperstown. McLain is not. Ballpark domain."
+    },
+    {
+      "location": "Live Music Venue",
+      "affinity": "ORIGIN",
+      "note": "Markham, Illinois / Irish Catholic / father Tom the frustrated shortstop who gave organ lessons / the instrument as the father's gift and the son's second career.",
+      "note_extra": "Source labeled 'Markham Illinois Suburb Chicago / Born March 29 1944 / Irish Catholic / Father Tom Star High School Shortstop / Married At 18 Gave Up Baseball / Truck Driver Insurance Adviser Gave Organ Lessons / Chain Smoker Beer Drinker / Taught Denny Organ / Two Capitol Records LPs / Ed Sullivan Show / Las Vegas Headliner / Bob Gibson Played Guitar Ed Sullivan McLain Organ / Played Organ During Tiger Games Active Pitcher / Father-In-Law Lou Boudreau HOF SS' / affinity 'ORIGIN' — fifty-third ORIGIN in the set, first for a Swingers 1960 pitcher. McLain's is the most instrument-specific ORIGIN in the set: the father who could not pursue baseball gave his son an organ instead. The organ became the Las Vegas act, the Ed Sullivan appearance, the Capitol Records LPs, and the soundtrack played during Tiger games. Tom McLain gave up shortstop and taught his son the instrument that defined Denny's off-field identity. Live Music Venue domain."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "DAMNED",
+      "note": "The mob bookmaking ring. Tony Giacalone's heel on McLain's toes. The 1967 pennant lost. Three suspensions in 1970. Bankruptcy. Federal conviction 1984. Prison. Second conviction for pension fund embezzlement.",
+      "note_extra": "Source labeled 'Bookmaking Ring Flint Michigan 1967 / Syrian Mob Partners / Edward Voshen 46000 Horse Race Bet / Tony Giacalone Mob Enforcer / Heel On Toes September 1967 / Winless After August 29 1967 / Tigers Lost Pennant Final Day / Three Suspensions 1970 First $100000 Tiger Bankrupt Same Year / Sports Illustrated Penthouse Broke Story / Kuhn First Three Months Suspended / Doused Reporters Water Buckets / Gun On Team Flight Violation Probation / 3-5 Record 1970 / 1984 Indicted Racketeering Extortion Cocaine / Convicted Sentenced 23 Years / Served 29 Months Appeals Court Overturned / Peet Packing 1993 Embezzled Pension Fund / Convicted Again / 160000 Flew Wanted Felon Out Country / Anthony Spilotro John Gotti Jr Connections / Weight Ballooned 330 Pounds' / affinity 'DAMNED' — sixteenth DAMNED in the set, first for a Swingers 1960 pitcher. McLain's is the most extensively documented DAMNED in the set: the mob preceded the peak, the three suspensions followed immediately after, the two federal convictions came a decade and two decades later. The Giacalone heel destroyed the 1967 pennant. The 1970 bankruptcy destroyed the financial peak of the career. The 1984 conviction destroyed the post-career. Hotel/Rest domain."
+    },
+    {
+      "location": "Open Field/Stadium",
+      "affinity": "MAXIMUM",
+      "note": "Last 30-game winner in ML history. First AL pitcher to win Cy Young + MVP same season. Only year both leagues' MVPs were pitchers. STF 4 / CTL 4 / STA 4 — the only pitcher in the set with the maximum trifecta.",
+      "note_extra": "Source labeled 'Last 30-Game Winner ML History / Only 11 Players 30 Wins 20th Century / Dizzy Dean Last Before McLain 1934 / First AL Pitcher Cy Young AND MVP Same Season / Only Year Both Leagues MVP Were Pitchers 1968 / 31 Wins Against Only 6 Losses / 28 Complete Games / 336 Innings Pitched / 1.96 ERA Year Of The Pitcher / 280 K 63 BB 4.44 K-BB Tigers Record / OVR 11 First OVR 11 Pitcher In Full Set / STF 4 CTL 4 STA 4 Only Pitcher Maximum Trifecta In Set' / affinity 'MAXIMUM' — twenty-second MAXIMUM in the set, first for a Swingers 1960 pitcher. McLain's is the most definitively historical MAXIMUM in the set: the last 30-game winner is a record that is no longer capable of being broken — it can only be matched. The first AL pitcher to win both awards in the same season. The OVR 11 is the set's first OVR 11 pitcher. The STF 4 / CTL 4 / STA 4 trifecta makes him the set's only pitcher with maximum ratings across all three pitching categories. Open Field domain."
+    },
+    {
+      "location": "Casino/Nightclub",
+      "affinity": "VOLATILE",
+      "note": "Three suspensions in a single season. Buckets of water on reporters. Gun on a team flight. Mob bookmaking. The Las Vegas act while still an active pitcher. 'Sinatra doesn't give a damn about anything, and neither do I.'",
+      "note_extra": "Source labeled 'Three Suspensions 1970 Single Season / Kuhn First Three Months / Water Buckets Reporters Hawkins Spoelstra / Gun Team Flight Violation Probation / 3-5 Record After All Suspensions / Mob Bookmaking Ring 1967 / Syrian Mob Partners / Las Vegas Headliner Active Pitcher / Private Cessna / Did Not Arrive All-Star Game Until 4th Inning Left Before End / Sky King Nickname / I Wouldn't Trade Gibson For 12 Loliches Quote / Sinatra Doesn't Give A Damn / Reprimand Commissioner Letter Grooved Pitch' / affinity 'VOLATILE' — second VOLATILE in the full set, first for a Swingers 1960 pitcher; Cash is the other VOLATILE. McLain's VOLATILE is the most densely documented in the set: three suspensions in a single season is a unique achievement, each from a different category of misconduct (mob connections, assault on reporters, weapons possession). The water buckets, the gun, and the mob are three separate VOLATILE events in twelve months. Casino/Nightclub domain — the Las Vegas lounge act was the backdrop for the Lolich quote, and Las Vegas is where the VOLATILE self was most publicly displayed."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "The Last 30-Game Winner — reaching 25 wins in a season activates the national audience effect: STA treated as 5 for all remaining games.",
+      "The Grooved Pitch — once per career: gift a specific opponent a batting-practice fastball. If they hit a HR, McLain's CLU rises by 1 for the remainder of the series.",
+      "Sinatra Doesn't Give a Damn — once per season: nullify one reprimand from manager, umpire, or league official.",
+      "The Organ — home crowd +0.5 morale bonus in any home game McLain pitches."
+    ],
+    "cold_triggers": [
+      "Giacalone's Heel — in any season with documented off-field gambling connection, STA drops 1 effective tier in the final month.",
+      "I Wouldn't Trade One Bob Gibson for 12 Mickey Loliches — in any season where McLain publicly repudiates a teammate's achievement, team CLU drops 0.5 the following season.",
+      "The Grooved Pitch (miss) — if the gifted batter does not hit a HR, CTL drops 1 for McLain's next start.",
+      "Post-1968 arm atrophy — after any season of 300+ IP, McLain's STA drops 0.5 for the following season."
+    ],
+    "pressure_response": "Game 6. 1968 World Series. The Tigers are down 3-1. McLain has already pitched 336 innings. His arm is taxed. He lost Games 1 and 4 to Gibson. He takes the ball on two days' rest and goes the distance — a complete game, 1 run allowed, the foundation of the Tigers' comeback. The pressure response is not the mob, not the suspensions, not the Las Vegas show: it is the Game 6 complete game. When the season is on the line and no one else can carry it, he pitches the game. He got the ring. The SACRED is 1968. The DAMNED is everything after."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Last 30-Game Winner",
+      "type": "Historic Feat",
+      "text": "September 14, 1968. National television. Oakland Athletics. Denny McLain wins his 30th game. He is in the dugout when the Tigers rally in the bottom of the ninth — he gets the win without throwing the final pitch. No pitcher had won 30 games since Dizzy Dean in 1934. The country has been watching since June. This is the game. The 31st win comes five days later, against the Yankees, in the game he uses to give his childhood idol Mickey Mantle a home run. No pitcher has won 30 games since McLain. The major leagues have been played for 57 years since 1968. The record still stands. It may stand forever.",
+      "origin": "McLain's 30th win on September 14 against Oakland on national television, and his 31st five days later against the Yankees, are documented. The last-30-game-winner status is the clearest historical fact in his record."
+    },
+    {
+      "title": "The Grooved Pitch",
+      "type": "Game Action",
+      "text": "September 19, 1968. Tiger Stadium. Eighth inning. McLain leads 6-1 and has already clinched both the pennant and his 31st win. Mickey Mantle — nine days from his final major league appearance, tied with Jimmie Foxx for third place on the all-time home run list — comes to bat. McLain calls catcher Jim Price to the mound. He tells Price to tell Mantle he will throw only fastballs. Mantle looks out at the mound, skeptical at first, fouling off a few. Then he signals: fastball, letter high. McLain delivers it. Mantle hits it into the right-field seats. His 535th career home run. Third place all-time, alone. He rounds the bases and tips his cap to McLain at third. The next batter, Joe Pepitone, waves his bat over the plate, signaling for the same gift. McLain throws the next pitch over his head.",
+      "origin": "The Mantle grooved pitch — the Price mound conference, Mantle's signal, McLain's delivery, the 535th HR, the cap tip at third, and the Pepitone brushback — are documented in multiple sources including McLain's 1974 autobiography."
+    },
+    {
+      "title": "Ed Sullivan and Bob Gibson",
+      "type": "Character",
+      "text": "Late 1968. The World Series has just ended, Tigers over Cardinals in seven games. The Denny McLain Quartet is performing on The Ed Sullivan Show. McLain plays the organ. Accompanying him on guitar is Bob Gibson — the Cardinals pitcher who went 22-9 with a 1.12 ERA in 1968, struck out 17 Tigers in World Series Game 1 (a record that still stands), won both the NL Cy Young and NL MVP, and lost the decisive Game 7 to Mickey Lolich. Two pitchers who combined to win both leagues' Cy Young and MVP awards in the same season, playing music together on national television three weeks after the Series. McLain plays the organ. Gibson plays guitar. The studio audience applauds.",
+      "origin": "The Denny McLain Quartet's Ed Sullivan Show appearance and Bob Gibson's guitar performance alongside McLain are documented in the Baseball Wiki (Fandom) piece."
+    },
+    {
+      "title": "Giacalone's Heel",
+      "type": "Consequence",
+      "text": "Early September 1967. Detroit Tigers pitcher Denny McLain is summoned to meet Tony Giacalone, a mob enforcer, about a gambling debt. McLain had invested $15,000 in a bookmaking operation in Flint, Michigan. A gambler named Edward Voshen had won $46,000, the bookies couldn't pay, and Giacalone had been enlisted to collect. The meeting ends. McLain soon reports a toe injury — he stubbed them, he says, when his foot fell asleep. He is winless after August 29. The Tigers need a win on the final day to force a one-game playoff for the American League pennant. McLain pitches ineffectively. They lose. The 1967 pennant race ends one game short. The following spring, Denny McLain goes 31-6 and wins everything. The toe heals. The debt does not.",
+      "origin": "The bookmaking ring, Voshen's bet, Giacalone's meeting, the likely heel-stomping, and the connection to McLain's winless August-September 1967 and the Tigers' one-game pennant loss are documented in the Baseball Prospectus and SABR BioProject pieces."
+    },
+    {
+      "title": "I Wouldn't Trade One Bob Gibson for 12 Mickey Loliches",
+      "type": "Character",
+      "text": "October 1968. The Detroit Tigers have won the World Series in seven games. Mickey Lolich — the left-hander, the second starter — won three games including the decisive Game 7 against Bob Gibson. He is the World Series MVP. Denny McLain is headlining in Las Vegas. He is wearing the white mink coat. He is asked about Lolich's performance. He says: 'I wouldn't trade one Bob Gibson for 12 Mickey Loliches.' He means it as a tribute to Gibson. He means it as the truth as he sees it. Lolich is aware of what he has been told. The ring is shared. The quote is not.",
+      "origin": "McLain's Las Vegas quote comparing Lolich unfavorably to Gibson after the 1968 WS is documented in the SABR BioProject and multiple sources."
+    },
+    {
+      "title": "Three Suspensions",
+      "type": "Consequence",
+      "text": "1970. February: Bowie Kuhn suspends Denny McLain indefinitely — then for the first three months of the season — for the bookmaking ring and mob connections revealed by Sports Illustrated and Penthouse. McLain's return on July 1 draws 53,863 fans. September: The Detroit Tigers suspend McLain for seven days after he dumps buckets of water on reporters Jim Hawkins of the Detroit Free Press and Watson Spoelstra of the Detroit News. September (again): Just before that suspension ends, Kuhn suspends McLain for at least the remainder of the season for carrying a gun on a team flight — a violation of his probation from the first suspension. Final 1970 record: 3-5. Denny McLain is the first $100,000 player in Tigers history. He files for bankruptcy the same year.",
+      "origin": "The three 1970 suspensions — Kuhn for bookmaking/mob, Tigers for buckets of water on reporters, Kuhn again for gun on team flight — and the same-year bankruptcy are documented."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'1'', 185 lbs — the last 30-game winner in Major League Baseball history, 24 years old in 1968, at the single greatest season of his career. The bespectacled right-hander from Markham, Illinois. Time magazine called him a 'high-school wise guy' and put him on the cover. The face should show why: charming and cocky and slightly amused, a man who has won 31 games and is now giving his childhood idol a gift home run because he can, and because the pennant is already clinched, and because Sinatra doesn't give a damn about anything, and neither does he.",
+    "attire": "Detroit Tigers home whites — the 1968 uniform, the Old English D on the cap, number 17. The pitching windup: delivery side view, the right arm coming over the top, the fastball already on its way. Tiger Stadium's right field visible in the background — the seats where Mantle's 535th home run landed.",
+    "mood": "Controlled velocity. The organ player who throws 280 strikeouts. The Las Vegas headliner who goes the distance 28 times. The man who idolized Sinatra and wore the white mink coat and flew his own Cessna and grooved a pitch to Mickey Mantle in his 31st win because he wanted to. The mood is the K:BB ratio — extraordinary control in service of extraordinary stuff, applied with total confidence that the outcome has already been decided.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. The Swingers 1960 palette. Tiger Stadium's lights visible in the background — the night of the 30th win, the national television audience, the country watching. The 1968 card year is the peak that nothing that follows can diminish: the game ball is in Cooperstown. The player is not. The art shows the game ball year.",
+    "reference": "The SABR BioProject framing as the art anchor: 'He was living the dream life. Until he wasn't.' The art should show the former: the 24-year-old on the mound in 1968, 31 wins ahead of him, Gibson across the Series, Mantle in the eighth inning, the organ already booked for Las Vegas. The reckoning is not in this frame."
+  }
+}

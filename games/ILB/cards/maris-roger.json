@@ -1,0 +1,193 @@
+{
+  "card_type": "player",
+  "name": "Roger Maris",
+  "nickname": "Baseball's Reluctant Hero",
+  "year": 1961,
+  "team": "New York Yankees",
+  "league": "American League",
+  "era": "1960s",
+  "ilb_team": "Swingers 1960",
+  "position": "RF",
+  "bats": "L",
+  "throws": "R",
+  "height": "6'0\"",
+  "weight": "200 lbs",
+  "born": "September 10, 1934 — Hibbing, MN",
+  "died": "December 14, 1985 — Houston, TX",
+  "hof": "Not inducted. Two-time AL MVP. His #9 was retired by the New York Yankees on July 21, 1984. Monument Park honoree at Yankee Stadium.",
+
+  "real_stats": {
+    "season": 1961,
+    "batting_avg": ".269",
+    "obp": ".376",
+    "slg": ".620",
+    "ops": ".996",
+    "hits": 142,
+    "doubles": 16,
+    "triples": 4,
+    "home_runs": 61,
+    "rbi": 141,
+    "runs": 132,
+    "walks": 94,
+    "intentional_walks": 0,
+    "war": 7.1,
+    "all_star": 1,
+    "awards": "AL MVP 1961 (back-to-back MVPs, also won 1960). Set the then-ML single-season home run record with 61 HR — breaking Babe Ruth's record of 60 set in 1927. The record stood as the MLB record from 1961 to 1998 (Mark McGwire), as the AL record from 1961 to 2022 (Aaron Judge, 62 HR on October 4, 2022 — Maris's sons Roger Jr. and Richard were present at the game). Zero intentional walks in the 61 HR season — the only player in history to hit 60+ HR in a season without drawing a single IBB (Mantle batted behind him; opponents pitched to Maris rather than risk Mantle). Commissioner Ford Frick's mid-season 'ruling' (later revealed to be a suggestion only, with no asterisk ever appearing in any official record book) stated that the record would need a 'distinctive mark' if not accomplished in 154 games; Maris had 59 HR after game 154. Hit his 61st HR in the fourth inning of the final game of the season (October 1, 1961) off Tracy Stallard of the Boston Red Sox at Yankee Stadium. After rounding the bases, he headed straight for the dugout; his teammates pushed him back out to take a bow. Phil Rizzuto's call: 'Holy Cow, he did it.' Seven World Series appearances — more than any player of his decade. Three World Series rings (Yankees 1961, 1962; Cardinals 1967). Gold Glove Award 1960. AL fielding average leader at RF 1960 and 1964. NL fielding average leader at RF 1967. Roger Maris on the 1961 season: 'It would have been a helluva lot more fun if I had not hit those sixty-one home runs.' And: 'Do you know what I have to show for 61 home runs? Nothing. Exactly nothing.'",
+    "world_series": "Seven World Series appearances — more than any player of his decade. Won three: Yankees 1961 (6 games, defeated Reds), Yankees 1962 (7 games, defeated Giants), Cardinals 1967 (7 games, defeated Red Sox). Career WS batting average not exceptional but produced in key games. Best WS performance: 1967 (.385, 1 HR, 7 RBI) — played his final complete postseason at his best when the team needed it most. In the 1967 WS against the Red Sox, he was the Cardinals' primary run-producer."
+  },
+
+  "ilb_stats": {
+    "ovr": 10,
+    "con": 2,
+    "pow": 5,
+    "spd": 0,
+    "def": 3,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "con": "Career .260 BA (.265 with the Yankees). Peak .283 in 1960, .269 in 1961. His swing was built for pull power to right field at Yankee Stadium — the short right-field porch, the left-handed pull hitter, the specific park geometry. He drew zero intentional walks in the 61 HR season because Mickey Mantle was hitting behind him. CON 2 reflects the free-swinging power hitter whose contact was always secondary to the pull stroke — he was not designed for batting average. The zero IBBs are not a CON rating but a lineup context.",
+    "pow": "61 HR in 1961. 39 HR in 1960. Career 275 HR. AL single-season HR record from 1961 to 2022 (61 years). The most celebrated single-season HR total in pre-steroid baseball history. POW 5 is the peak power tier in the set — Frank Robinson (OVR 11) is also POW 5. Maris's POW 5 is the 61 HR season: the pull power to right field at Yankee Stadium, the record-breaking stroke, the season in which he hit 61 home runs against the combined pitching of the American League.",
+    "spd": "No documented speed asset. Power right fielder, not a baserunner. SPD 0.",
+    "def": "Gold Glove 1960. AL fielding average leader at RF in 1960 and 1964. NL fielding average leader at RF in 1967. Baseball-Reference credits him with 19 fielding runs in 1960 — elite by any metric. His 1960 WAR of 7.2 was partly driven by the defensive value. DEF 3 reflects the genuine defensive excellence that is systematically underrated in Maris's legacy: the reluctant hero who broke the HR record was also one of the best defensive right fielders of his era.",
+    "clu": "Seven World Series appearances — more than any player of his decade. Three rings. 1967 WS: .385, 1 HR, 7 RBI (his career-best postseason). The 1961 and 1962 Yankees championship teams and the 1967 Cardinals championship team all featured Maris in a key role. CLU 3 is the postseason producer across three winning teams across two franchises — the most documented CLU 3 in the full set."
+  },
+
+  "personality": {
+    "leadership_style": "The reluctant hero. He did not want to be the center of attention. He wanted to play baseball and go home to Fargo. When he hit the 61st HR, he headed straight for the dugout; his teammates pushed him back out to take a bow. He was not performing. He was not celebrating. He had done the thing and he wanted it to be over. His blunt-spoken Midwestern directness — which the New York press translated as 'gruff and unlikable' — was the same quality that made him a trusted teammate, a steady presence in seven World Series, and the man Gussie Busch trusted to run a Budweiser distributorship. He was not a Yankee. He never pretended to be. He was from Fargo.",
+    "temperament": "Blunt, private, steady under normal conditions, and progressively overwhelmed by the specific pressure of 1961. He arrived at the Yankees as a Midwesterner who had no interest in cultivating the New York media — unlike Mantle, who had learned to schmooze with the press. Maris's blunt responses were reported as 'gruff' and 'surly.' He was neither. He was honest in a context that rewarded performance and punished honesty. When he gave the middle finger to a jeering crowd in Minnesota in 1963 after missing a ground ball on national television, it was the only time the controlled exterior failed in public — and he made no apology for it.",
+    "work_ethic": "He appeared in seven World Series. He led both leagues in fielding average at RF across his career. He played through injuries (a hand/wrist issue plagued his final Yankee years). He went to the Cardinals when the Yankees traded him away angry and helped them win the 1967 World Series. He hit .385 in that series. He was 32 years old and this was his final productive season. He did not mail it in.",
+    "lifestyle": "Hibbing, Minnesota / Fargo, North Dakota / Cleveland / Kansas City / New York / St. Louis / Gainesville, Florida. Croatian immigrant parents; father worked for the Great Northern Railroad. Born Roger Maras (the family changed the name to avoid taunting puns). He had a football scholarship to the University of Oklahoma, arrived by bus, found no one there to greet him, and turned around and went back to Fargo. He married Patricia Carvell, his Fargo high school sweetheart, in October 1956. Six children. He moved to Gainesville, Florida, after his playing career and ran the Maris Distributing Company — the Anheuser-Busch (Budweiser) distributorship that Gussie Busch had set him up with. He died on December 14, 1985, of non-Hodgkin's lymphoma, at 51. He had been sick for two years.",
+    "dark_side": "The 1961 pressure. The death threats. The NYPD detective assigned to watch him. The hair falling out in clumps. Ford Frick's mid-season ruling — a friend of Ruth's, the commissioner announced that Maris would need a 'distinctive mark' next to his record if he didn't break it in 154 games. Maris had 59 HR after game 154. He hit 61 in 162. 'Do you know what I have to show for 61 home runs? Nothing. Exactly nothing.' He ended a decade-long boycott of Yankee Stadium to attend the July 21, 1984 ceremony retiring his number 9 — a reconciliation with the franchise that had traded him angry in 1966. He was 49 years old. He had one year to live."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "61",
+      "desc": "October 1, 1961. Final game of the season. Yankee Stadium. Fourth inning. Roger Maris steps to the plate against Tracy Stallard of the Boston Red Sox. Stallard throws a knee-high fastball toward the outside corner. Maris pulls it into the right-field bleachers. His 61st home run of the season. The single-season MLB record, breaking Babe Ruth's mark of 60 set in 1927. Phil Rizzuto calls it: 'Holy Cow, he did it.' Maris rounds the bases and heads straight for the dugout. His teammates push him back out to take a bow. In ILB, 61 is the set's singular achievement trait: once per career, in any season where Maris reaches 60 HR, his next home run attempt in that season receives an automatic POW resolution at maximum (the record is the record; the swing that breaks it is the swing it deserves to be). No other player in the set has a named numerical achievement trait.",
+      "note": "The 61st HR off Tracy Stallard, the fourth inning, the right-field bleachers, Rizzuto's call, and Maris heading for the dugout are documented in multiple sources."
+    },
+    {
+      "tag": "Mantle Behind Me",
+      "desc": "In 1961, Roger Maris hit 61 home runs without drawing a single intentional walk. The reason: Mickey Mantle was batting behind him for the vast majority of the season. Opponents chose to pitch to the reigning MVP, the player chasing Babe Ruth's record, rather than risk Mantle. Zero intentional walks in a 61 HR season is a statistical anomaly with no parallel in the history of comparable home run seasons — McGwire had 28 IBBs in 1998, Bonds had 35. In ILB, Mantle Behind Me is the set's lineup-protection mechanic: when Maris bats directly in front of a designated cleanup hitter (CON 4+ or POW 5+), his POW is treated as 6 instead of 5 for pull-direction home run attempts (opponents pitch to him; he is not protecting himself — the hitter behind him is protecting him).",
+      "note": "Maris's zero intentional walks in the 61 HR season, in contrast to every comparable HR season, and the specific Mantle-protection reason are documented."
+    },
+    {
+      "tag": "The Reluctant Hero",
+      "desc": "Roger Maris headed straight for the dugout after hitting his 61st home run. His teammates pushed him back out to take a bow. His own assessment of the season: 'It would have been a helluva lot more fun if I had not hit those sixty-one home runs.' And later: 'Do you know what I have to show for 61 home runs? Nothing. Exactly nothing.' He was not performing the record. He was not enjoying it. He was the man who broke the most cherished record in baseball and was given death threats and a disputed asterisk and a decade of being called 'not a true Yankee.' In ILB, The Reluctant Hero is the set's modesty-as-resilience trait: in any season where Maris hits 40+ HR, his CON is treated as 3 instead of 2 for all at-bats in the following season (the player who doesn't want the attention channels the aftermath into contact — he just wants to play baseball).",
+      "note": "Maris's heading for the dugout, teammates pushing him back out, and his quoted assessments of the 61 HR season are documented."
+    },
+    {
+      "tag": "The Asterisk That Wasn't",
+      "desc": "In July 1961, Commissioner Ford Frick — a personal friend of Babe Ruth who had ghostwritten Ruth's autobiography — announced that unless the record was broken in the first 154 games, the new record would be shown with a 'distinctive mark.' The asterisk as that mark was invented by New York Daily News sportswriter Dick Young. No asterisk ever appeared in any official record book. MLB had no official record book at the time. Frick later acknowledged that there was never an official qualification. The record was affirmed by two separate committees, in 1968 and 1991. The asterisk that damaged Maris's legacy for thirty years was a newspaper sportswriter's suggestion, not a formal ruling. In ILB, The Asterisk That Wasn't is the set's institutional-challenge trait: whenever Maris achieves a set record (season HR peak, single-game performance maximum), opposing managers may declare a challenge to the record citing context — if challenged, Maris's next performance in the same category receives a +1 effective bonus (the challenge activates him; he responds to being told his achievement doesn't count).",
+      "note": "Ford Frick's July 1961 ruling, the asterisk's origin in Dick Young's column, and the absence of any actual asterisk in official record books — with the record affirmed in 1968 and 1991 — are documented in multiple sources."
+    },
+    {
+      "tag": "The Oklahoma Bus",
+      "desc": "Roger Maris had a scholarship to play football at the University of Oklahoma. He arrived in Norman by bus — alone, no one from the university there to meet him. He turned around and went back to Fargo, North Dakota. He signed with the Cleveland Indians instead. The no-nonsense Midwestern personality that the New York press called 'gruff' was established at the bus station in Norman, Oklahoma: he was not going to wait around for people who hadn't shown up. He had places to be. In ILB, The Oklahoma Bus is the set's self-respect trait: in any situation where a manager, coach, or official fails to show up for a scheduled engagement with Maris (in the game's metaphorical context: any management action that treats him as interchangeable or overlooked), Maris's performance in the following game receives +0.5 CON and +0.5 DEF (he responds to being underestimated by playing better).",
+      "note": "Maris's arrival at Oklahoma by bus, finding no one to greet him, and returning to Fargo is documented in the Baseball Wiki (Fandom) piece."
+    },
+    {
+      "tag": "He Hit .385",
+      "desc": "1967 World Series. Roger Maris is 32 years old. He has been traded from the Yankees — the franchise that questioned his courage when he asked to be traded after seven years of injuries and hostility — to the St. Louis Cardinals. The New York years are over. He is playing his last good season. In the 1967 World Series against the Boston Red Sox, he hits .385 with one home run and seven RBI — the best postseason performance of his career. The Cardinals win the Series in seven games. He has three World Series rings. He retires after 1968. In ILB, He Hit .385 is Maris's postseason activation trait: in any World Series game, Maris's CON is treated as 3 instead of 2 and his CLU bonus applies at full tier (the Series was where he was always best — seven appearances, three rings, .385 in his last one).",
+      "note": "Maris's 1967 WS performance (.385, 1 HR, 7 RBI) as his career-best postseason are documented. His three rings across the Yankees and Cardinals are documented."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballpark",
+      "affinity": "SACRED",
+      "note": "Yankee Stadium / October 1, 1961 / 61st HR off Tracy Stallard / 'Holy Cow, he did it' / straight to the dugout / pushed back out for the bow.",
+      "note_extra": "Source labeled 'Yankee Stadium October 1 1961 / Fourth Inning / Tracy Stallard Boston Red Sox / Knee-High Fastball Outside Corner / Right-Field Bleachers / 61st HR ML Record Breaking Ruth 60 In 1927 / Phil Rizzuto Holy Cow He Did It / Headed Straight Dugout / Teammates Pushed Back Out For Bow / Zero IBBs 61 HR Season Mantle Behind Him / Ford Frick Ruling No Actual Asterisk / ML Record 1961-1998 / AL Record 1961-2022 Aaron Judge 62 / Sons At Judge 62nd HR Game / Would Have Been Helluva Lot More Fun If Not Hit 61 / Do You Know What I Have For 61 HR Nothing / Decade-Long Yankee Stadium Boycott / Returned July 21 1984 Number 9 Retired / Non-Hodgkin Lymphoma Died December 14 1985 Age 51' / affinity 'SACRED' — fifty-first SACRED in the set, ninth Swingers 1960 SACRED. Maris's is the most weight-bearing SACRED in the set: the 61st HR on October 1, 1961, is the single most documented moment of any player in the full ILB set. The SACRED is the thing that cost him — the record that produced the death threats, the hair loss, the disputed asterisk, the decade-long boycott of the stadium where he did it. It is simultaneously the peak of his career and the source of his lasting bitterness. 'Do you know what I have to show for 61 home runs? Nothing. Exactly nothing.' The SACRED holds both. Ballpark domain."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Hibbing, Minnesota / Croatian immigrant parents / Fargo, North Dakota / Oklahoma scholarship bus / changed name from Maras / football-baseball choice.",
+      "note_extra": "Source labeled 'Hibbing Minnesota September 10 1934 / Croatian Immigrant Parents / Father Rudolph Great Northern Railroad / Moved Fargo North Dakota 1942 / Bishop Shanley High School Fargo / Four Kickoffs Returned For Touchdowns Single Football Game / Scholarship University Oklahoma Football / Arrived Bus Norman Oklahoma / Found Nobody There To Greet Him / Turned Around Went Back Fargo / Signed Cleveland Indians Baseball Instead / Born Roger Maras Changed To Maris / Married Patricia Carvell High School Sweetheart October 1956 / Six Children / Gainesville Florida Beer Distributing Gussie Busch Set Up' / affinity 'ORIGIN' — fifty-fourth ORIGIN in the set, sixth for the Swingers 1960. Maris's is the most decisively self-defining ORIGIN in the set: the bus to Norman, the empty arrival gate, the return to Fargo. He signed with Cleveland instead. The person who hits 61 home runs was shaped at an Oklahoma bus station where nobody showed up to meet him. Community Events domain."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HAUNTED",
+      "note": "The asterisk. The hair falling out. Death threats. NYPD detective assigned. 'Nothing. Exactly nothing.' Decade-long boycott. Non-Hodgkin's lymphoma. Died at 51.",
+      "note_extra": "Source labeled 'Ford Frick Ruling July 1961 / Ruth Ghostwriter Ruling His Friend Record / Asterisk Invented Dick Young Not Official / Death Threats 1961 / NYPD Detective Kieran Burke Assigned Watch Over Him / Hair Falling Out In Clumps Stress / Zero IBBs Pitched To Not Protected / Media Portrayed As Gruff Surly / Not A True Yankee / 1963 Middle Finger Jeering Crowd National TV / Yankees Questioned Courage When He Asked Trade / Left Angry / Decade-Long Yankee Stadium Boycott / Returned July 21 1984 Number Retired Nine Days Before He Would Die Of Lymphoma At 51 / Non-Hodgkin Lymphoma Two Years Ill Died December 14 1985 Houston Texas / Not In HOF Despite Two MVPs Three Rings Gold Glove Number Retired' / affinity 'HAUNTED' — twenty-seventh HAUNTED in the set, fifth for the Swingers 1960. Maris's is the most institutionally-sourced HAUNTED in the set: the damage to his legacy was done by a commissioner who was a friend of the player whose record he broke, by a press corps that preferred Mantle and punished Maris's bluntness, and by a franchise that questioned his courage when he asked to leave after seven years. He reconciled with the Yankees in 1984. He had one more year. Hotel/Rest domain."
+    },
+    {
+      "location": "Open Field/Stadium",
+      "affinity": "MAXIMUM",
+      "note": "61 HR — ML record 1961-1998, AL record 1961-2022. Zero IBBs in a 61 HR season. Two back-to-back MVPs. Seven World Series.",
+      "note_extra": "Source labeled '61 HR ML Single Season Record 1961-1998 / AL Record 1961-2022 Aaron Judge 62 / Only Player 60+ HR Season Zero IBBs / Two Back-To-Back AL MVPs 1960 1961 / Seven World Series More Than Any Player His Decade / Three Rings / One Of Only Three Non-HOF Multi-MVP Winners With Gonzalez And Murphy / 19 Fielding Runs 1960 Gold Glove / AL Fielding Average Leader RF 1960 1964 / NL Fielding Average Leader RF 1967' / affinity 'MAXIMUM' — twenty-third MAXIMUM in the set, fourth for the Swingers 1960. Maris's is the most paradoxical MAXIMUM in the set: the 61 HR are both the maximum achievement and the thing that cost him everything after. The zero IBBs in a 61 HR season is a statistical anomaly with no parallel. The AL record stood for 61 years — the set's longest individual record duration. And he is not in the Hall of Fame. Open Field domain."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "COMPLEX",
+      "note": "Not in the HOF. Two MVPs, 61 HR, three WS rings, Gold Glove, #9 retired — and not in Cooperstown. The reluctant hero. CON 2 / POW 5 split.",
+      "note_extra": "Source labeled 'Not In HOF / Two AL MVPs / 61 HR Three WS Rings Gold Glove Number Retired / One Of Three Non-HOF Multi-MVP Winners With Juan Gonzalez Dale Murphy / Not A True Yankee Press Narrative / Baseball Reluctant Hero Tom Clavin Book Title / Would Have Been More Fun Not Hit 61 / Nothing Exactly Nothing Quote / CON 2 POW 5 Extreme Power-Contact Split / AL Record 61 Years / Reconciled Yankees 1984 One Year Before Death / Died 51 Non-Hodgkin Lymphoma' / affinity 'COMPLEX' — twenty-ninth COMPLEX in the set, sixth for the Swingers 1960. Maris's is the most honor-disparity COMPLEX in the set: two MVPs, three rings, the single most famous individual season in baseball history, and not in Cooperstown. The COMPLEX is the gap between what he did and what the game gave him back. Hotel/Rest domain."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "61 — once per career: when Maris reaches 60 HR in a season, his next HR attempt receives automatic maximum POW resolution.",
+      "Mantle Behind Me — when batting directly in front of a CON 4+ or POW 5+ hitter, POW is treated as 6 instead of 5 for pull-direction HR attempts.",
+      "The Asterisk That Wasn't — when an opposing manager challenges a Maris achievement on context grounds, his next performance in that category receives +1 effective bonus.",
+      "The Oklahoma Bus — when management overlooks or underestimates Maris, his next game receives +0.5 CON and +0.5 DEF.",
+      "He Hit .385 — in any World Series game, CON treated as 3 instead of 2 and CLU bonus applies at full tier.",
+      "The Reluctant Hero — in any season where Maris hits 40+ HR, his CON is treated as 3 in the following season."
+    ],
+    "cold_triggers": [
+      "CON 2 baseline — the pull hitter's contact floor; seasons without Mantle protection revert to standard tier.",
+      "Post-record years — Maris never hit more than 33 HR in any season after 1961; without the specific 1961 conditions (lineup, park, health), the POW 5 represents the peak, not the baseline.",
+      "SPD 0 — no baserunning value."
+    ],
+    "pressure_response": "October 1, 1961. Final game. He has 60 home runs. He heads to the plate against Tracy Stallard. He hits it into the right-field bleachers. He runs the bases and goes straight to the dugout. His teammates push him back out. He does not want this. He does the thing anyway. The pressure response is the most consistent fact of his career: seven World Series, three rings, the record in the final at-bat of the year. He didn't want the record. He got it. That's who he was."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "61",
+      "type": "Historic Feat",
+      "text": "October 1, 1961. Final game of the season. Yankee Stadium. Roger Maris steps to the plate for the second time in the fourth inning against Tracy Stallard of the Boston Red Sox. Stallard throws a knee-high fastball toward the outside corner. Maris pulls it into the right-field bleachers. His 61st home run of the season. The single-season MLB record, breaking Babe Ruth's mark of 60 set in 1927. Phil Rizzuto calls it: 'Holy Cow, he did it.' Maris rounds the bases and heads straight for the dugout. His teammates push him back out. He takes one bow. He does not know what to say. He says nothing. He hits 61 home runs and nothing else all summer mattered and he did not want it to happen this way and it happened anyway.",
+      "origin": "The 61st HR off Stallard, the fourth inning, Rizzuto's call, Maris heading for the dugout, and his teammates pushing him back out are documented in multiple sources."
+    },
+    {
+      "title": "Nobody Will Touch It",
+      "type": "Origin",
+      "text": "January 23, 1961. An Associated Press reporter asks Roger Maris whether the schedule change — the AL expanding to 162 games — might threaten Babe Ruth's single-season home run record. Maris says: 'Nobody will touch it. Look up the records and you'll see that it's a rare year when anybody hits 50 homers, let alone 60.' He is wrong. He will be the one to touch it. He will hit 61. He does not want to hit 61. He wants to play baseball and go home to Fargo. The season has other ideas.",
+      "origin": "Maris's January 23, 1961 AP interview response is documented in the Wikipedia article on Roger Maris."
+    },
+    {
+      "title": "The Oklahoma Bus",
+      "type": "Character",
+      "text": "Roger Maris had a football scholarship at the University of Oklahoma. He arrived in Norman, Oklahoma, by bus. He was alone. There was no one from the university there to meet him. He waited for a while. No one came. He picked up his bag, got back on the bus, and went back to Fargo, North Dakota. He signed with the Cleveland Indians instead. This is not the story of a man who quit. This is the story of a man who understood that if you show up and no one is there to meet you, you go somewhere else. He spent the rest of his career being told he was in the wrong place.",
+      "origin": "Maris's arrival at Oklahoma, finding no one to meet him, and returning to Fargo are documented in the Baseball Wiki (Fandom) piece."
+    },
+    {
+      "title": "The Asterisk That Wasn't",
+      "type": "Consequence",
+      "text": "July 17, 1961. Commissioner Ford Frick — a personal friend of Babe Ruth who had ghostwritten Ruth's autobiography — announces that unless the single-season home run record is broken in the first 154 games, the new record will be shown in the record books with a 'distinctive mark.' Sportswriter Dick Young immediately calls this mark an 'asterisk.' The word catches. It spreads. No asterisk ever appears in any official record book. MLB has no official record book. Frick will later acknowledge that there was never an official qualification. The record is affirmed by two committees, in 1968 and 1991. The asterisk that spent thirty years next to Maris's name in the public imagination was invented by a newspaper columnist and endorsed by a commissioner who was Ruth's friend. Maris hit 61 home runs. He had 59 after the 154th game. He hit two more. That is all.",
+      "origin": "Frick's July 17, 1961 ruling, Young's asterisk invention, the absence of any actual asterisk in any official record book, and the 1968 and 1991 affirmations are documented."
+    },
+    {
+      "title": "Hey, Did You Know We Were Fighting Again?",
+      "type": "Character",
+      "text": "The press invented a rivalry between Roger Maris and Mickey Mantle during the 1961 home run chase. The two men were roommates and friends. They read the morning newspaper together every day. When they saw stories about their rivalry, one would say to the other: 'Hey, did you know we were fighting again?' Pat Maris later recalled this to People magazine. When Mantle was injured and dropped out of the home run race after his 54th, he rooted for Maris to break the record. The rivalry was the press's. The friendship was theirs. Both men understood this. The press mostly did not.",
+      "origin": "Pat Maris's account of the manufactured rivalry, the morning newspaper joke, and the genuine Maris-Mantle friendship are documented in the encyclopedia.com piece quoting People magazine."
+    },
+    {
+      "title": "He Hit .385",
+      "type": "Postseason",
+      "text": "1967 World Series. Cardinals vs. Red Sox. Roger Maris is 32 years old and playing his last complete season. The Yankees traded him two years ago, angry. He was well-received in St. Louis. The fans appreciated the blunt Midwesterner. He helped them win the pennant both years he was there. In Game 1 of the 1967 World Series, he is part of the Cardinals offense that beats the Red Sox. Over seven games, he hits .385 with one home run and seven RBI — the best postseason performance of his career. The Cardinals win in seven. It is his third World Series ring. He retires after 1968. He goes to Gainesville, Florida, to run the Budweiser distributorship Gussie Busch set him up with. He is 34 years old. He has eleven more years.",
+      "origin": "Maris's 1967 WS performance (.385, 1 HR, 7 RBI), the Cardinals' win over the Red Sox, and his post-career Gainesville beer distributorship are documented."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'0'', 200 lbs — the blunt-spoken Midwesterner from Fargo who hit 61 home runs in 1961 and headed straight for the dugout afterward. In 1961 he is 26 years old. The face should show both things simultaneously: the extraordinary physical capability and the private person who didn't want any of this. The hair that will fall out in clumps from the stress is still there. The record is not yet set. He is in the middle of the summer and he has not asked for what is coming.",
+    "attire": "New York Yankees pinstripes — the 1961 uniform, the NY on the cap, number 9. The left-handed pull swing at full extension — the compact stroke aimed at Yankee Stadium's right-field porch, 296 feet down the line, the specific geometry he was built for. The right-field bleachers visible in the background at the distance where 61 home runs landed.",
+    "mood": "Reluctant and complete. He is not performing. He is not celebrating. He is doing the thing he does — pulling the ball to right field with total precision — and the thing he does happens to be breaking the most famous record in baseball. The mood is the compact swing: it is exactly as big as it needs to be and no bigger, and when it is done he goes straight to the dugout.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. The Swingers 1960 palette. Yankee Stadium's right-field facade in the background — the specific architecture of the stadium where the record was set. The card year is 1961: the season, the record, the reluctance, all in one frame.",
+    "reference": "His own quote as the art anchor: 'It would have been a helluva lot more fun if I had not hit those sixty-one home runs.' The art should show the player before the record exists — the swing, the stadium, the left-handed stroke aimed at the short porch — not the celebration afterward. He is mid-swing. The record is one pitch away. He doesn't know yet. Or he does, and that's the face."
+  }
+}

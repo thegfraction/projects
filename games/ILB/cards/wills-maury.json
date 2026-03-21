@@ -1,0 +1,192 @@
+{
+  "card_type": "player",
+  "name": "Maury Wills",
+  "nickname": "Mouse",
+  "year": 1962,
+  "team": "Los Angeles Dodgers",
+  "league": "National League",
+  "era": "1960s",
+  "ilb_team": "Swingers 1960",
+  "position": "SS",
+  "bats": "B",
+  "throws": "R",
+  "height": "5'11\"",
+  "weight": "170 lbs",
+  "born": "October 2, 1932 — Washington, D.C.",
+  "died": "September 19, 2022 — Sedona, AZ",
+  "hof": "Not inducted. NL MVP 1962. Multiple committee ballot appearances without election.",
+
+  "real_stats": {
+    "season": 1962,
+    "batting_avg": ".299",
+    "obp": ".347",
+    "slg": ".373",
+    "ops": ".720",
+    "hits": 208,
+    "doubles": 13,
+    "triples": 10,
+    "home_runs": 6,
+    "rbi": 48,
+    "runs": 130,
+    "stolen_bases": 104,
+    "caught_stealing": 13,
+    "war": 8.5,
+    "all_star": 1,
+    "awards": "NL MVP 1962 (over Willie Mays). Gold Glove 1962 (second consecutive; also won 1961). First All-Star Game MVP in history (1962 Midsummer Classic: pinch-ran for Stan Musial, stole a base, scored the winning run). Set the ML stolen base record with 104 — broke Ty Cobb's modern-era mark of 96 set in 1915 (ML record held until Lou Brock stole 118 in 1974; NL single-season record still standing). 89% stolen base success rate (104 attempts, only 13 caught stealing). Led NL in SB for six consecutive seasons (1960-1965). 165 games played in 1962 — ML record that still stands (162 regular season + 3 playoff games to determine NL pennant, all counted as regular season), described as 'almost impossible to break under current rules.' Ford Frick ruled that Wills must steal his 97th base by the 156th game for it to officially break Cobb's record; Wills stole two bases in the Dodgers' 156th game on September 23 against St. Louis. Wills: 'As far as I'm concerned, I was right on schedule. He did it in 156 games and what's good enough for Cobb is good enough for me.' Late in the 1962 pennant race, Giants manager Alvin Dark ordered grounds crews to water down the base paths at Candlestick Park, turning them to mud specifically to hinder Wills's base-stealing. Jocko Conlan (umpire), when the Cubs protested a Wills steal call: 'You ain't got him all year. Why would you think you'd get him this time?' Career: .281 BA, 2,134 hits, 586 SB, 1,067 runs in 14 seasons.",
+    "world_series": "Four World Series (1959, 1963, 1965, 1966). Three rings (1959, 1963, 1965). 1959 vs. White Sox (won): 5-for-20, 1 SB. 1963 vs. Yankees (sweep): 2-for-16, 1 SB. 1965 vs. Twins (won): 11-for-30 (.367), 3 SB — career-best WS performance; Sandy Koufax outdueled Jim Kaat in Game 7. 1966 vs. Orioles (sweep loss): 1-for-13 (.077), 1 SB — Dodgers swept in 4. Three rings in four appearances."
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "con": 3,
+    "pow": 1,
+    "spd": 5,
+    "def": 2,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "con": "Career .281 BA. .299 in 1962. .302 in 1963. .295 in 1960. A switch-hitter adopted late during his 8-year minor league career. Consistent leadoff contact from the top of the order without elite average peaks. CON 3 reflects the reliable contact that got him on base to run — the foundation of everything the Dodgers' offense was built on.",
+    "pow": "Career 20 HR in 14 seasons — the lowest power total of any SS in the set. Six HR in 1962. Occasionally tried to 'muscle up' batting right-handed (his natural side) against right-handed pitchers. POW 1 is the set's first instance of the maximum speed profile combined with minimum power — the player who creates offense entirely through contact and speed rather than any power production.",
+    "spd": "104 SB in 1962 (ML record at the time, NL record still standing). Six consecutive NL SB titles (1960-1965). 94 SB in 1965. Career 586 SB. 89% success rate in 1962 (104 attempts, 13 CS). Drew 12 consecutive pickoff throws from Roger Craig before stealing second. Dodger Stadium: 'Go! Go! Go, Maury, Go!' SPD 5 is the set's maximum speed tier, shared with Lou Brock — the two players credited with reviving the stolen base as a strategic weapon in 1960s baseball.",
+    "def": "Two Gold Gloves (1961, 1962). Bill James ranked him #19 all-time at SS. He worked hard to become a good shortstop — he was originally a 2B in the minors. 'I practiced every conceivable play that might arise so I'd be ready for anything.' Strong arm. DEF 2 reflects the solid, Gold Glove-earned defensive skill built through effort rather than natural positioning ability.",
+    "clu": "Three WS rings in four appearances. .367 in the 1965 WS (11-for-30, 3 SB) against the Twins, including the clinching Game 7 where Koufax outdueled Kaat. CLU 3 is the three-ring postseason presence across 14 years — consistent, championship-caliber without the dominant individual WS performance metrics of Brock (CLU 4)."
+  },
+
+  "personality": {
+    "leadership_style": "The team captain and leadoff catalyst. He was the Dodgers' starting shortstop and the trigger for an offense built entirely around pitching, defense, and manufactured runs. When he got on base, the crowd chanted 'Go! Go! Go, Maury, Go!' When he studied pitchers — watching their pickoff moves even when not on base, keeping a black book of their tendencies — he was preparing to make every stolen base attempt before he ever left the dugout. He drew 12 consecutive pickoff throws from Roger Craig and then stole on the 13th pitch. He was not faster than everyone. He was smarter than everyone about when to go.",
+    "temperament": "Relentlessly self-made. He spent 8 years in the minor leagues before getting his shot at 26. He became a switch-hitter late in that development, transforming his offensive profile in the Dodgers' system. He kept a black book of pitcher tendencies — when Brock asked to see it, Wills declined. He studied pitchers when not on base. He converted from 2B to SS in the minors. He worked hard at defense: 'I practiced every conceivable play that might arise so I'd be ready for anything.' The 104-steal season came from eight years of preparation.",
+    "work_ethic": "The 165 games in 1962 — ML record still standing. He played every regular season game, then all three NL playoff games against the Giants. He stole 104 bases on a sore body — the 89% success rate was built on research, not just speed. He played a banjo in the clubhouse, on the plane, in nightspots across the country. 'A rarity,' noted the BR Bullpen, 'a banjo hitter who also played the instrument.'",
+    "lifestyle": "Washington D.C. (one of 13 children, Cardozo High School — star quarterback and baseball pitcher) → Brooklyn Dodgers organization (1950) → 8 years in the minor leagues → Los Angeles (Dodger Stadium, 'Loooouuuu') → Pittsburgh → Montreal → Los Angeles again. He played the banjo. He socialized with Hollywood stars and claimed an affair with Doris Day (which she denied in JET magazine: 'I never once saw Maury when Marty wasn't present'). He managed the Seattle Mariners in 1980-81 — the third African American to manage in the major leagues. The baseball writers ranked him #19 all-time at SS. He did not make the HOF.",
+    "dark_side": "Eight years in the minor leagues, reaching the majors at 26. If he had started when he should have, the career stolen base totals would have been unreachable. Ford Frick's deadline on the 104-steal record — the same commissioner who put a shadow on Maris, now putting a shadow on Wills. Giants manager Alvin Dark watering down the basepaths. The 1966 Japan tour walkout — he left because his knees were bad, and the Dodgers traded him to Pittsburgh as punishment. The Seattle Mariners managerial experience. The HOF ballots that never ended in election. He was not tucked away in the minors because he wasn't good enough. He was tucked away because Pee Wee Reese was still playing."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Go, Maury, Go",
+      "desc": "Dodger Stadium. Any time Maury Wills reached base, the crowd began: 'Go! Go! Go, Maury, Go!' He was a significant distraction to the pitcher even if he didn't try to steal, because he was a constant threat to do so. He drew 12 consecutive pickoff throws from Mets pitcher Roger Craig in a single at-bat, then stole second on Craig's 13th pitch. Umpire Jocko Conlan, when the Cubs protested a Wills steal call: 'You ain't got him all year. Why would you think you'd get him this time?' In ILB, Go Maury Go is the set's crowd-distraction baserunning mechanic: whenever Wills is on base at a home game, the opposing pitcher's CTL is treated as 1 tier lower for every pitch that does not result in a pickoff attempt (the crowd is a second pressure; the pitcher is thinking about Wills more than the batter).",
+      "note": "The Dodger Stadium crowd chant, the 12 consecutive pickoff throws against Roger Craig, and Conlan's response are documented."
+    },
+    {
+      "tag": "The Black Book",
+      "desc": "Maury Wills kept a black book of pitcher tendencies — pickoff moves, windups, habits, tells. He studied pitchers even when not on base. When Lou Brock heard about the book and asked Wills to share his notes, Wills declined. Brock then bought an 8mm camera and filmed pitchers himself. The black book came first. Wills had been using systematic pitcher study for years before Brock arrived. In ILB, The Black Book is the set's pitcher-study accumulation trait: for every series Wills has previously faced an opposing pitcher in ILB, his SB success rate against that pitcher rises by 5% (cumulative, to a maximum of +20% over four prior series appearances). The book is specific and it keeps growing.",
+      "note": "Wills's black book of pitcher tendencies, Brock's request to see it, and Wills's refusal are documented in the SABR BioProject."
+    },
+    {
+      "tag": "What's Good Enough for Cobb",
+      "desc": "September 23, 1962. The Dodgers' 156th game. Maury Wills steals two bases against the St. Louis Cardinals, reaching 97 on the season and officially breaking Ty Cobb's modern-era record of 96 set in 1915. Commissioner Ford Frick had ruled that Wills must break the record within 154 games — the same length as the 1915 season — or it would need a special designation. Like Roger Maris and the 61 home runs, the Frick ruling had followed Wills all season. His response: 'As far as I'm concerned, I was right on schedule. He did it in 156 games and what's good enough for Cobb is good enough for me.' In ILB, What's Good Enough for Cobb is the set's record-contextualization trait: whenever Wills's seasonal SB total exceeds 96 in any ILB season, any league-official challenge to the record's validity is nullified — the record stands, the clock had the same number of hours, and what was good enough for Cobb is good enough for Wills.",
+      "note": "Frick's 154-game ruling on Wills's SB record chase, the 97th steal in the 156th game on September 23, and Wills's response are documented."
+    },
+    {
+      "tag": "Dark's Mud",
+      "desc": "Late in the 1962 pennant race. The San Francisco Giants are in a tight race with the Los Angeles Dodgers for the NL pennant. Giants manager Alvin Dark orders grounds crews at Candlestick Park to water down the base paths, turning them into mud, specifically to hinder Maury Wills's base-stealing. The Dodgers and Giants end the season tied, playing a best-of-three playoff. Wills plays all three games. The Giants win the third game and advance to the World Series. In ILB, Dark's Mud is the set's opponent-sabotage response trait: whenever an opposing team declares any action specifically designed to limit Wills's baserunning (a defensive shift, a pitching strategy, or an explicit managerial counter), his SPD is treated as 6 instead of 5 for the rest of that series (the sabotage activates him; the mud did not stop him; it made him angrier).",
+      "note": "Giants manager Alvin Dark's orders to water down the Candlestick Park basepaths to stop Wills's baserunning in 1962 are documented."
+    },
+    {
+      "tag": "The Banjo",
+      "desc": "Maury Wills played the banjo. He played it in the Dodgers' clubhouse. He played it on the team plane. He played it in nightspots from Los Angeles to Las Vegas to New York City. The BR Bullpen noted: 'He is a rarity, a banjo hitter who also played the instrument.' He was a leadoff hitter whose offensive profile was built around contact and speed, not power — the term 'banjo hitter' fit both his bat and the actual instrument he carried. He socialized with Hollywood stars. He was one of 13 children from Washington D.C. who spent eight years in the minor leagues and then played the banjo in the clubhouse before stealing 104 bases. In ILB, The Banjo is the set's team-mood trait: in any game following a team loss, the Swingers 1960's collective CON floor rises by 0.25 (he played the banjo after losses; the team mood was maintained; the next game was always the next game).",
+      "note": "Wills's banjo playing in the clubhouse, on the team plane, and in nightspots is documented in the SABR BioProject and BR Bullpen."
+    },
+    {
+      "tag": "Eight Years",
+      "desc": "Maury Wills signed with the Brooklyn Dodgers in 1950, when he was 17 years old. He spent the next eight years in the minor leagues — for Hornell, Pueblo, Fort Worth, Seattle, Spokane, among others — while Pee Wee Reese was the Dodgers' shortstop and then while Don Zimmer was being tried. He reached the major leagues in 1959, at age 26. He was the first NL player to steal 50 bases since 1923 in his first full season. He broke Ty Cobb's record two years after that. This Day In Baseball: 'Had he not been tucked away in the minor leagues for eight seasons, Maury Wills would probably be a Hall of Famer.' In ILB, Eight Years is the set's delayed-debut bonus: in any ILB context where Wills joins a team's roster after being in a development system for multiple seasons, his first full season with that franchise receives +0.5 to both CON and SPD (the preparation was done; the opportunity is now).",
+      "note": "Wills's eight-year minor league career (1951-1958), the Pee Wee Reese/Zimmer blocking, and the 'would probably be a Hall of Famer' assessment are documented."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballpark",
+      "affinity": "SACRED",
+      "note": "Dodger Stadium / the 1962 season / 104 SB / 'Go! Go! Go, Maury, Go!' / 165 games / 'What's good enough for Cobb is good enough for me.'",
+      "note_extra": "Source labeled 'Dodger Stadium Los Angeles / 1962 NL MVP Over Willie Mays / 104 SB Broke Ty Cobb 96 From 1915 / ML Record Until Brock 118 1974 / NL Single Season Record Still Standing / 89% Success Rate 13 CS / 165 Games ML Record Still Standing / 162 Regular Season Plus 3 NL Playoff Games / First All-Star Game MVP History Pinch Ran Musial Stole Scored / Six Consecutive NL SB Titles 1960-1965 / Go Maury Go Stadium Chant / Dark Mud Sabotage Late Season / Frick 154 Game Ruling Responded What Good Enough Cobb Good Enough Me / Drew 12 Consecutive Pickoffs Craig Stole 13th / Conlan You Ain Got Him All Year Quote / 1965 WS .367 11-For-30 3 SB Three Rings' / affinity 'SACRED' — fifty-seventh SACRED in the set, fifteenth for the Swingers 1960. Wills's is the most process-specific SACRED in the set: the 104 steals are the SACRED, but what makes them SACRED is the method — the black book, the study of pickoff moves when not on base, the 12 pickoff throws drawn before stealing on the 13th pitch, the 89% success rate across 104 attempts. The record was the output. The preparation was the SACRED. Ballpark domain."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Washington D.C. / one of 13 children / Cardozo High School quarterback and pitcher / 8 years in the minors / switch-hitting adopted late / Pee Wee Reese blocking.",
+      "note_extra": "Source labeled 'Washington DC October 2 1932 / One Of 13 Children / Cardozo High School Star Quarterback Baseball Pitcher / Signed Brooklyn Dodgers 1950 Age 17 / Eight Years Minor Leagues 1951-1958 / Pee Wee Reese Entrenched Then Zimmer / Passed To Reds Via Minor League Draft 1956 / Reds Returned To Dodgers / Tigers Got Then Returned To Dodgers 1959 / Switch-Hitter Adopted Late Minor League Career / Originally Second Baseman Converted Shortstop / Reached Majors Age 26 / First Full Season 1960 Hit .295 50 SB First NL 50 Since Max Carey 1923' / affinity 'ORIGIN' — sixtieth ORIGIN in the set, twelfth for the Swingers 1960. Wills's is the most delayed-arrival ORIGIN in the set: eight years in the minor leagues, three different organizations (Dodgers-Reds-Tigers-Dodgers), adopted switch-hitting during that time, converted positions, and finally reached the majors at 26. The ORIGIN is the eight years of waiting while Pee Wee Reese played shortstop. Community Events domain."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HAUNTED",
+      "note": "Eight years in the minors. Not in the HOF. The muddy basepaths. Ford Frick's deadline. The Japan tour walkout. The Seattle Mariners. The 1962 pennant playoff loss.",
+      "note_extra": "Source labeled 'Eight Years Minor Leagues Before Majors / Not In HOF Multiple Committee Ballot Appearances / James Critical As Person 19th All-Time SS Still / 1962 NL Pennant Lost Giants Three-Game Playoff Played 165 Games / Dark Muddy Basepaths Sabotage / Frick 154 Game Ruling Shadow On Record / Japan Tour 1966 Walkout Bad Knees / O Malley Traded Him Pittsburgh As Punishment / Pittsburgh Used As 3B Gene Alley SS / Seattle Mariners 1980-81 Managerial Disaster / Neyer Said Mistakes Unparalleled As Manager / NL Champion Dodgers Fell Eighth 1967 Without Wills / Had Not Been Tucked Away Eight Seasons Would Be Hall Of Famer' / affinity 'HAUNTED' — twenty-ninth HAUNTED in the set, seventh for the Swingers 1960. Wills's is the most institutional HAUNTED in the set: the eight years in the minors while someone else played his position, the record season that still required a defender's mud and a commissioner's asterisk, the trade as punishment for a medical decision, and the HOF that still hasn't voted him in. Hotel/Rest domain."
+    },
+    {
+      "location": "Open Field/Stadium",
+      "affinity": "MAXIMUM",
+      "note": "104 SB in 1962 (ML record until 1974, NL record still standing). Six consecutive NL SB titles. 165 games (ML record still standing). First All-Star Game MVP. SPD 5 (second in set after Brock).",
+      "note_extra": "Source labeled '104 SB 1962 ML Record Until Brock 118 1974 / NL Single Season SB Record Still Standing / Six Consecutive NL SB Titles 1960-1965 / 165 Games 1962 ML Record Still Standing Almost Impossible Break Current Rules / First All-Star Game MVP History 1962 / 89% SB Success Rate 1962 / NL MVP 1962 Over Willie Mays / SPD 5 Second In Full Set After Brock / Career 586 SB / Led NL SB Eight Different Seasons / Bill James 19th All-Time SS / Revived Stolen Base As Strategic Weapon With Brock' / affinity 'MAXIMUM' — twenty-eighth MAXIMUM in the set, ninth for the Swingers 1960. Wills's is the most records-still-standing MAXIMUM in the set: the 165 games in 1962 is described as 'almost impossible to break under current rules' — it stands alongside the NL single-season SB record as two records from the same season that still stand in some form. Open Field domain."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "COMPLEX",
+      "note": "Not in HOF. NL MVP 1962 over Willie Mays. POW 1 / SPD 5 — most extreme speed-over-power profile in the set. 8 years in the minors. The Frick ruling. The mud.",
+      "note_extra": "Source labeled 'Not In HOF Multiple Ballot / NL MVP 1962 Over Willie Mays Criticized Decision At Time / Bill James 19th All-Time SS Incredibly Critical As Person / POW 1 SPD 5 Most Extreme Profile In Set / Career 20 HR Only SS In Set POW 1 / 8 Years Minor Leagues Before Majors / Blocked By Pee Wee Reese Then Zimmer / Frick 154 Game Ruling Same Year As Maris / Dark Mud Basepaths Specific Sabotage / Japan Tour Walkout Punished By Trade / Seattle Mariners 1980-81 Disaster / Would Be Hall Famer Without Eight Minor League Years / Second Player Revive SB Strategic Weapon After Cobb Before Brock' / affinity 'COMPLEX' — thirty-second COMPLEX in the set, ninth for the Swingers 1960. Wills's is the most blocked-potential COMPLEX in the set: eight years in the minors that the record itself cannot account for, an MVP season that was questioned because of the player he beat (Mays), and a POW 1 offensive profile that makes the 104 stolen bases even more remarkable — there was literally no other way he could contribute to the offense. Hotel/Rest domain."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Go Maury Go — at home games, opposing pitcher's CTL drops 1 tier for every pitch that is not a pickoff attempt.",
+      "The Black Book — for each prior series faced against the same pitcher, SB success rate rises 5% (cumulative, max +20% after four prior appearances).",
+      "Dark's Mud — whenever any opposing team declares a specific anti-Wills strategy, SPD treated as 6 instead of 5 for the rest of the series.",
+      "What's Good Enough for Cobb — once seasonal SB total exceeds 96, any official challenge to the record's validity is automatically nullified.",
+      "Eight Years — in first full season with any franchise after a development period, CON and SPD each receive +0.5 effective tier."
+    ],
+    "cold_triggers": [
+      "POW 1 — no power production; contact and speed are the only offensive weapons.",
+      "Pre-green-light pattern — in any season without explicit manager authorization to steal at his own discretion, SPD effective tier drops to 3 (the Cubs had Brock for three years without the green light; Wills needed the same freedom).",
+      "Post-1965 knees — in any season after age 33, a 1-in-5 roll at season start; triggered result reduces SPD by 1 effective tier for that season (the Japan tour walkout was about the knees; the knees were always the limiting factor)."
+    ],
+    "pressure_response": "The 1965 World Series, Game 7. Koufax vs. Kaat. Maury Wills goes 11-for-30 in the series (.367), steals 3 bases in 5 attempts. Sandy Koufax outduels Jim Kaat. The Dodgers win their third World Series of Wills's tenure. He is in every game. He is in the black book. He has studied Kaat's pickoff move. In the Dodger Stadium chant, they are always saying 'Go.' He always goes."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "104",
+      "type": "Historic Feat",
+      "text": "1962. Maury Wills steals 104 bases, breaking Ty Cobb's modern-era record of 96 set in 1915. His success rate is 89%: 104 attempts, 13 caught stealing. Giants manager Alvin Dark orders groundskeepers to water down the basepaths at Candlestick Park into mud to stop him. Commissioner Ford Frick rules that the record must be broken within 154 games. Wills steals his 97th in the Dodgers' 156th game and says: 'He did it in 156 games and what's good enough for Cobb is good enough for me.' He finishes with 104. He plays 165 games. The Dodgers lose the NL pennant to the Giants in a three-game playoff. He wins the NL MVP Award over Willie Mays. The NL single-season stolen base record is still 104.",
+      "origin": "Wills's 104 SB in 1962, the Dark mud-basepath order, the Frick 154-game ruling, Wills's response, and the 165-game record are documented."
+    },
+    {
+      "title": "The Black Book",
+      "type": "Character",
+      "text": "Maury Wills kept a black book: pitcher tendencies, pickoff moves, habits, tells. He studied pitchers even when not on base. He watched from the dugout, from first base, from the batter's box. The book accumulated across hundreds of at-bats and baserunning situations. When Lou Brock heard about the book and asked to see it, Wills declined. Brock then bought an 8mm camera and filmed pitchers himself. Both approaches worked. Wills's approach came first. In a game against the Mets, he drew 12 consecutive pickoff throws from Roger Craig. On Craig's 13th pitch to the plate, Wills stole second. The Cubs once protested a steal call by umpire Jocko Conlan. Conlan replied: 'You ain't got him all year. Why would you think you'd get him this time?'",
+      "origin": "The black book, Brock's request, Wills's refusal, the 12 pickoff throws against Craig, and Conlan's quote are documented."
+    },
+    {
+      "title": "Eight Years",
+      "type": "Origin",
+      "text": "Maury Wills signed with the Brooklyn Dodgers in 1950 at age 17. He spent the next eight years in the minor leagues. Pee Wee Reese played shortstop. Then Don Zimmer. Then Zimmer broke his toe and the Dodgers called up Wills in 1959. He was 26 years old. He had learned to switch-hit in the minors. He had converted from second base to shortstop in the minors. He had been passed to the Reds in a minor league draft, then returned to the Dodgers, then sent to the Tigers, then returned again. In his first full season — at 27 — he led the NL with 50 stolen bases. In his third full season, he stole 104 and won the MVP. Baseball Almanac: 'Had he not been tucked away in the minor leagues for eight seasons, Maury Wills would probably be a Hall of Famer.'",
+      "origin": "Wills's eight-year minor league career, the Reese/Zimmer blocking, the various organizational transfers, and the 'would probably be a Hall of Famer' assessment are documented."
+    },
+    {
+      "title": "Dark's Mud",
+      "type": "Consequence",
+      "text": "1962. Late in the pennant race. The Los Angeles Dodgers and San Francisco Giants are locked in a tight race for the National League pennant. Giants manager Alvin Dark orders the grounds crews at Candlestick Park to water down the base paths, turning them into mud — specifically to hinder Maury Wills's base-stealing. The Giants win the pennant in a three-game playoff. Wills plays all 165 games. The mud slows him down for one afternoon at Candlestick and is forgotten by the next game at Dodger Stadium, where he is always two steps off the bag and the crowd is always chanting. The sabotage fails. The pennant is still lost.",
+      "origin": "Alvin Dark's order to water down the Candlestick basepaths and the Dodgers losing the 1962 pennant to the Giants in a playoff are documented."
+    },
+    {
+      "title": "The Banjo Hitter Who Played Banjo",
+      "type": "Character",
+      "text": "Maury Wills played the banjo. He played it in the Dodgers' clubhouse, on the team plane, in nightspots from Los Angeles to Las Vegas to New York City. The Baseball Reference Bullpen noted that he was 'a rarity, a banjo hitter who also played the instrument.' He hit 20 home runs in 14 major-league seasons. He stole 586 bases. He was a leadoff hitter who could steal a base or hit a single or bunt — and could play the banjo after the game. He was one of 13 children from Washington D.C. who spent eight years in the minor leagues, became a switch-hitter late in that time, and then played the banjo in the clubhouse of the Los Angeles Dodgers. He stole 104 bases the year he played the banjo the most.",
+      "origin": "Wills's banjo playing in the clubhouse, on the plane, and in nightspots is documented in the SABR BioProject and BR Bullpen."
+    },
+    {
+      "title": "The 1965 World Series",
+      "type": "Postseason",
+      "text": "1965 World Series. Los Angeles Dodgers vs. Minnesota Twins. Seven games. Sandy Koufax and Jim Kaat will pitch Game 7. Maury Wills goes 11-for-30 (.367) with three stolen bases and three doubles across the series. In Game 7, Koufax outduels Kaat — two days' rest for both — and the Dodgers win 2-0. It is Wills's third World Series ring. He has played in four World Series for the Los Angeles Dodgers. He will play in one more, in 1966, and go 1-for-13. But in 1965, on the back of a .367 series, he has what he came to Los Angeles to get: three rings and a black book full of pickoff moves he has already studied for next year.",
+      "origin": "Wills's 1965 WS stats (.367, 3 SB, 3 doubles), the Koufax-Kaat Game 7, and Wills's three rings are documented."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'11'', 170 lbs — the banjo hitter who also played the banjo, one of 13 children from Washington D.C. who spent eight years in the minor leagues before stealing 104 bases and winning the NL MVP at 29. In 1962 he is 29 years old. The face of the man who kept a black book about opposing pitchers, who drew 12 consecutive pickoff throws and then stole on the 13th, who played 165 games in one season. The preparation was the face.",
+    "attire": "Los Angeles Dodgers home whites — the 1962 uniform, the LA on the cap. The leadoff stance: left-handed (against right-handed pitching), the switch-hitter's natural lean, already looking down the first-base line. Then immediately: the secondary image is the lead — the shortened lead, the weight forward, the eyes on the pitcher's heel. Dodger Stadium in the background, the crowd crowd chanting.",
+    "mood": "Patient and inevitable. He is not running yet. He is studying. The black book is already in his head. He knows when the pitcher is going to the plate. He has drawn 12 throws already. The steal is already decided. The mood is not speed — it is the moment before speed: the research completed, the decision made, the execution about to begin.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. The Swingers 1960 palette. Dodger Stadium's symmetrical architecture visible in the background. The card year is 1962: the 104 steals, the 165 games, the NL MVP, the 89% success rate. The art shows the preparation rather than the theft — the leadoff stance, the shortened lead, the study in the eyes.",
+    "reference": "Wills's own quote as the art anchor: 'I practiced every conceivable play that might arise so I'd be ready for anything.' The art shows the readiness — not the sprint, not the slide, but the moment when Wills already knows the pitcher's move and the crowd is about to chant. He is ready. He has always been ready. He was ready for eight years before anyone let him play."
+  }
+}

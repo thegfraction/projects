@@ -1,0 +1,187 @@
+{
+  "card_type": "player",
+  "name": "Camilo Pascual",
+  "nickname": "Little Potato",
+  "year": 1963,
+  "team": "Minnesota Twins",
+  "league": "American League",
+  "era": "1960s",
+  "ilb_team": "Swingers 1960",
+  "position": "SP",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'11\"",
+  "weight": "185 lbs",
+  "born": "January 20, 1934 — Havana, Cuba",
+  "hof": "Not inducted nationally. Latino Baseball Hall of Fame, inaugural inductee 2010. Minnesota Twins Hall of Fame, inducted 2012.",
+
+  "real_stats": {
+    "season": 1963,
+    "wins": 21,
+    "losses": 9,
+    "era": "2.46",
+    "innings_pitched": "248.0",
+    "complete_games": 18,
+    "shutouts": 5,
+    "strikeouts": 202,
+    "walks": 81,
+    "war": 7.1,
+    "all_star": 1,
+    "awards": "Five-time AL All-Star (1959, 1960, 1961, 1962, 1964). Led AL in strikeouts three consecutive seasons (1961: 221, 1962: 206, 1963: 202) — the first pitcher since Walter Johnson in 1916 to reach 200 strikeouts in a season for the Senators/Twins franchise. Led AL in complete games three times, shutouts three times. Career: 174 wins, 2,167 K, 3.63 ERA in 18 seasons. Two 20-win seasons (1962: 20-11, 1963: 21-9). Four consecutive 200-K seasons (1961-64). Ted Williams: 'the most feared curveball in the American League for 18 years.' Tony Kubek on the curveball: 'He'd come straight over the top with it and it would just dive off the table. The spin was so tight, you couldn't identify the pitch until it was too late. It didn't flutter, it didn't hang, it just kept biting. When Pascual was right, nobody had a chance. That curve was unhittable.' Pascual's curveball has been rated in the top 10 all-time. Ralph Houk: 'He can set up a batter in so many ways. You look for a fastball and that overhand curve gets you. Look for a curve and he jams that fastball on your hands.' April 18, 1960: struck out 15 Red Sox on Opening Day (ML Opening Day record at the time) on the same day his wife Raquel gave birth to son Camilo Jr. 'This is the best present I could have given my wife.' In late 1959, Gabe Paul of the Cincinnati Reds offered Calvin Griffith $500,000 each for Killebrew and Pascual. Griffith declined. Pascual is one of only 7 pitchers in ML history to hit 2 grand slams; he is the only pitcher in Twins history to do so. Batting .302 in 1959; 26 hits and 19 RBI in 1962 — one of the best hitting pitchers of his era. Twins Almanac: 'On April 27, 1965, he hit the only grand slam by a pitcher in Twins history.' Post-career scout: signed Jose Canseco for the Oakland Athletics (1982) and Alex Cora for the Los Angeles Dodgers (1996).",
+    "world_series": "1965 World Series with the Minnesota Twins (lost to the Los Angeles Dodgers in 7 games). Pascual was part of the pennant-winning 1965 Twins roster but was not started in the World Series — manager Sam Mele skipped him in the rotation after the Dodgers won Games 4 and 5 to take a 3-2 series lead, going with Mudcat Grant in Game 6 (which Grant won). Pascual did not get a World Series start. The Twins lost Game 7 to Sandy Koufax 2-0. No World Series ring."
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "stf": 4,
+    "ctl": 3,
+    "sta": 3,
+    "def": 2,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "stf": "The curveball rated top 10 all-time. Ted Williams: 'the most feared curveball in the American League for 18 years.' Tony Kubek: 'When Pascual was right, nobody had a chance. That curve was unhittable.' 200+ K four consecutive seasons, three consecutive AL strikeout titles. The direct overhand delivery with high leg kick and second-base twist before the ball was released. STF 4 is the overpowering curveball tier — the pitch that produced 'cringing paralysis' in hitters. When right, nobody had a chance.",
+    "ctl": "Good control described consistently across sources, though not elite. 81 walks in 248 IP in 1963. His 28-66 record from 1954-1960 was team quality, not walks. Ralph Houk: 'He can set up a batter in so many ways.' The overhand delivery required precision mechanics — it was not a wild-thrower's pitch. CTL 3 reflects solid, purposeful command in service of a devastating curveball.",
+    "sta": "248 IP in 1963. 18 CG. Led AL in complete games three times. From 1959-1964, one of the most durable starters in the AL despite playing for generally poor teams. The 28-66 record from 1954-1960 was accumulated across teams that regularly finished 7th-8th. STA 3 is the peak-era workhorse — consistent through his prime without the extreme durability of McLain or Kaat.",
+    "def": "One of the best hitting pitchers of his era: .302 BA in 1959, 26 hits and 19 RBI in 1962. One of only 7 pitchers in ML history to hit 2 grand slams; only pitcher in Twins history to do so. Originally a third baseman in sandlot baseball in Havana. 'They didn't think I could hit enough to be a third baseman so they made me pitch.' DEF 2 reflects the batting ability as functional contribution — a pitcher who was a genuine offensive asset.",
+    "clu": "Five AL All-Star selections. Part of the 1965 pennant-winning Twins roster. April 18, 1960: ML Opening Day strikeout record (15 K). No WS ring — skipped in the 1965 WS rotation. CLU 2 reflects the All-Star presence and pennant team membership without the championship ring."
+  },
+
+  "personality": {
+    "leadership_style": "The practitioner of the inherited craft. He learned the curveball from Adolfo Luque — Cuba's most successful pitcher before him — during the 1953-54 winter league season with Marianao. Luque died before seeing what the pitch became. Pascual made it the most feared curveball in the American League for 18 years. He was described as 'Little Potato' — compact, specific, a player who was fundamentally a third baseman until someone decided his arm was better suited to pitching. He was signed for $125. In his peak years he was worth $500,000 in 1959 dollars according to Gabe Paul, and Calvin Griffith said no.",
+    "temperament": "Steady, professional, specific. He signed with the Senators at 17 for $125. He survived the 28-66 years on genuinely bad Washington teams by focusing on the things he could control — the curveball mechanics, the overhand delivery, the high leg kick, the second-base twist. He was not defined by the teams he pitched for. He was defined by the pitch. In 1963 he was drawing $36,500 — the most of any pitcher in Senators/Twins history. He had earned it on the worst teams in the AL and then showed what it could do on a winning one.",
+    "work_ethic": "18 seasons. Four consecutive 200-K seasons. Three consecutive AL strikeout titles. His body of work across 18 years with five organizations is the profile of a craftsman who kept working. After his career ended, he scouted for years in Venezuela for the Dodgers. He signed Jose Canseco and Alex Cora — different players at different times for different organizations. He kept seeing talent long after the curveball was gone.",
+    "lifestyle": "Havana, Cuba — the Cienfuegos Elephants of the Cuban Winter League — Washington, D.C. (Griffith Stadium) — Minneapolis/St. Paul (Metropolitan Stadium) — Miami, where he lived from 1960 onward. He played Cuban winter ball for years alongside his AL seasons. During a 10-month period from mid-April 1959 through the Caribbean Series in February 1960, he threw 410 innings and compiled a cumulative 34-15 record with 363 strikeouts between the Senators and Cienfuegos. He was named Cuba's outstanding athlete of 1959. His winter-league manager as a young player was Adolfo Luque. The curveball was the inheritance.",
+    "dark_side": "The 28-66 record. From 1954 to 1960, he won 28 and lost 66 on Washington Senators teams that regularly finished 7th and 8th. He was, according to Gabe Paul in 1959, the best pitcher in the major leagues. His record was 28-66. The same curveball. The same delivery. The same Ted Williams quote about the most feared curveball in the AL. The record was the team's fault. The career statistics absorbed it anyway. He won 174 games. With a different team in his first seven years, he might have reached 250. Calvin Griffith turned down $500,000 for him in 1959."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Luque Curveball",
+      "desc": "Winter 1953-54. Camilo Pascual is 19 years old and pitching for the Marianao Tigers of the Cuban Winter League. His manager is Adolfo Luque — Cuba's most successful major-league pitcher before him, a veteran of 20 ML seasons, a mentor who managed for only a few months before being fired in a dispute over an American pitcher. In those months, Luque teaches Pascual the overhand curveball: a direct overhand delivery, a high leg kick that shields the ball, a twist toward second base before the release. Luque dies between the 1956-57 and 1957-58 winter seasons. The curveball survives in Pascual's hand. Tony Kubek: 'When Pascual was right, nobody had a chance. That curve was unhittable.' In ILB, The Luque Curveball is the set's inherited-craft trait: against any left-handed batter, Pascual's STF is treated as 5 instead of 4 — the overhand curveball breaking down and away from left-handed hitters is the specific matchup where the pitch is most devastating (the trajectory that Luque taught is maximally effective against the opposite-handed batter).",
+      "note": "Pascual's learning of his curveball from Adolfo Luque during the 1953-54 Marianao winter season, and Luque's subsequent death, are documented in the SABR BioProject."
+    },
+    {
+      "tag": "This Is the Best Present I Could Have Given My Wife",
+      "desc": "April 18, 1960. Washington Senators vs. Boston Red Sox. Opening Day. Griffith Stadium. President Eisenhower throws out the first pitch (his seventh Opening Day toss in eight years). Camilo Pascual strikes out 15 Red Sox batters — an ML Opening Day record. The only run scores on a second-inning home run by Ted Williams: the one batter in the AL who was allowed to hit the curveball. After the game, Pascual learns that his wife Raquel has given birth to their son, Camilo Jr., that day. 'This is the best present I could have given my wife,' Pascual said. Williams after the game: 'Nobody in this league can compare with that pitcher.' In ILB, This Is the Best Present is the set's milestone-on-personal-day bonus: in any game that coincides with a documented personal milestone (birth, marriage, or family event in the ILB player record), Pascual's CTL is treated as 4 instead of 3 for the full game.",
+      "note": "The April 18, 1960 Opening Day 15-K record game, the simultaneous birth of Camilo Jr., Pascual's quote, and Williams's post-game comment are documented."
+    },
+    {
+      "tag": "I Consider Pascual the Best Pitcher in the Majors",
+      "desc": "Late December 1959. Gabe Paul, vice president of the Cincinnati Reds, offers Washington Senators owner Calvin Griffith $500,000 each for Harmon Killebrew and Camilo Pascual — $1 million total. Griffith declines. Paul's explanation: 'I consider Pascual the best pitcher in the majors.' At the time of the offer, Pascual's career record is approximately 45 wins and 80 losses. His team has finished 7th, 8th, 7th, 8th, and 8th in his five seasons. His ERA is 3.62. His curveball is the most feared in the American League. The record reflects the team. The offer reflects the pitcher. In ILB, I Consider Pascual the Best Pitcher is the set's undervalued-by-record trait: in any season where Pascual's win-loss record is below .500, his STF effective tier is treated as 5 instead of 4 (the team is losing; he is not; the curveball does not know the standings).",
+      "note": "Gabe Paul's $500,000 offer for Pascual and Killebrew, Griffith's refusal, and Paul's 'best pitcher in the majors' quote are documented."
+    },
+    {
+      "tag": "They Didn't Think I Could Hit",
+      "desc": "Havana, Cuba. Young Camilo Pascual plays third base in sandlot baseball. The coaches decide he cannot hit well enough to stay at third base. They put him on the mound instead. He becomes the most feared curveball pitcher in the American League for 18 years, a .302 hitter in 1959, one of only 7 pitchers in ML history to hit 2 career grand slams, and the only pitcher in Twins history to hit a grand slam. 'I could always throw curves when I fooled around as a kid. They didn't think I could hit enough to be a third baseman so they made me pitch.' In ILB, They Didn't Think I Could Hit is the set's cross-position competence trait: once per season, Pascual may take one at-bat as a designated pinch-hitter; his CON for that at-bat is treated as 3 (the third baseman they said couldn't hit, who learned instead to make his curveball unhittable).",
+      "note": "Pascual's sandlot third base position, the coach's decision to move him to pitching, and his quote are documented in the HOF Card Corner piece."
+    },
+    {
+      "tag": "The $125 Scout",
+      "desc": "1951. Joe Cambria, scout for the Washington Senators, has been building a pipeline of Cuban talent into the franchise. He signs Camilo Pascual for a reported $125. Pascual is 17 years old, from Havana, already known to the Cuban baseball network. The $125 puts him in the Senators organization. After his playing career, Pascual becomes a scout himself. In 1982, scouting for the Oakland Athletics, he signs Jose Canseco. In 1996, scouting for the Los Angeles Dodgers, he signs Alex Cora. In ILB, The $125 Scout is the set's scouting-legacy trait: in any ILB dynasty context, when Pascual's career ends, his franchise receives a permanent +0.5 bonus to rookie development rolls for Cuban-born prospects (the pipeline runs through him in both directions).",
+      "note": "Joe Cambria's $125 signing of Pascual, and Pascual's later signings of Canseco and Alex Cora as a scout, are documented."
+    },
+    {
+      "tag": "Four Hundred and Ten Innings",
+      "desc": "Mid-April 1959 through February 1960. Ten months. Camilo Pascual pitches 410 innings: with the Washington Senators in the AL, and with the Cienfuegos Elephants in the Cuban Winter League and the Caribbean Series. He compiles a 34-15 combined record with 363 strikeouts. He is Cuba's outstanding athlete of 1959. The two-league, two-country, year-round pitcher who throws more innings in 10 months than most pitchers throw in a full season. In ILB, Four Hundred and Ten Innings is the set's winter-ball endurance trait: in any season where Pascual also plays winter ball (designated at season start), his STA is treated as 4 instead of 3 for the following season (the winter pitching built the arm; the arm delivered the strikeout titles).",
+      "note": "Pascual's documented 410-inning, 34-15, 363-K span from mid-April 1959 through the Caribbean Series in February 1960 are documented."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballpark",
+      "affinity": "SACRED",
+      "note": "Metropolitan Stadium / Griffith Stadium / the curveball / Ted Williams's quote / 200 K three consecutive years / the Opening Day record.",
+      "note_extra": "Source labeled 'Metropolitan Stadium Minneapolis / Griffith Stadium Washington / Ted Williams Most Feared Curveball AL 18 Years / Tony Kubek When Right Nobody Had Chance Unhittable Quote / Three Consecutive AL Strikeout Titles 1961 1962 1963 / First Pitcher Walter Johnson 1916 200 K Senators-Twins Franchise / Four Consecutive 200 K Seasons 1961-1964 / Opening Day Record 15 K April 18 1960 / Three Times AL CG Leader / Three Times AL Shutout Leader / 1963 21-9 2.46 ERA 202 K 248 IP 18 CG / Curveball Rated Top 10 All-Time / 1965 Pennant Team / Ralph Houk He Can Set Up Batter So Many Ways Quote / Gabe Paul Best Pitcher In Majors Quote' / affinity 'SACRED' — fifty-fifth SACRED in the set, thirteenth for the Swingers 1960. Pascual's is the most pitch-specific SACRED in the set: the curveball is the SACRED, not a season or a stadium. The 'crescent beauty' of the pitch described in the Baseball Almanac; the Ted Williams designation as 'the most feared curveball in the American League for 18 years'; Tony Kubek's 'unhittable' — the curveball is the object of devotion. Every great performance is the curveball delivered correctly. Ballpark domain."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Havana, Cuba / sandlot third baseman / Adolfo Luque / $125 signing bonus / Joe Cambria / Washington Senators expansion pipeline.",
+      "note_extra": "Source labeled 'Havana Cuba January 20 1934 / Sandlot Third Baseman / Could Not Hit Enough Made Him Pitch / Adolfo Luque Marianao Manager Taught Curveball Winter 1953-54 / Luque Cuba Most Successful Pitcher Before Pascual / Luque Died Between 1956-57 1957-58 Winter Seasons / Joe Cambria Washington Senators Scout Cuban Pipeline / Signed 125 Dollar Bonus Age 17 / Marianao Cienfuegos Cuban Winter League / Caribbean Series / Cuba Outstanding Athlete 1959 / 410 Innings 10 Months 1959-1960 / Moved Miami 1960 Lived There Rest Of Life' / affinity 'ORIGIN' — fifty-eighth ORIGIN in the set, tenth for the Swingers 1960. Pascual's is the most explicitly instructional ORIGIN in the set: the curveball came from Adolfo Luque in a handful of months before Luque was fired and then died. The inheritance is the ORIGIN — not the city, not the family, not the $125, but the specific pitch taught by Cuba's greatest pitcher to Cuba's next greatest pitcher during one winter in Marianao. Community Events domain."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "IDENTITY",
+      "note": "First Cuban pitcher in the full ILB set. The Luque lineage. Cuba's outstanding athlete of 1959. Latino Baseball HOF inaugural inductee. Miñoso-Versalles-Oliva-Pascual Cuban lineage.",
+      "note_extra": "Source labeled 'Cuban-Born Pitcher / Havana Cuba / First Cuban Pitcher Full ILB Set / Miñoso Versalles Oliva Pascual Cuban Lineage Swingers 1960 / Latino Baseball HOF Inaugural Inductee 2010 / Cuba Outstanding Athlete 1959 / Luque Cuban Pitching Lineage / Cienfuegos Elephants Cuban Winter League / Caribbean Series Participant / Most AL All-Star Appearances Cuban Pitcher 7 Total / 174 Wins Second Most By Cuban Pitcher Behind Luque 194 At Retirement / 2167 K Most By Cuban Pitcher At Retirement / 18 Seasons ML / Twins HOF 24th Inductee 2012' / affinity 'IDENTITY' — sixteenth IDENTITY in the set, fifth for the Swingers 1960. Pascual's is the most lineage-specific IDENTITY in the set: the curveball came from Adolfo Luque (Cuba's most successful pitcher before Pascual), and Pascual passed it forward to a generation of AL hitters who couldn't hit it. The Cuban pitching lineage — Luque to Pascual — is the most documented cross-generational craft transmission in the set. Community Events domain."
+    },
+    {
+      "location": "Open Field/Stadium",
+      "affinity": "MAXIMUM",
+      "note": "Three consecutive AL strikeout titles. Three times AL CG leader. Three times AL shutout leader. First 200-K pitcher for Senators/Twins since Walter Johnson. Curveball top 10 all-time.",
+      "note_extra": "Source labeled 'Three Consecutive AL Strikeout Titles 1961 1962 1963 / First Walter Johnson 1916 200 K Franchise Record / Three Times AL Complete Games Leader / Three Times AL Shutout Leader / Four Consecutive 200 K Seasons 1961-1964 / Curveball Top 10 All-Time Rated / Five AL All-Star Appearances / AL WAR Leader 1959 And 1963 / 174 Wins Despite 28-66 First Seven Seasons / Gabe Paul 500000 Offer Best Pitcher Majors / Ted Williams Most Feared Curveball Quote' / affinity 'MAXIMUM' — twenty-sixth MAXIMUM in the set, seventh for the Swingers 1960. Pascual's is the most strikeout-specific MAXIMUM in the set: three consecutive AL strikeout titles, four consecutive 200-K seasons, three times each leading the AL in complete games and shutouts — all while pitching for teams with losing records. The record and the performance were two different things, and the MAXIMUM is the performance. Open Field domain."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "CODA",
+      "note": "Joe Cambria's $125 signing. Adolfo Luque's inheritance. Opening Day birth of Camilo Jr. Scout who signed Canseco and Alex Cora. Twins HOF. Latino Baseball HOF inaugural class.",
+      "note_extra": "Source labeled 'Joe Cambria 125 Dollar Signing / Adolfo Luque Curveball Inheritance / April 18 1960 Opening Day Record 15 K Birth Of Camilo Jr Same Day / This Best Present Could Have Given Wife Quote / Post-Career Scout / Signed Jose Canseco Oakland Athletics 1982 / Signed Alex Cora Los Angeles Dodgers 1996 / Minnesota Twins Pitching Coach 1978-1980 Gene Mauch / Twins HOF 24th Inductee 2012 / Latino Baseball HOF Inaugural 2010 / Retired Miami Lived 1960 / Name Added Pitching Wall Great Achievement Ted Williams Museum 2017' / affinity 'CODA' — eighteenth CODA in the set, second for a Swingers 1960 pitcher (after Kaat). Pascual's is the most multi-generational CODA in the set: the $125 from Cambria at the beginning, the Luque curveball at the beginning, the Opening Day birth of his son in the middle, and the Canseco and Cora signings decades later. The CODA runs from 1951 to 1996 — 45 years of documented baseball continuity. Hotel/Rest domain."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "The Luque Curveball — against left-handed batters, STF treated as 5 instead of 4.",
+      "I Consider Pascual the Best Pitcher — in any season with a sub-.500 win-loss record, STF treated as 5 instead of 4.",
+      "This Is the Best Present — in any game coinciding with a documented personal milestone, CTL treated as 4 instead of 3.",
+      "Four Hundred and Ten Innings — in any season with designated winter-ball play, STA treated as 4 the following season.",
+      "They Didn't Think I Could Hit — once per season, Pascual may take one at-bat as a designated pinch-hitter with CON treated as 3."
+    ],
+    "cold_triggers": [
+      "CTL 3 baseline — not elite command; the curveball's devastation depended on mechanics being exactly right.",
+      "No ring — in the 1965 WS rotation he was skipped; the CLU 2 reflects the pennant without the championship.",
+      "Post-1964 decline — in any season past age 32 (1966+), STA drops to 2 effective tier (the peak was compressed; the arm was not immune)."
+    ],
+    "pressure_response": "April 18, 1960. Opening Day at Griffith Stadium. President Eisenhower throws out the first pitch. His wife has gone into labor. Camilo Pascual takes the mound against the Boston Red Sox. He strikes out 15 batters. The only run is a Ted Williams home run in the second inning. After the game, he learns his son has been born. 'This is the best present I could have given my wife.' Ted Williams: 'Nobody in this league can compare with that pitcher.' The pressure response is the curveball — it does not know the personal context, the team's record, or the standings. It bites exactly as Adolfo Luque taught it to bite."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Luque Curveball",
+      "type": "Origin",
+      "text": "Winter 1953-54. Camilo Pascual is pitching for the Marianao Tigers of the Cuban Winter League. His manager is Adolfo Luque — Cuba's greatest pitcher before him, a man who pitched 20 seasons in the major leagues and was Cuba's first superstar on the American mound. Luque teaches Pascual his curveball: the direct overhand delivery, the high leg kick, the twist toward second base before the release. Luque is fired a few months later in a dispute over an American pitcher named Red Barrett. He dies between the 1956-57 and 1957-58 winter seasons. In those months, Pascual received what Tony Kubek would call 'unhittable.' Ted Williams would call it 'the most feared curveball in the American League for 18 years.' It lasted longer than Luque. Pascual made sure of that.",
+      "origin": "Pascual's learning of his curveball from Luque during the 1953-54 Marianao winter season, Luque's firing and subsequent death, and the documented tributes to the pitch are from the SABR BioProject and Wikipedia."
+    },
+    {
+      "title": "This Is the Best Present",
+      "type": "Game Action",
+      "text": "April 18, 1960. Opening Day. Griffith Stadium, Washington. Camilo Pascual's wife Raquel is in labor. He takes the mound against the Boston Red Sox. President Eisenhower throws out the first pitch. Pascual strikes out 15 Red Sox batters — an ML Opening Day record. The only run allowed is a second-inning home run by Ted Williams. After the game, Pascual learns that Raquel has given birth to their son, Camilo Jr. 'This is the best present I could have given my wife,' Pascual said. Ted Williams, asked about Pascual after the game: 'Nobody in this league can compare with that pitcher.'",
+      "origin": "The April 18, 1960 Opening Day 15-K record game, the simultaneous birth of Camilo Jr., Pascual's quote, and Williams's post-game comment are documented."
+    },
+    {
+      "title": "I Consider Pascual the Best Pitcher in the Majors",
+      "type": "Historic Feat",
+      "text": "Late December 1959. Gabe Paul, vice president of the Cincinnati Reds, makes an offer to Washington Senators owner Calvin Griffith: $500,000 each for Harmon Killebrew and Camilo Pascual, one million dollars total. Paul explains: 'I consider Pascual the best pitcher in the majors.' Griffith declines. Pascual's career record at this point shows approximately 28 wins and 66 losses over five seasons. His teams have finished 7th, 8th, 7th, 8th, and 8th. His ERA is 3.62. His curveball is the most feared in the American League. Calvin Griffith turns down one million dollars. In 1962 and 1963, pitching for a team that has finally become a winner, Pascual goes 20-11 and 21-9.",
+      "origin": "Gabe Paul's offer, Griffith's refusal, and Paul's best-pitcher quote are documented."
+    },
+    {
+      "title": "They Didn't Think I Could Hit",
+      "type": "Character",
+      "text": "Camilo Pascual grows up in Havana playing third base in sandlot baseball. The coaches look at him and decide he cannot hit well enough to play the position. They make him pitch instead. He becomes one of the best hitting pitchers of his era. In 1959 he bats .302. In 1962 he collects 26 hits and 19 RBI. He is one of only 7 pitchers in ML history to hit 2 career grand slams, the only pitcher in Twins history to hit one at all. 'I could always throw curves when I fooled around as a kid,' he said later. 'They didn't think I could hit enough to be a third baseman so they made me pitch.' He was right on both counts.",
+      "origin": "Pascual's sandlot third base position, the hitting statistics, the two grand slams, and his quote are documented."
+    },
+    {
+      "title": "Four Hundred and Ten Innings",
+      "type": "Historic Feat",
+      "text": "Mid-April 1959 through February 1960. Ten months. Camilo Pascual pitches 410 innings: for the Washington Senators in the American League, and for the Cienfuegos Elephants in the Cuban Winter League, and in the Caribbean Series. His combined record is 34-15 with 363 strikeouts. He is named Cuba's outstanding athlete of 1959. He pitches more innings in ten months than most starters pitch in an entire season. His arm does not fall off. It produces three consecutive AL strikeout titles beginning in 1961. Sometimes the way to build a durable arm is to use it constantly.",
+      "origin": "Pascual's documented 410-inning, 34-15, 363-K span from mid-April 1959 through the Caribbean Series in February 1960 and his Cuba outstanding athlete designation are documented."
+    },
+    {
+      "title": "The $125 Scout",
+      "type": "Legacy",
+      "text": "1951. Joe Cambria, Washington Senators scout, has been signing Cuban players for the franchise for years. He signs Camilo Pascual for $125. Pascual is 17 years old. He pitches 18 seasons in the major leagues. He wins 174 games. He learns from Adolfo Luque. He teaches the curveball to no one in particular, but he scouts. In 1982, as a scout for the Oakland Athletics, he signs Jose Canseco. In 1996, as a scout for the Los Angeles Dodgers, he signs Alex Cora. The $125 keeps moving forward — in two directions, through the player who received it and through the players he found afterward.",
+      "origin": "Joe Cambria's $125 signing of Pascual, and Pascual's later signings of Canseco and Alex Cora as a scout, are documented."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'11'', 185 lbs — 'Little Potato,' the most feared curveball in the American League for 18 years, born in Havana, Cuba, signed for $125 by the Washington Senators as a teenager. In 1963 he is 29 years old, at the peak of his career: 21-9, 2.46 ERA, third consecutive AL strikeout title. The face of the pitcher who was told he couldn't hit enough to play third base and became one of the best hitting pitchers of his era. The compact right-hander with the overhand delivery that Adolfo Luque taught him in a few winter months before Luque died.",
+    "attire": "Minnesota Twins home whites — the 1963 uniform, the TC on the cap. The overhand delivery: the high leg kick, the twist toward second base before the release, the ball not yet visible to the hitter. Metropolitan Stadium in the background — the transplanted Washington franchise playing in the Twin Cities, Pascual the anchor of the rotation, the curveball about to dive off the table.",
+    "mood": "Precise and deceptive. The curveball does not flutter and does not hang. It bites. The delivery hides the ball until the last possible moment — the high kick, the second-base twist, the overhand release. The mood is the moment just before the ball leaves the hand: the hitter cannot see it yet, the ball is about to be unhittable.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. The Swingers 1960 palette. The Cuban-American context — the Havana origin and the Minnesota destination — in the posture. The card year is 1963: the delivery, the second-base twist, the high leg kick, the curveball at the top of the arc before the dive. The art is the mechanics of the pitch.",
+    "reference": "Tony Kubek's quote as the art anchor: 'He'd come straight over the top with it and it would just dive off the table. The spin was so tight, you couldn't identify the pitch until it was too late. It didn't flutter, it didn't hang, it just kept biting. When Pascual was right, nobody had a chance. That curve was unhittable.' The art should show what Kubek was watching from the on-deck circle: the ball coming over the top, the spin already compressing, the table about to arrive."
+  }
+}

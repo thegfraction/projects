@@ -1,0 +1,192 @@
+{
+  "card_type": "player",
+  "name": "Rico Petrocelli",
+  "nickname": "Rico",
+  "year": 1969,
+  "team": "Boston Red Sox",
+  "league": "American League",
+  "era": "1960s",
+  "ilb_team": "Swingers 1960",
+  "position": "SS",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'0\"",
+  "weight": "175 lbs",
+  "born": "June 27, 1943 — Brooklyn, NY",
+  "hof": "Not inducted nationally. Boston Red Sox Hall of Fame, inducted 1997.",
+
+  "real_stats": {
+    "season": 1969,
+    "batting_avg": ".297",
+    "obp": ".375",
+    "slg": ".589",
+    "ops": ".964",
+    "hits": 154,
+    "doubles": 32,
+    "triples": 2,
+    "home_runs": 40,
+    "rbi": 97,
+    "runs": 92,
+    "walks": 66,
+    "games": 154,
+    "war": 5.6,
+    "all_star": 1,
+    "awards": "AL record for home runs by a shortstop (40 in 1969) — stood until Alex Rodriguez hit 42 in 1998. Led AL shortstops in fielding percentage in both 1968 (.978) and 1969 (.981). Two-time AL All-Star at shortstop (1967, 1969). In the 1967 World Series Game 6 (after a Vitamin B-12 shot, extremely run down by the long season): hit two home runs off Dick Hughes of the Cardinals — one of only a handful of shortstops to hit two HR in a World Series game; his second homer was one of three Red Sox HR in the fourth inning (a World Series record for one inning). Career: .251 BA, 210 HR, 773 RBI in 1,553 games — all with the Boston Red Sox. Led AL third basemen in fielding percentage after moving to 3B in 1971 (.976, just 11 errors in 463 total chances). From 1969-71: 97 HR and 289 RBI — the most by any Red Sox player over that period. Nine career grand slams — third in Red Sox history behind Ted Williams and David Ortiz at time of retirement. The SABR BioProject describes his 'familiar Fenway Stroke that sent many an opposing hurler's offerings into the net atop the left field wall.'",
+    "world_series": "Two WS appearances. 1967 WS (lost to Cardinals in 7): hit two HR in Game 6 off Dick Hughes, batting .200 overall. 1975 WS (lost to Reds in 7): hit .308 (8-for-26) with 4 RBI, committed no errors in the postseason. Never won a World Series. Two pennants, no rings."
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 2,
+    "pow": 4,
+    "spd": 0,
+    "def": 2,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": "Career .251 BA. Career high .297 in 1969. Tried switch-hitting as a rookie (1965), batted .174 through 20 games, returned to right-handed hitting on June 6 and never tried again. He had what the SABR BioProject called a 'Fenway Stroke' — a swing specifically adapted to put balls into the net atop Fenway's left-field wall. CON 2 is the honest accounting: consistent power production, modest contact production. He finished his career in the Red Sox top 10 in home runs and RBI but not in batting average.",
+    "pow": "Career 210 HR. Set the AL record for home runs by a shortstop with 40 in 1969 (stood until Rodriguez hit 42 in 1998). 29 HR in 1970. 28 HR in 1971. Five seasons of 20+ HR. Career .459 SLG. From 1969-71 he had 97 HR and 289 RBI — the most by any Red Sox player over that period. Nine career grand slams (third in Red Sox history). POW 4 is the power SS who held the AL SS HR record — significant, documented, and consistently produced across his peak years.",
+    "spd": "No documented speed asset. Career stolen bases minimal. SPD 0 is the power-first SS profile.",
+    "def": "Led AL shortstops in fielding percentage in both 1968 (.978) and 1969 (.981). After moving to 3B in 1971, immediately led the AL in 3B fielding percentage (.976, 11 errors in 463 total chances). Set Red Sox team fielding records at both positions. DEF 2 reflects solid, consistent defensive production at two different positions — good enough to lead the league in fielding percentage but not the elite Gold Glove profile of the set's DEF 3+ defenders.",
+    "clu": "Two WS appearances (1967, 1975). In 1967 WS Game 6: two HR off the Cardinals' Dick Hughes, one of the most clutch individual performances by a Red Sox SS in franchise history. .308 in the 1975 WS. No rings. CLU 2 is the postseason producer who delivered in key games without the championship result."
+  },
+
+  "personality": {
+    "leadership_style": "The infield captain who needed a vote of confidence to become one. Manager Dick Williams came to Petrocelli on March 1, 1967, and told him he was looking to him for leadership. The 1966 season had ended with a fine for leaving a game without permission and a reputation as 'a sensitive sort for a ballplayer.' Williams's vote of confidence turned him. He became the anchor of the Red Sox infield during the Impossible Dream season and led from the SS position. His leadership was the consistent defensive and offensive presence — the player who was tops on the Red Sox in HR and RBI from 1969-71, who moved to 3B without complaint when Luis Aparicio arrived, and who played through elbow pain and inner ear problems for the last years of his career.",
+    "temperament": "Sensitive, then steady. He was a city kid from Brooklyn who saw his first cow in Winston-Salem in 1962 and remembered it as 'some kind of prehistoric animal like a dinosaur.' He tried switch-hitting as a rookie and abandoned it after 20 games. He was fined $1,000 in 1966. Then Williams gave him the leadership role and he became the anchor the Red Sox needed. The elbow pain returned repeatedly — calcium deposits, surgery, inner ear problems from a beaning — but he played through most of it.",
+    "work_ethic": "After the 1967 season, with the calcium deposits in his right elbow flaring, he changed his diet and gave up ice cream to prevent the deposits from forming. He exercised his arms and wrists through the winter. He came back in 1969 and hit 40 home runs. He moved to a new position (3B) at age 28 without complaint when it was asked of him. He played 1,553 regular-season games, all for one team.",
+    "lifestyle": "Brooklyn kid to Boston Red Sox for 13 seasons. Sheepshead Bay High School, a Yankees fan growing up, signed by the Red Sox before his 18th birthday. First professional baseball stop: Winston-Salem, where he saw his first cow. Last professional stop: the 1975 World Series at .308. After baseball: minor league manager, television game show host (Candlepins for Cash), radio broadcaster. Lives in Southern New Hampshire.",
+    "dark_side": "The elbow. Calcium deposits in the right elbow plagued him from 1967 forward — he gave up ice cream, changed his diet, had surgery in 1973, and still could not fully arrest the decline. Then the inner ear problems from the 1974 beaning. His last two seasons (1975: .268, 1976: .213) showed the accumulated effect. He was released in spring training 1977. The SABR BioProject notes that injuries 'doomed' the Red Sox through the late 1960s-early 1970s — and Petrocelli was a consistent part of that injury narrative."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Fenway Stroke",
+      "desc": "Rico Petrocelli's swing was specifically adapted to Fenway Park — a compact, right-handed stroke that sent balls into the net atop the left-field wall rather than pulling them to the deeper right-center field. The SABR BioProject: 'his familiar Fenway Stroke that sent many an opposing hurler's offerings into the net atop the left field wall.' In ILB, The Fenway Stroke is the set's most venue-specific offensive mechanic for a non-outfield position player: at Fenway Park (or any park with a short left-center field or a large left-field wall), Petrocelli's POW is treated as 5 instead of 4 for pull-direction home run attempts. The net catches what the stroke produces.",
+      "note": "The 'Fenway Stroke' description is from the SABR BioProject on Petrocelli."
+    },
+    {
+      "tag": "Captain of the Infield",
+      "desc": "March 1, 1967. Manager Dick Williams came to Rico Petrocelli and told him he was looking to him for leadership. The year before, Petrocelli had been fined $1,000 for leaving a game without permission and had 'developed a reputation as a sensitive sort for a ballplayer.' Williams's direct assignment of responsibility was 'the vote of confidence he needed.' Petrocelli became the anchor of the Impossible Dream infield. In ILB, Captain of the Infield activates whenever a manager explicitly designates Petrocelli as a team leader: for the remainder of that season, all infielders on Petrocelli's team receive +0.5 DEF effective rating (the confidence extended from one position becomes structural across the infield).",
+      "note": "Williams's March 1, 1967 leadership conversation with Petrocelli and its documented effect on his performance are in the Boston Baseball History piece."
+    },
+    {
+      "tag": "The Vitamin B-12 Shot",
+      "desc": "October 11, 1967. World Series Game 6. The Boston Red Sox are extremely run down by the long season. Before the game, Rico Petrocelli receives a Vitamin B-12 shot. He hits two home runs off Dick Hughes of the St. Louis Cardinals. His second homer is one of three hit by the Red Sox in the fourth inning — a World Series record for one inning. He is one of only a handful of shortstops to hit two HR in a World Series game. In ILB, The Vitamin B-12 Shot activates in any elimination-context game (WS or pennant-race game 162) where Petrocelli's team has the season on the line: his POW is treated as 5 instead of 4 for the entire game. He was running on empty. The shot was the bridge.",
+      "note": "Petrocelli's Vitamin B-12 shot before 1967 WS Game 6, the two HR off Dick Hughes, and the fourth-inning WS record are documented in the SABR BioProject."
+    },
+    {
+      "tag": "I Saw My First Cow",
+      "desc": "1962. Winston-Salem, North Carolina. Class B Carolina League. Rico Petrocelli is 18 years old, from the Sheepshead Bay section of Brooklyn, the youngest of seven children in an Italian immigrant family whose father was a garment worker in Manhattan. He arrives in Winston-Salem and sees a cow for the first time. He later recalls: 'I couldn't believe how slowly people moved down there. It was there that I saw my first cow. I remember going over to touch it like it was some kind of prehistoric animal like a dinosaur or something!' In ILB, I Saw My First Cow is the set's most specific adaptation trait: in Petrocelli's first full season at any new position or franchise, his DEF is treated as 3 instead of 2 (the city kid learns the terrain with the exact attention he gave the cow — specific, complete, respectful of what he does not yet know).",
+      "note": "Petrocelli's first-cow story in Winston-Salem is documented in the Boston Baseball History piece."
+    },
+    {
+      "tag": "Give Up the Ice Cream",
+      "desc": "After the 1967 season, the calcium deposits in Petrocelli's right elbow flared. Rather than accept the recurring injury, he changed his approach: he changed his diet, gave up ice cream to help prevent the calcium deposits from forming, and exercised his arms and wrists through the winter. He came back in 1969 and hit 40 home runs — the AL record for a shortstop. In ILB, Give Up the Ice Cream is the set's most specific off-season recovery trait: in any season following an injury that cost Petrocelli 15+ games, his POW rises by 0.5 effective tier at the start of the following season (the discipline of the recovery exceeds the original injury). He gave up the ice cream. He hit 40 home runs.",
+      "note": "Petrocelli's diet change, ice cream elimination, and winter exercise following the 1967 elbow problem are documented in the SABR BioProject."
+    },
+    {
+      "tag": "Malzone Worked with Him",
+      "desc": "Spring 1971. Luis Aparicio has been signed by the Red Sox. Rico Petrocelli, the AL SS HR record holder, is asked to move to third base. The man who works with him on the transition is Frank Malzone — who had been a three-time Gold Glove third baseman and was now a Red Sox scout and instructor. Malzone is documented in the SABR BioProject as having specifically worked closely with Petrocelli in the spring of 1971. Petrocelli immediately leads the AL in 3B fielding percentage (.976, just 11 errors in 463 total chances). In ILB, Malzone Worked with Him generates a Cross-Era Instruction bonus: when Petrocelli plays any position he has not previously played in the ILB set, his DEF at that position starts at 2 instead of 1 for the first season. The Gold Glove knowledge transferred. The new position did not require starting from zero.",
+      "note": "Malzone's spring 1971 work with Petrocelli on the SS-to-3B transition is documented in the SABR BioProject."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballpark",
+      "affinity": "SACRED",
+      "note": "Fenway Park / the Fenway Stroke / the 1969 AL SS HR record / the 1967 WS Game 6 two HR.",
+      "note_extra": "Source labeled 'Fenway Park / Fenway Stroke Net Atop Left Field Wall / 1969 .297 40 HR AL SS Record / 97 RBI Led AL SS Fielding .981 / 1967 WS Game 6 Two HR Dick Hughes / Vitamin B-12 Shot Before Game / One Of Few SS Two HR WS Game / Fourth Inning Three HR WS Record / 1975 WS .308 No Errors / 1969-71 97 HR 289 RBI Most Red Sox / Nine Grand Slams Third Red Sox Behind Williams Ortiz' / affinity 'SACRED' — forty-eighth SACRED in the set, seventh Swingers 1960 SACRED. Petrocelli's is the most swing-specific SACRED in the set: the Fenway Stroke was a batting technique developed for the specific geometry of Fenway Park's left-field wall, and the left-field net atop the wall was where the results landed. The 1969 season (40 HR AL SS record, .297 career high) and the 1967 WS Game 6 (two HR, Vitamin B-12, the fourth-inning WS record) are both documented at Fenway. Ballpark domain."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Coney Island/Sheepshead Bay, Brooklyn / Italian immigrant parents / garment worker father / youngest of seven / Yankees fan signed by the Red Sox / first cow in Winston-Salem.",
+      "note_extra": "Source labeled 'Coney Island Brooklyn / Sheepshead Bay High School / Italian Immigrant Parents / Father Garment Worker Manhattan / Youngest Seven Children / Yankees Fan Growing Up / Signed Red Sox July 1961 Before 18 Birthday / Winston-Salem 1962 Class B / I Was City Kid / First Cow Prehistoric Animal / Sandlot .400 Professional Pitching Adjustment / Switch-Hitting Attempt .174 Abandoned June 6 1965' / affinity 'ORIGIN' — fifty-first ORIGIN in the set, fourth for the Swingers 1960. Petrocelli's is the most urban-to-rural adjustment ORIGIN in the set: the Sheepshead Bay kid from Brooklyn, youngest of seven in an Italian immigrant family, arriving in Winston-Salem in 1962 to play Class B baseball and encountering a cow for the first time. The cow story captures the complete adjustment — from a city that moves at a pace he understood to a place where the pace was different and the livestock were new. Community Events domain."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HAUNTED",
+      "note": "The right elbow calcium deposits. The 1974 beaning and inner ear. The 1966 fine. 'A sensitive sort.' 190 losses in his first two seasons. The decline from injuries.",
+      "note_extra": "Source labeled 'Right Elbow Calcium Deposits / 1967 Elbow Flared / Changed Diet Gave Up Ice Cream Winter Exercises / Surgery 1973 / 1974 Beaning Inner Ear Problems / 1976 Inner Ear Only Three Games After August 20 / Career Low .213 1976 / Released Spring Training 1977 / 1966 Fine $1000 Left Game Without Permission / Sensitive Sort Reputation / 190 Losses 1965-66 First Two Seasons / Two Pennants No Rings / Not In National HOF' / affinity 'HAUNTED' — twenty-sixth HAUNTED in the set, fourth for the Swingers 1960. Petrocelli's is the most medically specific HAUNTED in the set: the calcium deposits in the right elbow were not a single injury but a recurring condition that shaped his diet, his off-season, his surgeries, and the trajectory of his decline. The 1974 beaning added the inner ear problems that ultimately ended his career two years later. He gave up ice cream and still had the surgery. He was still the anchor of two Red Sox pennant races with the elbow. Hotel/Rest domain."
+    },
+    {
+      "location": "Open Field/Stadium",
+      "affinity": "COMPLEX",
+      "note": "AL SS HR record holder. .251 career BA. Two pennants, no rings. Boston Red Sox HOF but not Cooperstown. CON 2 power SS who gave up shortstop for Luis Aparicio.",
+      "note_extra": "Source labeled 'AL SS HR Record 40 1969 Until ARod 42 1998 / .251 Career BA / CON 2 Profile Power SS / Two Pennants No Rings / Boston Red Sox HOF 1997 / Not National HOF / Moved To 3B For Aparicio Voluntarily / Nine Grand Slams Third Behind Williams Ortiz / Not Considered For HOF Despite Record / 1969-71 Most HR RBI Any Red Sox Player / From 1965-76 One Team Only' / affinity 'COMPLEX' — twenty-seventh COMPLEX in the set, fourth for the Swingers 1960. Petrocelli's is the most position-specific COMPLEX in the set: the AL SS HR record holder who batted .251 career average — the power and the contact were in direct contradiction. He voluntarily moved to 3B to accommodate Aparicio (a HOFer) and immediately led the AL in 3B fielding percentage. He was the most powerful SS in the AL during his peak years and was never seriously considered for Cooperstown. The nine grand slams (third in Red Sox history) and the AL SS HR record are the COMPLEX's specific dimensions. Open Field domain."
+    },
+    {
+      "location": "State House/Government",
+      "affinity": "HIGH",
+      "note": "Standard tier placement. The Swingers 1960 SS at OVR 8 — the power SS who defined the Red Sox infield across two pennant seasons.",
+      "note_extra": "Source labeled 'Boston Red Sox Hall Fame 1997 / Two Time All-Star SS 1967 1969 / Anchor 1967 1975 Pennant Teams / Captain Infield Impossible Dream / Dick Williams Vote Confidence / Frank Malzone Cross-Era Instruction / Fenway Stroke Specific Technique / Red Sox Team Fielding Records SS And 3B Both / 1969-71 Most HR RBI Red Sox Any Player / Remember When MLB Network Radio / Candlepins For Cash Boston Television Host' / affinity 'HIGH' — standard tier for a player of Petrocelli's achievement level in the Swingers 1960. State House domain: the institutional Red Sox connection and the team leadership role."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "The Fenway Stroke — at Fenway (or equivalent short-left/large-wall park), POW treated as 5 instead of 4.",
+      "The Vitamin B-12 Shot — in any elimination-context game (WS or pennant-race Game 162), POW treated as 5 instead of 4 for the entire game.",
+      "Captain of the Infield — when designated as team leader by the manager, all infielders receive +0.5 DEF effective for the season.",
+      "Give Up the Ice Cream — in any season following an injury costing 15+ games, POW rises 0.5 effective tier at the start of the following season.",
+      "I Saw My First Cow — in any first full season at a new position, DEF treated as 3 instead of 2.",
+      "Malzone Worked with Him — when playing a position not previously played in ILB, DEF starts at 2 instead of 1 for the first season."
+    ],
+    "cold_triggers": [
+      "CON 2 floor — .251 career BA is the honest contact ceiling without the Fenway Stroke home park advantage.",
+      "The elbow — in any season where Petrocelli plays 140+ games, a 1-in-5 injury roll is made at season's end; on a triggered result, POW drops 0.5 for the following season (the calcium deposits are always present).",
+      "SPD 0 — no baserunning value."
+    ],
+    "pressure_response": "The 1967 World Series Game 6. The Red Sox are run down. The season has gone on too long and cost too much physically. Petrocelli receives a Vitamin B-12 shot before the game. He hits two home runs. His second is one of three hit by the Red Sox in the fourth inning — a World Series record. He is one of the few shortstops in World Series history to hit two home runs in a game. The pressure response is the shot and the swing: when the context is elimination and the body is depleted, the Fenway Stroke finds a way to the left-field net."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "I Saw My First Cow",
+      "type": "Origin",
+      "text": "1962. Rico Petrocelli is 18 years old, from the Sheepshead Bay neighborhood of Brooklyn, the youngest of seven children of Italian immigrants. His father is a garment worker in Manhattan. He has never been to North Carolina. He has never been to a farm. He arrives in Winston-Salem for the Class B Carolina League season and sees a cow. He later recalls: 'I couldn't believe how slowly people moved down there. It was there that I saw my first cow. I remember going over to touch it like it was some kind of prehistoric animal like a dinosaur or something!' He also sees his first professional pitching, which is its own adjustment. He bats .277 with 17 home runs. He has been playing sandlot baseball at .400-something. Professional pitching is different. The cow is also different. He adjusts to both.",
+      "origin": "Petrocelli's first-cow story in Winston-Salem is documented in the Boston Baseball History piece."
+    },
+    {
+      "title": "The Captain of the Infield",
+      "type": "Character",
+      "text": "March 1, 1967. Dick Williams is in his first year as manager of the Boston Red Sox. He comes to Rico Petrocelli and tells him he is looking to him for leadership. The year before, Petrocelli had been fined $1,000 for leaving a game without permission. He had 'developed a reputation as a sensitive sort for a ballplayer.' Williams's direct assignment of responsibility is the vote of confidence Petrocelli needs. He becomes the anchor of the Red Sox infield. The Impossible Dream Red Sox finish the season on the last day by clinching the pennant. Williams had picked his captain correctly.",
+      "origin": "Williams's March 1, 1967 leadership conversation with Petrocelli and its effect are documented in the Boston Baseball History piece."
+    },
+    {
+      "title": "The Vitamin B-12 Shot",
+      "type": "Game Action",
+      "text": "October 11, 1967. Game 6. World Series. The Boston Red Sox are extremely run down by the long pennant race. Rico Petrocelli receives a Vitamin B-12 shot before the game. He is starting at shortstop against the St. Louis Cardinals. In the fourth inning, Petrocelli hits his second home run of the game off Dick Hughes. It is one of three home runs hit by the Red Sox in the fourth inning — a World Series record for one inning. Petrocelli is one of a handful of shortstops to hit two home runs in a World Series game. He has been awake since before the shot. The Cardinals lead the series three games to two. The Red Sox win Game 6, 8-4. They lose Game 7 the next day.",
+      "origin": "The Vitamin B-12 shot before Game 6, the two HR off Dick Hughes, and the fourth-inning WS record are documented in the SABR BioProject."
+    },
+    {
+      "title": "Give Up the Ice Cream",
+      "type": "Recovery",
+      "text": "Winter, 1967-68. The calcium deposits in Rico Petrocelli's right elbow have flared. He has missed 39 games in the 1968 season due to the chronic problem. Rather than continue to brood, he changes his approach. He changes his diet and gives up ice cream to help prevent calcium deposits from forming. He exercises his arms and wrists through the winter. By the start of 1969 he feels stronger than at any point in his career. He bats .297 — a career high — and hits 40 home runs, setting the American League record for shortstops. He gives up the ice cream. He hits 40 home runs.",
+      "origin": "Petrocelli's diet change, ice cream elimination, and winter exercise following the 1967 elbow problem and its effect on his 1969 season are documented in the SABR BioProject."
+    },
+    {
+      "title": "The Record",
+      "type": "Historic Feat",
+      "text": "1969. Rico Petrocelli of the Boston Red Sox hits 40 home runs. He is a shortstop. No shortstop in the American League has ever hit that many in a single season. He also bats .297 — his career high — with 97 RBI, playing all 154 games. He leads AL shortstops in fielding percentage (.981). Three seasons later, he gives up the position voluntarily to accommodate Luis Aparicio, a future Hall of Famer. He moves to third base and immediately leads the AL in third base fielding percentage. Alex Rodriguez will break the shortstop HR record in 1998 with 42. Until then, the record belongs to Rico Petrocelli of Brooklyn, who gave up ice cream one winter and hit 40 home runs the next spring.",
+      "origin": "Petrocelli's 1969 AL SS HR record (40), the .297 career high, the voluntary move to 3B for Aparicio, and the Malzone-assisted transition are documented."
+    },
+    {
+      "title": "Malzone Worked with Him",
+      "type": "Legacy",
+      "text": "Spring 1971. The Boston Red Sox have signed Luis Aparicio, a future Hall of Famer. Rico Petrocelli — the holder of the American League record for home runs by a shortstop — agrees to move to third base. The man who works with him on the transition is Frank Malzone, the three-time Gold Glove third baseman who is now a Red Sox scout and instructor. Petrocelli immediately leads the American League in third base fielding percentage: .976, with just 11 errors in 463 total chances. The Gold Glove knowledge transferred. Petrocelli had set the shortstop record. Now he sets the Red Sox team fielding record at third base as well.",
+      "origin": "Malzone's specific spring 1971 work with Petrocelli on the 3B transition, Petrocelli's immediate AL 3B fielding percentage leadership (.976), and the 11 errors in 463 chances are documented in the SABR BioProject."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'0'', 175 lbs — the right-handed shortstop from Sheepshead Bay, Brooklyn, the youngest of seven in an Italian immigrant family. In 1969 he is 26 years old, at the peak of his career: the AL SS HR record, the .297 career high, all 154 games. The face of the city kid who saw his first cow in 1962 and learned to send balls into the net atop the left-field wall. He had given up ice cream. He hit 40 home runs.",
+    "attire": "Boston Red Sox home whites — the 1969 uniform, the B on the cap, number 6. The right-handed batting stance of the Fenway Stroke: compact, aimed left, the swing built specifically for the wall that defines the park. Fenway Park's left-field wall visible behind him — the specific Green Monster and its net, the target of the stroke that defined his career.",
+    "mood": "Quiet determination. He was a sensitive sort who became the captain of the infield when a manager asked. He gave up ice cream and hit 40 home runs. He moved to 3B without complaint when the Hall of Famer arrived. The mood is the compact swing: not flashy, not theatrical, aimed precisely at the wall behind the left fielder.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. The Swingers 1960 palette consistent with the rest of the team. Fenway Park's left-field Green Monster prominent in the background — more specific, more immediate than in the Yastrzemski card (which shows the wall from LF); this is the view from the batter's box, the target visible, the net at the top catching the ball before it falls.",
+    "reference": "The SABR BioProject's 'Fenway Stroke' description as the art anchor: 'his familiar Fenway Stroke that sent many an opposing hurler's offerings into the net atop the left field wall.' The art should show the stroke specifically — the right-handed compact swing aimed left, the ball already on its way, the Green Monster in the near distance with the net at the top."
+  }
+}

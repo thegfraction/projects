@@ -1,0 +1,192 @@
+{
+  "card_type": "player",
+  "name": "Tony Oliva",
+  "nickname": "Tony-O",
+  "year": 1964,
+  "team": "Minnesota Twins",
+  "league": "American League",
+  "era": "1960s",
+  "ilb_team": "Swingers 1960",
+  "position": "RF",
+  "bats": "L",
+  "throws": "R",
+  "height": "6'1\"",
+  "weight": "190 lbs",
+  "born": "July 20, 1938 — Pinar del Río, Cuba",
+  "birth_name": "Antonio Oliva Lopez Hernandes Javique. Arrived in the United States in 1961 using his brother's passport, which bore the name Tony Oliva. He became Tony Oliva. His true birth year of 1938 was listed as 1940 on his brother's passport; the correct year was determined by the SABR Biographical Committee in 2005.",
+  "hof": "Inducted 2022 — Baseball Hall of Fame (Golden Days Era Committee, December 5, 2021). Inducted alongside Jim Kaat, Gil Hodges, and Minnie Miñoso. First Cuban-born player to win the AL Rookie of the Year Award. Waited 45 years from his last playing season (1976) to induction.",
+
+  "real_stats": {
+    "season": 1964,
+    "batting_avg": ".323",
+    "obp": ".359",
+    "slg": ".557",
+    "ops": ".916",
+    "hits": 217,
+    "doubles": 43,
+    "triples": 9,
+    "home_runs": 32,
+    "rbi": 94,
+    "runs": 109,
+    "total_bases": 374,
+    "extra_base_hits": 84,
+    "war": 6.2,
+    "all_star": 1,
+    "awards": "AL Rookie of the Year 1964 (19 of 20 first-place votes — near-unanimous). AL batting champion 1964 (.323). The first player in baseball history to win both the Rookie of the Year Award and the AL batting title in the same season. Led AL in hits (217), runs (109), doubles (43), extra-base hits (84), total bases (374), and runs created (133). 374 total bases tied the rookie record. 4th in MVP voting. AL batting champion again in 1965 (.321) — first player ever to win batting titles in his first two full seasons. AL batting champion a third time in 1971 (.337). Eight consecutive All-Star selections (1964-1971) — surpassing Joe DiMaggio's previous record of six. Gold Glove Award 1966. Led AL RF in putouts six times (1964-1967, 1969-1970). AL MVP runner-up 1965 and 1970. Inducted into the Baseball Hall of Fame in 2022. Calvin Griffith (Twins owner): 'I don't want anyone to coach him in hitting. I want him left alone.' Catfish Hunter (twice): 'He could hit any pitch anywhere. He didn't have any weaknesses.' Whitey Herzog: 'There are a lot of other guys I would rather see up there in a clutch situation. You cannot make a bad pitch on him.' Lou Piniella: 'He was as good as any hitter of his time. Better.'",
+    "world_series": "1965 World Series (only WS appearance). Twins lost to the Los Angeles Dodgers in seven games. Oliva batted .192 in 7 games — facing Sandy Koufax and Don Drysdale at their peaks in the second dead-ball era. Career postseason: .314 BA across 13 games, 3 HR, 5 RBI. Also reached ALCS in 1969 and 1970 (swept by the Orioles both years, though Oliva hit .440/.462/.840 in 26 ALCS plate appearances).",
+    "career_notes": "15 MLB seasons, all with the Minnesota Twins (1962-1976). Career .304 BA, .353 OBP, .476 SLG, 1,917 hits, 220 HR, 947 RBI, 329 2B, 48 3B, 86 SB. Eight knee surgeries. In first eight full seasons (1964-1971) averaged .317 BA, 22 HR, 90 RBI per season, slugging .507, and made the All-Star team every year. Career essentially curtailed on June 29, 1971 when he dove for Joe Rudi's liner in Oakland and his knee landed on a sprinkler head. Became a designated hitter from 1973-1976. Hit the first HR by a DH in AL history (April 6, 1973 off Catfish Hunter). Hitting coach and bench coach for the Twins after retirement, appearing with all three Twins WS teams (1965 as player, 1987 as hitting coach, 1991 as bench coach). Uniform number 6 retired by the Twins on July 14, 1991. Bronze statue unveiled at Target Field in 2011. Hall of Fame inducted 2022, 45 years after his final season."
+  },
+
+  "ilb_stats": {
+    "ovr": 10,
+    "con": 5,
+    "pow": 3,
+    "spd": 2,
+    "def": 2,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": "Career .304 across 15 seasons, including .304 in the second dead-ball era. Three batting titles (.323 in 1964, .321 in 1965, .337 in 1971). Led AL in hits five times. He was a documented bad-ball hitter whose production defied conventional plate discipline metrics. Calvin Griffith ordered his coaches to leave Oliva's swing alone. Catfish Hunter named him the toughest hitter he ever faced — twice, at the end of his career in 1979 and again in 1991 — specifically because 'he could hit any pitch anywhere and didn't have any weaknesses.' Whitey Herzog said you could not make a bad pitch on him. CON 5 is the set's contact ceiling for a right fielder: the genuinely unhittable swing profile, the inability of pitchers to find a weakness across 15 seasons.",
+    "pow": "Career 220 HR, .476 SLG. 32 HR as a rookie in 1964. Averaged 22 HR per season across first eight seasons while slugging .507. He batted third in front of Harmon Killebrew — one of baseball's most feared 3-4 combinations of the era. The power was consistent and genuine but not the defining feature of his profile (that was contact). POW 3 reflects the RBI producer and extra-base threat who drove in over 90 runs multiple times for a team that also had Killebrew.",
+    "spd": "86 career SB. Nine triples in 1964. Described at his peak as running 'like a svelte gazelle' — genuine speed that was acknowledged by Versalles as comparable to Ty Cobb in hitting ability and speed at the time of Oliva's 1963 spring training. The knee injuries (beginning with surgeries in 1966 and 1967, catastrophic in 1971) progressively destroyed his mobility until he could no longer slide. SPD 2 reflects the healthy version of Oliva — real and useful speed that diminished across his career.",
+    "def": "Gold Glove 1966. Led AL RF in putouts six times (1964-1967, 1969-1970). Led AL RF in assists twice (1969-1970). Led AL RF in double plays three times. Career .981 fielding percentage. A powerful throwing arm was one of his documented strengths. DEF 2 is the Gold Glove right fielder whose defensive value was real and consistent — the same rating as Moon and Pinson, both Gold Glove OF in their eras.",
+    "clu": "One World Series appearance (1965), one pennant. Two ALCS appearances (1969, 1970 — swept both times by the Orioles). Career postseason .314 BA, 3 HR, 5 RBI across 13 games. In ALCS play he hit .440/.462/.840 — dominated in the games that mattered most. The 1965 WS .192 is the caveat. CLU 2 reflects the player who reached the postseason on a genuine contender, produced meaningful numbers in ALCS play, but lost the one WS appearance he had."
+  },
+
+  "personality": {
+    "leadership_style": "The smiling mentor. Rod Carew: 'I just liked being around him because he always had a smile on his face. He always had a good word to say about everybody. Never spoke bad about anybody. I was just amazed, because I had never met someone like that. That was Tony O.' He mentored Carew when Carew came up as a rookie in 1967 — the veteran batting champion helping the young second baseman who would himself win seven batting titles. He later mentored Kirby Puckett. The mentorship chain from Tony-O to Carew to Puckett is the Twins' institutional lineage of batting.",
+    "temperament": "The knock-kneed stance, the golf-like swing, the bad-ball hitting — everything about Oliva's approach looked wrong and produced right. He arrived in the US unable to speak English and let his bat do the talking. Calvin Griffith understood this better than most: you did not coach Tony Oliva. You watched him. The temperament was the swing — unconventional, unexplainable, and completely effective. Catfish Hunter faced him his whole career and never found the weakness.",
+    "work_ethic": "Hit .410 in 64 games at Wytheville in his first American professional season. Was released by the Twins after the 1961 spring training and re-signed. Came back. Hit .350 at Charlotte in 1962. Hit .304 at AAA in 1963. Hit .323 in the majors in 1964 at his first full season. The path from Pinar del Río to the Baseball Hall of Fame included a release, a re-signing, and three consecutive minor league seasons before anyone outside the organization knew who he was.",
+    "lifestyle": "Left Pinar del Río in 1961 on his brother's passport, reluctant to leave nine siblings and his parents. His father encouraged him to become rich and famous in America. He arrived unable to speak English and hit .410 in the Appalachian League. He stayed in Minnesota for 15 seasons and then for 30 more years as a coach and instructor. He made unpublicized trips back to Cuba to visit family in his later years. He watched his younger brother Juan Carlos become a pitching prospect for the Cuban national team — the brother who had been 6 years old when Tony left. The separation lasted decades. His statue stands at Target Field in Minneapolis.",
+    "dark_side": "June 29, 1971. He was batting .375. He had won three batting titles, made eight All-Star teams, and was 31 years old — his prime, by his own account. He dove for Joe Rudi's sinking liner in Oakland. His right knee landed on a sprinkler head. He finished the season at .337 and won his third batting title limping. Doctors removed 100 cartilaginous fragments from the knee. He played 10 games in 1972. His roommate Rod Carew went to the ice machine every night because he could hear Tony moaning and groaning and sometimes crying from the pain. Oliva estimated the knee cost him 50 home runs and 150 RBI. He waited 45 years after his last season for the Hall of Fame call."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "I Don't Want Anyone to Coach Him",
+      "desc": "When Tony Oliva arrived with his knock-kneed stance and golf-like swing, Minnesota Twins owner Calvin Griffith issued an order to his coaches: 'I don't want anyone to coach him in hitting. I want him left alone.' In 1964 Oliva won the AL batting title and the Rookie of the Year Award simultaneously — a baseball first. In ILB, I Don't Want Anyone to Coach Him is the set's first anti-instruction trait: any manager's adjustment attempt to Oliva's hitting mechanics during an at-bat automatically generates a maximum CON result for that at-bat (the swing is the swing; interference makes it worse). The order stands: leave him alone.",
+      "note": "Calvin Griffith's instruction to coaches regarding Oliva is documented in the Baseball Hall of Fame piece on Oliva."
+    },
+    {
+      "tag": "He Didn't Have Any Weaknesses",
+      "desc": "Catfish Hunter named Tony Oliva the toughest hitter he ever faced — at the end of his career in 1979 and again in 1991. The reason both times: 'He could hit any pitch anywhere. He didn't have any weaknesses.' Whitey Herzog: 'There are a lot of other guys I would rather see up there in a clutch situation. You cannot make a bad pitch on him.' In ILB, He Didn't Have Any Weaknesses generates an All-Zones coverage: no pitch type, location, or count receives a reduced CON roll against Oliva. Inside, outside, high, low, fastball, breaking ball — the roll is always the same. The 5 is the 5 regardless of approach.",
+      "note": "Hunter's quote (1979 and 1991) and Herzog's quote are documented in Wikipedia and the Baseball Hall of Fame."
+    },
+    {
+      "tag": "The Brother's Passport",
+      "desc": "His brother's name was Tony Oliva. Antonio came to the United States in 1961 using his brother's passport. He became Tony Oliva. His brother stayed in Cuba. For decades, his official birth year was listed as 1940 — the year on the passport. The SABR Biographical Committee determined the true year was 1938 in 2005, nearly 30 years after his career ended. In ILB, The Brother's Passport is the set's most specific identity-displacement trait: Oliva's card registers under two names simultaneously. When opposing teams are looking for his tendencies in the scouting book, they find a discrepancy — the records don't match. Once per series, the opponent's scouting disadvantage activates: the first time they face Oliva in a series, the pitcher's effective CTL drops by 0.5 (the book on him was always based on the wrong person).",
+      "note": "The passport story, Oliva's birth name (Antonio Oliva Lopez Hernandes Javique), the use of his brother Tony Oliva's passport, and the 2005 SABR birth year determination are documented in Wikipedia and the Baseball Fandom wiki."
+    },
+    {
+      "tag": "I Was Killing It",
+      "desc": "June 29, 1971. Tony Oliva was batting .375 — on pace for a fourth batting title and the best season of his career. He was 31 years old. He dove for Joe Rudi's sinking liner in Oakland. His right knee landed on a sprinkler head. He told a reporter years later: 'I was 31, in my prime. I was killing it.' He finished the season at .337 for his third batting title. The knee required two surgeries and the removal of 100 cartilaginous fragments. He played 10 games in 1972. In ILB, I Was Killing It is the set's most explicit injury-ceiling trait: in any season where Oliva's BA exceeds .340 before the All-Star break, a Season-Ending Risk roll is triggered. On a 1-in-6 result, the season ends at that batting average — the peak season that might have been becomes the truncated one that was.",
+      "note": "Oliva's self-description ('I was killing it') and his .375 BA at the time of the June 29 injury are documented in the Star Tribune piece."
+    },
+    {
+      "tag": "Moaning and Groaning",
+      "desc": "Tony Oliva's roommate Rod Carew described their nightly routine after Oliva's knee surgeries began: 'The first thing I did when we got to our room at night was to go to the ice machine for Tony. I would hear him moaning, groaning, sometimes even crying, he was in so much pain.' Oliva played through eight knee operations across the last half of his career. He could no longer slide in his final seasons. In ILB, Moaning and Groaning is the set's most literal durability-at-cost mechanic: in any season where Oliva plays 140+ games, his SPD rating drops by 1 at the start of the following season (the accumulated pain of playing through the knees). The games are played; the cost is paid the next year.",
+      "note": "Carew's description of the nightly ice machine routine is documented in the Star Tribune piece and multiple sources."
+    },
+    {
+      "tag": "The Smoky Joe Wood Syndrome",
+      "desc": "In 1981, Lawrence Ritter and Donald Honig included Tony Oliva in their book The 100 Greatest Baseball Players of All Time. They explained what they called 'the Smoky Joe Wood Syndrome' — a player of truly exceptional talent whose career was curtailed by injury, and who should be included on the all-time list despite not having career statistics that would quantitatively rank him with the all-time greats. In ILB, Smoky Joe Wood Syndrome applies to Oliva's career once the I Was Killing It mechanic has triggered: his OVR is evaluated based on his peak eight-season statistics (OVR 10) rather than his full career numbers. The injury does not reduce the card's power. The 100 Greatest Baseball Players identified the standard. The sprinkler head does not change the category.",
+      "note": "Ritter and Honig's 'Smoky Joe Wood Syndrome' framing for Oliva is documented in Wikipedia."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballpark",
+      "affinity": "SACRED",
+      "note": "Met Stadium, Bloomington, Minnesota / the 1964 season / the first-ever simultaneous ROY and batting title / 'I don't want anyone to coach him in hitting.'",
+      "note_extra": "Source labeled 'Met Stadium Bloomington Minnesota / 1964 First Full Season / First Ever ROY Plus Batting Title Simultaneously / 19 of 20 ROY Votes / 217 Hits 109 Runs 43 Doubles 374 TB All AL Leaders / Calvin Griffith Leave Him Alone / Golf-Like Swing Knock-Kneed Stance / Twins 3-Killebrew 4 Order / First Cuban AL ROY / Six AL Categories Led / 1965 Second Straight Batting Title First Ever Back-To-Back / AL Pennant 1965 / Bronze Statue Target Field 2011 / Number 6 Retired 1991' / affinity 'SACRED' — forty-second SACRED in the set, first for the Swingers 1960. Oliva's SACRED is Met Stadium and the 1964 season: the ballpark where he arrived as a 25-year-old (26 by true birth year) Cuban immigrant who could not speak English, hit .323 with six AL-leading categories, won the first simultaneous ROY and batting title in baseball history, and established the swing that Calvin Griffith ordered his coaches never to touch. The SACRED runs forward to Target Field, where his bronze statue stands at the entrance — from Met Stadium's right field in 1964 to the permanent bronze at Target Field in 2011. Ballpark domain."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Pinar del Río / tobacco factory father who rolled the best cigars / 'the best hitter in Pinar del Río' / nine siblings / brother's passport / arrived unable to speak English / Wytheville, .410.",
+      "note_extra": "Source labeled 'Pinar Del Rio Cuba / Father Tobacco Factory Best Cigars Salerno / Father Semi-Professional Player Taught Hitting / Best Hitter Pinar Del Rio / Nine Siblings / Joe Cambria Twins Scout Signed 1961 / Reluctant To Leave Family / Father Rich And Famous America / Brother Tony Oliva Passport / True Name Antonio Oliva Lopez Hernandes Javique / Birth Year 1938 Listed As 1940 / Arrived Unable To Speak English / Wytheville Twins 1961 .410 64 Games 10 HR 81 RBI / Released Spring 1962 Re-Signed / Charlotte .350 1962 / Let Bat Do Talking' / affinity 'ORIGIN' — forty-fifth ORIGIN in the set, first for the Swingers 1960. Oliva's is the most complete immigration-to-Hall-of-Fame ORIGIN in the set: the tobacco-factory father who taught him to hit, the reluctance to leave nine siblings, the brother's passport that gave him his name, the arrival unable to speak English, the .410 at Wytheville that announced him in the first American professional season. He let his bat do the talking. The bat said .410. Community Events domain: the Cuban community of Pinar del Río that produced the best hitter in the province, and the American professional baseball system that found him."
+    },
+    {
+      "location": "Open Field/Stadium",
+      "affinity": "DAMNED",
+      "note": "June 29, 1971. Batting .375. Joe Rudi's liner in Oakland. The sprinkler head. 100 cartilaginous fragments. 'I was killing it.'",
+      "note_extra": "Source labeled 'June 29 1971 Oakland / Joe Rudi Sinking Liner / Dove For Ball / Right Knee Sprinkler Head / Batting .375 At Time / Won Third Batting Title .337 Limping / Second Surgery July 5 100 Cartilaginous Fragments Removed / 10 Games 1972 / Rod Carew Moaning Groaning Sometimes Crying / Eight Knee Surgeries Total / I Was 31 In My Prime I Was Killing It / 50 More Home Runs 150 More RBI Estimated / Could No Longer Slide Final Seasons / Designated Hitter 1973-1976' / affinity 'DAMNED' — thirteenth DAMNED in the set, first for the Swingers 1960. Oliva's is the most precise and documented DAMNED in the set: the specific date (June 29, 1971), the specific play (Rudi's sinking liner), the specific injury mechanism (the sprinkler head), the specific batting average at the time (.375), and the specific quantification of what was lost ('50 more home runs, 150 more RBI'). The DAMNED is not the injury but the arithmetic: a .375 hitter in his prime, 31 years old, with a HOF career ahead of him, who hit the one object in Oakland's right field that ended everything. Open Field domain: the specific outfield where the career changed."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "COMPLEX",
+      "note": "Inducted 2022, 45 years after his last season. 15 BBWAA ballot years. The Smoky Joe Wood Syndrome. 'I'd have about 50 more home runs and about 150 more RBI.'",
+      "note_extra": "Source labeled 'Hall Of Fame 2022 / 45 Years After Last Season / 15 BBWAA Ballot Years 1982-1996 / Peak 47.3% 1988 / Veterans Committee As High As 59% / Golden Days Era Committee December 5 2021 / Smoky Joe Wood Syndrome Ritter Honig / 100 Greatest Players Despite Truncated Stats / First Cuban AL ROY / Inducted Same Committee As Minoso / 50 HR 150 RBI Estimated Lost / Career .304 In Second Dead-Ball Era / Eight Straight All-Stars DiMaggio Record Surpassed' / affinity 'COMPLEX' — twenty-fourth COMPLEX in the set, first for the Swingers 1960. Oliva's is the most explicitly named COMPLEX in the set: Ritter and Honig gave the framework a name — the Smoky Joe Wood Syndrome — and applied it to Oliva in 1981. The COMPLEX is the 41-year gap between the 1981 book including him among the 100 Greatest Players and the 2022 Hall of Fame induction: the entire career in the subjunctive, the career that would have been without the sprinkler head. Hotel/Rest domain: the private accounting of the career against what it was supposed to be."
+    },
+    {
+      "location": "State House/Government",
+      "affinity": "IDENTITY",
+      "note": "First Cuban to win the AL ROY. Arrived on his brother's passport. Let his bat do the talking. The Twins' institutional batting lineage: Oliva mentored Carew, Carew was the foundation, Oliva later mentored Puckett.",
+      "note_extra": "Source labeled 'First Cuban AL Rookie Of The Year / Arrived Brother Passport / Born Antonio True Name / Arrived Unable Speak English / Tony-O Minnesota Beloved / Mentored Rod Carew Rookie 1967 / Carew Seven Batting Titles / Mentored Kirby Puckett / Twins 1987 1991 Coaching / Institutional Batting Lineage / Only On-Field Member All Three Twins WS Teams / Bronze Statue Target Field / Number 6 Retired Third In Franchise History After Killebrew Carew' / affinity 'IDENTITY' — ninth IDENTITY in the set, first for the Swingers 1960. Oliva's is the most generationally extended IDENTITY in the set: the chain runs from his 1964 arrival through Carew (mentored as a 1967 rookie, seven batting titles) through Puckett (mentored in 1984, HOF). Three Hall of Famers along a direct mentorship line, all passing through the same Minnesota franchise, all of it initiated by the arrival of a Cuban immigrant who came on his brother's passport and could not speak English. State House domain: the institutional power of the organizational lineage."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "I Don't Want Anyone to Coach Him — any manager's mechanical adjustment to Oliva's hitting during an at-bat generates a maximum CON result for that at-bat.",
+      "He Didn't Have Any Weaknesses — no pitch type, location, or count reduces Oliva's CON roll. The 5 is always the 5.",
+      "The Brother's Passport — once per series, the opponent's first Oliva at-bat generates a CTL -0.5 penalty (the scouting book is based on the wrong person).",
+      "Smoky Joe Wood Syndrome — once the injury mechanic triggers, OVR is evaluated based on peak eight-season statistics rather than full career numbers."
+    ],
+    "cold_triggers": [
+      "I Was Killing It — in any season where BA exceeds .340 before the All-Star break, a 1-in-6 Season-Ending Risk roll is triggered.",
+      "Moaning and Groaning — in any season where Oliva plays 140+ games, SPD drops by 1 at the start of the following season.",
+      "1965 WS — against peak Koufax/Drysdale-equivalent pitchers (STF 5+), Oliva's CON drops from 5 to 4 (the one documented context where the swing was neutralized: .192 in 7 WS games)."
+    ],
+    "pressure_response": "The 1964 season. He arrived in the US on his brother's passport unable to speak English, was released once and re-signed, hit .410 in the Appalachian League, .350 in A ball, .304 in AAA, and then .323 in the American League while leading the league in six categories and winning the first simultaneous ROY and batting title in baseball history. The pressure response is the bat: he had no other language for the first years, and the bat said everything. Catfish Hunter faced him across a career and in 1991 — at the end of both their careers — still named him the toughest hitter he ever faced."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Brother's Passport",
+      "type": "Origin",
+      "text": "His brother's name was Tony Oliva. Antonio left Cuba in 1961 on his brother's passport. He arrived in the United States as Tony Oliva. His birth year on the passport said 1940. His real birth year was 1938. He could not speak English. He hit .410 in 64 games in the Appalachian League. The SABR Biographical Committee determined his correct birth year in 2005 — nearly 30 years after his career ended. He had been retired from professional baseball for almost three decades before anyone officially established when he had been born. His brother, the real Tony Oliva, stayed in Cuba. In 1981, Lawrence Ritter and Donald Honig named the real Antonio among the 100 Greatest Baseball Players of All Time.",
+      "origin": "The passport story, Oliva's birth name, his brother's name, the 2005 SABR birth year determination, and his arrival unable to speak English are documented in Wikipedia and the Baseball Fandom wiki."
+    },
+    {
+      "title": "First — And First Again",
+      "type": "Historic Feat",
+      "text": "1964. Tony Oliva wins the AL Rookie of the Year Award (19 of 20 first-place votes) and the AL batting title (.323) in the same season. No player in baseball history has ever done both simultaneously. Calvin Griffith had ordered his coaches not to touch the swing. The knock-kneed stance, the golf-like swing — it all produced 217 hits, 109 runs, 43 doubles, 32 home runs, and 374 total bases in the second dead-ball era. 1965. Tony Oliva wins the AL batting title again (.321). No player in baseball history has ever won batting titles in his first two full seasons. Two firsts in two years. Catfish Hunter would face him for another decade and never find a weakness.",
+      "origin": "Both baseball firsts (simultaneous ROY+batting title in 1964; consecutive batting titles in first two seasons in 1965) are documented in multiple sources."
+    },
+    {
+      "title": "Leave Him Alone",
+      "type": "Character",
+      "text": "When Tony Oliva arrived with his knock-kneed stance and golf-like swing, Minnesota Twins owner Calvin Griffith gave his coaches an ultimatum: 'I don't want anyone to coach him in hitting. I want him left alone.' The result was another batting title in 1965. Catfish Hunter eventually named Oliva the toughest hitter he ever faced — twice, in 1979 and again in 1991, twelve years apart — because 'he could hit any pitch anywhere and didn't have any weaknesses.' Whitey Herzog said you could not make a bad pitch on him. The swing was the swing. Calvin Griffith understood this before anyone else did. He left it alone.",
+      "origin": "Griffith's instruction, Hunter's quotes (1979 and 1991), and Herzog's quote are documented in the Baseball Hall of Fame and Wikipedia."
+    },
+    {
+      "title": "The Sprinkler Head",
+      "type": "Injury",
+      "text": "June 29, 1971. Tony Oliva was batting .375. He was 31 years old and in his prime. The Twins were trailing Oakland by 14 games and needed to win. Oliva dove for Joe Rudi's sinking liner in the right-field corner. His already-fragile right knee landed on a sprinkler head embedded in Oakland's outfield grass. He finished the season at .337 for his third batting title — limping. Doctors removed 100 cartilaginous fragments from the knee in a second surgery on July 5th. He played 10 games in 1972. He told a reporter years later: 'I was 31, in my prime. I was killing it.' He estimated the knee cost him 50 home runs and 150 RBI. It was the fourteenth season before the Hall of Fame called.",
+      "origin": "The June 29, 1971 injury details (Joe Rudi, Oakland, sprinkler head, .375 BA at the time, 100 fragments removed) and Oliva's self-assessment are documented in the SABR BioProject and the Star Tribune piece."
+    },
+    {
+      "title": "Moaning and Groaning",
+      "type": "Character",
+      "text": "Rod Carew became Tony Oliva's roommate in 1967 when Carew arrived as a rookie. Carew later described their nightly routine in the years after Oliva's knee surgeries: 'The first thing I did when we got to our room at night was to go to the ice machine for Tony. I would hear him moaning, groaning, sometimes even crying, he was in so much pain.' Oliva had eight knee surgeries across the second half of his career. He could not slide in his final seasons. He played through all of it. Carew won seven batting titles and credited Oliva as the foundation of his hitting development. The man Carew went to get ice for at night had been AL batting champion twice before Carew arrived.",
+      "origin": "Carew's account of the nightly ice machine ritual and Oliva's pain is documented in the Star Tribune piece. Carew's quote about Oliva's character is documented in the Twins Daily piece."
+    },
+    {
+      "title": "The 100 Greatest Baseball Players",
+      "type": "Legacy",
+      "text": "In 1981, Lawrence Ritter and Donald Honig published The 100 Greatest Baseball Players of All Time. They included Tony Oliva. They explained their reasoning with a framework they called 'the Smoky Joe Wood Syndrome': a player of truly exceptional talent whose career was curtailed by injury should be included in any honest list of the greatest players despite not having career statistics that would quantitatively rank him with the all-time greats. In 2021 — 40 years after the book and 45 years after Oliva's last season — the Golden Days Era Committee elected him to the Baseball Hall of Fame. He was inducted in 2022 alongside Jim Kaat, Gil Hodges, and Minnie Miñoso. He was 83 years old.",
+      "origin": "Ritter and Honig's inclusion of Oliva and the 'Smoky Joe Wood Syndrome' framing are documented in Wikipedia. The 2021 election and 2022 induction are documented."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'1'', 190 lbs — the left-handed Cuban right fielder with the knock-kneed stance and the golf-like swing that Calvin Griffith ordered his coaches never to touch. In 1964 he is 25 years old (26 by true birth year) in his first full season. The face of the man who arrived unable to speak English and let the bat do the talking. The face of the first Cuban to win the AL Rookie of the Year. Still has the smile Rod Carew would describe decades later: 'He always had a smile on his face. He always had a good word to say about everybody.'",
+    "attire": "Minnesota Twins road grays — the 1964 uniform, the TC on the cap. The left-handed batting stance in the specific Oliva form: knock-kneed, golf-like setup, the swing that no pitcher could categorize or coach against. Number 6 on the back. Met Stadium visible in the background — the old outdoor ballpark in Bloomington where he first played.",
+    "mood": "The arrival. This is the card of the first full season, the first batting title, the first ROY — the moment before everything else happened. He is hitting .323 and Calvin Griffith has told the coaches to leave him alone. He is killing it and does not know yet about the sprinkler head in Oakland. The art should show the confidence of the unconventional swing: the stance that looks wrong and is completely right.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style, consistent with the Dreamers 1950 set but carrying the Swingers 1960 era's slightly cooler palette — the early 1960s American League sensibility, less pastoral than the National League 1950s cards. Met Stadium's open Minnesota air, the right field line visible, the flat Midwestern light of a 1964 afternoon game.",
+    "reference": "Catfish Hunter's formulation as the art anchor: 'He could hit any pitch anywhere. He didn't have any weaknesses.' The art should show the weakness-free stance: the setup that gives no information away, the bat position that committed to nothing before committing to everything, the swing that Hunter would still be thinking about in 1991."
+  }
+}

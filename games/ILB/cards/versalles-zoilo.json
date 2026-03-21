@@ -1,0 +1,192 @@
+{
+  "card_type": "player",
+  "name": "Zoilo Versalles",
+  "nickname": "Zorro",
+  "year": 1965,
+  "team": "Minnesota Twins",
+  "league": "American League",
+  "era": "1960s",
+  "ilb_team": "Swingers 1960",
+  "position": "SS",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'10\"",
+  "weight": "166 lbs",
+  "born": "December 18, 1939 — Vedado, Havana, Cuba",
+  "died": "June 9, 1995 — Minneapolis, MN",
+  "hof": "Not inducted nationally. Minnesota Twins Hall of Fame, inducted posthumously 2006.",
+
+  "real_stats": {
+    "season": 1965,
+    "batting_avg": ".273",
+    "obp": ".321",
+    "slg": ".462",
+    "ops": ".783",
+    "hits": 182,
+    "doubles": 45,
+    "triples": 12,
+    "home_runs": 19,
+    "rbi": 77,
+    "runs": 126,
+    "stolen_bases": 27,
+    "at_bats": 666,
+    "total_bases": 308,
+    "war": 7.6,
+    "all_star": 1,
+    "awards": "AL MVP 1965 — 19 of 20 first-place votes (the remaining vote went to teammate and fellow Cuban Tony Oliva). First Latin-born player in baseball history to win an MVP award. First Minnesota Twins player in franchise history to win a MVP award. Led AL in runs (126), doubles (45), triples (12), total bases (308), extra-base hits, and at-bats (666). WAR 7.6 — led the American League. Also led the AL in strikeouts (122) and errors (39). Gold Glove Award 1963 and 1965 (first Minnesota Twins shortstop to win a Gold Glove). Two-time AL All-Star (1963, 1965). In the 1965 World Series: started all 7 games, batted .286 with 4 RBI; hit a three-run homer off Don Drysdale in Game 1 (the 8-2 Twins win — the game Sandy Koufax skipped for Yom Kippur). Bill James: Versalles holds the record for the fewest career Win Shares (134) by any player to win an MVP award. Steve Treder: Versalles tops the list of the game's most dramatic individual slides — 'the Flops.' Zoilo Versalles on his own playing style (1963): 'Like a tiger in a cage.'",
+    "world_series": "1965 World Series (lost to the Los Angeles Dodgers in 7 games). Versalles batted .286 with 3 runs and 4 RBI, starting all 7 games. His three-run homer off Don Drysdale in Game 1 was the key hit in Minnesota's 8-2 win — the only game of the series not pitched by Sandy Koufax (who skipped it for Yom Kippur). Never won a World Series."
+  },
+
+  "ilb_stats": {
+    "ovr": 7,
+    "con": 2,
+    "pow": 3,
+    "spd": 2,
+    "def": 2,
+    "clu": 1
+  },
+
+  "stat_justification": {
+    "con": "Career .242 BA (.252 with the Twins). Peak .280 as a rookie in 1961, .273 in the MVP year. Led the AL in strikeouts (122) in 1965 — the most in the league. CON 2 reflects the free-swinging, aggressive hitter who led the league in runs, doubles, and triples but also in strikeouts. He was not a reliable contact hitter; he was a catalyst who produced through total commitment and aggression rather than discipline.",
+    "pow": "Career 86-95 HR. Peak 20 HR in 1964, 19 in the MVP year. Led all AL shortstops in HR from 1961-65 (73). One of the first power-hitting shortstops in the American League. Career .442 SLG. POW 3 reflects the moderate power of a player who was primarily a run-producer through extra-base hits (45 2B, 12 3B in 1965) rather than home run power alone.",
+    "spd": "Led the AL in triples three times. Career 84 SB. 27 SB in 1965 (caught only 5 times). 'Would often stretch singles into doubles, and doubles into triples.' The speed was the distinguishing quality of his style — he ran aggressively on every ball and turned the basepath into contested territory. SPD 2 reflects genuine speed that was a real weapon without reaching the elite baserunner tier.",
+    "def": "Gold Gloves in 1963 and 1965. Also led the AL in errors in 1965 (39), 1966, and 1967. 'Had incredible range to either side of the ball and a penchant for the spectacular play.' The range and the errors were both products of the same aggressive style — he attempted plays that other SS would not, made some, and missed others. DEF 2 is the honest accounting of a Gold Glove winner who also led the league in errors three consecutive seasons.",
+    "clu": "One WS appearance (1965, lost in 7). In Game 1: three-run HR off Drysdale. .286 WS BA, 4 RBI. Carried the Twins to the franchise's first pennant. No ring. CLU 1 is the one-pennant, no-ring postseason producer — more than CLU 0 (he was excellent in the one series he played), but the structural absence of any championship result limits the rating."
+  },
+
+  "personality": {
+    "leadership_style": "The tiger in the cage. He described his own style in 1963: 'Like a tiger in a cage.' Compact, coiled, full of pent-up energy. Under the tutelage of Twins third base coach Billy Martin in 1965, he channeled that energy into the most productive season of any shortstop in the AL that year. He was the leadoff man for a franchise that reached the World Series for the first time since 1933. He played 160 games. He ran constantly. He hit everything he could reach. He led the league in doubles, triples, and runs.",
+    "temperament": "Homesick and intense. Versalles had difficulty adjusting to life in the United States due to the language barrier and his fear of failure, leaving him 'eternally homesick for his native Cuba.' He never learned to read or write English. He was a difficult player to manage — in spring training 1965, manager Sam Mele accused him of not trying; Versalles responded by claiming he preferred Billy Martin to Mele. Martin was his person. The energy that made him a great shortstop also made him hard to reach.",
+    "work_ethic": "160 games in 1965. 666 at-bats (AL leader). Led the league in five offensive categories. Led the league in errors and strikeouts. He was always playing — always attempting, always running, always swinging. The work ethic was total commitment without calibration. 'Like a tiger in a cage.' He tried everything. Some of it worked. Some of it was errors.",
+    "lifestyle": "Vedado, Havana, Cuba — to Washington, D.C. (Senators) — to Minneapolis, Minnesota (Twins) — to Los Angeles, Cleveland, Washington again, Atlanta — back to Minneapolis. He never found a place that felt like home. He was eternally homesick for Cuba. He could not read or write English. After his playing career ended, no team would hire him. He took menial jobs. He lost his house. He sold his MVP trophy, All-Star rings, and Gold Glove awards. He had two heart attacks and stomach surgery. He lived on disability payments and Social Security. He died in Minneapolis on June 9, 1995, at 55 years old. The Minnesota Twins inducted him into their Hall of Fame in 2006, eleven years after his death.",
+    "dark_side": "The immediate collapse after the MVP season. The $40,000 pay raise and the performance that followed: .249 with 7 HR in 1966. Calvin Griffith's explanation: painkillers prescribed for his back, taken at improper doses because his unfamiliarity with English led him to misread the instructions. The collapse was not a mystery. The mystery was that no one helped him. No team would offer him a job at any level after his career ended. He sold the MVP trophy. He sold the Gold Gloves. He sold the All-Star rings. He needed the money."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Like a Tiger in a Cage",
+      "desc": "Zoilo Versalles described his own playing style in 1963: 'Like a tiger in a cage.' Compact, coiled, full of energy that needed somewhere to go. In 1965, with Billy Martin's guidance, the energy went into leading the AL in runs, doubles, triples, total bases, and WAR. In ILB, Like a Tiger in a Cage activates in any game where the Swingers 1960 are within 3 runs in the seventh inning or later: Versalles's SPD and POW both receive +1 effective tier (SPD becomes 3, POW becomes 4) for the remainder of the game. He was best when the moment required maximum output. The cage was the game situation. He was always looking for the door.",
+      "note": "Versalles's 'tiger in a cage' self-description is documented in the SABR BioProject."
+    },
+    {
+      "tag": "The New Ty Cobb",
+      "desc": "In 1963, when Tony Oliva arrived at Twins spring training, Zoilo Versalles watched him and became convinced he was witnessing something exceptional. Versalles told everyone that Oliva was 'the new Ty Cobb' — citing their similarities in hitting ability, speed, and arm strength. It was a remarkable assessment from one Cuban player about another, and it proved accurate: Oliva won the AL ROY in 1964 and the batting title in both 1964 and 1965. In ILB, The New Ty Cobb generates a Cuban Battery: when Versalles and Oliva are in the same lineup, Versalles's CON is treated as 3 instead of 2 for the full game (the presence of the player he identified as exceptional raises his own performance level — the recognition of greatness is its own discipline).",
+      "note": "Versalles's spring 1963 assessment of Oliva as 'the new Ty Cobb' is documented in the Oliva Wikipedia page."
+    },
+    {
+      "tag": "Billy Martin Made Me",
+      "desc": "Under the tutelage of Twins third base coach Billy Martin, Versalles put it all together in 1965. Martin was his person: when manager Sam Mele accused Versalles of not trying during spring training 1965, Versalles's response was to claim his preference for Martin over Mele. Martin understood Versalles in a way the manager did not. The championship season was the result. In ILB, Billy Martin Made Me is a manager-dependency trait: when the Swingers 1960 manager is specifically designated as Versalles's mentor at the season's start, his overall performance tier rises by 1 for that season (his WAR is calculated one tier higher, his errors are reduced by 5). Without the specific mentor relationship, the calibration is lost.",
+      "note": "The Martin-Versalles relationship, the Mele spring training confrontation, and Martin's specific mentorship of Versalles in 1965 are documented in the HOF Card Corner piece and Wikipedia."
+    },
+    {
+      "tag": "Yom Kippur",
+      "desc": "October 6, 1965. Game 1. World Series. Metropolitan Stadium, Bloomington, Minnesota. Sandy Koufax does not pitch. It is Yom Kippur, the holiest day of the Jewish calendar, and Koufax observes it. The Dodgers start Don Drysdale instead. In the third inning, Zoilo Versalles comes to bat with two runners on base. He hits a three-run home run off Drysdale. The Twins win 8-2. It is the only game of the 1965 World Series that Koufax does not pitch. Versalles batted .286 in the series. The Twins won three games. The Dodgers won four. In ILB, the Yom Kippur game is a once-per-career bonus: in any WS Game 1 where the opposing ace does not start, Versalles's POW is treated as 5 for that game. The door opened. He walked through it.",
+      "note": "Koufax's Yom Kippur absence from Game 1, Versalles's three-run HR off Drysdale, and the 8-2 Twins win are documented in multiple sources."
+    },
+    {
+      "tag": "He Sold the Trophy",
+      "desc": "After his playing career ended, no team in baseball would offer Zoilo Versalles a job at any level. He returned to Minneapolis. He could not read or write English. His chronically bad back prevented heavy physical labor. He took menial jobs. He lost his house to foreclosure. By the 1980s, he had no choice but to sell his trophies — his 1965 AL MVP Award, his All-Star rings, his Gold Glove awards. He sold them not only for money, the HOF Card Corner piece notes, but because other reasons too: 'it wasn't just because of the need for money.' He died in Minneapolis on June 9, 1995, at 55. In ILB, He Sold the Trophy is the set's most somber legacy marker: if Versalles's team fails to win a ring in his career, his CLU drops permanently to 0 upon retirement, and his OVR is recalculated at 6 for all subsequent historical references (the career without the ring is the career without the peak).",
+      "note": "Versalles's post-career poverty, foreclosure, sale of trophies, and death at 55 in Minneapolis are documented in the HOF Card Corner and Bleacher Report pieces."
+    },
+    {
+      "tag": "Eternally Homesick",
+      "desc": "Zoilo Versalles had difficulty adjusting to life in the United States due to the language barrier and his fear of failure, leaving him 'eternally homesick for his native Cuba.' He never learned to read or write English. His unfamiliarity with English and American culture contributed to the painkiller misuse that accelerated his decline (the prescribed doses for his back were misread). In ILB, Eternally Homesick is the set's language-barrier trait: in any season Versalles plays outside his established roster context (new team, new city, new coach), his CON drops to 1 and his errors increase by 5 (the adjustment cost is documented and real). In his established context — the Twins, Billy Martin, Oliva nearby — the homesickness is managed. Elsewhere, it is not.",
+      "note": "Versalles's language barrier, homesickness for Cuba, and the documented painkiller misuse due to language unfamiliarity are in Wikipedia and multiple sources."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballpark",
+      "affinity": "SACRED",
+      "note": "Metropolitan Stadium, Bloomington, Minnesota / the 1965 AL MVP season / the first Twins pennant / 'like a tiger in a cage.'",
+      "note_extra": "Source labeled 'Metropolitan Stadium Bloomington Minnesota / 1965 AL MVP / 19 of 20 First Place Votes / First Latin-Born MVP / First Twins MVP / Led AL Runs 126 Doubles 45 Triples 12 TB 308 / WAR 7.6 Led AL / 666 AB AL Leader / 27 SB Caught 5 / .273 BA .462 SLG / 1965 WS Game 1 Three-Run HR Drysdale Yom Kippur / First Twins WS Since 1933 / Twins Hall Fame Posthumous 2006 / Billy Martin Mentor' / affinity 'SACRED' — forty-ninth SACRED in the set, eighth Swingers 1960 SACRED. Versalles's is the most concentrated single-season SACRED in the set: everything that made Versalles who he was — the energy, the aggression, the Billy Martin connection, the Cuban identity among teammates, the first pennant in Twins history — converged in one season at one stadium. The SACRED is 1965 at the Met: the MVP, the pennant, the Game 1 home run, and the tiger who briefly found his way out of the cage. Ballpark domain."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Vedado, Havana, Cuba / signed at 18 / homesick / language barrier / could not read or write English / 'eternally homesick for his native Cuba.'",
+      "note_extra": "Source labeled 'Vedado Havana Cuba / Born December 18 1939 / Signed Washington Senators 1958 Age 18 / Difficulty Adjusting US / Language Barrier Fear Of Failure / Eternally Homesick Cuba / Never Learned Read Write English / Painkiller Misuse From Language Unfamiliarity / Back Problems Throughout Career / Zorro Nickname / Zoilo Called Oliva New Ty Cobb / Billy Martin Only Person Who Reached Him' / affinity 'ORIGIN' — fifty-second ORIGIN in the set, fifth for the Swingers 1960. Versalles's is the most displacement-specific ORIGIN in the set: Vedado, Havana — a specific neighborhood of Havana — to Washington to Minneapolis, and never able to fully arrive at any of the American stops. The ORIGIN is the permanent homesickness: he was always from Havana, and Havana was always somewhere else. Community Events domain."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "DAMNED",
+      "note": "The MVP season's immediate collapse. The painkillers taken at improper doses. The sold MVP trophy. The foreclosure. The menial jobs. Two heart attacks. Died at 55.",
+      "note_extra": "Source labeled '$40000 Pay Raise MVP / Performance Dropped .249 7 HR 1966 / Calvin Griffith Painkillers Improper Doses Language Barrier / Led AL Errors 1965 1966 1967 / No Baseball Job Offered After Career / Could Not Read Write English / Chronically Bad Back No Heavy Labor / Menial Jobs / Lost House Foreclosure / Sold MVP Trophy / Sold All-Star Rings / Sold Gold Glove Awards / Two Heart Attacks Stomach Surgery / Disability Payments Social Security / Died June 9 1995 Minneapolis Age 55 / Inducted Twins HOF Posthumous 2006 Eleven Years After Death' / affinity 'DAMNED' — fifteenth DAMNED in the set, second for the Swingers 1960. Versalles's is the most materially complete DAMNED in the set: the MVP trophy was sold; the Gold Gloves were sold; the All-Star rings were sold. The material objects of the 1965 season were dispersed to pay for the years after. No other DAMNED in the set involves the physical sale of the achievement's artifacts. The decline was documented; the abandonment by the game he had served was more profound. Hotel/Rest domain."
+    },
+    {
+      "location": "Open Field/Stadium",
+      "affinity": "MAXIMUM",
+      "note": "First Latin-born MVP. First Twins MVP. Led AL in five categories in 1965. WAR 7.6 (led AL). 19 of 20 MVP votes. Lowest career Win Shares of any MVP (134).",
+      "note_extra": "Source labeled 'First Latin-Born MVP Baseball History / First Twins MVP / 19 of 20 First Place Votes / Led AL Runs Doubles Triples Total Bases Extra Base Hits 1965 / WAR 7.6 Led AL / Two Gold Gloves 1963 1965 / Five AL Triples Leaders / Bill James Fewest Career Win Shares 134 Any MVP / Rob Neyer In 1965 Was Really Best Player League / Steve Treder Number One Flop All Time / First Twins WS Since 1933' / affinity 'MAXIMUM' — twenty-first MAXIMUM in the set, third for the Swingers 1960. Versalles's is the most historically paradoxical MAXIMUM in the set: the record he holds (fewest career Win Shares by any MVP winner) is simultaneously the maximum achievement of his career and the precise quantification of how far the achievement exceeded the career. He led the league in WAR in 1965. He holds the record for the lowest career Win Shares of any MVP. Both are true. Both are MAXIMUM. Open Field domain."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "COMPLEX",
+      "note": ".242 career BA. Lowest career Win Shares of any MVP (134). Led AL in errors three consecutive seasons. Two Gold Gloves and 39 errors in the same year. 'The Flop.'",
+      "note_extra": "Source labeled '.242 Career BA / Lowest Career Win Shares Any MVP 134 Bill James / Steve Treder Number One All-Time Flop / Led AL Errors 1965 1966 1967 / Two Gold Gloves And 39 Errors Same Season / Post-MVP Drop 24 Points BA / Career Fewest Win Shares MVP Record / First Twins MVP Won By Player With Lowest Career Win Shares Any MVP / Not In National HOF / Sold All Trophies Post Career / One Pennant No Ring' / affinity 'COMPLEX' — twenty-eighth COMPLEX in the set, fifth for the Swingers 1960. Versalles's is the most quantitatively precise COMPLEX in the set: Bill James identified that his career Win Shares (134) are the fewest of any MVP winner in history — making the 1965 MVP season the most isolated peak achievement in the set. The same season he won the Gold Glove, he led the league in errors (39). The Gold Glove and the 39 errors are the same player, the same year, the same position. Hotel/Rest domain."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Like a Tiger in a Cage — within 3 runs in the 7th inning or later, SPD becomes 3 and POW becomes 4.",
+      "The New Ty Cobb — when batting in the same lineup as Oliva, CON treated as 3 instead of 2.",
+      "Yom Kippur — in any WS Game 1 where the opposing ace does not start, POW treated as 5 for that game.",
+      "Billy Martin Made Me — when the manager is designated as Versalles's mentor at season start, performance tier rises by 1, errors reduced by 5."
+    ],
+    "cold_triggers": [
+      "Eternally Homesick — on any new team or in any new context without established mentor/teammate relationships, CON drops to 1 and errors increase by 5.",
+      "He Sold the Trophy — if no ring is won in career, CLU drops to 0 on retirement and OVR recalculates to 6 for historical references.",
+      "CON 2 baseline — leading the league in strikeouts is the career constant; the contact inconsistency is the floor."
+    ],
+    "pressure_response": "Game 1. 1965 World Series. Sandy Koufax is not pitching. Don Drysdale is. Two runners on base. Versalles hits a three-run home run. The Twins win 8-2. He bats .286 in the series across all 7 games. He is always a tiger in the cage. When the door opens — when the ace is absent, when Billy Martin has prepared him, when Tony Oliva is in the lineup — the energy goes somewhere productive."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Like a Tiger in a Cage",
+      "type": "Character",
+      "text": "In 1963, Zoilo Versalles was asked to describe his playing style. He said: 'Like a tiger in a cage.' He was 23 years old. He had just led the American League in triples, made the All-Star team, and won his first Gold Glove — despite committing 29 errors. He was compact and coiled, full of energy that needed somewhere to go. Under the tutelage of Billy Martin in 1965, the energy found its destination: he led the AL in runs, doubles, triples, total bases, and WAR. He received 19 of 20 first-place MVP votes. He also led the league in strikeouts and errors. A tiger in a cage.",
+      "origin": "Versalles's 'tiger in a cage' self-description is documented in the SABR BioProject."
+    },
+    {
+      "title": "First Latin-Born MVP",
+      "type": "Historic Feat",
+      "text": "November 18, 1965. Zoilo Versalles of the Minnesota Twins is named the American League Most Valuable Player. He receives 19 of the 20 first-place votes. The remaining vote goes to his teammate and fellow Cuban Tony Oliva. Versalles is the first Latin-born player in baseball history to win an MVP award. He is also the first Minnesota Twins player to win it. He led the AL in five offensive categories. He batted .273. Bill James will later calculate that he holds the record for the fewest career Win Shares (134) by any MVP winner in history. He sells the trophy in the 1980s.",
+      "origin": "Versalles's status as the first Latin-born MVP, the vote tally (19-1, the dissenting vote going to Oliva), and the Bill James Win Shares distinction are documented."
+    },
+    {
+      "title": "Yom Kippur",
+      "type": "Game Action",
+      "text": "October 6, 1965. World Series Game 1. Metropolitan Stadium, Bloomington, Minnesota. Sandy Koufax does not pitch. It is Yom Kippur, the holiest day of the Jewish calendar, and Koufax observes it. The Los Angeles Dodgers start Don Drysdale instead. Third inning. Two runners on base. Zoilo Versalles hits a three-run home run off Drysdale. The Twins win 8-2. It is the only game of the 1965 World Series not pitched by Sandy Koufax. The Twins will win two more games. The Dodgers will win four. But on this day, the door was open. Versalles walked through it.",
+      "origin": "The Yom Kippur absence of Koufax from Game 1, Versalles's three-run HR off Drysdale, and the 8-2 Twins win are documented."
+    },
+    {
+      "title": "He Sold the Trophy",
+      "type": "Legacy",
+      "text": "After his playing career ended, no team in baseball would offer Zoilo Versalles a job at any level. He returned to Minneapolis. He could not read or write English. His chronically bad back prevented him from doing heavy physical labor. He took menial jobs. He lost his house to foreclosure. By the 1980s, he felt he had no choice but to sell his trophies — his 1965 AL MVP Award, his All-Star rings, his Gold Glove awards. He continued to have health and financial problems. He had two heart attacks and stomach surgery. He lived on disability payments and Social Security. On June 9, 1995, Zoilo Versalles died in Minneapolis. He was 55 years old. The Minnesota Twins inducted him into their Hall of Fame in 2006. It was eleven years after his death.",
+      "origin": "Versalles's post-career poverty, foreclosure, sale of trophies, two heart attacks, death at 55, and posthumous 2006 Twins HOF induction are documented."
+    },
+    {
+      "title": "The New Ty Cobb",
+      "type": "Character",
+      "text": "Spring 1963. Tony Oliva has arrived at Minnesota Twins spring training. He is a 24-year-old Cuban outfielder who signed with the Twins two years earlier and has been in the minor leagues. Zoilo Versalles watches him practice. He becomes convinced he is seeing something exceptional. He tells anyone who will listen that Oliva is 'the new Ty Cobb' — citing their similarities in hitting ability, speed, and arm strength. Oliva wins the AL ROY in 1964 with a batting title. He wins the batting title again in 1965. He finishes second to Versalles in the 1965 MVP vote. Two Cubans in Minnesota; one calls the other the new Ty Cobb. One of them is right.",
+      "origin": "Versalles's spring 1963 assessment of Oliva as 'the new Ty Cobb' is documented in the Oliva Wikipedia page."
+    },
+    {
+      "title": "Eternally Homesick",
+      "type": "Identity",
+      "text": "Zoilo Versalles had difficulty adjusting to life in the United States due to the language barrier and his fear of failure, leaving him, as the record states, 'eternally homesick for his native Cuba.' He never learned to read or write English. When he was prescribed painkillers for his chronically bad back, his unfamiliarity with the English language and American medical culture led him to take improper doses — a misunderstanding that Calvin Griffith later identified as contributing to his sudden decline after the MVP season. He played 10 years in American baseball. He was never home. He was always from Vedado, Havana.",
+      "origin": "Versalles's language barrier, permanent homesickness for Cuba, and the Calvin Griffith explanation for his post-MVP decline (painkillers at improper doses due to language unfamiliarity) are documented in Wikipedia and the SABR BioProject."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'10'', 166 lbs — the compact Cuban shortstop from Vedado, Havana, who was like a tiger in a cage. In 1965 he is 25 years old, at the single greatest season of his career and the only season of his career that is truly great. The face of the first Latin-born MVP. The face of the man who, twenty years later, will sell this award for money. Both things are true simultaneously. The face should carry both.",
+    "attire": "Minnesota Twins home whites — the 1965 uniform, the TC on the cap, number 2. The shortstop's stance at the edge of the infield: crouched, coiled, the tiger in the cage. The weight forward. The Metropolitan Stadium visible in the background, the flat Minnesota light of a 1965 afternoon game.",
+    "mood": "Contained energy. The cage. He is always about to leap toward the ball — toward a double he will stretch into a triple, toward an error he will reach spectacularly and then throw into the seats, toward a home run he will hit off Don Drysdale when Koufax is in synagogue. The mood is the 1963 self-description: the tiger, the cage, the permanent tension between the two.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. The Swingers 1960 palette. Metropolitan Stadium's open-air Minnesota setting in the background. The card year is 1965 — the only season in which the full potential of the player was visible, contained, and directed.",
+    "reference": "The SABR BioProject's framing as the art anchor: 'When Versalles was in command of his physical powers and had mastered the mental demands of the game on and off the field, he was indeed a remarkable player — one of the better all-around shortstops of his era.' The art should show the command: the shortstop at his peak, the energy channeled, the cage briefly unlocked."
+  }
+}

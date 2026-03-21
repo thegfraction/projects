@@ -1,0 +1,190 @@
+{
+  "card_type": "player",
+  "name": "Wally Moon",
+  "nickname": "none",
+  "year": 1959,
+  "team": "Los Angeles Dodgers",
+  "league": "National League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "LF",
+  "bats": "L",
+  "throws": "R",
+  "height": "6'0\"",
+  "weight": "169 lbs",
+  "born": "April 3, 1930 — Bay, AR",
+  "died": "February 9, 2018 — Bryan, TX",
+  "hof": "Not inducted",
+
+  "real_stats": {
+    "season": 1959,
+    "batting_avg": ".302",
+    "obp": ".390",
+    "slg": ".495",
+    "ops": ".885",
+    "hits": 164,
+    "doubles": 26,
+    "triples": 11,
+    "home_runs": 19,
+    "rbi": 74,
+    "stolen_bases": 15,
+    "walks": 74,
+    "war": 4.9,
+    "all_star": 2,
+    "awards": "NL triples leader 1959 (11). Two-time All-Star 1959 (both midsummer games). 4th in NL MVP voting 1959. World Series champion 1959 (Game 6 HR; caught Luis Aparicio's fly ball for the final out of the Series). NL Rookie of the Year 1954 (17 of 24 votes, over Ernie Banks's 4 and Hank Aaron's 1). Gold Glove Award 1960 (first Dodgers outfielder to win the Gold Glove; led NL LFs in assists, double plays, and fielding percentage). Two-time All-Star (1957, 1959). Three-time World Series champion (1959, 1963, 1965). Career .289 BA, .371 OBP, .445 SLG, .816 OPS, 142 HR, 661 RBI. Batted .295 or more in seven seasons. Twice in career compiled double figures in doubles, triples, HR, and SB in the same season (1956: 22-11-16-12; 1959: 26-11-19-15). Stan Musial: 'Moon is the best rookie hitter I ever saw because of his consistency against all types of pitching.'",
+    "world_series": "1959 World Series champion (Dodgers over White Sox). Moon hit a home run in Game 6, the clincher. He caught Luis Aparicio's fly ball for the final out of the Series. He scored the last run ever at the Los Angeles Memorial Coliseum. Also a participant in the 1963 and 1965 championship teams, though he did not appear in the 1963 Series (122 games during the regular season but not used in the Fall Classic). Two pinch-hit at-bats in 1965 WS. Three rings total."
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 3,
+    "pow": 3,
+    "spd": 1,
+    "def": 2,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": "Career .289 BA, .371 OBP. Batted .295 or more in seven seasons. Musial's assessment — 'the best rookie hitter I ever saw because of his consistency against all types of pitching' — captures the CON 3 profile: consistent, durable contact without the elite mark of a CON 4 or 5. The inside-out swing he invented at the Coliseum was a contact skill innovation, not a power adjustment. He engineered his contact to match the park's geometry. CON 3 is the intelligent, consistent left-handed contact hitter who produced through adaptability rather than dominance.",
+    "pow": "Career 142 HR. Peak 24 HR in 1957. 19 HR in 1959. 49 HR across 1959-1961, of which 37 came in the Coliseum via the inside-out stroke over the 251-foot screen with the 42-foot wall. Career .445 SLG. The power is real but context-dependent: the Moon Shot home runs were engineering, not raw power. When the Coliseum was replaced by Dodger Stadium in 1962, Moon hit 4 HR and batted .242. POW 3 reflects the moderate-power hitter whose best home run production required a specific park geometry to express itself.",
+    "spd": "Led NL in triples in 1959 (11). 15 SB in 1959. Twice compiled double-digit triples and SB in the same season. SPD 1 is the instinctive baserunner — fast enough to lead the NL in triples, not fast enough to be a baserunning weapon. He ran smart, not quick.",
+    "def": "Gold Glove Award 1960, the first ever won by a Dodgers outfielder. Led NL LFs in assists, double plays, and fielding percentage that year. Also led NL LFs in fielding percentage in 1961. Career fielding percentage .980 across LF, CF, RF, and 1B. Caught the final out of the 1959 World Series. DEF 2 is the accomplished defensive outfielder who added real value with his glove and arm, distinguished from the DEF 1 baseline of most corner outfielders.",
+    "clu": "Three World Series rings (1959, 1963, 1965). HR in Game 6 of the 1959 WS (the clinching game). Caught the final out of the 1959 Series. 4th in NL MVP voting in 1959. CLU 2 reflects genuine postseason contribution — not the dominant WS performer (CLU 3), but a player who delivered in the clinching game and then caught the last out, and who participated in three championships."
+  },
+
+  "personality": {
+    "leadership_style": "The educator who happened to be a ballplayer. He had a master's degree before his first MLB at-bat. He coached at John Brown University for ten years after baseball. He was a minor league hitting coordinator, a minor league manager who won a league championship, and a minor league owner. The leadership was pedagogical — he taught what he had learned, in baseball and in the classroom alike.",
+    "temperament": "Pragmatic and adaptive. When the Coliseum presented a geometrically impossible problem for a left-handed pull hitter, Moon invented a solution. He engineered his swing to match his environment. When the environment changed (Dodger Stadium, 1962), he couldn't reverse the engineering — his average fell to .242 and his power disappeared. He was not a romantic about baseball: 'I gambled on everything. If I hit a single I'd go for two. If I had two I'd go for three.' That is the temperament of an adaptive risk-taker, not a preservationist.",
+    "work_ethic": "Showed up uninvited at the major league camp in 1954 instead of the minor league camp he'd been assigned. Had a master's degree and a wife and a newborn child — he had told himself if he didn't make the Cardinals in 1954, he was done with baseball and would teach instead. He made the Cardinals. He was not going to wait for an invitation.",
+    "lifestyle": "Bay, Arkansas to Texas A&M (bachelor's and master's degrees in administrative education) to the Cardinals to the Dodgers to coaching at John Brown University in Siloam Springs, Arkansas, to managing in the minor leagues, to Bryan, Texas, where he died in 2018 at age 87. He named his 2010 autobiography Moon Shots: Reflections on a Baseball Life. His family was always his orientation: the 1958 trade crushed him because he had bought a home in St. Louis. He wanted to be with his family year-round. The Dodgers sent him to Los Angeles and he invented the Moon Shot instead.",
+    "dark_side": "The Cardinals blamed Moon and Del Ennis publicly for the 1958 fifth-place finish. The trade to Los Angeles was not even a straight-up deal — the Cardinals sent Phil Paine (who never played a game for the Dodgers) along with Moon to acquire Gino Cimoli, signaling that they did not consider Moon the equal of Cimoli alone. He had bought a home in St. Louis. He was insulted. Then Dodger Stadium opened in 1962 and the inside-out swing that had produced 37 Coliseum home runs produced 4. The park that made him famous was torn down and the engineering did not transfer."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "I Gambled on Everything",
+      "desc": "Spring training 1954. Larry Jackson had been assigned to Triple-A Rochester again. He showed up uninvited at the Cardinals' major league camp instead. Manager Eddie Stanky did not send him away. Moon told himself: 'I gambled on everything. If I hit a single I would go for two. If I had two I would go for three. I tried to catch everything I had the slightest chance for in the outfield.' In ILB, once per game Moon may declare the Gamble — any base hit automatically triggers an extra-base attempt, resolved at +1 SPD effective rating. The gamble is the method. The uninvited arrival is the precedent.",
+      "note": "Moon's spring training 1954 arrival story and his self-description of his aggressive baserunning philosophy are documented in the SABR BioProject."
+    },
+    {
+      "tag": "The Moon Shot",
+      "desc": "In 1959, Moon faced a problem: right field at the Los Angeles Memorial Coliseum was 440 feet, death for a left-handed pull hitter. Left field was 251 feet with a 42-foot screen. Moon invented the inside-out swing — cutting across the ball away from his natural pull tendency, lofting pop flies over the short left-field screen. Sportswriters called them Moon Shots. He hit 37 of his 49 HR in the Coliseum across 1959-1961 via this method. In ILB, the Moon Shot activates in any ballpark with a short dimension in the pull direction: Moon's POW is treated as 4 instead of 3 for pull-side home run attempts when the fence is within the short-porch threshold. The engineering works only when the geometry cooperates.",
+      "note": "The Moon Shot invention, the Coliseum dimensions (251 feet to LF, 42-foot screen; 440 feet to RF), and Moon's 37 of 49 HR in the Coliseum are documented in The Dodgers Encyclopedia (McNeil) and multiple sources."
+    },
+    {
+      "tag": "We Want Enos",
+      "desc": "April 13, 1954. Two days before opening day, the Cardinals had traded Enos Slaughter — a Cardinal for 16 years — to the Yankees for three nobodies. The local paper ran a photo of Slaughter weeping on its front page. At the opening-day parade, Moon's car was showered with boos. At the ballpark, 'We Want Enos' signs were scattered in the crowd. Fans booed the unibrowed college boy who presumed to take Country Slaughter's place. Moon's first MLB at-bat: home run over the right-field roof. Silence. In ILB, We Want Enos activates whenever Moon plays in front of a hostile crowd or enters a hostile context — in those circumstances, his first AB of the game generates a +1 CON effective bonus (he always responds to the crowd by hitting).",
+      "note": "The Slaughter trade context, the booing, the 'We Want Enos' signs, and Moon's opening-day HR are documented in the SABR BioProject, the Baseball Hall of Fame CardCorner piece, and the Encyclopedia of Arkansas."
+    },
+    {
+      "tag": "The Last Out",
+      "desc": "October 8, 1959. Game 6. World Series. Los Angeles Dodgers lead the Chicago White Sox three games to two. Bottom of the ninth. The Dodgers lead 9-3. Luis Aparicio comes to bat. He hits a fly ball to left field. Wally Moon settles under it. He catches it. The 1959 World Series is over. Moon had also homered in the game — the sixth and final game of the Series, the clincher. He caught the last out and hit the last home run. In ILB, once per season in an elimination game, Moon may invoke The Last Out: if the Dodgers are leading in the final inning, Moon's DEF generates an Automatic Catch on any catchable ball in the outfield, ending the game.",
+      "note": "Moon's Game 6 HR and his catch of Aparicio's fly ball for the final out of the 1959 World Series are documented in multiple sources including Wikipedia and This Day in Baseball."
+    },
+    {
+      "tag": "Best Rookie Hitter I Ever Saw",
+      "desc": "Stan Musial said it in 1954 after watching Moon hit his way to the NL ROY Award over Ernie Banks and Hank Aaron: 'Moon is the best rookie hitter I ever saw because of his consistency against all types of pitching.' He won 17 of 24 ROY votes. In ILB, Musial's assessment is a permanent trait: Moon's CON never drops below 3 regardless of slump mechanics or opposing pitcher adjustments. The floor is the mentor's word. Musial said he was the best rookie hitter Musial had ever seen. That floor does not erode.",
+      "note": "Musial's quote and the 1954 ROY vote tally (Moon 17, Banks 4, Conley 2, Aaron 1) are documented in the SABR BioProject and the Baseball Almanac."
+    },
+    {
+      "tag": "The Educator",
+      "desc": "Wally Moon earned a bachelor's degree and a master's degree in administrative education from Texas A&M before his first MLB at-bat. His father had insisted his signing contract include a clause allowing him to return to school during minor league seasons. After baseball, he coached at John Brown University for ten years, managed in the minor leagues (winning the 1990 Carolina League championship with the Frederick Keys), and served as a minor league hitting coordinator. He published his autobiography in 2010. In ILB, the Educator trait generates a Roster Mentorship bonus: any player in the same outfield as Moon who is age 25 or under gains +0.5 CON for the duration of that shared roster period (Moon teaches what Musial taught him).",
+      "note": "Moon's Texas A&M master's degree, the contract clause his father negotiated, his post-baseball coaching career, and his autobiography are documented in the Encyclopedia of Arkansas and the SABR BioProject."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballpark",
+      "affinity": "SACRED",
+      "note": "The Los Angeles Memorial Coliseum, 1959. The final out of the World Series. The Moon Shot that cleared the 42-foot screen in the clinching game.",
+      "note_extra": "Source labeled 'LA Memorial Coliseum / 1959 World Series / Game 6 Home Run / Luis Aparicio Fly Ball Final Out / Moon Shots Inside-Out Swing / 251 Feet Left Field Screen / Last Run Ever In Coliseum / 37 of 49 HR In Coliseum 1959-1961 / NL Triples Leader 1959 / 4th MVP / Gold Glove 1960 First Dodgers OF' / affinity 'SACRED' — thirty-eighth SACRED in the set. The Coliseum is among the most specific ballpark SACREDs in the set: not Wrigley or Fenway or Ebbets but a converted football stadium with a 251-foot left-field wall and a 42-foot screen, a park that existed for baseball for only three seasons (1959-1961) and that Moon adapted to more completely than any other player. He invented a swing for it. He hit 37 of his 49 home runs there across those three years. He hit the last home run there in a World Series game and caught the last out there in World Series history. He scored the last run ever in Coliseum history. The park is gone. The adaptations remain. Ballpark domain."
+    },
+    {
+      "location": "College/University",
+      "affinity": "ORIGIN",
+      "note": "Texas A&M University. Bachelor's degree and master's degree in administrative education. All-Southwest Conference. Signed with the Cardinals with a clause allowing him to continue school. The education preceded and outlasted the baseball.",
+      "note_extra": "Source labeled 'Bay Arkansas / Named Wallace Wade After Football Coach / Texas A&M / Bachelor Degree / Master Degree Administrative Education / All-Southwest Conference Baseball / Basketball Letter Winner / Father Contract Clause Return To School / $6000 Signing Bonus 1950 / Uninvited Major League Camp 1954 / I Gambled on Everything / Wife Bettye Married 1951 / Newborn Child At Debut' / affinity 'ORIGIN' — forty-first ORIGIN in the set. Moon's is the most formally educated ORIGIN in the set: he had completed a full academic education, including graduate school, before his first professional at-bat in the major leagues. His father, from a family of educators, negotiated the school clause into the professional contract because education was not negotiable. Moon showed up at the Cardinals' major league camp in 1954 with a master's degree, a wife, and a newborn child — and told himself that if he didn't make the team, he would go into education and never look back. He made the team. He earned the degree first. College/University domain: the specific institution of his formation."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HAUNTED",
+      "note": "The Slaughter trade. The Cardinals publicly blamed Moon and Ennis for the 1958 fifth-place finish. The trade to the Dodgers was not even a straight-up swap — Phil Paine was thrown in, signaling Moon wasn't worth Gino Cimoli alone. He had bought a home in St. Louis.",
+      "note_extra": "Source labeled 'We Want Enos Opening Day 1954 / Slaughter Trade Two Days Before / Photo Slaughter Weeping Front Page / Cardinals Blamed Moon Ennis 1958 / Phil Paine Thrown Into Trade / Not Worth Gino Cimoli Even Swap / Bought Home St. Louis / Crushed By Trade / Loved St. Louis / Wanted Family Year Round / Insulted By Terms Of The Deal' / affinity 'HAUNTED' — eighteenth HAUNTED in the set. Moon's is the most layered HAUNTED in the set: first the Slaughter arrival context (the opening-day booing, the 'We Want Enos' signs, the photo of Slaughter weeping), then the 1958 public scapegoating alongside Del Ennis, then the trade itself — not a straight-up deal, Phil Paine included as if Moon alone wasn't worth Cimoli, the purchased St. Louis home he had to leave, the family he wanted near him year-round. The HAUNTED is structural: he was haunted first by who he replaced, then by being blamed for losing, then by being traded on terms that implied he wasn't worth even his direct counterpart. Hotel/Rest domain: the private cost of displacement."
+    },
+    {
+      "location": "Open Field/Stadium",
+      "affinity": "MAXIMUM",
+      "note": "Three WS rings. ROY over Banks and Aaron. First Dodgers OF Gold Glove. Inside-out swing invention. The last out of the 1959 World Series. Scored the last run in Coliseum history.",
+      "note_extra": "Source labeled 'Three World Series Rings / ROY 1954 17 of 24 Votes / Beat Banks 4 Votes Aaron 1 Vote / Gold Glove 1960 First Dodgers OF Ever / Moon Shot Inside-Out Swing Invention / 37 of 49 HR Coliseum / Last Out 1959 World Series Aparicio Fly Ball / Last Run Coliseum History / 4th NL MVP 1959 / NL Triples Leader 1959 / Twice Double Digits Doubles Triples HR SB Same Season' / affinity 'MAXIMUM' — thirteenth MAXIMUM in the set. Moon's is the most architecturally diverse MAXIMUM in the set: an offensive invention (the inside-out swing), a defensive record (first Dodgers outfielder to win the Gold Glove), a postseason record (three WS rings), a historical last (final out of the 1959 WS, last run in Coliseum history), and a debut record (first ML at-bat HR). No other player in the set accumulates MAXIMUM markers across that many distinct domains. Open Field domain: the achievements are spatial — the Coliseum geometry, the outfield territory, the World Series field."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "COMPLEX",
+      "note": "The Coliseum gave him 37 home runs in three years. Dodger Stadium took them away. 4 HR, .242 in 1962. The park-specific engineering did not transfer. The best rookie hitter Musial ever saw ended his career as a pinch-hitter with two WS at-bats.",
+      "note_extra": "Source labeled 'Coliseum 37 HR 1959-1961 / Inside-Out Swing Park-Specific / Dodger Stadium 1962 4 HR .242 / Park Moved Swing Became Liability / 2 Pinch Hit ABs 1965 WS / Asked To Be Traded After 1965 No Takers / Beat Banks And Aaron For ROY / Banks 4 Votes Aaron 1 Vote / Career 289 BA Not HOF / Musial Best Rookie Hitter He Ever Saw / Intelligence Over Power / Engineering Over Ability' / affinity 'COMPLEX' — twenty-first COMPLEX in the set. Moon's is the most situationally ironic COMPLEX in the set: he beat Ernie Banks and Hank Aaron for the 1954 Rookie of the Year Award (Banks would win two MVPs; Aaron would hit 755 home runs), and then he invented a swing that worked in one specific park for three years and stopped working the moment the park was replaced. The inside-out Moon Shot was the most brilliant piece of in-career adaptation in the set — and the most park-specific, most temporary, most dependent on a geometry that no longer exists. Community Events domain: the public acclaim and the public diminishment both occurred in community spaces — the ballpark, the award ceremony, the trade."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "We Want Enos — in hostile crowd contexts, first AB generates +1 CON effective bonus.",
+      "The Moon Shot — in any short-porch park (pull dimension within threshold), POW treated as 4 for pull-side HR attempts.",
+      "I Gambled on Everything — once per game, any base hit triggers extra-base attempt at SPD +1 effective.",
+      "The Last Out — once per season in an elimination game with a lead in the final inning, DEF generates an Automatic Catch on any catchable outfield ball."
+    ],
+    "cold_triggers": [
+      "Park geometry loss — when Moon plays in a non-Coliseum-equivalent park (no short pull dimension), Moon Shot deactivates and POW reverts to 3.",
+      "1962 pattern — after three seasons of Coliseum engineering, any sudden park change triggers a .242-equivalent performance degradation mechanic for the first season of adjustment.",
+      "Pinch-hit status — once Moon is removed from a starting role, CLU drops to 1 for postseason contexts (two at-bats in the 1965 WS is the floor)."
+    ],
+    "pressure_response": "He walked into the Cardinals' spring training camp in 1954 uninvited, with a master's degree and a newborn at home, and told himself he was gambling on everything. He faced the opening-day booing from fans who wanted Enos Slaughter back and hit a home run in his first at-bat. He was traded to a city he did not want to go to and invented a new way to hit in the park he was sent to. He caught the last out of the 1959 World Series after hitting a home run in the same game. The pressure response is consistent: adapt, improvise, perform, and do not make it obvious that you are doing any of those things."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "We Want Enos",
+      "type": "Debut",
+      "text": "April 13, 1954. Busch Stadium. Two days before opening day, the Cardinals had traded Enos Slaughter — 16 years a Cardinal, hustling Country Slaughter who left the dugout running and kept running — to the Yankees for three players. The local paper ran a photo of Slaughter weeping on its front page. At the opening-day parade, Moon's car was showered with boos. 'We Want Slaughter.' Now it is opening day. 'We Want Enos' signs. The fans are loud. Wally Moon, unibrowed, 24 years old, with a master's degree and a newborn at home, steps to the plate for his first major league at-bat. Home run over the right-field roof. He also homered in his final at-bat of the 1954 season. Between those bookends: .304 BA, 17 of 24 ROY votes, NL Rookie of the Year over Ernie Banks and Hank Aaron.",
+      "origin": "The Slaughter trade context, the 'We Want Enos' chants, and Moon's first-at-bat HR are documented in the SABR BioProject, the Encyclopedia of Arkansas, and the Baseball Almanac."
+    },
+    {
+      "title": "The Inside-Out Stroke",
+      "type": "Adaptation",
+      "text": "1959. The Los Angeles Memorial Coliseum. Right field: 440 feet. Left field: 251 feet, with a 42-foot screen. Wally Moon is a left-handed hitter. Left-handed pull hitters hit to right field. Right field at the Coliseum is a graveyard. So Moon invents something. He cuts across the ball against his natural pull motion, turning the inside-out, sending pop flies toward the short left-field screen instead of into the vast right-field cavern. The sportswriters call them Moon Shots. He hits 19 home runs in 1959, 20 in 1960, 10 in 1961 — 37 of those 49 in the Coliseum, most of them Moon Shots, most of them pop flies that would not reach warning track in any other park. 'Right field was death on left-handed hitters. Moon, a lefty, knew his future wasn't toward right field, so he invented the cleverly efficient inside-out stroke that allowed him to hit pop flies over the short left field screen.' The Coliseum closed for baseball in 1961. Dodger Stadium opened in 1962. Moon hit 4 home runs.",
+      "origin": "The Moon Shot swing, the Coliseum dimensions, Moon's Coliseum HR totals, and McNeil's description are documented in the Baseball Almanac and multiple sources."
+    },
+    {
+      "title": "The Last Out",
+      "type": "Game Action",
+      "text": "October 8, 1959. Game 6. World Series. Los Angeles Memorial Coliseum. The Dodgers lead the White Sox 9-3 in the bottom of the ninth. Moon has already homered in the game — the clinching game of the first World Series ever played in Los Angeles. Now Luis Aparicio comes to bat. He hits a fly ball to left field. Wally Moon settles under it. He catches it. The 1959 World Series is over. The Dodgers win. Moon scored the last run ever in Coliseum history. He hit the last home run in a World Series game at the Coliseum. He caught the last out.",
+      "origin": "Moon's Game 6 HR and Aparicio fly ball catch are documented in multiple sources. His having scored the last run in Coliseum history and his WS participation are documented."
+    },
+    {
+      "title": "He Had a Master's Degree",
+      "type": "Origin",
+      "text": "1954. Wally Moon is 24 years old, has a bachelor's degree and a master's degree in administrative education from Texas A&M, a wife named Bettye, and a newborn child at home. He has been assigned to Triple-A Rochester for another season. He shows up at the Cardinals' major league spring training camp instead. Manager Eddie Stanky does not send him away. Moon tells himself: 'I gambled on everything.' He makes the team. He wins the NL Rookie of the Year award over Ernie Banks and Hank Aaron. His father had negotiated a clause in his professional contract allowing him to return to school during the minor league seasons. Moon had used it completely. When Stan Musial says 'Moon is the best rookie hitter I ever saw because of his consistency against all types of pitching,' he is talking about a man who had planned to become an educator if the Cardinals did not keep him.",
+      "origin": "Moon's educational background, his father's contract clause, the uninvited spring training arrival, Musial's quote, and Moon's self-stated alternative career plan are documented in the Encyclopedia of Arkansas and the SABR BioProject."
+    },
+    {
+      "title": "Better Rookie Than Banks and Aaron",
+      "type": "Historic Fact",
+      "text": "1954. The National League Rookie of the Year Award. The sportswriters vote: Wally Moon receives 17 of 24 ballots. Ernie Banks receives 4. Gene Conley receives 2. Hank Aaron receives 1. Moon wins. Banks will win two NL MVP Awards and hit 512 home runs and be elected to the Baseball Hall of Fame. Aaron will hit 755 home runs and break Babe Ruth's all-time record and be elected to the Hall of Fame. Moon will finish with 142 home runs, three World Series rings, a Gold Glove, and no Hall of Fame plaque. In 1954, the sportswriters voted for the right man.",
+      "origin": "The 1954 ROY vote tally is documented in the Baseball Almanac (17 Moon, 4 Banks, 2 Conley, 1 Aaron)."
+    },
+    {
+      "title": "Dodger Stadium, 1962",
+      "type": "Decline",
+      "text": "1962. The Dodgers open Dodger Stadium. It is a pitcher's park. It does not have a 251-foot left-field wall or a 42-foot screen. Wally Moon's inside-out swing — the invention that produced 37 home runs in three Coliseum seasons — produces 4. He bats .242. He had said in March 1962, before the season: 'I think I will be all right. I adjusted once. I can adjust again.' He did not adjust again. The Coliseum was gone. The engineering did not transfer. He played three more seasons as a backup outfielder and pinch-hitter, winning two more World Series rings while contributing less. After the 1965 Series, he asked the Dodgers to trade him. They could find no takers. He retired.",
+      "origin": "Moon's 1962 decline, his March 1962 quote about adjusting, and the Dodger Stadium transition are documented in the Hall of Fame CardCorner piece and the SABR BioProject."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'0'', 169 lbs — the sinewy left-handed hitter from Bay, Arkansas, the one described in the SABR BioProject as 'unibrowed' at his debut. In 1959 he is 29 years old, at the peak of the Moon Shot years: two All-Star Games, 4th in MVP, World Series champion. The face of the adaptive thinker — the man who looked at the 440-foot right-field wall and invented a new way to hit instead.",
+    "attire": "Los Angeles Dodgers 1959 home whites — the interlocking LA on the cap, the clean Dodger home uniform. The left-handed batting stance, but specifically the inside-out stroke version: the bat cutting across the ball toward the left-field line rather than the natural pull trajectory. The Coliseum's massive screen should be visible in the background — the engineering context that made the Moon Shot possible.",
+    "mood": "Adaptive calm. The educator's composure. He had a master's degree and a backup career plan and he gambled on everything — not out of recklessness but out of precise calculation. The portrait should show the moment just before contact in the inside-out swing: the deliberate misdirection of the bat, the intelligence visible in the preparation.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. The Los Angeles Memorial Coliseum looming in the background — the screen above the left-field fence, the scale of the converted football stadium, the impossible geometry that Moon made productive. The last great park of the Coliseum era before Dodger Stadium replaced it.",
+    "reference": "Musial's quote as the character anchor: 'Moon is the best rookie hitter I ever saw because of his consistency against all types of pitching.' The art should reflect consistency — the same focused expression he brought to the 1954 opening-day booing and to the 1959 World Series final out. He did not vary the composure. The park varied. He did not."
+  }
+}

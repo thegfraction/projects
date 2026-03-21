@@ -1,0 +1,182 @@
+{
+  "card_type": "player",
+  "name": "Jim Kaat",
+  "nickname": "Kitty",
+  "year": 1966,
+  "team": "Minnesota Twins",
+  "league": "American League",
+  "era": "1960s",
+  "ilb_team": "Swingers 1960",
+  "position": "SP",
+  "bats": "L",
+  "throws": "L",
+  "height": "6-foot-4",
+  "weight": "205 lbs",
+  "born": "November 7, 1938 — Zeeland, MI",
+  "hof": "Inducted 2022 — Golden Days Era Committee (voted in on December 16, 2021 on 12 of 16 ballots). Inducted alongside Tony Oliva.",
+
+  "real_stats": {
+    "season": 1966,
+    "wins": 25,
+    "losses": 13,
+    "era": "2.75",
+    "innings_pitched": "304.2",
+    "complete_games": 19,
+    "shutouts": 3,
+    "strikeouts": 205,
+    "walks": 55,
+    "war": 7.2,
+    "all_star": 1,
+    "awards": "AL Pitcher of the Year (The Sporting News) 1966. Led AL in wins (25), complete games (19), innings pitched (304.2), and walks per nine innings. Fifth in AL MVP voting. The only Cy Young Award in existence was given for both leagues in 1966 — Sandy Koufax won it unanimously; it was the last year of the combined award. Kaat would have won the AL Cy Young had the award existed separately. 16 consecutive Gold Glove Awards (1962-1977) — record for a pitcher, tied with Brooks Robinson for most consecutive Gold Gloves at any position (Maddux later won 18 total). Career: 283 wins (25 years, five teams), 3.45 ERA, 4,530.1 IP (25th all-time), 2,461 K, 50.5 WAR. Three 20-win seasons (1966: 25-13; 1974: 21-13; 1975: 20-14). 25-year career tied Greg Maddux's record as third-longest pitching career in ML history (behind Nolan Ryan 27, Tommy John 26). Seven Emmy Awards as broadcaster. Used the same baseball glove for 15 consecutive seasons. Led AL in starts twice (42 in 1965, 41 in 1966). Pitched in games under seven different U.S. presidents (Eisenhower through Reagan). Last player from the 1950s to retire (July 6, 1983). Jim Kaat on his pitching philosophy: 'I believe low and away is better than high and tight.' 'I believe the fastball is still the best pitch in baseball because it's the only pitch you can throw to all corners of the strike zone.' 'I believe in throwing every day. The arm is a muscle, and you strengthen a muscle by using it.'",
+    "world_series": "Two World Series. 1965 WS (lost to Los Angeles Dodgers in 7): started Games 2, 5, and 7 — all three against Sandy Koufax. Won Game 2 (complete game, 5-1, driving in two runs himself in the eighth). Lost Game 5 (gave up 2 runs in the 1st and 3rd, relieved). Lost Game 7 (on two days' rest, 3 hits and 2 runs, pulled after the 4th inning; Koufax threw a shutout). 1982 WS (won with St. Louis Cardinals over Milwaukee Brewers in 7): pitched in Games 1-4 as a reliever, allowed 1 run in 2⅓ innings. His only ring, at age 43, after 24 seasons. Record for longest wait before winning a championship in any of the four major North American sports. 'When Bruce Sutter threw a fastball past Gorman Thomas in Game 7... that's about as big a thrill as you can get. It far surpasses individual thrills.'"
+  },
+
+  "ilb_stats": {
+    "ovr": 10,
+    "stf": 3,
+    "ctl": 4,
+    "sta": 4,
+    "def": 4,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "stf": "283 career wins, 25 in 1966, three 20-win seasons. His best pitch was the fastball — 'the only pitch you can throw to all corners of the strike zone.' Not a dominant strikeout pitcher (205 K in 304.2 IP in 1966 is solid but not elite), but an ace-level starter across 15 consecutive double-digit-win seasons from 1962-1976. STF 3 reflects the frontline starting durability rather than single-season dominance.",
+    "ctl": "55 BB in 304.2 IP in 1966 — excellent control. Career K:BB well above 2.0 in his peak years. But he led the AL in wild pitches and hit batters in 1961 and 1962, mastered the problem, and became one of the most economical pitchers of his era. In 1973-74, Johnny Sain at the White Sox taught him the quick-pitch delivery — pitching from the stretch almost immediately, before hitters could fully settle in. This revived his career and produced two 20-win seasons at age 35-36. CTL 4 is the mastered-control tier: the pitcher who solved the wild-pitch problem and then turned command into an art form.",
+    "sta": "4,530.1 career innings — 25th all-time. Led AL in starts twice. Pitched 303.2 innings at age 36 in 1975. Used the same glove for 15 seasons. Came back from a UCL tear in 1967 — 'the Tommy John injury before Tommy John surgery was invented' — without surgery. Pitched until age 44. At the time of his retirement, the longest pitching career in ML history. STA 4 is the set's durability tier for pitchers — he had a healthy arm for nearly a quarter century.",
+    "def": "16 consecutive Gold Gloves (1962-1977) — record for a pitcher, tied with Brooks Robinson at 3B for most consecutive Gold Gloves at any position. The Twins Daily piece notes Robinson and Kaat were 'the all-time leaders in consecutive Gold Gloves.' Twice completed a shutout and hit a home run in the same game. DEF 4 is the only DEF 4 for a pitcher in the full ILB set. The 16 consecutive Gold Gloves justify it unambiguously: no pitcher in baseball history matched this defensive consistency.",
+    "clu": "1965 WS: won Game 2 over Koufax (a genuine achievement), lost Games 5 and 7. 1982 WS ring in relief at age 43 — the ring he had waited 24 seasons for. Pitched the pennant-clinching game against the Senators in 1965 (complete game, 2-1). CLU 2 reflects the ring, the one WS win over Koufax, and the honest accounting of the two WS losses."
+  },
+
+  "personality": {
+    "leadership_style": "The workhorse. He believed in throwing every day. He believed the arm is a muscle and you strengthen a muscle by using it. He used the same glove for 15 seasons. He pitched through a UCL tear in 1967 without surgery and came back and won 20 games twice after age 35. He sided publicly with Johnny Sain over manager Sam Mele in 1966 — took the side of the pitcher over the former outfielder — and wrote a letter to the Minneapolis Star in Sain's support after Sain was fired. He was not a diplomat. He was a pitcher who had convictions about pitching.",
+    "temperament": "Studious, durable, and specific. His father collected baseball card guides going back to 1900. Kaat grew up studying the history of the game. He went to Hope College for one year — five miles from his hometown of Zeeland, Michigan — and gave up one earned run in an entire college season. Then he grew from 5-foot-10 to 6-foot-4 and professional scouts started noticing him. He had a philosophy about the fastball and the strike zone and arm care, and he stuck to it for 25 years. He wanted to pitch until he was 50.",
+    "work_ethic": "He appeared in 898 games. He started 625 of them. He pitched 4,530.1 innings across 25 seasons. He led the AL in starts twice. After his UCL tear in 1967, he had to learn to pitch a different way over three to four years and came back to win 20 games again. He was 43 years old when he earned his only World Series ring. He was the last player from the 1950s to retire in 1983. The Cardinals released him on July 6, 1983 — he was 44 years old. Baseball Reference says he was simply released; he had to be told to stop.",
+    "lifestyle": "Zeeland, Michigan — Dutch farming country, a community settled by Dutch immigrants. His grandparents were born in the Netherlands. He and Bert Blyleven said: 'If you ain't Dutch, you ain't much.' He would have played for the Netherlands WBC team had the WBC existed during his career. He lived in Zeeland and spent winters in Stuart, Florida after his playing career. His wife MaryAnn died in July 2008 after 22 years of marriage. He created a memorial fund to put lights on the baseball fields in Zeeland in her honor. He married his fourth wife, Margie, in 2009. Seven Emmy Awards as a broadcaster. He followed Pete Rose's invitation to coach the Reds' pitching staff in 1984-85 and guided Tom Browning to a 20-9 rookie season. 'At least I can say I had a 20-game winner every year I coached.'",
+    "dark_side": "Third inning. Second-to-last game of the 1967 season. Fenway Park. The Twins are leading 1-0. The pennant is within reach. Kaat felt something pop in his left elbow. He came out of the game. The Red Sox scored six runs with relief pitching. Four of the runs were driven in by Carl Yastrzemski, who finished the season as the Triple Crown winner and AL MVP. The Twins lost that game and the next. Boston won the pennant on the final day. It was a UCL tear — 'the Tommy John injury before Tommy John surgery was invented.' He had to learn to pitch a different way. It took three to four years. He was 28 years old when the elbow went. He never made it back to the World Series with the Twins."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Quick Pitch",
+      "desc": "August 1973. Calvin Griffith placed Jim Kaat on waivers. The White Sox claimed him. In Chicago, Kaat was reunited with pitching coach Johnny Sain — the same man he had publicly defended in a letter to the Minneapolis Star when Sain was fired by the Twins in 1966. Sain helped Kaat modify his pitching motion to a quick-pitch delivery: he would pitch from the stretch almost immediately, before hitters could fully settle in, eliminating their timing. At age 35, Kaat went 21-13 in 1974 and 20-14 in 1975, his two best win totals since 1966, at an age when most starters had already retired. In ILB, The Quick Pitch is the set's batter-timing disruption trait: once per game, Kaat may declare a Quick Pitch at-bat — the opposing batter's CON is treated as 1 tier lower for that plate appearance (they haven't set their feet; the pitch is already on its way).",
+      "note": "Sain's modification of Kaat's delivery to a quick-pitch at the White Sox, and its role in Kaat's two 20-win seasons at age 35-36, are documented."
+    },
+    {
+      "tag": "The Same Glove",
+      "desc": "Jim Kaat won 16 consecutive Gold Glove Awards from 1962 to 1977. He won the first of them with the glove he would use for the next 15 seasons — the same baseball glove, maintained and repaired, through all of it. The glove is the most material expression of Kaat's continuity: the same tool, the same mechanics, the same philosophy, the same arm. He believed in throwing every day. He believed in consistency over novelty. He used the same glove until it was no longer usable. In ILB, The Same Glove is the set's fielding-consistency trait: whenever Kaat fields a batted ball hit directly back at the mound or toward the third-base line, his DEF is treated as 5 instead of 4 (the glove is part of him; it has been that long).",
+      "note": "Kaat's use of the same baseball glove for 15 consecutive seasons is documented in Wikipedia and multiple sources."
+    },
+    {
+      "tag": "The Helicopter Start",
+      "desc": "April 12, 1965. Opening Day. Metropolitan Stadium, Minneapolis. An ice and snow storm is keeping thousands of fans away but the game is not cancelled. Jim Kaat, scheduled to start for the Twins against the Yankees, is stranded outside the city in the storm. The Twins send a helicopter. He lands in the stadium parking lot. He walks into the clubhouse. He starts the game. Minnesota wins 5-4 in 11 innings. Jim Bouton starts for the Yankees. This is the team that will win the American League pennant that year. In ILB, The Helicopter Start is the set's extreme-conditions activation trait: in any game where weather, travel, or external circumstances create a pre-game complication, Kaat's STF is treated as 4 instead of 3 for his first three innings (the circumstances focus him; he has already done the hard part).",
+      "note": "The April 12, 1965 helicopter start is documented in the This Day In Baseball and SABR sources."
+    },
+    {
+      "tag": "Koufax Three Times",
+      "desc": "1965 World Series. Minnesota Twins vs. Los Angeles Dodgers. Jim Kaat starts Games 2, 5, and 7. All three times, Sandy Koufax is the opposing pitcher. In Game 2, Kaat gets the better of Koufax: a complete game, 5-1 victory on a soaked field at Metropolitan Stadium, Kaat himself driving in two runs in the eighth inning. In Games 5 and 7, Koufax is better. In Game 7, Koufax throws a shutout on two days' rest and the Twins are eliminated. Koufax wins the WS MVP. Kaat went one-and-two against the best pitcher of his generation in the World Series. In ILB, Koufax Three Times is the set's matched-greatness trait: in any postseason game where Kaat faces the opposing team's ace (the designated highest-STF/OVR pitcher), his own STF is treated as 4 instead of 3 for that start (the scale of the opponent raises his level).",
+      "note": "Kaat's three Game 2/5/7 starts in the 1965 WS all against Koufax, his Game 2 complete game win, and the Game 7 Koufax shutout are documented."
+    },
+    {
+      "tag": "Something Popped",
+      "desc": "October 1, 1967. Second-to-last game of the season. Fenway Park. The Twins lead 1-0 in the third inning, one game away from clinching the American League pennant. Jim Kaat feels something pop in his left elbow. He comes out of the game. Red Sox relieve: six runs allowed, four by Carl Yastrzemski. The Twins lose. They lose the next day too. Boston wins the pennant on the final day by one game. Kaat's diagnosis: a torn UCL — 'the Tommy John injury before Tommy John surgery was invented.' He would need three to four years to learn to pitch differently before he was back to normal. In ILB, Something Popped is the set's most specific season-ending injury mechanic: in any season where Kaat makes 35+ starts, there is a 1-in-6 roll in his final three starts; on a triggered result, he is removed in the third inning of that game and loses STA effective tier for the following season.",
+      "note": "The third-inning elbow pop on October 1, 1967, the six-run inning with Yastrzemski's four RBI, and the Twins' pennant loss are documented."
+    },
+    {
+      "tag": "If You Ain't Dutch",
+      "desc": "Jim Kaat's grandparents were born in the Netherlands. He grew up in Zeeland, Michigan — a Dutch farming community with a Dutch Reformed church on every other block, Dutch names on the storefronts, and a Dutch sensibility about work and consistency and getting the job done without making a fuss. He and his Twins teammate Bert Blyleven — born in Utrecht, Netherlands — had a saying: 'If you ain't Dutch, you ain't much.' Kaat said he would have played for the Netherlands national baseball team if the World Baseball Classic had existed during his career. The Dutch farming community of Zeeland gave him his parents — the ones who never made him the center of attention, never let him think too much of himself, always made the games feel like ordinary events worth doing well. In ILB, If You Ain't Dutch is the team-steady trait: in any season Kaat starts 30+ games, the Swingers 1960's STA floor rises by 0.5 across the rotation (his presence in the rotation communicates the standard — you throw every day, you use the same glove, you work).",
+      "note": "Kaat's Dutch heritage, the Zeeland farming community, the Blyleven 'if you ain't Dutch' saying, and his parents' approach to his career are documented."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballpark",
+      "affinity": "SACRED",
+      "note": "Metropolitan Stadium / the 1965 pennant clincher / the helicopter start / the 1965 WS Game 2 win over Koufax / 1966 AL Pitcher of the Year with no Cy Young to show for it.",
+      "note_extra": "Source labeled 'Metropolitan Stadium Minneapolis / 1965 WS Game 2 Complete Game Win 5-1 vs Koufax / September 26 1965 Pennant Clincher Complete Game 2-1 vs Senators Zimmer Final K / April 12 1965 Opening Day Helicopter Start Ice Storm / 1966 25-13 2.75 ERA 304.2 IP 19 CG AL Leader / AL Pitcher Year Sporting News No Cy Young Only One Existed Koufax Won / 1965 Pennant Clincher Twins First WS Minnesota / 16 Consecutive Gold Gloves 1962-1977 Pitcher Record / Same Glove 15 Seasons / 25 Year Career Four Decades Seven Presidents / HOF 2022 Golden Days Era Committee' / affinity 'SACRED' — fifty-third SACRED in the set, eleventh for the Swingers 1960. Kaat's is the most career-spanning SACRED in the set: Metropolitan Stadium is the place where he landed by helicopter for Opening Day, pitched the pennant clincher, beat Koufax in Game 2, and posted his best season without a Cy Young to show for it. The one combined award going to Koufax for 1966 is the SACRED's specific injustice — he was the best pitcher in the AL and received the Sporting News award and nothing else. Ballpark domain."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Zeeland, Michigan / Dutch grandparents / father's baseball card collection going back to 1900 / Hope College one year / 'I had the perfect parents for an athlete.'",
+      "note_extra": "Source labeled 'Zeeland Michigan November 7 1938 / Grandparents Born Netherlands / Dutch Farming Community / Father Collected Baseball Card Guides Back To 1900 / Jim Studied History Of Game Encyclopedic Knowledge / Perfect Parents Athlete Never Made Him Center Attention / Mother Saw Him Pitch Once 1965 WS Game 2 / Father Attended Youth Games Far Down Line Far From Action / Hope College Holland Michigan Five Miles Away / One Year College Gave Up One Earned Run All Season / Grew From 510 To 64 That Year / Multiple ML Teams Offered Contracts / Signed Washington Senators 4000 Dollars 1957 / First Zeeland High School Graduate Reach Majors' / affinity 'ORIGIN' — fifty-sixth ORIGIN in the set, eighth for the Swingers 1960. Kaat's is the most Dutch-specific ORIGIN in the set: the Zeeland farming community, the father's card collection going back to 1900 (the source of his encyclopedic baseball knowledge), and the parents who never made him the center of attention. The mother who saw him pitch exactly once — the 1965 WS Game 2 win over Koufax — is the set's most specifically documented parental attendance record. Community Events domain."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HAUNTED",
+      "note": "October 1, 1967 — third inning, something popped, the pennant lost. Three to four years learning to pitch differently. The 1965 WS losses to Koufax in Games 5 and 7. Calvin Griffith's waiver. 24 seasons without a ring.",
+      "note_extra": "Source labeled 'October 1 1967 Third Inning Elbow UCL Tear / Tommy John Injury Before Tommy John Surgery / Something Popped / Twins Led 1-0 Pennant One Game Away / Six Runs Red Sox Yastrzemski Four RBI / Lost Pennant Final Day / Three To Four Years Back To Normal / 1965 WS Loss Koufax Game 5 And Game 7 / Game 7 Pulled Fourth Inning On Two Days Rest / Calvin Griffith Waiver August 1973 At Age 34 Thought Career Over / 24 Seasons Before First Ring Record Any Four Major Sports / Never Returned WS Twins' / affinity 'HAUNTED' — twenty-eighth HAUNTED in the set, sixth for the Swingers 1960. Kaat's is the most pennant-specific HAUNTED in the set: the third inning of October 1, 1967, is the set's most precisely timed career moment of physical failure. He was one inning from leaving the game in a position to clinch the pennant. The elbow ended the inning. Yastrzemski drove in four runs. The pennant went to Boston. Hotel/Rest domain."
+    },
+    {
+      "location": "Open Field/Stadium",
+      "affinity": "MAXIMUM",
+      "note": "16 consecutive Gold Gloves (pitcher record, tied with Brooks Robinson). 25-year career spanning four decades. Seven U.S. presidents. Last from the 1950s to retire. DEF 4 pitcher.",
+      "note_extra": "Source labeled '16 Consecutive Gold Gloves 1962-1977 Pitcher Record / Tied Brooks Robinson Most Consecutive Any Position / 25 Year Career Four Decades Seven Presidents / At Retirement Longest Pitching Career ML History / Third All-Time Behind Ryan 27 Johnson 26 / Last Player From 1950s Still Active Retired July 1983 / One Of 29 Players Four Decade Appearance / 283 Wins 4530 IP 2461 K 50.5 WAR / Record Largest Gap Between 20-Win Seasons 8 Years 1966-1974 Until Cone 1998 / 24 Seasons Before Ring Record Four Major Sports North America / HOF 2022 Inducted Same Day Tony Oliva' / affinity 'MAXIMUM' — twenty-fifth MAXIMUM in the set, sixth for the Swingers 1960. Kaat's is the most duration-based MAXIMUM in the set: 25 years, four decades, seven presidents, and 16 consecutive Gold Gloves as a pitcher — the record Maddux eventually broke in total count but never matched consecutively. The DEF 4 for a pitcher is unprecedented in the set. Open Field domain."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "The Quick Pitch — once per game, opposing batter's CON is treated as 1 tier lower for that plate appearance.",
+      "The Same Glove — on any batted ball directly back at the mound or toward the third-base line, DEF treated as 5 instead of 4.",
+      "The Helicopter Start — in any game with pre-game weather/travel complication, STF treated as 4 for first three innings.",
+      "Koufax Three Times — when facing the opposing team's highest-STF/OVR ace in any postseason start, STF treated as 4.",
+      "If You Ain't Dutch — in any season Kaat makes 30+ starts, the Swingers 1960's rotation STA floor rises by 0.5.",
+      "Something Popped (inverse) — after any arm injury recovery season, Kaat's STF rises by 0.5 the following season (he learned to pitch a different way; he came back)."
+    ],
+    "cold_triggers": [
+      "Something Popped — in any season of 35+ starts, 1-in-6 roll in final three starts; triggered result removes him in the third inning and drops STA effective tier for the following season.",
+      "STF 3 baseline — not the overpowering tier; command and durability are the weapons, not raw stuff.",
+      "1961-62 wild-pitch pattern — in his first full season with any new team, Kaat's CTL is treated as 3 instead of 4 (the control took time to transfer to new context; it comes back)."
+    ],
+    "pressure_response": "Game 2. 1965 World Series. Metropolitan Stadium. Sandy Koufax is the opposing pitcher. The field is still soaked from the overnight rain. Through five scoreless innings, both men hold. Then the Twins break through in the sixth. Kaat drives in two insurance runs himself in the eighth. He completes the game, 5-1. His mother — who attended no other games during his career — is in the stands. It is her one game. Kaat beats Koufax. The response to maximum pressure: the helicopter arrives, he starts the game. The pennant race narrows to one inning and he takes the ball. Koufax three times, and he wins one of them."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Helicopter Start",
+      "type": "Game Action",
+      "text": "April 12, 1965. Opening Day. Metropolitan Stadium, Minneapolis. An ice and snow storm has kept thousands of fans away, but the game has not been cancelled. Jim Kaat, scheduled to start for the Twins against the Yankees, is stranded in the storm outside the city. The Twins send a helicopter. It lands in the stadium parking lot. Kaat walks from the parking lot to the clubhouse, gets dressed, and starts the game. Minnesota wins 5-4 in eleven innings. Jim Bouton starts for the Yankees. This is the year the Twins will win their first American League pennant.",
+      "origin": "The Opening Day 1965 helicopter start is documented in the This Day In Baseball piece."
+    },
+    {
+      "title": "Koufax Three Times",
+      "type": "Historic Feat",
+      "text": "1965 World Series. Games 2, 5, and 7. All three times Kaat starts, Sandy Koufax is on the other side of the diamond. In Game 2, on a soaked field at Metropolitan Stadium, Kaat gets the better of him — a complete game, 5-1, with Kaat himself driving in two runs in the eighth inning. His mother is in the stands. She has never attended one of his games before; this is the one she chose. In Games 5 and 7, Koufax is better. In the end, Koufax throws a shutout in Game 7 on two days' rest and wins the World Series MVP. Kaat's record against the best pitcher of his generation in the World Series: 1-2. Sometimes, the other team just performs better.",
+      "origin": "Kaat's three WS starts all against Koufax, the Game 2 complete-game win, his mother's presence, and the Game 7 Koufax shutout are documented."
+    },
+    {
+      "title": "Something Popped",
+      "type": "Consequence",
+      "text": "October 1, 1967. Second-to-last game of the season. Fenway Park. The Minnesota Twins lead 1-0 in the third inning. They are one win from clinching the American League pennant. Jim Kaat is on the mound. He feels something pop in his left elbow. He comes out of the game. Six runs score. Four are driven in by Carl Yastrzemski, who will finish the season winning the Triple Crown and the AL MVP. The Twins lose. They lose the next day too. Boston wins the pennant on the last day. Kaat is 28 years old. He has a torn UCL. He describes it as 'the Tommy John injury before Tommy John surgery was invented.' He will need three to four years to learn to pitch a different way. He does. He wins 20 games again, twice.",
+      "origin": "The third-inning elbow pop, Yastrzemski's four RBI, the pennant loss, and Kaat's UCL-tear description are documented."
+    },
+    {
+      "title": "The Quick Pitch",
+      "type": "Character",
+      "text": "August 1973. Calvin Griffith places Jim Kaat on waivers. He is 34 years old and the Twins believe his career is over. The White Sox claim him. In Chicago, Kaat finds Johnny Sain — the pitching coach he publicly defended in a letter to the Minneapolis Star in 1966 when Sain was fired by the Twins. Sain modifies Kaat's pitching motion: a quick-pitch delivery, a release from the stretch almost before the hitter can fully settle. At 35, Kaat goes 21-13. At 36, he goes 20-14. He pitches until he is 44. Calvin Griffith was wrong.",
+      "origin": "Kaat's waivers to the White Sox, reunion with Sain, the quick-pitch delivery modification, and the two 20-win seasons at 35-36 are documented."
+    },
+    {
+      "title": "The Ring at 43",
+      "type": "Legacy",
+      "text": "October 20, 1982. St. Louis Cardinals vs. Milwaukee Brewers. World Series, Game 7. Bruce Sutter throws a fastball past Gorman Thomas for the final out. The Cardinals are World Series champions. Jim Kaat is 43 years old. He has been in professional baseball for 25 seasons. He has never won a World Series. He pitched in the first four games of this series out of the bullpen and allowed one run in two and a third innings. 'When Bruce Sutter threw that fastball past Gorman Thomas,' Kaat said later, 'that's about as big a thrill as you can get. It far surpasses individual thrills.' It is the longest wait before winning a championship in any of the four major North American sports. He waited 24 seasons for this.",
+      "origin": "Kaat's 1982 WS ring at 43, his four-game relief appearances, the Sutter strikeout, and the 24-season wait record are documented."
+    },
+    {
+      "title": "The Letter to the Minneapolis Star",
+      "type": "Character",
+      "text": "1966. Minnesota Twins pitching coach Johnny Sain and manager Sam Mele have been at war. Sain is the former major-league pitcher; Mele is the former outfielder. When Sain is fired, Jim Kaat chooses sides. He writes a letter to the Minneapolis Star in support of Sain. The letter does not sit well with Mele. It does not sit well with coach Billy Martin. Kaat had gone 25-13 that year — the best record in the American League. He would have won the Cy Young if one existed for the AL alone. He takes the side of the pitching coach who understood the craft, against the manager who did not. He is not fired. He pitches eight more seasons for the Twins.",
+      "origin": "Kaat's public letter supporting Sain, Sain's firing by Mele, the management struggle, and its effect on Kaat's relationship with Mele and Martin are documented in the SABR BioProject."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'4'', 205 lbs — the strapping Dutch left-hander from Zeeland, Michigan who pitched in four decades and used the same glove for 15 seasons. In 1966 he is 27 years old, at his statistical peak: 25-13, 2.75 ERA, best pitcher in the American League, no Cy Young to show for it because Koufax won the only one that existed. The face of the man who landed by helicopter to start Opening Day, who beat Koufax in the World Series, and who came back from a UCL tear and won 20 games again at 35. The aw-shucks Dutch work ethic from Zeeland, six foot four, throwing every day.",
+    "attire": "Minnesota Twins road grays — the 1966 uniform, the TC on the cap, number 36. The left-hander's delivery: the long arm coming over the top, the quick release before the hitter can settle, the fastball going to all corners of the strike zone. Metropolitan Stadium's outfield visible at distance — the place where the helicopter landed, where the pennant was clinched, where the 1965 WS Game 2 was won.",
+    "mood": "Methodical velocity. He was not showy. He was consistent. The same glove for 15 seasons. The same pitching philosophy for 25 years. The quick-pitch delivery is a precision tool, not a trick. The mood is the working knowledge: low and away is better than high and tight, the fastball goes to all corners, the arm is a muscle and you strengthen it by using it.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. The Swingers 1960 palette. Metropolitan Stadium's open-air Minnesota light in the background. The card year is 1966 — the peak season, the Sporting News Pitcher of the Year, the AL's best pitcher with no Cy Young because Koufax won the only one. The art shows the pitcher at the top of the arc, the ball not yet released, the same glove that won 16 consecutive Gold Gloves wrapped around the seams.",
+    "reference": "Kaat's own pitching philosophy as the art anchor: 'I believe in throwing every day. The arm is a muscle, and you strengthen a muscle by using it.' The art should show the pitcher at work — not the helicopter, not the ring, not the elbow pop. The work. The 6'4'' left-hander from Zeeland who used the same glove for 15 seasons and threw every day."
+  }
+}

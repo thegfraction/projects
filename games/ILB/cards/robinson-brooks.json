@@ -1,0 +1,190 @@
+{
+  "card_type": "player",
+  "name": "Brooks Robinson",
+  "nickname": "The Human Vacuum Cleaner / Mr. Oriole",
+  "year": 1964,
+  "team": "Baltimore Orioles",
+  "league": "American League",
+  "era": "1960s",
+  "ilb_team": "Swingers 1960",
+  "position": "3B",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'1\"",
+  "weight": "180 lbs",
+  "born": "May 18, 1937 — Little Rock, AR",
+  "died": "September 26, 2023 — Baltimore, MD",
+  "hof": "Inducted 1983 — first ballot, 91.98% of votes. One of 16 players honored on the first ballot since the inaugural class of 1936.",
+
+  "real_stats": {
+    "season": 1964,
+    "batting_avg": ".317",
+    "obp": ".368",
+    "slg": ".521",
+    "ops": ".889",
+    "hits": 194,
+    "doubles": 35,
+    "triples": 3,
+    "home_runs": 28,
+    "rbi": 118,
+    "runs": 82,
+    "war": 7.5,
+    "all_star": 1,
+    "awards": "AL MVP 1964 — 18 of 20 first-place votes; Mickey Mantle finished second. Career high in batting average (.317), home runs (28), and RBI (118 — AL leader). Led the AL in RBI, sacrifice flies, and virtually all defensive statistics (putouts, assists, chances, total chances, double plays, and fielding percentage at third base). SABR biographer Maxwell Kates: 'Robinson had perhaps his best season in 1964.' Sporting News Major League Player of the Year 1964. 16 consecutive Gold Glove Awards (1960-1975) — record for consecutive Gold Gloves by a position player, tied for second-most all time behind Greg Maddux. Led AL in fielding percentage at 3B a record 11 times. 18-time AL All-Star (1960-1974, 1975). 2,870 career games at 3B — the most games by any player at a single position in Major League Baseball history. Career postseason: .303, 5 HR, 22 RBI in 39 games. 1970 World Series MVP (.429 BA, 2 HR, 6 RBI; his defense made the series). Frank Robinson on watching Brooks in the outfield: 'He was the best defensive player at any position. I used to stand in the outfield like a fan and watch him make play after play. I used to think, Wow! I can't believe this.' Pete Rose on the 1970 WS: 'Brooks Robinson belongs in a higher league.' Sparky Anderson: 'I'm beginning to see Brooks in my sleep. If I dropped this paper plate, he'd pick it up on one hop and throw me out at first.' Gordon Beard at Robinson's retirement banquet: 'In New York, they named a candy bar after Reggie Jackson. Here in Baltimore, we name our children after Brooks Robinson.'",
+    "world_series": "Four World Series (1966, 1969, 1970, 1971). Two rings: 1966 (swept Los Angeles Dodgers — Brooks and Frank Robinson hit back-to-back HR off Drysdale in Game 1) and 1970 (defeated Cincinnati Reds in 5 games — Robinson named WS MVP). In the 1970 WS, batted .429 with 2 HR and 6 RBI, but his defense was the story: diving backhanded stop of Lee May's sixth-inning smash in Game 1; robbing Tony Perez and Johnny Bench with diving catches in Game 3; four hits and a HR in Game 4; a diving backhanded catch of a Bench line drive in the ninth inning of Game 5 to help secure the series. Lee May gave him the 'Human Vacuum Cleaner' nickname after Game 1. Johnny Bench: 'I made Brooks the MVP of that World Series. I hit 14 rockets at him, and he caught every one of them.' Career postseason BA: .303 — he was better in October than in the regular season."
+  },
+
+  "ilb_stats": {
+    "ovr": 10,
+    "con": 3,
+    "pow": 2,
+    "spd": 0,
+    "def": 5,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "con": "Career .267 BA. Peak .317 in 1964. Hit .303 in 1962, .297 in 1965, .269 in 1966. He spent extra time with hitting coach Gene Woodling in 1964 spring training to improve his offense, and responded with his career year. CON 3 reflects the reliable contact hitter who was never elite at the plate but was consistently productive — the .267 career BA anchored by several .290-.317 seasons, and 2,848 career hits over 23 seasons.",
+    "pow": "Career 268 HR. Peak 28 HR in 1964 and 23 HR in multiple other seasons. The power was genuine but secondary — his value was in contact, defense, and RBI production rather than home run output. He hit back-to-back HR with Frank Robinson off Drysdale in the 1966 WS. POW 2 reflects the moderate-power corner infielder whose excellence was elsewhere.",
+    "spd": "Lindsay Deal's 1955 scouting letter to Paul Richards: 'He's no speed demon.' SPD 0.",
+    "def": "16 consecutive Gold Gloves (1960-1975). Record for consecutive Gold Gloves by a position player. Most games by any player at a single position in ML history (2,870 at 3B). Led AL in fielding percentage at 3B 11 times. 1970 WS MVP — a World Series essentially won by defensive plays no one else could have made. Frank Robinson called him the best defensive player at any position. Lee May named him 'The Human Vacuum Cleaner.' Pete Rose said he belonged in a higher league. DEF 5 is the set's maximum defensive rating, reserved for the greatest defensive performance in the set at any position. Brooks Robinson is the only player in either ILB team to receive it. He is the universal consensus choice as the greatest defensive third baseman in baseball history.",
+    "clu": "Two WS rings (1966, 1970). 1970 WS MVP. Four WS appearances. Career postseason BA .303 — higher than his regular season average. He was better in October. CLU 3 reflects the postseason performer across four World Series, three rings, and the most documented single defensive World Series in baseball history."
+  },
+
+  "personality": {
+    "leadership_style": "Mr. Oriole. He was the franchise from 1955 to 1977 — 23 seasons, one team, the centerpiece of four pennant winners and two World Series champions. His leadership was the daily example: the work ethic in the field, the consistent presence in the lineup, the courtesy to everyone who approached him. 'When fans ask Brooks Robinson for his autograph,' remembered broadcaster Chuck Thompson, 'he complied while finding out how many kids you have, what your dad does, where you live, how old you are, and if you have a dog.' In the clubhouse, he was the standard. In the outfield, Frank Robinson watched him 'like a fan.'",
+    "temperament": "Aw-shucks. Disarming. Genuine. The Arkansas twang that never left. He was ambidextrous — he ate and wrote with his left hand, threw with his right — and Davey Johnson ate and wrote left-handed for a full year after noticing this, trying to absorb the quality. He met his wife Connie when she was a flight attendant on an Orioles team flight: he kept ordering iced teas until he ended up helping her in the galley. He was, as the SABR biographer wrote, a man whose 'success did not compromise his integrity or upstanding character.' He was never performing the courtesy. It was who he was.",
+    "work_ethic": "He played 2,870 games at third base — more games at a single position than any player in Major League history. He won 16 consecutive Gold Gloves. He missed only two innings of the Orioles' 163-game season in 1964. He bounced between the majors and minors in his early years — struggling at the plate in 1957 and 1959 — and responded each time by working harder. He spent extra time with hitting coach Gene Woodling in 1964 spring training and had his career year. He played into his late 60s at the Orioles' fantasy camp because he loved the game.",
+    "lifestyle": "Little Rock, Arkansas → Baltimore, Maryland, for life. He moved to Baltimore and stayed. He became the most beloved sports figure in a city that also had Johnny Unitas and Cal Ripken. He ran a sporting goods store. He co-owned minor league teams. He did television commentary for Orioles games in 1978-79. He served as president of the Major League Baseball Players Alumni Association from 1989 until shortly before his death in 2023 — an organization he helped found to support retired players with post-career benefits and promote youth baseball. He signed autographs on any piece of memorabilia available, including a famous Norman Rockwell print of him doing the same for a young boy. The print was titled 'Gee, Thanks Brooks.'",
+    "dark_side": "There was no dark side. This is documented. The SABR biographer used the phrase 'success did not compromise the integrity or upstanding character of Brooks Calbert Robinson' and it was not a cliché. He was, by all accounts, exactly who he appeared to be. The only shadows are: he was discovered playing second base for his church league because his high school didn't have a baseball team; he struggled at the plate in 1957, 1959, and 1963, and was benched in 1963 to try to improve his hitting; the Yankees, Giants, and Reds all sent scouts to Little Rock in 1955, and he signed with the Orioles because of the major league contract and their interest in him playing as soon as possible. He could have been a Yankee or a Red. He was an Oriole. Baltimore named its children after him."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Human Vacuum Cleaner",
+      "desc": "October 1970. Game 1, World Series. The score is tied 3-3 in the sixth inning. Lee May leads off for the Cincinnati Reds with a smash down the third base line — a ball that anyone who was not Brooks Robinson would have watched go for a double. Robinson lunged, backhanded the ball, spun 180 degrees, and made a one-hop throw to first that narrowly beat May to the bag. After the game, May gave Robinson a nickname that carried the rest of his career: 'The Human Vacuum Cleaner.' Robinson then hit a home run to win the game. Over five games, he made play after play that no one else would have made — robbing Bench, Perez, Rose, May — and the Reds talked about him as if he were a natural phenomenon. In ILB, The Human Vacuum Cleaner activates in any postseason game: Brooksie's DEF is treated as 6 instead of 5 (the set's only postseason defensive escalation), and any opposing manager's declared 'avoid third base' strategy increases that game's CLU bonus by +0.5 (the more they try to avoid him, the more his presence shapes the game).",
+      "note": "Lee May's 'Human Vacuum Cleaner' nickname origin after Game 1, and the full 1970 WS defensive performance, are documented in the MLB.com piece and the SABR BioProject."
+    },
+    {
+      "tag": "Brooks Robinson Belongs in a Higher League",
+      "desc": "After the 1970 World Series, Pete Rose — a man who would sooner run over a catcher than compliment an opponent — said: 'Brooks Robinson belongs in a higher league.' Sparky Anderson said: 'I'm beginning to see Brooks in my sleep. If I dropped this paper plate, he'd pick it up on one hop and throw me out at first.' Johnny Bench said: 'I made Brooks the MVP of that World Series. I hit 14 rockets at him, and he caught every one of them.' Umpire Ed Hurley: 'He came down from a higher league.' In ILB, Brooks Robinson Belongs in a Higher League is the set's opponent-tribute legacy mechanic: in any season where Robinson wins the WS MVP or is named Series MVP by consensus in the ILB record, each opposing player who faced him in that series receives a permanent -0.5 DEF penalty when facing the Swingers 1960 in subsequent years (they saw what he could do; it stays with them).",
+      "note": "The Pete Rose, Sparky Anderson, Johnny Bench, and umpire Ed Hurley quotes about Robinson's 1970 WS are documented across multiple sources."
+    },
+    {
+      "tag": "In Baltimore We Name Our Children After Him",
+      "desc": "In 1977, at a banquet honoring Brooks Robinson after his retirement, sportswriter Gordon Beard addressed the room: 'In New York, they named a candy bar after Reggie Jackson. Here in Baltimore, we name our children after Brooks Robinson.' Robinson lived in Baltimore for the rest of his life — the aw-shucks Arkansas kid from Little Rock Central High School who discovered he could play third base. He signed autographs on any memorabilia available. He learned the names and details of every person who approached him. Norman Rockwell painted him doing exactly this for a young boy. The print was titled 'Gee, Thanks Brooks.' He was, by all testimony, exactly who he appeared to be. In ILB, In Baltimore We Name Our Children After Him is the franchise-loyalty trait: after any full season Brooksie plays for the Swingers 1960, the team's home crowd CLU bonus increases by +0.25 (permanent, cumulative to a maximum of +1.5 across six full seasons). The city learns who he is. It stays.",
+      "note": "Gordon Beard's banquet quote, the Chuck Thompson autograph description, the Norman Rockwell print, and Robinson's lifetime Baltimore residence are documented."
+    },
+    {
+      "tag": "Lindsay Deal's Letter",
+      "desc": "1955. Lindsay Deal goes to Capitol View Methodist Church in Little Rock, Arkansas, with Brooks Robinson. Deal had been a teammate of Baltimore Orioles manager Paul Richards on a minor league team. He writes Richards a letter: 'He's no speed demon, but neither is he a truck horse. Brooks has a lot of power, baseball savvy, and is always cool when the chips are down.' Richards sends scouts. The Yankees, Giants, and Reds also send scouts. The Orioles offer a major league contract and the promise of playing as soon as possible. Robinson signs with Baltimore. He never plays for another team. In ILB, Lindsay Deal's Letter is the set's church-league-to-majors mechanic: whenever Robinson joins a new roster (in ILB dynasty play), his DEF immediately registers at 4 rather than requiring a development arc — the instinct was always there; it took someone who knew him to write the letter.",
+      "note": "Lindsay Deal's letter to Paul Richards, the three-team scouting competition, and Robinson's decision to sign with the Orioles are documented in the Wikipedia article."
+    },
+    {
+      "tag": "Two Robinsons, Back-to-Back",
+      "desc": "October 5, 1966. World Series Game 1. Baltimore Orioles vs. Los Angeles Dodgers. Frank Robinson bats against Don Drysdale and parks the ball in the left-field pavilion. The next batter is Brooks Robinson. Drysdale's second pitch is a high fastball. Brooks hits it into almost the same seats Frank hit his. Back-to-back home runs. The Orioles win 5-2 and sweep the Series in four games. In ILB, Two Robinsons, Back-to-Back is the set's cross-card consecutive-at-bat bonus: when Brooks Robinson and Frank Robinson bat in immediate succession in the same lineup, if either hits a home run, the other's next at-bat receives a POW +1 effective tier (the first HR charged the room; the second one answered). The two Robinsons are not related. They played together from 1966 to 1971. Frank Robinson watched Brooks from the outfield like a fan.",
+      "note": "The back-to-back HR in 1966 WS Game 1 off Drysdale, and Frank Robinson's quoted tribute to Brooks, are documented."
+    },
+    {
+      "tag": "He Ate With His Left Hand",
+      "desc": "Brooks Robinson was ambidextrous. He ate with his left hand. He wrote with his left hand. He threw with his right. In 1965 spring training, Davey Johnson — new to the Orioles — noticed this and thought about it: 'My god, the greatest defensive third baseman does that.' He ate and wrote with his left hand for a full year afterward. 'It didn't do me any good,' Johnson said. 'But I had to try.' Brooks Robinson's instinct for being where the baseball was going — his 'instinct to be where the baseball was hit,' as he himself described it — was natural, not acquired. No amount of left-handed eating would transfer it. In ILB, He Ate With His Left Hand is the set's most specific influence mechanic: any young infielder (age 25 or younger) who spends a full season on the same roster as Robinson gains a permanent DEF +0.25 baseline bonus for their career (the proximity to the standard changes what they think is possible).",
+      "note": "Davey Johnson's account of Robinson's ambidexterity and his year of left-handed eating is documented in the ESPN piece by Tim Kurkjian."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballpark",
+      "affinity": "SACRED",
+      "note": "Memorial Stadium, Baltimore / the 1970 WS / 'The Human Vacuum Cleaner' / 'Brooks Robinson belongs in a higher league' / 16 consecutive Gold Gloves / Mr. Oriole.",
+      "note_extra": "Source labeled 'Memorial Stadium Baltimore / 23 Seasons One Team / 1970 WS MVP .429 2 HR 6 RBI / 16 Consecutive Gold Gloves Position Player Record / Lee May Human Vacuum Cleaner Name / Pete Rose Higher League / Sparky Anderson Paper Plate Quote / Johnny Bench 14 Rockets Every One / Frank Robinson Best Defensive Player Any Position / 2870 Games 3B ML Single Position Record / 1964 AL MVP 18 Of 20 Votes .317 28 HR 118 RBI / 1966 WS Ring Back-To-Back HR Frank Robinson Drysdale / First Ballot HOF 1983 92% / Most Beloved Sports Figure Baltimore History Alongside Unitas Ripken' / affinity 'SACRED' — fifty-second SACRED in the set, tenth for the Swingers 1960. Robinson's is the most venue-specific SACRED in the set: Memorial Stadium is where he played 23 seasons, where the 1970 World Series was partly played, where his number was retired, and where he and Johnny Unitas had plaques in the lobby. The SACRED is the convergence of the greatest defensive position in the set (DEF 5, first in the full ILB set) and the deepest franchise loyalty (23 seasons, one team, the children of Baltimore named after him). Ballpark domain."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Little Rock, Arkansas / father Brooks Sr. (semi-pro, firefighter) / church league at 2B / Lindsay Deal's letter to Paul Richards / basketball scholarship declined.",
+      "note_extra": "Source labeled 'Little Rock Arkansas May 18 1937 / Father Brooks Sr Semi-Pro Baseball Second Base / Father Firefighter Mother Homemaker / High School Did Not Have Baseball Team / Discovered Playing 2B Church League Capitol View Methodist / Lindsay Deal Churchmate Wrote Paul Richards Letter / He Has Lot Of Power Baseball Savvy Always Cool Chips Down He Is No Speed Demon / Yankees Giants Reds All Sent Scouts 1955 / Orioles Offered Major League Contract Playing Immediately / University Arkansas Basketball Scholarship Full Declined / Signed Baltimore Orioles Never Played Another Team / German-English Extraction' / affinity 'ORIGIN' — fifty-fifth ORIGIN in the set, seventh for the Swingers 1960. Robinson's is the most community-specific ORIGIN in the set: discovered not at a high school or collegiate showcase but at his church league in Little Rock, playing second base, by a friend who knew him from the same church and wrote a letter. The church is the origin point for both the player and the Baltimore career. Community Events domain."
+    },
+    {
+      "location": "State House/Government",
+      "affinity": "HIGH",
+      "note": "Standard tier placement. The franchise player at the most important position in the franchise's history.",
+      "note_extra": "Source labeled 'Mr Oriole Franchise Identity / 23 Seasons Baltimore One Team / Tied Yastrzemski ML Record One Franchise Seasons / Best Record ML 1965-1974 Orioles / Four AL Pennants Two WS Titles His Career / Most Beloved Baltimore Sports Figure / MLBPA Alumni Association President 1989-2023 / Youth Baseball Promotion / Norman Rockwell Print Gee Thanks Brooks / Gordon Beard In Baltimore We Name Children After Him / HOF 1983 First Ballot / Orioles Hall Fame 1977 Alongside Frank Robinson First Two Inductees' / affinity 'HIGH' — standard tier for the set's most singularly identified franchise player. State House domain: the institutional loyalty and the governing role in Baltimore baseball history."
+    },
+    {
+      "location": "Open Field/Stadium",
+      "affinity": "MAXIMUM",
+      "note": "DEF 5 — the only DEF 5 in the full ILB set. 16 consecutive Gold Gloves (position player record). Most games at a single position in ML history. First ballot HOF.",
+      "note_extra": "Source labeled 'DEF 5 Only Player Full ILB Set / 16 Consecutive Gold Gloves 1960-1975 Position Player Record Tied Second All-Time Maddux Only More / 2870 Games 3B ML Single Position Record Any Position / Led AL Fielding Percentage 3B 11 Times / Career .971 Fielding Average At Retirement All-Time 3B Record / 6205 Career Assists 2697 Putouts 618 Double Plays 3B Records / First Ballot HOF 1983 / Greatest Defensive 3B Universal Consensus / 1970 WS MVP Defense Won It Not Offense / Postseason .303 Better October Than Regular Season / .583 ALCS 1970 vs Minnesota' / affinity 'MAXIMUM' — twenty-fourth MAXIMUM in the set, fifth for the Swingers 1960. Robinson's is the most structurally extreme MAXIMUM in the set: the DEF 5 is the only maximum defensive rating in the full ILB set. The 16 consecutive Gold Gloves, the 2,870 games record, and the universal consensus as the greatest defensive 3B in history make the DEF 5 the set's most clearly supported single-category peak. Open Field domain."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "CODA",
+      "note": "The children named after him. The Norman Rockwell print. The MLBPA Alumni Association. The autograph sessions where he learned everyone's family details. Died September 26, 2023.",
+      "note_extra": "Source labeled 'Gordon Beard In New York Candy Bar Reggie Jackson In Baltimore Name Children After Brooks / Chuck Thompson Autograph Sessions Asked About Kids Dog Where You Live / Norman Rockwell Print Gee Thanks Brooks / MLBPA Alumni Association Founded Help Retired Players Life After Baseball / President 1989 Until Shortly Before Death 2023 / Orioles Fantasy Camp Late 60s / Sporting Goods Store Baltimore / Minor League Team Co-Owner / HOF Board Of Directors / Signed Everything Including Game Used Equipment / Memoir Third Base Is My Home / Died September 26 2023 Baltimore Age 86' / affinity 'CODA' — seventeenth CODA in the set, first for a Swingers 1960 3B. Robinson's is the most community-embedded CODA in the set: the legacy is measured not in records or monuments but in the children named after him and the autograph sessions where he learned the names of your children. The Norman Rockwell print is the set's most specific post-career visual legacy. Community Events domain."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "The Human Vacuum Cleaner — in any postseason game, DEF treated as 6 instead of 5; opposing manager's 'avoid third base' strategy increases CLU bonus by +0.5.",
+      "Two Robinsons, Back-to-Back — if either Robinson hits a HR while batting in immediate succession, the other's next AB receives POW +1 effective tier.",
+      "He Ate With His Left Hand — any young infielder (age 25 or under) on the same roster gains permanent DEF +0.25 career baseline.",
+      "Brooks Robinson Belongs in a Higher League — after a WS MVP performance, all opposing players who faced him receive -0.5 DEF penalty vs. the Swingers 1960 in subsequent years.",
+      "In Baltimore We Name Our Children After Him — each full season for the Swingers 1960 adds +0.25 home crowd CLU bonus (cumulative, max +1.5)."
+    ],
+    "cold_triggers": [
+      "POW 2 baseline — the offensive limitation is permanent; he was never an elite power hitter.",
+      "SPD 0 — no baserunning value.",
+      "1963 pattern — in any season where Robinson's BA falls below .260 before the All-Star break, manager may bench him for up to three games (the 1963 precedent); if not benched, his CON drops by 0.5 for the second half."
+    ],
+    "pressure_response": "October 1970. The Reds have the best offense in the National League. Johnny Bench. Tony Perez. Pete Rose. Lee May. One after another, they hit the ball at third base. One after another, Brooks Robinson catches it. He dives to his left. He dives to his right. He backhands balls headed for the gap and throws from one knee. He catches foul balls headlong in the dirt. He hit 14 rockets at me and he caught every one, said Bench. He killed us, said Anderson. The most complete pressure response in the set: five games, a World Series MVP, and a nickname earned permanently from the man he robbed."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Human Vacuum Cleaner",
+      "type": "Game Action",
+      "text": "October 10, 1970. World Series Game 1. Riverfront Stadium, Cincinnati. The score is tied 3-3 in the sixth inning. Lee May leads off with a smash down the third base line — another double, everyone can see it. Brooks Robinson lunges to his right, backhands the ball on one hop, spins 180 degrees, and makes a one-hop throw to first that beats May by half a step. After the game, May is asked about the play. He gives Robinson a nickname: 'The Human Vacuum Cleaner.' Robinson then hits a solo home run in the seventh inning to win the game. Over the next four games, he will rob Johnny Bench twice, Tony Perez, Pete Rose, and catch a foul ball headlong in the dirt in the ninth inning of Game 5 to close out the Series. At the end, Pete Rose says: 'Brooks Robinson belongs in a higher league.' Sparky Anderson says he sees Brooks in his sleep.",
+      "origin": "Lee May's naming of the 'Human Vacuum Cleaner' nickname after Game 1, the specific backhanded stop in the sixth inning, Robinson's home run, and the cumulative 1970 WS defensive performance are documented."
+    },
+    {
+      "title": "Lindsay Deal's Letter",
+      "type": "Origin",
+      "text": "1955. Lindsay Deal goes to Capitol View Methodist Church in Little Rock, Arkansas, with a young second baseman named Brooks Robinson. Deal had been a teammate of Baltimore Orioles manager Paul Richards on a minor league team. He writes Richards a letter. 'He's no speed demon,' Deal writes, 'but neither is he a truck horse. Brooks has a lot of power, baseball savvy, and is always cool when the chips are down.' Richards sends scouts to Little Rock. The Yankees, Giants, and Reds also send scouts. Robinson signs with the Orioles because they offer a major league contract and the promise of playing as soon as possible. He never plays for another team. He plays 2,870 games at third base, the most games by any player at a single position in Major League Baseball history. It begins with a letter written from one churchgoing man to another about a boy they both know.",
+      "origin": "Lindsay Deal's letter to Paul Richards, the three-team scouting competition, and Robinson's decision to sign with the Orioles are documented in Wikipedia."
+    },
+    {
+      "title": "Two Robinsons",
+      "type": "Game Action",
+      "text": "October 5, 1966. World Series Game 1. Dodger Stadium. Frank Robinson comes to bat against Don Drysdale and hits a home run into the left-field pavilion. Brooks Robinson is the next batter. Drysdale's second pitch is a high fastball. Brooks hits it into almost the same seats Frank hit his. Back-to-back home runs. The Orioles win 5-2 and sweep the Series in four games for the franchise's first World Series title. Neither Robinson is related to the other. Frank Robinson joined the Orioles that year, traded from Cincinnati for being — in the words of the Reds' front office — 'not a young 30.' He won the Triple Crown that season. He watched Brooks play third base from right field like a fan. 'He was the best defensive player at any position,' Frank Robinson said. 'I used to think, Wow. I can't believe this.'",
+      "origin": "The back-to-back HR in 1966 WS Game 1 off Drysdale and Frank Robinson's quoted tribute to Brooks are documented."
+    },
+    {
+      "title": "He Ate With His Left Hand",
+      "type": "Character",
+      "text": "1965 spring training. Davey Johnson is new to the Baltimore Orioles. One day he notices that Brooks Robinson — the greatest defensive third baseman in baseball — eats and writes with his left hand, though he throws with his right. Johnson thinks about this. He decides that if the greatest defensive third baseman in history is ambidextrous, that ambidexterity must be part of the secret. He eats and writes with his left hand for an entire year. 'It didn't do me any good,' Johnson said later. 'But I had to try.' Brooks Robinson's instinct to be where the baseball was going was natural, not acquired. No amount of left-handed eating would transfer it. Johnson became a solid second baseman anyway.",
+      "origin": "Davey Johnson's account of Brooks Robinson's ambidexterity and his year of left-handed eating is documented in the Tim Kurkjian ESPN piece."
+    },
+    {
+      "title": "In Baltimore We Name Our Children After Him",
+      "type": "Legacy",
+      "text": "At a banquet honoring Brooks Robinson after his retirement in 1977, sportswriter Gordon Beard spoke: 'In New York, they named a candy bar after Reggie Jackson. Here in Baltimore, we name our children after Brooks Robinson.' When fans approached him for autographs, Orioles broadcaster Chuck Thompson remembered, Brooks would sign while asking: how many kids do you have? What does your dad do? Where do you live? How old are you? Do you have a dog? He moved to Baltimore in 1955 at age 18 and he lived there for the rest of his life. He died on September 26, 2023 in Baltimore. He was 86 years old.",
+      "origin": "Gordon Beard's banquet quote, Chuck Thompson's autograph description, and Robinson's lifetime Baltimore residence until his 2023 death are documented."
+    },
+    {
+      "title": "The Best Season",
+      "type": "MVP",
+      "text": "September 1964. The Baltimore Orioles are still alive in a three-way pennant race with the Yankees and White Sox. Brooks Robinson has been hitting .294. Over the final month of the season, he bats .464. His average rises from .294 to .317. He finishes with 28 home runs and 118 RBI — the league leader. After the season, he receives 18 of the 20 first-place MVP votes. Mickey Mantle finishes second. Robinson had spent extra time in spring training with hitting coach Gene Woodling, practicing offense. He had been 27 years old entering the season. It was, by one important measure, his best season — and also the season that defined him as a complete player rather than simply the best defensive third baseman alive.",
+      "origin": "Robinson's .464 September, his final .317 average, the MVP vote (18 of 20), and the Gene Woodling spring training work are documented in SABR and Wikipedia."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'1'', 180 lbs — the greatest defensive third baseman in baseball history, from Little Rock by way of Capitol View Methodist Church, in the prime of the career at age 27 in 1964. The face of the man they named their children after in Baltimore. The aw-shucks Arkansas twang never left. He was genuinely courteous — it was who he was, not a performance. The face should show both the athletic precision and the decency: the person who made impossible plays at third base and asked about your dog when you came for an autograph.",
+    "attire": "Baltimore Orioles home whites — the 1964 uniform, the Orioles bird on the cap, number 5. The third baseman's crouch at the edge of the infield: low, balanced, weight forward, the glove in front. Memorial Stadium's open-air Baltimore sky in the background — the specific park where he played 23 seasons and where the 1970 WS plays would be made.",
+    "mood": "Ready. He described his own approach as an 'instinct to be where the baseball was hit.' The mood is that instinct in the form of posture: the body already moving in the direction the ball is going before the hitter has made contact. Not reactive — anticipatory. The set's DEF 5 in the form of a stance.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. The Swingers 1960 palette. Memorial Stadium's grass visible at the edges of the frame. The card year is 1964 — the MVP season, the career offensive peak — but the art should show the defender, not the hitter: the crouch, the glove, the instinct. The 1970 WS plays are the SACRED. The 1964 season is the card year. Both are present in the body position of a third baseman at rest.",
+    "reference": "Frank Robinson's quote as the art anchor: 'He was the best defensive player at any position. I used to stand in the outfield like a fan and watch him make play after play. I used to think, Wow! I can't believe this.' The art shows what Frank Robinson was watching from the outfield: the third baseman at the ready, waiting for the ball that he has already decided how to field."
+  }
+}

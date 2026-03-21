@@ -1,0 +1,189 @@
+{
+  "card_type": "player",
+  "name": "Carl Yastrzemski",
+  "nickname": "Yaz / Captain Carl",
+  "year": 1967,
+  "team": "Boston Red Sox",
+  "league": "American League",
+  "era": "1960s",
+  "ilb_team": "Swingers 1960",
+  "position": "LF",
+  "bats": "L",
+  "throws": "R",
+  "height": "5'11\"",
+  "weight": "175 lbs",
+  "born": "August 22, 1939 — Southampton, NY",
+  "hof": "Inducted 1989 (first ballot, 94.0% of the vote).",
+
+  "real_stats": {
+    "season": 1967,
+    "batting_avg": ".326",
+    "obp": ".418",
+    "slg": ".622",
+    "ops": "1.040",
+    "hits": 189,
+    "doubles": 31,
+    "triples": 4,
+    "home_runs": 44,
+    "rbi": 121,
+    "runs": 112,
+    "total_bases": 360,
+    "walks": 91,
+    "war": 12.4,
+    "all_star": 1,
+    "awards": "AL Triple Crown 1967 (.326 BA, 44 HR tied with Killebrew, 121 RBI). AL MVP 1967 — one vote shy of unanimous (one voter gave his first-place vote to seventh-place finisher César Tovar). Led AL in runs (112), hits (189), OBP (.418), SLG (.622), and total bases (360). 12.4 WAR — the highest since Babe Ruth's 1927 season. In his final 37 at-bats of the 1967 season, with the pennant riding on virtually every one: .541 BA, 3 HR, 14 RBI. In the final 12-game stretch: .545 BA (24-for-44), .615 OBP, .909 SLG, 1.524 OPS. Boston clinched the AL pennant on the final day of the season. Sports Illustrated Sportsman of the Year 1967. Associated Press Male Athlete of the Year 1967. Career: .285 BA, .379 OBP, .462 SLG, 3,419 hits, 452 HR, 1,844 RBI, 1,845 BB, 18× All-Star, 7× Gold Glove. Three AL batting titles (1963, 1967, 1968). Led AL in OBP five times. In 1968 he hit .301 — the only AL hitter to break .300 in the Year of the Pitcher, when the league collectively batted .230, winning the batting title by 11 points. In 1979, became the first AL player to reach both 3,000 hits and 400 home runs. The last Triple Crown winner in the major leagues for the remainder of the 20th century (next: Miguel Cabrera, 2012). George Scott: 'Yaz hit 44 homers that year, and 43 of them meant something big for the team.' 'I think about baseball when I wake up in the morning. I think about it all day and I dream about it at night. The only time I don't think about it is when I am playing it.'",
+    "world_series": "1967 WS (lost to St. Louis Cardinals in 7). Yastrzemski batted .400 (10-for-25) with 3 HR, 4 2B, .500 OBP, .840 SLG. The Red Sox fell to Bob Gibson. Also appeared in the 1975 WS (lost to Cincinnati Reds in 7 — the Carlton Fisk Game 6 series). Two AL pennants (1967, 1975). Never won a World Series in 23 seasons."
+  },
+
+  "ilb_stats": {
+    "ovr": 10,
+    "con": 4,
+    "pow": 3,
+    "spd": 1,
+    "def": 3,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": "Career .285 BA, .379 OBP. Three AL batting titles (1963, 1967, 1968). In 1968 — the Year of the Pitcher, when the AL batted .230 collectively — he hit .301, winning the batting title by 11 points. In the final 37 at-bats of the 1967 pennant race, he hit .541. In the final 12-game stretch, .545. 'I think about baseball when I wake up in the morning. I think about it all day and I dream about it at night. The only time I don't think about it is when I'm playing it.' CON 4 reflects the disciplined, obsessive contact hitter: three batting titles, five OBP titles, and the most documented clutch stretch in the set.",
+    "pow": "Career 452 HR. Three 40+ HR seasons (1967: 44, 1969: 40, 1970: 40). The 44 in 1967 came after a dedicated off-season weight-lifting program that transformed his physical strength. Career .462 SLG. He was not primarily a power hitter but produced consistently across 23 seasons. POW 3 is the honest middle-power profile: more than enough to win an HR title, less than the elite sluggers in the set.",
+    "spd": "Career 168 SB. Peak 23 SB in 1970 (the only Red Sox player with 20+ SB and 20+ HR in a season at that time besides Jackie Jensen). Not primarily a speed player — SPD 1 reflects adequate but not significant baserunning value.",
+    "def": "Seven Gold Gloves (1963, 1965, 1967, 1968, 1969, 1971, 1977). Generally considered one of the finest defensive left fielders of all time. Mastered Fenway Park's Green Monster over 23 seasons — its caroms, its angles, the specific physics of a 37-foot wall at close range. The Bob Allison play in 1967: backhanded a base hit in the left-field corner and threw out Allison at second base to end an eighth-inning rally and preserve a critical late-season victory. DEF 3 is the set's first for a LF — seven Gold Gloves across more than two decades at the most technically demanding left-field wall in baseball.",
+    "clu": "Two WS appearances (1967, 1975). .400 WS BA in 1967 with 3 HR. Never won a ring. CLU 2 reflects the postseason producer who delivered personally (.400 in his only WS, strong 1975 showing) without team championships. The greatest individual stretch in the set's history (the 1967 pennant race final run) is the qualitative CLU foundation."
+  },
+
+  "personality": {
+    "leadership_style": "Total obsession as philosophy. 'I think about baseball when I wake up in the morning. I think about it all day and I dream about it at night. The only time I don't think about it is when I am playing it.' After going hitless against Bob Gibson in Game 1 of the 1967 WS, he took extra batting practice. Sports reporters found this remarkable; Yastrzemski had been doing it after games all season. He wanted to be perfect. He worked many hours a day to adjust his stance and swing. The leadership was the standard he held himself to — a standard that was plainly visible to his teammates.",
+    "temperament": "Controlled, intense, inward. He told interviewers late in his career: 'I don't like to reminisce about when I played. I had my day in the sun and it is over with.' He was not a man who needed the spotlight. The 1983 final lap around Fenway — touching fans' outstretched hands as he jogged the perimeter of the park — was the public version of the private devotion. The career was 23 years long and inward the whole time.",
+    "work_ethic": "His father pitched tennis balls to him every night after supper. Farm chores were specifically selected for hand and wrist development. By 1967 he had added a dedicated weight-lifting regime that transformed his power output. He took extra batting practice after games throughout the season. He finished his college degree at Merrimack College while playing baseball. He played 3,308 games — all for one team.",
+    "lifestyle": "Bridgehampton, Long Island, to Fenway Park. Polish-American family; parents were immigrants from Poland. His father was a potato farmer and semi-pro shortstop who declined a Brooklyn Dodgers minor-league offer because of family responsibilities. When Yaz signed for $108,000, his father raised his weekly allowance from $5 to $7.50. He replaced Ted Williams. He played at Fenway for 23 seasons. His final lap around the park in 1983 — touching every hand that reached out from the box seats and the bleachers — is the lasting image of what one player and one city can become to each other.",
+    "dark_side": "He never won a World Series in 23 seasons. The 1967 WS: he hit .400, the Red Sox lost in 7 to Bob Gibson. The 1975 WS: Carlton Fisk hit his famous HR, the Red Sox lost in 7 to Cincinnati. His career is the complete record of excellence without the ring — more games, more at-bats, more AL hits, and more total devotion than almost any player in the history of the sport, all of it ending in October without a championship. 'I had my day in the sun and it is over with.'"
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Only Time I Don't Think About It",
+      "desc": "Carl Yastrzemski: 'I think about baseball when I wake up in the morning. I think about it all day and I dream about it at night. The only time I don't think about it is when I am playing it.' In ILB, The Only Time I Don't Think About It is the set's total-immersion trait: Yastrzemski's CON is treated as 5 instead of 4 in any at-bat following an error or defensive breakdown (he focuses more completely when he is correcting something). The obsession is the baseline. What the obsession produces in response to failure is a higher level of the obsession.",
+      "note": "Yastrzemski's quote about thinking about baseball is documented in the Baseball Hall of Fame and multiple sources."
+    },
+    {
+      "tag": "The Wall",
+      "desc": "Twenty-three seasons in front of the Green Monster at Fenway Park. Seven Gold Gloves. The caroms, the angles, the specific physics of a 37-foot tin-and-concrete wall at 310 feet from home plate. In ILB, The Wall is the set's most park-specific defensive trait: in any game played at Fenway Park (or any park with a non-standard LF wall), Yastrzemski's DEF is treated as 4 instead of 3. He knew every inch of it. He used it as an active defensive tool. The ball came off the wall exactly where he expected it to come off the wall, because he had put it there mentally before it arrived.",
+      "note": "Yastrzemski's mastery of the Green Monster, seven Gold Gloves at Fenway's LF, and his reputation as one of the finest defensive LFs of all time are documented across multiple sources."
+    },
+    {
+      "tag": ".541",
+      "desc": "The final 37 at-bats of the 1967 American League pennant race. The Red Sox were in a four-team race. Almost every at-bat meant something. Yastrzemski went .541 (20-for-37) with 3 HR and 14 RBI. In the final 12-game stretch: .545 (24-for-44), .615 OBP, .909 SLG, 1.524 OPS. George Scott: 'Yaz hit 44 homers that year, and 43 of them meant something big for the team.' In ILB, .541 is the set's greatest clutch activation: in any elimination-context at-bat (pennant race final week, playoff game, WS game with lead of 1 run or less), Yastrzemski's CON and POW both increase by 1 effective tier (CON becomes 5, POW becomes 4). The pressure does not reduce him. It completes him.",
+      "note": "The .541 BA in the final 37 at-bats, the 12-game stretch statistics, and the pennant clinch are documented in the Baseball Hall of Fame and the Baseball History Comes Alive piece."
+    },
+    {
+      "tag": "The Allison Play",
+      "desc": "September 30, 1967. Fenway Park. The Red Sox lead the Twins by one game with two to play. Bob Allison hits a base hit toward the left-field corner. Yastrzemski backhands it — a running, backhanded stab in the corner — and throws to second base. Allison is out. The rally ends. The Red Sox win. The next day, Minnesota loses and Boston wins: the pennant is theirs. The Allison play is the single defensive act that saved the 1967 pennant. In ILB, The Allison Play activates once per season when Yastrzemski's team is in a pennant-race context: any ball hit to the LF corner generates a possible The Allison Play throw — a DEF check where success throws out the runner at second base and ends the inning regardless of subsequent plays.",
+      "note": "The Allison backhanded throw on September 30, 1967 and its significance in preserving the Red Sox's last regular season victory en route to the pennant are documented in multiple sources."
+    },
+    {
+      "tag": "Replacing Ted Williams",
+      "desc": "In 1961, the Boston Red Sox assigned Carl Yastrzemski to replace Ted Williams in left field at Fenway Park. Williams had just retired — the greatest hitter who ever lived, the man who in his final at-bat in 1960 hit a home run and, characteristically, did not tip his cap. Clark Griffith's response upon meeting the $108,000 bonus prospect: 'We are paying this kind of money for this guy?' Williams reportedly told Yaz never to let them mess with his swing. Yastrzemski batted .266 as a rookie. In 1963 he won his first batting title. In 1967 he won the Triple Crown. He was still in left field in 1983. In ILB, Replacing Ted Williams generates a Legacy Floor: Yastrzemski's career CON never drops below 3 regardless of any slump mechanics or opposing pitcher adjustments. The standard was set the moment he took the position.",
+      "note": "The Williams-to-Yastrzemski succession, Griffith's response, Williams's reported advice about the swing, and Yaz's .266 rookie year are documented in multiple sources."
+    },
+    {
+      "tag": "The Lap",
+      "desc": "October 2, 1983. Fenway Park. Carl Yastrzemski plays his last major league game. After the final out, he does not go directly to the dugout. He jogs along the warning track — the perimeter of the outfield — toward the right-field corner, then toward the first-base line, then around the infield, touching the hands of every fan who reaches out from the stands. It takes several minutes. The entire park is standing. He touches every hand he can reach. In ILB, The Lap is a legacy trait: in any season that is Yastrzemski's last full season with the team, all of that team's home games receive a +0.5 team morale bonus. The park knows. The fans know. The goodbye was always going to be this.",
+      "note": "Yastrzemski's final-game lap around Fenway Park on October 2, 1983, touching fans' hands, is documented as one of the most iconic moments in Red Sox history."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballpark",
+      "affinity": "SACRED",
+      "note": "Fenway Park / the Green Monster / the 1967 season / the final lap around the warning track in 1983 / 'Captain Carl.'",
+      "note_extra": "Source labeled 'Fenway Park / Green Monster 37 Feet / 23 Seasons Same Team / 1967 Triple Crown / Pennant Final Day / Last Triple Crown 20th Century / .541 Final 37 At-Bats / Allison Backhanded Throw / Seven Gold Gloves / Final Lap 1983 Touching Fans Hands / 3419 Hits All In Boston / Number 8 Retired / First AL 3000 Hits 400 HR / Replaced Ted Williams / I Think About Baseball Morning All Day Dream Night' / affinity 'SACRED' — forty-sixth SACRED in the set, fifth Swingers 1960 SACRED. Yastrzemski's is the longest-duration SACRED in the set: 23 seasons at the same ballpark, one left-field wall, seven Gold Gloves defending it. No other SACRED in the set involves a single player and a single ballpark across two and a half decades of daily intimacy. The 1983 final lap — touching every outstretched hand along the warning track and the foul lines — is the single most complete documentation of what a player and a city become to each other. Ballpark domain."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Bridgehampton, Long Island / potato farm / Polish-American family / father pitched tennis balls every night / wrist-building farm chores / Notre Dame / '$108,000 for this guy?' / replacing Ted Williams.",
+      "note_extra": "Source labeled 'Bridgehampton Long Island / Potato Farmer Father Carl Sr / Polish-American Parents Immigrants Poland / Father Semi-Pro Shortstop Declined Dodgers / Father Pitched Tennis Balls Every Night / Farm Chores Built Hands And Wrists / Bridgehampton High School .400 / Multi-Sport Star / Notre Dame One Year / $108,000 Bonus 1958-1959 / Joe Cronin We Re Paying This For This Guy / Father Raised Allowance $5 To $7.50 / Replaced Ted Williams 1961 / Williams Told Yaz Don t Let Them Mess With Your Swing / .266 Rookie Year' / affinity 'ORIGIN' — forty-ninth ORIGIN in the set, second for the Swingers 1960 from the Northeast. Yastrzemski's is the most agricultural ORIGIN in a set with several farming backgrounds (Killebrew's Idaho farm, Cash's Texas farm, Malzone's New England): the Long Island potato farm, the father who pitched tennis balls every night after supper, the farm chores selected specifically for hand and wrist development, the agricultural community of Bridgehampton that produced the last Triple Crown winner of the 20th century. The father who declined a professional offer because of family responsibilities sent his son to Fenway Park instead. Community Events domain."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HAUNTED",
+      "note": "No ring in 23 seasons. The 1967 WS, lost to Gibson in 7. The 1975 WS — Carlton Fisk's homer, then Game 7, then nothing. 'I had my day in the sun and it is over with.'",
+      "note_extra": "Source labeled 'No World Series Ring 23 Seasons / 1967 WS Lost Cardinals Seven / Bob Gibson / 1975 WS Lost Reds Seven / Carlton Fisk Game Six Homer / Game Seven Nothing / Two Pennants No Rings / Greatest Individual Season 1967 Not Enough / Weight Of Replacing Williams / I Had My Day In Sun It Is Over With / Never Won WS After .400 In Series' / affinity 'HAUNTED' — twenty-fourth HAUNTED in the set, second for the Swingers 1960. Yastrzemski's is the most durably seasonal HAUNTED in the set: 23 years, two pennants, no rings. The 1967 World Series — in which he hit .400 with 3 HR and still lost to Bob Gibson and the Cardinals — is the specific wound. The 1975 WS — Carlton Fisk's famous homer in Game 6, then Game 7 loss — is the second specific wound. He said late in his career: 'I had my day in the sun and it is over with.' The HAUNTED is not a single event but two decades of returning to Fenway and still not winning. Hotel/Rest domain."
+    },
+    {
+      "location": "Open Field/Stadium",
+      "affinity": "MAXIMUM",
+      "note": "Triple Crown 1967. Last Triple Crown of the 20th century. 12.4 WAR (highest since Ruth 1927). .541 in final 37 at-bats. Seven Gold Gloves. First AL player with 3,000 hits and 400 HR.",
+      "note_extra": "Source labeled 'Triple Crown 1967 / Last Triple Crown 20th Century Until Cabrera 2012 / 12.4 WAR Highest Since Ruth 1927 / .541 Final 37 At-Bats Pennant Riding / .545 Final 12-Game Stretch OPS 1.524 / Seven Gold Gloves / Three Batting Titles / Five OBP Titles / First AL 3000 Hits 400 HR 1979 / 3419 Hits 452 HR 23 Seasons / 3308 Games Second All-Time / 11988 At-Bats AL Record / George Scott 43 Of 44 Meant Something / One Of Three Players 1800 Runs 1800 RBI 1800 BB' / affinity 'MAXIMUM' — nineteenth MAXIMUM in the set, second for the Swingers 1960. Yastrzemski's is the most historically bounded MAXIMUM in the set: the Triple Crown in 1967 was the last of the 20th century — not beaten until Cabrera in 2012, 45 years later. Every player on the 1967-2012 timeline who tried and failed to win the Triple Crown was measured against Yastrzemski. The 12.4 WAR comparison to Babe Ruth is the most direct comparison to the greatest season in baseball history within the set. The .541 final stretch is the most documented clutch performance in the set. Open Field domain."
+    },
+    {
+      "location": "State House/Government",
+      "affinity": "IDENTITY",
+      "note": "23 years, one team, one wall. The last Triple Crown of the 20th century. The Green Monster mastery. 'I think about baseball when I wake up in the morning.' The Yaz identity is total baseball devotion.",
+      "note_extra": "Source labeled 'Only Player One Team 23 Seasons Record With Brooks Robinson / Last Triple Crown 20th Century / Green Monster Mastery 23 Seasons / Seven Gold Gloves Defined LF Fenway / First AL 3000 Hits 400 HR / Number 8 Retired Red Sox / First Ballot HOF 94% / I Think About Baseball When Wake Up All Day Dream Night Only Time Don t Think Playing It / Captain Carl Nickname / Final Lap 1983 / Replaced Ted Williams / Williams Told Him Not To Let Them Change Swing / Boston Red Sox All-Time Records RBI Runs Hits Singles Doubles Total Bases Games Played' / affinity 'IDENTITY' — twelfth IDENTITY in the set, second for the Swingers 1960. Yastrzemski's is the most institutionally complete IDENTITY in the set: 23 years, one team, one wall, one set of all-time franchise records, one last Triple Crown of the century, one final lap. The 'I think about baseball when I wake up in the morning' quote is the most complete self-description of athletic identity in the set. He was not playing baseball. He was being Yaz. State House domain: the institutional record."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      ".541 — in any elimination-context at-bat (pennant race final week, playoff, WS with lead of 1 or less), CON becomes 5 and POW becomes 4.",
+      "The Wall — in any game at Fenway (or park with non-standard LF wall), DEF treated as 4 instead of 3.",
+      "The Only Time I Don't Think About It — after any team error or defensive breakdown, Yaz's next at-bat CON is treated as 5.",
+      "The Allison Play — once per pennant-race-context season, a LF corner ball generates a possible throw-to-second check: on success, runner is out and inning ends."
+    ],
+    "cold_triggers": [
+      "No ring — the structural limitation of 23 seasons without a championship. In any WS Game 7, the CLU 2 ceiling is the hard reality; the individual production cannot override the team result.",
+      "Post-1967 regression expectation — in any season following a WAR above 10.0, opposing pitchers' preparation improves: CTL of all opposing SPs is treated as +0.5 for the first two series of the following season."
+    ],
+    "pressure_response": "The 1967 pennant race. Final 37 at-bats: .541. Final 12 games: .545, 1.524 OPS. He backhanded Bob Allison's hit in the left-field corner and threw him out at second to save the critical late-season game. After going hitless against Gibson in Game 1 of the WS, he took extra batting practice. He was one of three players in baseball history — with Bonds and Ruth — to compile 1,800 runs, 1,800 RBI, and 1,800 walks. The pressure response is the obsession: he thought about it all day and dreamed about it at night. The only time he did not think about it was when he was playing it. He played it very well."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Potato Farm",
+      "type": "Origin",
+      "text": "Carl Yastrzemski grew up on a potato farm in Bridgehampton, New York, near the eastern tip of Long Island. His parents were Polish immigrants. His father was a semi-professional shortstop who had been offered a minor-league contract by the Brooklyn Dodgers but declined because of his family responsibilities. When his son Carl showed similar talent, the elder Yastrzemski devoted himself to preparing the boy: he pitched tennis balls to him every night after supper and gave him only farm chores that would strengthen his hands and wrists. The Boston Red Sox eventually signed the son for $108,000. The Red Sox general manager saw the relatively small young man and said: 'We are paying this kind of money for this guy?' His father, upon learning of the $108,000 signing, raised his son's weekly allowance from $5 to $7.50.",
+      "origin": "The Yastrzemski family background (potato farm, Polish-American, father's Dodgers offer declined), the tennis ball pitching, the farm chore selection, the $108,000 signing, and the allowance story are documented across multiple sources."
+    },
+    {
+      "title": ".541",
+      "type": "Historic Feat",
+      "text": "The final 37 at-bats of the 1967 American League pennant race. The Red Sox, Twins, Tigers, and White Sox were separated by one game. Almost every at-bat Carl Yastrzemski had in those final weeks meant something for the pennant. He went 20-for-37 — a .541 batting average — with 3 home runs and 14 RBI. In the final 12 games: .545, .615 on-base percentage, .909 slugging, 1.524 OPS. George Scott, his teammate: 'Yaz hit 44 home runs that year, and 43 of them meant something big for the team.' The Red Sox clinched the pennant on the final day of the season. It may be the greatest sustained clutch performance in baseball history. It is the greatest in this set.",
+      "origin": "The .541 BA in the final 37 at-bats, the 12-game final stretch statistics, and George Scott's quote are documented in multiple sources."
+    },
+    {
+      "title": "The Allison Play",
+      "type": "Game Action",
+      "text": "September 30, 1967. Fenway Park. The Red Sox lead the Twins by one game with two games to play. Bob Allison hits a ball to the left-field corner — a base hit, moving the tying run, threatening the rally. Carl Yastrzemski backhands the ball at full speed in the corner and throws to second base. Allison is out. The rally ends. The Red Sox win the game. The next day, the Twins lose to the Red Sox and the Boston Red Sox win the American League pennant — their first since 1946. The backhanded throw that ended the eighth-inning rally on September 30, 1967 was the defensive play that made it possible.",
+      "origin": "The Allison backhanded play on September 30, 1967 and its significance in the Red Sox pennant clinch are documented in multiple sources."
+    },
+    {
+      "title": "The Last Triple Crown of the Century",
+      "type": "Historic Feat",
+      "text": "1967. Carl Yastrzemski leads the American League in batting average (.326), home runs (44, tied with Harmon Killebrew), and runs batted in (121). He wins the Triple Crown. He is named the AL Most Valuable Player. One voter gives his first-place vote to the seventh-place finisher. No player in the major leagues will win the Triple Crown again until Miguel Cabrera does it in 2012 — 45 years later. During that 45-year window, many players come close and fail. Each of them is measured against Yastrzemski. His 12.4 WAR in 1967 is the highest of any player since Babe Ruth's 1927 season. He thinks about baseball when he wakes up in the morning. He thinks about it all day. He dreams about it at night.",
+      "origin": "The Triple Crown, its status as the last of the 20th century, the 12.4 WAR comparison to Ruth, and the one non-unanimous vote are all documented."
+    },
+    {
+      "title": "The Year of the Pitcher",
+      "type": "Historic Feat",
+      "text": "1968. The Year of the Pitcher. The American League bats a collective .230. Bob Gibson posts a 1.12 ERA. The mound is lowered after the season. Carl Yastrzemski wins the batting title with a .301 average — the only American League hitter to break .300 that year. He wins by 11 points over the second-place hitter. In 1967 he won the Triple Crown hitting .326. In 1968 he won the batting title hitting .301 and it was, by the standards of the season, a similar dominance. The league had given up on hitting and Yastrzemski refused.",
+      "origin": "Yastrzemski's 1968 batting title (.301, only AL hitter above .300 in the Year of the Pitcher, winning by 11 points) is documented."
+    },
+    {
+      "title": "The Lap",
+      "type": "Legacy",
+      "text": "October 2, 1983. Fenway Park. Carl Yastrzemski plays the last game of his career. After the final out, he does not go to the dugout. He begins jogging along the warning track — the perimeter of the outfield, in front of the Green Monster, past the bullpen, around the right-field corner, along the first-base line. He is touching the hands of every fan who reaches out from the stands. Thousands of hands. He jogs the full perimeter of the field. The entire park is standing and cheering. He has been playing baseball here for 23 years. He thought about it every morning. He dreamed about it every night. The only time he did not think about it was when he was playing it. He is playing it for the last time.",
+      "origin": "Yastrzemski's final-game lap around Fenway Park on October 2, 1983 is documented as one of the most iconic moments in Red Sox and baseball history."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'11'', 175 lbs — the left-handed hitter from Bridgehampton, Long Island, who replaced Ted Williams at age 21 and was still in left field 22 years later. In 1967 he is 27 years old, the year the weight-lifting transformation arrived and the Triple Crown materialized. The face of the man who thinks about baseball when he wakes up in the morning, thinks about it all day, and dreams about it at night. The face of a man who has been spending his nights at the Green Monster for seven years and has learned every inch of it.",
+    "attire": "Boston Red Sox home whites — the 1967 uniform, the B on the cap, number 8. The left-handed batting stance of a man who took extra batting practice after games all season. The Green Monster visible behind him in the left field — the 37-foot wall of Fenway Park, the structure Yastrzemski mastered over 23 seasons, the wall that seven Gold Gloves were built in front of.",
+    "mood": "Concentrated intensity. He is not thinking about the painting in the dugout or the dinner after the game. He is thinking about the next pitch. He has been thinking about it since he woke up this morning. The 1967 season is the mood: the last 37 at-bats at .541, the Allison play, the pennant on the final day. He is always in the final week of the pennant race, internally.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. The Swingers 1960 palette consistent with Oliva, Cash, Frank Robinson, and Killebrew. Fenway Park in the background — the Green Monster specifically visible over the left-field fence, the distinctive Fenway geometry. The 1967 afternoon light of a pennant race game.",
+    "reference": "The full Yastrzemski quote as the art anchor: 'I think about baseball when I wake up in the morning. I think about it all day and I dream about it at night. The only time I don't think about it is when I am playing it.' The art should show the playing — the specific moment of plate attention that is the only hour when the obsession becomes the act. The face is not dreaming about baseball. The face is baseball."
+  }
+}

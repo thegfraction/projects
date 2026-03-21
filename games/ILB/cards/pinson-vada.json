@@ -1,0 +1,192 @@
+{
+  "card_type": "player",
+  "name": "Vada Pinson",
+  "nickname": "none",
+  "year": 1961,
+  "team": "Cincinnati Reds",
+  "league": "National League",
+  "era": "1960s",
+  "ilb_team": "Dreamers 1950",
+  "position": "CF",
+  "bats": "L",
+  "throws": "L",
+  "height": "5'11\"",
+  "weight": "170 lbs",
+  "born": "August 11, 1938 — Memphis, TN",
+  "died": "October 21, 1995 — Oakland, CA",
+  "hof": "Not inducted. 2,757 career hits — 7th most among all players in the third quarter of the 20th century (1950-1975), the only one of the top ten not in the Baseball Hall of Fame. Career high vote total: 15.4% on the BBWAA ballot.",
+
+  "real_stats": {
+    "season": 1961,
+    "batting_avg": ".343",
+    "obp": ".393",
+    "slg": ".530",
+    "ops": ".923",
+    "hits": 208,
+    "doubles": 34,
+    "triples": 8,
+    "home_runs": 16,
+    "rbi": 87,
+    "runs": 101,
+    "stolen_bases": 23,
+    "walks": 50,
+    "war": 5.8,
+    "all_star": 0,
+    "awards": "NL hits leader 1961 (208). Gold Glove Award 1961 (only second Reds outfielder ever to win, after Frank Robinson in 1958; joined Mays and Clemente as the 1961 NL outfield Gold Glove winners). Third in NL MVP voting 1961 (behind Robinson and Cepeda — both Hall of Famers). Led NL outfielders in putouts three consecutive years (1959-1961). Four-time NL All-Star (1959 twice, 1960 twice). Four career 200+ hit seasons (1959, 1961, 1963, 1965), batting over .300 in all four. Career .286 BA, .327 OBP, .442 SLG, 2,757 hits, 256 HR, 305 SB, 485 2B, 127 3B. In first five full seasons (1959-1963): 985 hits — more than Musial (975), Mays (954), Aaron (914), Robinson (818) at the same career point. One of only four players to compile 2,500+ hits, 250+ HR, and 250+ SB in ML history. Wally Moses (Reds batting coach): 'I honestly believe this kid is the best 20-year-old ballplayer I have ever been associated with.' Frank Robinson: 'The numbers do not tell the true story. Vada was underrated and underappreciated as a player. He brought a whole lot more to the game than just cold numbers.' Fred Haney (Braves manager, 1959): 'While Hank Aaron is the top player of the day, Pinson is the star of the future.'",
+    "world_series": "1961 World Series (only postseason appearance). Reds lost to the New York Yankees in five games. Pinson went 2-for-22 (.091). Never returned to the postseason. The sole WS appearance was also the only pennant the Reds won during his eleven years with the team."
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "con": 4,
+    "pow": 3,
+    "spd": 3,
+    "def": 2,
+    "clu": 0
+  },
+
+  "stat_justification": {
+    "con": "Career .286 BA with .297/.341/.469 as a Red. Four 200+ hit seasons, batting over .300 in all four. 1,177 hits before his 26th birthday — fifth-highest total for a 25-year-old player in ML history behind only Ty Cobb (1,433), Mel Ott (1,249), Al Kaline (1,200), and Freddie Lindstrom (1,186), all Hall of Famers. Led NL in hits twice (1961, 1963). CON 4 reflects the career-long contact production: 2,757 hits is not a walk-rate accumulation but a genuine bat-on-ball achievement, and doing it as a left-handed hitter with a smooth swing built for line drives and gap shots.",
+    "pow": "Career 256 HR, .442 SLG. Five seasons with both 20+ HR and 20+ SB. Gap hitter more than pull slugger — Frank Robinson noted that Pinson turned routine grounders into doubles and two-hoppers into infield hits through pure speed and contact. He occasionally tried to pull too much and it hurt his average. POW 3 is the balanced-power profile: real extra-base production without the dominant slugging of a POW 4 or 5 player.",
+    "spd": "Once clocked at 3.3 seconds from home to first base — fastest in baseball. Frank Robinson: 'He was the first guy I saw who consistently put pressure on outfielders with his speed. Not just with balls he hit into the gaps. He would hit ground balls to straightaway center and turn them into doubles. Same thing with a two-hopper to the first baseman. He would beat it out.' Career 305 SB. Led NL in triples 1963 (14) and 1967 (13). Five seasons of 20+ HR and 20+ SB. SPD 3 is the documented elite speed of a player who was acknowledged as the fastest home-to-first runner in baseball at his peak.",
+    "def": "Gold Glove 1961 (joined Mays and Clemente as the NL outfield winners — the three best outfield defenders in the league that year). Led NL outfielders in putouts three consecutive years (1959-1961). Led NL in fielding percentage twice (1965, 1969). Led NL in games played by an outfielder six times. Career .981 fielding percentage. Jim Brosnan's account of the Crosley terrace catch against Ernie Banks is the qualitative reference: 'He just seemed to glide across that terrace.' DEF 2 reflects the genuine Gold Glove CF performance without reaching the transcendent levels of the set's DEF 3+ outfielders (Mays, Ashburn).",
+    "clu": "0. One World Series appearance in 18 seasons (1961) — 2-for-22 (.091) as the Reds lost to the Yankees in five games. Never returned to the postseason. The CLU 0 is not a character assessment but a structural fact: the only pennant the Reds won during his eleven years there was the one he played in, and he went 2-for-22 in it. The 2,757 hits, 256 HR, 305 SB — none of it produced a ring."
+  },
+
+  "personality": {
+    "leadership_style": "The quiet integrator. When Pete Rose was ostracized as a cocky rookie in 1963, Robinson and Pinson were the only players who welcomed him. Robinson: 'No other players warmed to Pete all season, so Vada and I became his friends and showed him the ropes around the league.' He and Robinson were the leaders of the Black players on a segregated Reds team. The leadership was relational — he extended the circle to include the outcast.",
+    "temperament": "The trumpet player who became a center fielder. In high school at McClymonds, Pinson had many interests that took his eye off the baseball field — the trumpet in the jazz band was the most serious. He dreamed of being the next Miles Davis. Coach George Powles recognized his raw athletic ability and helped him understand that baseball was the career. He kept the trumpet as a hobby. The temperament is the multi-channel ambition: he could have been something else, and he knew it.",
+    "work_ethic": "In first five full seasons: 985 hits — more than Musial, Mays, Aaron, and Robinson at the same career point. He appeared in 150+ games every year from 1959 to 1967. He led the NL in outfielder games played six times. The consistency was physical: he showed up every day for nine consecutive seasons at 150+ games and produced at the contact level his first year established.",
+    "lifestyle": "Memphis to Oakland at age seven. McClymonds High to the Reds at 18. Cincinnati for eleven years — Crosley Field and its terrace. Then the Cardinals (with Flood and Brock), Cleveland, California, Kansas City. Coaching the Seattle Mariners in their inaugural season (1977), the White Sox, the Tigers for seven years, the Marlins in their inaugural season (1993). He coached the inaugural staff of two expansion teams. He died in Oakland in 1995 at 57, stroke, the city he had grown up in after Memphis. Curt Flood, himself dying of throat cancer, wrote a tribute. Interred at Rolling Hills Memorial Park, Richmond, California.",
+    "dark_side": "The 1961 World Series. .343 during the season, 208 hits, Gold Glove, 3rd in MVP. Then 2-for-22 against the Yankees. The Reds lost in five games. He never went back. After that, Frank Robinson was traded away ('an old thirty') to the Orioles, and Robinson won the Triple Crown and the AL MVP in 1966. Pinson hit .288 in both of those years — the same player, without the teammate who made the team complete. The second part of his career was as good as most players get. It was not as good as the first five years had suggested it would be."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Star of the Future",
+      "desc": "In 1959, Milwaukee Braves manager Fred Haney said: 'While Hank Aaron is the top player of the day, Pinson is the star of the future.' He was 20 years old and had just led the NL in runs (131) and doubles (47) with 205 hits, 20 HR, and 21 SB — a season that would have won the NL Rookie of the Year Award except that his 96 at-bats the previous year exceeded the 90-AB cutoff by six. In ILB, Star of the Future activates in the first three seasons of Pinson's career: all CON rolls during that window are made at CON 5 effective rating (the arriving talent exceeds the established rating). After the third season, CON normalizes to 4. The comparison was always to Aaron, Mays, and Robinson. He was good enough for that comparison. The future simply became the present instead of the legend.",
+      "note": "Haney's quote is documented in the SABR BioProject. Pinson's ROY ineligibility (96 AB exceeded the 90-AB cutoff) is documented in multiple sources."
+    },
+    {
+      "tag": "He Just Seemed to Glide",
+      "desc": "Jim Brosnan had a shutout going in the eighth inning against the Cubs. Ernie Banks hit a ball to what Brosnan called the deepest part of old Crosley Field — right-center field, next to the flagpole and the light tower. Pinson was playing Banks in left-center. He ran. Brosnan: 'He just seemed to glide across that terrace that ran around the outfield.' He caught it. In ILB, on any fly ball hit to the warning track at a park with a non-standard outfield feature (terrace, incline, angled wall), Pinson's DEF is treated as 3 instead of 2. The terrace was Crosley Field's specific geography. He had practiced gliding across it. He made it look like he was not running at all.",
+      "note": "Brosnan's account of the Crosley Field terrace catch (Banks at bat, flagpole, light tower) is documented in the Misc Baseball remembrance piece."
+    },
+    {
+      "tag": "The Next Miles Davis",
+      "desc": "At McClymonds High School in Oakland, Vada Pinson played the trumpet in the jazz band and dreamed of being the next Miles Davis. His coach, George Powles — the same man who had developed Frank Robinson, Curt Flood, and Bill Russell — recognized Pinson's raw athletic ability and persuaded him that baseball was the career. He accepted a $4,000 bonus from the Reds and kept the trumpet as a hobby. In ILB, the Miles Davis aspiration is the set's most unusual mental preparation trait: whenever Pinson's team is in a deficit of 2+ runs in the seventh inning or later, his CON rises from 4 to 5 for the remainder of the game (the musician's approach to a late situation — he improvises when the structure has already broken down).",
+      "note": "Pinson's trumpet playing and Miles Davis ambition are documented in the Frank Robinson high school story on Baseball Egg and the SABR BioProject."
+    },
+    {
+      "tag": "He Would Beat It Out",
+      "desc": "Frank Robinson described Pinson's speed as the most consistent pressure applied to opposing defenses in the game: 'He was the first guy I saw who consistently put pressure on outfielders with his speed. Not just with balls he hit into the gaps. He would hit ground balls to straightaway center and turn them into doubles. Same thing with a two-hopper to the first baseman. He would beat it out.' Clocked at 3.3 seconds from home to first — the fastest in baseball. In ILB, once per game Pinson may invoke He Would Beat It Out on any groundball out result: the SPD roll is re-made at +1 effective SPD (4 instead of 3). The out becomes a hit. The first baseman was not fast enough. The pitcher was not fast enough. Pinson was.",
+      "note": "Robinson's quote about Pinson's speed is documented in the Misc Baseball remembrance piece. The 3.3-second home-to-first clock is documented in the Hall of Fame CardCorner piece."
+    },
+    {
+      "tag": "No Other Players Warmed to Pete",
+      "desc": "1963. Pete Rose is a cocky rookie, taking the job of popular second baseman Don Blasingame. Most of the Reds want nothing to do with him. Frank Robinson: 'I saw that Pete Rose was being ostracized by most of my teammates. I asked Pete one night if he would like to join Vada and me for dinner. No other players warmed to Pete all season, so Vada and I became his friends and showed him the ropes around the league.' In ILB, the No Other Players trait generates a Locker Room Integration bonus: any teammate who has been penalized with an isolation or attitude modifier has that penalty reduced by 1 tier when Pinson is on the roster (he extends the circle to include the outcast, same as he did for Rose).",
+      "note": "Robinson's account of welcoming Pete Rose via Pinson's and his own invitation is documented in the SABR BioProject."
+    },
+    {
+      "tag": "985 in the First Five",
+      "desc": "In his first five full seasons in the major leagues (1959-1963), Vada Pinson accumulated 985 hits. More than Stan Musial (975) at the same career point. More than Willie Mays (954). More than Hank Aaron (914). More than Frank Robinson (818). More than Alex Rodriguez, Robin Yount, Jimmie Foxx, and Orlando Cepeda at the equivalent point. All of those players except Pinson are in the Baseball Hall of Fame or had Hall of Fame careers. In ILB, 985 in the First Five activates during seasons 1-5 of Pinson's career: all hit totals generated in those seasons receive a +5% bonus to the final count (the accumulation rate of the first five years is historically anomalous and the card records that).",
+      "note": "The 985-hit total in five seasons and the comparative figures (Musial 975, Mays 954, Aaron 914, Robinson 818) are documented in the SABR BioProject."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballpark",
+      "affinity": "SACRED",
+      "note": "Crosley Field / the terrace / the 1961 pennant / 'he just seemed to glide across that terrace that ran around the outfield.'",
+      "note_extra": "Source labeled 'Crosley Field / Outfield Terrace Incline / Jim Brosnan Ernie Banks Flagpole Light Tower / Glide Across Terrace / 1961 NL Pennant / 208 Hits NL Leader / .343 Career High / Gold Glove / Third MVP Behind Robinson Cepeda / Only World Series 1961 / 2-For-22 Yankees / 423 Putouts 1959 NL Leader Three Consecutive Years' / affinity 'SACRED' — fortieth SACRED in the set. Pinson's is the most geographically specific SACRED in the set after Moon's Coliseum: Crosley Field's center field terrace was an incline that ran around the entire outfield, a feature unique in the major leagues that required a specific physical adjustment — a gliding, floating run that looked like nothing so much as a man moving faster than gravity allowed. Brosnan watched it once from the mound and remembered it for the rest of his life. The SACRED is the terrace: not just the park but the specific inclined geography that Pinson had mastered, that he made look like gliding. Ballpark domain."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Memphis → Oakland / McClymonds High School / George Powles / Frank Robinson, Curt Flood, Bill Russell as schoolmates / the trumpet and Miles Davis / $4,000 bonus before his 18th birthday.",
+      "note_extra": "Source labeled 'Memphis Tennessee / Oakland California Age Seven / McClymonds High School / George Powles Coach / Frank Robinson Classmate / Curt Flood Classmate / Bill Russell Schoolmate NBA / Trumpet Jazz Band / Dreams Next Miles Davis / Powles Persuaded Baseball / $4000 Bonus Reds Under 18 / Two Minor League Seasons Only / Visalia 1957 .367 20 HR 20 3B Cal League MVP / Wausau 1956 .278' / affinity 'ORIGIN' — forty-third ORIGIN in the set. Pinson's is the most athletically concentrated ORIGIN in the set: McClymonds High School produced Frank Robinson (Baseball HOF), Curt Flood (center fielder and reserve clause martyr), Bill Russell (Basketball HOF, 11 NBA titles), and Vada Pinson (2,757 hits, not in HOF). The same coach, George Powles, developed all of them. Pinson had to be persuaded by Powles to choose baseball over music — the trumpet and the Miles Davis aspiration were real alternatives, not passing interests. He kept the trumpet as a hobby. He signed for $4,000. He needed only two minor league seasons. Community Events domain: the Oakland community that produced four of the greatest athletes of the mid-20th century from the same high school."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HAUNTED",
+      "note": "Frank Robinson traded after 1965 ('an old thirty'). Pinson's decline after Robinson's departure. The Reds' racial divide. The death alone in Oakland in 1995.",
+      "note_extra": "Source labeled 'Frank Robinson Traded 1965 / DeWitt Old Thirty / Robinson Triple Crown AL MVP 1966 Orioles / Pinson .288 1966 1967 Without Robinson / Racial Divide Reds / White Black Players Did Not Mingle / Leaders Of Black Players Group / Pinson Died October 1995 Age 57 Stroke / Oakland / Not Found For Three Days (Flood Account) / Curt Flood Dying Wrote Tribute / Not In Hall Of Fame 15.4% Max Vote' / affinity 'HAUNTED' — twentieth HAUNTED in the set. Pinson's is the most companion-specific HAUNTED in the set: Robinson and Pinson were inseparable — roommates on the road, neighbors near each other's apartments, the two leaders of the Black players on a segregated team. Robinson: 'I finally made a close friend in baseball when Vada Pinson joined the Reds in 1959.' When Robinson was traded after 1965 (called 'an old thirty' by DeWitt, who was wrong — Robinson won the Triple Crown and AL MVP the next year), Pinson's numbers held (.288 both years) but the team that had won one pennant in their time together never came close again. Hotel/Rest domain: the private calculus of a career whose defining partnership was broken by a trade."
+    },
+    {
+      "location": "Open Field/Stadium",
+      "affinity": "MAXIMUM",
+      "note": "985 hits in five seasons — more than Musial, Mays, Aaron, Robinson. One of only four players ever with 2,500+ hits, 250+ HR, 250+ SB. Four 200+ hit seasons. Five seasons of 20+ HR and 20+ SB. Fastest home-to-first in baseball.",
+      "note_extra": "Source labeled '985 Hits Five Seasons / More Than Musial 975 Mays 954 Aaron 914 Robinson 818 / 2757 Career Hits / One Of Four Players 2500 Hits 250 HR 250 SB / Four 200 Hit Seasons / Five Seasons 20 HR 20 SB / 3.3 Seconds Home To First Fastest Baseball / Gold Glove 1961 / Joined Mays Clemente 1961 NL Gold Glove Outfield / Seven In Hits 1950-1975 Only Non-HOF Top Ten / Led NL Putouts Three Consecutive Years / Led NL Outfielder Games Six Times' / affinity 'MAXIMUM' — fifteenth MAXIMUM in the set. Pinson's is the most statistically concentrated MAXIMUM in the set: the 985-hit five-year pace, the 2,500+/250+/250+ club, the Gold Glove joining Mays and Clemente, the home-to-first speed record — each of these is a historically distinct achievement. The MAXIMUM is the accumulation of what he did without a ring: more hits in five years than Musial, Mays, Aaron, or Robinson, and no ring to show for it. Open Field domain: the stadium performances across 18 seasons."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "COMPLEX",
+      "note": "Star of the future who became one of the best players of his era — but not the player the comparisons to Aaron, Mays, and Robinson predicted. 7th in hits 1950-1975, only non-HOFer in the top ten. Ineligible for ROY by 6 AB. 2-for-22 in his only WS.",
+      "note_extra": "Source labeled 'Star Of The Future Fred Haney 1959 / Aaron Top Player Day Pinson Future / Ineligible ROY 96 AB Exceeded Cutoff 90 By Six / Would Have Won ROY 1959 / 2-For-22 1961 World Series .091 / Never Returned Postseason / Not In HOF / 7th Hits 1950-1975 Only Non-HOF Top Ten / 15.4% Max BBWAA Vote / Third In MVP 1961 Behind Robinson Cepeda Both HOF / Runner Up Batting Race 1961 Behind Clemente .351 To .343 / Before 26 Birthday 1177 Hits Fifth All Time Behind Cobb Ott Kaline Lindstrom All HOF' / affinity 'COMPLEX' — twenty-second COMPLEX in the set. Pinson's is the most credential-dense COMPLEX in the set: he was the star of the future in 1959, the third-best player in the NL in 1961 (behind two Hall of Famers), runner-up in the batting race to Clemente, Gold Glove alongside Mays and Clemente, 985 hits in five years more than any contemporary — and he is not in the Hall of Fame. The COMPLEX is the gap between the comparisons and the recognition: Fred Haney's 1959 prediction came true in the most specific ways and was insufficient for Cooperstown. Hotel/Rest domain: the private measurement of a career against what it was supposed to become."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Star of the Future — in seasons 1-3 of career, CON rolls made at effective CON 5.",
+      "He Would Beat It Out — once per game, groundball out result can be re-rolled at SPD +1 (4 instead of 3).",
+      "The Next Miles Davis — in any deficit of 2+ runs in inning 7+, CON rises from 4 to 5 for the remainder of the game.",
+      "He Just Seemed to Glide — in any park with a non-standard outfield feature (terrace, incline, angled wall), DEF treated as 3 instead of 2.",
+      "985 in the First Five — all hit totals in seasons 1-5 receive a +5% bonus."
+    ],
+    "cold_triggers": [
+      "CLU 0 — never won. The 1961 WS is 2-for-22. No rings. Team context collapsed after Robinson was traded.",
+      "Tried to pull too much — when facing pitchers with SPD 1+ fastballs on the inside corner, POW drops by 0.5 (the pull tendency that lowered his average in some seasons is documented).",
+      "After Robinson — following any in-game event where a primary lineup partner is removed, Pinson's CON drops by 0.5 for the remainder of that game (the Robinson departure mechanic encoded at the game level)."
+    ],
+    "pressure_response": "The 1961 WS is the failure document: .343 during the season, 208 hits, Gold Glove, 3rd in MVP — then 2-for-22 against the Yankees in five games. The contrast is the complete Pinson profile: the regular season was as good as it gets at his level, and the one time the stage was the highest it could be, it was his worst performance. The pressure response is the honest complexity: he was not the player the WS required, and the WS was the only time that specific version of him was needed."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "McClymonds High School, Oakland",
+      "type": "Origin",
+      "text": "One high school in West Oakland. One coach, George Powles. Four athletes who would reach the highest levels of their sports. Frank Robinson signed with the Reds in 1953 for $3,500. Bill Russell played in the 1952 state basketball championship and went on to win 11 NBA titles. Curt Flood signed with the Reds in 1956, played center field for the Cardinals, and stared down the reserve clause. Vada Pinson played the trumpet in the jazz band and dreamed of being the next Miles Davis. Powles persuaded him to choose baseball. He signed for $4,000 before his 18th birthday. Two years in the minors. Then he hit .316 in his first full MLB season and Fred Haney said he was the star of the future. He kept the trumpet as a hobby.",
+      "origin": "The McClymonds High School connection, Powles's role with all four athletes, Pinson's trumpet and Miles Davis aspiration, and the $4,000 signing bonus are documented in the SABR BioProject and the Frank Robinson high school story on Baseball Egg."
+    },
+    {
+      "title": "Ineligible by Six At-Bats",
+      "type": "Historic Fact",
+      "text": "1959. Vada Pinson leads the National League in runs scored (131), doubles (47), plate appearances (648), and outfield putouts (423). He hits .316 with 205 hits, 20 home runs, 21 stolen bases, and plays in both All-Star Games. He earns 11 MVP votes. He would have won the NL Rookie of the Year Award. He did not win it because he had 96 at-bats in 1958 — six more than the 90-AB rookie eligibility cutoff. Six at-bats. The Rookie of the Year Award went to Willie McCovey, who played 52 games. Pinson was 20 years old. He had just produced more hits at that age than any player except Ty Cobb at the same point.",
+      "origin": "Pinson's ROY ineligibility (96 AB exceeded the 90-AB cutoff), the 1959 season statistics, and the comparison to McCovey are documented in multiple sources."
+    },
+    {
+      "title": "He Just Seemed to Glide",
+      "type": "Game Action",
+      "text": "Jim Brosnan had a shutout going in the eighth inning against the Cubs. Two outs. Ernie Banks hit a ball to what Brosnan later called the deepest part of old Crosley Field — right-center field, next to the flagpole and the light tower. Pinson had been playing Banks in left-center. He ran. Brosnan watched from the mound: 'He just seemed to glide across that terrace that ran around the outfield.' He caught the ball. Brosnan finished his shutout. Pinson had not appeared to run. He had appeared to float — across the terrace, across the deepest part of the field, to the flagpole. Curt Flood called him 'the forgotten Redleg centerfielder floating up the terrace.' He was not floating. He was the fastest player home to first in baseball. It just looked like floating.",
+      "origin": "Brosnan's account is documented in the Misc Baseball remembrance piece. Flood's terrace quote is from the same source."
+    },
+    {
+      "title": "985",
+      "type": "Historic Feat",
+      "text": "In his first five full seasons in the major leagues (1959-1963), Vada Pinson collected 985 hits. Stan Musial had 975 hits in his first five full seasons. Willie Mays had 954. Hank Aaron had 914. Frank Robinson — Pinson's high school teammate and roommate — had 818. Pinson had more. He also had more than Alex Rodriguez, Robin Yount, Jimmie Foxx, and Orlando Cepeda at the same career point. All of those players except Pinson are in the Baseball Hall of Fame or went on to Hall of Fame careers. Pinson was 24 years old when his fifth full season ended. Fred Haney had called him the star of the future when he was 20. He had become the present. He was not elected to the Hall of Fame. His peak vote total was 15.4 percent.",
+      "origin": "The 985-hit total and all comparators (Musial 975, Mays 954, Aaron 914, Robinson 818) are documented in the SABR BioProject."
+    },
+    {
+      "title": "No Other Players Warmed to Pete",
+      "type": "Character",
+      "text": "1963. Pete Rose is a 22-year-old rookie. He took the starting second base job from popular veteran Don Blasingame, and most of the Reds do not forgive him for it. Frank Robinson looked around the clubhouse and saw Rose being ostracized. He and Vada Pinson went to Rose and asked him to dinner. Robinson: 'No other players warmed to Pete all season, so Vada and I became his friends and showed him the ropes around the league.' Pete Rose went on to get more hits than any player in baseball history. In 1963, the only two players who would eat dinner with him were Frank Robinson and Vada Pinson.",
+      "origin": "Robinson's account of welcoming Rose is documented in the SABR BioProject."
+    },
+    {
+      "title": "2-for-22",
+      "type": "Decline",
+      "text": "October 1961. The Cincinnati Reds win their first National League pennant since 1940. Vada Pinson hit .343 during the season — his career high — with 208 hits leading the NL, a Gold Glove Award, and a third-place finish in the MVP voting behind Frank Robinson and Orlando Cepeda. In the World Series against the New York Yankees, Pinson went 2-for-22. He batted .091. The Reds lost in five games. He never returned to the World Series. In his 18-year career, those were his only postseason at-bats. Two hits in 22 tries. Frank Robinson won the MVP. Pinson led the league in hits. The one time the stage was the World Series, he batted .091.",
+      "origin": "Pinson's 1961 WS statistics (2-for-22, .091) and the context of it being his only career postseason are documented."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'11'', 170 lbs — lean, left-handed, fast. In 1961 he is 22 years old at his statistical peak: .343, 208 hits, Gold Glove, third in MVP. The face of Curt Flood's description: 'Vada was neat as a pin. He shined his shoes between innings, almost.' The composure is visible. He is already thinking about the next pitch while the last one is still happening.",
+    "attire": "Cincinnati Reds home whites — the 1961 uniform, the wishbone C on the cap. The left-handed batting stance: the smooth swing that produced 985 hits in five seasons, built for line drives and gap shots more than pull power. Number 28 on the back. The CF's ready position — deep in the outfield of Crosley Field, the terrace behind him, the flagpole and light tower visible in the background.",
+    "mood": "Quiet glide. Curt Flood called it 'floating up the terrace.' Jim Brosnan said he 'just seemed to glide across' it. The art direction is the motion quality: a player in the act of running who does not look like he is running hard. The trumpet player who became a center fielder. The Miles Davis ambition — the improviser's grace in a structured game.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Crosley Field in the background — the distinctive inclined terrace, the flagpole in deep right-center, the intimate Cincinnati ballpark of the early 1960s. The last great Crosley Field era before Riverfront Stadium replaced it in 1970.",
+    "reference": "Frank Robinson's characterization as the final art anchor: 'The numbers do not tell the true story. Vada was underrated and underappreciated as a player. He brought a whole lot more to the game than just cold numbers.' The art should show what the numbers do not: the grace, the terrace glide, the easy motion of the fastest home-to-first runner in baseball making it look like he was not running at all."
+  }
+}

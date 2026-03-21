@@ -1,0 +1,191 @@
+{
+  "card_type": "player",
+  "name": "Bob Allison",
+  "nickname": "Mr. Downstairs",
+  "year": 1963,
+  "team": "Minnesota Twins",
+  "league": "American League",
+  "era": "1960s",
+  "ilb_team": "Swingers 1960",
+  "position": "CF",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'4\"",
+  "weight": "220 lbs",
+  "born": "July 11, 1934 — Raytown, MO",
+  "died": "April 9, 1995 — Rio Verde, AZ",
+  "hof": "Not inducted. Minnesota Twins Hall of Fame, inducted 2003. Voted greatest left fielder in the first 40 years of the Twins. The Bob Allison Award is given annually to the Twins player who best exemplifies determination, hustle, tenacity, competitive spirit and leadership.",
+
+  "real_stats": {
+    "season": 1963,
+    "batting_avg": ".271",
+    "obp": ".390",
+    "slg": ".521",
+    "ops": ".911",
+    "hits": 124,
+    "doubles": 25,
+    "triples": 2,
+    "home_runs": 35,
+    "rbi": 91,
+    "runs": 99,
+    "walks": 90,
+    "war": 7.4,
+    "all_star": 1,
+    "awards": "Led the American League in runs scored (99) and OPS (.911) in 1963 — first in all of the AL. First of four Twins to lead the AL in WAR in a season (Versalles, Carew, and Mauer are the others; only Allison did not win the MVP award the same year — he finished 15th behind winner Elston Howard despite leading the AL in WAR). Three-time AL All-Star (1959, 1963, 1964). 1959 AL Rookie of the Year — one of the most surprising ROY seasons in AL history; most scouting reports during spring training called for him to be sent down. Career: .255 BA, .358 OBP, 256 HR, 796 RBI in 13 seasons. Eight seasons of 20+ HR. Led AL in triples 1959 (9). Top-5 in AL OPS five times from 1962-1968. Calvin Griffith on Allison: 'When I think of Bob Allison, I think of brute strength.' Twins coach Ellis Clary: 'When he runs down the line from home plate I can hear the ground shake.' Leonard Schechter in Sport, 1964: 'Anyone can be successful in baseball if he follows the path of Bob Allison. All you have to do is be 6-foot-4, strong as a weightlifter, handsome as a shirt model, have the personality of an honor graduate of Dale Carnegie, and also work your head off.' July 18, 1962: Allison and Killebrew became the first teammates in MLB history to each hit a grand slam in the same inning. May 2, 1964: Allison, Killebrew, Tony Oliva, and Jimmie Hall hit four consecutive home runs. May 17, 1963: Allison hit home runs in three consecutive at-bats. 1965 World Series Game 2: made a diving backhanded catch of a Jim Lefebvre sinking liner in the fifth inning — called the best catch in Twins history and compared favorably by Boston Globe writer Harold Kaese to the legendary WS catches of Al Gionfriddo and Willie Mays.",
+    "world_series": "1965 World Series (lost to Los Angeles Dodgers in 7 games). In Game 2: a bases-loaded double against Koufax and the diving backhanded catch of a Lefebvre sinking liner in left field — the game's and series' most memorable defensive play, called one of the best catches in World Series history. In Game 5: scored the winning run. Allison later modestly noted that he made the last out of the 1965 World Series (hit a fly ball in Game 7 when the Dodgers won). No World Series ring."
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 2,
+    "pow": 4,
+    "spd": 1,
+    "def": 2,
+    "clu": 2
+  },
+
+  "stat_justification": {
+    "con": "Career .255 BA. Career high .287 in 1964. Struck out 100+ times in five seasons. Drew many walks (.358 career OBP despite .255 BA) — he had plate discipline despite the strikeouts. CON 2 reflects the power hitter who struck out often but worked counts — the .358 OBP is genuinely high for CON 2, and it is built on walks and not batting average.",
+    "pow": "Career 256 HR. 35 HR in 1963. 32 HR in 1964. 30 HR in 1959. Eight seasons of 20+ HR. 'When I think of Bob Allison, I think of brute strength' — Calvin Griffith. 'Mr. Downstairs' — his line drive home runs contrasted with Killebrew's arcing ones. First teammates in ML history to each hit a grand slam in the same inning (with Killebrew). POW 4 reflects the consistent elite power — not the top tier (Killebrew, Frank Robinson are POW 5), but the second-tier power hitter who produced 256 career HR with line-drive authority.",
+    "spd": "Led AL in triples in 1959 (9). Described as 'the most feared physical base runner in the American League' — he bounced middle infielders with hard slides at second base. But not a speed player in the traditional sense. 'When he runs down the line from home plate I can hear the ground shake' — Ellis Clary. SPD 1 reflects the aggressive but physically imposing baserunner: he scared people, but the speed was not the fear.",
+    "def": "1965 WS Game 2: diving backhanded catch of Lefebvre's sinking liner, called the best catch in Twins history and one of the best in WS history. Good range for his size — top-5 in AL range factor per 9 innings five times. Strong arm — top-5 in AL outfield assists three times. But led AL in errors in 1960 (11), finished second in errors twice. DEF 2 reflects the explosive, spectacular defender who also produced errors — the raw athleticism without refinement.",
+    "clu": "One WS appearance (1965, lost in 7). In Game 2: the catch AND a bases-loaded double against Koufax. Modestly noted he made the last out. No ring. CLU 2 is the WS contributor without the championship result — meaningful individual performances in the one series he played."
+  },
+
+  "personality": {
+    "leadership_style": "The competitor who earned the set's most specific award named after him: determination, hustle, tenacity, competitive spirit and leadership — that is the Bob Allison Award given annually by the Twins. He bounced middle infielders with hard slides at second base. He made the diving catch in Game 2 of the 1965 World Series. He was the first Twins player to make the Twin Cities his year-round home. Leonard Schechter: 'Anyone can be successful in baseball if he follows the path of Bob Allison. All you have to do is be 6-4, strong as a weightlifter, handsome as a shirt model, have the personality of an honor graduate of Dale Carnegie, and also work your head off.'",
+    "temperament": "Straightforward, competitive, physically imposing. He shunned an offer from the New York Yankees to sign with the Washington Senators because he believed he would get more opportunity. He shared a minor league room with Harmon Killebrew in Charlotte in 1956 — they became lifelong friends. He played with a tight end's mentality (he had played fullback at the University of Kansas). He worked for Coca-Cola during the off-seasons throughout his career, and became the first Twins player to live in the Twin Cities year-round.",
+    "work_ethic": "He came to spring training 1959 with every scouting report suggesting he should be sent down. He hit 30 home runs and won the Rookie of the Year. He led the AL in WAR in 1963 and finished 15th in the MVP voting because he played in an era that rewarded batting average over power and walks. He hit home runs in three consecutive at-bats on May 17, 1963. He made the diving catch in Game 2 of the 1965 World Series with his wrist bothering him all year. He played every day.",
+    "lifestyle": "Raytown, Missouri (10 miles southeast of Kansas City) → University of Kansas (football fullback, baseball outfielder) → signed Senators over Yankees for opportunity → Washington D.C./Minneapolis/Twin Cities for life. He was the first Twins player to make the Twin Cities his year-round home. He worked for Coca-Cola since 1961, eventually becoming plant manager and sales manager for the Twin Cities Marketing Division after retiring from baseball. In 1987, at an old-timers game at the Metrodome, he noticed his coordination was wrong. In 1989: diagnosed with Olivo-Ponto cerebellar atrophy (OPCA), a progressive sporadic ataxia. He battled for eight years. He lost his ability to walk, talk, write, and feed himself. He died April 9, 1995, at age 60, at his home in Rio Verde, Arizona. His wife Betty, former teammates Jim Kaat and Frank Quilici, and his three sons helped found the Bob Allison Ataxia Research Center at the University of Minnesota in 1990.",
+    "dark_side": "1987. Old-timers game at the Hubert H. Humphrey Metrodome. Bob Allison is 52 years old. The coordination is wrong. Running is harder than it should be. Catching the ball — something he had done at the professional level for 13 years — is no longer simple. The diagnosis takes two years to arrive: Olivo-Ponto cerebellar atrophy. A progressive, sporadic, incurable neurological disease. It took him eight years. He lost the ability to walk. He lost the ability to talk. He lost the ability to write. He lost the ability to feed himself. He had beaten every scouting report, shunned the Yankees, bounced middle infielders, made the catch in Game 2. Then the body that Ellis Clary heard shaking the ground when it ran — that body gave out in a way that no slide, no pitch, no outfield wall had managed. Jim Kaat: 'This guy had the ideal body. Very durable. He was hard-nosed and played every day. Everyone marveled at his condition.'"
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Mr. Downstairs",
+      "desc": "Harmon Killebrew hit soaring home runs — arcing, towering shots that seemed to defy gravity before landing in the upper deck. Bob Allison hit blistering line drives that cleared the fence before the outfielder had time to react. The fans and writers called them 'Mr. Upstairs' (Killebrew) and 'Mr. Downstairs' (Allison). In 1961 they combined for 75 home runs. In 1962: 80. In 1963: 80. In 1964: 81. On July 18, 1962, they became the first teammates in Major League Baseball history to each hit a grand slam in the same inning. In ILB, Mr. Downstairs is the set's power-tandem cross-card mechanic: when Allison and Killebrew bat consecutively in the same lineup, both receive POW +0.5 effective tier for the full game (the sum of upstairs and downstairs is the Twins' offensive identity; the opposition cannot pitch to one without exposing the other).",
+      "note": "The Killebrew-Allison 'Mr. Upstairs / Mr. Downstairs' dynamic, their home run combination totals, and the July 18, 1962 first-ever same-inning grand slam teammates record are documented."
+    },
+    {
+      "tag": "The Lefebvre Catch",
+      "desc": "Game 2. 1965 World Series. Dodger Stadium. Fifth inning. The game is scoreless. There is a runner on first and nobody out. Jim Lefebvre hits a sharp sinking liner toward the left-field line. Bob Allison dives, backhands the ball, and holds on. The inning is over. Harold Kaese of the Boston Globe calls the catch better than the legendary WS catches of Al Gionfriddo and Willie Mays. The Twins win Game 2, 5-1, behind Jim Kaat's complete game. Allison also hits a bases-loaded double against Koufax. Later, Allison modestly notes he made the last out of the World Series in Game 7. In ILB, The Lefebvre Catch is the set's once-per-career defensive peak mechanic: in any WS game (or postseason equivalent), Allison's DEF is treated as 5 instead of 2 — the one moment where he exceeded every expectation and defied every measurement.",
+      "note": "The Lefebvre catch in Game 2 of the 1965 WS, Kaese's comparison to Gionfriddo and Mays, and Allison's bases-loaded double against Koufax are documented."
+    },
+    {
+      "tag": "I Can Hear the Ground Shake",
+      "desc": "Twins coach Ellis Clary on Bob Allison in spring training 1959, when nearly every scouting report recommended he be sent down: 'I know he'll scare the daylights out of the opposition. Man, when he runs down the line from home plate I can hear the ground shake.' Allison hit 30 home runs and won the AL Rookie of the Year. The ground had been shaking for a reason. In ILB, I Can Hear the Ground Shake is the set's intimidation-baserunning trait: whenever Allison takes an aggressive slide at second base (declared by the Swingers 1960 manager before the play), the opposing middle infielder's DEF is treated as 1 tier lower for the next three plays of that game (they are thinking about what is coming).",
+      "note": "Ellis Clary's 'ground shake' quote and Allison's reputation as the most feared physical baserunner in the AL are documented."
+    },
+    {
+      "tag": "He Shunned the Yankees",
+      "desc": "In the days before the amateur draft, a young player could sign with any team. Bob Allison, after two years at the University of Kansas where he starred as both a fullback and an outfielder, had an offer from the New York Yankees. He turned it down. He signed with the Washington Senators instead — because the Senators offered more opportunity, and opportunity was what he needed. The Yankees dynasty would continue without him. The Senators would move to Minnesota and become the Twins, and Allison would become their greatest left fielder. He was the first player on the team to make the Twin Cities his year-round home. In ILB, He Shunned the Yankees is the set's franchise-identity loyalty trait: Bob Allison's POW receives a permanent +0.5 bonus at Metropolitan Stadium (or any franchise home park he has played in for 3+ ILB seasons), reflecting the player who chose his team.",
+      "note": "Allison's rejection of a Yankees offer to sign with the Senators, and his being the first Twins player to make the Twin Cities his year-round home, are documented."
+    },
+    {
+      "tag": "The Ideal Body",
+      "desc": "Jim Kaat, after Bob Allison's diagnosis of Olivo-Ponto cerebellar atrophy was announced: 'This guy had the ideal body. Very durable. He was a hard-nosed player, and he played every day. He was always so fit. Everyone marveled at his condition.' Leonard Schechter in Sport: 'All you have to do is be 6-foot-4, strong as a weightlifter, handsome as a shirt model.' Thirteen years after retirement, at an old-timers game at the Metrodome in 1987, Bob Allison could not run normally. He could not catch the ball simply. He would spend eight years losing everything the body had given him. He died at 60. In ILB, The Ideal Body is the set's durability-then-decline mechanic: in any season before age 52 (the ataxia onset equivalent in career terms), Allison's STA is treated as 3 (the ideal body; it always showed up). In any ILB season where age or injury signals are present, STA drops to 1.",
+      "note": "Kaat's 'ideal body' quote, the 1987 old-timers game ataxia onset, and Allison's eight-year battle before dying at 60 are documented in the Chicago Tribune piece."
+    },
+    {
+      "tag": "The Bob Allison Award",
+      "desc": "After Bob Allison died on April 9, 1995, the Minnesota Twins created an annual award in his name. The Bob Allison Award is given to the Twins player who best exemplifies 'determination, hustle, tenacity, competitive spirit and leadership both on and off the field.' It is not given for batting average or home runs. It is given for what Bob Allison was: the player who arrived in spring training with every scouting report suggesting he be sent down, hit 30 home runs, won the Rookie of the Year, bounced middle infielders with hard slides, made the diving catch in Game 2 of the 1965 World Series, shunned the Yankees, and was the first Twin to call Minneapolis home year-round. In ILB, The Bob Allison Award is the set's legacy calibration trait: at the end of any ILB season where Allison's clutch contributions (CLU-adjacent actions) exceed his statistical baseline, his franchise receives a permanent +0.25 morale bonus for the following season (the determination does not expire with the player).",
+      "note": "The Bob Allison Award given annually by the Twins, its criteria, and its origin after Allison's 1995 death are documented."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballpark",
+      "affinity": "SACRED",
+      "note": "Metropolitan Stadium / the 1965 WS Game 2 catch / the Killebrew partnership / 'Mr. Downstairs' / leading the AL in WAR with no MVP.",
+      "note_extra": "Source labeled 'Metropolitan Stadium Minneapolis / 1963 Led AL Runs 99 OPS .911 WAR / First Twins Player Lead AL WAR Versalles Carew Mauer Others Won MVP Allison Did Not / 35 HR 91 RBI .390 OBP 1963 / 1965 WS Game 2 Lefebvre Catch Best In Twins History / Kaese Better Than Gionfriddo Mays / Bases Loaded Double Koufax Game 2 / Killebrew Mr Upstairs Allison Mr Downstairs / July 18 1962 First Teammates Grand Slams Same Inning / 1959 ROY Nobody Expected It Every Report Said Send Down / Three All-Stars / First Twins Year Round Home / Voted Greatest LF First 40 Years Twins' / affinity 'SACRED' — fifty-eighth SACRED in the set, sixteenth for the Swingers 1960. Allison's is the most unrecognized-peak SACRED in the set: he led the AL in WAR in 1963 and finished 15th in the MVP. The 1965 WS Game 2 catch — diving, backhanded, sinking liner, scoreless game, fifth inning — is the moment that defines the player more than any stat line. The SACRED is the combination: the unrecognized statistical dominance and the recognized physical excellence in one specific October moment. Ballpark domain."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Raytown, Missouri / University of Kansas fullback / shunned Yankees / Killebrew roommate Charlotte 1956 / first Twin to live year-round in Minneapolis.",
+      "note_extra": "Source labeled 'Raytown Missouri July 11 1934 / Father Semi-Pro Baseball Catcher / Raytown High School Football Basketball Track / University Kansas Fullback Outfielder / Signed Senators Over Yankees For Opportunity / Before Amateur Draft Could Sign Any Team / Hagerstown Charlotte Chattanooga Minor League / Roommate Harmon Killebrew Charlotte 1956 / Lifelong Friends / First Twins Player Make Twin Cities Year-Round Home / Worked Coca-Cola Off-Season 1961 / San Francisco 49ers Interest Football / Cal Griffith Brute Strength Quote / Schechter Sport 1964 Weightlifter Shirt Model Carnegie Quote' / affinity 'ORIGIN' — sixty-first ORIGIN in the set, thirteenth for the Swingers 1960. Allison's is the most opportunity-choice ORIGIN in the set: he rejected the Yankees for the chance to play. The decision was Raytown to Minneapolis by way of a deliberate choice not to wait behind the dynasty. The Charlotte minor league room with Killebrew is where the longest friendship in the Swingers 1960 began. Community Events domain."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "DAMNED",
+      "note": "Ataxia. 1987 old-timers game: coordination wrong. 1989: Olivo-Ponto cerebellar atrophy. Lost ability to walk, talk, write, feed himself. Died at 60.",
+      "note_extra": "Source labeled 'Olivo-Ponto Cerebellar Atrophy OPCA Progressive Sporadic Ataxia / 1987 Old-Timers Game Metrodome Coordination Wrong / Two Years Doctor Visits 1989 Diagnosis / Eight Years Battle / Lost Ability Walk Talk Write Feed Himself / Died April 9 1995 Rio Verde Arizona Age 60 / Jim Kaat This Guy Had Ideal Body Everyone Marveled Condition / Bob Allison Ataxia Research Center Founded 1990 University Minnesota / Kaat And Quilici Helped Raise Funds / Wife Betty Sons Mark Kirk Kyle Center Founders / More Than 10 Million Raised / Ataxia Remains Incurable / Made Last Out 1965 World Series' / affinity 'DAMNED' — eighteenth DAMNED in the set, fourth for a Swingers 1960 position player. Allison's is the most neurological DAMNED in the set: the body that Ellis Clary heard shaking the ground when it ran lost its coordination at a 1987 old-timers game and spent eight years losing everything the body could do. Hotel/Rest domain."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "CODA",
+      "note": "Bob Allison Award. Ataxia Research Center. Kaat and Quilici fundraising. Voted greatest LF first 40 years of Twins. First Twins year-round home. Coca-Cola career.",
+      "note_extra": "Source labeled 'Bob Allison Award Twins Annual Award Determination Hustle Tenacity Spirit Leadership / Awarded After Death 1995 / Ataxia Research Center University Minnesota Founded 1990 / Jim Kaat Frank Quilici Raised Funds / 10 Million Plus Raised For Research / Voted Greatest LF First 40 Years Twins / Minnesota Twins Hall Fame Inducted 2003 / First Player Make Twin Cities Year-Round Home / Coca-Cola Career 1961-1989 Plant Manager Sales Manager Twin Cities Division / Standout University Kansas Ataxia Center Website / One Photo With Eisenhower Opening Day 1959 Or 1960' / affinity 'CODA' — nineteenth CODA in the set, third for a Swingers 1960 position player. Allison's is the most institutionally-remembered CODA in the set: the Bob Allison Award is given to the Twins player who exemplifies what he was, which means he is defined every year by someone new embodying his qualities. The Ataxia Research Center, founded while he was still battling, is the post-career work that outlasted him in both time and impact. Community Events domain."
+    },
+    {
+      "location": "State House/Government",
+      "affinity": "HIGH",
+      "note": "Standard tier. The power anchor of the 1960s Twins alongside Killebrew, the franchise's first year-round citizen.",
+      "note_extra": "Source labeled 'Three-Time All-Star 1959 1963 1964 / 1959 AL Rookie Of Year / Led AL WAR 1963 No MVP / 256 HR Third Most Twins History Behind Killebrew Hrbek / OPS Over .900 Five Times 1962-1968 / First Twins Year-Round Home / Mr Downstairs Killebrew Mr Upstairs Partnership / One Pennant 1965 No Ring / Twins HOF 2003 / Bob Allison Award Created After Death' / affinity 'HIGH' — standard tier for a player of Allison's sustained production and franchise identity. State House domain: the institutional Twins presence and the year-round citizenship."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Mr. Downstairs — when batting consecutively with Killebrew, both receive POW +0.5 effective tier for the full game.",
+      "The Lefebvre Catch — in any WS game (ILB equivalent), DEF treated as 5 instead of 2.",
+      "I Can Hear the Ground Shake — after any aggressive declared slide at 2B, opposing middle infielder's DEF drops 1 tier for the next three plays.",
+      "He Shunned the Yankees — POW +0.5 permanent bonus at any franchise home park played in for 3+ ILB seasons.",
+      "The Bob Allison Award — at the end of any season where CLU contributions exceed statistical baseline, franchise receives +0.25 morale bonus following season."
+    ],
+    "cold_triggers": [
+      "CON 2 baseline — strikeouts were always part of the profile; the power came with the K.",
+      "The Ideal Body (late career) — after any ataxia-equivalent season signal (age or injury markers), STA drops to 1.",
+      "SPD 1 — the ground shook, but speed was not the weapon."
+    ],
+    "pressure_response": "Game 2. 1965 World Series. Fifth inning. Jim Lefebvre hits a sinking liner toward the left-field line. Bob Allison, 6-foot-4, 220 pounds, the ground-shaking first Twin to live in Minneapolis year-round, dives backhanded across his body and catches the ball. The inning is over. Harold Kaese calls it better than Gionfriddo and Mays. Allison hits a bases-loaded double against Koufax later in the game. The Twins win. He modestly notes that he made the last out in Game 7."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Mr. Downstairs",
+      "type": "Character",
+      "text": "Harmon Killebrew hit arcing home runs that seemed to hang in the air at Metropolitan Stadium before landing in impossible places. Bob Allison hit line drives that were already gone before the outfielder moved. The fans and writers called them 'Mr. Upstairs' and 'Mr. Downstairs.' On July 18, 1962, against the Cleveland Indians, they hit grand slams in the same inning — the first teammates in Major League Baseball history to do so. They had been roommates in Charlotte in 1956. They were lifelong friends. They were the two reasons the Senators moved to Minnesota and became a pennant winner. Killebrew went upstairs. Allison went downstairs. The result was the same.",
+      "origin": "The Killebrew-Allison 'Mr. Upstairs / Mr. Downstairs' dynamic and the July 18, 1962 first-ever same-inning grand slam by teammates are documented."
+    },
+    {
+      "title": "Nobody Expected It",
+      "type": "Origin",
+      "text": "Spring training 1959. Every scouting report says Bob Allison should be sent down. Shirley Povich, the great Washington sports columnist: 'He's not a power hitter.' Boston sportswriter Hy Hurwitz: 'He should be shipped out.' The Senators beat reporter says none of the writers covering the team thought much of Allison. Twins coach Ellis Clary says something different: 'I know he'll scare the daylights out of the opposition. Man, when he runs down the line from home plate I can hear the ground shake.' Allison opens the season, hits a nine-game hitting streak, and by July has 27 home runs. He finishes with 30. He wins the American League Rookie of the Year. He would go on to hit 256 in his career. Nobody expected it.",
+      "origin": "The 1959 spring training scouting reports, Ellis Clary's quote, and Allison's ROY season are documented."
+    },
+    {
+      "title": "The Lefebvre Catch",
+      "type": "Game Action",
+      "text": "Game 2. 1965 World Series. Dodger Stadium. Fifth inning. The game is scoreless. Runners on base. Jim Lefebvre hits a sharp sinking liner toward the left-field line. Bob Allison dives, extends his glove backhanded across his body, and catches the ball inches from the grass. The inning is over. Harold Kaese of the Boston Globe writes afterward that the catch is better than the legendary World Series catches of Al Gionfriddo (1947) and Willie Mays (1954). It is called the best catch in Twins history. Later in the game, Allison hits a bases-loaded double against Sandy Koufax. The Twins win 5-1 behind Jim Kaat's complete game. In Game 7, Bob Allison makes the last out of the World Series. He never mentions the catch when he talks about that Series. He always mentions the last out.",
+      "origin": "The Lefebvre catch in Game 2, Kaese's comparison to Gionfriddo and Mays, the bases-loaded double against Koufax, and Allison's modesty about the last out are documented."
+    },
+    {
+      "title": "He Shunned the Yankees",
+      "type": "Origin",
+      "text": "Before the amateur draft, a talented player could sign with any team. Bob Allison, fullback and outfielder at the University of Kansas, had an offer from the New York Yankees. He turned it down. He signed with the Washington Senators. He wanted opportunity, not a dynasty. He would have waited years to play in New York. In Washington, and then in Minnesota, he became the franchise's greatest left fielder, its most feared physical baserunner, and the first player on the team to make the Twin Cities his year-round home. 'When I think of Bob Allison,' said team owner Calvin Griffith, 'I think of brute strength.' The Yankees were strong enough without him.",
+      "origin": "Allison's rejection of a Yankees offer to sign with the Senators, his being the first Twins player to live year-round in Minneapolis, and Griffith's quote are documented."
+    },
+    {
+      "title": "1987",
+      "type": "Consequence",
+      "text": "1987. Bob Allison is 52 years old. He is at an old-timers game at the Hubert H. Humphrey Metrodome in Minneapolis — the stadium that replaced Metropolitan Stadium, where he had bounced middle infielders and hit line drives and made the best catch in Twins history. Something is wrong. Running is harder than it should be. Catching the ball is no longer simple. It takes two years of doctor visits to get the diagnosis: Olivo-Ponto cerebellar atrophy, a progressive sporadic ataxia. Bob Allison will battle it for eight years. He will lose his ability to walk. He will lose his ability to talk. He will lose his ability to write and feed himself. Jim Kaat, hearing the news: 'This guy had the ideal body. Very durable. He was a hard-nosed player, and he played every day. Everyone marveled at his condition.' Allison dies April 9, 1995. He is 60 years old.",
+      "origin": "The 1987 old-timers game onset, the two-year diagnosis process, the eight-year battle, Kaat's quote, and Allison's 1995 death at 60 are documented."
+    },
+    {
+      "title": "The Bob Allison Award",
+      "type": "Legacy",
+      "text": "After Bob Allison died in April 1995, the Minnesota Twins created an award in his name. The Bob Allison Award is given annually to the Twins player who best exemplifies 'determination, hustle, tenacity, competitive spirit and leadership both on and off the field.' It is not for batting average. It is not for home runs. It is for Bob Allison: the player who arrived in spring training 1959 with every scouting report saying he should be sent down, hit 30 home runs, won the Rookie of the Year, bounced middle infielders with hard slides, made the diving catch in Game 2 of the World Series, shunned the Yankees, made Minneapolis his home, and spent his last eight years helping build a research center for a disease that was taking everything from him. The Bob Allison Award. Determination. Hustle. Tenacity. Competitive spirit. Leadership.",
+      "origin": "The Bob Allison Award's creation, its criteria, and its connection to Allison's life and death are documented."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'4'', 220 lbs — the ground shakes when he runs. In 1963 he is 28 years old, at the peak of his career: 35 HR, 91 RBI, leads the AL in runs and OPS, leads the AL in WAR, finishes 15th in the MVP. The face of the player Leonard Schechter described as 'strong as a weightlifter, handsome as a shirt model.' The face should show the physical authority and the modesty — the player who modestly notes he made the last out of the 1965 World Series and does not mention the catch.",
+    "attire": "Minnesota Twins road grays — the 1963 uniform, the Minnesota script across the chest, number 14. The right-handed power stance: the compact, violent swing that produces line drives rather than arcs. Metropolitan Stadium in the background — the park where the ground shook and the bleacher fans in right field loved him.",
+    "mood": "Physical authority without arrogance. He was handsome and strong and he bounced middle infielders with hard slides and he worked for Coca-Cola in the off-season and he was the first Twin to live in Minneapolis year-round. The mood is the player who chose the Senators over the Yankees because he wanted to play, not to wait. The ground shakes. That is all.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. The Swingers 1960 palette. Metropolitan Stadium's outfield bleachers in the background — the section where the fans who called him 'Mr. Downstairs' sat. The card year is 1963: the AL WAR leader, the OPS leader, the no-MVP year, the best season.",
+    "reference": "Ellis Clary's quote as the art anchor: 'I know he'll scare the daylights out of the opposition. Man, when he runs down the line from home plate I can hear the ground shake.' The art should show why: the 6-foot-4 frame, the right-handed swing, the line drive already gone before anyone moves. The ground is shaking. It was always shaking."
+  }
+}

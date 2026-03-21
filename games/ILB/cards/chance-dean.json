@@ -1,0 +1,188 @@
+{
+  "card_type": "player",
+  "name": "Dean Chance",
+  "nickname": "Dino",
+  "year": 1964,
+  "team": "Los Angeles Angels",
+  "league": "American League",
+  "era": "1960s",
+  "ilb_team": "Swingers 1960",
+  "position": "SP",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'1\"",
+  "weight": "200 lbs",
+  "born": "June 1, 1941 — Plain Township, OH",
+  "died": "October 11, 2015 — Wooster, OH",
+  "hof": "Not inducted.",
+
+  "real_stats": {
+    "season": 1964,
+    "wins": 20,
+    "losses": 9,
+    "era": "1.65",
+    "innings_pitched": "278.1",
+    "complete_games": 15,
+    "shutouts": 11,
+    "strikeouts": 207,
+    "walks": 86,
+    "war": 8.1,
+    "all_star": 1,
+    "awards": "Cy Young Award 1964 — 85% of votes (only one award given for both leagues; Koufax received 5%). Led all of baseball with 1.65 ERA and 11 shutouts. Led AL in wins (20), innings pitched (278.1), and shutouts. Started the 1964 All-Star Game: struck out Roberto Clemente and Dick Groat on his first two batters, threw 3 scoreless innings (went to bed at 4:15am the night before, by his own admission). Five 1-0 wins — tied the ML record held by Walter Johnson and Carl Hubbell. Against the Yankees in 1964: 5 starts, 4 CG, 3 shutouts, 4-0 record, 0.18 ERA, 50 innings, 14 hits, 1 run (a Mantle HR). Sportswriter Phil Pepe: 'It's Chance, not CBS, who owns the New York Yankees. Lock, stock and barrel.' Mickey Mantle: 'I don't like to face Dean Chance because he doesn't look at you while he's pitching.' Youngest Cy Young winner in history at the time (age 23). Career: 128-115, 2.92 ERA, 1,534 K in 11 seasons. Two 20-win seasons (1964: 20-9; 1967: 20-14 with the Twins). Pitched a rain-shortened five-inning perfect game against the Red Sox on August 6, 1967. Pitched a complete-game no-hitter against the Cleveland Indians on August 25, 1967 (2-1; the run scored in the first inning on two walks, an error, and a wild pitch, before he had retired a batter). Arms burned out at 30 — no wins in the major leagues after his 30th birthday. Dean Chance on pitching: 'One day you can throw tomatoes through brick walls. The next day you can't dent a pane of glass with a rock. It hurts, but you hang on, hoping it will come back.'",
+    "world_series": "No World Series appearances. 1969 ALCS with the Minnesota Twins (lost to the Baltimore Orioles in three games). The 1967 pennant race: Chance went 20-14 that season for the Twins, in a four-team race that came down to the final day. He started the final game at Fenway Park with the Twins needing a win to clinch. Boston scored five runs in the sixth inning getting only one ball out of the infield; Chance was chased. Jim Lonborg won the game and the Red Sox won the pennant. Lonborg won the 1967 AL Cy Young. No rings."
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "stf": 4,
+    "ctl": 3,
+    "sta": 3,
+    "def": 1,
+    "clu": 1
+  },
+
+  "stat_justification": {
+    "stf": "1964: 1.65 ERA leading all of baseball, 11 shutouts, 207 K. Fastball, sinker, and sidearm curveball delivered from a delivery that turned his back fully to the hitter — genuinely deceptive, genuinely dominant. Five 1-0 wins. 0.18 ERA against the Yankees in 50 innings. Mantle said he didn't like facing Chance because Chance didn't look at him. STF 4 is the peak Cy Young tier, reflecting the 1964 dominance that is the card year.",
+    "ctl": "A documented 'touch of wildness' throughout his career. 86 walks in 1964 (not excessive but not elite). Led the AL in walks in 1966 (114). In 1963 he lost 18 games despite a 3.19 ERA. The SABR BioProject describes him as never looking at home plate once he received the sign. The wildness was part of the delivery and part of the personality. CTL 3 reflects the genuine but inconsistent command: dominant in 1964, unraveling in 1966.",
+    "sta": "Led AL in innings pitched in 1964 (278.1) and 1967 (267.2). Three solid workhorse seasons. But arm burned out completely at 30 — no wins in the major leagues after his 30th birthday. The SABR BioProject notes 'burning out of the bigs at the age of 30.' STA 3 is the peak-era workhorse without the foundation: three strong seasons and then nothing.",
+    "def": "Bill James named Chance one of the worst hitting pitchers of the 1960s (alongside Ron Herbel). No documented defensive distinction beyond standard pitcher fielding. DEF 1.",
+    "clu": "No World Series. No rings. The 1967 pennant race (lost on the final day, chased in Game 162 at Fenway). The 1969 ALCS loss to Baltimore. CLU 1 is the pitcher who was involved in important games and did not win the championship results."
+  },
+
+  "personality": {
+    "leadership_style": "Wilmer Dean Chance from a dairy farm in Plain Township, Ohio, who signed with the Baltimore Orioles out of Northwestern High School for $30,000 and a $12 Greyhound bus ticket. He pitched 18 no-hit games in high school and lost only once. He arrived in Los Angeles as an expansion team pitcher and immediately became part of a Hollywood nightclub circuit that included Frank Sinatra, Dean Martin, and Marilyn Monroe — alongside his roommate Bo Belinsky. His leadership style was the fastball and the turned back: he didn't look at you while he was pitching, and Mantle didn't like it. Phil Pepe said he owned the Yankees. He did, for one season.",
+    "temperament": "Loose, charismatic, and wildly inconsistent. In 1964 his second-half ERA was 1.29. He went to the All-Star Game on four hours of sleep after being out until 4:15am. He won the Cy Young Award. In 1966 he led the league in walks. He was fined $500 for not showing up to an awards banquet with Belinsky. Manager Rigney, deadpan: 'We're really taking the city series seriously. Our starting pitchers are getting some rest.' Chance allowed: 'I'm not surprised to be traded, but I am shocked that the Angels would trade me to an AL club. I'm shocked that they'd run the risk of letting me come back to haunt them.' He haunted them.",
+    "work_ethic": "When he was on, he was fully on: three consecutive complete-game shutouts starting July 11, 1964. Went 15-4 the rest of the year. Pitched 50 innings against the Yankees in 1964 and allowed 1 run. In 1967, the year after the Angels traded him, he threw a perfect game (rain-shortened, five innings) and a no-hitter. He was 26 years old. His arm had four more years in it. He burned through them. He pitched until there was nothing left and then he stopped.",
+    "lifestyle": "Plain Township, Ohio (family dairy farm) → Los Angeles (the Hollywood nightclub scene with Bo Belinsky) → Minnesota → retired to a 300-acre ranch 3 miles from his boyhood farm. In the 1970s and 1980s, he became one of the most successful carnival game operators in the country — running midway games, employing 250 people, running 40 games at the Ohio State Fair alone, on a circuit from Columbus to Raleigh to Augusta to Corpus Christi. He described it: 'In baseball lingo, that's my World Series. I lose about 20 pounds in 17 days.' In the 1990s he founded the International Boxing Association and managed fighters including Ernie Shavers, who fought Muhammad Ali for the heavyweight title. He died of a heart attack at his home in Wooster, Ohio on October 11, 2015. He was 74.",
+    "dark_side": "One day you can throw tomatoes through brick walls. The next day you can't dent a pane of glass with a rock. Dean Chance threw 278 innings in 1964 at age 23 and won the Cy Young Award. He threw 259 innings at 25 and went 12-17. He threw 267 innings at 26 and won 20 games and threw two no-hitters (one perfect through five innings). And then it was over. No wins after his 30th birthday. The arm was gone. 'It hurts,' he said, 'but you hang on, hoping it will come back.' It didn't."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "He Doesn't Look at You",
+      "desc": "Dean Chance never looked at home plate once he received the sign from his catcher. With a touch of wildness and the habit of never looking at the hitter, he would turn his back fully towards the batter in mid-windup before spinning and unleashing his fastball, sinker, or sidearm curveball. Mickey Mantle, who hit .245 against Chance over his career: 'I don't like to face Dean Chance because he doesn't look at you while he's pitching.' In 1964 Chance pitched 50 innings against the Yankees, allowed 14 hits and 1 run, and posted a 0.18 ERA. In ILB, He Doesn't Look at You is the set's unique delivery mechanic: against any right-handed batter in their first plate appearance of a game, Chance's STF is treated as 5 instead of 4 (the batter has never seen the back-turn delivery before in this game; the disorientation is complete). On any subsequent plate appearance by the same batter, the bonus does not apply.",
+      "note": "Chance's back-turn delivery and Mantle's quoted aversion to it are documented in Wikipedia and the SABR BioProject."
+    },
+    {
+      "tag": "Lock, Stock and Barrel",
+      "desc": "1964. Sportswriter Phil Pepe on Dean Chance's dominance over the New York Yankees: 'It's Chance, not CBS, who owns the New York Yankees. Lock, stock and barrel.' Chance started five games against the Yankees that year, threw four complete games and three shutouts, went 4-0 with a 0.18 ERA in 50 innings, allowing 14 hits and 1 run — a Mantle home run. Five shutout innings alone would have been remarkable. Fifty innings, one run. In ILB, Lock, Stock and Barrel is the set's franchise-ownership offensive trait: against any team Chance has faced at least four times in the ILB record, his CTL is treated as 4 instead of 3 (accumulated knowledge; by the fifth start against the same lineup he knows them completely).",
+      "note": "Phil Pepe's quote and the 0.18 ERA vs. the Yankees across 50 innings and five starts in 1964 are documented in the SABR BioProject."
+    },
+    {
+      "tag": "Five 1-0 Wins",
+      "desc": "In 1964, Dean Chance won five games by a score of 1-0 — the same number as Walter Johnson and Carl Hubbell in their best seasons, tying the ML record. He pitched 11 shutouts in total that year. He was working for a weak-hitting Angels team that gave him almost nothing offensively. He won 20 games anyway, five of them by 1-0, on a team that scored one run for him five times and he still won. In ILB, Five 1-0 Wins is the set's low-run-support survival mechanic: in any game where the Swingers 1960 score 1 run or fewer through 5 innings, Chance's STF receives a +0.5 effective tier for innings 6 through 9 (the absence of support focuses him; he has always done more with less).",
+      "note": "Chance's five 1-0 wins in 1964, tying the ML record held by Walter Johnson and Carl Hubbell, are documented."
+    },
+    {
+      "tag": "Bo and Dean",
+      "desc": "Dean Chance and Bo Belinsky met in spring training in 1959. When the Angels selected Belinsky in the Rule 5 Draft in 1961, they became roommates. The two of them were inseparable in Los Angeles — part of a nightclub circuit that included Frank Sinatra, Dean Martin, and Marilyn Monroe. When they were late to a spring training exhibition game in 1963 and skipped an awards banquet entirely, the Angels fined them $500. Manager Rigney, deadpan: 'We're really taking the city series seriously. Our starting pitchers are getting some rest.' In the 1964 season, while the team publicly tolerated their lifestyle, Chance went 20-9 with a 1.65 ERA. Belinsky went 9-8 with a 2.86 ERA. In ILB, Bo and Dean is the set's off-field-lifestyle double-act trait: when Chance and another designated 'night-owl' teammate are on the same roster, each receives +0.5 STF in the following season (the shared lifestyle produced the 1964 season; the city took something; it gave something back).",
+      "note": "The Belinsky-Chance partnership, the Hollywood nightclub circuit, the $500 fine, and Rigney's response are documented in the SABR BioProject and the Bo and Dean article."
+    },
+    {
+      "tag": "One Day Tomatoes, the Next Day Glass",
+      "desc": "Dean Chance's own description of the arc of a pitcher's career: 'One day you can throw tomatoes through brick walls. The next day you can't dent a pane of glass with a rock. It hurts, but you hang on, hoping it will come back.' He won the Cy Young Award at 23. He was 20-14 with two no-hitters at 26. He had no wins in the major leagues after his 30th birthday. The arm went one day — probably not one specific day but a gradual loss of the thing that made 50 innings against the Yankees produce one run. In ILB, One Day Tomatoes is the set's decline-arc warning trait: in any season following a year where Chance makes 30+ starts, a 1-in-4 STA roll is made; a triggered result drops his STF by 1 effective tier for that season (the arm is not a machine; it was always going to give out; the question was when).",
+      "note": "Chance's quoted description of the pitching arc and his arm burnout at 30 are documented."
+    },
+    {
+      "tag": "The Carnival Circuit",
+      "desc": "After his playing career ended, Dean Chance became a carnival game operator — a midway barker running games of skill at fairs across the country. He eventually employed 250 people and ran 40 games at the Ohio State Fair alone. His circuit ran from Columbus to Raleigh to Augusta to Syracuse to Hollywood, Florida to Corpus Christi, Texas. 'In baseball lingo,' he said, 'that's my World Series. I lose about 20 pounds in 17 days.' He grew tired of the constant travel and the con men who frequented the business and eventually stopped. He then founded the International Boxing Association and managed fighters. One of his fighters, Ernie Shavers, fought Muhammad Ali for the heavyweight title. In ILB, The Carnival Circuit is the set's post-career-grind legacy trait: whenever Chance finishes a season, the next year's STA floor is maintained regardless of usage (he learned to work a long circuit; the grinding of it taught him to last).",
+      "note": "Chance's post-career carnival operation, the 250 employees, the Ohio State Fair 40-game operation, and the circuit cities are documented in Wikipedia and the SABR BioProject."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballpark",
+      "affinity": "SACRED",
+      "note": "Chavez Ravine / Wrigley Field (Angels 1962-65) / the 1964 season / 0.18 ERA vs. Yankees / five 1-0 wins / youngest Cy Young winner.",
+      "note_extra": "Source labeled 'Los Angeles Angels 1961-1966 / 1964 Cy Young 85% Votes / 1.65 ERA Led All Baseball / 11 Shutouts Five 1-0 Wins Walter Johnson Carl Hubbell Record / 20-9 Record 278 IP 207 K / 0.18 ERA Yankees 50 IP 14 H 1 Run 5 GS 4 CG 3 SHO / Lock Stock Barrel Phil Pepe Quote / Mantle Does Not Look At You Quote / All-Star Starter 4:15am Night Before 3 Scoreless Innings / Youngest Cy Young Winner At Time Age 23 / Rain-Shortened Perfect Game August 6 1967 Twins / No-Hitter August 25 1967 vs Cleveland / 20-14 1967 Twins / No Wins After 30th Birthday' / affinity 'SACRED' — fifty-fourth SACRED in the set, twelfth for the Swingers 1960. Chance's is the most peak-compressed SACRED in the set: the entire 1964 season is the SACRED — 1.65 ERA, five 1-0 wins, 0.18 ERA against the Yankees, youngest Cy Young winner, and a man who went to the All-Star Game on four hours of sleep and threw three scoreless innings. The arm had six more years in it. He used them. Ballpark domain."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Plain Township/Wooster, Ohio / dairy farm 166 acres / Northwestern High School / 52-1 / $30,000 and a $12 Greyhound bus ticket / Bo Belinsky / Hollywood nightclub scene.",
+      "note_extra": "Source labeled 'Plain Township Ohio June 1 1941 / Family 166 Acre Dairy Farm Wooster Ohio / Northwestern High School / 52-1 High School Career 18 No-Hit Games / Signed Baltimore Orioles 30000 And 12 Dollar Greyhound Bus Ticket / Expansion Draft Washington Senators Traded Angels / First Angels Cy Young / Bo Belinsky Met Spring Training 1959 / Roomed Together 1963-1964 / Hollywood Nightclub Scene Sinatra Martin Monroe Van Doren / 500 Dollar Fine Missing Banquet / Rigney Starting Pitchers Getting Rest Deadpan / Retired 300-Acre Ranch 3 Miles Boyboy Farm' / affinity 'ORIGIN' — fifty-seventh ORIGIN in the set, ninth for the Swingers 1960. Chance's is the most Ohio-to-Hollywood ORIGIN in the set: the 166-acre dairy farm in Plain Township, the $12 Greyhound bus ticket to professional baseball, and then Hollywood nightclubs with Frank Sinatra and Marilyn Monroe. The Bo Belinsky partnership is the hinge — without Belinsky, Chance might have stayed on the farm's orbit; with him, the Hollywood circuit became the context for the 1964 Cy Young season. Community Events domain."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "DAMNED",
+      "note": "Arm burned out at 30. No wins after 30th birthday. 'One day tomatoes through brick walls. The next day you can't dent a pane of glass.' The 1966 collapse. 12-17 with AL-leading 114 walks.",
+      "note_extra": "Source labeled 'Arm Burned Out Age 30 / No Wins Major Leagues After 30th Birthday / 1966 12-17 3.08 ERA Led AL Walks 114 / One Day Tomatoes Brick Walls Next Day Glass Rock Quote / 1967 Pennant Final Game Chased Fenway Six Runs Sixth Inning / Lonborg Beat Him Cy Young That Year / 1969 ALCS Loss Orioles / 128-115 Career Record / Career Over By 1971 Age 30 / Not In HOF Not Close / Carnival Game Operator 250 Employees / Con Men Frequented Business' / affinity 'DAMNED' — seventeenth DAMNED in the set, third for a Swingers 1960 pitcher. Chance's is the most career-arc specific DAMNED in the set: the arm went between ages 27 and 30, and he described it precisely — tomatoes through brick walls one day, glass intact the next. The DAMNED is not a single event but the accumulated loss of the specific thing. Hotel/Rest domain."
+    },
+    {
+      "location": "Casino/Nightclub",
+      "affinity": "VOLATILE",
+      "note": "Bo Belinsky. The Hollywood nightclub circuit. The $500 fine. The 4:15am All-Star pregame. The carnival operator. The boxing manager. The con men.",
+      "note_extra": "Source labeled 'Bo Belinsky Roommate 1963-1964 / Hollywood Nightclub Scene Frank Sinatra Dean Martin Marilyn Monroe Mamie Van Doren / 500 Dollar Fine Missing Awards Banquet / 415am Night Before All-Star Game 3 Scoreless Innings / Angels Could Not Control Him / Traded Because Inconsistency Off-Field / Carnival Game Operator 1970s-1980s 250 Employees 40 Games Ohio State Fair / Columbus Raleigh Augusta Syracuse Hollywood FL Corpus Christi Circuit / This My World Series Lose 20 Pounds 17 Days / Tired Of Con Men Constant Travel / International Boxing Association Founded 1990s / Managed Ernie Shavers Fought Ali / Not Surprised Traded Shocked AL Club Run Risk Haunt Them' / affinity 'VOLATILE' — third VOLATILE in the set, second for a Swingers 1960 pitcher. The other VOLATILEs are McLain (first) and Cash (second). Chance's is the most eclectic VOLATILE in the set: the Hollywood circuit, the carnival empire, the boxing promotion, and the con men all belong to the same person who went 20-9 with a 1.65 ERA at age 23. Casino/Nightclub domain — the Bo Belinsky partnership was specifically a nightclub partnership, and the 4:15am All-Star appearance is the clearest single data point."
+    },
+    {
+      "location": "Open Field/Stadium",
+      "affinity": "COMPLEX",
+      "note": "Cy Young at 23. 1.65 ERA season. Arm gone at 30. 128-115 career record. Not in HOF. The most compressed peak-to-decline arc in the set.",
+      "note_extra": "Source labeled 'Cy Young Age 23 Youngest At Time / 1.65 ERA Led All Baseball / Two 20-Win Seasons / 0.18 ERA Yankees 1964 / Rain-Shortened Perfect Game And Full No-Hitter Same Season 1967 / Arm Gone Before 30th Birthday No Wins After / 128-115 Career Record / Not In HOF Not Close / Bill James Worst Hitting Pitcher 1960s Ron Herbel / One Day Tomatoes Next Day Glass Quote / Carnival Operator 250 Employees / IOC Founded Boxing Manager Ernie Shavers Ali' / affinity 'COMPLEX' — thirtieth COMPLEX in the set, seventh for the Swingers 1960. Chance's is the most compressed COMPLEX in the set: the peak lasted from ages 23 to 26. He won the Cy Young, threw two no-hitters, and then had no wins in the major leagues after his 30th birthday. The career record (128-115) belongs to the same person as the 1.65 ERA. Both are true. Open Field domain."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "He Doesn't Look at You — first plate appearance by any right-handed batter in a game, STF treated as 5 instead of 4.",
+      "Lock, Stock and Barrel — against any team faced 4+ times in the ILB record, CTL treated as 4 instead of 3.",
+      "Five 1-0 Wins — when team scores 1 run or fewer through 5 innings, STF receives +0.5 for innings 6-9.",
+      "Bo and Dean — when Chance and a designated night-owl teammate are on the same roster, each receives +0.5 STF the following season."
+    ],
+    "cold_triggers": [
+      "One Day Tomatoes — after any 30+ start season, 1-in-4 STA roll; triggered result drops STF by 1 effective tier for that season.",
+      "CTL 3 baseline — the touch of wildness; walks are always part of the profile.",
+      "DEF 1 — Bill James worst hitting pitcher of the 1960s; no fielding or hitting value.",
+      "Post-30 cliff — in any season where Chance is age 30 or older, STA drops to 2 effective tier permanently (the arm gave out exactly at this age; the mechanic is the biography)."
+    ],
+    "pressure_response": "The All-Star Game, 1964. Dean Chance went to bed at 4:15am the night before. He started the game. He struck out Roberto Clemente on his first pitch, struck out Dick Groat on his second, and threw three scoreless innings. That is the pressure response — not the preparation, not the discipline, but the pure ability to execute when it matters. He pitched 50 innings against the Yankees in 1964 and allowed one run. He owned them. On any given day, he could throw tomatoes through brick walls."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "He Doesn't Look at You",
+      "type": "Game Action",
+      "text": "Dean Chance never looked at home plate once he received the sign from his catcher. He would turn his back fully toward the hitter in mid-windup, then spin and unleash his fastball, sinker, or sidearm curveball. Mickey Mantle, who hit .245 against Chance in his career and whose one home run in 50 innings against Chance in 1964 was the only run he allowed: 'I don't like to face Dean Chance because he doesn't look at you while he's pitching.' The 0.18 ERA in those 50 innings — four complete games, three shutouts, 14 hits — was the back turned toward Mantle. Chance later said the umpire's wide strike zone helped in the no-hitter. The delivery helped everywhere else.",
+      "origin": "Chance's back-turn delivery, Mantle's quoted aversion, and the 0.18 ERA in 50 innings against the Yankees in 1964 are documented."
+    },
+    {
+      "title": "Lock, Stock and Barrel",
+      "type": "Historic Feat",
+      "text": "1964. Phil Pepe, sportswriter, on Dean Chance's five starts against the New York Yankees that season: 'It's Chance, not CBS, who owns the New York Yankees. Lock, stock and barrel.' Chance went 4-0 in those five starts, with four complete games, three shutouts, and a 0.18 ERA across 50 innings. The one run he allowed was a Mickey Mantle home run. He won four of the games 1-0. The team he was pitching for — the Los Angeles Angels — scored one run in four of those games. He made one run sufficient.",
+      "origin": "Phil Pepe's quote and the 0.18 ERA against the Yankees in 1964 are documented in the SABR BioProject."
+    },
+    {
+      "title": "The All-Star Starter",
+      "type": "Character",
+      "text": "July 7, 1964. Dean Chance starts the MLB All-Star Game. By his own admission, he went to bed at 4:15am the night before. He starts the game in the first inning. His first batter is Roberto Clemente. He strikes him out. His second batter is Dick Groat. He strikes him out. He throws three scoreless innings. The American League loses the game. Chance doesn't. He goes back to the hotel. He finishes the season with a 1.65 ERA and wins the Cy Young Award.",
+      "origin": "Chance's 4:15am bedtime before the All-Star Game, his strikeouts of Clemente and Groat, and his three scoreless innings are documented."
+    },
+    {
+      "title": "Five 1-0",
+      "type": "Historic Feat",
+      "text": "Five times in 1964, Dean Chance won a game by the score of 1-0. The Los Angeles Angels scored one run. Chance pitched a complete-game shutout. Five times. The ML record for 1-0 wins in a season was held by Walter Johnson and Carl Hubbell. Chance tied it. He pitched 11 shutouts in total that year, for a team that gave him almost nothing offensively. He won 20 games. In his quote on pitching: 'I believe the fastball is still the best pitch in baseball.' He threw it low and away and turned his back to the hitter first. He won five games 1-0 for a weak-hitting Angels team in 1964. That is what the low-and-away fastball looks like from the other side.",
+      "origin": "The five 1-0 wins tying the Walter Johnson and Carl Hubbell ML record are documented."
+    },
+    {
+      "title": "Bo and Dean",
+      "type": "Character",
+      "text": "Dean Chance and Bo Belinsky were roommates for the 1963 and 1964 seasons with the Los Angeles Angels. Belinsky was movie-star handsome and had grown up a pool hustler in Trenton, New Jersey. Chance was from a dairy farm in Plain Township, Ohio. Together they were part of the Hollywood nightclub circuit — Frank Sinatra, Dean Martin, Marilyn Monroe, Mamie Van Doren. They were fined $500 for missing an awards banquet. Manager Rigney, asked about their whereabouts, said straight-faced: 'We're really taking the city series seriously. Our starting pitchers are getting some rest.' Chance went 20-9 with a 1.65 ERA that year. The rest apparently helped.",
+      "origin": "The Belinsky-Chance partnership, the Hollywood circuit, the $500 fine, and Rigney's response are documented."
+    },
+    {
+      "title": "One Day Tomatoes, the Next Day Glass",
+      "type": "Legacy",
+      "text": "Dean Chance won the Cy Young Award at 23. He threw a rain-shortened perfect game and a complete-game no-hitter in the same season at 26. He had no wins in the major leagues after his 30th birthday. He described it: 'One day you can throw tomatoes through brick walls. The next day you can't dent a pane of glass with a rock. It hurts, but you hang on, hoping it will come back.' He became a carnival game operator. He employed 250 people. He ran 40 games at the Ohio State Fair alone. 'In baseball lingo,' he said, 'that's my World Series. I lose about 20 pounds in 17 days.' He was 74 when he died of a heart attack in Wooster, Ohio, three miles from the dairy farm where he grew up.",
+      "origin": "Chance's quotes about pitching decline and the carnival circuit are documented."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'1'', 200 lbs — the Cy Young winner from the Plain Township dairy farm who went to bed at 4:15am before the All-Star Game and struck out the first two batters he faced. In 1964 he is 23 years old. The face of the man who turned his back to Mickey Mantle and then spun and threw a pitch Mantle couldn't hit (except once in 50 innings). The youngest Cy Young winner in history at the time. The Hollywood nightclub circuit and the back-turn delivery are both present in the same body.",
+    "attire": "Los Angeles Angels road grays — the 1964 uniform, the Angels' halo on the cap. The signature delivery: the back fully turned toward the camera, shoulders visible, the spin about to happen. The delivery is the card. The Yankee Stadium backdrop is visible at the edge of the frame — the place where the 0.18 ERA lived in 1964.",
+    "mood": "Controlled misdirection. He turned his back and then threw the ball. The mood is the moment just before the spin — the hitter doesn't know where the ball is coming from, and Chance doesn't look at the hitter to give him any information. The wildness is potential; the delivery is the source of both the dominance and the unpredictability.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. The Swingers 1960 palette. The 1964 card year — the Angels uniform, the back-turn delivery, the Yankee Stadium distance. The art shows the delivery, not the aftermath: the back is turned, the arm is about to come around, the ball is about to leave the hand.",
+    "reference": "Phil Pepe's quote as the art anchor: 'It's Chance, not CBS, who owns the New York Yankees. Lock, stock and barrel.' The art should show why: the back turn, the spin, the ball already faster than the hitter expected because the windup gave him nothing to read. Chance at 23, the youngest Cy Young winner at the time, from a dairy farm in Ohio, in the middle of the best pitching season of his life."
+  }
+}

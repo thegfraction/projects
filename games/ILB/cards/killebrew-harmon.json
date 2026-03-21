@@ -1,0 +1,194 @@
+{
+  "card_type": "player",
+  "name": "Harmon Killebrew",
+  "nickname": "Killer / The Killer",
+  "year": 1969,
+  "team": "Minnesota Twins",
+  "league": "American League",
+  "era": "1960s",
+  "ilb_team": "Swingers 1960",
+  "position": "3B",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'11\"",
+  "weight": "213 lbs",
+  "born": "June 29, 1936 — Payette, ID",
+  "died": "May 17, 2011 — Scottsdale, AZ",
+  "hof": "Inducted 1984 (BBWAA, fourth year of eligibility, 83.1% of the vote). First Twin to be inducted into the Hall of Fame.",
+
+  "real_stats": {
+    "season": 1969,
+    "batting_avg": ".276",
+    "obp": ".427",
+    "slg": ".584",
+    "ops": "1.011",
+    "hits": 153,
+    "doubles": 20,
+    "triples": 2,
+    "home_runs": 49,
+    "rbi": 140,
+    "runs": 106,
+    "walks": 145,
+    "intentional_walks": 20,
+    "stolen_bases": 8,
+    "games": 162,
+    "war": 8.1,
+    "all_star": 1,
+    "awards": "AL MVP 1969 (BBWAA and The Sporting News). Led AL in home runs (49), RBIs (140), OBP (.427), walks (145), and intentional walks (20). Played all 162 games. Knocked in the winning run 20 times. Led AL West champion Twins to 97 wins. Career: 573 HR (5th all-time at retirement), .256 BA, .376 OBP, .509 SLG, OPS+ 143, 1,143 BB, 1,699 K, 2,086 hits. Eight 40-HR seasons (second most ever behind Babe Ruth's 11). Led AL in HR six times (1959, 1962, 1963, 1964, 1969, 1970). Led AL in RBI three times. Led AL in walks four times (1966-69). 393 HR in the 1960s — the most of any player in that decade. AL career record for home runs by a right-handed batter. First player ever voted to start an All-Star Game at three different positions (LF, 1B, 3B). On June 3, 1967, hit a 520-foot home run at Metropolitan Stadium — the longest in Twins history as of 2022, commemorated by a red-painted seat at the Mall of America placed at the exact landing location. On August 10, 1971, became the 10th player in baseball history to reach 500 career home runs. Paul Richards, 1959: 'Killebrew can knock the ball out of any park, including Yellowstone.' Reggie Jackson: 'He's one of the greatest of all time.' Tom Mee (Twins PR): 'He is one of the finest individuals in the major leagues. To know Harmon Killebrew is to be a Killebrew fan.'",
+    "world_series": "One WS appearance (1965, lost to the Dodgers in seven games). Batted .286 with 1 HR. Two ALCS appearances (1969, 1970) — swept by the Baltimore Orioles both times. In the 1969 ALCS, Baltimore issued six intentional walks to Killebrew across three games — as many as they issued to the entire rest of the Twins lineup — to avoid pitching to him. He never won a World Series. No rings."
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "con": 2,
+    "pow": 5,
+    "spd": 0,
+    "def": 1,
+    "clu": 1
+  },
+
+  "stat_justification": {
+    "con": "Career .256 BA — the lowest of any 500-HR hitter at the time of his retirement. 1,699 career strikeouts. In 1962 he set the ML record for most HR by a batter hitting below .250 (48 HR, .243 BA). The walk rate tells a different story: 1,143 career walks, career .376 OBP despite .256 BA. In 1969 alone he walked 145 times with 20 intentional walks — teams would rather walk him than face his bat. CON 2 is the set's most extreme honest accounting: the contact per se was genuinely modest, but the plate discipline that produced those walks was elite. He was not a contact hitter. He was a walk machine attached to a power plant.",
+    "pow": "Career 573 HR (5th all-time at retirement). Eight 40-HR seasons — second only to Babe Ruth's 11. Led AL in HR six times. AL career record for HR by a right-handed batter. 393 HR in the 1960s — the most of any player that decade. The 520-foot shot at Metropolitan Stadium. The first ball over the Tiger Stadium left-field roof (August 3, 1962). Dean Chance: 'I was 2-and-0 on him one night and I threw him a fastball. The home run he hit on that pitch was hit so hard that no one in the stands even yelled.' Paul Richards: 'Killebrew can knock the ball out of any park, including Yellowstone.' POW 5 is the honest maximum — he was the most prolific power hitter of the 1960s by total volume and the second-most prolific 40-HR season accumulator in baseball history.",
+    "spd": "Career 19 SB across 22 seasons. His seven-triple season (1961) was the last time he regularly produced triples — he pulled his quadriceps in 1962 and his speed decreased permanently after. Played 3B, LF, and 1B at different points in his career as the Twins sought the position that minimized his mobility limitation. SPD 0 is the accurate and honest rating — the only meaningful metric is the 1961 season before the injury, and even then it was incidental to his offensive profile.",
+    "def": "Never won a Gold Glove. Committed 30 errors at 3B in his first full season (1959). The Twins shifted him among 3B, LF, and 1B across six different positional changes to minimize defensive liability. The SABR BioProject noted he 'surprised some people with his defense' in 1969 — which was high praise relative to expectations, not absolute defensive quality. DEF 1 is the honest rating for a player whose teams moved him six times specifically because his defense was the problem.",
+    "clu": "One WS (1965, lost to the Dodgers in seven). Two ALCS (1969, 1970 — swept by Baltimore both times). In 1969 ALCS, Baltimore walked him six times in three games rather than pitch to him. He batted .286 in the 1965 WS with 1 HR. Career postseason batting was decent but team results were poor. CLU 1 reflects the structural reality: the most feared power hitter of the decade played on teams that reached three postseasons and never won. The Orioles solved him by not pitching to him. There was no ring."
+  },
+
+  "personality": {
+    "leadership_style": "The gentle giant who worried about hurting feelings. Sports Illustrated, 1963: 'He worried for weeks after saying on television that he'd like to see Maury Wills try to steal 104 bases in the American League. He hadn't meant to hurt Wills's feelings.' If he praised one state he would quickly add that he also loved the neighboring state. His nickname was 'Killer.' He liked to wash the dishes. The leadership was the example — he showed up, he hit, he said nothing that would hurt anyone, and he was kind to everyone who approached him. Tom Mee: 'To know Harmon Killebrew is to be a Killebrew fan.'",
+    "temperament": "Radically modest. Sports Illustrated, 1963, pressing him for an unusual hobby: 'Just washing the dishes, I guess,' said Harmon, trying to help. 'He is a sensible, good-tempered man who loves his wife and children and has no curious hobbies.' He graduated 11th out of 54 in his Payette High School class — 'You know the top 10? I was 11th.' He told his Hall of Fame induction story in 1984 as a story about Senator Welker, Ossie Bluege, and the grace of getting a chance — not about himself.",
+    "work_ethic": "Lifted ten-gallon milk cans weighing 95 pounds each as a farmhand in his youth. Played baseball, football, basketball, and golf in high school — 12 letters across four sports. Sat on the major league bench for two full seasons under the bonus rule without being able to play regularly. Then sat in the minors while developing. Then became the most prolific power hitter of the 1960s. He played all 162 games in 1969 at age 33, one year after tearing his hamstring and a bone from his pelvis at the All-Star Game.",
+    "lifestyle": "Payette, Idaho forever. He married his high school sweetheart Elaine Roberts in 1955. They had five children. He played at Walter Johnson Memorial Field as a child in Payette — named after the Hall of Fame pitcher who also grew up in Idaho. After baseball he became a Twins broadcaster. He was kind. He washed the dishes. He entered hospice in May 2011 and issued a statement saying he was at peace with his God. He died four days later. His number 3 was retired by the Twins. He is commemorated at the Mall of America — a red-painted seat marks exactly where the 520-foot home run landed in 1967.",
+    "dark_side": "He never won a World Series. He hit 393 home runs in the 1960s — more than any player in baseball — and never won a ring. In 1967 the Twins were a game ahead going into the final weekend and lost two to the Red Sox. In the 1969 ALCS, Baltimore walked him six times in three games rather than let him beat them. He tore his hamstring and a bone from his pelvis at the 1968 All-Star Game; the soil around first base in the Astrodome did not give. He came back the next year and won the MVP. It was still not enough for a ring."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Killebrew Can Knock the Ball Out of Any Park, Including Yellowstone",
+      "desc": "Paul Richards said it in 1959, the year Killebrew hit 42 home runs in his first full season, and no one disputed it. Dean Chance: 'I was 2-and-0 on him one night and I threw him a fastball. The home run he hit on that pitch was hit so hard that no one in the stands even yelled.' In ILB, this trait generates a No-Safe-Count mechanic: Killebrew's POW 5 applies at full effectiveness regardless of the count. Two-and-0, two-and-two, three-and-two — the count provides no information about how to pitch him. He hit the 2-0 fastball as hard as any pitch thrown.",
+      "note": "Richards's Yellowstone quote is documented in the BR Bullpen. Chance's quote about the 2-0 fastball home run is documented in the SABR BioProject."
+    },
+    {
+      "tag": "Just Washing the Dishes, I Guess",
+      "desc": "Sports Illustrated, 1963. A reporter pressed Harmon Killebrew for an unusual hobby. 'Come on, Harm. You must have some unusual hobby.' Killebrew, trying to be helpful: 'Just washing the dishes, I guess.' SI's assessment: 'He is a sensible, good-tempered man who loves his wife and children and has no curious hobbies.' In ILB, Just Washing the Dishes generates a Morale Floor: Killebrew's presence on any roster prevents the team's overall morale from dropping below its starting level, regardless of win-loss record or lineup injuries. He does not generate excitement. He generates stability. The dishes get done. The same way.",
+      "note": "The 'washing the dishes' quote and SI's character description are documented in the 1963 Sports Illustrated vault piece."
+    },
+    {
+      "tag": "The Baltimore Solution",
+      "desc": "1969 ALCS. The Baltimore Orioles had the best pitching staff in baseball. They faced Harmon Killebrew three times in three games and walked him six times — as many as they walked the entire rest of the Twins lineup combined. They solved the Killebrew problem by refusing to face it. In ILB, The Baltimore Solution activates in any postseason series: opposing managers may declare the Walk Strategy before the series begins. Killebrew receives automatic walks in 1 out of every 3 plate appearances (the Orioles' ratio). His effective CLU drops to 0 for those at-bats (the at-bat never happens). His POW 5 is undefeated in actual plate appearances because the plate appearances are declined.",
+      "note": "Baltimore's six intentional walks to Killebrew in the three-game 1969 ALCS (compared to six walks to the entire rest of the Twins lineup) is documented in the Baseball Almanac and SABR BioProject."
+    },
+    {
+      "tag": "The Beet Field",
+      "desc": "Payette, Idaho, spring 1954. Senator Herman Welker had told Washington Senators owner Clark Griffith there was a young boy in Idaho who could hit the ball pretty well. 'I think more than anything else, just to keep Senator Welker quiet, Mr. Griffith sent Ossie Bluege out to see me.' The skies cleared. The townspeople got the field ready. Killebrew, 17 years old, hit a ball over the left-field fence at 435 feet or more — into a beet field. No one had ever done it at that park. Bluege called Griffith immediately. Left a $50,000 contract in Senator Welker's law office. In ILB, The Beet Field is Killebrew's origin trait: in his first full season with any franchise, POW is treated as 6 instead of 5 for the first game of that season (the first time a new park sees what he can do is always the most alarming).",
+      "note": "The Welker-Bluege-Killebrew origin story, the 435-foot shot into the beet field, and the contract left in Welker's law office are documented in Killebrew's 1984 Hall of Fame induction speech."
+    },
+    {
+      "tag": "The Red Seat",
+      "desc": "June 3, 1967. Metropolitan Stadium, Bloomington, Minnesota. Lew Burdette is pitching for the California Angels. In the fourth inning, Harmon Killebrew hits a home run that travels 520 feet — the longest ever recorded at the Metropolitan Stadium, the longest in Twins history as of 2022. The ball lands in the second deck of the left-field bleachers. When the Metropolitan Stadium was demolished to build the Mall of America, the Twins retained home plate (installed as a plaque in the Mall's floor) and a single seat from the stadium — painted red — placed at the precise location and elevation where the home run landed. It hangs in the air inside a shopping mall. In ILB, The Red Seat marks the 520-foot shot as a permanent POW reference: once per season, Killebrew may invoke the Red Seat, declaring a maximum-distance HR regardless of park or count.",
+      "note": "The June 3, 1967 520-foot HR (off Burdette, longest in Metropolitan Stadium history), the Mall of America home plate plaque, and the red seat placement are documented in Wikipedia."
+    },
+    {
+      "tag": "He Is at Peace with His God",
+      "desc": "May 13, 2011. Harmon Killebrew issues a statement. His family releases it on his behalf. It begins: 'It is with a sad heart that I share the news Harmon has had to forgo cancer treatment and is in the care of the Hospice of the Valley here in the Phoenix area.' The statement continues: 'Despite his illness, Harmon remains optimistic and encouraging. He is at peace with his God and is thankful for those who have cared for him and all the love and support from so many across the country.' He dies four days later at age 74. In ILB, He Is at Peace with His God is the set's most quietly structured legacy trait: whenever a younger player in the same franchise has a career-defining moment (first HR, first WS appearance, first MVP vote), a bonus morale note is added to that player's record citing Killebrew's presence in the franchise's lineage. The dishes got done. The peace was earned.",
+      "note": "Killebrew's May 13, 2011 hospice statement is documented. He died May 17, 2011."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballpark",
+      "affinity": "SACRED",
+      "note": "Metropolitan Stadium, Bloomington, Minnesota / the 1969 MVP season / the 520-foot home run and its red seat at the Mall of America / 'Killebrew can knock the ball out of any park, including Yellowstone.'",
+      "note_extra": "Source labeled 'Metropolitan Stadium Bloomington Minnesota / 1969 AL MVP / 49 HR 140 RBI 145 BB .427 OBP All Career Highs / 162 Games Played / 97 Win AL West Champions / 520 Foot HR June 3 1967 Off Burdette Longest Twins History / Red Seat Mall Of America Marks Landing Spot / Home Plate Plaque Mall Of America / Number 3 Retired Twins / First Twin HOF 1984 / Alleged MLB Logo Model / Baltimore Walked Him Six Times Three ALCS Games' / affinity 'SACRED' — forty-fifth SACRED in the set, fourth Swingers 1960 SACRED. Killebrew's is the most physically preserved SACRED in the set: the home plate from Metropolitan Stadium is installed as a plaque in the floor of the Mall of America in Bloomington, and a single red-painted seat from the stadium hangs at the exact location and elevation where his 520-foot home run landed on June 3, 1967. The stadium was demolished. The home run is still there. The SACRED is the ballpark that no longer exists except for a plaque and a red seat — the most economical preservation of a great achievement in the set. Ballpark domain."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Payette, Idaho / Walter Johnson Memorial Field / 95-pound milk cans / father's death at 16 / Senator Welker / the beet field shot / Ossie Bluege's call to Griffith.",
+      "note_extra": "Source labeled 'Payette Idaho / Walter Johnson Memorial Field Named After Hall Of Famer Also Grew Up Idaho / Farmhand 95 Pound Milk Cans / Father Clay Killebrew Died Harmon Age 16 / Father All-American Football Millikin Under Greasy Neale / Grandfather Strongest Man Union Army / 12 Letters Four Sports Payette High School / All-American Quarterback / Retired Number Payette High School / University Oregon Scholarship Declined / Senator Herman Welker Idaho Griffith Friend / Ossie Bluege Farm Director Senators / 435 Foot Shot Into Beet Field Age 17 / $50000 Bonus June 19 1954 Six Days Before 18th Birthday / Youngest Active Player Majors At Debut' / affinity 'ORIGIN' — forty-eighth ORIGIN in the set, first for the Swingers 1960 from Idaho. Killebrew's ORIGIN is the most geographically specific Idaho origin in the set: Walter Johnson Memorial Field in Payette (named after the Hall of Fame pitcher who also grew up in Idaho), the 95-pound milk cans that built his wrists, the senator who told a baseball owner about a boy who could hit, and the rainy night that cleared in time for Ossie Bluege to watch a 17-year-old hit a ball 435+ feet into a beet field. Killebrew recounted this origin story at his Hall of Fame induction in 1984 as the essential explanation of who he was. Community Events domain."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HAUNTED",
+      "note": "No ring. The 1967 final weekend. The 1968 All-Star Game hamstring and pelvis tear. The 1969 ALCS walk parade. 393 HR in the 1960s, no championship.",
+      "note_extra": "Source labeled 'No World Series Ring / 1965 WS Loss Dodgers Seven Games / 1967 Final Weekend Lost Both Red Sox Pennant Gone / 1968 All-Star Game Hamstring Bone Torn From Pelvis Astrodome / Soil Did Not Give / 1969 ALCS Baltimore Walked Six Times Three Games / Six Walks Entire Rest Of Lineup Combined / 1970 ALCS Swept Again / 393 HR 1960s Most Any Player / AL Career Record HR Right-Handed Batter / Never Won Ring / No Rings In 22 Seasons' / affinity 'HAUNTED' — twenty-third HAUNTED in the set, second for the Swingers 1960. Killebrew's is the most power-specific HAUNTED in the set: the player with the most home runs in the 1960s, the AL career record for HR by a right-handed batter, 573 career, never won a ring. In the most consequential postseason he ever faced (1969 ALCS), the opponent's solution was to walk him and beat the rest of the lineup — and it worked. The HAUNTED is the gap between the power and the rings: a gap that was never closed despite 22 seasons. Hotel/Rest domain: the private accounting."
+    },
+    {
+      "location": "Open Field/Stadium",
+      "affinity": "MAXIMUM",
+      "note": "Eight 40-HR seasons (2nd only to Ruth's 11). 393 HR in the 1960s — most that decade. 573 career HR. The 520-foot shot commemorated at the Mall of America. AL MVP 1969. First player started at three All-Star positions.",
+      "note_extra": "Source labeled 'Eight 40 HR Seasons Second Only Ruth 11 / 393 HR 1960s Most Any Player Decade / 573 Career HR Fifth All Time Retirement / AL Career Record Right-Handed HR / 520 Foot HR Longest Twins History / First Player Started All Star Three Positions / 1969 AL MVP 49 HR 140 RBI 145 BB .427 OBP All Career Highs / 162 Games / Led AL HR Six Times / Led AL RBI Three Times / Led AL Walks Four Times / 500 HR Club August 10 1971 Tenth In History / Dean Chance Fastball No One Yelled / Paul Richards Yellowstone' / affinity 'MAXIMUM' — eighteenth MAXIMUM in the set, second for the Swingers 1960. Killebrew's is the most power-concentrated MAXIMUM in the set: the most 40-HR seasons in baseball history except for Babe Ruth, the most HR in the 1960s, the AL career record for right-handed HR, the 520-foot shot in the Mall of America. Each MAXIMUM exists in its own category of power output, and the accumulation spans two decades and one of the five or six greatest power careers in baseball history. Open Field domain: the stadium where the ball went."
+    },
+    {
+      "location": "State House/Government",
+      "affinity": "IDENTITY",
+      "note": "The alleged MLB logo. First player voted to start an All-Star Game at three different positions. The cancer hospice statement — 'He is at peace with his God.' The Killer who washed the dishes.",
+      "note_extra": "Source labeled 'MLB Logo Alleged Killebrew Swing Never Confirmed / First Player Started All Star Three Positions LF 1B 3B / Cancer Statement May 2011 Peace With God / Tom Mee To Know Killebrew Is To Be Killebrew Fan / Killer Nickname vs Dish Washing Personality / Number 3 Retired Twins Indians / Minnesota Twins Hall Fame 2000 / First Twin HOF / Washington Nationals Ring Honor / Twins Broadcaster After Retirement / Norman Welker Story HOF Induction Speech / Taught Younger Players Passed On Knowledge / Rich Reese Classiest People Ive Met' / affinity 'IDENTITY' — eleventh IDENTITY in the set, second for the Swingers 1960. Killebrew's is the most characterologically paradoxical IDENTITY in the set: the nickname 'Killer' attached to a man whose hobby was washing the dishes, who worried for weeks about inadvertently hurting Maury Wills's feelings, and who issued a hospice statement saying he was at peace with his God. The IDENTITY is the gap between the name and the man: 'Killer' who liked to wash the dishes. The swing that allegedly became the MLB logo on the body of a person who was, as Tom Mee described him, one of the finest individuals in the major leagues. State House domain: the institutional recognition — the HOF speech, the number retirement, the logo allegation, the cancer statement."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Killebrew Can Knock the Ball Out of Any Park — POW 5 applies at full effectiveness regardless of count.",
+      "The Beet Field — in the first game of any new franchise, POW treated as 6 instead of 5.",
+      "The Red Seat — once per season, maximum-distance HR may be declared regardless of park or count.",
+      "Just Washing the Dishes — team morale floor maintained at starting level regardless of win-loss record while Killebrew is on the roster."
+    ],
+    "cold_triggers": [
+      "The Baltimore Solution — in any postseason series, opposing manager may declare Walk Strategy: Killebrew receives automatic walks in 1 of every 3 plate appearances; CLU drops to 0 for those walks.",
+      "CON 2 floor — against pitchers with CTL 4+, Killebrew's contact rate produces genuine outs at the CON 2 baseline. The power is undiminished; the contact is the honest limit.",
+      "SPD 0 — no baserunning value. The 1962 quadriceps pull ended whatever speed existed.",
+      "DEF 1 ceiling — corner infield defense generates errors at above-average rates."
+    ],
+    "pressure_response": "He tore his hamstring and a bone from his pelvis at the 1968 All-Star Game. The soil around first base in the Astrodome did not give. He returned to play 35 games in September and hit .257 in those at-bats. Then he played all 162 games the following year and won the MVP. The pressure response is the farmhand's response: you pull a quadriceps in 1962, you lose the triples, you adapt. You tear the hamstring and the pelvis in 1968, you come back in 1969 and win the MVP. The dishes still need to be washed."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Beet Field",
+      "type": "Origin",
+      "text": "Payette, Idaho, spring 1954. Senator Herman Welker had been telling Clark Griffith about a boy who could hit the ball pretty well. To keep Senator Welker quiet, Griffith sent his farm director Ossie Bluege to Idaho. The skies cleared. The townspeople got the field ready. Harmon Killebrew was 17 years old, six days from his 18th birthday. He hit a ball over the left-field fence — 435 feet or more into a beet field. No one had ever done it at that ballpark. Bluege called Griffith immediately. He left a $50,000 contract in Senator Welker's law office and flew back to Washington. Killebrew would become the most prolific power hitter of the 1960s. He would hit 573 career home runs. He would tell this story at his Hall of Fame induction in 1984 as the story of how it all began.",
+      "origin": "Killebrew's Hall of Fame induction speech (1984) is the primary source for the Welker-Bluege origin story, the beet field, and the 435-foot shot."
+    },
+    {
+      "title": "Just Washing the Dishes",
+      "type": "Character",
+      "text": "Sports Illustrated, 1963. A reporter was working on a profile of Harmon Killebrew — the most prolific power hitter in the American League, a man who had hit 167 home runs in four years, a man whose home run rate was faster than Babe Ruth's career average. The reporter pressed him for an unusual hobby. 'Come on, Harm. You must have some unusual hobby.' Killebrew, trying to help: 'Just washing the dishes, I guess.' The magazine noted: 'Harmon Killebrew is a sensible, good-tempered man who loves his wife and children and has no curious hobbies.' His nickname was 'Killer.' He worried for weeks about whether he had hurt Maury Wills's feelings.",
+      "origin": "The 'washing the dishes' quote and SI's character assessment are documented in the 1963 Sports Illustrated vault piece."
+    },
+    {
+      "title": "The Red Seat",
+      "type": "Historic Feat",
+      "text": "June 3, 1967. Metropolitan Stadium, Bloomington, Minnesota. Lew Burdette is pitching in the fourth inning. Harmon Killebrew hits a home run that travels 520 feet and lands in the second deck of the left-field bleachers. It is the longest home run ever recorded at Metropolitan Stadium. It remains the longest in Twins history as of 2022. When the Metropolitan Stadium was demolished to make way for the Mall of America, the Twins saved one seat from the stadium — painted it red — and placed it at the exact location and elevation where the home run landed. They also installed a plaque marking home plate in the Mall's floor. Today, inside a shopping mall in Bloomington, Minnesota, there is a red seat hanging at the altitude and position of a home run hit by Harmon Killebrew on June 3, 1967.",
+      "origin": "The June 3, 1967 520-foot HR (off Lew Burdette), the Mall of America home plate plaque, and the red seat placement are documented in Wikipedia."
+    },
+    {
+      "title": "No One in the Stands Even Yelled",
+      "type": "Game Action",
+      "text": "Dean Chance, pitcher: 'I had pretty good success against the big home run hitters in the American League, when you talk about Yastrzemski, Reggie Jackson, and Frank Howard, until you get to Harmon Killebrew. Killebrew hit his share of long home runs off me, with that short swing of his.' The specific memory: 'I was 2-and-0 on him one night and I threw him a fastball. The home run he hit on that pitch was hit so hard that no one in the stands even yelled.' No one in the stands even yelled. The ball was gone before the crowd could react. The stands were silent for a moment — not stunned, exactly. More like: they had been watching the ball and then they had not been watching the ball.",
+      "origin": "Dean Chance's quote about Killebrew is documented in the SABR BioProject."
+    },
+    {
+      "title": "The Baltimore Solution",
+      "type": "Postseason",
+      "text": "1969 American League Championship Series. The Baltimore Orioles have the best pitching staff in baseball. They face Harmon Killebrew three times across three games. They walk him six times — as many as they walk the entire rest of the Minnesota Twins lineup combined. The Orioles win the series three games to none. The solution to Harmon Killebrew was simple: do not pitch to Harmon Killebrew. He was the most feared power hitter in the American League. In three games, he reached base six times without swinging a bat in earnest. His OPS for the series: undefined. The Twins lose the series. He never plays in another postseason. He never wins a ring.",
+      "origin": "Baltimore's six intentional walks to Killebrew in the 1969 ALCS (vs. six for the rest of the Twins lineup) is documented in the Baseball Almanac SABR BioProject."
+    },
+    {
+      "title": "He Is at Peace with His God",
+      "type": "Legacy",
+      "text": "May 13, 2011. Harmon Killebrew has been fighting esophageal cancer for five months. He issues a statement. It reads: 'It is with a sad heart that I share the news Harmon has had to forgo cancer treatment and is in the care of the Hospice of the Valley here in the Phoenix area. Despite his illness, Harmon remains optimistic and encouraging. He is at peace with his God and is thankful for those who have cared for him and all the love and support from so many across the country.' He dies four days later at age 74. He hit 573 home runs. He never won a World Series. He was, by all accounts, one of the finest individuals in the major leagues. He liked to wash the dishes. He is at peace with his God.",
+      "origin": "Killebrew's hospice statement (May 13, 2011) and his death on May 17, 2011 are documented."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'11'', 213 lbs — the compact right-handed hitter from Payette, Idaho, whose swing hit a ball 520 feet and whose hobby was washing dishes. In 1969 he is 33 years old, one year after tearing his hamstring and a bone from his pelvis at the All-Star Game. The face of the man whose nickname was Killer and who worried for weeks about whether he had hurt Maury Wills's feelings. The face of Tom Mee's description: 'To know Harmon Killebrew is to be a Killebrew fan.'",
+    "attire": "Minnesota Twins home whites — the 1969 uniform, the TC on the cap, number 3. The right-handed batting stance: the compact swing that Dean Chance described as moving so fast the crowd had no time to react. Metropolitan Stadium visible in the background — the flat Midwestern ballpark in Bloomington, Minnesota, where the red seat was eventually installed to mark where one ball had gone.",
+    "mood": "Quiet power. He was not a flashy man. He did not seek the spotlight. He washed the dishes. He worried about hurting people's feelings. He hit 49 home runs in 1969 and won the MVP. The mood is the simplicity of that: a man whose swing produced results that required no embellishment, no personality performance, no narrative beyond the box score. He was 'an uncomplicated, single-minded guy,' as Frank Robinson described himself. Killebrew was the same without the edge — just the uncomplicated, single-minded output.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. The Swingers 1960 palette consistent with Oliva, Cash, and Frank Robinson. Metropolitan Stadium in the background — the exposed open-air AL stadium of the late 1960s, the flat Minnesota light, the distant left-field bleachers where the red seat would eventually hang.",
+    "reference": "Paul Richards's 'Yellowstone' quote as the physical anchor, but Killebrew's own dish-washing response as the character anchor. The art should show the physical contradiction: the compact swing that produced 520-foot home runs, in the body of a man whose unusual hobby was washing dishes. The power is visible; the gentleness is the context."
+  }
+}

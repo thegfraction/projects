@@ -1,0 +1,191 @@
+{
+  "card_type": "player",
+  "name": "Elston Howard",
+  "nickname": "Ellie",
+  "year": 1963,
+  "team": "New York Yankees",
+  "league": "American League",
+  "era": "1960s",
+  "ilb_team": "Swingers 1960",
+  "position": "C",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'2\"",
+  "weight": "196 lbs",
+  "born": "February 23, 1929 — St. Louis, MO",
+  "died": "December 14, 1980 — New York, NY",
+  "hof": "Not inducted. The Yankees retired his number 32 in 1984. The team wore black armbands with his number throughout the 1981 season and World Series. Baseball Reference describes him as 'a man of great gentleness and dignity.'",
+
+  "real_stats": {
+    "season": 1963,
+    "batting_avg": ".287",
+    "obp": ".340",
+    "slg": ".528",
+    "ops": ".868",
+    "hits": 140,
+    "doubles": 21,
+    "triples": 6,
+    "home_runs": 28,
+    "rbi": 85,
+    "runs": 75,
+    "walks": 35,
+    "war": 5.5,
+    "all_star": 1,
+    "awards": "AL MVP 1963 — the first Black player in American League history to win the award. Gold Glove Award 1963 (first Yankee catcher to win the Gold Glove). Gold Glove Award 1964. Career .993 fielding percentage — a Major League record from 1967 to 1973. In 1964 set AL catcher records for putouts (939) and total chances (1,008). 12-time AL All-Star. Four World Series rings (1956, 1958, 1961, 1962). Ten World Series appearances — one of the most regular participants in WS history. Pioneer of the hinged catcher's mitt that led to modern one-handed catching techniques. Inventor of the batting donut (co-invented with New Jersey construction worker Frank Hamilton; patent filed November 1967, approved July 28, 1970). First team to invest in the product: the St. Louis Cardinals. Mickey Mantle among the first players to adopt it. The batting donut remains in use across all levels of baseball. First African American player on the New York Yankees roster (April 14, 1955). Bill James: Howard had Hall of Fame numbers for a catcher at his peak. Arlene Howard (wife): 'A man of great gentleness and dignity.'",
+    "world_series": "Four WS rings: 1956, 1958, 1961, 1962. Ten total WS appearances. Notable individual moments: HR off Don Newcombe in his first WS at-bat (1955, Game 1). .462 BA in the 1960 WS (did not play Game 7 after being hit by a pitch in Game 6). In 1963 WS (swept by Dodgers) hit .333, drove in the only Yankee run of Game 2. Was the starting catcher for the 1967 Boston Red Sox, which won the AL pennant in the Impossible Dream season — received much credit for handling a young pitching staff despite his own bat being essentially gone by then."
+  },
+
+  "ilb_stats": {
+    "ovr": 9,
+    "con": 3,
+    "pow": 3,
+    "spd": 0,
+    "def": 3,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "con": "Career .274 BA with three .300+ seasons (.348 in 1961, .314 in 1958, .313 in 1964). He modified his stance across his career and switched to a heavier 38-oz bat in 1963 to improve his power to right field. CON 3 reflects the disciplined contact hitter who produced consistently in his peak years without being an elite batting-average producer. His 1963 MVP was explicitly noted as 'as much for his leadership as for his .287 BA' — the value came from defense, pitcher-handling, and run production, not from contact alone.",
+    "pow": "Career 167 HR as a Yankee. Peak 28 HR in 1963. Hit 20+ HR in four consecutive seasons (1961-64). The home park context is critical: in 1962 he hit 18 HR on the road and only 3 at Yankee Stadium — the most extreme documented road/home HR split in Yankee history at that time, standing until Jason Giambi in 2003. POW 3 reflects the genuine but park-suppressed power hitter; his road power profile was consistently stronger than his home numbers suggest.",
+    "spd": "Documented as very slow. Casey Stengel's early assessment was explicit about his lack of foot speed. He played LF and 1B in his early Yankee years partly because he could not always get behind the plate, but his inability to run well was a documented constant throughout his career. SPD 0 is the accurate accounting.",
+    "def": "Career .993 fielding percentage — a Major League record from 1967 to 1973. Two Gold Gloves (1963, 1964). In 1964 set AL catcher records for putouts (939) and total chances (1,008). Pioneer of the hinged catcher's mitt leading to one-handed catching. Credited with the two-outs finger-signal innovation (using index and pinky fingers to communicate to fielders). Widely regarded as an excellent handler of pitchers — specifically praised for the 1967 Red Sox postseason run despite his bat being essentially gone. DEF 3 is the elite defensive catcher rating: the ML fielding percentage record, the AL putout and total chances records, two Gold Gloves, and the documented pitcher-handling excellence all justify it.",
+    "clu": "Four WS rings (1956, 1958, 1961, 1962). Ten WS appearances. The backbone of the late-1950s/early-1960s Yankees dynasty at its most concentrated position. In 1967 he was credited as an instrumental force in the Red Sox Impossible Dream pennant specifically for his defensive and pitcher-handling contributions when his offensive value was essentially gone. CLU 3 reflects the player who was present and influential across the most WS-winning teams of his era."
+  },
+
+  "personality": {
+    "leadership_style": "The quiet authority. As much for his leadership as for his statistics. He handled pitchers — spoke to them, managed their emotions, guided them through difficult situations. His pitcher-handling with the 1967 Red Sox (a young, not particularly talented staff) received specific credit for Boston's pennant. He handled Whitey Ford, he handled the young Red Sox arms, he handled whoever was given to him. The leadership was catching.",
+    "temperament": "Gentleness and dignity — the consistent description across sources, teammates, and the Baseball Reference memorial note. He ignored the mayor of Teaneck who begged him not to build in a white neighborhood. He drove to Florida despite the firebombing of Martin Luther King's house. He played 14 seasons in the most racialized organization in professional baseball and never let it reduce his performance. The gentleness was not softness. It was the exact opposite.",
+    "work_ethic": "Turned down football scholarships from three major universities to play baseball for $500/month with the Kansas City Monarchs. Won the International League MVP while stuck in the minors. Learned catching from Bill Dickey at an age when most players would have been established starters. Spent years as a backup to the greatest catcher in AL history (Berra). Filed a patent for the batting donut. Coached for the Yankees until his heart condition forced him out. Died at 51.",
+    "lifestyle": "St. Louis to Kansas City to the minor leagues to Fenway Park (first Yankee game) to the World Series (ten times). Married Arlene, who later wrote his biography (Elston: The Story of the First African-American Yankee). The Teaneck, NJ house they built in a white neighborhood despite the mayor's personal plea and the construction sabotage. Four children. A man who drove toward Martin Luther King's house on the night it was firebombed. He died December 14, 1980, in New York, at 51. Heart. The Yankees wore his number on their armbands for the full 1981 season.",
+    "dark_side": "He waited. He was signed in 1950 and did not reach the major leagues until 1955 — five years, partly because of the color barrier (the Yankees' last holdout position), partly because Berra was simply too good to move. Then he spent more years as a backup catcher, outfielder, and first baseman before finally becoming the starting catcher. When he did, he was already past 30. His peak was four seasons (1961-64). Then elbow injuries and age. Then the 1967 Red Sox season as a defensive specialist with his bat gone. Then coaching. Then the heart condition. Then 51. Bill James estimated Howard could have fashioned a Hall of Fame career if not for the years lost to the color barrier and the time spent behind Berra. The Hall of Fame has never agreed."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Batting Donut",
+      "desc": "In November 1967, after the Red Sox season ended, Elston Howard and New Jersey construction worker Frank Hamilton filed a patent for the 'Baseball Bat with Training Weight' — the batting donut. The cast-iron, rubber-coated ring slid onto a bat in the on-deck circle, making the bat feel heavier in warm-up and lighter at the plate. Mickey Mantle was among the first to use it. The first team to invest in the product was the St. Louis Cardinals. The patent was approved on July 28, 1970. Other companies copied the donut without legal consequence (Howard and Hamilton lacked the funds to fight). The batting donut remains in use at all levels of baseball today. In ILB, the Batting Donut is the set's only equipment-invention trait: all teammates on Howard's roster receive a +0.25 CON bonus for the season (the donut's psychological edge in the on-deck circle applies to everyone, every at-bat). Howard changed how hitters prepared. The change was permanent.",
+      "note": "The batting donut patent history (filed November 27, 1967, approved July 28, 1970), Frank Hamilton's invention, Howard's partnership, Mantle's early adoption, the Cardinals as first team investors, and the copying by other companies are documented across multiple sources."
+    },
+    {
+      "tag": "The Yankee Type",
+      "desc": "For years, the New York Yankees publicly maintained that the reason they were the last major franchise to integrate was not racism but because they were waiting for a player who was 'the Yankee type.' In April 1955, Elston Howard entered a game in the sixth inning at Fenway Park and drove in Mickey Mantle with an RBI single. The Yankees had their type. In ILB, The Yankee Type is the set's most pointed integration-era credential trait: whenever Howard plays his first game with a new franchise, that franchise's team CLU rises by 0.5 for that season (the presence of the player who made the Yankees change their position always elevates the organization). The Yankees waited eight years after Jackie Robinson. The type they were waiting for was Howard.",
+      "note": "The Yankees' 'Yankee type' justification for delayed integration, Howard's April 14, 1955 debut, and its historical context are documented in the MiLB piece and Wikipedia."
+    },
+    {
+      "tag": "Whoever Gets There First Calls",
+      "desc": "Elston Howard and Ernie Banks were roommates with the Kansas City Monarchs in 1950. They could both see what was coming — the Monarchs' owner was selling players to the majors. Howard and Banks made a bet: whoever reached the major leagues first would call the other and tell him what it was like. Banks reached the Cubs in September 1953. Howard reached the Yankees in April 1955. In ILB, Whoever Gets There First Calls activates as a cross-team chemistry bonus: when Howard and Banks are on the same ILB roster, both players' CON rises by 0.5 for the full season (the roommate bet, the shared origin, the knowledge of what the other carried to get there).",
+      "note": "The Howard-Banks Monarchs roommate relationship and the bet about who would reach the majors first are documented in the SABR BioProject."
+    },
+    {
+      "tag": "The Pitcher's Catcher",
+      "desc": "Elston Howard was specifically praised for his pitcher-handling across his career — with Whitey Ford, with the other Yankees starters, and most notably with the 1967 Boston Red Sox, whose young and not particularly talented pitching staff he guided to the American League pennant. The BR Bullpen: 'He was still an excellent defensive catcher and received much credit for achieving great results with a young and not particularly talented pitching staff as the Red Sox lost the World Series in seven games.' In ILB, The Pitcher's Catcher generates a Staff Management bonus: all SP on Howard's team receive +0.5 effective STA for the season. He extends the pitch of every starter who works with him. The staff was young. He was not. The results were the pennant.",
+      "note": "Howard's pitcher-handling with the 1967 Red Sox and the specific credit he received are documented in the BR Bullpen."
+    },
+    {
+      "tag": "The Teaneck House",
+      "desc": "When Elston and Arlene Howard decided to build a house in Teaneck, New Jersey, Mayor Matty Feldman personally begged them not to build in a white neighborhood. The Howards ignored him. During construction, they suffered graffiti and sabotage. They moved in toward the end of the 1963 season — the year Howard won the AL MVP and became the first Black player to win that award in the American League. In ILB, The Teaneck House is Howard's durability-under-opposition trait: whenever Howard's team faces a hostile crowd context (road game, active booing, or an opponent's home stadium), his DEF is treated as 4 instead of 3 (the refusal to be moved applies to the defensive position as clearly as it applied to the address).",
+      "note": "The Teaneck house, Mayor Feldman's request, the graffiti and sabotage, and the move-in timing (1963 season) are documented in the SABR BioProject."
+    },
+    {
+      "tag": "A Man of Great Gentleness and Dignity",
+      "desc": "Baseball Reference's memorial descriptor for Elston Howard — the single phrase beneath his statistics page: 'The first African American Yankee and inventor of the batting donut. A man of great gentleness and dignity.' The Yankees wore black armbands with his number during the entire 1981 season and World Series after his death in December 1980. His wife Arlene wrote his biography. The Yankees retired his number 32 in 1984. In ILB, A Man of Great Gentleness and Dignity is the set's most quietly comprehensive legacy trait: after Howard's career ends, his franchise permanently retains a +0.5 team DEF for any season in which they also have a C on the roster. He changed how catchers caught. He changed how teams integrated. The gentleness and dignity were the method.",
+      "note": "The Baseball Reference description, the 1981 black armband season, the number retirement in 1984, and Arlene Howard's biography are all documented."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballpark",
+      "affinity": "SACRED",
+      "note": "Yankee Stadium / the 1963 MVP season / the catching lineage of Dickey-Berra-Howard / the first Yankee catcher's Gold Glove / 'as much for his leadership as for his batting.'",
+      "note_extra": "Source labeled 'Yankee Stadium / 1963 MVP First Black AL MVP / 28 HR Career High / .528 SLG / Gold Glove 1963 1964 / First Yankee Catcher Gold Glove / AL Records Putouts 939 Total Chances 1008 1964 / .993 Career Fielding Percentage ML Record / Dickey Berra Howard Catching Lineage / Four WS Rings / Ten WS Appearances / Bill Dickey Taught Howard As Taught Berra / Stengel As Much For Leadership As BA / Switching 38 Oz Bat Power Right Field Short Porch' / affinity 'SACRED' — forty-seventh SACRED in the set, sixth Swingers 1960 SACRED. Howard's is the most lineage-specific SACRED in the set: Yankee Stadium is the location, but the specific context is the catching lineage — Bill Dickey taught Yogi Berra; Bill Dickey then stayed to teach Elston Howard. The lineage runs from the 1920s (Dickey) to the 1960s (Howard). No other SACRED in the set carries a three-generation teaching lineage through the same ballpark and the same catching position. Ballpark domain."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "St. Louis / Vashon High School / Kansas City Monarchs / Buck O'Neil / Ernie Banks as roommate / the bet / Tom Greenwade scouting someone else / the $25,000 purchase.",
+      "note_extra": "Source labeled 'St. Louis Missouri / Vashon High School / Turned Down Illinois Michigan Michigan State Football / $500 Month Kansas City Monarchs 1948 / Buck O Neil Manager / Ernie Banks Roommate 1950 / Bet Whoever Gets There First Calls / Tom Greenwade Came To See Different Player / Buck O Neil Steered Him To Howard / $25000 Purchase Along Frank Barnes / Toronto 1954 International League MVP .330 22 HR 109 RBI 16 3B / Left In Minors Despite MVP' / affinity 'ORIGIN' — fiftieth ORIGIN in the set, third for the Swingers 1960. Howard's ORIGIN is the most institutionally complete Negro Leagues ORIGIN in the set for a Swingers 1960 player: the Kansas City Monarchs under Buck O'Neil, the roommate relationship with Ernie Banks, the bet, and the Tom Greenwade story (the legendary scout who signed Mickey Mantle came to look at someone else; O'Neil redirected him to Howard). The ORIGIN runs from St. Louis through Kansas City through Toronto to Fenway Park in April 1955. Community Events domain."
+    },
+    {
+      "location": "State House/Government",
+      "affinity": "IDENTITY",
+      "note": "First African American Yankee (1955). First Black AL MVP (1963). Inventor of the batting donut. 'The Yankee type.' Teaneck house built in a white neighborhood against the mayor's personal plea.",
+      "note_extra": "Source labeled 'First African American Yankee 1955 / Eight Years After Robinson / Yankees Claimed Waiting For Yankee Type / First Black AL MVP 1963 / Batting Donut Inventor Patent 1967 Applied 1970 Approved / Hamilton Partnership / Teaneck House Mayor Begged Them Not To / Ignored Mayor / Graffiti Sabotage / Moved In 1963 / King Firebombing 1956 Drove Toward / Stengel Called Him Eightball / HOF Not Inducted / Arlene Howard Biography / Number 32 Retired Yankees / Black Armbands 1981' / affinity 'IDENTITY' — thirteenth IDENTITY in the set, third for the Swingers 1960. Howard's is the most institutionally paradoxical IDENTITY in the set: the Yankees claimed they were waiting for a player of the right quality ('the Yankee type') to integrate; the type they described arrived in 1955, was called 'Eightball' by the manager, spent years behind Berra, and became the first Black AL MVP. He then built a house in a white neighborhood, ignored the mayor, endured sabotage, and moved in during the same year he won the MVP. The IDENTITY is the combination of what he was told he had to be and what he actually was. State House domain: the institutional and political dimensions of his career."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HAUNTED",
+      "note": "Five years in the minors before the debut. Years as backup to Berra while playing the outfield. 'Eightball' from Stengel. The Teaneck construction sabotage. The Martin Luther King firebombing. Not in the HOF.",
+      "note_extra": "Source labeled 'Signed 1950 Debut 1955 Five Years / Minor Leagues Despite Toronto IL MVP / Playing Behind Berra In Outfield First Base / Stengel Called Him Eightball / Teaneck Graffiti Sabotage Construction / Martin Luther King Firebombing 1956 Planned Stay / House Firebombed Could Not Stay / Peak Four Seasons 1961-64 / Elbow Injuries Curtailed Career / 1967 Bat Essentially Gone Pitcher Handling Only Value / Not In HOF / Yankees Wore Armbands But No Cooperstown' / affinity 'HAUNTED' — twenty-fifth HAUNTED in the set, third for the Swingers 1960. Howard's is the most structurally institutional HAUNTED in the set: the delay was not circumstantial but systemic — the Yankees were the last major franchise to integrate, and Howard spent five years in their farm system waiting. The Stengel 'Eightball' comment captures the environment into which he arrived. The Teaneck house construction sabotage and the King firebombing are the off-field dimensions of the same institutional resistance. The HOF's non-induction is the capstone: the Yankees retired his number in 1984, the same year the HOF did not. Hotel/Rest domain."
+    },
+    {
+      "location": "Open Field/Stadium",
+      "affinity": "MAXIMUM",
+      "note": ".993 ML fielding percentage record. First Black AL MVP. Four WS rings. AL catcher records for putouts and total chances (1964). Batting donut invention — still in use. Pioneer of the hinged catcher's mitt.",
+      "note_extra": "Source labeled '.993 ML Fielding Percentage Record 1967-1973 / First Black AL MVP 1963 / Four WS Rings / Ten WS Appearances / AL Catcher Putouts 939 Total Chances 1008 1964 Records / Batting Donut Patent Changed On-Deck Circle Forever / Hinged Catcher Mitt One-Handed Catching Pioneer / Two Gold Gloves / Index Pinky Two-Outs Signal Innovation / Dickey-Berra-Howard Catching Lineage / Bill James Hall Of Fame Numbers At Peak' / affinity 'MAXIMUM' — twentieth MAXIMUM in the set, third for the Swingers 1960. Howard's is the most equipment-specific MAXIMUM in the set: the batting donut invention is the most consequential piece of equipment innovation by any player in the set — the donut changed the on-deck circle permanently and is still in use across all levels of baseball. The .993 fielding percentage record, the AL putout and total chances records, and the hinged-mitt innovation add defensive equipment history. The four WS rings and the first Black AL MVP add the statistical layer. Open Field domain."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "The Batting Donut — all teammates receive +0.25 CON bonus for the season.",
+      "The Pitcher's Catcher — all SP on Howard's team receive +0.5 effective STA for the season.",
+      "The Teaneck House — in hostile crowd contexts (road game, active opposition), DEF is treated as 4 instead of 3.",
+      "A Man of Great Gentleness and Dignity — after Howard's career, the franchise permanently retains +0.5 team DEF for any season with a C on the roster.",
+      "Whoever Gets There First Calls — when Howard and Banks share a roster, both players' CON rises by 0.5."
+    ],
+    "cold_triggers": [
+      "SPD 0 — no baserunning. The documented slowness was a career-long factor in his positional versatility being involuntary.",
+      "Yankee Stadium right-center power drain — in any park with a distant left-center field (equivalent to Yankee Stadium's dimensions), Howard's effective POW drops to 2 for pull-direction attempts (the 18-vs.-3 road/home split is the documented reality).",
+      "Post-1964 decline — injuries and age caused significant decline after his peak four seasons; any ILB season tagged after his peak generates a -0.5 CON penalty."
+    ],
+    "pressure_response": "Ten World Series appearances. In 1960 he batted .462 in the WS but missed Game 7 after being hit by a pitch. In 1963 he hit .333 and drove in the only Yankee run of Game 2 in a sweep. In 1967 he was the behind-the-plate anchor for the Red Sox pennant run when his bat was essentially gone — the pressure response was the catching, not the hitting. The defensive excellence under pressure was the career-long constant: .993 fielding percentage, two Gold Gloves, and a pennant built on pitcher-handling."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The Yankee Type",
+      "type": "Historic Feat",
+      "text": "For years, the New York Yankees publicly maintained that the reason they were the last major franchise to integrate was not racism but because they were waiting for a player who was 'the Yankee type.' Eight years after Jackie Robinson broke the color barrier, on April 14, 1955, Elston Gene Howard entered a game in the sixth inning at Fenway Park, replacing the ejected Irv Noren in left field. He got one at-bat. He hit a single and drove in Mickey Mantle. He was 26 years old. He had spent five years in the Yankees' farm system, including a season in Toronto where he hit .330 with 22 home runs and won the International League MVP. The Yankees had found their type. Manager Casey Stengel called him 'Eightball.'",
+      "origin": "Howard's April 14, 1955 debut (at Fenway Park, as a replacement LF for the ejected Noren, RBI single), the 'Yankee type' justification, Stengel's 'Eightball' nickname, and the five-year minor league wait are all documented."
+    },
+    {
+      "title": "Whoever Gets There First Calls",
+      "type": "Origin",
+      "text": "1950. Elston Howard and Ernie Banks are roommates with the Kansas City Monarchs. They can both see what is coming — the Monarchs' owner is selling players to the major leagues. They make a bet: whoever reaches the major leagues first will call the other and tell him what it is like. Ernie Banks reaches the Chicago Cubs in September 1953. Elston Howard reaches the New York Yankees in April 1955. The call was made. Decades later, both men are in the Baseball Hall of Fame — Banks for his two MVPs and 512 home runs. Howard is not in Cooperstown. The Yankees retired his number 32 in 1984.",
+      "origin": "The Howard-Banks Monarchs roommate relationship and the bet are documented in the SABR BioProject."
+    },
+    {
+      "title": "The Batting Donut",
+      "type": "Innovation",
+      "text": "After the 1967 Red Sox season, Elston Howard and New Jersey construction worker Frank Hamilton filed a patent for what they called the 'Baseball Bat with Training Weight.' It was a cast-iron ring covered in soft rubber that slid onto the barrel of a bat in the on-deck circle — making the bat feel heavier in warmup and lighter at the plate. Mickey Mantle was among the first to adopt it. The St. Louis Cardinals were the first team to invest in the product. The patent was approved on July 28, 1970. Other companies copied it; Howard and Hamilton lacked the funds to fight in court. Today the batting donut is found in on-deck circles at every level of baseball, from Little League to the World Series. Howard is credited as its inventor.",
+      "origin": "The batting donut patent history (filed November 1967, approved July 1970), Frank Hamilton's invention, Howard's partnership and endorsement, Mantle's adoption, the Cardinals as first team investor, and the copying by other companies are documented."
+    },
+    {
+      "title": "The Firebombing",
+      "type": "Origin",
+      "text": "1956. Elston Howard and his family are driving to Florida for spring training. They plan to stay overnight in Montgomery, Alabama, at the home of a friend of Howard's godfather — a preacher named Martin Luther King. That night, the King house is firebombed. The Howards cannot stay. They continue driving. Howard goes to spring training. Berra is the starting catcher. Howard plays the outfield and hits .262 in 98 games. This is not in the box score.",
+      "origin": "The planned stay at Martin Luther King's home and the firebombing that prevented it are documented in the SABR BioProject."
+    },
+    {
+      "title": "First Black AL MVP",
+      "type": "Historic Feat",
+      "text": "1963. Elston Howard is the starting catcher for the New York Yankees. Mickey Mantle and Roger Maris are both hobbled by injuries. Howard switches to a heavier 38-ounce bat to improve his power to Yankee Stadium's short right-field porch. He bats .287 with 28 home runs and 85 RBI, wins the Gold Glove, and is named the American League's Most Valuable Player. He is the first Black player in American League history to win the award. His main competitors were Al Kaline and his own teammate Whitey Ford. The Yankees are swept in the World Series by the Los Angeles Dodgers. Howard hits .333 and drives in the only Yankee run of Game 2.",
+      "origin": "Howard's 1963 MVP (first Black AL MVP), the bat switch to 38 oz, the Gold Glove, and the WS performance are documented."
+    },
+    {
+      "title": "The Teaneck House",
+      "type": "Character",
+      "text": "When Elston and Arlene Howard decided to build a house in Teaneck, New Jersey, Mayor Matty Feldman personally appealed to them: please do not build in a white neighborhood. The Howards ignored him. During construction, they suffered graffiti and active sabotage. They moved in toward the end of the 1963 season — the year Howard batted .287, hit 28 home runs, won the Gold Glove, and became the first Black player to win the American League Most Valuable Player Award. The house was built in Teaneck. It stayed there.",
+      "origin": "The Teaneck house, Mayor Feldman's personal plea, the graffiti and sabotage, and the 1963 move-in are documented in the SABR BioProject."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'2'', 196 lbs — the right-handed catcher who was the first African American Yankee and who spent five years in the farm system before getting there. In 1963 he is 34 years old, at the peak of his career: the MVP, the Gold Glove, the AL records for putouts and total chances just ahead in 1964. The face of a man of great gentleness and dignity, as Baseball Reference describes him. The face of the man who ignored Mayor Feldman and built the house anyway.",
+    "attire": "New York Yankees home pinstripes — the 1963 uniform, the interlocking NY on the cap, number 32. The catcher's equipment: the hinged mitt he pioneered, the gear that produced the .993 fielding percentage. Behind the plate at Yankee Stadium, with the stadium's vast left-center field visible in the background — the same field that killed 18 of his 21 home runs at home by making left-center an impossible target.",
+    "mood": "Composed authority. He was the pitcher's catcher. He managed the game from behind the plate — managing emotions, managing at-bats, managing situations. The mood is the catching stance: the weight settled, the hand positioned, the eyes already reading the hitter. This is the face from which four World Series rings were called.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Swingers 1960 palette consistent with Oliva, Cash, Robinson, Killebrew, and Yastrzemski. Yankee Stadium's distinctive facade visible in the upper background. The 1963 afternoon light of a pennant-race game behind home plate.",
+    "reference": "The Baseball Reference descriptor as the art anchor: 'A man of great gentleness and dignity.' The art should show the dignity — the composure of the man who would not be moved from the Teaneck house, who drove toward Martin Luther King's firebombed home, who called his roommate Ernie Banks when he got there, who wore the uniform of the team that called him 'Eightball' and became the first Black man to win its league's Most Valuable Player award."
+  }
+}

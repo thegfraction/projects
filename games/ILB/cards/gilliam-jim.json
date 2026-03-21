@@ -1,0 +1,193 @@
+{
+  "card_type": "player",
+  "name": "Jim Gilliam",
+  "nickname": "Junior / Devil",
+  "year": 1953,
+  "team": "Brooklyn Dodgers",
+  "league": "National League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "2B",
+  "bats": "S",
+  "throws": "R",
+  "height": "5'10\"",
+  "weight": "175 lbs",
+  "born": "October 17, 1928 — Nashville, TN",
+  "died": "October 8, 1978 — Inglewood, CA",
+  "hof": "Not inducted. The only Dodger with a retired number (#19, retired October 10, 1978 — two days after his death) who is not in the Hall of Fame.",
+
+  "real_stats": {
+    "season": 1953,
+    "batting_avg": ".278",
+    "obp": ".383",
+    "slg": ".415",
+    "ops": ".798",
+    "hits": 154,
+    "doubles": 31,
+    "triples": 17,
+    "home_runs": 6,
+    "rbi": 63,
+    "runs": 125,
+    "walks": 100,
+    "stolen_bases": 21,
+    "plate_appearances": 710,
+    "war": 5.2,
+    "all_star": 0,
+    "awards": "NL Rookie of the Year 1953 (11 of 24 votes, over Harvey Haddix's 4, Ray Jablonski's 3, and others). First rookie in NL history to draw 100 walks — broke Eddie Stanky's NL rookie walk record. Led NL in triples (17 — the most by a Dodger since 1920) and plate appearances (710). Scored 125 runs, got on base in all of his first 24 games and had a 39-game on-base streak. Bill James Player Performance Index: third all-time among all players, behind only Joe Morgan and Max Bishop — the highest 'Baseball IQ' proxy metric in baseball history through that measurement. Walter Alston: 'If I had eight like him, I wouldn't have to give a single sign.' Leo Durocher on his two-strike hitting: 'He's the best two-strike hitter in baseball.' Jim Murray (LA Times): 'I guess my all-time favorite athlete was Jim Gilliam. He always thought he was lucky to be a Dodger. God gave Jim Gilliam qualities that didn't show in a track meet. Patience. Determination. Discipline. Guts.'",
+    "world_series": "1955 WS champion (Brooklyn — Brooklyn's only championship). Batted .292, .469 OBP, seven hits, eight walks. Game 3: bases-loaded walk in the second inning, the decisive run. Game 4: drove in the first run. Three additional WS rings with the LA Dodgers: 1959, 1963, 1965. Seven World Series total as a player (all with the Dodgers, four against the Yankees). Member of 10 Dodger NL pennant winners (7 as player, 3 as coach). On the coaching staff in uniform during the 1978 WS, wearing black armbands with his number, two days after his death.",
+    "career_notes": "14 ML seasons, all with the Brooklyn/Los Angeles Dodgers (1953-1966). Career .266 BA, .360 OBP, .373 SLG, 2,095 hits, 203 SB, 65 HR. Led NL in AB-per-strikeout at least five times (1958, 1959, 1960, 1962, 1963 — the most disciplined contact rate in the league across a decade). Career 1,163 walks vs. 416 strikeouts. Averaged 146 games played per season for 12 seasons. Played 2B, 3B, LF, CF, RF, 1B — every position except pitcher, shortstop, and catcher. In 1964, became one of the first African-American coaches in ML history while still an active player. Full-time coach from 1966 until his death. Died of a cerebral hemorrhage on October 8, 1978 — one day after the Dodgers clinched their 10th pennant of his tenure, nine days before his 50th birthday. Number 19 retired two days later. Only Dodger with a retired number not in the HOF."
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 3,
+    "pow": 1,
+    "spd": 2,
+    "def": 2,
+    "clu": 3
+  },
+
+  "stat_justification": {
+    "con": "Career .266 BA but career .360 OBP — the gap is the walk rate, which was the highest in the NL at multiple points in his career. First rookie in NL history to draw 100 walks. Led the NL in AB-per-strikeout at least five times across a decade — Leo Durocher called him 'the best two-strike hitter in baseball.' He got on base in all of his first 24 career MLB starts. His Bill James Player Performance Index (third all-time) is driven largely by his plate discipline and contact management. CON 3 reflects the exceptional disciplined contact hitter: not the highest BA in the set, but the most consistent on-base producer relative to his batting average profile.",
+    "pow": "Career approximately 65 HR in regular season MLB play, career SLG approximately .373. Described consistently as 'known for not having home run power' (SABR). Walter Alston: 'He didn't hit with power, he had no arm, and he couldn't run. But he did the little things to win ballgames.' POW 1 is the set's first for an infielder. The profile is accurate: Gilliam's value came entirely from walks, contact, speed, versatility, and intelligence — not from power. Two WS home runs in 1953 as a rookie were career anomalies.",
+    "spd": "Led NL in triples in 1953 (17). Career 203 SB. 21 SB in 1953 (third in NL). 26 SB in 1956. Led NL in caught stealing in 1953 (14) — he ran aggressively, not always efficiently. SPD 2 reflects the legitimate but not elite speed: genuine triple-producer, career base-stealer, but never led the NL in SB outright and was caught more than most elite runners in his rookie year.",
+    "def": "Deployed by Walter Alston — the most defense-focused Dodger manager — at every position except pitcher, shortstop, and catcher across 14 seasons. Tied John Montgomery Ward's 1892 ML record with 12 assists in a game (July 21, 1956). Led NL 2B in putouts and fielding percentage in 1957. His glove is in the Baseball Hall of Fame despite him not being inducted there. The SABR BioProject describes him as 'reputed to be an ordinary defender' who was nonetheless trusted everywhere by the defense-driven Dodgers. DEF 2 reflects the versatility-based defensive value rather than position-specific excellence.",
+    "clu": "Four World Series rings (1955, 1959, 1963, 1965). Seven WS appearances total. Member of 10 Dodger pennant winners. In the 1955 WS — Brooklyn's only championship — he batted .292 with a .469 OBP, drew the bases-loaded walk that gave the Dodgers the lead for good in Game 3, and drove in the first run of Game 4. CLU 3 reflects the player who was present and productive at the center of every significant Dodger postseason moment from 1953 to 1966, the only player in the set with WS rings in two different franchise cities."
+  },
+
+  "personality": {
+    "leadership_style": "The institutional spine. Walter Alston: 'He doesn't make any mistakes. He gives you 100 percent, day in and day out. He never moans. He's a good team man. If I had eight like him, I wouldn't have to give a single sign.' He mentored young infielders in major league etiquette and Southern race relations. He trained Ted Sizemore to protect Maury Wills' stolen base attempts — techniques Sizemore later applied to help Lou Brock break Wills' record with 118 SB in 1974. The mentorship chain runs from Gilliam through Sizemore to Brock's all-time record. Dusty Baker: 'That second hitter has to be a double leadoff man, patient. You hope he can run, take pitches, so the guy ahead of him can steal. He almost has to be your smartest guy in the lineup.'",
+    "temperament": "The laid-back Devil. Overshadowed by superstar teammates and low-key to the point of near-invisibility in the media, he was a clubhouse favorite with a wicked sense of humor. The Roseboro story captures it: a runner was knocked unconscious going into second, concerned players gathered around him, and Gilliam picked up the ball and tagged the unconscious man. 'First time I ever tagged out a dead man.' The pool hustling that produced the Devil nickname in Florida spring training is the same temperament: he competed quietly, won quietly, and made a joke about it.",
+    "work_ethic": "Averaged 146 games played per season for 12 seasons while never having a guaranteed starting position after his second season. Every spring training, press reported him as trade bait. He averaged 146 games played anyway. From 1953 to 1963, he logged over 600 plate appearances in every season but one. The consistent presence was the work ethic: he showed up, he played everywhere, he was never late a day in his life.",
+    "lifestyle": "Nashville, Pearl High School, the sandlot at 14, the Elite Giants at 17, Puerto Rican winter ball, Montreal, Brooklyn, Los Angeles, and then 28 years with the Dodgers organization until the day he drove Tommy Lasorda to Dodger Stadium and returned home to die. He told the Sporting News in 1963 that he wanted to retire after 1966 and become a coach or manager — but he noted there were no African-American managers in professional baseball. He became a coach. He died still in uniform.",
+    "dark_side": "His father died when he was two. The Cubs passed on him because their people thought he couldn't adapt socially to integrated baseball. He never made the Hall of Fame despite a Dodger retiring his number within 48 hours of his death. The 'Forgotten Dodger' title on the first book-length biography of him (published 2025) is the precise formulation of the darkness: he was essential, present, and indispensable for 28 years, and then systematically forgotten."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "I Try to Help Him",
+      "desc": "1962. Maury Wills is trying to steal every base he can. Gilliam is batting second. He described his technique: 'Lots of times there are pitches I could swing at, but I see Maury out of the corner of my eye and take the pitch if I think he is going to get the base. Or else I will take a strike, even two strikes to give him a chance to steal it. If it looks like he could be caught, I will hit at the pitch. Maybe I will punch it through and Maury will be able to make it to third. Or else I will foul it off and he is not out.' Wills stole 104 bases that year. With Gilliam batting behind him, he was 32-for-37. In ILB, when Gilliam bats second behind any SPD 2+ leadoff hitter, the leadoff hitter's SB attempts gain +1 success tier. Gilliam sacrifices his own AB efficiency to enable the player ahead of him.",
+      "note": "Gilliam's self-description of his Wills-protection technique and the 32-for-37 success rate with Gilliam batting behind Wills are documented in the SABR BioProject and the LA Dodger Chronicles."
+    },
+    {
+      "tag": "The Devil",
+      "desc": "Spring training, Florida. During the Negro leagues years and through his Dodger career, Gilliam hustled pool. His teammates called him Devil — for something he used to say during those games. The exact phrase was never recorded; what was recorded was the nickname and its origin. In his later years as a coach, young players called him Devil without knowing why. In ILB, the Devil is a once-per-game advantage: Gilliam may call the Devil on any at-bat where he is facing a two-strike count. In that circumstance, the pitcher's effective CTL drops by 1 (Gilliam reads the pitcher the way he read a pool table — he already knows what the next move will be). Leo Durocher: 'He is the best two-strike hitter in baseball.'",
+      "note": "The Devil nickname's pool-hustling origin is documented in the BR Bullpen. Durocher's quote about Gilliam as the best two-strike hitter is documented in the SABR BioProject."
+    },
+    {
+      "tag": "First Time I Ever Tagged Out a Dead Man",
+      "desc": "A runner going into second was knocked unconscious by the throw to first during a double-play attempt. While concerned players gathered around the fallen man, the laid-back Gilliam picked up the ball and tagged the unconscious runner to record the out. He then said: 'First time I ever tagged out a dead man.' In ILB, this trait encodes Gilliam's instinctive out-recording reflex: whenever an unusual or interrupted play occurs in the field (injury, interference, dropped ball), Gilliam automatically attempts to record the nearest available out before any other action is taken. He always knows where the ball is and what the out requires.",
+      "note": "The story is documented in Johnny Roseboro's autobiography and in the BR Bullpen."
+    },
+    {
+      "tag": "If I Had Eight Like Him",
+      "desc": "Walter Alston said it in 1961: 'He gets on base. He can punch the ball on the hit and run. He steals and never throws to the wrong base. He knows how to get a walk. He has all the little things that go to make up a good ball club. I do not think he has ever been late a day in his life. If I had eight like him, I would not have to give a single sign.' In ILB, this is the set's most explicit team-multiplication trait: whenever Gilliam is in the starting lineup, all team signs and coordination actions (hit-and-run, bunt, steal, delayed steal) succeed automatically without requiring a CON or SPD roll. The manager does not need to give the sign. Gilliam already knows what to do.",
+      "note": "Alston's 1961 quote is documented in the LA Dodger Chronicles and the Think Blue LA piece."
+    },
+    {
+      "tag": "The Mentorship Chain",
+      "desc": "Gilliam mentored young Dodger infielders in major league etiquette, Southern race relations, and the specific techniques of batting second to protect a stolen base threat. He trained Ted Sizemore in the fine points of playing second base and protecting Maury Wills' stolen base attempts. Sizemore later applied those same techniques batting behind Lou Brock in 1974 — helping Brock break Wills' 1962 record (104 SB) with 118. Gilliam's knowledge transferred through Sizemore to a new stolen base record. In ILB, any infielder who shares a roster with Gilliam for one full season gains a permanent SPD protection bonus when batting behind a SPD 2+ runner for the remainder of their career. The chain extends beyond Gilliam's playing time.",
+      "note": "Gilliam's mentorship of Sizemore and Sizemore's subsequent work with Brock are documented in the BR Bullpen."
+    },
+    {
+      "tag": "The Number They Retired",
+      "desc": "October 8, 1978. Jim Gilliam died at age 49, one day after the Dodgers clinched their tenth pennant while he was a member of the organization, nine days before his 50th birthday. He had driven Tommy Lasorda to Dodger Stadium that morning and returned home. The Dodgers wore black armbands with his number during the 1978 World Series. On October 10, 1978, two days after his death, the Dodgers retired uniform number 19. He is the only Dodger with a retired number who is not in the Baseball Hall of Fame. In ILB, The Number They Retired is the set's most solemn CLU trait: in any season in which Gilliam's team reaches the postseason, he earns a posthumous CLU bonus of +1 for that entire postseason (the Dodgers always played better when he was present, and they always knew it after he was gone).",
+      "note": "Gilliam's death date, the circumstances, the Dodgers' black armbands, the number retirement on October 10, 1978, and his status as the only non-HOF retired number in Dodger history are documented in multiple sources."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballpark",
+      "affinity": "SACRED",
+      "note": "Ebbets Field / the 1955 World Series / Brooklyn's only championship / the Game 3 bases-loaded walk that gave the Dodgers the lead for good.",
+      "note_extra": "Source labeled 'Ebbets Field / 1955 World Series / Brooklyn Only Championship / Game 3 Bases Loaded Walk Decisive Run / Game 4 First RBI / .292 BA .469 OBP 1955 WS / 10 Dodger Pennants / Brooklyn 1955 + LA 1959 1963 1965 Four Rings / Number Retired Dodgers 1978 / Only Non-HOF Retired Number' / affinity 'SACRED' — thirty-ninth SACRED in the set. Gilliam's is the most institutionally dense SACRED in the set: Ebbets Field is the location, but the 1955 WS is the moment — the only championship Brooklyn ever won, with Gilliam drawing the bases-loaded walk in Game 3 that gave the Dodgers a lead they never surrendered, batting .292 with a .469 OBP in seven games, producing in every dimension of the only Series that mattered specifically to Brooklyn as Brooklyn. He carried Brooklyn's championship with him to Los Angeles and won three more there. Ballpark domain: the specific place where baseball's most storied franchise had its only championship."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Nashville, Pearl High School / his mother's housework / first glove at 14 / the sandlot / the Baltimore Elite Giants at 17 / Tubby Scales teaching him to switch-hit / 'Junior' — the youngest player.",
+      "note_extra": "Source labeled 'Nashville Tennessee / Pearl High School / Father Died Age Two / Mother Did Housework / First Glove Age 14 / Sandlot Semi-Pro Age 14-16 / Baltimore Elite Giants 1946 Age 17 / Junior Youngest Player / Tubby Scales Taught Switch Hitting / Puerto Rico Winter Ball / NL East All-Star 3 Times 1948-1950 / Chicago Cubs Passed On Him / Dodgers $9000 For Gilliam Black Ferrell / Montreal International League MVP 1952' / affinity 'ORIGIN' — forty-second ORIGIN in the set. Gilliam's is the most structurally complete Negro Leagues ORIGIN in the set: the Nashville sandlot at 14, the first glove his mother bought with her housework wages, the Elite Giants tryout at 17 where Tubby Scales saw the curveball weakness and taught him to switch-hit, the three East All-Star seasons, the Cubs rejection, the Dodgers' $9,000 purchase of three Elite Giants at once. The complete path from Nashville poverty to Brooklyn second base runs entirely through the Negro Leagues. Community Events domain: the Nashville community that produced him and the Negro Leagues community that formed him."
+    },
+    {
+      "location": "State House/Government",
+      "affinity": "IDENTITY",
+      "note": "One of the first African-American coaches in ML history (1964, while still an active player). Mentored young players in Southern race relations. The Jet magazine cover: 'Do the Dodgers have a Negro problem?'",
+      "note_extra": "Source labeled 'First African-American Coaches 1964 Active Player / Full Time Coach 1966 / Mentored Young Players Race Relations Major League Etiquette / Told Players About South / Dusty Baker Mentored By Gilliam / Jet Magazine Cover Negro Problem Dodgers Six Black Regulars / No African-American Managers When He Retired 1963 / Player Performance Index Third All-Time / Integration Era Bridge Role / 28 Years With Dodgers Organization' / affinity 'IDENTITY' — eighth IDENTITY in the set. Gilliam's is the most institutionally consequential IDENTITY in the set: his transition to coaching in 1964 as one of the first African-American coaches in ML history was deliberate and structural — he had told the Sporting News in 1963 that he wanted to coach or manage after playing, and he noted explicitly that there were no African-American managers in professional baseball. He became a coach instead. He mentored every young Black Dodger infielder in how to navigate the racial geography of 1960s American baseball. His IDENTITY is embedded in the institutional transition: the last player in a generation becomes the first coach in the next one. State House domain: the institutional power and governance context of his coaching role."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HAUNTED",
+      "note": "His father died when he was two. The Cubs decided he couldn't adapt to integrated baseball. The 'Forgotten Dodger' — the only retired Dodger number not in the HOF.",
+      "note_extra": "Source labeled 'Father Died Age Two / Mother Housework Raised Alone / Cubs Passed He Could Not Adapt Socially / Not In Hall Of Fame / Only Non-HOF Retired Number In Dodger History / Forgotten Dodger Book Title 2025 / Trade Bait Every Spring Training / Never Had Permanent Position After Second Season / Averaged 146 Games / Always Essential Never Celebrated / Jim Murray Called Him All-Time Favorite' / affinity 'HAUNTED' — nineteenth HAUNTED in the set. Gilliam's is the most structurally precise HAUNTED in the set: the 'Forgotten Dodger' title of the 2025 biography (the first book-length biography of him, published 47 years after his death) names the haunting exactly. The player who was present at every significant Dodger moment from 1953 to 1978, who never had a guaranteed starting position after his second season, who averaged 146 games played per year anyway, who was called trade bait every spring training and never traded, who had his number retired within 48 hours of his death — and who is not in the Hall of Fame. Hotel/Rest domain: the private accounting of a career whose visibility never matched its significance."
+    },
+    {
+      "location": "Open Field/Stadium",
+      "affinity": "MAXIMUM",
+      "note": "10 pennants. Four WS rings in two cities. First rookie to draw 100 NL walks. Third all-time in Bill James PPI. The Wills 104-SB campaign enabled from the number-two spot. The Mentorship Chain to Brock 118. Number retired in 48 hours.",
+      "note_extra": "Source labeled 'Ten Dodger Pennants / Four WS Rings Two Cities / First NL Rookie 100 Walks / Bill James PPI Third All-Time Joe Morgan Max Bishop Only Above / Wills 104 SB Gilliam Protection / Wills 32-37 With Gilliam Batting Second / Sizemore Mentored / Brock 118 Via Sizemore Via Gilliam / All-Switch-Hitting Infield 1965 / 12 Assists One Game Tied ML Record / Number Retired 48 Hours After Death' / affinity 'MAXIMUM' — fourteenth MAXIMUM in the set. Gilliam's is the most chain-extended MAXIMUM in the set: his contributions produce effects that compound through other players across multiple decades. The Wills 104-SB record required Gilliam at the plate. The Sizemore-Brock connection extended Gilliam's techniques to Lou Brock's 118-SB season — Gilliam's stolen base protection methods thus contributed to breaking the record that Wills (whom Gilliam enabled) had set. The PPI third-all-time ranking captures the compounding in a single metric: Gilliam's Baseball IQ was the engine of every team multiplication effect in the set. Open Field domain: the stadium achievements across 14 playing seasons and 12 coaching years."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "I Try to Help Him — when batting second behind any SPD 2+ player, that player's SB attempts gain +1 success tier.",
+      "The Devil — once per game, in any two-strike count, the opposing pitcher's CTL drops by 1 (Gilliam reads the pitcher).",
+      "If I Had Eight Like Him — all team coordination actions (hit-and-run, bunt, steal, delayed steal) succeed automatically without a CON or SPD roll when Gilliam is in the starting lineup.",
+      "The Number They Retired — in any postseason season, posthumous CLU +1 applies for the full postseason once Gilliam's team has clinched."
+    ],
+    "cold_triggers": [
+      "POW 1 — no power. Against pitchers who can contain his walk rate, Gilliam's offensive contribution collapses to SPD and DEF.",
+      "Trade bait status — every spring training the press reported him as expendable. Any roster construction phase where Gilliam enters as a trade target reduces his CON by 0.5 for the first six weeks of the season (the recurring doubt is the recurring adjustment).",
+      "No-HOF ceiling — the career statistical profile does not cross the threshold that triggers traditional recognition. His OVR 8 is a ceiling in the set as well as a floor."
+    ],
+    "pressure_response": "The 1955 World Series. Game 3. Bases loaded. Brooklyn needed a run. Gilliam drew the walk. The Dodgers went on to win the Series in seven games — the only championship Brooklyn ever won. He batted .292 with a .469 OBP for the whole Series. He hit .296 with two home runs in the 1953 WS. He scored the deciding run in Game 3 of the 1963 WS sweep of the Yankees. The pressure response is consistent across seven World Series: he shows up, he gets on base, he does the right thing. Walter Alston: 'He never moans.'"
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The 100 Walks",
+      "type": "Rookie Record",
+      "text": "1953. Jim Gilliam is 24 years old in his first MLB season, replacing Jackie Robinson at second base for the Brooklyn Dodgers. He draws 100 walks. It is a new NL record for a rookie, breaking the mark set by Eddie Stanky. He also leads the NL in triples (17), plate appearances (710), and is third in stolen bases (21). He gets on base in all of his first 24 starts. He has a 39-game on-base streak. He scores 125 runs. Sportswriters give him 11 of 24 ROY votes. Musial called Robinson 'the best I ever saw' in his day. Now Walter Alston is going to say something similar about the man who replaced him.",
+      "origin": "Gilliam's 100-walk rookie record (breaking Stanky's NL mark), the 1953 season statistics, and his 24-consecutive-game on-base streak are documented in the SABR BioProject."
+    },
+    {
+      "title": "First Time I Ever Tagged Out a Dead Man",
+      "type": "Game Action",
+      "text": "A runner going into second base was knocked unconscious by the throw to first during a double-play attempt. Concerned players gathered around the fallen man. Jim Gilliam picked up the ball and tagged the unconscious runner. The out was recorded. He then chuckled and said: 'First time I ever tagged out a dead man.' The Dodger catcher Johnny Roseboro put the story in his autobiography. It describes something essential about Gilliam: he was the most situationally aware player in the game, he was completely calm in any circumstance, and he had the driest sense of humor of any player on the roster.",
+      "origin": "The story is documented in Johnny Roseboro's autobiography and in the BR Bullpen."
+    },
+    {
+      "title": "I Try to Help Him",
+      "type": "Team Action",
+      "text": "1962. Maury Wills is running. Jim Gilliam is batting second. He described it: 'Lots of times there are pitches I could swing at, but I see Maury out of the corner of my eye and take the pitch if I think he is going to get the base. Or else I will take a strike, even two strikes to give him a chance to steal it. If it looks like he could be caught, I will hit at the pitch. Maybe I will punch it through and Maury will be able to make it to third. Or else I will foul it off and he is not out.' Wills went 32-for-37 stealing when Gilliam batted second. He finished with 104 for the season — then a single-season record. Leo Durocher: 'Not a man in baseball can do it better, because Jim is a real mechanic with that bat. He is the best two-strike hitter in baseball.'",
+      "origin": "Gilliam's self-description of his Wills-protection technique, the 32-for-37 ratio, and Durocher's quote are documented in the SABR BioProject, LA Dodger Chronicles, and BR Bullpen."
+    },
+    {
+      "title": "Third All-Time",
+      "type": "Character",
+      "text": "Bill James created a statistic called the Player Performance Index — a combination of batting, baserunning, and defensive statistics designed as a proxy for Baseball IQ. It was meant to isolate the 'percentage players': the hitters who did the right thing in every count, the fielders who got to the right position, the baserunners who never threw to the wrong base. Among all players in the history of baseball, Jim Gilliam ranked third. The two players above him were Joe Morgan and Max Bishop. Walter Alston: 'He does not make any mistakes. He gives you 100 percent, day in and day out. He never moans. He is a good team man. If I had eight like him, I would not have to give a single sign.'",
+      "origin": "Gilliam's third-place ranking in the Bill James Player Performance Index is documented in the LA Dodger Chronicles and the Dodger Chronicles. Alston's quote is documented widely."
+    },
+    {
+      "title": "The Mentorship Chain",
+      "type": "Legacy",
+      "text": "Gilliam mentored Ted Sizemore — a young catcher the Dodgers were converting to second base — in the fine points of the position and specifically in how to protect a stolen base threat from the number-two spot. Sizemore learned the techniques that Gilliam had developed batting behind Maury Wills. Later, Sizemore applied those exact techniques batting behind Lou Brock in 1974. Brock stole 118 bases that season, breaking Wills' 1962 record of 104. The chain ran: Gilliam's technique to Wills' 104 record. Gilliam's teaching to Sizemore. Sizemore's application to Brock's 118. Jim Gilliam helped set two consecutive all-time stolen base records without stealing either of them himself.",
+      "origin": "Gilliam's mentorship of Sizemore and Sizemore's application with Brock are documented in the BR Bullpen."
+    },
+    {
+      "title": "The Number They Retired",
+      "type": "Legacy",
+      "text": "September 15, 1978. Jim Gilliam drove manager Tommy Lasorda to Dodger Stadium and returned home. He suffered a cerebral hemorrhage. He died on October 8, 1978 — one day after the Dodgers won their tenth pennant during his tenure with the organization, nine days before his 50th birthday. The Dodgers wore black armbands with his number during the 1978 World Series. On October 10, 1978, two days after his death, the Dodgers retired uniform number 19. He is the only Dodger with a retired number who is not in the Baseball Hall of Fame. Jim Murray, the Pulitzer Prize-winning sports columnist of the Los Angeles Times, wrote his tribute and began it: 'I guess my all-time favorite athlete was Jim Gilliam. He always thought he was lucky to be a Dodger.'",
+      "origin": "The circumstances of Gilliam's death, the black armbands, the number retirement two days later, his non-HOF status, and Murray's tribute are documented in multiple sources."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'10'', 175 lbs — the switch-hitter from Nashville, Tennessee, the switch-hitter Tubby Scales made out of a 17-year-old who couldn't hit RHP curveballs. In 1953 he is 24 years old, the youngest looking man in the Dodgers' infield, replacing Jackie Robinson at second base. The face of the Roseboro anecdote: completely calm, slightly amused, certain of where the ball is at all times.",
+    "attire": "Brooklyn Dodgers home whites — the classic Dodger uniform, Ebbets Field visible behind him. The switch-hitter's profile: left-handed batting stance for the 1953 ROY season. Number 19. The second baseman's ready position between pitches — the position Bill James built a three-all-time PPI ranking around, the position Leo Durocher called the best two-strike hitting in baseball.",
+    "mood": "Watchful competence. He is the player Walter Alston did not need to give signs to. The art should convey the reading — the scan of the full infield that Gilliam was doing constantly, the awareness that let him tag out an unconscious runner, the patience that let him take two strikes to give Wills a chance to steal. He is not relaxed. He is ready. The difference is visible.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Ebbets Field in the background — the specific character of the Brooklyn ballpark, the intimate scale, the crowd visible in the stands. The last great season of the Brooklyn era before the move to Los Angeles. The 1953 card captures both the beginning of his MLB career and the peak of Brooklyn baseball.",
+    "reference": "Jim Murray's memorial formulation as the character anchor: 'God gave Jim Gilliam qualities that didn't show in a track meet. Patience. Determination. Discipline. Guts.' The art should show patience — the physical quality of someone who has decided to wait, who knows the next pitch is coming, who has already calculated what it will be."
+  }
+}

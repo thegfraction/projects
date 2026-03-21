@@ -1,0 +1,192 @@
+{
+  "card_type": "player",
+  "name": "Frank Malzone",
+  "nickname": "Malzie",
+  "year": 1957,
+  "team": "Boston Red Sox",
+  "league": "American League",
+  "era": "1950s",
+  "ilb_team": "Dreamers 1950",
+  "position": "3B",
+  "bats": "R",
+  "throws": "R",
+  "height": "5'10\"",
+  "weight": "180 lbs",
+  "born": "February 28, 1930 — Bronx, NY",
+  "died": "December 29, 2015 — Needham, MA",
+  "hof": "Not inducted. Boston Red Sox Hall of Fame, inaugural Class of 1995.",
+
+  "real_stats": {
+    "season": 1957,
+    "batting_avg": ".292",
+    "obp": ".326",
+    "slg": ".443",
+    "ops": ".769",
+    "hits": 155,
+    "doubles": 31,
+    "triples": 2,
+    "home_runs": 15,
+    "rbi": 103,
+    "runs": 82,
+    "walks": 34,
+    "games": 153,
+    "war": 4.7,
+    "all_star": 1,
+    "awards": "Gold Glove Award 1957 — the first Gold Glove ever awarded at third base, given to a single player across both leagues (inaugural year of the award). Also won the AL Gold Glove in 1958 and 1959 — three consecutive. The last AL third baseman to win a Gold Glove before Brooks Robinson's 16-year run beginning in 1960. First player in major league history to lead the league at his position in every fielding category in the same season (games played, putouts, errors, assists, double plays, fielding percentage — all in 1957). Tied AL record for third baseman assists in a game (10 in 1957). Set Red Sox team record for third baseman assists in a season (370 in 1957, broke it himself with 378 in 1958 — both records stand). Led AL third basemen in double plays five consecutive seasons (1957-1961), tying Ken Keltner's record and becoming the first to do so in five consecutive seasons. 475 consecutive games played (May 21, 1957 to June 7, 1960) — longest streak in Red Sox history in the live-ball era. Eight-time AL All-Star (1957, 1958, two in 1959, two in 1960, 1963, 1964). Career franchise leader in home runs (131) and RBI (716) by a Red Sox third baseman. Manager Mike Higgins: 'He has played the best third base of any Red Sox player ever.' Red Sox chairman Tom Werner: 'Venerated by Red Sox fans not only for his great glove at third base but for his blue-collar dedication to his craft.'",
+    "world_series": "None. Played for the Red Sox from 1957 to 1965, years in which the team did not contend. His contribution to a Red Sox pennant came as an advance scout in 1967, when manager Dick Williams credited his scouting reports on the Twins and Cardinals for the team's preparation."
+  },
+
+  "ilb_stats": {
+    "ovr": 8,
+    "con": 3,
+    "pow": 2,
+    "spd": 0,
+    "def": 4,
+    "clu": 1
+  },
+
+  "stat_justification": {
+    "con": "Career .274 BA, .292 in 1957. Hit over .290 three times. A self-described free swinger: 'I could not make it in today's game because I was a free-swinger — I swung at everything. Ted Williams was all over me about my pitch selection.' CON 3 reflects the consistent line-drive contact hitter who produced hits at a reliable pace without elite plate discipline. The contact was real; the walk rate was low. He batted .292 in his first full season at 27 years old on a bad team with limited lineup protection, which is the CON 3 performance floor.",
+    "pow": "Career 133 HR. Peak 21 HR in 1962. 15 HR in 1957. He learned to use Fenway Park's Green Monster over time, improving his doubles output. Career SLG in the low .420s. POW 2 is the moderate corner-infield power profile: he hit home runs, he drove in runs (career average of 84 RBI per year across his peak eight seasons), but he was never a power threat at the level that would shift a scouting report. The power was real and consistent, not dominant.",
+    "spd": "No documented speed, no stolen base record of note. A corner infielder at 3B who stood at the hot corner and delivered. SPD 0 is the honest accounting.",
+    "def": "Won the first Gold Glove ever awarded at third base (1957, across both leagues). Won it again in 1958 and 1959 (AL). Three consecutive. The last AL 3B to win before Brooks Robinson's 16-year run. In 1957, became the first player in ML history to lead the league at his position in every fielding category in the same season: games played, putouts, errors, assists, double plays, fielding percentage — all six. Tied the AL record for 3B assists in a game (10). Set the Red Sox team record for 3B assists in a season (370 in 1957), broke it himself (378 in 1958). Led AL 3B in double plays five consecutive seasons. DEF 4 is the set's highest for a corner infielder and is earned by the widest credential base: the inaugural Gold Glove, the six-category season leadership, the all-time franchise assist records, the consecutive Gold Gloves before the Brooks Robinson era.",
+    "clu": "No World Series, no pennants as a player. He produced on bad teams throughout his career — 103 RBI in 1957 on a sixth-place team, averaging 84 RBI per year for a decade for a non-contending franchise. CLU 1 is not a postseason credential but a consistent pressure-situation production credential: he drove in runs when there was no lineup protection, no pennant race, and no crowd context that elevated the stakes. The CLU 1 is the iron-man RBI production without a ring."
+  },
+
+  "personality": {
+    "leadership_style": "The invisible mentor. Tom Dowd: 'If he wasn't on the roster, I would not know he was on the club.' Carl Yastrzemski: 'Frank was the guy who took me under his wing. I struggled when I first came up, and he took care of me and stayed with me. He was a real class guy, a very caring guy, and I owe him a lot. You are not going to find too many people like him.' He was the only veteran on the Red Sox who made Yastrzemski feel welcome as a rookie. He took care of young players without drawing attention to himself. Dick Berardino: 'If I were in a foxhole somewhere in a war, the one person I would want with me in that foxhole is Frank Malzone.'",
+    "temperament": "Quiet, modest, unassuming — the SABR BioProject's words. He was a blue-collar Bronx kid who planned to become an electrician if baseball did not work out. He swung at everything and Ted Williams was on him about his pitch selection for years. He admitted he may have tried too hard to be an iron man. He was the kind of person who arrived without announcement and left after 68 years in the same organization. 'Malzie' is what they called him.",
+    "work_ethic": "475 consecutive games — the longest in Red Sox history since 1920. Played 150+ games in seven consecutive seasons. Played every inning of all 154 games in 1958. Set the Red Sox record for third baseman assists in a season, then broke his own record the following year. He spent 68 years in the Red Sox organization: 12 as a player, 28 as an advance scout, and additional years as an instructor and consultant. He later admitted he tried too hard to be an iron man. The consecutive-game streak ended on June 7, 1960. He kept playing.",
+    "lifestyle": "Bronx Italian-American, son of an immigrant from Salerno. Yankees fan growing up. Moved to Needham, Massachusetts in 1957 when he made the Red Sox full-time, stayed there for the rest of his life. Built a house for the family in 1965. Raised four sons and a daughter. Married Amy in 1951 — 55 years together until she died in January 2006. He remained in the Needham house after her death. Eight grandchildren, two great-grandchildren. His youngest son John put in seven seasons in the Red Sox system, almost exclusively at third base, without reaching above Single-A. Frank died at home in Needham on December 29, 2015. He was 85.",
+    "dark_side": "In early 1956, Malzone's 15-month-old daughter Suzanne died. He started the season with the Red Sox and hit .165 in 27 games before being sent to the minors. Some in the organization believed the loss weighed heavily on him. He came back in 1957 — the delayed-action bomb — and led the league in every fielding category at his position. He never talked about it much. He was a quiet man who was a good teammate and a careful father and 68 years in one organization. The grief was private and the response was to play."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "The Delayed-Action Bomb",
+      "desc": "Sportswriter Hy Hurwitz described Malzone's 1957 arrival as 'a delayed-action bomb.' He was 27 years old in his first full season. He had spent 11 seasons in the minors and military service and two injury-shortened MLB seasons before leading the league at third base in every fielding category, driving in 103 runs, and winning the first Gold Glove ever awarded at his position. In ILB, the Delayed-Action Bomb activates in any season where Malzone enters as a platoon player or roster uncertainty: his first 30 games generate CON at +0.5 effective (the slow burn before the full explosion). After 30 games, CON normalizes to 3. The bomb was always set. It just took time to go off.",
+      "note": "Hy Hurwitz's 'delayed-action bomb' description is documented in the SABR BioProject."
+    },
+    {
+      "tag": "If He Wasn't on the Roster",
+      "desc": "Red Sox traveling secretary Tom Dowd: 'If he wasn't on the roster, I wouldn't know he was on the club.' He was such a quiet, modest, and unassuming ballplayer that the team's own traveling secretary could overlook him. In ILB, this is Malzone's stealth trait: when opposing managers are making defensive positioning decisions, Malzone is the last player considered in their shift calculations. Once per game, Malzone may exploit an opponent's positioning miscalculation — treating the fielding assignment as if it were one defensive shade in his favor, generating an additional hit result on a ball-in-play that would otherwise have been an out.",
+      "note": "Tom Dowd's quote is documented in the SABR BioProject."
+    },
+    {
+      "tag": "Ted Williams Was All Over Me",
+      "desc": "Frank Malzone's self-description: 'I could not make it in today's game because I was a free-swinger — I swung at everything. Ted Williams was all over me about my pitch selection.' Williams was the Red Sox's greatest hitter and its most demanding student of the craft. He was in the lineup with Malzone. He was relentless about pitch selection. In ILB, Ted Williams Was All Over Me is a negative-positive trait: when Malzone is batting in the same lineup as any CON 5 hitter, that hitter's coaching presence raises Malzone's effective OBP by one tier (the Williams instruction produced marginal improvement even from an acknowledged free-swinger). When batting without a CON 5 hitter in the lineup, Malzone's tendency to chase activates a -0.25 CON penalty.",
+      "note": "Malzone's self-description of his free-swinging and Williams's instruction is documented in the Boston Baseball History piece."
+    },
+    {
+      "tag": "Every Fielding Category",
+      "desc": "1957. Frank Malzone became the first player in major league history to lead the league at his position in every fielding category in the same season: games played, putouts, errors, assists, double plays, and fielding percentage. All six. In that same season he tied the AL record for third baseman assists in a game (10) and won the first Gold Glove ever awarded at his position. In ILB, Every Fielding Category generates a Hot Corner Lock: whenever any ball is put in play in the third base area, Malzone's DEF 4 resolves at the maximum result within that rating — there is no variance, only the expected outcome. He does not have good games and bad games at third base. He has the same game every game.",
+      "note": "Malzone's 1957 six-category fielding leadership, the first in ML history at any position, is documented in Wikipedia and the Baseball Almanac."
+    },
+    {
+      "tag": "He Would Even Throw Me Batting Practice",
+      "desc": "Carl Yastrzemski: 'When I first came to the big leagues in 1961, Frank was the guy who took me under his wing. I struggled when I first came up, and he took care of me and stayed with me. He was a real class guy, a very caring guy, and I owe him a lot. You are not going to find too many people like him. He may not have been one of the coaches on the team, but he was a coach for me, instructing me on the finer parts of the game. He would even throw me batting practice if I needed it. In some ways, Frank was like a big brother.' In ILB, Malzone's mentorship generates a Williams-to-Yaz Bridge bonus: any teammate age 23 or under in his first or second season gains +0.5 CON for that season (Malzone throws the batting practice, the young player improves).",
+      "note": "Yastrzemski's full quote about Malzone is documented in the Boston Red Sox MLB.com announcement of Malzone's death and the Boston Baseball History piece."
+    },
+    {
+      "tag": "A Terrific Scouting Report",
+      "desc": "1967. Frank Malzone is no longer a player. He is an advance scout for the Red Sox. He scouts the Twins as they race for the AL pennant, then scouts the Cardinals for the World Series. Manager Dick Williams: 'Malzone gave us a terrific scouting report on the Twins for the weekend games. We have a pretty good book on St. Louis.' The Red Sox won the AL pennant and took the Cardinals to Game 7. Many credited Malzone's advance work. He would scout for the Red Sox for 28 years. In ILB, A Terrific Scouting Report is the set's only advance-scouting trait: once per series, when Malzone's team faces a repeated opponent, the opposing pitcher's effective CTL drops by 0.5 (Malzone has the book on them).",
+      "note": "Dick Williams's quote about Malzone's scouting report is documented in the SABR BioProject."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballpark",
+      "affinity": "SACRED",
+      "note": "Fenway Park / the 1957 season / the first Gold Glove / 475 consecutive games / 'He has played the best third base of any Red Sox player ever.'",
+      "note_extra": "Source labeled 'Fenway Park / 1957 First Full Season / First Gold Glove Ever Third Base Both Leagues / Six Category Fielding Leadership First In History / 370 Assists Team Record / 10 Assists One Game AL Record / 103 RBI Sixth Place Team / 475 Consecutive Games / Last AL Third Base Before Brooks Robinson 16 Years / Manager Higgins Best Third Base Any Red Sox Player Ever / Ted Williams Lineup / Williams Last Game September 28 1960 Malzone In Lineup / Yastrzemski First Game April 11 1961 Malzone In Lineup' / affinity 'SACRED' — forty-first SACRED in the set. Malzone's is the most institutionally layered SACRED in the set: Fenway Park is the location, the 1957 season is the moment — but the full SACRED runs from September 28, 1960 (Williams's last game, Malzone in the lineup) through April 11, 1961 (Yastrzemski's first game, Malzone in the lineup). He is the transitional figure between the two greatest Red Sox left fielders. No other player in American baseball history played in both Ted Williams's last game and Carl Yastrzemski's first. Malzone was at third base for both. Ballpark domain."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "The Bronx / son of a Salerno immigrant / Yankees fan / Samuel Gompers High School / told too small by the Giants / $150/month / Korea / 'Who's that spaghetti eater you got out of Hawaii?' — Ted Williams to Joe Cronin.",
+      "note_extra": "Source labeled 'Bronx New York / Son Francis Malzone Salerno Italy / Yankees Fan Growing Up / Samuel Gompers High School First Graduate MLB / Giant Tryout Polo Grounds Too Small Too Light / Red Sox Scout Cy Phillips $150 Month 1947 / Korean War 1952-1953 / Hawaii Not Korea Colonel Changed Orders / Armed Forces League / Ted Williams Asked Joe Cronin Who Is That Spaghetti Eater Hawaii / Bronx Italian-American / Electrician Backup Career Plan' / affinity 'ORIGIN' — forty-fourth ORIGIN in the set. Malzone's is the most Italian-American specific ORIGIN in the set: the Bronx immigrant community, the father from Salerno, the Gompers High School kid who planned to be an electrician, the tryout at the Polo Grounds where the Giants said he was too small, the Red Sox scout who saw something. Then Korea — and Ted Williams asking Joe Cronin about 'the spaghetti eater from Hawaii.' Williams had heard about Malzone through the Armed Forces League. The ORIGIN is the path from the Bronx immigrant community to Fenway Park: 68 years in one organization, all of it running back to the $150-a-month offer that was better than becoming an electrician. Community Events domain."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HAUNTED",
+      "note": "In early 1956, Malzone's 15-month-old daughter Suzanne died. He hit .165 in 27 games and was sent to the minors. The 1957 explosion was the delayed-action bomb that followed private grief.",
+      "note_extra": "Source labeled 'Daughter Suzanne Died Early 1956 Age 15 Months / 1956 .165 27 Games Sent Down / Organization Thought Death Weighed On Him / Never Talked About It / Returned 1957 First Gold Glove / 103 RBI Sixth Place Team / Delayed Action Bomb / Silent Grief / Family Of Four Sons Daughter After / Wife Amy Died January 2006 / Youngest Son John Seven Minor League Seasons Red Sox System Mostly Third Base' / affinity 'HAUNTED' — twenty-first HAUNTED in the set. Malzone's is the most private and quietest HAUNTED in the set: the 1956 season's .165 in 27 games was not a mechanical failure but a weight that the Red Sox organization recognized without Malzone naming it. He came back in 1957 and led the league in every fielding category at his position. He never talked about it. The SABR BioProject references it in a single sentence and moves on — the same way Malzone apparently did. Hotel/Rest domain: the private grief that altered a professional season."
+    },
+    {
+      "location": "Open Field/Stadium",
+      "affinity": "COMPLEX",
+      "note": "First Gold Glove ever at 3B. First to lead every fielding category at a position in one season. Last AL 3B before Brooks Robinson's 16-year run. Not in the HOF. No pennant. No WS.",
+      "note_extra": "Source labeled 'First Gold Glove Third Base History / First Six Category Fielding Leadership Same Season / Last AL Third Base Before Brooks Robinson 16 Consecutive / Not In HOF / No World Series / No Pennant As Player / 8x All-Star / Three Consecutive Gold Gloves / 475 Consecutive Games / 34th All Time Double Plays Third Base Only 12 Seasons / Never Hit .300 Career High .295 / Free Swinger Ted Williams Instruction' / affinity 'COMPLEX' — twenty-third COMPLEX in the set. Malzone's is the most historically bounded COMPLEX in the set: he won the first Gold Glove ever awarded at his position, he led the league in every fielding category at that position in one season, and then Brooks Robinson arrived the following year and won the next 16 Gold Gloves. Malzone was the standard before the standard-setter. He played on non-contending teams his entire career and never saw a World Series as a player. The COMPLEX is the 1957-1959 window between the inauguration of the award and the arrival of Robinson: Malzone was the best defensive third baseman in baseball for those three years, and then he was the third-best behind Robinson for the next six. Open Field domain: the stadium achievements."
+    },
+    {
+      "location": "State House/Government",
+      "affinity": "CODA",
+      "note": "28 years of advance scouting for the Red Sox (1967-1994). The 1967 WS scouting report. Developing Petrocelli and Rice. 68 total years in the Red Sox organization.",
+      "note_extra": "Source labeled '28 Years Advance Scout Red Sox / 1967 WS Scouting Report Cardinals Twins / Dick Williams Terrific Scouting Report / Helped 1967 Red Sox Pennant / Developed Rico Petrocelli SS To 3B / Developed Jim Rice / Player Development Consultant 2008 / 68 Total Years Red Sox Organization 1947-2015 / Boston Red Sox Hall of Fame 1995 Inaugural Class / Needham Massachusetts 1957 Until Death 2015 / Longest Streak Consecutive Games Red Sox Live Ball Era' / affinity 'CODA' — fourteenth CODA in the set. Malzone's is the most organizationally complete CODA in the set: 68 years in one organization (1947-2015, save one year with the Angels) — longer than any other player's organizational tenure in the set. The CODA runs from the advance scouting for the 1967 Impossible Dream season (which brought the Red Sox within one game of a championship) through the development of Petrocelli and Rice and the player development consulting role he held until his death. He was at Fenway Park signing autographs and visiting the clubhouse until the end. State House domain: the institutional role of the advance scout and consultant."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Every Fielding Category — DEF 4 resolves at maximum result for all balls in play in the 3B area. No variance. The same game every game.",
+      "The Delayed-Action Bomb — in any season entering as a platoon player or roster uncertainty, CON at +0.5 effective for first 30 games.",
+      "If He Wasn't on the Roster — once per game, exploits opponent's positioning miscalculation for an additional hit result.",
+      "Ted Williams Was All Over Me — when batting in a lineup with a CON 5 hitter, OBP rises one tier; when batting without one, CON drops -0.25.",
+      "He Would Even Throw Me Batting Practice — any teammate age 23 or under in their first or second season gains +0.5 CON for that season."
+    ],
+    "cold_triggers": [
+      "SPD 0 — no running. No baserunning advantage. No threat on the bases.",
+      "Free-swinger — without CON 5 lineup protection (see Ted Williams Was All Over Me), the pitch selection deficit is real.",
+      "Non-contending team — CLU 1 reflects 103 RBI on a sixth-place team. The production was there but the team context was never there."
+    ],
+    "pressure_response": "The 1957 season. After the grief of 1956 and the demotion, he came back to Fenway Park in 1957 and led the league in every fielding category at his position, drove in 103 runs on a team that finished sixth, and won the first Gold Glove ever awarded at third base. The pressure response is the delayed-action bomb: it takes a while to arm, it goes off completely, and the people nearest to it barely noticed it was happening. 'If he wasn't on the roster, I wouldn't know he was on the club.'"
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "The First Gold Glove at Third Base",
+      "type": "Historic Feat",
+      "text": "1957. The Rawlings Gold Glove Award is given for the first time in baseball history. One player per position, across both major leagues. At third base, the award goes to Frank Malzone of the Boston Red Sox. He has just completed a season in which he led the American League at his position in every fielding category: games played, putouts, errors, assists, double plays, and fielding percentage. He also tied the AL record for assists by a third baseman in a game (10). He is the first winner of the award at his position. In 1958, each league begins giving its own award — and Malzone wins it again. And in 1959. Three consecutive. The following year, Brooks Robinson begins winning it. He wins it 16 times in a row.",
+      "origin": "Malzone's status as the first Gold Glove winner ever at 3B, his three consecutive awards, and his position as the last AL 3B to win before Brooks Robinson are documented in multiple sources including the Baseball Almanac and Wikipedia."
+    },
+    {
+      "title": "Every Fielding Category",
+      "type": "Historic Feat",
+      "text": "1957. Frank Malzone leads the American League at third base in every fielding category: games played, putouts, errors, assists, double plays, and fielding percentage. All six. He is the first player in major league history to lead the league at his position in every fielding category in the same season. He also sets a Red Sox team record with 370 assists (breaking Jim Tabor's 1939 record of 338), and ties the AL record for third baseman assists in a game with 10. The previous year he was hitting .165 and his 15-month-old daughter had died.",
+      "origin": "Malzone's 1957 six-category leadership and its historical uniqueness are documented. His 370-assist team record (breaking Tabor's 338) is documented in the Baseball Almanac."
+    },
+    {
+      "title": "Who's That Spaghetti Eater",
+      "type": "Origin",
+      "text": "Korea, 1952. Frank Malzone is playing in the Armed Forces League in Hawaii. He has been scheduled to ship out to Korea, but a colonel sees he is a minor league ballplayer and changes his orders. He plays baseball in Hawaii instead. Word gets around about how he plays. It reaches Ted Williams, who is also in the service. Williams asks Joe Cronin: 'Who is that spaghetti eater you got out of Hawaii?' People begin to get interested in who Malzone is. In 1957, Malzone will be in Ted Williams's lineup. Williams will be on him constantly about his pitch selection. Williams will say later that Malzone could not make it in today's game because he swung at everything. They will be in the same lineup until Williams's last game. Williams will still be on him about it.",
+      "origin": "The Ted Williams inquiry about the 'spaghetti eater from Hawaii' is documented in the Italian Americans in Baseball and centerfieldmaz.com pieces."
+    },
+    {
+      "title": "Williams's Last Game / Yastrzemski's First",
+      "type": "Bridge",
+      "text": "September 28, 1960. Fenway Park. Ted Williams plays his final major league game. Frank Malzone is at third base. April 11, 1961. Fenway Park. Carl Yastrzemski plays his first major league game. Frank Malzone is at third base. No other player in the history of American baseball played in both Ted Williams's last game and Carl Yastrzemski's first. In 1961, Malzone was the only veteran on the Red Sox who made Yastrzemski feel welcome. In some ways, Malzone said later, he was like a big brother. He would even throw Yaz batting practice. The two remained friends until Malzone's death in 2015.",
+      "origin": "Malzone's presence in both Williams's last game (September 28, 1960) and Yastrzemski's first (April 11, 1961) is documented. The bridge between the two Red Sox eras is documented in the Boston Baseball History piece."
+    },
+    {
+      "title": "475 Consecutive Games",
+      "type": "Durability",
+      "text": "May 21, 1957. Frank Malzone begins a streak. He plays every game for the Boston Red Sox. June 7, 1960. He stops. 475 consecutive games — the longest streak in Red Sox history since 1920. He later admitted he may have tried too hard to be an iron man. He did not try to look like an iron man. He just showed up. Every day. For three years and two weeks. On a team that was not in contention. In front of crowds that were not always paying attention. He later said he could have been happier with fewer games and more rest. He played them all.",
+      "origin": "The 475-game streak (May 21, 1957 to June 7, 1960) and Malzone's acknowledgment that he may have tried too hard to be an iron man are documented in the BR Bullpen and SABR BioProject."
+    },
+    {
+      "title": "A Terrific Scouting Report",
+      "type": "Legacy",
+      "text": "1967. Frank Malzone is 37 years old and has not played professional baseball in a year. He is an advance scout for the Boston Red Sox. The Red Sox are in a pennant race — the Impossible Dream season. Malzone scouts the Minnesota Twins for the weekend games and then moves on to scout the National League champion St. Louis Cardinals for the World Series. Manager Dick Williams says: 'Malzone gave us a terrific scouting report on the Twins for the weekend games. We have a pretty good book on St. Louis.' The Red Sox win the AL pennant. They take the Cardinals to Game 7 of the World Series. Malzone will scout for the Red Sox for 28 more years.",
+      "origin": "Dick Williams's quote about Malzone's scouting report is documented in the SABR BioProject."
+    }
+  ],
+
+  "art_direction": {
+    "face": "5'10'', 180 lbs — the Bronx Italian-American, son of a man from Salerno. In 1957 he is 27 years old in his first full season, the delayed-action bomb finally detonating. The face of the man Tom Dowd would not notice if he was not on the roster: quiet, modest, unassuming. The face of the man Dick Berardino would want in a foxhole. Those are not the same face; on Malzone they were.",
+    "attire": "Boston Red Sox home whites — the 1957 uniform, the B on the cap, number 6. The third baseman's stance: glove low, weight forward, the setup for the 10-assist game and the 370-assist season. The defensive ready position is the art — not the batting stance of a .292 hitter but the hot corner alert of a man who was about to lead the league in every fielding category at his position.",
+    "mood": "Present and invisible. He is there, completely. He will win the first Gold Glove ever at his position. He will be in Ted Williams's lineup. He will be in the lineup three years later when Williams plays his last game. He will be in the lineup the following spring when Yastrzemski plays his first. He is paying attention. Nobody is entirely sure he is there.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Fenway Park in the background — specifically the third base corner and the Green Monster visible over the left field fence. The 1957 season's Fenway: the intimate old park, the view from the third base side, the wall that Malzone learned to use over his 11 seasons as a Red Sox.",
+    "reference": "Tom Dowd's paradox as the art anchor: 'If he wasn't on the roster, I wouldn't know he was on the club.' The art should make him visible precisely in the way Dowd meant he was not — the steady, total presence of a man who won the first Gold Glove ever at his position and drove in 103 runs on a bad team and did not make much noise about any of it."
+  }
+}

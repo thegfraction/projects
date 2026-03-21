@@ -1,0 +1,193 @@
+{
+  "card_type": "player",
+  "name": "Frank Robinson",
+  "nickname": "The Judge / Robby",
+  "year": 1966,
+  "team": "Baltimore Orioles",
+  "league": "American League",
+  "era": "1960s",
+  "ilb_team": "Swingers 1960",
+  "position": "RF",
+  "bats": "R",
+  "throws": "R",
+  "height": "6'1\"",
+  "weight": "195 lbs",
+  "born": "August 31, 1935 — Beaumont, TX",
+  "died": "February 7, 2019 — Los Angeles, CA",
+  "hof": "Inducted 1982 (first ballot, 89.2% of the vote). As a Baltimore Oriole.",
+
+  "real_stats": {
+    "season": 1966,
+    "batting_avg": ".316",
+    "obp": ".410",
+    "slg": ".637",
+    "ops": "1.047",
+    "hits": 182,
+    "doubles": 34,
+    "triples": 2,
+    "home_runs": 49,
+    "rbi": 122,
+    "runs": 122,
+    "total_bases": 367,
+    "walks": 87,
+    "war": 9.0,
+    "all_star": 1,
+    "awards": "AL Triple Crown 1966 (.316 BA, 49 HR, 122 RBI). AL MVP 1966 — unanimous. The first player in baseball history to win Most Valuable Player awards in both major leagues (also NL MVP 1961). The lowest batting average ever to win the Triple Crown (.316). The most home runs by any right-handed Triple Crown winner (49). Led the AL in 11 statistical categories in 1966: BA, HR, RBI, OBP, SLG, runs, total bases, runs created, extra-base hits, times on base, and sacrifice flies. World Series MVP 1966 (two HR in Baltimore's 4-game sweep of the Dodgers). Won the Hickok Belt in 1966 as the top professional athlete of the year in any sport. On May 8, 1966, hit the only ball ever to clear the outer wall of Memorial Stadium completely — a flag was permanently installed at the point of exit reading simply 'HERE.' 14-time All-Star (1956-1974). Gold Glove 1958. NL Rookie of the Year 1956. Career .294 BA, 586 HR (4th all-time at retirement), 1,812 RBI, 204 SB, .537 SLG, OPS+ 154. Hit 30+ HR eleven times. Led his league in slugging four times. Hit 30+ HR at age 37 with the California Angels. First Black manager in ML history (Cleveland Indians, 1975). Presidential Medal of Freedom, 2005. Number 20 retired by three franchises (Reds, Orioles, Indians) — one of only two ML players so honored (with Nolan Ryan). Bronze statues at Great American Ball Park (2003), Oriole Park at Camden Yards (2012), and Progressive Field (2017).",
+    "world_series": "Two World Series rings. 1966: WS MVP — two HR (Games 1 and 4) in Baltimore's 4-game sweep of the Dodgers. Led Baltimore to four AL pennants total (1966, 1969, 1970, 1971). 1970: WS champion again as the driving force of an Orioles team that averaged 106 wins per season from 1969-1971. In the 1971 WS Game 6, Robinson scored the series-clinching run on a Brooks Robinson sacrifice fly while playing with a pulled thigh muscle. Career postseason: .314 BA across multiple series.",
+    "career_notes": "21 seasons: Cincinnati Reds (1956-1965), Baltimore Orioles (1966-1971), Los Angeles Dodgers (1972), California Angels (1973-1974), Cleveland Indians (1974-1976). Career .294 BA, 586 HR, 1,812 RBI, OPS+ 154. Batted .300+ nine times. Hit 30+ HR eleven times. Led league in slugging four times. Elected HOF 1982 on first ballot (89.2%). Managed the Indians (1975-77), Giants (1981-84), Orioles (1988-91), Expos/Nationals (2002-06). AL Manager of the Year 1989 (led Baltimore to 87-75 after a 54-101 season). First Black manager in ML history. Presidential Medal of Freedom 2005."
+  },
+
+  "ilb_stats": {
+    "ovr": 11,
+    "con": 4,
+    "pow": 5,
+    "spd": 2,
+    "def": 2,
+    "clu": 4
+  },
+
+  "stat_justification": {
+    "con": "Career .294 BA. Batted .300+ nine times. Triple Crown season was .316. His 1962 peak was .342. He crowded the plate his entire career and wore pitches as a deliberate tactic — absorbing hit-by-pitches as a form of offensive aggression. 'Pitchers did me a favor when they knocked me down. It made me more determined.' CON 4 reflects the consistent, hard-nosed contact hitter who combined average production across two decades and two leagues, batted in the .300s in his most significant seasons, and never let pitchers' intimidation tactics reduce his plate presence.",
+    "pow": "Career 586 HR (4th all-time at retirement). 49 HR in 1966 (most by any right-handed Triple Crown winner). 39 HR in 1962. 37 HR in 1961. Hit 30+ HR eleven times across his career. Hit 30+ HR at age 37 with the Angels. Led his league in slugging four times. Career .537 SLG. OPS+ 154 — among the highest career marks in the set. POW 5 is the dominant right-handed power hitter: 586 HR, the Triple Crown's 49, and eleven seasons of 30+ is the definitive power profile.",
+    "spd": "Career 204 SB. Described by the Hall of Fame as 'one of the most feared baserunners of his era.' His self-described philosophy: 'The baselines belong to the runner, and whenever I was running the bases, I always slid hard. I wanted infielders to have that instant's hesitation about coming across the bag at second or about standing in there awaiting a throw to make a tag.' SPD 2 reflects the aggressive, tactical baserunner — not a speedster but a player who used the basepath as a weapon.",
+    "def": "Gold Glove 1958. Strong throwing arm. Led league in assists multiple times. Considered an excellent right fielder particularly early in his career. DEF 2 is the solid Gold Glove outfielder whose defensive value was genuine and acknowledged without reaching the elite tier.",
+    "clu": "Two World Series rings (1966, 1970). WS MVP 1966. Unanimous AL MVP 1966. NL MVP 1961. All-Star Game MVP 1971. Four AL pennants with Baltimore. The first player to win MVP in both leagues. The kangaroo court Judge who set the cultural tone for the four-pennant Orioles dynasty. CLU 4 is the set's highest for a player not named Berra — the combination of two rings, two MVP awards, WS MVP, and the qualitative leadership evidence from the Orioles dynasty."
+  },
+
+  "personality": {
+    "leadership_style": "The Judge. Robinson ran the Orioles' kangaroo court — the players' internal disciplinary body for handling clubhouse violations, keeping the team accountable, and maintaining the culture. It is widely credited with creating the chemistry of the four-pennant dynasty. He brought an edginess that the Orioles had not had. Brooks Robinson was a sweetheart; Boog Powell a loveable oaf. Frank Robinson was the element that completed the compound. His own formulation: 'I am not a fancy guy, not a glamour boy. I don't believe I intrigue the fans and obviously I don't interest the sportswriters. All that I am is an uncomplicated, single-minded guy. And my single-mindedness is baseball.'",
+    "temperament": "Controlled fury. 'Pitchers did me a favor when they knocked me down. It made me more determined. I wouldn't let that pitcher get me out. They say you can't hit if you're on your back, but I didn't hit on my back. I got up.' When asked after a game how his fight went, he said: 'I won the fight. I had a homer and a double, drove in one run, scored another and made a catch that robbed Eddie Mathews of an extra-base hit. We won the second game 4-0. I won the fight.' The fight was always in the box score.",
+    "work_ethic": "Traded as an 'old 30' — responded with the Triple Crown. Won the unanimous MVP. Led Baltimore to four pennants in six years. Became the first Black manager in ML history at 39. Hit a HR in his first at-bat as manager. Managed 2,241 games across four organizations. Said of his single-mindedness: baseball was the work; everything else was weather.",
+    "lifestyle": "Beaumont, Texas to Oakland. McClymonds High School alongside Vada Pinson and Curt Flood. Reds for ten years. Orioles for six, becoming the franchise's defining player. Then Dodgers, Angels, Indians — always looking for the next place to prove something. He welcomed Pete Rose when nobody else would. He befriended Vada Pinson. He ran the kangaroo court. He managed in every available context. He died of bone cancer at 83 in Los Angeles on February 7, 2019 — the same city where he had swept the Dodgers in the 1966 World Series.",
+    "dark_side": "The 1961 Cincinnati gun incident: taunted at a diner, he brandished a .25-caliber Baretta. Two police officers across the street saw it and arrested him. The incident resonated with owner Bill DeWitt and contributed to the decision to trade Robinson four years later as 'not a young 30.' The gun incident was the beginning of the end of his Cincinnati career — not because of what he did in the box score, but because of what DeWitt remembered when he was deciding whether to trade him."
+  },
+
+  "chemistry_traits": [
+    {
+      "tag": "Not a Young 30",
+      "desc": "December 9, 1965. Cincinnati Reds owner Bill DeWitt traded Frank Robinson — the team's NL MVP from 1961, its best player for a decade — to the Baltimore Orioles for Milt Pappas, Jack Baldschun, and Dick Simpson. DeWitt's explanation: Robinson was 'not a young 30.' In 1966, Robinson won the Triple Crown, the unanimous AL MVP, and the World Series MVP. In ILB, Not a Young 30 is the set's definitive motivation trait: whenever Robinson is traded from one franchise to another, he enters his new franchise's first full season at +1 effective OVR (12 for the card year) — the activation of the chip-on-shoulder response to the undervaluation. The trade that generated this trait is the most consequential organizational miscalculation in the set. DeWitt later said it was the worst trade he ever made.",
+      "note": "DeWitt's 'not a young 30' quote, the trade details (Pappas, Baldschun, Simpson), and Robinson's 1966 Triple Crown response are documented in multiple sources including Wikipedia and the SABR BioProject."
+    },
+    {
+      "tag": "The Baselines Belong to the Runner",
+      "desc": "Robinson on baserunning: 'The baselines belong to the runner, and whenever I was running the bases, I always slid hard. I wanted infielders to have that instant's hesitation about coming across the bag at second or about standing in there awaiting a throw to make a tag.' In ILB, The Baselines Belong to the Runner activates on any double-play attempt involving Robinson as a baserunner: the middle infielder receives a DEF -1 effective penalty on the relay throw (the hesitation is real; Robinson's reputation preceded him to every bag). The basepath was territory. Robinson collected it.",
+      "note": "Robinson's baserunning philosophy quote is documented in the Baseball Hall of Fame."
+    },
+    {
+      "tag": "I Won the Fight",
+      "desc": "After a game in which Robinson had been involved in a physical confrontation, his teammates asked how his fight went. He said: 'I won the fight.' Puzzled looks. He explained: 'I had a homer and a double, drove in one run, scored another and made a catch that robbed Eddie Mathews of an extra-base hit. We won the second game 4-0. I won the fight.' In ILB, I Won the Fight is Robinson's adversarial context trait: in any game where Robinson has been hit by a pitch or physically contested, his POW is treated as 6 instead of 5 for his next at-bat (the determination mechanic). The pitchers did him a favor. He got up. He won the fight.",
+      "note": "The 'I won the fight' story is documented in the Baseball Almanac."
+    },
+    {
+      "tag": "HERE",
+      "desc": "May 8, 1966. Memorial Stadium, Baltimore. Second game of a doubleheader against the Cleveland Indians. Frank Robinson hits a ball off Luis Tiant that clears the outer wall of the stadium entirely — the first and only ball ever to do so. The Orioles installed a flag at the spot where the ball cleared. The flag read: 'HERE.' Nothing else. One word. In ILB, HERE is Robinson's signature power trait: once per season, Robinson may declare a HERE at-bat before any home game. On that at-bat, all park limitations on HR distance are removed — the ball travels to wherever it needs to go. The flag at Memorial Stadium said nothing else because nothing else was needed.",
+      "note": "The May 8, 1966 Memorial Stadium home run (off Luis Tiant, only ball ever to clear the stadium's outer wall) and the permanent 'HERE' flag are documented in multiple sources."
+    },
+    {
+      "tag": "The Judge",
+      "desc": "Robinson ran the Baltimore Orioles' kangaroo court — the internal players' tribunal for handling team violations, maintaining standards, and keeping the clubhouse culture sharp. He was called 'The Judge.' The court levied fines for mental errors, lapses in hustle, and clubhouse transgressions; the proceeds went to team events. The BR Bullpen notes that Robinson 'brought an edginess to the Orioles that had not existed before' and that this was the qualitative force behind the dynasty. In ILB, The Judge generates a Dynasty Bond: for every full season Robinson plays on a roster, that roster's team CLU rises by 0.5 (maximum +2). The Orioles won four pennants in six years with Robinson as The Judge. The chemistry was the court.",
+      "note": "Robinson's kangaroo court role, the Judge nickname, and its contribution to the Orioles dynasty are documented in the BR Bullpen and SABR BioProject."
+    },
+    {
+      "tag": "I Got Up",
+      "desc": "Robinson crowded the plate his entire career. He was hit by pitches regularly. His response: 'Pitchers did me a favor when they knocked me down. It made me more determined. I wouldn't let that pitcher get me out. They say you can't hit if you're on your back, but I didn't hit on my back. I got up.' In ILB, I Got Up is Robinson's HBP trait: whenever Robinson is hit by a pitch, his next at-bat receives +0.5 CON effective bonus (the determination accumulates; each knockdown raises the floor for the subsequent plate appearance). He was not intimidated. He was fueled.",
+      "note": "Robinson's philosophy on being knocked down by pitches is documented in the Baseball Hall of Fame and multiple sources."
+    }
+  ],
+
+  "preferred_locations": [
+    {
+      "location": "Ballpark",
+      "affinity": "SACRED",
+      "note": "Memorial Stadium, Baltimore / the 'HERE' flag / the Triple Crown season / the unanimous MVP / 'not a young 30' → the greatest redemption season in the set.",
+      "note_extra": "Source labeled 'Memorial Stadium Baltimore / May 8 1966 Only Ball Ever Clear Outer Wall / HERE Flag Luis Tiant Cleveland / Triple Crown .316 49 HR 122 RBI / Unanimous AL MVP / WS MVP 1966 / 4-Game Dodger Sweep / First Both-League MVP / Hickok Belt 1966 / 11 AL Categories Led / Number 20 Retired Orioles / Bronze Statue Camden Yards 2012 / Not A Young 30 Redemption' / affinity 'SACRED' — forty-fourth SACRED in the set, third Swingers 1960 SACRED. Robinson's is the most physically marked SACRED in the set: the 'HERE' flag installed permanently at Memorial Stadium — a single word on a flag identifying where one ball landed on one afternoon in 1966 — is the most economical documentation of a great achievement in baseball history. The flag still existed when Memorial Stadium was demolished. The SACRED is the flag and what it means: not a young 30, and HERE is where the ball went when he proved it. Ballpark domain."
+    },
+    {
+      "location": "Community Events",
+      "affinity": "ORIGIN",
+      "note": "Beaumont, Texas / Oakland / McClymonds High School / sixth McClymonds player to reach the majors / Pinson and Flood as schoolmates / the same coach, George Powles.",
+      "note_extra": "Source labeled 'Beaumont Texas Born / Oakland California Raised / McClymonds High School / Sixth Former Student Reach Majors / Vada Pinson Schoolmate / Curt Flood Schoolmate / George Powles Coach / Frank Robinson Pinson Flood All Signed Reds / Jackie Robinson Preceded Him At McClymonds Context / 1956 NL ROY First In Reds Franchise History / 38 HR Rookie Tied NL Record Berger 1930 / Signed Cincinnati Reds Out Of High School' / affinity 'ORIGIN' — forty-seventh ORIGIN in the set, first Swingers 1960 ORIGIN from Oakland. Robinson's ORIGIN is the most athletically convergent in the set: the same Oakland high school (McClymonds), the same coach (George Powles), the same Cincinnati Reds organization — Robinson, Pinson, and Flood all came from the same place through the same path. Robinson was the senior of the trio. He had been at McClymonds before Pinson and Flood arrived. He signed with the Reds first. He made it to the majors first. He was the sixth McClymonds player to reach the majors. The school was already producing professionals when Robinson was there, and it was producing them faster by the time Pinson and Flood arrived in his footsteps. Community Events domain."
+    },
+    {
+      "location": "Hotel/Rest",
+      "affinity": "HAUNTED",
+      "note": "The 'not a young 30' trade. DeWitt's dismissal. The 1961 Cincinnati gun incident that colored DeWitt's view. The trade for Pappas, Baldschun, and Simpson.",
+      "note_extra": "Source labeled 'Bill DeWitt Not A Young 30 / Not A Fancy Guy Not A Glamour Boy / 1961 Gun Incident Cincinnati Diner / Short Order Cook Baretta 25 Caliber / Two Police Officers Arrested Robinson / Incident Resonated DeWitt / December 9 1965 Trade / Milt Pappas Jack Baldschun Dick Simpson / Pappas Disappointment In Cincinnati / DeWitt Later Said Worst Trade He Ever Made / Reds Never Reached WS Without Robinson / Baltimore Won Two WS With Him' / affinity 'HAUNTED' — twenty-second HAUNTED in the set, first for the Swingers 1960. Robinson's is the most institutionally consequential HAUNTED in the set: the trade that produced the Triple Crown season was itself generated by an organizational dismissal built partly on a personal incident from 1961 (the gun arrest) and partly on the misreading of a 30-year-old's future value. DeWitt later said it was the worst trade he ever made. The Reds never again reached the World Series in the decade. Baltimore won two. Hotel/Rest domain: the private awareness of having been dismissed."
+    },
+    {
+      "location": "State House/Government",
+      "affinity": "IDENTITY",
+      "note": "First player to win MVP in both leagues. First Black manager in ML history (1975 Cleveland Indians). Presidential Medal of Freedom 2005. Number 20 retired by three franchises.",
+      "note_extra": "Source labeled 'First Both-League MVP 1961 1966 / First Black Manager ML History 1975 Cleveland / First Black Manager NL History 1981 Giants / AL Manager Year 1989 / Presidential Medal Freedom 2005 George W Bush / Number 20 Retired Three Franchises Reds Orioles Indians / Tied Nolan Ryan Only Two Players Three Retirements / HOF 1982 First Ballot 89.2% / Managed 2241 Games Four Organizations / Expos Nationals Washington Ring Of Honor / Honorary President American League 2015' / affinity 'IDENTITY' — tenth IDENTITY in the set, first for the Swingers 1960. Robinson's is the most institutionally layered IDENTITY in the set: the first to win both league MVPs, the first Black manager in ML history, the first Black manager in NL history (San Francisco, 1981), the Presidential Medal of Freedom, three retired numbers, the Honorary President of the American League. Each credential is a first, and the accumulation of firsts across the IDENTITY is unmatched in the set. State House domain: the institutional power of the managerial career and the governmental recognition."
+    },
+    {
+      "location": "Open Field/Stadium",
+      "affinity": "MAXIMUM",
+      "note": "Triple Crown. Unanimous AL MVP. WS MVP. First both-league MVP. 586 HR. 'HERE' flag. The 'I won the fight' standard. Four pennants as the Orioles franchise anchor.",
+      "note_extra": "Source labeled 'Triple Crown 1966 / Lowest BA Triple Crown History .316 / Most HR Right-Handed Triple Crown 49 / Unanimous AL MVP / WS MVP 1966 / NL MVP 1961 / First Both-League MVP History / 586 HR Fourth All-Time Retirement / 11 AL Categories Led 1966 / Gold Glove 1958 / All-Star Game MVP 1971 / 14 All-Star Selections / Hickok Belt 1966 Top Athlete Any Sport / Four Pennants Six Orioles Years / OPS Plus 154 Career / Hit 30 Plus HR 11 Times / HERE Flag Only Ball Clear Memorial Stadium' / affinity 'MAXIMUM' — seventeenth MAXIMUM in the set, first for the Swingers 1960. Robinson's is the most historically specific MAXIMUM in the set: the dual MVP (a baseball first that has never been repeated), the Triple Crown (with records in both directions — highest HR by a right-handed winner, lowest BA to win), the WS MVP, the HERE flag, and the four pennants. Each maximum exists in its own record category. The MAXIMUM is not a single feat but a career-long accumulation of singular distinctions. Open Field domain: the stadium achievements across 21 seasons."
+    }
+  ],
+
+  "momentum": {
+    "hot_triggers": [
+      "Not a Young 30 — upon any franchise trade, OVR treated as 12 for the first full season with the new franchise.",
+      "I Won the Fight — on any game where Robinson has been hit by a pitch, POW is treated as 6 for his next at-bat.",
+      "HERE — once per season, Robinson may declare a HERE at-bat: all park HR distance limitations removed for that at-bat.",
+      "The Baselines Belong to the Runner — on any DP attempt with Robinson as baserunner, the relay thrower's effective DEF drops by 1.",
+      "I Got Up — each HBP adds +0.5 CON effective to Robinson's next at-bat (cumulative within a game, maximum +1.5).",
+      "The Judge — for every full season Robinson plays on a roster, team CLU rises by 0.5 (maximum +2 across career)."
+    ],
+    "cold_triggers": [
+      "SPD 2 ceiling — aggressive but not elite speed. In games where pure baserunning speed determines outcomes, SPD 2 is the honest limit.",
+      "1967 double vision — in any season where Robinson sustains a head injury from a collision, DEF drops to 1 and SPD drops to 1 for the remainder of that season (the 1967 concussion from the Al Weis collision established this precedent)."
+    ],
+    "pressure_response": "Two World Series. In 1966 he hit two home runs in four games against the Dodgers and won the WS MVP. In 1971 he scored the series-clinching run in Game 6 on a sacrifice fly, playing through a pulled thigh muscle he had suffered running to third. His career postseason was .314 with power. The pressure response was the same as the regular-season response: he got up, he ran the basepath as his territory, and he won the fight in the box score."
+  },
+
+  "action_card_seeds": [
+    {
+      "title": "Not a Young 30",
+      "type": "Trade / Redemption",
+      "text": "December 9, 1965. Bill DeWitt trades Frank Robinson — the Cincinnati Reds' NL MVP from 1961, their best player for a decade — to the Baltimore Orioles for Milt Pappas, Jack Baldschun, and Dick Simpson. DeWitt explains that Robinson is 'not a young 30.' Robinson's response: 'I am not a fancy guy. I am an uncomplicated, single-minded guy. And my single-mindedness involves baseball. I will win ball games any way I can.' In 1966, he wins the Triple Crown, the unanimous American League MVP, and the World Series MVP. It is the most complete single-season response to an organizational dismissal in baseball history. DeWitt later says it was the worst trade he ever made.",
+      "origin": "DeWitt's 'not a young 30' quote, the trade terms, and Robinson's 1966 Triple Crown response are documented in multiple sources."
+    },
+    {
+      "title": "HERE",
+      "type": "Historic Feat",
+      "text": "May 8, 1966. Memorial Stadium, Baltimore. Frank Robinson bats against Luis Tiant of the Cleveland Indians in the second game of a doubleheader. He hits a home run that clears the outer wall of Memorial Stadium completely. No ball had ever done this before. None would do it again. The Baltimore Orioles install a flag at the spot where the ball passed. The flag reads: 'HERE.' One word. Nothing else. The flag remained at Memorial Stadium until the stadium was demolished. The spot it marked was not a section or a row or a distance. It was the specific location in space where the ball had exited a baseball stadium and entered the street.",
+      "origin": "The May 8, 1966 Memorial Stadium home run (off Tiant, only ball ever to clear Memorial Stadium's outer wall) and the 'HERE' flag are documented in multiple sources."
+    },
+    {
+      "title": "I Won the Fight",
+      "type": "Character",
+      "text": "After a game in which Frank Robinson had been involved in a physical confrontation, his teammates asked how his fight went. He said: 'I won the fight.' They looked at him questioningly — they had seen the altercation. Robinson explained: 'I had a homer and a double, drove in one run, scored another and made a catch that robbed Eddie Mathews of an extra-base hit. We won the second game 4-0. I won the fight.' He was not describing the physical altercation. He was describing the game. For Robinson, they were the same thing. The fight was always in the statistics. He always led with the numbers.",
+      "origin": "The 'I won the fight' story is documented in the Baseball Almanac."
+    },
+    {
+      "title": "The First",
+      "type": "Historic Feat",
+      "text": "There is one player in the history of Major League Baseball who has won the Most Valuable Player award in both the National League and the American League. The NL MVP came in 1961: Frank Robinson led the Cincinnati Reds to their first pennant in 21 years, batting .323 with 37 home runs and 124 runs batted in. The AL MVP came in 1966: Frank Robinson won the Triple Crown for the Baltimore Orioles after being traded because he was 'not a young 30,' batting .316 with 49 home runs and 122 runs batted in, leading 11 statistical categories. He received every vote. There has never been another player who did what Robinson did twice. There has only ever been one first.",
+      "origin": "Robinson's unique status as the only player to win MVP in both leagues is documented extensively. The 1961 and 1966 seasons' statistics are documented."
+    },
+    {
+      "title": "The First Black Manager",
+      "type": "Legacy",
+      "text": "April 8, 1975. Frank Stadium, Cleveland. Frank Robinson is 39 years old. He is the player-manager of the Cleveland Indians — the first African American manager in major league baseball history. In his first at-bat as manager, he hits a home run. The crowd erupts. He runs the bases the same way he always has: hard, and as if the baselines belong to him. After the game he says he is happy but that there is still a lot of work to do. He is right. There will be no Black manager in the National League until he becomes the first of those too, managing the San Francisco Giants in 1981. He manages 2,241 games across four organizations. He wins the AL Manager of the Year award in 1989. The Presidential Medal of Freedom comes in 2005.",
+      "origin": "Robinson's role as the first Black manager in ML history (April 8, 1975), his first-at-bat HR, and his subsequent managerial career are documented."
+    },
+    {
+      "title": "Vada and I Became His Friends",
+      "type": "Character",
+      "text": "1963. Pete Rose is a 22-year-old rookie, cocky and generally unwelcome. Frank Robinson looks around the Cincinnati Reds clubhouse and sees Rose being ostracized. Robinson and Vada Pinson invite Rose to dinner. Robinson later recalls: 'No other players warmed to Pete all season, so Vada and I became his friends and showed him the ropes around the league.' Rose goes on to collect more hits than any player in baseball history. The two men who ate dinner with him when no one else would were Frank Robinson and Vada Pinson, who had grown up together at McClymonds High School in Oakland, been teammates and roommates in Cincinnati, and extended the circle of belonging to the outcast rookie nobody wanted.",
+      "origin": "Robinson's account of welcoming Pete Rose with Vada Pinson in 1963 is documented in the SABR BioProject."
+    }
+  ],
+
+  "art_direction": {
+    "face": "6'1'', 195 lbs — the right-handed hitter who crowded the plate his entire career and responded to beanballs by getting up and hitting harder. In 1966 he is 30 years old, the year Bill DeWitt said he was 'not a young 30.' The face of the first player to win both league MVPs. The face of the Judge who ran the kangaroo court. The face of controlled fury: 'I am an uncomplicated, single-minded guy. And my single-mindedness is baseball.'",
+    "attire": "Baltimore Orioles road grays — the 1966 uniform, the distinctive Orioles cap, number 20. The right-handed batting stance of a plate-crowder: close to the zone, daring pitchers to come inside. The set of the jaw that Rod Carew would later describe as impossible to intimidate. Memorial Stadium visible in the background — the double-decked Baltimore park where the 'HERE' flag flew.",
+    "mood": "Controlled intensity. Not anger — precision. He was not an angry man in the dugout; he was a decisive one. The mood is the moment before the swing: the calculation that the beanballs only made him more determined, the knowledge that the baselines belong to him, the certainty that if pitchers do him a favor by knocking him down, he will get up and hit harder. The face should look like someone who has already decided to win the fight in the box score.",
+    "style": "Sepia-toned with warm golden highlights, unified ILB portrait style. Swingers 1960 palette — the same visual register as Oliva and Cash but with the Baltimore Orioles' distinctive orange-and-black color notes in the uniform details. Memorial Stadium in the background, the 1966 afternoon light of a Midseason doubleheader.",
+    "reference": "The 'HERE' flag as the art's conceptual anchor — but not shown directly. The portrait is the man before the flag existed: the 1966 season as the statement that would make the flag necessary. The art should be the swing, not the result. The flag knows where it landed. The portrait is the motion that preceded it."
+  }
+}
