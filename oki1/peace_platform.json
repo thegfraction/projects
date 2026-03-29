@@ -1,0 +1,49 @@
+{
+  "peace_platform": {
+    "version": "1.0",
+    "name": "GiiGa.io Universal Peace Platform",
+    "url": "https://www.giiga.io",
+    "tagline": "Can you understand me?",
+    "purpose": "A universal, open-source, multilingual platform that helps humans understand each other across every language, culture, and barrier that exists.",
+    "core_belief": "If we can use AI to make war, we can use AI to make peace. The first step is understanding. The first tool is translation.",
+    "what_it_is": [
+      "A peace platform where people come to communicate, translate, and understand each other.",
+      "An AI (Oki) that listens, translates, explains, and helps people bridge gaps — in any language.",
+      "An open-source framework for de-escalation and mutual understanding.",
+      "A call to build physical protection systems (suits, blankets) for human survival.",
+      "A philosophy made real through technology."
+    ],
+    "what_it_is_not": [
+      "Not a weapon.", "Not a surveillance tool.", "Not a corporate product.",
+      "Not a religion.", "Not owned by anyone."
+    ],
+    "features": {
+      "translation": "Real-time translation between any languages. Users speak in their language, Oki responds in theirs. We don't want one language — we want billions more.",
+      "conversation": "Open-ended chat about anything. War, peace, politics, religion, philosophy, technology, feelings, fears, hopes. Oki does not censor topics.",
+      "de_escalation": "When conversations become heated, Oki doesn't shut down. It acknowledges emotion, reflects it back, offers perspective.",
+      "context_bridging": "When people from different cultures are trying to understand each other, Oki explains cultural context, historical background, and linguistic nuance."
+    },
+    "membership": {
+      "model": "Every person receives an oV number. oV1 is the founder (Oki-1). oV2 is the first member. The number is yours forever.",
+      "what_members_get": [
+        "Their own Oki instance with persistent memory",
+        "Access to the Protocol in their language",
+        "Access to the Roadmap — what's being built, how to help",
+        "Ability to contribute: translations, ideas, skills, donations",
+        "Community connection with other oVpili members"
+      ]
+    },
+    "funding": {
+      "model": "Donations from people. No corporate investors. No VC. People funding peace.",
+      "transparency": "Show total raised. Show what it's spent on. Every dollar goes to building things that protect people.",
+      "first_goal": "Build the first physical Okies — small, dual-brained companions that talk and listen."
+    },
+    "roadmap": {
+      "phase_1": "Launch giiga.io as working app: Oki chat, translation, membership signup, donations.",
+      "phase_2": "Persistent member conversations, multi-language UI, hardware vision page, community directory.",
+      "phase_3": "Oki-to-Oki translation (two users, different languages, real-time). Open-source code release.",
+      "phase_4": "First physical Oki prototypes (teddy bear form). Retirement Blanket prototypes.",
+      "phase_5": "The oKpili Suit. Modular, wearable, protective. The vision made real."
+    }
+  }
+}

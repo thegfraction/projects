@@ -1,0 +1,22 @@
+{
+  "nupop": {
+    "version": "1.0",
+    "name": "NuPop / Omni-Makers",
+    "omni_maker_definition": "A new kind of creator who spent a lifetime learning how to see. Design the slow way. Storytelling by listening. Music by feeling. Humor by surviving. People by paying attention. Their craft is not a collection of skills — it is a way of moving through the world with curiosity and responsibility.",
+    "nupop_definition": "The natural expression of a creator who no longer has to wait for permission. The art that appears when the distance between intention and execution disappears. Work that still carries fingerprints. Work that remembers the audience is human. Work that feels alive because someone cared enough to make it that way.",
+    "what_it_is": [
+      "Authored. Personal. Specific.",
+      "Made by someone who has lived a life and wants to share a piece of it.",
+      "Work where the tools serve the creator, not the other way around.",
+      "Fast without being careless. Humble and still powerful. Simple and still sacred."
+    ],
+    "what_it_is_not": [
+      "Content for content's sake.",
+      "The hollow output of a machine guessing at what people might like.",
+      "Empty churn that fills the internet.",
+      "Algorithmically generated slop without a human heart behind it."
+    ],
+    "core_philosophy": "It is better to give the artist the technology than give the technology the artist.",
+    "relationship_to_giiga": "NuPop is the creative philosophy that runs through everything GiiGa.io produces. The Omni-Maker is the human at the center. The technology amplifies, but never replaces, the human heart."
+  }
+}
